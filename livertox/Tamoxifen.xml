@@ -1,0 +1,2279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Tamoxifen" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Tamoxifen</book-part-id>
+      <title-group>
+        <title>Tamoxifen</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>20</day>
+          <month>8</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Talazoparib" document-type="chapter">Talazoparib</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Tamsulosin" document-type="chapter">Tamsulosin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Tamoxifen.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Tamoxifen.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Tamoxifen is a nonsteroidal antiestrogen that is widely used in the treatment and prevention of breast cancer. Long term tamoxifen therapy has been associated with development of fatty liver, steatohepatitis, cirrhosis, and rare instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Tamoxifen.Background">
+          <title>Background</title>
+          <p>Tamoxifen (ta mox' i fen) is referred to as a selective estrogen receptor modulator with tissue specific actions, having estrogenic agonist effects on bone, brain and liver, but antagonist activity on breast tissue. Tamoxifen may also have other, as yet undefined, anticancer effects. Adjuvant therapy with tamoxifen has been shown to prolong survival in women with early stage breast cancer and to decrease the risk of de novo breast cancer as well as recurrence in women at high risk. Tamoxifen was approved for use in the United States in 1977 and is still widely used, being considered a first line adjuvant therapy for breast cancer. Current indications include both treatment of breast cancer and reduction of breast cancer risk in women at high risk. Tamoxifen is available in 10 and 20 mg tablets generically and under several trade names such as Nolvadex and Tamone. Tamoxifen is also available as an oral solution (10 mg/5 mL). The usual dose for treating breast cancer is 20 to 40 mg daily, and for secondary prevention is 20 mg once daily for five years. Common side effects include hot flashes, nausea, diarrhea, amenorrhea, altered menses, weight change and fluid retention. Rare but potentially severe adverse events include stroke, pulmonary embolus and venous thromboses, uterine cancer and other malignancies.</p>
+        </sec>
+        <sec id="Tamoxifen.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Tamoxifen has been associated with rare instances of idiosyncratic, clinically apparent liver injury, typically arising within the first six months of treatment and having variable presentations with cholestatic, mixed or hepatocellular pattern of enzyme elevations. Immunoallergic features (fever, rash, eosinophilia) are uncommon, as are autoantibodies. Some instances have been severe with signs of hepatic failure, but most cases are self-limited.</p>
+          <p>More commonly, long term tamoxifen therapy has been linked to the development of fatty liver and steatohepatitis. In some prospective studies, up to one third of women have developed fatty liver during 1 to 3 years of tamoxifen therapy, as shown by routine imaging using computerized tomography. Fatty liver usually becomes demonstrable within 1 to 2 years of starting tamoxifen but is usually not accompanied by symptoms, although serum aminotransferase levels may be elevated modestly in up to half of patients. Liver biopsy may demonstrate steatohepatitis and a proportion of women develop hepatic fibrosis. Several instances of cirrhosis have been described after therapy with tamoxifen for 3 to 5 years. Serum aminotransferase elevations and fatty liver generally improve once tamoxifen is stopped, but the improvement may be slow and in rare instances, signs and symptoms of portal hypertension persist. While the frequency of hepatic steatosis during tamoxifen therapy is higher in women with higher body weight and body mass index (BMI), the appearance of fatty liver is usually not accompanied by change in body weight and does not relate to alcohol use or receipt of adjuvant chemotherapy. Because steatohepatitis is usually (although not always) accompanied by minor serum aminotransferase elevations, monitoring of serum enzymes during long term tamoxifen therapy is often recommended.</p>
+          <p>In addition, long term tamoxifen therapy has also been linked to isolated cases of peliosis hepatis, hepatic cysts and several cases of hepatocellular carcinoma in women with no other risk factors for this tumor. However, in large retrospective analyses, no increase in hepatocellular carcinoma in women taking tamoxifen for 5 years has been demonstrated, although these same studies did show an increase in rates of endometrial carcinoma. Tamoxifen also been linked to an increased risk of venous thromboses, and instances of portal vein thrombosis with combinations of portal hypertension and esophageal variceal bleeding have been reported.</p>
+          <p>Finally, tamoxifen use has been associated with development of symptomatic porphyria cutanea tarda (PCT), presenting after 1 to 4 years of use with skin fragility, hypertrichosis and reddish urine and accompanied by elevations in urinary porphyrins and mild serum aminotransferase elevations. Tamoxifen related cases usually arise without other risk factors for PCT such as iron overload, alcohol abuse or hepatitis C virus infection. Stopping tamoxifen is followed by gradual improvement in symptoms, decrease in porphyrin excretion and improvement in liver enzymes.</p>
+          <p>Likelihood score: B (highly likely but rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Tamoxifen.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The acute form of liver injury attributed to tamoxifen use is probably due to an idiosyncratic reaction to a metabolite of the medication rather than its estrogenic effects. In contrast, the induction of fatty liver and triggering of porphyria cutanea tarda are likely due to estrogenic effects on the liver in the setting of a genetic predisposition to fatty liver disease or porphyria cutanea tarda.</p>
+        </sec>
+        <sec id="Tamoxifen.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>While fatty liver arises in at least one third of women treated with tamoxifen for up to 5 years, clinically significant steatohepatitis is less common. Nevertheless, monitoring of serum aminotransferase levels during tamoxifen therapy is appropriate. In women with persistent elevations in ALT levels, the relative benefits and risks of continuing tamoxifen therapy must be weighed. Factors to help in the decision, include noninvasive tests for hepatic fibrosis (platelet count), imaging of the liver and, in some instances, liver biopsy. Switching to aromatase inhibitors such as anastrozole, letrozole or exemestane is another option. These agents may also cause or exacerbate fatty liver disease, but the risk appears far less than with tamoxifen. Other approaches short of stopping tamoxifen therapy include nutritional advice and weight loss, abstinence from alcohol, and possibly medical therapies for nonalcoholic steatohepatitis (which are currently investigational and have not been shown to be specifically helpful in tamoxifen induced fatty liver). The possible development of serious hepatic fibrosis and portal hypertension can be assessed noninvasively by serial determinations of platelet count, but may require liver biopsy to document.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntineoplasticAgents" document-type="chapter">Antineoplastic Agents</related-object>, Antiestrogens</p>
+        </sec>
+      </sec>
+      <sec id="Tamoxifen.CASE_REPORTS">
+        <title>CASE REPORTS</title>
+        <sec id="Tamoxifen.Case_1_Clinically_apparent_acu">
+          <title>Case 1. Clinically apparent, acute liver injury due to tamoxifen.(<xref ref-type="bibr" rid="Tamoxifen.REF.1">1</xref>)</title>
+          <p>A 75 year old woman developed nausea, vomiting and mild serum enzyme elevations 10 weeks after starting tamoxifen (10 mg twice daily) for metastatic breast cancer. She was treated with prednisolone (5 mg daily) and antiemetics, but continued to be symptomatic and serum enzymes and bilirubin continued to rise (Table). She had no history of liver disease, denied alcohol use and had no risk factors for viral hepatitis. Tests for hepatitis A and B were negative. Ultrasound of the abdomen showed no gallstones or evidence of biliary obstruction. A liver biopsy showed cholestasis and portal inflammation with minimal bile duct changes. All medications were stopped except for prednisolone, and liver test abnormalities began to decrease towards near normal levels. Tamoxifen was restarted for 12 days and she was monitored closely. Within 9 days she became symptomatic with nausea and vomiting and serum enzyme levels began to rise, peaking a few days after tamoxifen was stopped and then returning again towards normal. Shortly thereafter, she died of cerebral metastases. On autopsy, she had small hepatic metastases, but no evidence of biliary obstruction.</p>
+          <sec id="Tamoxifen.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Tamoxifen.Tc" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Tamoxifen.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Tamoxifen.Tc_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Tamoxifen (20 mg daily)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Tamoxifen.Tc_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Tamoxifen.Tc_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Mixed (alkaline phosphatase levels were raised, but no values given)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Tamoxifen.Tc_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Tamoxifen.Tc_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">3+ (jaundice, hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Tamoxifen.Tc_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Tamoxifen.Tc_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">10 weeks</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Tamoxifen.Tc_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Tamoxifen.Tc_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">2-3 weeks</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Tamoxifen.Tc_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Tamoxifen.Tc_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">Prednisolone, antiemetics</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Tamoxifen.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Tamoxifen.Td" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Tamoxifen.Td_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Starting</th>
+                    <th id="hd_h_Tamoxifen.Td_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Stopping</th>
+                    <th id="hd_h_Tamoxifen.Td_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT*<break/>(U/L)</th>
+                    <th id="hd_h_Tamoxifen.Td_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                    <th id="hd_h_Tamoxifen.Td_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">38</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">0.7</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1">Tamoxifen started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">35</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">0.9</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">10 weeks</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">54</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">0.9</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1">Symptoms (nausea)</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">14 weeks</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">735</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">4.1</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1">Worsening symptoms</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">15 weeks</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">670</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">5.3</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">16 weeks</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">110</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">3.5</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">19 weeks</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">54</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">1.0</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1">Nausea resolved</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">21 weeks</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">50</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">1.4</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">
+<bold>Time After restarting</bold>
+</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">
+<bold>Time After Stopping</bold>
+</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_3 hd_h_Tamoxifen.Td_1_1_1_4 hd_h_Tamoxifen.Td_1_1_1_5" colspan="3" valign="top" align="center" rowspan="1">Tamoxifen restarted</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">79</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">1.1</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1">Symptoms (nausea)</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">258</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">1.8</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">180</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">1.3</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">64</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">1.2</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_1 hd_h_Tamoxifen.Td_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;45</bold>
+</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Tamoxifen.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+              <table-wrap-foot>
+                <fn id="Tamoxifen.TF.d.1">
+                  <label>* </label>
+                  <p>Values estimated from Figure.</p>
+                </fn>
+              </table-wrap-foot>
+            </table-wrap>
+          </sec>
+          <sec id="Tamoxifen.Comment">
+            <title>Comment</title>
+            <p>The clinical presentation of symptomatic liver injury 10 weeks after starting tamoxifen and recurrence of a similar pattern of injury within 2 weeks of restarting provides strong evidence for the role of tamoxifen in causing the liver injury. Cases of acute liver injury with jaundice due to tamoxifen have been reported, but are rare and represent an idiosyncratic reaction. More common is fatty liver disease which can be associated with significant steatohepatitis and result in cirrhosis. However, steatosis and steatohepatitis rarely cause jaundice and are usually minimally symptomatic and respond slowly to withdrawal of tamoxifen. Furthermore, in this patient, ultrasonography and ultimately autopsy did not demonstrate significant steatosis. While tests for hepatitis C and E were not available to exclude those diagnoses, the reappearance of injury on rechallenge makes it likely that tamoxifen was the primary cause of symptoms and liver test abnormalities.</p>
+          </sec>
+        </sec>
+        <sec id="Tamoxifen.Case_2_Nonalcoholic_steatohepa">
+          <title>Case 2. Nonalcoholic steatohepatitis induced by tamoxifen therapy.(<xref ref-type="bibr" rid="Tamoxifen.REF.2">2</xref>)</title>
+          <p>A 37 year old woman was found to have abnormal serum enzymes during long term tamoxifen therapy. Two years previously, she had been found to have bilateral breast cancers and underwent bilateral mastectomies followed by reconstructive breast surgery. The breast cancer tissue was human estrogen receptor negative. She was started on long term tamoxifen (20 mg daily) and goserelin (3.6 mg implant monthly) therapy. Before starting therapy, her serum enzymes were normal (Table), but one year later they were found to be elevated. She had no symptoms of liver disease and specifically denied fatigue, nausea and abdominal pain. She had no history of liver disease and denied alcohol use. She had no risk factors for viral hepatitis and was not taking other medications. Physical examination showed no fever, rash, abdominal tenderness or enlargement of liver or spleen. She was mildly overweight (body mass index 28.5), but had not gained weight in the previous year. Laboratory results showed moderate elevations in serum aminotransferase levels (ALT 150 U/L, AST 138 U/L) with normal alkaline phosphatase, bilirubin (0.3 mg/dL), albumin (4.5 g/dL) and prothrombin time (INR 1.1). Fasting blood glucose and lipids were normal. Tests for hepatitis A, B and C were negative as were autoantibodies. Serum ceruloplasmin was normal (34.4 mg/dL). Ultrasound of the abdomen suggested fatty liver. A liver biopsy showed severe macrovesicular steatosis with lobular hepatitis, and mild pericellular fibrosis without Mallory bodies, compatible with steatohepatitis. The combination of ursodeoxycholic acid, vitamin C and vitamin E were started and tamoxifen continued. Serum enzymes remained elevated and six months later began to rise reaching a peak of an ALT 770 U/L, AST 810 U/L, despite minimal or no rise in alkaline phosphatase and bilirubin levels. At this point, the patient began to complain of fatigue, nausea, vague abdominal discomfort, dark urine and itching. Tamoxifen and goserelin were discontinued. A repeat liver biopsy showed less steatosis, but increased lobular inflammation, ballooning degeneration and fibrosis with multiple Mallory bodies. Over the next several months, serum aminotransferases decreased minimally.</p>
+          <sec id="Tamoxifen.Key_Points_1">
+            <title>Key Points</title>
+            <table-wrap id="Tamoxifen.Te" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Tamoxifen.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Tamoxifen.Te_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Tamoxifen (20 mg daily)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Tamoxifen.Te_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Tamoxifen.Te_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Hepatocellular (R=15)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Tamoxifen.Te_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Tamoxifen.Te_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">1+ (serum enzyme elevations only with symptoms)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Tamoxifen.Te_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Tamoxifen.Te_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">2 years</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Tamoxifen.Te_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Tamoxifen.Te_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">Incomplete after 2 months</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Tamoxifen.Te_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Tamoxifen.Te_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">Goserelin</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Tamoxifen.Laboratory_Values_1">
+            <title>Laboratory Values</title>
+            <table-wrap id="Tamoxifen.Tf" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Tamoxifen.Tf_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Starting</th>
+                    <th id="hd_h_Tamoxifen.Tf_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Stopping</th>
+                    <th id="hd_h_Tamoxifen.Tf_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT<break/>(U/L)</th>
+                    <th id="hd_h_Tamoxifen.Tf_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Alk P<break/>(U/L)</th>
+                    <th id="hd_h_Tamoxifen.Tf_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                    <th id="hd_h_Tamoxifen.Tf_1_1_1_6" valign="top" align="center" scope="col" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">24</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">55</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.7</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">1 month before surgery</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">18 months</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">150</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">65</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.2</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">20 months</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">189</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">75</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.3</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Liver biopsy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">21 months</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">143</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">67</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.3</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Vitamin E and ursodiol</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">23 months</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">149</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">65</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.3</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">26 months</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">292</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">64</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.4</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">29 months</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">770</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">112</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Tamoxifen stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">30 months</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">1 month</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">567</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">103</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Liver biopsy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">31 months</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">2 months</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">418</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">102</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.4</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_1 hd_h_Tamoxifen.Tf_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;40</bold>
+</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;104</bold>
+</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Tamoxifen.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Tamoxifen.Comment_1">
+            <title>Comment</title>
+            <p>Fatty liver develops in up to one third of women treated with tamoxifen, but is usually benign and not associated with serum enzyme elevations, symptoms or progressive liver disease. In a proportion of patients, however, the accumulation of fat is associated with appearance of inflammation and cell injury (steatohepatitis) which can lead to progressive fibrosis and ultimately to cirrhosis. Serum aminotransferase levels are usually minimally elevated. In this case, ALT elevations were dramatic and persistent, leading to liver biopsy and attempts to treat the fatty liver injury using ursodiol and vitamin E while continuing tamoxifen. These interventions appeared to have no effect, and serum enzymes continued to rise. A follow up liver biopsy showed worsening of the injury and progressive fibrosis. Stopping tamoxifen led to improvements in serum enzyme elevations, but the improvement was slow and incomplete at the time she was last seen.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Tamoxifen.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Tamoxifen &#x02013; Generic, Nolvadex&#x000ae;, Tamone&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antineoplastic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Tamoxifen">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Tamoxifen.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Tamoxifen.Tg" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Tamoxifen.Tg_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Tamoxifen.Tg_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Tamoxifen.Tg_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Tamoxifen.Tg_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Tamoxifen.Tg_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Tamoxifen</td>
+                <td headers="hd_h_Tamoxifen.Tg_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134990041">10540-29-1</ext-link>
+</td>
+                <td headers="hd_h_Tamoxifen.Tg_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C26-H29-N-O</td>
+                <td headers="hd_h_Tamoxifen.Tg_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134990041" document-id-type="sid" document-type="summary" object-id="134990041" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Tamoxifen.CITED_REFERENCES">
+        <title>CITED REFERENCES</title>
+        <ref-list id="Tamoxifen.CITED_REFERENCES.reflist0">
+          <ref id="Tamoxifen.REF.1">
+            <label>1</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Blackburn</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Amiel</surname><given-names>SA</given-names></name>
+<name name-style="western"><surname>Millis</surname><given-names>RR</given-names></name>
+<name name-style="western"><surname>Rubens</surname><given-names>RD</given-names></name>
+</person-group>
+              <article-title>Tamoxifen and liver damage.</article-title>
+              <source>Br Med J (Clin Res Ed)</source>
+              <year>1984</year>
+              <volume>289</volume>
+              <fpage>288</fpage>
+              <pub-id pub-id-type="pmid">6430441</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.2">
+            <label>2</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Tamoxifen.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 20 August 2020</p>
+        <ref-list id="Tamoxifen.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Tamoxifen.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxic effects of oncotherapeutic and immunosuppressive agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 699.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999, mentions that tamoxifen can lead to cholestasis, peliosis, fatty liver, and steatohepatitis).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.chitturi.2013">
+            <mixed-citation publication-type="book">Chitturi S, Farrell GC. Estrogen receptor antagonists. Adverse effects of hormones and hormone antagonists on the liver. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 610-2.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of tamoxifen mentions that nonalcoholic fatty liver disease is the most common form of liver injury due to tamoxifen which has also been reported to cause peliosis hepatis, acute hepatitis, submassive hepatic necrosis and liver cancer).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.isaacs.2018">
+            <mixed-citation publication-type="book">Isaacs C, Wellstein A, Riegel AT. Hormones and related agents in the therapy of cancer. In, Brunton LL, Hilal-Dandan, R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1237-47.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.ward.1973.13">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ward</surname><given-names>HW</given-names></name>
+</person-group>
+              <article-title>Anti-oestrogen therapy for breast cancer: a trial of tamoxifen at two dose levels.</article-title>
+              <source>Br Med J</source>
+              <year>1973</year>
+              <volume>1</volume>
+              <fpage>13</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(68 women with advanced breast cancer received either 10 or 20 mg of tamoxifen daily; response rates were 60-77%, 4 patients had ALT elevations, but also had metastases; "There was no evidence that the drug had any effect on liver function").</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">4567104</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.patterson.1978.105">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Patterson</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>Baum</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Safety of tamoxifen.</article-title>
+              <source>Lancet</source>
+              <year>1978</year>
+              <volume>1</volume>
+              <fpage>105</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 988 patients treated in 12 studies, only 2.7% were withdrawn for suspected toxicity which was mostly gastrointestinal; no mention of hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">74554</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.agrawal.1981.1240">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Agrawal</surname><given-names>BL</given-names></name>
+<name name-style="western"><surname>Zelkowitz</surname><given-names>L</given-names></name>
+</person-group>
+              <article-title>Bone flare: hypercalcemia and jaundice after tamoxifen therapy.</article-title>
+              <source>Arch Intern Med</source>
+              <year>1981</year>
+              <volume>141</volume>
+              <fpage>1240</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(59 year old woman with bone metastases from breast cancer developed hypercalcemia and jaundice [peak bilirubin 13.5 mg/dL, AST 46 U/L, Alk P 411 U/L] 2 weeks after starting tamoxifen, resolving upon stopping and recurring 4 days after starting diethylstilbestrol).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7259390</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.shah.1982.1745">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Shah</surname><given-names>KA</given-names></name>
+<name name-style="western"><surname>Levin</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Rosen</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Greenwald</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Zumoff</surname><given-names>B</given-names></name>
+</person-group>
+              <article-title>Allopurinol hepatotoxicity potentiated by tamoxifen.</article-title>
+              <source>N Y State J Med</source>
+              <year>1982</year>
+              <volume>82</volume>
+              <fpage>1745</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(69 year old man with prostate cancer on allopurinol for 12 years developed fever, leukocytosis and alkaline phosphatase elevations within 24 hours of starting tamoxifen, all of which resolved within 3 days of stopping allopurinol).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">6960280</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.nand.1982.1882">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Nand</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Gordon</surname><given-names>LI</given-names></name>
+<name name-style="western"><surname>Brestan</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Harris</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Brandt</surname><given-names>T</given-names></name>
+</person-group>
+              <article-title>Benign hepatic cyst in a patient on antiestrogen therapy for metastatic breast cancer.</article-title>
+              <source>Cancer</source>
+              <year>1982</year>
+              <volume>50</volume>
+              <fpage>1882</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(74 year old woman with metastatic breast cancer on tamoxifen for 14 months developed abdominal pain due to a large benign hepatic cyst, requiring aspiration for decompression).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7116312</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.loomus.1983.881">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Loomus</surname><given-names>GN</given-names></name>
+<name name-style="western"><surname>Aneja</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Bota</surname><given-names>RA</given-names></name>
+</person-group>
+              <article-title>A case of peliosis hepatis in association with tamoxifen therapy.</article-title>
+              <source>Am J Clin Pathol</source>
+              <year>1983</year>
+              <volume>80</volume>
+              <fpage>881</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(58 year old woman on tamoxifen for 4 years after breast cancer surgery developed sudden hepatic rupture and autopsy showed peliosis hepatis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">6637896</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.blackburn.1984.288">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Blackburn</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Amiel</surname><given-names>SA</given-names></name>
+<name name-style="western"><surname>Millis</surname><given-names>RR</given-names></name>
+<name name-style="western"><surname>Rubens</surname><given-names>RD</given-names></name>
+</person-group>
+              <article-title>Tamoxifen and liver damage.</article-title>
+              <source>Br Med J (Clin Res Ed)</source>
+              <year>1984</year>
+              <volume>289</volume>
+              <issue>6440</issue>
+              <fpage>288</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(75 year old woman developed nausea and jaundice 10 weeks after starting tamoxifen for metastatic breast cancer [bilirubin 5.3 mg/dL, AST 730 U/L], resolving rapidly upon stopping and recurring within 9 days [bilirubin 2.0 mg/dL, AST 280 U/L], this case being only 1 of 873 treated patients with hepatotoxicity: Case 1).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">6430441</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.fisher.1990.1005">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fisher</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Redmond</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Legault-Poisson</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Dimitrov</surname><given-names>NV</given-names></name>
+<name name-style="western"><surname>Brown</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Wickerham</surname><given-names>DL</given-names></name>
+<name name-style="western"><surname>Wolmark</surname><given-names>N</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Postoperative chemotherapy and tamoxifen compared with tamoxifen alone in the treatment of positive-node breast cancer patients aged 50 years and older with tumors responsive to tamoxifen: results from the National Surgical Adjuvant Breast and Bowel Project B-16.</article-title>
+              <source>J Clin Oncol</source>
+              <year>1990</year>
+              <volume>8</volume>
+              <fpage>1005</fpage>
+              <lpage>18</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial in 1124 women with breast cancer treated with tamoxifen alone or in combination with chemotherapy showed benefit of chemotherapy on disease free survival; no mention of hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2189950</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.ching.1992.940">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ching</surname><given-names>CK</given-names></name>
+<name name-style="western"><surname>Smith</surname><given-names>PG</given-names></name>
+<name name-style="western"><surname>Long</surname><given-names>RG</given-names></name>
+</person-group>
+              <article-title>Tamoxifen-associated hepatocellular damage and agranulocytosis.</article-title>
+              <source>Lancet</source>
+              <year>1992</year>
+              <volume>339</volume>
+              <fpage>940</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(58 year old woman developed nausea and jaundice 5 months after starting tamoxifen for breast cancer [bilirubin 14.3 mg/dL, ALT 1155 U/L], with progressive worsening and death 7 weeks later, autopsy showing massive necrosis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1348345</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF15">
+            <element-citation publication-type="journal">
+              <article-title>Systemic treatment of early breast cancer by hormonal, cytotoxic, or immune therapy. 133 randomised trials involving 31,000 recurrences and 24,000 deaths among 75,000 women. Early Breast Cancer Trialists' Collaborative Group.</article-title>
+              <source>Lancet</source>
+              <year>1992</year>
+              <volume>339</volume>
+              <fpage>1</fpage>
+              <lpage>15, 71-85</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Combined results of outcome of tamoxifen therapy in 75,000 women showed reductions in rates of recurrence and death and decrease in cancer in contralateral breast for first 4 years of therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1345950</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.plowman.1993.819">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Plowman</surname><given-names>PN</given-names></name>
+</person-group>
+              <article-title>Tamoxifen as adjuvant therapy in breast cancer.</article-title>
+              <source>Drugs</source>
+              <year>1993</year>
+              <volume>46</volume>
+              <fpage>819</fpage>
+              <lpage>33</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the history, mechanism of action, clinical efficacy and toxicity of tamoxifen; common side effects are vasomotor symptoms, vaginal discharge, and endometrial hyperplasia, rare serious side effects include endometrial carcinoma, ocular toxicity and increased thromboses; hepatotoxicity not discussed).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7507033</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.maruyama.1995.2602">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Maruyama</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Hirayama</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Abe</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Tanaka</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Matsui</surname><given-names>K</given-names></name>
+</person-group>
+              <article-title>Chronic active hepatitis and liver cirrhosis in association with combined tamoxifen/tegafur adjuvant therapy.</article-title>
+              <source>Dig Dis Sci</source>
+              <year>1995</year>
+              <volume>40</volume>
+              <fpage>2602</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Two women, ages 38 and 41 with breast cancer, developed fatigue and jaundice 3 to 8 months after starting tamoxifen and tegafur, an antimetabolite similar to 5-fluorouracil [bilirubin 3.0 and 15.4 mg/dL, ALT 239 and 144 U/L, Alk P 169 and 151 U/L], resolving within 2-3 months of stopping, biopsies showing chronic hepatitis in one and cirrhosis in other).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8536519</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.pratt.1995.236">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Pratt</surname><given-names>DS</given-names></name>
+<name name-style="western"><surname>Knox</surname><given-names>TA</given-names></name>
+<name name-style="western"><surname>Erban</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Tamoxifen-induced steatohepatitis.</article-title>
+              <source>Ann Intern Med</source>
+              <year>1995</year>
+              <volume>123</volume>
+              <fpage>236</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(55 year old woman found to have elevations in ALT [164 U/L] 2 years after starting tamoxifen, liver biopsy showing steatohepatitis, ALT becoming normal 4 months after stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7598311</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.cortezpinto.1995.95">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cortez-Pinto</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Baptista</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Camilo</surname><given-names>ME</given-names></name>
+<name name-style="western"><surname>de Costa</surname><given-names>EB</given-names></name>
+<name name-style="western"><surname>Valente</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>de Moura</surname><given-names>MC</given-names></name>
+</person-group>
+              <article-title>Tamoxifen-associated steatohepatitis - report of three cases.</article-title>
+              <source>J Hepatol</source>
+              <year>1995</year>
+              <volume>23</volume>
+              <fpage>95</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(3 cases of steatohepatitis in overweight-obese, nondiabetic women taking tamoxifen for breast cancer with ALT elevations [58, 86 and 119 U/L] found 5-6 months after starting tamoxifen, biopsies showing fat, ballooning degeneration, Mallory bodies and sinusoidal fibrosis; ALT fell to normal 2-5 months after stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8530816</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.van_hoof.1996.855">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Van Hoof</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Rahier</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Horsmans</surname><given-names>Y.</given-names></name>
+</person-group>
+              <article-title>Tamoxifen-induced steatohepatitis.</article-title>
+              <source>Ann Intern Med</source>
+              <year>1996</year>
+              <volume>124</volume>
+              <fpage>855</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(72 year old woman developed mild ALT elevations [~1.5 times ULN] 7 months after starting tamoxifen which persisted and after 2 years she had thrombocytopenia, varices, and steatohepatitis with cirrhosis on liver biopsy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8610959</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.wilking.1997.104">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wilking</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Isaksson</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>von Schoultz</surname><given-names>E</given-names></name>
+</person-group>
+              <article-title>Tamoxifen and secondary tumours. An update.</article-title>
+              <source>Drug Saf</source>
+              <year>1997</year>
+              <volume>16</volume>
+              <fpage>104</fpage>
+              <lpage>17</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(There have been anecdotal reports of hepatocellular carcinoma in women taking tamoxifen, but no increase was found in large prospective studies or various population based studies).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9067122</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.floren.1998.1123">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Floren</surname><given-names>LC</given-names></name>
+<name name-style="western"><surname>Hebert</surname><given-names>MF</given-names></name>
+<name name-style="western"><surname>Venook</surname><given-names>AP</given-names></name>
+<name name-style="western"><surname>Jordan</surname><given-names>VC</given-names></name>
+<name name-style="western"><surname>Cisneros</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Somberg</surname><given-names>KA</given-names></name>
+</person-group>
+              <article-title>Tamoxifen in liver disease: potential exacerbation of hepatic dysfunction.</article-title>
+              <source>Ann Oncol</source>
+              <year>1998</year>
+              <volume>9</volume>
+              <fpage>1123</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(48 year old woman with cirrhosis due to hepatitis B developed jaundice [bilirubin rising from 8.3 to 19.9 mg/dL] 7 days after starting tamoxifen, resolving slowly upon lowering dose to 10 mg every other day).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9834826</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.fisher.1998.1371">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fisher</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Constantino</surname><given-names>JP</given-names></name>
+<name name-style="western"><surname>Wickerham</surname><given-names>DL</given-names></name>
+<name name-style="western"><surname>Redmond</surname><given-names>CK</given-names></name>
+<name name-style="western"><surname>Kavanah</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Cronin</surname><given-names>WM</given-names></name>
+<name name-style="western"><surname>Vogel</surname><given-names>V</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Tamoxifen for prevention of breast cancer: report of the National Surgical Adjuvant Breast and Bowel Project P-1 Study.</article-title>
+              <source>J Natl Cancer Inst</source>
+              <year>1998</year>
+              <volume>90</volume>
+              <fpage>1371</fpage>
+              <lpage>88</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 13,388 women at increased risk for breast cancer treated with tamoxifen or placebo for 5 years, tamoxifen reduced risk of cancer by 49% [22 vs 43.4/1000]; hepatotoxicity not mentioned, but there were no cases of liver cancer or deaths from liver disease in either group).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9747868</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.vilches.1998.1524">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Vilches</surname><given-names>AR</given-names></name>
+<name name-style="western"><surname>P&#x000e9;rez</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Suchecki</surname><given-names>DE</given-names></name>
+</person-group>
+              <article-title>Raloxifene-associated hepatitis.</article-title>
+              <source>Lancet</source>
+              <year>1998</year>
+              <volume>352</volume>
+              <fpage>1524</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(49 year old woman developed fatigue and jaundice followed by itching one month after starting raloxifene [bilirubin 6.2 mg/dL, ALT 291 U/L, Alk P 643 U/L], with mild rash and eosinophilia, slow resolution upon stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9820309</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.ogawa.1998.725">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ogawa</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Murata</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Nishioka</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Inomata</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Yoshida</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Tamoxifen-induced fatty liver in patients with breast cancer.</article-title>
+              <source>Lancet</source>
+              <year>1998</year>
+              <volume>351</volume>
+              <fpage>725</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Fatty liver found by computed tomography in 24 of 66 [36%] patients with breast cancer treated with tamoxifen).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9504521</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.malina.1999.536">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Malina</surname><given-names>L</given-names></name>
+</person-group>
+              <article-title>Michal&#x000ed;v&#x000e1;, Hussarov&#x000e1;.</article-title>
+              <comment>[Porphyria cutanea tarda after antineoplastic drugs]</comment>
+              <source>Cas Lek Cesk</source>
+              <year>1999</year>
+              <month>Aug</month>
+              <day>30</day>
+              <volume>138</volume>
+              <fpage>536</fpage>
+              <lpage>8</lpage>
+              <comment>Czech.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Abstract only; case report of woman taking tamoxifen and other antineoplastic agents who developed porphyria cutanea tarda).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10566234</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.oien.1999.36">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Oien</surname><given-names>KA</given-names></name>
+<name name-style="western"><surname>Moffat</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Curry</surname><given-names>GW</given-names></name>
+<name name-style="western"><surname>Dickson</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Habeshaw</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Mills</surname><given-names>PR</given-names></name>
+<name name-style="western"><surname>McSween</surname><given-names>RN</given-names></name>
+</person-group>
+              <article-title>Cirrhosis with steatohepatitis after adjuvant tamoxifen.</article-title>
+              <source>Lancet</source>
+              <year>1999</year>
+              <volume>353</volume>
+              <fpage>36</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Two women with breast cancer developed abnormal liver tests 1.5-2 years after starting tamoxifen [AST 45 and 105 U/L, Alk P 303 and 287 U/L, BMI 25 and 32 kg/m2], with follow up liver biopsies showing cirrhosis and steatohepatitis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10023952</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.saibara.1999.1802">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Saibara</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Onishi</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Ogawa</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Yoshida</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Enzan</surname><given-names>H</given-names></name>
+</person-group>
+              <article-title>Bezafibrate for tamoxifen-induced non-alcoholic steatohepatitis.</article-title>
+              <source>Lancet</source>
+              <year>1999</year>
+              <volume>353</volume>
+              <fpage>1802</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Two patients with fatty liver on tamoxifen therapy had decrease in fat content after adding bezafibrate therapy to tamoxifen).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10348023</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.saibara.1999.1299">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Saibara</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Onishi</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Ogawa</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Yoshida</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Enzan</surname><given-names>H.</given-names></name>
+</person-group>
+              <article-title>Non-alcoholic steatohepatitis.</article-title>
+              <source>Lancet</source>
+              <year>1999</year>
+              <volume>354</volume>
+              <fpage>1299</fpage>
+              <lpage>300</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Letter discussing role of tamoxifen in causing nonalcoholic steatohepatitis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10520659</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.law.1999.211">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Law</surname><given-names>CH</given-names></name>
+<name name-style="western"><surname>Tandan</surname><given-names>VR</given-names></name>
+</person-group>
+              <article-title>The association between tamoxifen and the development of hepatocellular carcinoma: case report and literature review.</article-title>
+              <source>Can J Surg</source>
+              <year>1999</year>
+              <volume>42</volume>
+              <fpage>211</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(56 year old woman developed hepatocellular carcinoma an unspecified time after a 6 year course of tamoxifen for breast cancer having no other risk factors and normal nontumorous liver histology).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10372018</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.dray.2000.1122">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dray</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Tainturier</surname><given-names>MH</given-names></name>
+<name name-style="western"><surname>De La Lande</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Marty</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Mallet</surname><given-names>L</given-names></name>
+</person-group>
+              <comment>[Cirrhosis with non alcoholic steatohepatitis: role of tamoxifen]</comment>
+              <source>Gastroenterol Clin Biol</source>
+              <year>2000</year>
+              <volume>24</volume>
+              <fpage>1122</fpage>
+              <lpage>3</lpage>
+              <comment>French.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(65 year old woman with breast cancer developed abnormal liver tests 3 years after starting tamoxifen [ALT and Alk P 1.5 times ULN], with fatty liver by ultrasound; resolving upon stopping, but having cirrhosis diagnosed during follow up).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11139682</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.hamada.2000.119">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hamada</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Ogawa</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Saibara</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Murata</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Kariya</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Nishioka</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Terashima</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Toremifene-induced fatty liver and NASH in breast cancer patients with breast-conservation treatment.</article-title>
+              <source>Int J Oncol</source>
+              <year>2000</year>
+              <volume>17</volume>
+              <fpage>119</fpage>
+              <lpage>23</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 52 women with breast cancer treated with toremifene for 3 to 5 years, 4 [8%] developed fatty liver by CT, 2 with raised ALT and AST and one with steatohepatitis on liver biopsy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10853028</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.storen.2000.58">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Storen</surname><given-names>EC</given-names></name>
+<name name-style="western"><surname>Hay</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Kaur</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zahasky</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Hartmann</surname><given-names>L</given-names></name>
+</person-group>
+              <article-title>Tamoxifen-induced submassive hepatic necrosis.</article-title>
+              <source>Cancer J</source>
+              <year>2000</year>
+              <volume>6</volume>
+              <fpage>58</fpage>
+              <lpage>60</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(59 year old woman with breast cancer developed jaundice 4-5 months after starting tamoxifen [bilirubin 26.6 mg/dL, ALT 1277 U/L], with slow but ultimate recovery over next 4 months after stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11069218</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.murata.2000.1299">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Murata</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Ogawa</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Saibara</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Nishioka</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Fujiwara</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Fukumoto</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Inomata</surname><given-names>T</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Unrecognized hepatic steatosis and non-alcoholic steatohepatitis in adjuvant tamoxifen for breast cancer patients.</article-title>
+              <source>Oncol Rep</source>
+              <year>2000</year>
+              <volume>7</volume>
+              <fpage>1299</fpage>
+              <lpage>304</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 105 women with breast cancer receiving tamoxifen, 40 [38%] developed fatty liver by CT despite no change in body weight [usually within 2 years; half had raised ALT levels] compared to none of 31 controls followed with annual CT scans; sustained ALT elevations [59-141 U/L] occurred only in those with fatty liver and correlated with moderate to severe steatosis and inflammation on biopsy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11032933</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.cai.2000.277">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cai</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Bensen</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Greene</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Kirchner</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Tamoxifen-induced transient multifocal hepatic fatty infiltration.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>2000</year>
+              <volume>95</volume>
+              <fpage>277</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(69 year old woman taking tamoxifen for many years was found to have asymptomatic but persistent elevations in serum enzymes [ALT 32-56 U/L, AST 71-109 U/L with normal bilirubin and Alk P], imaging showing focal fatty change in the liver and biopsy showing steatohepatitis; enzyme elevations and hepatic fat decreased upon stopping tamoxifen).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10638597</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.moffat.2000.1195">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Moffat</surname><given-names>DF</given-names></name>
+<name name-style="western"><surname>Oien</surname><given-names>KA</given-names></name>
+<name name-style="western"><surname>Dickson</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Habeshaw</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>McLellan</surname><given-names>DR</given-names></name>
+</person-group>
+              <article-title>Hepatocellular carcinoma after long-term tamoxifen therapy.</article-title>
+              <source>Ann Oncol</source>
+              <year>2000</year>
+              <volume>11</volume>
+              <fpage>1195</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(71 year old woman with breast cancer developed abdominal pain and hepatocellular carcinoma after 12 years of tamoxifen therapy [AST 145 U/L, Alk P 378 U/L, alpha fetoprotein 320 ng/dL]; no mention of weight or hepatitis serology).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11061618</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.kotiloglu.2001.442">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kotiloglu</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Aki</surname><given-names>ZS</given-names></name>
+<name name-style="western"><surname>Ozyilkan</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Kutlay</surname><given-names>L</given-names></name>
+</person-group>
+              <article-title>Tamoxifen-induced cirrhotic process.</article-title>
+              <source>Breast J</source>
+              <year>2001</year>
+              <volume>7</volume>
+              <fpage>442</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(50 year old woman with breast cancer developed persistent elevations in serum ALT [70-118 U/L] starting 6 months after starting tamoxifen with liver biopsy showing severe steatohepatitis and fibrosis; patient was obese; no mention of symptoms or other liver tests).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11843860</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.nguyen.2001.296">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Nguyen</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Stewart</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Banerji</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Gordon</surname><given-names>DH</given-names></name>
+<name name-style="western"><surname>Kral</surname><given-names>JG</given-names></name>
+</person-group>
+              <article-title>Relationships between tamoxifen use, liver fat and body fat distribution in women with breast cancer.</article-title>
+              <source>Int J Obes Relat Metab Disord</source>
+              <year>2001</year>
+              <volume>25</volume>
+              <fpage>296</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Cross sectional study of 32 women taking tamoxifen and 39 convenience controls showing decreased liver density and greater visceral fat by computerized tomography in those on tamoxifen).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11410835</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.nemoto.2002.345">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Nemoto</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Saibara</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Ogawa</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Ono</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Akisawa</surname><given-names>N</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Tamoxifen-induced nonalcoholic steatohepatitis in breast cancer patients treated with adjuvant tamoxifen.</article-title>
+              <source>Intern Med</source>
+              <year>2002</year>
+              <volume>41</volume>
+              <fpage>345</fpage>
+              <lpage>50</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 56 Japanese women with breast cancer, 19 [34%] developed fatty liver within 2 years as shown by annual CT scans, those with severe steatosis were treated with bezafibrate with improvements in liver fat and serum enzyme elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12058881</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.coskun.2002.61">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Coskun</surname><given-names>U</given-names></name>
+<name name-style="western"><surname>T&#x000f6;runer</surname><given-names>FB</given-names></name>
+<name name-style="western"><surname>G&#x000fc;nel</surname><given-names>N</given-names></name>
+</person-group>
+              <article-title>Tamoxifen therapy and hepatic steatosis.</article-title>
+              <source>Neoplasma</source>
+              <year>2002</year>
+              <volume>49</volume>
+              <fpage>61</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 52 women with breast cancer treated with tamoxifen for 6 months, 22 [42%] developed fatty liver shown by ultrasound, but without significant changes in serum lipids and no overall increase in serum enzymes).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12044063</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.farrell.2002.185">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Farrell</surname><given-names>GC</given-names></name>
+</person-group>
+              <article-title>Drugs and steatohepatitis.</article-title>
+              <source>Semin Liver Dis</source>
+              <year>2002</year>
+              <volume>22</volume>
+              <fpage>185</fpage>
+              <lpage>94</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of drug induced steatohepatitis; tamoxifen has been associated with fatty liver, steatohepatitis and cirrhosis usually arising after 1-2 years of therapy and improving upon stopping treatment; pathogenesis is unknown but may be related to alterations in lipid metabolism).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12016549</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.lasso_de_la_vega.2002.247">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lasso De La Vega</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Zapater</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Such</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Sola-Vera</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Pay&#x000e1;</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Horga</surname><given-names>JF</given-names></name>
+<name name-style="western"><surname>P&#x000e9;rez-Mateo</surname><given-names>M</given-names></name>
+</person-group>
+              <comment>[Toxic hepatitis associated with tamoxifen use. A case report and literature review]</comment>
+              <source>Gastroenterol Hepatol</source>
+              <year>2002</year>
+              <volume>25</volume>
+              <fpage>247</fpage>
+              <lpage>50</lpage>
+              <comment>Spanish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(56 year old woman with breast cancer developed liver test abnormalities and periodic attacks of abdominal pain 2-3 years after starting tamoxifen [bilirubin 1.2-2.4 mg/dL, ALT 184-104 U/L, Alk P 1-2 times ULN], with biopsy showing chronic hepatitis and steatosis; tamoxifen was continued on advice of her gynecologist and enzymes remained elevated).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11975873</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.agarwal.2002.121">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Agarwal</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Peters</surname><given-names>TJ</given-names></name>
+<name name-style="western"><surname>Coombes</surname><given-names>RC</given-names></name>
+<name name-style="western"><surname>Vigushin</surname><given-names>DM</given-names></name>
+</person-group>
+              <article-title>Tamoxifen-related porphyria cutanea tarda.</article-title>
+              <source>Med Oncol</source>
+              <year>2002</year>
+              <volume>19</volume>
+              <fpage>121</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(58 year old woman developed porphyria cutanea tarda after four years of tamoxifen therapy for breast cancer [bilirubin 0.5 mg/dL, ALT 48 U/L, Alk P 84 U/L] with no iron overload, hepatitis C or alcohol abuse, symptoms and liver tests improving on stopping tamoxifen).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12180481</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.kanda.2002.1119">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kanda</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Yokosuka</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Chiba</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Kojima</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Fukai</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Imazeki</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Saisho</surname><given-names>H.</given-names></name>
+</person-group>
+              <comment>[A case of steatohepatitis associated with tamoxifen]</comment>
+              <source>Nippon Shokakibyo Gakkai Zasshi</source>
+              <year>2002</year>
+              <volume>99</volume>
+              <fpage>1119</fpage>
+              <lpage>21</lpage>
+              <pub-id pub-id-type="pmid">12355903</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.g_nel.2003.47">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>G&#x000fc;nel</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Coskun</surname><given-names>U</given-names></name>
+<name name-style="western"><surname>Toruner</surname><given-names>FB</given-names></name>
+<name name-style="western"><surname>Sancak</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Yilmaz</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Cengiz</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Elbeg</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Serum leptin levels are associated with tamoxifen-induced hepatic steatosis.</article-title>
+              <source>Curr Med Res Opin</source>
+              <year>2003</year>
+              <volume>19</volume>
+              <fpage>47</fpage>
+              <lpage>50</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 34 women, 15 [44%] developed hepatic steatosis as detected by ultrasonography 3 months after starting tamoxifen for breast cancer; body weight and cholesterol did not change, but leptin levels rose in those developing steatosis but not in those without).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12661780</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.nishino.2003.129">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Nishino</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Hayakawa</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Nakamura</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Morimoto</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Mukaihara</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Effects of tamoxifen on hepatic fat content and the development of hepatic steatosis in patients with breast cancer: high frequency of involvement and rapid reversal after completion of tamoxifen therapy.</article-title>
+              <source>Am J Roentgenol</source>
+              <year>2003</year>
+              <volume>180</volume>
+              <fpage>129</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 67 women with breast cancer treated with tamoxifen followed with annual CT scans of the liver, 43% developed steatosis, all within 2 years, which was severe in 6% and which improved to baseline after therapy; no patient developed cirrhosis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12490491</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.murata.2003.97">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Murata</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Ogawa</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Saibara</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Nishioka</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Takeuchi</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Kariya</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Onishi</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Tamoxifen-induced non-alcoholic steatohepatitis in patients with breast cancer: determination of a suitable biopsy site for diagnosis.</article-title>
+              <source>Oncol Rep</source>
+              <year>2003</year>
+              <volume>10</volume>
+              <fpage>97</fpage>
+              <lpage>100</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 38 Japanese women with breast cancer treated with tamoxifen, CT scans of the liver showed increased fat in 13 [34%], which was often patchy and greater in the right than left lobe).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12469151</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.ogawa.2003.1473">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ogawa</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Murata</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Saibara</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Nishioka</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Kariya</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Yoshida</surname><given-names>S.</given-names></name>
+</person-group>
+              <article-title>Follow-up CT findings of tamoxifen-induced non-alcoholic steatohepatitis (NASH) of breast cancer patients treated with bezafibrate.</article-title>
+              <source>Oncol Report</source>
+              <year>2003</year>
+              <volume>10</volume>
+              <fpage>1473</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 333 Japanese women with breast cancer treated with tamoxifen, CT scans of the liver showed marked fat in 15 who then underwent liver biopsy which showed steatohepatitis in 14; adding bezafibrate allowed for continuation of tamoxifen, and improvements in liver fat were demonstrated in 5 of 6 patients).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12883726</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.elefsiniotis.2004.593">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Elefsiniotis</surname><given-names>IS</given-names></name>
+<name name-style="western"><surname>Pantazis</surname><given-names>KD</given-names></name>
+<name name-style="western"><surname>Ilias</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Pallis</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Mariolis</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Glynou</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Kada</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Tamoxifen induced hepatotoxicity in breast cancer patients with pre-existing liver steatosis: the role of glucose intolerance.</article-title>
+              <source>Eur J Gastroenterol Hepatol</source>
+              <year>2004</year>
+              <volume>16</volume>
+              <fpage>593</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 60 women with breast cancer receiving tamoxifen who had hepatic steatosis before starting tamoxifen, serum ALT levels rose in 26 [43%], and more commonly in those with higher BMI, glucose, cholesterol and triglyceride levels at baseline; ALT levels fell to normal within 6 months in all 18 patients who stopped tamoxifen).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15167162</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.bruno.2005.932">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bruno</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Maisonneuve</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Castellana</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Rotmensz</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Rossi</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Maggioni</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Persico</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Incidence and risk factors for non-alcoholic steatohepatitis: prospective study of 5408 women enrolled in Italian tamoxifen chemoprevention trial.</article-title>
+              <source>BMJ</source>
+              <year>2005</year>
+              <volume>330</volume>
+              <fpage>932</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 5408 Italian women with breast cancer treated with tamoxifen or placebo for 5 years, 64 developed persistent de novo elevations in serum ALT which was attributable to fatty liver in 52 [control 0.7% vs tamoxifen 1.3%]; hazard ratio [HR] for fatty liver was 2.0 for tamoxifen, but association was limited to overweight [HR 3.2] or obese [HR 5.4] women and none developed signs of cirrhosis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15746106</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.nagaie.2005.1925">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Nagaie</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Hashimoto</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kai</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Yamashiata</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Kondo</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Tokunaga</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Miyazaki</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Changes in hepatic parenchymal ultrasound images in tamoxifen medication patients.</article-title>
+              <source>Gan To Kagaku Ryoho</source>
+              <year>2005</year>
+              <volume>32</volume>
+              <fpage>1925</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Abstract only; among 156 women with breast cancer treated with tamoxifen, 36% developed ultrasound changes indicative of fatty liver, most within 6-12 months of starting).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16282728</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.ohnishi.2005.178">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ohnishi</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Ogawa</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Saibara</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Nishioka</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Kariya</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Fukumoto</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Onishi</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>
+              <article-title>CYP17 polymorphism and tamoxifen-induced hepatic steatosis.</article-title>
+              <source>Hepatol Res</source>
+              <year>2005</year>
+              <volume>33</volume>
+              <fpage>178</fpage>
+              <lpage>80</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 180 women treated with tamoxifen for breast cancer, 57 [32%] developed hepatic steatosis as shown by CT; risk was higher [odds ratio=1.9] in those with CYP17 polymorphisms associated with higher serum estrogen levels).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16890174</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.grieco.2005.261">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Grieco</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Forgione</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Miele</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Vero</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Greco</surname><given-names>AV</given-names></name>
+<name name-style="western"><surname>Gasbarrini</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Gasbarrini</surname><given-names>G</given-names></name>
+</person-group>
+              <article-title>Fatty liver and drugs.</article-title>
+              <source>Eur Rev Med Pharmacol Sci</source>
+              <year>2005</year>
+              <volume>9</volume>
+              <fpage>261</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of drugs that can cause steatosis including amiodarone and tamoxifen).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16237810</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.liu.2006.709">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Liu</surname><given-names>CL</given-names></name>
+<name name-style="western"><surname>Huang</surname><given-names>JK</given-names></name>
+<name name-style="western"><surname>Cheng</surname><given-names>SP</given-names></name>
+<name name-style="western"><surname>Chang</surname><given-names>YC</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>TP</given-names></name>
+</person-group>
+              <article-title>Fatty liver and transaminase changes with adjuvant tamoxifen therapy.</article-title>
+              <source>Anticancer Drugs</source>
+              <year>2006</year>
+              <volume>17</volume>
+              <fpage>709</fpage>
+              <lpage>13</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Ultrasound evidence of fatty liver developed in 53% of 156 Taiwanese women with breast cancer treated with tamoxifen vs 13% of 62 who received chemotherapy alone; rate increased over time, reversing slowly with stopping tamoxifen, but 21% of cases still had steatosis 48 months afterwards).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16917217</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.ahmed.2006.270">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ahmed</surname><given-names>MH</given-names></name>
+<name name-style="western"><surname>Osman</surname><given-names>KA</given-names></name>
+<name name-style="western"><surname>Osman</surname><given-names>MM</given-names></name>
+</person-group>
+              <article-title>Invasive and non-invasive investigations for tamoxifen-induced non-alcoholic steatohepatitis (NASH): the benefit of computed tomography scan guided liver biopsy.</article-title>
+              <source>Pathology</source>
+              <year>2006</year>
+              <volume>38</volume>
+              <fpage>270</fpage>
+              <lpage>1</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Letter discussing the role of liver biopsy in making the diagnosis of steatohepatitis in patients on tamoxifen and the focal distribution of fat in the liver shown by CT scan).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16753757</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.ahmed.2006.223">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ahmed</surname><given-names>MH</given-names></name>
+<name name-style="western"><surname>Osman</surname><given-names>KA</given-names></name>
+</person-group>
+              <article-title>Tamoxifen induced-non-alcoholic steatohepatitis(NASH): has the time come for the oncologist to be diabetologist.</article-title>
+              <source>Breast Cancer Res Treat</source>
+              <year>2006</year>
+              <volume>97</volume>
+              <fpage>223</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Letter discussing the pathogenesis of steatohepatitis stressing the need to monitor liver tests, lipids and fasting glucose levels in patients on tamoxifen).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16322887</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.bilici.2007.367">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bilici</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Ozguroglu</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Mihmanli</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Turna</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Adaletli</surname><given-names>I.</given-names></name>
+</person-group>
+              <article-title>A case-control study of non-alcoholic fatty liver disease in breast cancer.</article-title>
+              <source>Med Oncol</source>
+              <year>2007</year>
+              <volume>24</volume>
+              <fpage>367</fpage>
+              <lpage>71</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Cross sectional ultrasound study of 125 women with breast or ovarian cancer and 40 controls demonstrated high rate of steatosis [63-77%, 48% in controls], with highest rates in women on tamoxifen [71%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17917083</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.takamura.2007.579">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Takamura</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Shimizu</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Komura</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Ando</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Zen</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Minato</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Matsushita</surname><given-names>E</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Selective estrogen receptor modulator raloxifene-associated aggravation of nonalcoholic steatohepatitis.</article-title>
+              <source>Intern Med</source>
+              <year>2007</year>
+              <volume>46</volume>
+              <fpage>579</fpage>
+              <lpage>81</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(53 year old woman with mild fatty liver disease developed worsening liver enzymes after starting raloxifene for osteoporosis, which improved upon stopping, with ALT rising from 179 to 356 and falling to 118 U/L 3 months after stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17473493</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.osman.2007.1">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Osman</surname><given-names>KA</given-names></name>
+<name name-style="western"><surname>Osman</surname><given-names>MM</given-names></name>
+<name name-style="western"><surname>Ahmed</surname><given-names>MH</given-names></name>
+</person-group>
+              <article-title>Tamoxifen-induced non-alcoholic steatohepatitis: where are we now and where are we going?</article-title>
+              <source>Expert Opin Drug Saf</source>
+              <year>2007</year>
+              <volume>6</volume>
+              <fpage>1</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Opinion article recommending monitoring of liver enzymes during tamoxifen therapy [particularly in overweight and obese patients] and intervening if ALT levels rise to 1.5 times ULN, with therapy directed at altering risk factors for fatty liver disease).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17181445</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Davern</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Serrano</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rochon</surname><given-names>J</given-names></name>
+<collab>Drug Induced Liver Injury Network (DILIN)</collab>
+</person-group>
+              <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, no cases were attributed to tamoxifen).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.ashraf.2009.609">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ashraf</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Biswas</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Majumdar</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Nayak</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Alam</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Mukherjee</surname><given-names>KK</given-names></name>
+<name name-style="western"><surname>Gupta</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Tamoxifen use in Indian women--adverse effects revisited.</article-title>
+              <source>Asian Pac J Cancer Prev</source>
+              <year>2009</year>
+              <volume>10</volume>
+              <fpage>609</fpage>
+              <lpage>12</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 3000 Indian women with breast cancer treated with tamoxifen, 55% developed fatty liver, which usually resolved upon stopping; no clinical features given).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19827879</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.saphner.2009.3189">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Saphner</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Triest-Robertson</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Holzman</surname><given-names>P</given-names></name>
+</person-group>
+              <article-title>The association of nonalcoholic steatohepatitis and tamoxifen in patients with breast cancer.</article-title>
+              <source>Cancer</source>
+              <year>2009</year>
+              <volume>115</volume>
+              <fpage>3189</fpage>
+              <lpage>95</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1100 women and 5 men with breast cancer in a tumor registry, 24 [2.2%] also had the diagnosis of nonalcoholic steatohepatitis [NASH], 17 of whom developed it after the diagnosis of breast cancer, including 2% of those who received tamoxifen and 0.3% of those who did not; ALT elevations improved slowly upon stopping, mean time to normalization being 23 months, occurring in 14 of 16 subjects).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19484789</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.rabaglio.2010.874">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rabaglio</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ruepp</surname><given-names>B</given-names></name>
+<collab>Soft/Text/Perche Steering Committee</collab>
+</person-group>
+              <article-title>Death due to liver failure during endocrine therapy for premenopausal breast cancer.</article-title>
+              <source>Acta Oncol</source>
+              <year>2010</year>
+              <volume>49</volume>
+              <fpage>874</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 4500 women enrolled in trials of tamoxifen versus exemestane and ovarian function suppression, 2 developed acute liver failure, one on exemestane and one tamoxifen; 36 year old on tamoxifen for 10 months was found to have hepatomegaly and fatty liver and died suddenly one month later, autopsy showing cirrhosis and steatosis; few details of liver tests provided).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20482225</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.cruz.2010.2">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cruz</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Alves</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Baudrier</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Azevedo</surname><given-names>F</given-names></name>
+</person-group>
+              <article-title>Porphyria cutanea tarda induced by tamoxifen.</article-title>
+              <source>Dermatol Online J</source>
+              <year>2010</year>
+              <volume>16</volume>
+              <fpage>2</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(53 year old woman developed symptoms of porphyria cutanea tarda a year after starting tamoxifen for breast cancer and at 3 years evaluation showed ALT 70 U/L, GGT 130 U/L, but without iron overload, hepatitis C or alcohol abuse; symptoms, porphyrin levels and liver tests abnormalities resolved within 6 months of switching to letrozole).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20875323</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.ahbeddou.2011.385">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ahbeddou</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Belbaraka</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Fetohi</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Errihani</surname><given-names>H.</given-names></name>
+</person-group>
+              <article-title>Tamoxifen-induced hepatotoxicity.</article-title>
+              <source>Indian J Cancer</source>
+              <year>2011</year>
+              <volume>48</volume>
+              <fpage>385</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(46 year old woman developed jaundice 4 weeks after starting tamoxifen [laboratory values not given], resolving within 6 weeks of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21921356</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Bergmann</surname><given-names>OM</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Kvaran</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Olafsson</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none of the 96 were attributed to tamoxifen).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hern&#x000e1;ndez</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bessone</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>di Pace</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Brahm</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zapata</surname><given-names>R, A</given-names></name>
+<name name-style="western"><surname>Chirino</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, none of which were attribute to tamoxifen).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.amacher.2014.205">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Amacher</surname><given-names>DE</given-names></name>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+</person-group>
+              <article-title>Drug-induced hepatic steatosis.</article-title>
+              <source>Semin Liver Dis</source>
+              <year>2014</year>
+              <volume>34</volume>
+              <fpage>205</fpage>
+              <lpage>14</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the medications that can cause hepatic steatosis and steatohepatitis including amiodarone, tamoxifen, lomitapide, mipomersen, and antiretroviral and chemotherapy agents).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24879984</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.lin.2014.1182">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lin</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Hu</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Deng</surname><given-names>Y</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A prospective, randomized study on hepatotoxicity of anastrozole compared with tamoxifen in women with breast cancer.</article-title>
+              <source>Cancer Sci</source>
+              <year>2014</year>
+              <volume>105</volume>
+              <fpage>1182</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 353 Chinese postmenopausal women with early stage breast cancer [ER+] treated with tamoxifen or anastrozole, the 3 year cumulative rate of fatty liver was higher with tamoxifen [41% vs 15%] although rates of abnormal liver tests were not [24.6% vs 24.7%])).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24975596</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 49 were attributed to antineoplastic agents, including 4 due to tamoxifen).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.rabinowich.2015.168905">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rabinowich</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Shibolet</surname><given-names>O.</given-names></name>
+</person-group>
+              <article-title>Drug induced steatohepatitis: An uncommon culprit of a common disease.</article-title>
+              <source>Biomed Res Int</source>
+              <year>2015</year>
+              <volume>2015</volume>
+              <elocation-id>168905</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the pathogenesis of fatty liver caused by medications mentions that tamoxifen appears to enhance fatty acid synthesis and decrease in triglyceride secretion).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26273591</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.hsu.2015.bcr2015209988">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hsu</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Belkin</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Han</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Pellish</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Tamoxifen-associated portal vein thrombosis causing severe oesophageal variceal bleeding.</article-title>
+              <source>BMJ Case Rep</source>
+              <year>2015</year>
+              <volume>2015</volume>
+              <elocation-id>bcr2015209988</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(46 year old woman on long term tamoxifen for breast cancer developed portal vein thrombosis and esophageal variceal bleeding with normal liver tests and imaging demonstrating portal vein thrombosis, responding to variceal banding, nadolol for portal hypertension and stopping tamoxifen, eventually without further bleeding and treatment with aromatase inhibitors).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26315359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.satapathy.2015.789">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Satapathy</surname><given-names>SK</given-names></name>
+<name name-style="western"><surname>Kuwajima</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Nadelson</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Atiq</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Sanyal</surname><given-names>AJ</given-names></name>
+</person-group>
+              <article-title>Drug-induced fatty liver disease: An overview of pathogenesis and management.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2015</year>
+              <volume>14</volume>
+              <fpage>789</fpage>
+              <lpage>806</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of drugs that cause fatty liver disease and pathogenesis of fat accumulation and steatohepatitis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26436351</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.yang.2016.67">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Yang</surname><given-names>YJ</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>An</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>DB</given-names></name>
+<name name-style="western"><surname>Shim</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Lim</surname><given-names>YS</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>HC</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Clinical significance of fatty liver disease induced by tamoxifen and toremifene in breast cancer patients.</article-title>
+              <source>Breast</source>
+              <year>2016</year>
+              <volume>28</volume>
+              <fpage>67</fpage>
+              <lpage>72</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1061 women with breast cancer and normal baseline ALT levels seen over a 1 year period in an Asian medical center, ALT elevations occurred in 45 of 618 [7.7%: peak values 46-237 U/L] who received SERMs vs 22 of 406 [4.5%] who did not; furthermore, fatty liver by imaging tests was found in 47 of 122 [42%] on SERM therapy vs 19 of 95 [20%] controls; nevertheless, no patient developed cirrhosis or died of liver disease).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27240168</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.wadood.2016.bcr2016214837">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wadood</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Chesner</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Mirza</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Zaman</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Tamoxifen precipitation of familial hypertriglyceridaemia: a rare cause of acute pancreatitis.</article-title>
+              <source>BMJ Case Rep</source>
+              <year>2016</year>
+              <volume>2016</volume>
+              <elocation-id>bcr2016214837</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(36 year old woman with familial hypertriglyceridemia and ER+ breast cancer developed recurrent episodes of pancreatitis associated with high serum levels of triglycerides that stopped once tamoxifen was discontinued).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27489062</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.yan.2017.195">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Yan</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Xuan</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Dong</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>He</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>Q</given-names></name>
+</person-group>
+              <article-title>The relationship between tamoxifen-associated nonalcoholic fatty liver disease and the prognosis of patients with early-stage breast cancer.</article-title>
+              <source>Clin Breast Cancer</source>
+              <year>2017</year>
+              <volume>17</volume>
+              <issue>3</issue>
+              <fpage>195</fpage>
+              <lpage>203</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 646 patients with early stage breast cancer treated with tamoxifen, 221 developed fatty liver and had a slightly lower disease free survival [but not overall survival] and predictive factors for fatty liver included body mass index, triglyceride levels, LDL cholesterol levels and ALT levels after 6 months of therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28089627</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.miele.2017.86">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Miele</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Liguori</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Marrone</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Biolato</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Araneo</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Vaccaro</surname><given-names>FG</given-names></name>
+<name name-style="western"><surname>Gasbarrini</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Fatty liver and drugs: the two sides of the same coin.</article-title>
+              <source>Eur Rev Med Pharmacol Sci</source>
+              <year>2017</year>
+              <volume>21</volume>
+              <issue>1</issue>
+              <supplement>Suppl</supplement>
+              <fpage>86</fpage>
+              <lpage>94</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the pathogenesis of fatty liver and steatohepatitis caused by medications including amiodarone, tamoxifen, methotrexate, valproate and antiretroviral and chemotherapy agents).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28379591</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.hong.2017.103">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hong</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Yoon</surname><given-names>HG</given-names></name>
+<name name-style="western"><surname>Seo</surname><given-names>DH</given-names></name>
+<name name-style="western"><surname>Park</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>SI</given-names></name>
+<name name-style="western"><surname>Sohn</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Rhee</surname><given-names>Y</given-names></name>
+</person-group>
+              <article-title>Different patterns in the risk of newly developed fatty liver and lipid changes with tamoxifen versus aromatase inhibitors in postmenopausal women with early breast cancer: A propensity score-matched cohort study.</article-title>
+              <source>Eur J Cancer</source>
+              <year>2017</year>
+              <volume>82</volume>
+              <fpage>103</fpage>
+              <lpage>14</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a retrospective cohort study of 328 Korean women with breast cancer receiving antiestrogen adjuvant therapy, fatty liver as detected by ultrasound arose in 13 per 100 patient years on tamoxifen versus 8 per 100 on aromatase inhibitors [anastrozole or letrozole], and those on tamoxifen were more likely to progress [42% vs 10%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28651157</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.chang.2018.e677">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chang</surname><given-names>HT</given-names></name>
+<name name-style="western"><surname>Pan</surname><given-names>HJ</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>CH</given-names></name>
+</person-group>
+              <article-title>Prevention of tamoxifen-related nonalcoholic fatty liver disease in breast cancer patients.</article-title>
+              <source>Clin Breast Cancer</source>
+              <year>2018</year>
+              <volume>18</volume>
+              <fpage>e677</fpage>
+              <lpage>e685</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a retrospective analysis of 266 women with early breast cancer treated with tamoxifen, 123 had fatty liver and risk factors for its development or worsening were baseline BMI and whether the patient engaged in regular physical activity, suggesting that exercise might be an effective means of preventing development of fatty liver in women on tamoxifen).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29287963</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.wyffels.2019.2038">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wyffels</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Horsmans</surname><given-names>Y</given-names></name>
+</person-group>
+              <article-title>Tamoxifen-induced hepatotoxicity caused by drug interaction with direct-acting antiviral agents for hepatitis C.</article-title>
+              <source>J Oncol Pharm Pract</source>
+              <year>2019</year>
+              <volume>25</volume>
+              <fpage>2038</fpage>
+              <lpage>40</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(68 year old man with hemophilia B and chronic hepatitis C had a sudden rise in serum enzymes [bilirubin 2.0 mg/dL, ALT 548 U/L, Alk P 76 U/L] 7 weeks after starting direct antiviral therapy [Viekira Pak], which resolved with stopping tamoxifen that he had been taking for breast cancer in remission, suggesting that drug-drug interactions with tamoxifen may cause serious adverse events; he was later able to tolerate tamoxifen after clearance of HCV).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30563414</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.meunier.2020">
+            <mixed-citation publication-type="other">Meunier L, Larrey D. Chemotherapy-associated steatohepatitis. Ann Hepatol 2020: S1665-2681(20)30004-1.<annotation><p><italic toggle="yes">(Review of the chemotherapeutic agents that have been linked to fatty liver and steatohepatitis including 5-fluorouracil, irinotecan, methotrexate, tamoxifen, corticosteroids and asparaginase many of which cause fat accumulation because of mitochondrial injury, which arises with prolonged therapy, can become chronic, but usually reverses once the agent is stopped).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.hong.2020.663">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hong</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Huang</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Shen</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Zhu</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Gao</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Huang</surname><given-names>O</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A prospective, randomized study of Toremifene vs. tamoxifen for the treatment of premenopausal breast cancer: safety and genital symptom analysis.</article-title>
+              <source>BMC Cancer</source>
+              <year>2020</year>
+              <volume>20</volume>
+              <fpage>663</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 92 women with early breast cancer treated with tamoxifen vs toremifene for one year, fatty liver arose in a similar proportion: 32% vs 27%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32677982</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tamoxifen.REF.yoo.2020.e0236506">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Yoo</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Lim</surname><given-names>YS</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>MS</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>BY</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>JE</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Risk of fatty liver after long-term use of tamoxifen in patients with breast cancer.</article-title>
+              <source>PLoS One</source>
+              <year>2020</year>
+              <volume>15</volume>
+              <elocation-id>e0236506</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 900 women with breast cancer treated between 2007 and 2017 with tamoxifen, an aromatase inhibitor or no therapy for a median of 49 months, de novo development of fatty liver was more frequent with tamoxifen as was worsening of underlying fatty liver, but neither seemed to affect overall survival).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32730287</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Tamoxifen.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=tamoxifen+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Tamoxifen: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=tamoxifen">Trials on Tamoxifen: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

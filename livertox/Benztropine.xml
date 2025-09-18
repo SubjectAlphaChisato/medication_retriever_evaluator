@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Benztropine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Benztropine</book-part-id>
+      <title-group>
+        <title>Benztropine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>20</day>
+          <month>7</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="BenzodiazepineDrugs" document-type="chapter">Benzodiazepines</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Berberine" document-type="chapter">Berberine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Benztropine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Benztropine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Benztropine is an anticholinergic agent used predominantly in the symptomatic therapy of Parkinson disease and movement disorders. Benztropine has not been associated with serum enzyme elevations during treatment and has not been linked to cases of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Benztropine.Background">
+          <title>Background</title>
+          <p>Benztropine (benz' troe peen) is an anticholinergic agent that blocks the central cholinergic receptors helping to balance cholinergic transmission in the basal ganglia. Benztropine may also block dopamine reuptake and storage in central sites thus increasing dopaminergic activity. The exact mechanism(s) by which the anticholinergic agents are beneficial for symptoms of Parkinson disease is unknown. They are used largely in early Parkinsonism and as adjunctive therapy with levodopa or more potent antiparkinson disease agents. Benztropine was approved for use in the United States in 1954 and has been in common use since. Current indications include therapy of symptomatic Parkinson disease as well as drug induced extrapyramidal syndromes. Benztropine in parenteral forms is also used for therapy of acute dystonic reactions. Benztropine is available in tablets of 0.5, 1 and 2 mg, and in liquid solution for injection (2 mL ampoules; 1 mg/mL) in generic forms and under the brand name of Cogentin. The recommended dose is 0.5 to 6 mg daily. Common side effects are due to its anticholinergic activity and include nervousness, drowsiness, confusion, tachycardia, blurred vision, constipation, dry mouth, nausea and urinary retention.</p>
+        </sec>
+        <sec id="Benztropine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Benztropine has not been reported to cause serum aminotransferase elevations, but it has not been evaluated for effects on serum enzyme levels in a prospective manner. Despite its use for more than 50 years, there have been no reports of benztropine liver injury in the literature and it must be a very rare cause of liver injury, if it occurs at all. Absense of liver injury is typical of anticholinergic agents and may relate to the low doses used (less than 10 mg daily).</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntiparkinsonAgents">Antiparkinson Agents</related-object>, <related-object source-id="livertox" document-id="Anticholinergics">Anticholinergic Agents</related-object></p>
+          <p>Other Drugs in the Subclass, Anticholinergic Agents: <related-object source-id="livertox" document-id="Biperiden">Biperiden</related-object>, <related-object source-id="livertox" document-id="Trihexyphenidyl">Trihexyphenidyl</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Benztropine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Benztropine.BPI" orientation="portrait">
+          <p>
+<bold> REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Benztropine &#x02013; Generic, Cogentin&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Antiparkinson Agents</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Benztropine">COMPLETE LABELING</ext-link>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Benztropine.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Benztropine.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Benztropine.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Benztropine.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Benztropine.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Benztropine.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Benztropine.T1_1_1_1_1" rowspan="1" colspan="1">Benztropine</td>
+                <td headers="hd_h_Benztropine.T1_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134970777">86-13-5</ext-link>
+</td>
+                <td headers="hd_h_Benztropine.T1_1_1_1_3" rowspan="1" colspan="1">C21-H25-N-O</td>
+                <td headers="hd_h_Benztropine.T1_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Benztropine_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Benztropine Chemical Structure</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Benztropine.REFERENCES">
+        <title>REFERENCES</title>
+        <p>References updated: 20 July 2017</p>
+        <ref-list id="Benztropine.REFERENCES.reflist0">
+          <ref id="Benztropine.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Antiparkinsonism drugs. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 715-7.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; among anticholinergic agents, "only trihexyphenidyl has been incriminated in hepatic injury"; other antiparkinsonism drugs discussed include levodopa, lergotrile [no longer available], pergolide and bromocriptine).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Benztropine.R2">
+            <mixed-citation publication-type="other">Larrey D, Ripault MP. Hepatotoxicity of psychotropic drugs and drugs of abuse. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier Inc, 2013, pp. 443-62.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of agents acting on the central nervous system).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Benztropine.R3">
+            <mixed-citation publication-type="other">Standaert DG, Roberson ED. Treatment of central nervous system degenerative disorders. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 609-28.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Benztropine.R4">
+            <mixed-citation publication-type="journal">McDowell F. Symposium on levodopa in Parkinson's disease. Clinical and pharmacological aspects. Clinical laboratory abnormalities. Clin Pharmacol Ther 1971; 12: 335-9. <annotation><p><italic toggle="yes">(Retrospective analysis of laboratory abnormalities arising in 974 patients with Parkinson disease treated with levodopa; AST elevations occurred in 9% of 5427 determinations, but were usually mild and transient returning to normal in 1-2 months without dose adjustment; AST levels rose to 1600 U/L in one patient who later died of complications of diabetes).</italic></p></annotation><pub-id pub-id-type="pmid">4102803</pub-id></mixed-citation>
+          </ref>
+          <ref id="Benztropine.R5">
+            <mixed-citation publication-type="journal">Lambert D, Waters CH. Comparative tolerability of the newer generation antiparkinsonian agents. Drugs Aging 2000; 16: 55-65. <annotation><p><italic toggle="yes">(Review of mechanism of action, tolerability and safety of selegiline, pramipexole, ropinirole, tolcapone and entacapone in Parkinson disease).</italic></p></annotation><pub-id pub-id-type="pmid">10733264</pub-id></mixed-citation>
+          </ref>
+          <ref id="Benztropine.R6">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were attributed to agents used for Parkinson disease).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Benztropine.R7">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation, and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25,1425. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none of the 96 were attributed to an agent used to treat Parkinson disease).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Benztropine.R8">
+            <mixed-citation publication-type="journal">Drugs for Parkinson's disease. Treat Guidel Med Lett 2013; 11 (135): 101-6. <annotation><p><italic toggle="yes">(Concise review of recommendations for therapy of Parkinson disease with description of mechanisms of action, efficacy and adverse events). </italic></p></annotation><pub-id pub-id-type="pmid">24165688</pub-id></mixed-citation>
+          </ref>
+          <ref id="Benztropine.R9">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America: an analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes">(Among 176 reports of drug induced liver injury from Latin America published between 1996 and 2012, none were attributed to an agent to treat Parkinson disease).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Benztropine.R10">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury from the US enrolled in a prospective database between 2004 and 2012, none were attributed to an agent used to treat Parkinson disease).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Benztropine.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Benztropine/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Benztropine: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Benztropine">Trials on Benztropine: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

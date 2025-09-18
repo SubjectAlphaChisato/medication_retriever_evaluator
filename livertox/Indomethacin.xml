@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Indomethacin" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Indomethacin</book-part-id>
+      <title-group>
+        <title>Indomethacin</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>23</day>
+          <month>3</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Indinavir" document-type="chapter">Indinavir</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Inebilizumab" document-type="chapter">Inebilizumab: Short Chapter</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Indomethacin.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Indomethacin.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Indomethacin is a potent nonsteroidal antiinflammatory drug (NSAID) typically used for chronic inflammatory arthritis. Indomethacin has been associated with rare cases of idiosyncratic drug induced liver disease.</p>
+        </sec>
+        <sec id="Indomethacin.Background">
+          <title>Background</title>
+          <p>Indomethacin (in" doe meth' a sin) is a methylated indole and belongs to the acetic acid derivative class of NSAIDs. Like other NSAIDs, indomethacin has antipyretic, analgesic and antiinflammatory activities. The NSAIDs owe their therapeutic effects to the inhibition of intracellular cyclooxygenases (Cox-1 and Cox-2), resulting in decrease in synthesis of prostaglandins which are potent mediators of pain and inflammation. Indomethacin was approved for use in the United States in 1965 and it continues to be widely used, with more than 2.5 million prescriptions filled yearly. Indomethacin is indicated for management of various forms of chronic arthritis, including osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, and gouty arthritis, as well as acute shoulder pain and dysmenorrhea. Intravenous formulations of indomethacin are approved for the special indication of closure of patent ductus arteriosis in premature infants. Indomethacin is available by prescription as capsules of 25, 50 and 75 mg, in sustained release forms, as suppositories and as suspensions for oral use, in multiple generic forms as well as under several commercial names, including Indocin, Indochron, Indolar, Indo-Lemmon and Zendole. The recommended dosage in adults with chronic arthritis is 25 to 50 mg taken orally two to three times daily, increasing the dose until the symptoms are controlled or a maximum dose of 200 mg is reached. Injectible formulations of indomethacin are available in single dose 1 mg vials for intravenous use in premature infants with patent ducutus arteriosis. Non-hepatic side effects of indomethacin include headache, dizziness, somnolence, dyspepsia, abdominal discomfort, diarrhea, peripheral edema and hypersensitivity reactions.</p>
+        </sec>
+        <sec id="Indomethacin.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Mild and transient elevations in serum aminotransferase levels are found in up to 15% of patients taking indomethacin chronically. Moderate ALT elevations (&#x0003e;3 times ULN) occur in less than 1% of patients. Frank liver injury with jaundice from indomethacin is rare (estimated at 1.1 per 100,000 prescriptions), and fewer than a dozen cases have been reported in the literature. The latency to onset of symptoms or jaundice is variable, but is usually within 1 to 8 weeks of starting, although instances of latency of 4 to 6 months have been reported. Patients present with anorexia, nausea and vomiting followed by jaundice. Hepatocellular patterns of enzyme elevations are most common, but cholestatic and mixed patterns have been reported. Allergic manifestations and autoimmune features are not common. The injury is usually self-limited, resolving in 1 to 3 months, but several fatal cases have been reported (Case 1), particularly after use of high doses in patients with juvenile rheumatoid arthritis or Still disease. Many of the reported cases of severe indomethacin associated hepatotoxicity have occurred in patients with a pre-existing, underlying chronic liver disease.</p>
+          <p>Likelihood score: C (probable rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Indomethacin.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which indomethacin induces liver injury is not known, but is likely to be mediated by a toxic intermediate of its metabolism.</p>
+        </sec>
+        <sec id="Indomethacin.Severity_and_Recovery">
+          <title>Severity and Recovery</title>
+          <p>Drug induced liver injury from indomethacin is usually mild-to-moderate in severity and transient, but can progress to acute liver failure and death. In large case series, indomethacin is rarely mentioned as a cause of acute liver failure. Rechallenge may lead to recurrence and should be avoided. Cross sensitivity to hepatic injury among the various NSAIDs has not been well defined. After clinically apparent hepatic injury from indomethacin, acetic acid related NSAIDs (sulindac, diclofenac, etodolac, tolmetin among others) might best be avoided, and those belonging to other classes administered with caution.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="NonsteroidalAntiinfl">Nonsteroidal Antiinflammatory Drugs</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Indomethacin.CASE_REPORTS">
+        <title>CASE REPORTS</title>
+        <sec id="Indomethacin.Case_1._Acute_liver_failure">
+          <title>Case 1. Acute liver failure attributed to indomethacin therapy.</title>
+          <p>[Modified from: de Kraker-Sangster M, Bronkhorst FB, Brandt KH, Boersma JW. [Massive liver cell necrosis following administration of indomethacin in combination with aminophenzone] Ned Tijdschr Geneeskd 1981; 125: 1828-31. Dutch. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/7300940">PubMed Citation</ext-link></p>
+          <p>A 40 year old man developed jaundice and dark urine two months after starting indomethacin for adult Still disease. The patient was known to have splenomegaly and alkaline phosphatase and GGT elevations with minimal elevations in aminotransferase levels and normal direct and total bilirubin before therapy (Table). A liver biopsy showed nonspecific changes and activation of macrophages, findings that were attributed to his adult Still disease. He was initially treated with aminopyrine (1.5 g/day) and 6 weeks later indomethacin (100 mg/day) was added. On admission, 8 weeks after starting indomethacin, he had jaundice and prominent hepatomegaly. Serum aminotransferase levels and bilirubin were markedly elevated while alkaline phosphatase and GGT were less than pretreatment values. He had no fever or rash and eosinophil counts were normal. Despite stopping both indomethacin and aminopyrine promptly, jaundice deepened, and he developed hepatic encephalopathy, gastrointestinal bleeding and multiorgan failure, and died two weeks after admission. Autopsy showed hepatosplenomegaly and portal hypertension with superimposed massive hepatic necrosis. The biliary tree was normal without obstruction.</p>
+          <sec id="Indomethacin.Key_Points1">
+            <title>Key Points</title>
+            <table-wrap id="Indomethacin.T1" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Indomethacin (100 mg daily)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Hepatocellular (R=9.5)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">5+ (death from acute liver failure)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">2 months</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">No</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">Aminopyrine (aminophenazone) 1.5 g/day for 3.5 months.</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Indomethacin.Laboratory_Values1">
+            <title>Laboratory Values</title>
+            <table-wrap id="Indomethacin.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Indomethacin.T2_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Indomethacin.T2_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Indomethacin.T2_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Indomethacin.T2_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Indomethacin.T2_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Indomethacin.T2_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_1" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_2" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_3" rowspan="1" colspan="1">38</td>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_4" rowspan="1" colspan="1">76</td>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_5" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_6" rowspan="1" colspan="1">Liver biopsy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_3 hd_h_Indomethacin.T2_1_1_1_4 hd_h_Indomethacin.T2_1_1_1_5 hd_h_Indomethacin.T2_1_1_1_6" colspan="4" rowspan="1">Indomethacin started (100 mg/day)</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_1" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_3" rowspan="1" colspan="1">550</td>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_4" rowspan="1" colspan="1">34</td>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_5" rowspan="1" colspan="1">15.6</td>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_1" rowspan="1" colspan="1">9 weeks</td>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_2" rowspan="1" colspan="1">1 weeks</td>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_3" rowspan="1" colspan="1">539</td>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_4" rowspan="1" colspan="1">26</td>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_5" rowspan="1" colspan="1">25.8</td>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_1" rowspan="1" colspan="1">10 weeks</td>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_2" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_3" rowspan="1" colspan="1">672</td>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_4" rowspan="1" colspan="1">23</td>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_5" rowspan="1" colspan="1">30.8</td>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_3 hd_h_Indomethacin.T2_1_1_1_4 hd_h_Indomethacin.T2_1_1_1_5 hd_h_Indomethacin.T2_1_1_1_6" colspan="4" rowspan="1">Death from multi-organ failure</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_1 hd_h_Indomethacin.T2_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;20</bold>
+</td>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;12</bold>
+</td>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Indomethacin.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Indomethacin.Comment1">
+            <title>Comment</title>
+            <p>A striking instance of acute liver failure arising two months after initiation of indomethacin therapy. An important feature was that the patient had an underlying liver disease before starting indomethacin, which was attributed to nonspecific effects of Still disease. Thus, the clinical phenotype is more similar to "acute-on-chronic" hepatic injury. In retrospect, the patient may have had nodular regenerative hyperplasia, which would account for the hepatosplenomegaly and minor aminotransferase and more marked alkaline phosphatase elevations. As such, the patient would be more susceptible to a poor outcome from acute hepatocellular injury due to a medication. Another factor complicating the interpretation was use of aminopyrine (also called aminophenazone), another antiinflammatory NSAID which has been abandoned because of toxicity (renal and gastric). Causality assessment would probably designate this case as "possible" or at most "probable" indomethacin induced hepatic injury.</p>
+          </sec>
+        </sec>
+        <sec id="Indomethacin.Case_2._Acute_hepatitis_due">
+          <title>Case 2. Acute hepatitis due to indomethacin therapy.</title>
+          <p>[Modified from: L&#x000f3;pez Navidad A, Cadafalch Arpa J, Vehi Gasol C, Espinos P&#x000e9;rez J. [Acute hepatitis caused by indomethacin] Rev Esp Enferm Apar Dig 1987; 71: 358-9. Spanish. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/3602573">PubMed Citation</ext-link>]</p>
+          <p>A 55 year old man developed weakness, anorexia and abdominal pain followed by dark urine and jaundice and dark urine 3 weeks after starting indomethacin (125 mg daily) for painful heel spurs. A week after initial symptoms, blood tests showed an acute hepatitis and indomethacin was stopped. He had no history of liver disease, adverse drug reactions, alcohol abuse or risk factors for viral hepatitis. He was taking no other medications. He continued to worsen over the next several weeks and has admitted for evaluation. On examination, he was deeply jaundiced with generalized pruritus and tender hepatomegaly but no rash, fever, or other signs of chronic liver disease or hepatic failure. Laboratory testing showed marked elevation in serum bilirubin and a hepatocellular pattern of serum enzyme elevations with prolongation of the prothrombin time (Table). Tests for hepatitis A and B were negative as was serology of Ebstein-Barr virus and cytomegalovirus infection. Abdominal ultrasound showed no evidence of biliary obstruction. Liver biopsy was refused. With routine medical management, he improved rapidly. When seen in follow up 4 months later, he was asymptomatic and liver tests were normal.</p>
+        </sec>
+        <sec id="Indomethacin.Key_Points2">
+          <title>Key Points</title>
+          <table-wrap id="Indomethacin.T3" position="anchor" orientation="portrait">
+            <table>
+              <tbody>
+                <tr>
+                  <td rowspan="1" colspan="1">Medication:</td>
+                  <td rowspan="1" colspan="1">Indomethacin (125 mg daily)</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Pattern:</td>
+                  <td rowspan="1" colspan="1">Hepatocellular (R=23.7)</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Severity:</td>
+                  <td rowspan="1" colspan="1">4+ (jaundice, hospitalization, coagulopathy)</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Latency:</td>
+                  <td rowspan="1" colspan="1">3 weeks</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Recovery:</td>
+                  <td rowspan="1" colspan="1">4 months</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">Other medications:</td>
+                  <td rowspan="1" colspan="1">None</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </sec>
+        <sec id="Indomethacin.Laboratory_Values2">
+          <title>Laboratory Values</title>
+          <table-wrap id="Indomethacin.T4" position="anchor" orientation="portrait">
+            <table>
+              <thead>
+                <tr>
+                  <th id="hd_h_Indomethacin.T4_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                  <th id="hd_h_Indomethacin.T4_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                  <th id="hd_h_Indomethacin.T4_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                  <th id="hd_h_Indomethacin.T4_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                  <th id="hd_h_Indomethacin.T4_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                  <th id="hd_h_Indomethacin.T4_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_1" rowspan="1" colspan="1">4 weeks</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_2" rowspan="1" colspan="1">0</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_3" rowspan="1" colspan="1">1070</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_4" rowspan="1" colspan="1">-</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_5" rowspan="1" colspan="1">9.9</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_6" rowspan="1" colspan="1">Indomethacin stopped</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_1" rowspan="1" colspan="1">6 weeks</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_2" rowspan="1" colspan="1">16 days</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_3" rowspan="1" colspan="1">520</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_4" rowspan="1" colspan="1">77</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_5" rowspan="1" colspan="1">23.7</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_6" rowspan="1" colspan="1">Protime 25%</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_1" rowspan="1" colspan="1"/>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_2" rowspan="1" colspan="1">19 days</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_3" rowspan="1" colspan="1">770</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_4" rowspan="1" colspan="1">175</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_5" rowspan="1" colspan="1">35.0</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_1" rowspan="1" colspan="1">7 weeks</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_2" rowspan="1" colspan="1">26 days</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_3" rowspan="1" colspan="1">205</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_4" rowspan="1" colspan="1">102</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_5" rowspan="1" colspan="1">12.0</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_6" rowspan="1" colspan="1">Protime 75%</td>
+                </tr>
+                <tr>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_1" rowspan="1" colspan="1">3 months</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_2" rowspan="1" colspan="1">2 months</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_3" rowspan="1" colspan="1">24</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_4" rowspan="1" colspan="1">55</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_5" rowspan="1" colspan="1">2.9</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_1" rowspan="1" colspan="1">6 months</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_2" rowspan="1" colspan="1">5 months</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_3" rowspan="1" colspan="1">44</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_4" rowspan="1" colspan="1">56</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_5" rowspan="1" colspan="1">0.9</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                </tr>
+                <tr>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_1 hd_h_Indomethacin.T4_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal values<break/>
+</bold>
+</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;45<break/>
+</bold>
+</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;115<break/>
+</bold>
+</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2<break/>
+</bold>
+</td>
+                  <td headers="hd_h_Indomethacin.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </sec>
+        <sec id="Indomethacin.Comment2">
+          <title>Comment</title>
+          <p>This patient developed a moderately severe acute hepatitis starting 3 weeks after initiation of indomethacin therapy. Other causes of liver injury were adequately excluded, although tests for hepatitis C and E were not available at the time (1985). The pattern of enzyme elevations was distinctly hepatocellular even though cholestasis was present with deep jaundice and pruritus.</p>
+        </sec>
+      </sec>
+      <sec id="Indomethacin.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Indomethacin.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Indomethacin &#x02013; Generic, Indocin&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Nonsteroidal Antiinflammatory Drugs</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=indomethacin">COMPLETE LABELING</ext-link>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Indomethacin.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Indomethacin.T5" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Indomethacin.T5_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Indomethacin.T5_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Indomethacin.T5_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Indomethacin.T5_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Indomethacin.T5_1_1_1_1" rowspan="1" colspan="1">Indomethacin</td>
+                <td headers="hd_h_Indomethacin.T5_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134971504">53-86-1</ext-link>
+</td>
+                <td headers="hd_h_Indomethacin.T5_1_1_1_3" rowspan="1" colspan="1">C19-H16-Cl-N-O4</td>
+                <td headers="hd_h_Indomethacin.T5_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Indomethacin_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>chemical structure for Indomethacin</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Indomethacin.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 23 March 2018</p>
+        <ref-list id="Indomethacin.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Indomethacin.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Drugs used to treat rheumatic and musculospastic disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 517-553.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; indomethacin has been linked to rare instances of hepatocellular injury, but appears to have a lower rate of hepatotoxicity than other NSAIDs).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R2">
+            <mixed-citation publication-type="other">Lewis JH, Stine JG. Nonsteroidal anti-inflammatory drugs and leukotriene receptor antagonists. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 369-401.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of NSAIDs published in 2013; indomethacin has been available in the US since 1963, but only a few instances of jaundice have been reported with its use).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R3">
+            <mixed-citation publication-type="other">Grosser T, Smyth E, FitzGerald GA. Indomethacin. Anti-inflammatory, antipyretic, and analgesic agents; pharmacotherapy of gout. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 894-5.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics; indomethacin is an acetic acid derivative that is 20 times more potent that aspirin, but its long-term use is limited by a high rate of intolerance).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R4">
+            <mixed-citation publication-type="journal">Mandelli F, Ronchi F, Liotta S. [Hepatic function in the course of therapy with indomethacin] Minerva Med 1966; 57: 3020-5. Italian. <annotation><p><italic toggle="yes">(Serial tests of hepatic function [largely BSP excretion] carried out in ten patients during indomethacin therapy showed transient changes that reversed with stopping; no case of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">5296945</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R5">
+            <mixed-citation publication-type="journal">Boardman PL, Hart FD. Side-effects of indomethacin. Ann Rheum Dis 1967; 26: 127-32. <annotation><p><italic toggle="yes">(Discussion of side effects of indomethacin based upon results in 228 patients treated for an average of 15 weeks; side effects reported in ~50% of patients; headaches, dizziness, dyspepsia, nausea and &#x0201c;muzziness&#x0201d; were common, rarely severe; no mention of liver related side effects).</italic></p></annotation><pub-id pub-id-type="pmid">6023693</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R6">
+            <mixed-citation publication-type="journal">Fenech FF, Bannister WH, Grech JL. Hepatitis with biliverdinaemia in association with indomethacin therapy. Br Med J 1967; 3: 155-6. <annotation><p><italic toggle="yes">(46 year old man developed biliverdinemia and green urine 3 weeks after starting indomethacin [bilirubin 3.3 mg/dL, ALT 94 U/L, Alk P 55 KA [~4 times ULN], biliverdin in urine], resolving with prednisone therapy in 2 months).</italic></p></annotation><pub-id pub-id-type="pmid">6028104</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R7">
+            <mixed-citation publication-type="journal">Guerra M. Toxicity of indomethacin. Report of a case of acute pancreatitis. JAMA 1967; 200: 552-3. <annotation><p><italic toggle="yes">(69 year old non-alcoholic man developed acute pancreatitis 3 months after starting indomethacin [AST 95 U/L, amylase 648 U/L] and recovery in next 3 weeks; no mention of jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">6071455</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R8">
+            <mixed-citation publication-type="journal">Jacobs JS. Sudden death in arthritic children receiving large doses of indomethacin. JAMA 1967; 199: 932-4. <annotation><p><italic toggle="yes">(Two children with juvenile rheumatoid arthritis, ages 6 and 9 years, on indomethacin for 8 and 14 months developed sudden onset of an acute illness with fever, rapid clinical deterioration and death; autopsies did not reveal an obvious cause, but neither appeared to have acute liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">6071563</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R9">
+            <mixed-citation publication-type="journal">Kelsey WM, Scharyj M. Fatal hepatitis probably due to indomethacin. JAMA 1967; 199: 586-7. <annotation><p><italic toggle="yes">(12 year old boy with juvenile rheumatoid arthritis developed rectal bleeding followed by jaundice and multiorgan failure 8 months after starting indomethacin and prednisone [bilirubin 23.3 mg/dL, ALT 100 U/L, protime 19 sec], and died 10 days later with autopsy showing centrozonal necrosis and microsteatosis).</italic></p></annotation><pub-id pub-id-type="pmid">6071328</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R10">
+            <mixed-citation publication-type="journal">Cuthbert MF. Adverse reactions to non-steroidal antirheumatic drugs. Curr Med Res Opin 1974; 2: 600-10. <annotation><p><italic toggle="yes">(Analysis of adverse event reporting in UK for NSAIDs, 1964-1973, for indomethacin major events were gastrointestinal upset and hemorrhage, blood dyscrasias, headaches, vertigo, confusion; hepatic reactions accounted for ~3% of nonfatal and 6% [~7 of 114] of fatal indomethacin related reports).</italic></p></annotation><pub-id pub-id-type="pmid">4452298</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R11">
+            <mixed-citation publication-type="journal">Siegmund H. [Intrahepatic cholestasis following treatment with D-penicillamine and indomethacin] Med Welt 1976; 27: 172-3. German. <annotation><p><italic toggle="yes">(38 year old woman developed jaundice 6 weeks after starting indomethacin and d-penicilliamine for rheumatoid arthritis [bilirubin 5.5 mg/dL, ALT 120 U/L, Alk P 22 &#x0201c;BE&#x0201d; units], resolving within 3 weeks of stopping both).</italic></p></annotation><pub-id pub-id-type="pmid">1250131</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R12">
+            <mixed-citation publication-type="journal">Borb&#x000e1;s B, Kiss E, Varga M. [2 cases of acute liver damage caused by indomethacin] Orv Hetil 1980; 121: 459-60. Hungarian. <pub-id pub-id-type="pmid">7383683</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R13">
+            <mixed-citation publication-type="journal">de Kraker-Sangster M, Bronkhorst FB, Brandt KH, Boersma JW. [Massive liver cell necrosis following administration of indomethacin in combination with aminophenzone] Ned Tijdschr Geneeskd 1981; 125: 1828-31. Dutch. <italic toggle="yes">(40 year old man with Still disease developed acute liver failure 2 months after starting indomethacin [bilirubin 15.6 mg/dL, ALT 805 U/L, Alk P 3 times ULN]; also on aminophenazone: Case 1).</italic><pub-id pub-id-type="pmid">7300940</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R14">
+            <mixed-citation publication-type="other">Pina R, Lopez-Aldeguer J, Navarro JR, Perez Agullar F, Berenguer J. [Acute hepatitis due to indomethacin] Gastroenterol Hepatol 1981; 4: 49-51. Spanish. Not in PubMed.<annotation><p><italic toggle="yes">(43 year old woman developed jaundice and pruritus 15 days after starting indomethacin for joint aches [bilirubin 2.2 mg/dL, AST 860 U/L, Alk P 314 U/L], resolving within 50 days of stopping).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R15">
+            <mixed-citation publication-type="other">Lopez Vivancos J, Vilaseca J, Arnau JM, Allende E. [Acute cholestatic hepatitis caused by indomethacin] Gastroenterol Hepatol 1985; 8: 165-6. Spanish. Not in PubMed<annotation><p><italic toggle="yes">(38 year old woman developed jaundice 3 weeks after starting indomethacin [bilirubin 12.5 rising to 26.3 mg/dL, ALT 3960 U/L, Alk 246 U/L], resolving within 3 months of stopping).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R16">
+            <mixed-citation publication-type="journal">Balduck N, Otten J, Verbruggen L, Bougatef A, Ramet J, Piepsz A. Sudden death of a child with juvenile chronic arthritis, probably due to indomethacin. Eur J Pediatr 1987; 146: 620. <annotation><p><italic toggle="yes">(14 year old boy with juvenile rheumatoid arthritis developed jaundice 4 months after starting indomethacin and prednisone [ALT 1426 U/L, bilirubin 25.7 mg/dL], with progressive liver failure and death 10 days later; autopsy showed massive necrosis).</italic></p></annotation><pub-id pub-id-type="pmid">3428300</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R17">
+            <mixed-citation publication-type="journal">L&#x000f3;pez Navidad A, Cadafalch Arpa J, Vehi Gasol C, Espinos P&#x000e9;rez J. [Acute hepatitis caused by indomethacin] Rev Esp Enferm Apar Dig 1987; 71: 358-9. Spanish. <annotation><p><italic toggle="yes">(55 year old man developed jaundice 3 weeks after starting indomethacin [bilirubin 9.9 rising to 35 mg/dL, ALT 1070 U/L, Alk P 77 U/L], resolving within 2 months of stopping indomethacin: Case 2).</italic></p></annotation><pub-id pub-id-type="pmid">3602573</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R18">
+            <mixed-citation publication-type="journal">Cappell MS, Kozicky O, Competiello LS. Indomethacin-associated cholestasis. J Clin Gastroenterol 1988; 10: 445-7. <annotation><p><italic toggle="yes">(52 year old woman developed asymptomatic elevations in ALT [11 rising to 95 U/L] and Alk P [95 to 268 U/L] without jaundice 10 days after starting indomethacin, resolving rapidly upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">3047224</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R19">
+            <mixed-citation publication-type="journal">Zimmerman HJ. Update of hepatotoxicity due to classes of drugs in common clinical use: non-steroidal drugs, anti-inflammatory drugs, antibiotics, antihypertensives, and cardiac and psychotropic agents. Semin Liver Dis 1990; 10: 322-38. <annotation><p><italic toggle="yes">(Review of NSAID and other forms of liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">2281340</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R20">
+            <mixed-citation publication-type="journal">Su&#x000e1;rez Gonz&#x000e1;lez A, Rodr&#x000ed;guez Garc&#x000ed;a M, Gonz&#x000e1;lez Gonz&#x000e1;lez M, Alvarez Navascues C, Gonz&#x000e1;lez Sotorrio N, Rodrigo S&#x000e1;ez L. [Acute indomethacin-induced hepatitis in a female patient with asymptomatic primary biliary cirrhosis] An Med Interna 1994; 11: 549-50. Spanish. <annotation><p><italic toggle="yes">(51 year old woman developed jaundice 2 weeks after starting indomethacin [bilirubin 20.1 mg/dL, ALT 916 U/L, Alk P 878 U/L, GGT 211 U/L], resolving within 3 months of stopping, but found to have persistent Alk P elevations [~450 U/L] and AMA 1:80 with biopsy findings of primary biliary cirrhosis).</italic></p></annotation><pub-id pub-id-type="pmid">7654905</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R21">
+            <mixed-citation publication-type="journal">Walker AM. Quantitative studies of the risk of serious hepatic injury in persons using nonsteroidal antiinflammatory drugs. Arthritis Rheum 1997; 40: 201-8. (Review of population based studies of NSAID use and hepatic injury; frequency of clinically apparent liver injury from NSAIDs overall was ~10 cases per 100,000 patient-years of use, also being 10 per 100,000 for indomethacin)<annotation><p><italic toggle="yes">.</italic></p></annotation><pub-id pub-id-type="pmid">9041931</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R22">
+            <mixed-citation publication-type="journal">Lacroix I, Lapeyre-Mestre M, Bagheri H, Pathak A, Montastruc JL; Club de Reflexion des cabinets de Groupe de Gastro-Enterologie (CREGG); General Practitioner Networks. Nonsteroidal anti-inflammatory drug-induced liver injury: a case-control study in primary care. Fundam Clin Pharmacol 2004; 18: 201-6. <annotation><p><italic toggle="yes"> (Case controlled study of patients presenting with suspected drug induced liver injury in a general practice context in Southern France found 88 cases and used 178 population controls; 22 cases vs 16 controls were exposed to NSAIDs; 5 cases were attributed to diclofenac, 4 ibuprofen, 4 ketoprofen, 2 niflumic acid, 1 flurbiprofen and 1 meloxicam, but none to indomethacin).</italic></p></annotation><pub-id pub-id-type="pmid">15066135</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R23">
+            <mixed-citation publication-type="journal">Abraham C, Hart J, Locke SM, Baker AL. A case of indometacin-induced acute hepatitis developing into chronic autoimmune hepatitis. Nat Clin Pract Gastroenterol Hepatol 2008; 5: 172-6. <annotation><p><italic toggle="yes">(47 year old woman with osteoarthritis developed acute hepatitis [bilirubin 5.3 rising to 30.7 mg/dL, ALT 1491 U/L, Alk P 414 U/L] within a few days of starting a 9 day course of indomethacin; symptoms [including ascites] and jaundice worsened despite stopping medication and prednisone was started with requirement for long term therapy [not resolving after &#x0003e;5 years]; biopsies suggested autoimmune hepatitis, but ANA and SMA were repeatedly negative).</italic></p></annotation><pub-id pub-id-type="pmid">18227818</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R24">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, NSAIDs were implicated as a sole agent in 8 cases [4 diclofenac, 2 celecoxib, 1 meloxicam, 1 oxaprozin] and as one of several agents in 3 cases [1 diclofenac, 1 celecoxib, 1 ibuprofen]; indomethacin not listed).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R25">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, of which 7 were due to NSAIDs, including 4 attributed to bromfenac, 2 to diclofenac and 1 to etodolac, but none to indomethacin).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R26">
+            <mixed-citation publication-type="journal">Bessone F. Non-steroidal anti-inflammatory drugs: What is the actual risk of liver damage? World J Gastroenterol 2010; 16: 5651-61. <annotation><p><italic toggle="yes">(Review of estimated frequency of drug induced liver injury due to NSAIDs from large published epidemiological studies; indomethacin is not discussed).</italic></p></annotation><pub-id pub-id-type="pmid">21128314</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R27">
+            <mixed-citation publication-type="journal">Mantarro S, Tuccori M, Pasqualetti G, Tognini S, Montagnani S, Monzani F, Blandizzi C. Acute portal vein thrombosis precipitated by indomethacin in a HCV-positive elderly patient. BMC Geriatr 2012; 12: 69. <annotation><p><italic toggle="yes">(79 year old man with chronic hepatitis C developed acute, symptomatic portal vein thrombosis with pain and ascites 11 days after starting indomethacin for back pain [bilirubin 1.2 mg/dL, ALT 74 U/L, GGT 36 U/L, INR 1.02], with eventual recovery on anticoagulation).</italic></p></annotation><pub-id pub-id-type="pmid">23148576</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R28">
+            <mixed-citation publication-type="journal">Van Eyken P, Nemolato S, Faa G, Ambu R. Hepatic injury to the newborn liver due to drugs. Curr Pharm Des 2012; 18: 3050-60. <annotation><p><italic toggle="yes">(Review of the hepatotoxicity of medications given to newborns mentions that indomethacin can cause clinically apparent liver injury, but that no such instances related to its intravenous use in newborns have been reported).</italic></p></annotation><pub-id pub-id-type="pmid">22564299</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R29">
+            <mixed-citation publication-type="journal">Lapeyre-Mestre M, Grolleau S, Montastruc JL; Adsociation Fran&#x000e7;aise des Centres R&#x000e9;gionaux de Pharmacovigilance (CRPV). Adverse drug reactions associated with the use of NSAIDs: a case/noncase analysis of spontaneous reports from the French pharmacovigilance database 2002-2006. Fundam Clin Pharmacol 2013; 27: 223-30. <annotation><p><italic toggle="yes">(Analysis of 42,389 spontaneous serious adverse event reports to the French Pharmacovigilance database on 8 NSAIDs between 2002 and 2006; liver adverse events were most frequent with nimesulide [0.15 per million daily doses] compared to diclofenac [0.09], ketoprofen [0.09], piroxicam [0.06], naproxen [0.04], meloxicam [0.03], and tenoxicam [0.03]; indomethacin was not discussed).</italic></p></annotation><pub-id pub-id-type="pmid">21929527</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R30">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. (In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, including 6 attributed to diclofenac [ranking 2nd], but none for indomethacin or other NSAIDs).<pub-id pub-id-type="pmid">23419359</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R31">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes"> (Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, the most common class of implicated agents being NSAIDS [n=62, 32%], but specific agents were nimesulide [n=53], piroxicam [5], diclofenac [2], gold salts [1], and naproxen [1]; indomethacin was not listed]).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R32">
+            <mixed-citation publication-type="journal">Colomba C, Siracusa L, Madonia S, Bonura S, Rubino R. Irreversible acute renal failure and cholestatic hepatitis following therapy with indomethacin in an HIV-naive patient with pericarditis: a case report. Infez Med 2014; 22: 247-9. <annotation><p><italic toggle="yes">(54 year old man with newly diagnosed HIV infection developed renal failure and cholestatic hepatitis shortly after starting indomethacin, but also darunavir, ritonavir, tenofovir, emtricitabine, sulfamethoxazole, trimethoprim and azithromycin [bilirubin 0.3 rising to 16.7 mg/dL, ALT not given, Alk P 516 U/L, creatinine 2.4 rising to 5.4], resulting in death from renal failure despite dialysis).</italic></p></annotation><pub-id pub-id-type="pmid">25269969</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R33">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 28 were attributed to NSAIDs, but none to indomethacin [Schmeltzer 2016]).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R34">
+            <mixed-citation publication-type="journal">Schmeltzer PA, Kosinski AS, Kleiner DE, Hoofnagle JH, Stolz A, Fontana RJ, Russo MW; Drug-Induced Liver Injury Network (DILIN). Liver injury from nonsteroidal anti-inflammatory drugs in the United States. Liver Int 2016; 36: 603-9. <annotation><p><italic toggle="yes">(Among 1221 cases of drug induced liver injury enrolled in a prospective, US database between 2004 and 2014, 30 cases [2.5%] were attributed to NSAIDs, most common diclofenac; none were attributed to indomethacin).</italic></p></annotation><pub-id pub-id-type="pmid">26601797</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R35">
+            <mixed-citation publication-type="journal">Donati M, Conforti A, Lenti MC, Capuano A, Bortolami O, Motola D, Moretti U, et al; DILI-IT Study Group. Risk of acute and serious liver injury associated to nimesulide and other NSAIDs: data from drug-induced liver injury case-control study in Italy. Br J Clin Pharmacol 2016; 82: 238-48. <annotation><p><italic toggle="yes">(Among 179 cases of acute liver injury and 1770 controls admitted to 9 Italian hospitals between 2010 and 2014, NSAIDs used more frequently in cases compared to controls included nimesulide [17% vs 10%: odds ratio 1.88] and ibuprofen [14% vs 10%: odds ratio 1.59] and risk was higher in those taking higher doses; indomethacin was not mentioned). </italic></p></annotation><pub-id pub-id-type="pmid">26991794</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Indomethacin.R36">
+            <mixed-citation publication-type="journal">Zoubek ME, Gonz&#x000e1;lez-Jimenez A, Medina-C&#x000e1;liz I, Robles-D&#x000ed;az M, Hernandez N, Romero-G&#x000f3;mez M, Bessone F, et al. High Prevalence of ibuprofen drug-induced Liver injury in Spanish and Latin-American registries. Clin Gastroenterol Hepatol 2018; 16: 292-294.<annotation><p><italic toggle="yes">(Analysis of a Spanish and Latin-American registries identified 73 cases of NSAID induced liver injury, the most common agents being nimesulide [38%], diclofenac [34%] and ibuprofen [17%], indomethacin was not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">28782674</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Indomethacin.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=indomethacin/AE+AND+Human%5BMH%5D+AND+(%20drug-induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%222009/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Indomethacin: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=indomethacin">Trials on Indomethacin: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

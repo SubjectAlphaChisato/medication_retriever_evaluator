@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Tacrine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Tacrine</book-part-id>
+      <title-group>
+        <title>Tacrine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>15</day>
+          <month>1</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Suvorexant" document-type="chapter">Suvorexant</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Tacrolimus" document-type="chapter">Tacrolimus</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Tacrine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Tacrine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Tacrine is an oral acetylcholinesterase inhibitor previously used for therapy of Alzheimer disease. Tacrine therapy is associated with a very high rate of serum aminotransferase elevations during therapy and has been linked to several instances of clinically apparent, acute liver injury.</p>
+        </sec>
+        <sec id="Tacrine.Background">
+          <title>Background</title>
+          <p>Tacrine (tak' reen) was the first acetylcholinesterase inhibitor introduced into clinical use for management of Alzheimer disease. Tacrine acts by inhibiting the metabolism of acetylcholine and thus prolonging its activity and raising levels in the cerebral cortex. Therapy with tacrine improves mental functioning in patients with mild-to-moderate dementia of Alzheimer disease. Tacrine was approved for use in the United States in 1993 as therapy of mild-to-moderate dementia of the Alzheimer type. Tacrine was marketed in capsules of 10, 20, 30 and 40 mg under the brand name Cognex with the typical dose being 20 to 40 mg four times daily. Tacrine has dose limiting side effects including diarrhea, nausea, vomiting, abdominal discomfort, dizziness, headache, anxiety, blurred vision, dry mouth and insomnia, symptoms typical of cholinergic stimulation. Because of continuing concerns over safety and availability of other acetylcholinesterase inhibitors, tacrine was withdrawn from use in 2013.</p>
+        </sec>
+        <sec id="Tacrine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Strikingly, therapy with tacrine was associated with serum aminotransferase elevations in almost half of patients. These elevations usually arose within 6 to 8 weeks of starting therapy and rapidly resolved when therapy was stopped. Elevations above 3 times the upper limit of the normal range (ULN) occurred in 25%, above 10 times ULN in 6% and above 20 times ULN in 2% of patients. Accompanying elevations in alkaline phosphatase and bilirubin were rare, and the ALT abnormalities were usually asymptomatic and resolved rapidly when therapy was stopped or with dose reduction. Monitoring of serum aminotransferase levels during tacrine therapy was recommended, with dose modification for ALT elevations above 3 times the ULN and discontinuation if levels rose above 5 times the ULN. In prelicensure studies, no instances of clinically apparent acute liver injury with jaundice were reported. Subsequently, however, several cases of acute hepatocellular injury with jaundice attributed to tacrine were reported, generally arising within 2 to 8 weeks of starting therapy and usually resolving rapidly with discontinuation. Eosinophilia often accompanied the hepatic injury due to tacrine, but rash and fever were uncommon as were autoantibodies. Rechallenge often led to recurrence of the hepatic injury with a somewhat shorter latency but similar or milder course. In many patients, the serum aminotransferase elevations resolved even without drug discontinuation or dose modification. Nevertheless, fatal cases of liver injury attributed to tacrine were reported to the sponsor. Routine monitoring of serum aminotransferase levels for the first six months of therapy was recommended. However, the availability of other oral anticholinesterase inhibitors that are given only once or twice daily, do not require ALT monitoring and only rarely cause liver enzyme elevations has led to the withdrawal of tacrine from clinical use in the United States.</p>
+          <p>Likelihood score: A (well established cause of liver injury, although usually marked by serum aminotransferase elevations without symptoms or jaundice).</p>
+        </sec>
+        <sec id="Tacrine.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Tacrine undergoes first pass metabolism by the liver and is extensively metabolized by the cytochrome P450 system. The hepatotoxicity of tacrine is probably related to production of a toxic intermediate, but the precise mechanism of injury is not known. Intestinal bacteria (the &#x0201c;microbiome&#x0201d;) may play a role in tacrine hepatotoxicity in that impaired glucuronidation caused by changes in intestinal bacterial flora is associated with aminotransferase elevations in rodents exposed to tacrine.</p>
+        </sec>
+        <sec id="Tacrine.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The hepatotoxicity of tacrine is usually marked by transient and asymptomatic, moderate-to-severe elevations in serum aminotransferase levels that resolve rapidly with discontinuation. More severe instances of hepatotoxicity with symptoms and jaundice have been reported but are rare. Tacrine has not been linked to cases of chronic hepatitis or vanishing bile duct syndrome, at least in the published literature. The safety of switching to another acetylcholinesterase inhibitor after tacrine hepatotoxicity has not been shown, but there is little reason to suspect that cross sensitivity exists.</p>
+          <p>References regarding the safety and potential hepatotoxicity of the drugs used for Alzheimer disease are provided below for tacrine and again for all agents after the overview section of Alzheimer Disease Agents.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AlzheimersDrugs" document-type="chapter">Alzheimer Disease Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Tacrine.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Tacrine.Case_1_Acute_hepatocellular_inju">
+          <title>Case 1. Acute hepatocellular injury with jaundice during tacrine therapy.(<xref ref-type="bibr" rid="Tacrine.REF.1">1</xref>)</title>
+          <p>A 76 year old woman developed fever and jaundice 20 days after starting tacrine in a therapeutic trial of this drug for Alzheimer disease. She had no previous history of liver disease, drug reactions, alcohol abuse or risk factors for viral hepatitis. She was taking no other medications. The dose of tacrine had been increased from 25 to 100 mg during the first 5 days of therapy, but was then reduced to 75 mg because of headaches. When jaundice was noted, tacrine was discontinued promptly and two days later she was admitted for evaluation. On examination, she was afebrile and anicteric. Blood tests showed a total serum bilirubin of 4.1 mg/dL with marked elevations in ALT (~1700 U/L) and minimal increases in alkaline phosphatase levels (~130 U/L). Liver tests had been normal before tacrine was started and were still normal on day 12 of therapy (Table). The prothrombin index was slightly decreased (70%) and eosinophil counts were normal. Tests for hepatitis A and B were negative as were autoantibodies. Ultrasound of the abdomen showed a normal liver and biliary tract. A liver biopsy showed centrilobular necrosis and mild inflammatory infiltrates with no cholestasis and no fibrosis. Serum ALT levels peaked one day after admission and fell rapidly thereafter, becoming normal within the next 5 weeks.</p>
+          <sec id="Tacrine.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Tacrine.Tc" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Tacrine.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Tacrine.Tc_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Tacrine (75 mg daily)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Tacrine.Tc_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Tacrine.Tc_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Hepatocellular (R=42)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Tacrine.Tc_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Tacrine.Tc_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">3+ (jaundice, hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Tacrine.Tc_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Tacrine.Tc_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">3 weeks</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Tacrine.Tc_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Tacrine.Tc_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">5 weeks</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Tacrine.Tc_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Tacrine.Tc_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">None</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Tacrine.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Tacrine.Td" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Tacrine.Td_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Starting</th>
+                    <th id="hd_h_Tacrine.Td_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Stopping</th>
+                    <th id="hd_h_Tacrine.Td_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT*<break/>(U/L)</th>
+                    <th id="hd_h_Tacrine.Td_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Alk P*<break/>(U/L)</th>
+                    <th id="hd_h_Tacrine.Td_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin*<break/>(mg/dL)</th>
+                    <th id="hd_h_Tacrine.Td_1_1_1_6" valign="top" align="center" scope="col" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">-1 day</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">30</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">105</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.7</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">12 days</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">35</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">100</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.7</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">20 days</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">1700</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">130</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">4.1</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Fever and jaundice</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">22 days</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">2200</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">135</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.2</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Tacrine stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">5 days</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">799</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">195</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Liver biopsy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">80</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">110</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.6</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">30</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">95</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Fully recovered</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_1 hd_h_Tacrine.Td_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;40</bold>
+</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;130</bold>
+</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Tacrine.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+              <table-wrap-foot>
+                <fn id="Tacrine.TF.d.1">
+                  <label>* </label>
+                  <p>Values estimated from Figure 1.</p>
+                </fn>
+              </table-wrap-foot>
+            </table-wrap>
+          </sec>
+          <sec id="Tacrine.Comment">
+            <title>Comment</title>
+            <p>Tacrine is well known to be associated with serum aminotransferase elevations which usually arise within 3 to 8 weeks of starting therapy. These elevations can be marked (&#x0003e;20 times ULN), but are typically self-limited and asymptomatic. This patient was unusual only because she developed jaundice and symptoms. The rapid resolution of injury upon stopping tacrine is typical. Despite the frequency of this abnormality, tacrine hepatotoxicity is usually mild and self limited. No cases of fatal tacrine induced liver injury have been reported in the literature, although such cases have evidently been reported to the sponsor.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Tacrine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Tacrine &#x02013; Cognex&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Alzheimer Disease Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Tacrine">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Tacrine.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Tacrine.Te" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <tbody>
+              <tr>
+                <th id="hd_b_Tacrine.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_b_Tacrine.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_b_Tacrine.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_b_Tacrine.Te_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+              <tr>
+                <td headers="hd_b_Tacrine.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Tacrine</td>
+                <td headers="hd_b_Tacrine.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134973101">321-64-2</ext-link>
+</td>
+                <td headers="hd_b_Tacrine.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C13-H14-N2</td>
+                <td headers="hd_b_Tacrine.Te_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134973101" document-id-type="sid" document-type="summary" object-id="134973101" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Tacrine.CITED_REFERENCE">
+        <title>CITED REFERENCE</title>
+        <ref-list id="Tacrine.CITED_REFERENCE.reflist0">
+          <ref id="Tacrine.REF.1">
+            <label>1</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hammel</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Larrey</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Bernuau</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Kalafat</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Fr&#x000e9;neaux</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Babany</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Degott</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Acute hepatitis after tetrahydroaminoacridine administration for Alzheimer's disease.</article-title>
+              <source>J Clin Gastroenterol</source>
+              <year>1990</year>
+              <volume>12</volume>
+              <fpage>329</fpage>
+              <lpage>31</lpage>
+              <pub-id pub-id-type="pmid">2362104</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Tacrine.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 15 January 2020</p>
+        <ref-list id="Tacrine.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Tacrine.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 709-42.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; tacrine, the first cholinesterase inhibitor approved for use in Alzheimer disease, was associated with a very high rate of serum ALT elevations [~50%], but rarely caused clinically apparent liver injury; the other Alzheimer disease agents are not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tacrine.REF.larrey.2013">
+            <mixed-citation publication-type="book">Larrey D, Ripault MP. Hepatotoxicity of psychotropic drugs and drugs of abuse. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 518.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of psychotropic agents ; drugs for Alzheimer disease are not specifically discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tacrine.REF.roberson.2018">
+            <mixed-citation publication-type="book">Roberson ED. Alzheimer's disease. Treatment of central nervous system degenerative disorders. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 333-5.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tacrine.REF.chatellier.1990.495">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chatellier</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Lacomblez</surname><given-names>L.</given-names></name>
+</person-group>
+              <article-title>Tacrine (tetrahydroaminoacridine; THA) and lecithin in senile dementia of the Alzheimer type: a multicentre trial. Groupe Fran&#x000e7;s d'Etude de la Tetrahydroaminoacridine.</article-title>
+              <source>BMJ</source>
+              <year>1990</year>
+              <volume>300</volume>
+              <fpage>495</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a randomized controlled crossover trial of tacrine in 67 patients with Alzheimer disease, 9 patients [13%] developed significant ALT or AST elevations, usually arising after 2-8 weeks of therapy, ALT 85-2115 U/L, one patient developed jaundice which resolved within 3-4 weeks of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2107926</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tacrine.REF.ames.1990.193">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ames</surname><given-names>DJ</given-names></name>
+<name name-style="western"><surname>Bhathal</surname><given-names>PS</given-names></name>
+<name name-style="western"><surname>Davies</surname><given-names>BM</given-names></name>
+<name name-style="western"><surname>Fraser</surname><given-names>JR</given-names></name>
+<name name-style="western"><surname>Gibson</surname><given-names>PR</given-names></name>
+<name name-style="western"><surname>Roberts</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Heterogeneity of adverse hepatic reactions to tetrahydroaminoacridine.</article-title>
+              <source>Aust N Z J Med</source>
+              <year>1990</year>
+              <volume>20</volume>
+              <fpage>193</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(5 of 14 patients [36%] taking tacrine for Alzheimer disease developed abnormal liver tests [ALT 106-422 U/L, GTT 20-71 U/L, bilirubins normal], one was symptomatic; liver biopsies showed focal necrosis, fat and one patient with granulomas; all resolved with stopping the drug or lowering the dose).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2344330</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tacrine.REF.hammel.1990.329">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hammel</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Larrey</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Bernuau</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Kalafat</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Fr&#x000e9;aux</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Babany</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Degott</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Acute hepatitis after tetrahydroaminoacridine administration for Alzheimer's disease.</article-title>
+              <source>J Clin Gastroenterol</source>
+              <year>1990</year>
+              <volume>12</volume>
+              <fpage>329</fpage>
+              <lpage>31</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(A 76 year old woman with Alzheimer disease developed fever and jaundice 20 days after starting tacrine [bilirubin 5.0 mg/dL, ALT ~1800 U/L, Alk P 125 U/L, prothrombin index 40%], with rapid resolution on stopping, all liver tests falling to normal within 6 weeks).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2362104</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tacrine.REF.obrien.1991.129">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>O'Brien</surname><given-names>JT</given-names></name>
+<name name-style="western"><surname>Eagger</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Levy</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Effects of tetrahydroaminoacridine on liver function in patients with Alzheimer's disease.</article-title>
+              <source>Age Ageing</source>
+              <year>1991</year>
+              <volume>20</volume>
+              <fpage>129</fpage>
+              <lpage>31</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Prospective analysis of liver tests in 30 patients with Alzheimer disease treated with tacrine; 50% developed AST elevations within 17-38 days, 8 had clinical symptoms but none had jaundice, all resolved within 3-23 days after stopping or dose reduction; 6 were restarted and 5 tolerated therapy long term).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2053502</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tacrine.REF.farlow.1992.2523">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Farlow</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Gracon</surname><given-names>SI</given-names></name>
+<name name-style="western"><surname>Hershey</surname><given-names>LA</given-names></name>
+<name name-style="western"><surname>Lewis</surname><given-names>KW</given-names></name>
+<name name-style="western"><surname>Sadowsky</surname><given-names>CH</given-names></name>
+<name name-style="western"><surname>Dolan-Ureno</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>A controlled trial of tacrine in Alzheimer's disease. The Tacrine Study Group.</article-title>
+              <source>JAMA</source>
+              <year>1992</year>
+              <volume>268</volume>
+              <fpage>2523</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 468 patients with Alzheimer disease treated with tacrine or placebo, ALT elevations [&#x0003e;3 times ULN] occurred in 25% of tacrine treated, but in none of placebo treated patients; all elevations were reversible and asymptomatic, usually arising in the first 8 weeks of treatment and resolving within 7-71 days of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1404819</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tacrine.REF.knapp.1994.985">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Knapp</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Knopman</surname><given-names>DS</given-names></name>
+<name name-style="western"><surname>Solomon</surname><given-names>PR</given-names></name>
+<name name-style="western"><surname>Pendlebury</surname><given-names>WW</given-names></name>
+<name name-style="western"><surname>Davis</surname><given-names>CS</given-names></name>
+<name name-style="western"><surname>Gracon</surname><given-names>SI</given-names></name>
+</person-group>
+              <article-title>A 30-week randomized controlled trial of high-dose tacrine in patients with Alzheimer's disease. The Tacrine Study Group.</article-title>
+              <source>JAMA</source>
+              <year>1994</year>
+              <volume>271</volume>
+              <fpage>985</fpage>
+              <lpage>91</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a randomized controlled trial of tacrine vs placebo in 653 patients with Alzheimer disease, some degree of ALT elevation occurred in 54% and elevations &#x0003e;3 times ULN in 28% of tacrine treated patients, but no patient had jaundice and most were asymptomatic, all resolved on stopping tacrine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8139083</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tacrine.REF.watkins.1994.992">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Zimmerman</surname><given-names>HJ</given-names></name>
+<name name-style="western"><surname>Knapp</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Gracon</surname><given-names>SI</given-names></name>
+<name name-style="western"><surname>Lewis</surname><given-names>KW</given-names></name>
+</person-group>
+              <article-title>Hepatotoxic effects of tacrine administration in patients with Alzheimer's disease.</article-title>
+              <source>JAMA</source>
+              <year>1994</year>
+              <volume>271</volume>
+              <fpage>992</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In depth analysis of liver test abnormalities occurring in 2446 patients on tacrine in multi-center trials; ALT elevations occurred in 49%, were &#x0003e;3 times ULN in 25%, &#x0003e;10 times ULN 6%, and &#x0003e;20 times ULN in 2%, usually arising within 6-8 weeks of starting, with no symptoms or minimal nausea and fatigue even when ALT &#x0003e;10 times ULN, eosinophilia in 23-44% but no rash, more rapid but less severe recurrence on rechallenge, nevertheless 88% could continue tacrine; more common in women than men).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8139084</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tacrine.REF.gracon.1998.93">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gracon</surname><given-names>SI</given-names></name>
+<name name-style="western"><surname>Knapp</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Berghoff</surname><given-names>WG</given-names></name>
+<name name-style="western"><surname>Pierce</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>DeJong</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lobbestael</surname><given-names>SJ</given-names></name>
+<name name-style="western"><surname>Symons</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety of tacrine: clinical trials, treatment IND, and postmarketing experience.</article-title>
+              <source>Alzheimer Dis Assoc Disord</source>
+              <year>1998</year>
+              <volume>12</volume>
+              <fpage>93</fpage>
+              <lpage>101</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of safety including hepatotoxicity of tacrine based upon registration trials and postmarketing adverse event reporting; ALT levels rise to &#x0003e;3 times the ULN in at least 25% of patients but are usually asymptomatic and not associated with jaundice).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9651138</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tacrine.REF.barbare.2001">
+            <mixed-citation publication-type="other">Barbare JC, Imbert A, Benkirane A. [Recent developments concerning drug- induced liver toxicity]. Presse Med 2001; 30: 673-6. French. PMID: 11360729<annotation><p><italic toggle="yes">(Review of importance of central reporting of drug induced liver injury, providing examples of recently described hepatotoxic reactions, including 3 recent cases of hepatocellular injury due to riluzole).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tacrine.REF.farlow.2007.388">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Farlow</surname><given-names>MR</given-names></name>
+<name name-style="western"><surname>Cummings</surname><given-names>JL</given-names></name>
+</person-group>
+              <article-title>Effective pharmacologic management of Alzheimer's disease.</article-title>
+              <source>Am J Med</source>
+              <year>2007</year>
+              <volume>120</volume>
+              <fpage>388</fpage>
+              <lpage>97</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of safety and efficacy of medications for Alzheimer disease; no discussion of hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17466645</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tacrine.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Davern</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Serrano</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rochon</surname><given-names>J</given-names></name>
+<collab>Drug Induced Liver Injury Network (DILIN)</collab>
+</person-group>
+              <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008; none were attributed to a drug used to treat Alzheimer disease).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tacrine.REF.mayeux.2010.2194">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mayeux</surname><given-names>R.</given-names></name>
+</person-group>
+              <article-title>Early Alzheimer's disease.</article-title>
+              <source>N Engl J Med</source>
+              <year>2010</year>
+              <volume>362</volume>
+              <fpage>2194</fpage>
+              <lpage>201</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Case discussion and review of current understanding of Alzheimer disease including role of therapy; common side effects of cholinesterase inhibitors include nausea, vomiting, anorexia, diarrhea, dizziness, muscle cramps, insomnia and vivid dreams; memantine can cause constipation, dizziness, headache and body pains; no mention of hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20558370</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tacrine.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Reuben</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Koch</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>WM</given-names></name>
+<collab>Acute Liver Failure Study Group</collab>
+</person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were attributed to drugs used to treat Alzheimer disease).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tacrine.REF.tricco.2013.1393">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Tricco</surname><given-names>AC</given-names></name>
+<name name-style="western"><surname>Soobiah</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Berliner</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Ho</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Ng</surname><given-names>CH</given-names></name>
+<name name-style="western"><surname>Ashoor</surname><given-names>HM</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>MH</given-names></name>
+<name name-style="western"><surname>Hemmelgarn</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Straus</surname><given-names>SE</given-names></name>
+</person-group>
+              <article-title>Efficacy and safety of cognitive enhancers for patients with mild cognitive impairment: a systematic review and meta-analysis.</article-title>
+              <source>CMAJ</source>
+              <year>2013</year>
+              <month>Nov</month>
+              <day>5</day>
+              <volume>185</volume>
+              <issue>16</issue>
+              <fpage>1393</fpage>
+              <lpage>401</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of 8 clinical trials and 3 reports on the safety and efficacy of Alzheimer drugs mentions that side effects of nausea, diarrhea, vomiting and headaches were usually more frequent with the active drugs compared to placebo; no mention of ALT elevations or clinically apparent liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24043661</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tacrine.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Bergmann</surname><given-names>OM</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Kvaran</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Olafsson</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none of the cases were attributed to a drug used to treat Alzheimer disease).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tacrine.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hern&#x000e1;ndez</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bessone</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>di Pace</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Brahm</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zapata</surname><given-names>R, A</given-names></name>
+<name name-style="western"><surname>Chirino</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America: an analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 176 reports of drug induced liver injury from Latin America published between 1996 and 2012, none were attributed to a drug for Alzheimer disease).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tacrine.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, none were due to a drug for Alzheimer disease).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tacrine.REF.kr_ger.2015.1197">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kr&#x000f6;ger</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Mouls</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Wilchesky</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Berkers</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Carmichael</surname><given-names>PH</given-names></name>
+<name name-style="western"><surname>van Marum</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Souverein</surname><given-names>P</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Adverse drug reactions reported with cholinesterase inhibitors: an analysis of 16 years of individual case safety reports from VigiBase.</article-title>
+              <source>Ann Pharmacother</source>
+              <year>2015</year>
+              <volume>49</volume>
+              <fpage>1197</fpage>
+              <lpage>206</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of spontaneous adverse event reports made between 2006 and 2013 to a WHO drug monitoring database identified 16,995 serious adverse events in patients receiving cholinesterase inhibitors, 121 of which were hepatobiliary, including 47 for donepezil, 53 rivastigmine and 21 galantamine; no details provided).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26324356</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tacrine.REF.mohammad.2017.1009">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mohammad</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Chan</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Bradley</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Lanct&#x000f4;t</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Herrmann</surname><given-names>N</given-names></name>
+</person-group>
+              <article-title>Acetylcholinesterase inhibitors for treating dementia symptoms - a safety evaluation.</article-title>
+              <source>Expert Opin Drug Saf</source>
+              <year>2017</year>
+              <volume>16</volume>
+              <fpage>1009</fpage>
+              <lpage>19</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of safety of donepezil, galantamine and rivastigmine in Alzheimer disease concludes that adverse events are &#x0201c;generally mild&#x0201d;, mostly gastrointestinal, comparable among the different agents, but usually greater with higher doses and less with transdermal formulations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28678552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tacrine.REF.yip.2018.282">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Yip</surname><given-names>LY</given-names></name>
+<name name-style="western"><surname>Aw</surname><given-names>CC</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>SH</given-names></name>
+<name name-style="western"><surname>Hong</surname><given-names>YS</given-names></name>
+<name name-style="western"><surname>Ku</surname><given-names>HC</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>WH</given-names></name>
+<name name-style="western"><surname>Chan</surname><given-names>JMX</given-names></name>
+<etal/>
+</person-group>
+              <article-title>The liver-gut microbiota axis modulates hepatotoxicity of tacrine in the rat.</article-title>
+              <source>Hepatology</source>
+              <year>2018</year>
+              <volume>67</volume>
+              <fpage>282</fpage>
+              <lpage>95</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In Lister hooded rats, tacrine administration resulted in variable increases in ALT and AST with higher levels correlating with higher systemic exposure, which could be modified by changing the intestinal bacterial flora [microbiome], which was likely the result of bacterial deglucuronidation of tacrine during enterohepatic recycling).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28646502</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tacrine.REF.dou.2018.126">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dou</surname><given-names>KX</given-names></name>
+<name name-style="western"><surname>Tan</surname><given-names>MS</given-names></name>
+<name name-style="western"><surname>Tan</surname><given-names>CC</given-names></name>
+<name name-style="western"><surname>Cao</surname><given-names>XP</given-names></name>
+<name name-style="western"><surname>Hou</surname><given-names>XH</given-names></name>
+<name name-style="western"><surname>Guo</surname><given-names>QH</given-names></name>
+<name name-style="western"><surname>Tan</surname><given-names>L</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Comparative safety and effectiveness of cholinesterase inhibitors and memantine for Alzheimer's disease: a network meta-analysis of 41 randomized controlled trials.</article-title>
+              <source>Alzheimers Res Ther</source>
+              <year>2018</year>
+              <volume>10</volume>
+              <fpage>126</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Meta-analysis of 41 published randomized controlled trials of drugs for Alzheimer disease concluded that all had beneficial effects on cognition and function but not on neuropsychiatric symptoms, and all had adverse effects but memantine showed &#x0201c;the best profile of acceptability&#x0201d;; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30591071</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tacrine.REF.khoury.2018.171">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Khoury</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Rajamanickam</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Grossberg</surname><given-names>GT</given-names></name>
+</person-group>
+              <article-title>An update on the safety of current therapies for Alzheimer's disease: focus on rivastigmine.</article-title>
+              <source>Ther Adv Drug Saf</source>
+              <year>2018</year>
+              <volume>9</volume>
+              <fpage>171</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the safety of Alzheimer disease agents discusses gastrointestinal adverse events, cardiac side effects, skin reactions [to transdermal formulations] and neuropsychiatric effects, but not hepatic adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29492246</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tacrine.REF.bhattacharjee.2019.294">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bhattacharjee</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Patanwala</surname><given-names>AE</given-names></name>
+<name name-style="western"><surname>Lo-Ciganic</surname><given-names>WH</given-names></name>
+<name name-style="western"><surname>Malone</surname><given-names>DC</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>JK</given-names></name>
+<name name-style="western"><surname>Knapp</surname><given-names>SM</given-names></name>
+<name name-style="western"><surname>Warholak</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Burke</surname><given-names>WJ</given-names></name>
+</person-group>
+              <article-title>Alzheimer's disease medication and risk of all-cause mortality and all-cause hospitalization: A retrospective cohort study.</article-title>
+              <source>PMID: Alzheimers Dement (N Y)</source>
+              <year>2019</year>
+              <volume>5</volume>
+              <fpage>294</fpage>
+              <lpage>302</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among more than 20,000 Medicare beneficiaries receiving Alzheimer disease drugs, overall survival was better for those on donepezil than memantine or rivastigmine; no mention of serious hepatic adverse events or liver related deaths).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31338414</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tacrine.REF.carney.2019.732">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Carney</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Bassett</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Wright</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Maclure</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>McGuire</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Dormuth</surname><given-names>CR</given-names></name>
+</person-group>
+              <article-title>Comparison of cholinesterase inhibitor safety in real-world practice.</article-title>
+              <source>Alzheimers Dement (NY)</source>
+              <year>2019</year>
+              <volume>5</volume>
+              <fpage>732</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 29,047 Canadian patients with Alzheimer disease who initiated anticholinesterase therapy between 2007 and 2016, all cause mortality and serious cardiovascular event rates were lower in those receiving galantamine than those on donepezil; no mention of hepatic adverse events or liver related deaths).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31921965</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tacrine.REF.matsunaga.2019.513">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Matsunaga</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Fujishiro</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Takechi</surname><given-names>H</given-names></name>
+</person-group>
+              <article-title>Efficacy and safety of cholinesterase inhibitors for mild cognitive impairment: a systematic review and meta-analysis.</article-title>
+              <source>J Alzheimers Dis</source>
+              <year>2019</year>
+              <volume>71</volume>
+              <fpage>513</fpage>
+              <lpage>23</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of 14 randomized controlled trials of anticholinesterase drugs in Alzheimer disease concluded that the agents had slight efficacy in ameliorating symptoms but a moderate rate of discontinuation because of adverse events such as abnormal dreams, dizziness, headache, insomnia, diarrhea, muscle cramps, nausea and weight loss; no mention of discontinuations because of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31424411</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Tacrine.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Tacrine/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Tacrine: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Tacrine">Trials on Tacrine: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

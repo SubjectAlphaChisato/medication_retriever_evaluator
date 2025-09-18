@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Felbamate" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Felbamate</book-part-id>
+      <title-group>
+        <title>Felbamate</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>29</day>
+          <month>1</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Fedratinib" document-type="chapter">Fedratinib</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Felodipine" document-type="chapter">Felodipine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Felbamate.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Felbamate.Introduction">
+          <title>Introduction</title>
+          <p content-type="pubmed-excerpt">Felbamate is a dicarbamate derivative anticonvulsant that is typically used in combination with other antiepileptic medications for refractory partial onset or generalized seizures. Felbamate has been associated with multiple cases of aplastic anemia and acute liver failure and its use is now restricted.</p>
+        </sec>
+        <sec id="Felbamate.Background">
+          <title>Background</title>
+          <p>Felbamate (fel bam' ate) is a dicarbamate that has unique anticonvulsant activity. Its exact mechanism of action has not been established. Felbamate was approved for use the United States in 1993, the first new anticonvulsant medication in more than a decade. Within a year of release, however, reports of aplastic anemia and severe hepatotoxicity were received and severe warnings were placed on its use. Although still available, felbamate is rarely used because of the availability of other anticonvulsants with better safety record. Felbamate is recommended only for refractory and severe epilepsy unresponsive to other agents. Felbamate is available as tablets of 400 and 600 mg and as an oral solution fo pediatric use generically and under the brand name Febatol, but only on a limited named-patient basis. The recommended initial dose in adults is 400 to 600 mg twice daily, with dose escalation based upon tolerance. Common side effects include dizziness, nausea, somnolence and fatigue. Rare but potentially severe adverse events include suicidal thoughts and behaviors, aplastic anemia and acute hepatic failure.</p>
+        </sec>
+        <sec id="Felbamate.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Prospective studies suggest that chronic felbamate therapy is not accompanied by significant elevations in serum aminotransferase levels. Nevertheless, clinically apparent hepatotoxicity from felbamate is well described, although uncommon, estimated to occur in 1 in 18,500 to 25,000 exposures, often with severe outcome. The onset of injury is 1 to 6 months after starting therapy and the pattern of enzyme elevations is typically hepatocellular. More than a dozen instances of acute liver failure and death were attributed to felbamate before severe restrictions were placed upon its use. Felbamate has not been associated with anticonvulsant hypersensitivity syndrome and is a potential alternative for persons who have developed that syndrome from other anticonvulsants.</p>
+          <p>Likelihood score: B (highly likely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Felbamate.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of felbamate hepatotoxicity is unknown but is likely to be due to idiosyncratic bioactivation of felbamate to a high reactive electrophilic toxic metabolite.</p>
+        </sec>
+        <sec id="Felbamate.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>A case report of acute liver failure attributed to felbamate has been published as have several summarizes of severe cases of liver injury reported to the FDA. The fatality rate is high. Chronic injury from felbamate therapy has not been reported. There is no known cross sensitivity to liver injury between felbamate and other anticonvulsants.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Anticonvulsants">Anticonvulsants</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Felbamate.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Felbamate.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Felbamate &#x02013; Felbatol&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Anticonvulsants</p>
+          <p>
+<bold>COMPLETE LABELING</bold>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Felbamate.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Felbamate.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Felbamate.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Felbamate.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Felbamate.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Felbamate.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Felbamate.T1_1_1_1_1" rowspan="1" colspan="1">Felbamate</td>
+                <td headers="hd_h_Felbamate.T1_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134997825">25451-15-4</ext-link>
+</td>
+                <td headers="hd_h_Felbamate.T1_1_1_1_3" rowspan="1" colspan="1">C11-H14-N2-O4</td>
+                <td headers="hd_h_Felbamate.T1_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Felbamate_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Felbamate chemical structure</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Felbamate.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 29 January 2018</p>
+        <ref-list id="Felbamate.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Felbamate.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Anticonvulsants. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999: pp. 498-516.<annotation><p><italic toggle="yes">(Expert review of anticonvulsants and liver injury published in 1999, mentions that there have been at least 14 cases of fulminant hepatic failure linked to felbamate as well as cases of aplastic anemia).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Felbamate.R2">
+            <mixed-citation publication-type="other">Pirmohamed M, Leeder SJ. Anticonvulsant agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013: pp 423-41.<annotation><p><italic toggle="yes">(Review of anticonvulsant induced liver injury published in 2007, mentions that felbamate has been associated with hepatic failure estimated to occur in one per 26,000-34,000 exposures; among 7 cases described, 2 were in children, 6 in women and time to onset ranged from 25 to 181 days).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Felbamate.R3">
+            <mixed-citation publication-type="other">McNamara JO. Pharmacology of the epilepsies. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 583-608.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Felbamate.R4">
+            <mixed-citation publication-type="journal">Nightingale SL. From the FDA. Recommendation to immediately withdraw patients from treatment with felbamate. JAMA 1994; 272: 995. <annotation><p><italic toggle="yes">(FDA recommendation to immediately withdraw patients from felbamate based upon 20 reports of aplastic anemia [3 fatal]; in follow up, 34 cases of aplastic anemia [13 deaths] and 23 of acute liver failure [5 deaths] were reported: ages of 2 to 28 years, onset after 14 to 257 days).</italic></p></annotation><pub-id pub-id-type="pmid">8089899</pub-id></mixed-citation>
+          </ref>
+          <ref id="Felbamate.R5">
+            <mixed-citation publication-type="journal">Brodie MJ, Pellock JM. Taming the brain storms: felbamate updated. Lancet 1995; 346(8980): 918-9. <annotation><p><italic toggle="yes">(Editorial summarizing the history of the release, marketing, rapid wide scale initial use, and eventual withdrawal and restriction of felbamate; mentions 32 cases of aplastic anemia and 19 cases of liver injury, 5 of which were fatal).</italic></p></annotation><pub-id pub-id-type="pmid">7564721</pub-id></mixed-citation>
+          </ref>
+          <ref id="Felbamate.R6">
+            <mixed-citation publication-type="journal">Wallace SJ. A comparative review of the adverse effects of anticonvulsants in children with epilepsy. Drug Saf 1996; 15: 378-93. <annotation><p><italic toggle="yes">(Systematic review; ALT elevations occur in 4% of children on phenytoin, 6% on valproate, and 1% on carbamazepine, but not with gabapentin or phenobarbital; skin rashes, Stevens- Johnson syndrome and hepatic failure reported with felbamate).</italic></p></annotation><pub-id pub-id-type="pmid">8968693</pub-id></mixed-citation>
+          </ref>
+          <ref id="Felbamate.R7">
+            <mixed-citation publication-type="journal">O'Neil MG, Perdun CS, Wilson MB, McGown ST, Patel S. Felbamate-associated fatal acute hepatic necrosis. Neurology 1996; 46: 1457-9. <annotation><p><italic toggle="yes">(61 year old woman developed nausea and then jaundice 3-4 weeks after starting felbamate [bilirubin 2.8 rising to 18.7 mg/dL, AST 601 U/L, GGT 987 U/L, eosinophils 12%], with subsequent liver failure leading to death; autopsy showed massive collapse. Meanwhile 36 cases reported to FDA, including 5 deaths).</italic></p></annotation><pub-id pub-id-type="pmid">8628501</pub-id></mixed-citation>
+          </ref>
+          <ref id="Felbamate.R8">
+            <mixed-citation publication-type="journal">Li LM, Nashef L, Moriarty J, Duncan JS, Sander JW. Felbamate as add-on therapy. Eur Neurol 1996; 36: 146-8. <annotation><p><italic toggle="yes">(Among 111 patients who had felbamate added to stable anticonvulsant regimen, nausea, headache, drowsiness and dizziness were common; no case of liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">8738944</pub-id></mixed-citation>
+          </ref>
+          <ref id="Felbamate.R9">
+            <mixed-citation publication-type="journal">Pellock JM, Brodie MJ. Felbamate: 1997 update. Epilepsia. 1997; 38: 1261-4. <annotation><p><italic toggle="yes">(Commentary about felbamate and its association with aplastic anemia and hepatotoxicity; recommended limitation in its use).</italic></p></annotation><pub-id pub-id-type="pmid">9578519</pub-id></mixed-citation>
+          </ref>
+          <ref id="Felbamate.R10">
+            <mixed-citation publication-type="journal">Pellock JM. Felbamate in epilepsy therapy: evaluating the risks. Drug Saf 1999; 21: 225-39. <annotation><p><italic toggle="yes">(Review of toxicity and uses of felbamate which is &#x0201c;too valuable an anticonvulsant to be relegated to the therapeutic scrap heap.&#x0201d; Seven cases of hepatic failure that were considered &#x0201c;likely&#x0201d;, including 6 women, with latency of 1-6 months, usually with other agents; an epoxide metabolite is potentially responsible for hepatotoxicity; most felbamate is excreted unmetabolized).</italic></p></annotation><pub-id pub-id-type="pmid">10487399</pub-id></mixed-citation>
+          </ref>
+          <ref id="Felbamate.R11">
+            <mixed-citation publication-type="journal">Dieckhaus CM, Thompson CD, Roller SG, Macdonald TL. Mechanisms of idiosyncratic drug reactions: the case of felbamate. Chem Biol Interact 2002; 142: 99-117. <annotation><p><italic toggle="yes">(Detailed analysis of metabolism of felbamate and studies in vitro and in vivo suggesting an idiosyncratic metabolic pathway and bioactivation of felbamate to a highly reactive electrophilic metabolite, possibly atropaldehyde is responsible for its idiosyncratic toxicity).</italic></p></annotation><pub-id pub-id-type="pmid">12399158</pub-id></mixed-citation>
+          </ref>
+          <ref id="Felbamate.R12">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E. Hepatotoxicity associated with antiepileptic drugs. Acta Neurol Scan 2008; 118: 281-90. <annotation><p><italic toggle="yes">(Review of all anticonvulsants; indicates that felbamate has been associated with hepatotoxicity and cases of aplastic anemia, such that it is now rarely used).</italic></p></annotation><pub-id pub-id-type="pmid">18341684</pub-id></mixed-citation>
+          </ref>
+          <ref id="Felbamate.R13">
+            <mixed-citation publication-type="journal">Toledano R, Gil-Nagel A. Adverse effects of antiepileptic drugs. Semin Neurol 2008; 28: 317-27. <annotation><p><italic toggle="yes">(Review of adverse reactions to anticonvulsants, including hepatotoxicity; highlights felbamate).</italic></p></annotation><pub-id pub-id-type="pmid">18777478</pub-id></mixed-citation>
+          </ref>
+          <ref id="Felbamate.R14">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury including 11 due to anticonvulsants [phenytoin 8, valproate 2, carbamazepine 3], but none were attributed to felbamate).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Felbamate.R15">
+            <mixed-citation publication-type="journal">Devarbhavi H, Dierkhising R, Kremers WK, Sandeep MS, Karanth D, Adarsh CK. Single-center experience with drug-induced liver injury from India: causes, outcome, prognosis, and predictors of mortality. Am J Gastroenterol 2010; 105: 2396-404. <annotation><p><italic toggle="yes">(313 cases of drug induced liver injury were seen over a 12 year period at a large hospital in Bangalore, India; 11% were attributed to anticonvulsants, but none were attributed to felbamate).</italic></p></annotation><pub-id pub-id-type="pmid">20648003</pub-id></mixed-citation>
+          </ref>
+          <ref id="Felbamate.R16">
+            <mixed-citation publication-type="journal">Heyman E, Levin N, Lahat E, Epstein O, Gandelman-Marton R. Efficacy and safety of felbamate in children with refractory epilepsy. Eur J Paediatr Neurol 2014; 18: 658-62. <annotation><p><italic toggle="yes">(Among 50 children with refractory epilepsy treated with felbamate for an average of one year, seizure frequency decreased by half in 26 [58%] and, while 2 patients developed abnormal liver tests, none developed hepatic failure).</italic></p></annotation><pub-id pub-id-type="pmid">24906615</pub-id></mixed-citation>
+          </ref>
+          <ref id="Felbamate.R17">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 40 [4.5%] were due to anticonvulsants, but none were attributed to felbamate).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Felbamate.R18">
+            <mixed-citation publication-type="journal">Shah YD, Singh K, Friedman D, Devinsky O, Kothare SV. Evaluating the safety and efficacy of felbamate in the context of a black box warning: A single center experience. Epilepsy Behav 2016; 56:50-3. <annotation><p><italic toggle="yes"> (Among 103 patients with refractory epilepsy treated with felbamate for 1 month to 20 years, adverse events included insomnia, nausea, anorexia, weight loss, diarrhea and liver enzyme elevations above 3 times ULN in one patient, but no patient developed aplastic anemia or hepatic failure).</italic></p></annotation><pub-id pub-id-type="pmid">26828692</pub-id></mixed-citation>
+          </ref>
+          <ref id="Felbamate.R19">
+            <mixed-citation publication-type="journal">Vidaurre J, Gedela S, Yarosz S. Antiepileptic Drugs and Liver Disease. Pediatr Neurol 2017; 77: 23-36. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of anticonvulsants and their use in patients with liver disease; felbamate is listed as an agent "of last resort" because of its potential for adverse side effects including liver toxicity).</italic></p></annotation><pub-id pub-id-type="pmid">29097018</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Felbamate.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(felbamate+AND+phenylcarbamates/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%222009/11/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Felbamate: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=felbamate">Trials on Felbamate: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

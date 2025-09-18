@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Ambrisentan" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Ambrisentan</book-part-id>
+      <title-group>
+        <title>Ambrisentan</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>30</day>
+          <month>9</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Amantadine" document-type="chapter">Amantadine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="AmideLocalAnesthetic" document-type="chapter">Amide Local Anesthetics</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Ambrisentan.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Ambrisentan.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Ambrisentan is an endothelin receptor antagonist used in the therapy of pulmonary arterial hypertension (PAH). Ambrisentan has been associated with a low rate of serum enzyme elevations during therapy, but has yet to be implicated in cases of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Ambrisentan.Background">
+          <title>Background</title>
+          <p>Ambrisentan (am" bri sen' tan) is a selective inhibitor of the endothelin receptor type A (ETA) and has little activity against ETB in the doses used in humans. Inhibition of the ETA receptor disrupts the intracellular pathways that lead to vasoconstriction, thus causing vasodilation. Because this receptor is found in highest concentration in the lungs, ambrisentan primarily causes vasodilation in the pulmonary vasculature and decreases pulmonary vascular pressure. In prospective, randomized controlled trials, ambrisentan was effective in alleviating symptoms, improving exercise tolerance and prolonging the time to clinical worsening in patients with idiopathic PAH. Ambrisentan was the second endothelin receptor antagonist to be approved in the United States (2007) and it remains in active use. The current indications are for symptomatic pulmonary arterial hypertension, classified as WHO group 1 (idiopathic). Use of ambrisentan in other forms of PAH (due to heart failure, thromboembolic disease, or pulmonary disease) should be considered experimental as its efficacy in these forms of PAH has not been adequately shown. Because of the potential for teratogenicity, ambrisentan is available only as a part of a monitoring program in which documentation of adequate methods for birth control are required. Ambrisentan is available in tablets of 5 and 10 mg under the brand name Letairis and the recommended dose is 5 to 10 mg once daily. Common side effects include headaches, dizziness, edema, flushing, rhinitis and dyspepsia.</p>
+        </sec>
+        <sec id="Ambrisentan.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Ambrisentan is associated with a low rate of serum aminotransferase elevations (0% to 3%) that in clinical trials was similar to the rate in placebo recipients. These elevations are usually mild (rarely above 3 times ULN), transient and not associated with symptoms. For these reasons, monthly monitoring of serum aminotransferase levels is no longer routinely recommended during ambrisentan therapy.</p>
+          <p>There have also been no published reports of clinically apparent liver injury with jaundice associated with ambrisentan, but it has had limited general use. Other endothelin receptor antagonists (bosentan, sitaxsentan) have been linked to cases of acute liver injury, some of which have been severe. The onset of illness was usually within 1 to 6 months of starting bosentan and the enzyme pattern was typically hepatocellular or mixed. Immunoallergic features were usually not present and autoantibodies absent or present in low titer. Sitaxsentan was linked to several cases of fatal acute liver failure, for which reason it was not approved in the United States and was later withdrawn from use elsewhere. Ambrisentan has not been linked to similar cases and its chemical structure is sufficiently different to suggest lack of cross sensitivity to this complication.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Ambrisentan.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which ambrisentan might cause liver injury is not known. Ambrisentan is metabolized by the cytochrome P450 system (CYP 2C9 and 3A4), which may lead to production of a toxic intermediate and can also cause drug-drug interactions, particularly with cyclosporine A. One reason why ambrisentan may have less potential for causing liver injury than does bosentan is that its total daily dosage is much less, 5 to 10 mg daily rather than 62.5 to 125 mg.</p>
+        </sec>
+        <sec id="Ambrisentan.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum enzyme elevations associated with ambrisentan use have been mild-to-moderate and self-limited in course, often resolving despite drug continuation. Most patients who have had serum enzyme elevations while taking bosentan have tolerated switching to ambrisentan, but in at least one case report there was recurrence of liver injury, indicating that patients switched from one endothelin-1 receptor antagonist to another should be monitored at least for the first several months after switching.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="PulmonaryArterialHyp">Pulmonary Arterial Hypertension Agents</related-object></p>
+          <p>Other Drugs in the Subclass, <related-object source-id="livertox" document-id="EndothelinRcptAntag">Endothelin Receptor Antagonists</related-object>: <related-object source-id="livertox" document-id="Bosentan">Bosentan</related-object>, <related-object source-id="livertox" document-id="Macitentan">Macitentan</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Ambrisentan.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Ambrisentan.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Ambrisentan &#x02013; Letairis&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Pulmonary Arterial Hypertension Agents</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=ambrisentan">COMPLETE LABELING</ext-link>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Ambrisentan.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Ambrisentan.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Ambrisentan.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Ambrisentan.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Ambrisentan.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Ambrisentan.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Ambrisentan.T1_1_1_1_1" rowspan="1" colspan="1">Ambrisentan</td>
+                <td headers="hd_h_Ambrisentan.T1_1_1_1_2" rowspan="1" colspan="1">177036-94-1</td>
+                <td headers="hd_h_Ambrisentan.T1_1_1_1_3" rowspan="1" colspan="1">C22-H22-N2-O4</td>
+                <td headers="hd_h_Ambrisentan.T1_1_1_1_4" rowspan="1" colspan="1">\<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Ambrisentan_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Ambrisentan Chemical Structure</alt-text></graphic></td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Ambrisentan.REFERENCES">
+        <title>REFERENCES</title>
+        <p>References updated: 30 September 2017</p>
+        <ref-list id="Ambrisentan.REFERENCES.reflist0">
+          <ref id="Ambrisentan.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Textbook of hepatotoxicity published in 1999, before the availability of endothelin receptor antagonists).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ambrisentan.R2">
+            <mixed-citation publication-type="other">Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013.<annotation><p><italic toggle="yes">(Textbook on drug induced liver injury; clinical features of liver injury due to the endothelin receptor antagonists are not specifically discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ambrisentan.R3">
+            <mixed-citation publication-type="journal">Fattinger K, Funk C, Pantze M, Weber C, Reichen J, Stieger B, Meier PJ. The endothelin antagonist bosentan inhibits the canalicular bile salt export pump: a potential mechanism for hepatic adverse reactions. Clin Pharmacol Ther 2001; 69: 223-31. <annotation><p><italic toggle="yes">(Analysis of safety databases from 3 premarketing controlled trials of bosentan showed a dose related rate of ALT elevations [&#x0003e;3 times ULN] from 0% [0-20 mg/d] to 2-4% [100-500 mg/d] to 8-11% [1000-2000 mg/d] and concurrent rise in bile acid levels with minor increase in Alk P, but no change in bilirubin levels or clinically apparent liver injury; similar rate related rise in bile acids [but not ALT] in rats given bosentan).</italic></p></annotation><pub-id pub-id-type="pmid">11309550</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ambrisentan.R4">
+            <mixed-citation publication-type="journal">Rubin LJ, Badesch DB, Barst RJ, Galie N, Black CM, Keogh A, Pulido T, et al. Bosentan therapy for pulmonary arterial hypertension. N Engl J Med 2002; 346: 896-903. <annotation><p><italic toggle="yes">(Controlled trial of 2 doses of bosentan vs placebo in 213 patients with PAH; abnormal liver tests arose in 4% on 125 mg, 10% on 250 mg and 3% on placebo, but no patient developed clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">11907289</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ambrisentan.R5">
+            <mixed-citation publication-type="journal">Gali&#x000e9; N, Badesch D, Oudiz R, Simonneau G, McGoon MD, Keogh AM, Frost AE, et al. Ambrisentan therapy for pulmonary arterial hypertension. J Am Coll Cardiol 2005; 46: 529-35. <annotation><p><italic toggle="yes">(Among 64 patients with PAH treated with 1 of 4 doses of ambrisentan for 12 weeks, 3.1% developed ALT elevations above 3 times ULN and 2 patients discontinued therapy because of ALT values, but none had symptoms or jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">16053970</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ambrisentan.R6">
+            <mixed-citation publication-type="journal">Segal ES, Valette C, Oster L, Bouley L, Edfjall C, Herrmann P, Raineri M, et al. Risk management strategies in the postmarketing period : safety experience with the US and European bosentan surveillance programmes. Drug Saf 2005; 28: 971-80. <annotation><p><italic toggle="yes">(Description of a US and a European postmarketing system for monitoring safety of bosentan, which allows for estimation of rate of hepatic adverse events and which for serum enzyme elevations was 7.7%).</italic></p></annotation><pub-id pub-id-type="pmid">16231952</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ambrisentan.R7">
+            <mixed-citation publication-type="journal">Humbert M, Segal ES, Kiely DG, Carlsen J, Schwierin B, Hoeper MM. Results of European post-marketing surveillance of bosentan in pulmonary hypertension. Eur Respir J 2007; 30: 338-44. <annotation><p><italic toggle="yes">(Description and analysis of the internet based system of monitoring safety in patients receiving bosentan in Europe; in the first 30 months, 4994 patients were enrolled and annual rate of ALT or AST elevation above 3 times ULN was 10.1% [1.3% were &#x0003e;8 times ULN]; 3.2% of patients discontinued therapy because of enzyme elevations, and 11 of 45 patients redeveloped enzyme elevations with reintroduction of bosentan; no mention of clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">17504794</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ambrisentan.R8">
+            <mixed-citation publication-type="journal">Dupuis J, Hoeper MM. Endothelin receptor antagonists in pulmonary arterial hypertension. Eur Respir J 2008; 31: 407-15. <annotation><p><italic toggle="yes">(Review of the mechanism of action and clinical efficacy of endothelin receptor antagonists).</italic></p></annotation><pub-id pub-id-type="pmid">18238950</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ambrisentan.R9">
+            <mixed-citation publication-type="journal">Hrometz SL, Shields KM. Role of ambrisentan in the management of pulmonary hypertension. Ann Pharmacother 2008; 42: 1653-9. <annotation><p><italic toggle="yes">(Review of the mechanism of action, pharmacokinetics, metabolism, safety and efficacy of ambrisentan).</italic></p></annotation><pub-id pub-id-type="pmid">18957622</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ambrisentan.R10">
+            <mixed-citation publication-type="journal">Gali&#x000e9; N, Olschewski H, Oudiz RJ, Torres F, Frost A, Ghofrani HA, Badesch DB, et al.; Ambrisentan in Pulmonary Arterial Hypertension, Randomized, Double-Blind, Placebo-Controlled, Multicenter, Efficacy Studies (ARIES) Group. Ambrisentan for the treatment of pulmonary arterial hypertension: results of the ambrisentan in pulmonary arterial hypertension, randomized, double-blind, placebo-controlled, multicenter, efficacy (ARIES) study 1 and 2. Circulation 2008; 117: 3010-9. <annotation><p><italic toggle="yes">(Combined analysis of two controlled trials of different doses of ambrisentan vs placebo for 12 weeks in a total of 261 patients found that no patient developed ALT elevation above 3 times ULN). </italic></p></annotation><pub-id pub-id-type="pmid">18506008</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ambrisentan.R11">
+            <mixed-citation publication-type="journal">Hoeper MM. Liver toxicity: the Achilles' heel of endothelin receptor antagonist therapy? Eur Respir J 2009; 34: 529-30. <annotation><p><italic toggle="yes">(Editorial in response to Lavelle [2009] recounting the history of development of endothelin receptor antagonists and the problem of hepatotoxicity, stressing the need for "pharmacovigilance").</italic></p></annotation><pub-id pub-id-type="pmid">19720805</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ambrisentan.R12">
+            <mixed-citation publication-type="journal">McGoon MD, Frost AE, Oudiz RJ, Badesch DB, Galie N, Olschewski H, McLaughlin VV, Gerber MJ, Dufton C, Despain DJ, Rubin LJ. Ambrisentan therapy in patients with pulmonary arterial hypertension who discontinued bosentan or sitaxsentan due to liver function test abnormalities. Chest 2009; 135: 122-9. <annotation><p><italic toggle="yes">(36 patients with PAH who had ALT elevations during bosentan [n=31] or sitaxsentan [n=2] therapy were treated with ambrisentan for average of 2 years and only one had transient ALT elevation [3.2 times ULN] that resolved on stopping, and did not recur upon restarting and long term treatment).</italic></p></annotation><pub-id pub-id-type="pmid">18812445</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ambrisentan.R13">
+            <mixed-citation publication-type="journal">Gali&#x000e9; N, Hoeper MM, Simon J, Gibbs R, Simonneau G; Task Force for the Diagnosis and Treatment of Pulmonary Hypertension of the European Society of Cardiology(ESC) and the European Respiratory Society (ERS). Liver toxicity of sitaxentan in pulmonary arterial hypertension. Eur Heart J 2011; 32: 386-7. <annotation><p><italic toggle="yes">(Review of reports of hepatotoxicity of endothelin receptor antagonists identified 9 cases of severe liver injury from sitaxsentan, including 4 deaths and one liver transplant, compared to no instances of acute liver failure due to ambrisentan [10,000 patients exposed] or bosentan [80,000 patients exposed]).</italic></p></annotation><pub-id pub-id-type="pmid">21416695</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ambrisentan.R14">
+            <mixed-citation publication-type="journal">Cartin-Ceba R, Swanson K, Iyer V, Wiesner RH, Krowka MJ. Safety and efficacy of ambrisentan for the treatment of portopulmonary hypertension. Chest 2011; 139: 109-14. <annotation><p><italic toggle="yes">(Single center study of 1 to 3 years of open label ambrisentan therapy of 13 patients with portopulmonary hypertension due to cirrhosis, reported no change in ALT, AST or bilirubin values during therapy).</italic></p></annotation><pub-id pub-id-type="pmid">20705798</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ambrisentan.R15">
+            <mixed-citation publication-type="journal">Rubin LJ. Endothelin receptor antagonists for the treatment of pulmonary artery hypertension. Life Sci 2012; 91: 517-21. <annotation><p><italic toggle="yes">(Review of the mechanism of action and clinical efficacy of endothelin receptor antagonists in PAH, with mention of need to monitor serum aminotransferase levels during bosentan therapy).</italic></p></annotation><pub-id pub-id-type="pmid">22884806</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ambrisentan.R16">
+            <mixed-citation publication-type="journal">Badesch DB, Feldman J, Keogh A, Mathier MA, Oudiz RJ, Shapiro S, Farber HW; ARIES-3 Study Group. ARIES-3: ambrisentan therapy in a diverse population of patients with pulmonary hypertension. Cardiovasc Ther 2012; 30: 93-9. <annotation><p><italic toggle="yes">(Open label study of 24 weeks of ambrisentan in 224 patients with various causes of PAH [WHO groups 1 to 5]; ALT or AST elevations [above 3 times ULN] occurred in 2.7% and were above 8 times ULN in 2 patients, one of who became jaundiced).</italic></p></annotation><pub-id pub-id-type="pmid">21884013</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ambrisentan.R17">
+            <mixed-citation publication-type="journal">Vizza CD, Fedele F, Pezzuto B, Rubin LJ. Safety and efficacy evaluation of ambrisentan in pulmonary hypertension. Expert Opin Drug Saf 2012; 11: 1003-11. <annotation><p><italic toggle="yes">(Review of the mechanism of action, pharmacokinetics, safety and efficacy of ambrisentan; liver test abnormalities are less common with ambrisentan than bosentan or sitaxsentan therapy).</italic></p></annotation><pub-id pub-id-type="pmid">22861496</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ambrisentan.R18">
+            <mixed-citation publication-type="journal">Ben-Yehuda O, Pizzuti D, Brown A, Littman M, Gillies H, Henig N, Peschel T. Long-term hepatic safety of ambrisentan in patients with pulmonary arterial hypertension. J Am Coll Cardiol 2012; 60: 80-1. <annotation><p><italic toggle="yes">(Analysis of active postmarketing surveillance for side effects of ambrisentan; over a 3.5 year period, 10,927 patients were exposed, of whom 2.9% were reported as having possible hepatic injury, but only 0.7% could be confirmed and were judged clinically significant; based upon these results, routine monitoring of serum aminotransferase levels during ambrisentan therapy is no longer recommended).</italic></p></annotation><pub-id pub-id-type="pmid">22578922</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ambrisentan.R19">
+            <mixed-citation publication-type="journal">Mac&#x000ed;as Saint-Gerons D, de la Fuente Honrubia C, Montero Corominas D, Catal&#x000e1;-L&#x000f3;pez F. [Hepatotoxicity in patients treated with endothelin receptor antagonists: Systematic review and meta-analysis of randomized clinical trials.]. Med Clin (Barc) 2014; 142: 333-42. Spanish. <annotation><p><italic toggle="yes">(Systematic review of the literature, including 21 trials in 3644 patients, found relative risk of ALT or AST elevations above 3 times ULN to be 2.98 for endothelin receptor antagonists compared to placebo controls).</italic></p></annotation><pub-id pub-id-type="pmid">23540381</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ambrisentan.R20">
+            <mixed-citation publication-type="journal">Naito A, Terada J, Tanabe N, Sugiura T, Sakao S, Kanda T, Yokosuka O, Tatsumi K. Autoimmune hepatitis in a patient with pulmonary arterial hypertension treated with endothelin receptor antagonists. Intern Med 2014; 53: 771-5. <annotation><p><italic toggle="yes">(48 year old woman with idiopathic PAH and ANA positivity [1:1,280] developed ALT elevations [421 U/L] 5 years after starting bosentan, which resolved on stopping but recurred [ALT 521 U/L] 1 year after starting ambrisentan, resolving on stopping but arising again [ALT ~250 U/L], resolving with prednisolone therapy after biopsy showed autoimmune hepatitis).</italic></p></annotation><pub-id pub-id-type="pmid">24694495</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ambrisentan.R21">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, one was attributed to bosentan, but none to macitentan, ambrisentan or other agents used primarily to treat pulmonary artery hypertension).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ambrisentan.R22">
+            <mixed-citation publication-type="journal">Wei A, Gu Z, Li J, Liu X, Wu X, Han Y, Pu J. Clinical adverse effects of endothelin receptor antagonists: insights from the meta-analysis of 4894 patients from 24 randomized double-blind placebo-controlled clinical trials. J Am Heart Assoc 2016; 5. pii: e003896. <annotation><p><italic toggle="yes">(Systematic review of 24 randomized trials of endothelin receptor antagonists indicated higher rates of "abnormal liver function" in patients receiving bosentan and macitentan, but not ambrisentan).</italic></p></annotation><pub-id pub-id-type="pmid">27912207</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Ambrisentan.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Ambrisentan/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Ambrisentan: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Ambrisentan">Trials on Ambrisentan: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

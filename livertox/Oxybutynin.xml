@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Oxybutynin" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Oxybutynin</book-part-id>
+      <title-group>
+        <title>Oxybutynin</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>12</day>
+          <month>7</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Oxybate" document-type="chapter">Oxybate</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Oxycodone" document-type="chapter">Oxycodone</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Oxybutynin.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Oxybutynin.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Oxybutynin is a synthetic anticholinergic agent that is used for treatment of urinary incontinence and overactive bladder syndrome. Oxybutynin has not been implicated in causing liver enzyme elevations or clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Oxybutynin.Background">
+          <title>Background</title>
+          <p>Oxybutynin (ox" i bue' ti nin) is a synthetic anticholinergic that has specificity for the M1, M2 and M3 subtypes of the muscarinic acetylcholine receptor which are commonly found in bladder smooth muscle. Oxybutynin is used largely for the treatment of overactive bladder and neurogenic bladder and for symptoms of frequency and urge incontinence. Oxybutynin was approved for use in the United States in 1975 and has been widely used. It is available in regular and extended-release tablets as well as oral solutions, syrups, and transdermal creams in various generic forms and under the trade name Ditropan. A transdermal patch formulation is available under the brand name Oxytrol. The usual adult oral dose is 10 to 20 mg daily in divided doses or in a single extended release tablet form. The usual pediatric dose (for children 6 years of age and older) is 5 to 10 mg daily. Common side effects are those of parasympathetic stimulation and include dryness of the mouth and eyes, decreased sweating, headache, visual blurring, constipation, urinary retention, impotence, tachycardia and palpitations, anxiety, restlessness and in some instances agitation and delusions. Rare but potentially severe adverse reactions include acute narrow angle glaucoma, acute urinary retention, gastric retention and stasis, worsening of neurologic diseases such as dementia, Parkinson disease and myasthenia gravis, and severe hypersensitivity reactions.</p>
+        </sec>
+        <sec id="Oxybutynin.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In multiple, large clinical trials of oxybutynin therapy for overactive bladder syndrome, serum enzyme elevations were rare and no more frequent than with placebo, and there were no episodes of clinically apparent liver injury. Since its approval and widespread use for more than four decades, there has been only a single published case of suspected liver injury attributed to oxybutynin &#x02013; a report of transient serum enzyme elevations without jaundice or apparent symptoms in a patient with a severe ischemic stroke arising within weeks of starting oxybutynin. Thus, clinically apparent liver injury from oxybutynin is very rare if it occurs at all.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Oxybutynin.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Oxybutynin has not been convincingly linked to liver injury. It is metabolized in the liver by microsomal P450 enzymes, predominantly CYP 3A4. Despite this, drug-drug interactions are uncommon. A major reason for its safety may relate to the low daily dose.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="Anticholinergics" document-type="chapter">Anticholinergic Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Oxybutynin.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Oxybutynin &#x02013; Generic, Ditropan&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Anticholinergic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Oxybutynin">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Oxybutynin.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Oxybutynin.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Oxybutynin.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Oxybutynin.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Oxybutynin.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Oxybutynin.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Oxybutynin.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Oxybutynin</td>
+                <td headers="hd_h_Oxybutynin.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135049164">5633-20-5</ext-link>
+</td>
+                <td headers="hd_h_Oxybutynin.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C22-H31-N-O3</td>
+                <td headers="hd_h_Oxybutynin.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135049164" document-id-type="sid" document-type="summary" object-id="135049164" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Oxybutynin.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 12 July 2023</p>
+        <p>Abbreviations: ER, extended release.</p>
+        <ref-list id="Oxybutynin.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Oxybutynin.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999 before the availability of darifenacin and other therapies of overactive bladder syndrome).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Oxybutynin.REF.brown.2018">
+            <mixed-citation publication-type="book">Brown JH, Brandl K, Wess J. Therapeutic uses of muscarinic receptor antagonists: Muscarinic receptor agonists and antagonists. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 156-9.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Oxybutynin.REF.davila.2001.140">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Davila</surname>
+<given-names>GW</given-names></string-name>, <string-name name-style="western"><surname>Daugherty</surname>
+<given-names>CA</given-names></string-name>, <string-name name-style="western"><surname>Sanders</surname>
+<given-names>SW</given-names></string-name>; <collab>Transdermal Oxybutynin Study Group</collab>. <article-title>A short-term, multicenter, randomized double-blind dose titration study of the efficacy and anticholinergic side effects of transdermal compared to immediate release oral oxybutynin treatment of patients with urge urinary incontinence.</article-title>
+<source>J Urol.</source>
+<year>2001</year>;<volume>166</volume>:<fpage>140</fpage>-<lpage>5</lpage>.<annotation><p><italic toggle="yes">(Among 76 adults with detrusor instability on treatment with oral oxybutynin who were withdrawn from therapy for 2 weeks and then restarted with either a transdermal formulation or the oral drug, improvement in incontinence was similar in both groups, while side effects were less frequent with the transdermal forms, including dry mouth [38% vs 94%] and constipation [21% vs 50%]: no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">11435842</pub-id></mixed-citation>
+          </ref>
+          <ref id="Oxybutynin.REF.dmochowski.2005.263">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Dmochowski</surname>
+<given-names>RR</given-names></string-name>, <string-name name-style="western"><surname>Nitti</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Staskin</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Luber</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Appell</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Davila</surname>
+<given-names>GW</given-names></string-name>. <article-title>Transdermal oxybutynin in the treatment of adults with overactive bladder: combined results of two randomized clinical trials.</article-title>
+<source>World J Urol.</source>
+<year>2005</year>;<volume>23</volume>:<fpage>263</fpage>-<lpage>70</lpage>.<annotation><p><italic toggle="yes">(Among 485 adults with overactive bladder treated with transdermal oxybutynin or placebo for 12 weeks with follow up open-label periods, daily incontinence episodes and urinary frequency decreased with oxybutynin, while adverse events were higher [41% vs 25%] resulting in more discontinuations [11% vs 1.2%, often due to site application reactions]: no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">16151816</pub-id></mixed-citation>
+          </ref>
+          <ref id="Oxybutynin.REF.armstrong.2007.1069">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Armstrong</surname>
+<given-names>RB</given-names></string-name>, <string-name name-style="western"><surname>Dmochowski</surname>
+<given-names>RR</given-names></string-name>, <string-name name-style="western"><surname>Sand</surname>
+<given-names>PK</given-names></string-name>, <string-name name-style="western"><surname>Macdiarmid</surname>
+<given-names>S</given-names></string-name>. <article-title>Safety and tolerability of extended-release oxybutynin once daily in urinary incontinence: combined results from two phase 4 controlled clinical trials.</article-title>
+<source>Int Urol Nephrol</source>
+<year>2007</year>; <volume>39</volume>: <fpage>1069</fpage>-<lpage>77</lpage>.<annotation><p><italic toggle="yes">(Combined results from two trials in 1168 patients with urinary incontinence comparing oxybutynin and tolterodine found most common side effects to be gastrointestinal upset [~40%], dry mouth [~30%], constipation [~7%] and diarrhea [~7%]; no mention of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">17333521</pub-id></mixed-citation>
+          </ref>
+          <ref id="Oxybutynin.REF.novara.2008.740">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Novara</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Galfano</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Secco</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>D'Elia</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Cavalleri</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Ficarra</surname>
+<given-names>V</given-names></string-name>, <string-name name-style="western"><surname>Artibani</surname>
+<given-names>W.</given-names></string-name>
+<article-title>A systematic review and meta-analysis of randomized controlled trials with antimuscarinic drugs for overactive bladder.</article-title>
+<source>Eur Urol</source>
+<year>2008</year>; <volume>54</volume>: <fpage>740</fpage>-<lpage>63</lpage>.<annotation><p><italic toggle="yes">(Systematic review of efficacy and safety of drugs for overactive bladder including tolterodine, propiverine, solifenacin, darifenacin, fesoterodine and oxybutynin; common side effects included dry mouth and constipation; hepatotoxicity and ALT elevations were not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">18632201</pub-id></mixed-citation>
+          </ref>
+          <ref id="Oxybutynin.REF.chalasani.2008.1924">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Chalasani</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Fontana</surname>
+<given-names>RJ</given-names></string-name>, <string-name name-style="western"><surname>Bonkovsky</surname>
+<given-names>HL</given-names></string-name>, <string-name name-style="western"><surname>Watkins</surname>
+<given-names>PB</given-names></string-name>, <string-name name-style="western"><surname>Davern</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Serrano</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Yang</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Rochon</surname>
+<given-names>J</given-names></string-name>; <collab>Drug Induced Liver Injury Network (DILIN)</collab>. <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+<source>Gastroenterology</source>
+<year>2008</year>; <volume>135</volume>: <fpage>1924</fpage>-<lpage>34</lpage>.<annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, none were attributed to anticholinergics or drugs for overactive bladder).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Oxybutynin.REF.reuben.2010.2065">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Reuben</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Koch</surname>
+<given-names>DG</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>WM</given-names></string-name>; <collab>Acute Liver Failure Study Group</collab>. <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+<source>Hepatology</source>
+<year>2010</year>; <volume>52</volume>: <fpage>2065</fpage>-<lpage>76</lpage>.<annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were attributed to anticholinergics or drugs for overactive bladder syndrome).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Oxybutynin.REF.ferrajolo.2010.721">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ferrajolo</surname>
+<given-names>C</given-names></string-name>, <string-name name-style="western"><surname>Capuano</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Verhamme</surname>
+<given-names>KM</given-names></string-name>, <string-name name-style="western"><surname>Schuemie</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Rossi</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Stricker</surname>
+<given-names>BH</given-names></string-name>, <string-name name-style="western"><surname>Sturkenboom</surname>
+<given-names>MC</given-names></string-name>. <article-title>Drug-induced hepatic injury in children: a case/non-case study of suspected adverse drug reactions in VigiBase.</article-title>
+<source>Br J Clin Pharmacol</source>
+<year>2010</year>; <volume>70</volume>: <fpage>721</fpage>-<lpage>8</lpage>.<annotation><p><italic toggle="yes">(Among 624,673 adverse event reports in children between 2000 and 2006 in the WHO VigiBase, 1% were hepatic, but no anticholinergic was listed among the 41 most frequently implicated agents).</italic></p></annotation><pub-id pub-id-type="pmid">21039766</pub-id></mixed-citation>
+          </ref>
+          <ref id="Oxybutynin.REF.shamliyan.2012.861">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Shamliyan</surname>
+<given-names>T</given-names></string-name>, <string-name name-style="western"><surname>Wyman</surname>
+<given-names>JF</given-names></string-name>, <string-name name-style="western"><surname>Ramakrishnan</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Sainfort</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>Kane</surname>
+<given-names>RL</given-names></string-name>. <article-title>Benefits and harms of pharmacologic treatment for urinary incontinence in women: a systematic review.</article-title>
+<source>Ann Intern Med</source>
+<year>2012</year>; <volume>156</volume>: <fpage>861</fpage>-<lpage>74</lpage>.<annotation><p><italic toggle="yes">(Systematic review of the safety and efficacy of drugs used for urinary incontinence including fesoterodine, tolterodine, oxybutynin, solifenacin and trospium; most had modest effectiveness; hepatotoxicity was not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">22711079</pub-id></mixed-citation>
+          </ref>
+          <ref id="Oxybutynin.REF.bj_rnsson.2013.1419">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Bj&#x000f6;rnsson</surname>
+<given-names>ES</given-names></string-name>, <string-name name-style="western"><surname>Bergmann</surname>
+<given-names>OM</given-names></string-name>, <string-name name-style="western"><surname>Bj&#x000f6;rnsson</surname>
+<given-names>HK</given-names></string-name>, <string-name name-style="western"><surname>Kvaran</surname>
+<given-names>RB</given-names></string-name>, <string-name name-style="western"><surname>Olafsson</surname>
+<given-names>S</given-names></string-name>. <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+<source>Gastroenterology</source>
+<year>2013</year>; <volume>144</volume>: <fpage>1419</fpage>-<lpage>25</lpage>.<annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none were attributed to mirabegron or drugs for overactive bladder syndrome).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Oxybutynin.REF.hern_ndez.2014.231">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Hern&#x000e1;ndez</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Bessone</surname>
+<given-names>F</given-names></string-name>, <string-name name-style="western"><surname>S&#x000e1;nchez</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>di Pace</surname>
+<given-names>M</given-names></string-name>, <string-name name-style="western"><surname>Brahm</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Zapata</surname>
+<given-names>R, A</given-names></string-name>
+<string-name name-style="western"><surname>Chirino</surname>
+<given-names>R</given-names></string-name>, <etal>et al.</etal>
+<article-title>Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports.</article-title>
+<source>Ann Hepatol</source>
+<year>2014</year>; <volume>13</volume>: <fpage>231</fpage>-<lpage>9</lpage>.<annotation><p><italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, but none were attributed to drugs used for overactive bladder syndrome).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Oxybutynin.REF.maman.2014.755">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Maman</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Aballea</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Nazir</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Desroziers</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Neine</surname>
+<given-names>ME</given-names></string-name>, <string-name name-style="western"><surname>Siddiqui</surname>
+<given-names>E</given-names></string-name>, <string-name name-style="western"><surname>Odeyemi</surname>
+<given-names>I</given-names></string-name>, <etal>et al.</etal>
+<article-title>Comparative efficacy and safety of medical treatments for the management of overactive bladder: a systematic literature review and mixed treatment comparison.</article-title>
+<source>Eur Urol.</source>
+<year>2014</year>;<volume>65</volume>:<fpage>755</fpage>-<lpage>65</lpage>.<annotation><p><italic toggle="yes">(Systematic review of literature on medical therapies for overactive bladder identified 44 controlled trials demonstrating similar efficacy among 6 anticholinergics and a single beta-3 adrenergic agonist [mirabegron] when compared to placebo, but less dry mouth with mirabegron than with anticholinergic agents; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">24275310</pub-id></mixed-citation>
+          </ref>
+          <ref id="Oxybutynin.REF.chalasani.2015.1340">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Chalasani</surname>
+<given-names>N</given-names></string-name>, <string-name name-style="western"><surname>Bonkovsky</surname>
+<given-names>HL</given-names></string-name>, <string-name name-style="western"><surname>Fontana</surname>
+<given-names>R</given-names></string-name>, <string-name name-style="western"><surname>Lee</surname>
+<given-names>W</given-names></string-name>, <string-name name-style="western"><surname>Stolz</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Talwalkar</surname>
+<given-names>J</given-names></string-name>, <string-name name-style="western"><surname>Reddy</surname>
+<given-names>KR</given-names></string-name>, <etal>et al.</etal>; <collab>United States Drug Induced Liver Injury Network</collab>. <article-title>Features and outcomes of 899 patients with drug-induced liver injury: the DILIN Prospective Study.</article-title>
+<source>Gastroenterology</source>
+<year>2015</year>; <volume>148</volume>: <fpage>1340</fpage>-<lpage>1352.e7</lpage>.<annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, none were attributed to mirabegron or other agents for overactive bladder syndrome).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Oxybutynin.REF.thiagamoorthy.2015.445">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Thiagamoorthy</surname>
+<given-names>G</given-names></string-name>, <string-name name-style="western"><surname>Cardozo</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Srikrishna</surname>
+<given-names>S</given-names></string-name>. <article-title>Drug therapy for an overactive bladder.</article-title>
+<source>Womens Health (Lond)</source>
+<year>2015</year>; <volume>11</volume>: <fpage>445</fpage>-<lpage>8</lpage>.<annotation><p><italic toggle="yes">(Overactive bladder is defined as urinary urgency, usually with frequency and nocturia with or without incontinence in the absence of infection or other known cause, medical therapy being use of anticholinergics or beta-3 adrenergic receptor agonists such as mirabegron or vibegron which have fewer side effects than typical anticholinergics).</italic></p></annotation><pub-id pub-id-type="pmid">26238677</pub-id></mixed-citation>
+          </ref>
+          <ref id="Oxybutynin.REF.alrawashdeh.2018.1657">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Alrawashdeh</surname>
+<given-names>H</given-names></string-name>, <string-name name-style="western"><surname>Madi</surname>
+<given-names>L</given-names></string-name>, <string-name name-style="western"><surname>Ahmed Elhada</surname>
+<given-names>AH</given-names></string-name>, <string-name name-style="western"><surname>Ahmed</surname>
+<given-names>A</given-names></string-name>, <string-name name-style="western"><surname>Serheed</surname>
+<given-names>D</given-names></string-name>. <article-title>A case of probable oxybutynin-induced increase in liver enzymes.</article-title>
+<source>Ther Clin Risk Manag.</source>
+<year>2018</year>;<volume>14</volume>:<fpage>1657</fpage>-<lpage>1660</lpage>.<annotation><p><italic toggle="yes">(A 49 year old man hospitalized for an ischemic stroke developed ALT elevations [bilirubin not given, ALT 452 U/L, Alk P not given] which decreased on stopping atorvastatin but rose again within days of starting oxybutynin, falling with stopping but was lost to follow up before values returned to normal).</italic></p></annotation><pub-id pub-id-type="pmid">30237720</pub-id></mixed-citation>
+          </ref>
+          <ref id="Oxybutynin.REF.ramsay.2020.192">
+            <mixed-citation publication-type="journal"><string-name name-style="western"><surname>Ramsay</surname>
+<given-names>S</given-names></string-name>, <string-name name-style="western"><surname>Naud</surname>
+<given-names>&#x000c9;</given-names></string-name>, <string-name name-style="western"><surname>Simonyan</surname>
+<given-names>D</given-names></string-name>, <string-name name-style="western"><surname>Moore</surname>
+<given-names>K</given-names></string-name>, <string-name name-style="western"><surname>Bolduc</surname>
+<given-names>S.</given-names></string-name>
+<article-title>A randomized, crossover trial comparing the efficacy and safety of fesoterodine and extended-release oxybutynin in children with overactive bladder with 12-month extension on fesoterodine: The FOXY study.</article-title>
+<source>Can Urol Assoc J.</source>
+<year>2020</year>;<volume>14</volume>:<fpage>192</fpage>-<lpage>198</lpage>.<annotation><p><italic toggle="yes">(Among 60 children with overactive bladder syndrome treated with fesoterodine [4 mg] or oxybutynin [50 mg] daily for 2 months, with subsequent cross over to the other medication for 2 months followed by 12 months of treatment with fesoterodine, both drugs led to similar improvement in symptoms, and both were well tolerated; one patient developed ALT elevations on fesoterodine, but no details of degree and duration of abnormalities were provided).</italic></p></annotation><pub-id pub-id-type="pmid">31977308</pub-id></mixed-citation>
+          </ref>
+          <ref id="Oxybutynin.REF18">
+            <mixed-citation publication-type="journal"><article-title>Drugs for overactive bladder.</article-title>
+<source>Med Lett Drugs Ther.</source>
+<year>2023</year>;<volume>65</volume>:<fpage>41</fpage>-<lpage>45</lpage>.<annotation><p><italic toggle="yes">(Concise review of drugs approved for therapy of overactive bladder in the US including anticholinergic agents [darifenacin, fesoterodine, oxbutynin, solifenacin, tolterodine and trospium] and beta-3 adrenergic receptor agonists [mirabegron and vibegron], including clinical efficacy, safety, and costs; no mention of ALT elevations or hepatotoxicity of any of the agent discussed).</italic></p></annotation><pub-id pub-id-type="pmid">36897601</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Oxybutynin.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Oxybutynin/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Oxybutynin: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Oxybutynin">Trials on Oxybutynin: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

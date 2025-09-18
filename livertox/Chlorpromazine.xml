@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Chlorpromazine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Chlorpromazine</book-part-id>
+      <title-group>
+        <title>Chlorpromazine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>5</day>
+          <month>10</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Chloroquine" document-type="chapter">Chloroquine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Chlorzoxazone" document-type="chapter">Chlorzoxazone</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Chlorpromazine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Chlorpromazine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Chlorpromazine is a phenothiazine that was once the most commonly prescribed antipsychotic agent, but that is now rarely used. Chlorpromazine can cause mild and transient serum enzyme elevations and is also a well known cause of clinically apparent acute and chronic cholestatic liver injury.</p>
+        </sec>
+        <sec id="Chlorpromazine.Background">
+          <title>Background</title>
+          <p>Chlorpromazine (klor proe' ma zeen) is a tricyclic aliphatic phenothiazine which acts by postsynaptic inhibition of dopamine receptors. Chlorpromazine has other peripheral and central nervous system effects, producing both alpha adrenergic stimulation and blocking histamine- and serotonin-mediated effects. Chlorpromazine is indicated for the therapy of acute and chronic psychosis and for nausea and intractable hiccups. Chlorpromazine was approved for use in the United States in 1957 and was formerly the most commonly prescribed antipsychotic medication, being the prototypic, standard neuroleptic agent against which other antipsychotic agents were tested. In recent years, chlorpromazine has been replaced in large part by the atypical antipsychotics, which have fewer extrapyramidal and hepatic side effects. Current indications include psychotic disorders, schizophrenia, nausea and vomiting, acute intermittent porphyria and intractable hiccups. Chlorpromazine is available in multiple generic forms as tablets of 10, 25, 50, 100 and 200 mg, as extended release capsules of 200 and 300 mg, and as syrup in various concentrations. Parenteral forms are also available. Chlorpromazine was formerly available under the brand names Thorazine and Largactil. The typical maintenance dose of chlorpromazine is 100 to 200 mg daily. Common side effects include drowsiness, dizziness, headache, blurred vision, dry mouth, constipation, tremor, restlessness, muscle spasms and weight gain.</p>
+        </sec>
+        <sec id="Chlorpromazine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Liver test abnormalities have been reported to occur in up to 40% of patients on long term therapy with chlorpromazine, but elevations are uncommonly above 3 times the upper limit of normal. The aminotransferase abnormalities are usually self-limited and unaccompanied by symptoms, reversing even without discontinuation.</p>
+          <p>Chlorpromazine is also a well known cause of acute cholestatic liver injury. Numerous instances of clinically apparent acute liver injury due to chlorpromazine have been reported in the literature, which is estimated to occur in 1:500 persons exposed. Chlorpromazine was formerly the most common cause of drug induced liver injury in the United States, but with the decrease in its use, chlorpromazine associated jaundice is now rarely reported. The clinical presentation and course are well defined. The onset of jaundice is usually within 1 to 5 weeks, and the pattern of serum enzyme elevations is typically cholestatic or mixed (Case 1). Immunoallergic manifestations (fever, rash and eosinophilia) occur in some but not all cases, and these manifestations are usually mild and self-limited. Autoantibody formation is rare. Most importantly, chlorpromazine jaundice can be prolonged and associated with vanishing bile duct syndrome (Case 2).</p>
+          <p>Likelihood score: A (well known cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Chlorpromazine.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which chlorpromazine causes serum aminotransferase elevations is not known. The clinically apparent liver injury due to chlorpromazine is likely due to hypersensitivity, based upon the clinical features of a short latency period, fever, eosinophilia, and rapid recurrence upon reexposure. Chlorpromazine is extensively metabolized by the liver via sulfoxidation and oxidation, and some instances of serum aminotransferase elevations as well as more clinically apparent liver injury may be caused by production of a toxic intermediate of its metabolism. Chlorpromazine therapy can also cause weight gain, and some instances of liver test abnormalities during therapy may due to nonalcoholic fatty liver disease.</p>
+        </sec>
+        <sec id="Chlorpromazine.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum aminotransferase elevations that occur on chlorpromazine therapy are usually self-limited and do not require dose modification or discontinuation of therapy. The acute cholestatic hepatitis caused by chlorpromazine is typically self-limited and benign, but should prompt immediate discontinuation. Up to 7% of cases of chlorpromazine induced cholestasis are followed by prolonged jaundice, and several instances of vanishing bile duct syndrome have been attributed to chlorpromazine. Many patients with chronic cholestasis eventually improve, but they often have persistent enzyme elevations and may develop biliary cirrhosis. Fatalities from chlorpromazine jaundice have been reported. Rechallenge with chlorpromazine usually causes a prompt recurrence of the liver injury and should be avoided. Patients with chlorpromazine induced liver injury may have cross sensitivity to other phenothiazines, but generally tolerate the atypical antipsychotics. Patients with symptomatic cholestasis may benefit from ursodiol therapy (12-15 mg/kg/day). Ursodiol is generally safe and well tolerated, but it has not been rigorously evaluated for efficacy in controlled trials in drug induced liver injury. Corticosteroids are often used in patients with severe cholestatic injury due to medications, particularly if there are accompanying signs of hypersensitivity, but their efficacy has never been shown and they rarely appear to have an effect on cholestasis.</p>
+          <p>Drug Class: Gastrointestinal Agents; <related-object source-id="livertox" document-id="AntipsychoticAgents">Antipsychotic Agents</related-object></p>
+          <p>Other Drugs in the Subclass, Antipsychotic Agents, Phenothiazines: <related-object source-id="livertox" document-id="Fluphenazine">Fluphenazine</related-object>, <related-object source-id="livertox" document-id="Perphenazine">Perphenazine</related-object>, <related-object source-id="livertox" document-id="Prochlorperazine">Prochlorperazine</related-object>, <related-object source-id="livertox" document-id="Thioridazine">Thioridazine</related-object>, <related-object source-id="livertox" document-id="Trifluoperazine">Trifluoperazine</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Chlorpromazine.CASE_REPORTS">
+        <title>CASE REPORTS</title>
+        <sec id="Chlorpromazine.Case_1._Acute_cholestatic">
+          <title>Case 1. Acute cholestatic hepatitis due to chlorpromazine.</title>
+          <p>[Modified from: Werther JL, Korelitz BI. Chlorpromazine jaundice: analysis of twenty-two cases. Am J Med 1957; 22: 351-66. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/13402787">PubMed Citation</ext-link>] [Case 4]</p>
+          <p>A 26 year old woman with depression was started on chlorpromazine (75 mg/day) and developed generalized pruritus one week later followed by fever, nausea and dark urine. After 21 days of therapy, she was seen by her physician and chlorpromazine was stopped. There was no history of liver disease or alcohol abuse. She was jaundiced but afebrile and without rash. The liver was enlarged but nontender. Serum bilirubin was 12.4 mg/dL and alkaline phosphatase 36.3 King-Armstrong units (normal &#x0003c;13) (Table). A total white blood cell count was normal and eosinophils were 4% (~330/&#x000b5;L). An oral cholecystogram was normal. A liver biopsy showed intrahepatic cholestasis and portal infiltrates populated by eosinophils. Over the next few weeks she began to improve and laboratory test results returned to normal within 10 weeks.</p>
+          <sec id="Chlorpromazine.Key_Points1">
+            <title>Key Points</title>
+            <table-wrap id="Chlorpromazine.T1" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Chlorpromazine.T1_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Chlorpromazine (75 mg/day)</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Chlorpromazine.T1_1_1_1_1" id="hd_b_Chlorpromazine.T1_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Chlorpromazine.T1_1_1_1_1" rowspan="1" colspan="1">Cholestatic</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Chlorpromazine.T1_1_1_1_1" id="hd_b_Chlorpromazine.T1_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Chlorpromazine.T1_1_1_2_1" rowspan="1" colspan="1">3+ (jaundice, hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Chlorpromazine.T1_1_1_1_1" id="hd_b_Chlorpromazine.T1_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Chlorpromazine.T1_1_1_3_1" rowspan="1" colspan="1">1-2 weeks</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Chlorpromazine.T1_1_1_1_1" id="hd_b_Chlorpromazine.T1_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Chlorpromazine.T1_1_1_4_1" rowspan="1" colspan="1">6 weeks</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Chlorpromazine.T1_1_1_1_1" id="hd_b_Chlorpromazine.T1_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Chlorpromazine.T1_1_1_5_1" rowspan="1" colspan="1">None mentioned</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Chlorpromazine.Laboratory_Values1">
+            <title>Laboratory Values</title>
+            <table-wrap id="Chlorpromazine.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Chlorpromazine.T2_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Chlorpromazine.T2_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Chlorpromazine.T2_1_1_1_3" rowspan="1" colspan="1">Alk P<break/> (K-A U/L)</th>
+                    <th id="hd_h_Chlorpromazine.T2_1_1_1_4" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Chlorpromazine.T2_1_1_1_5" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Chlorpromazine.T2_1_1_1_1" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Chlorpromazine.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Chlorpromazine.T2_1_1_1_3 hd_h_Chlorpromazine.T2_1_1_1_4 hd_h_Chlorpromazine.T2_1_1_1_5" colspan="3" rowspan="1">Chlorpromazine (75 mg/day) given for 21 days</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Chlorpromazine.T2_1_1_1_1" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Chlorpromazine.T2_1_1_1_2" rowspan="1" colspan="1">4 days</td>
+                    <td headers="hd_h_Chlorpromazine.T2_1_1_1_3" rowspan="1" colspan="1">36.3</td>
+                    <td headers="hd_h_Chlorpromazine.T2_1_1_1_4" rowspan="1" colspan="1">12.4</td>
+                    <td headers="hd_h_Chlorpromazine.T2_1_1_1_5" rowspan="1" colspan="1">Eosinophils 4%</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Chlorpromazine.T2_1_1_1_1" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Chlorpromazine.T2_1_1_1_2" rowspan="1" colspan="1">11 days</td>
+                    <td headers="hd_h_Chlorpromazine.T2_1_1_1_3" rowspan="1" colspan="1">25.6</td>
+                    <td headers="hd_h_Chlorpromazine.T2_1_1_1_4" rowspan="1" colspan="1">9.1</td>
+                    <td headers="hd_h_Chlorpromazine.T2_1_1_1_5" rowspan="1" colspan="1">Eosinophils 6%</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Chlorpromazine.T2_1_1_1_1" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Chlorpromazine.T2_1_1_1_2" rowspan="1" colspan="1">18 days</td>
+                    <td headers="hd_h_Chlorpromazine.T2_1_1_1_3" rowspan="1" colspan="1">30.4</td>
+                    <td headers="hd_h_Chlorpromazine.T2_1_1_1_4" rowspan="1" colspan="1">6.1</td>
+                    <td headers="hd_h_Chlorpromazine.T2_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Chlorpromazine.T2_1_1_1_1" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Chlorpromazine.T2_1_1_1_2" rowspan="1" colspan="1">25 days</td>
+                    <td headers="hd_h_Chlorpromazine.T2_1_1_1_3" rowspan="1" colspan="1">19.4</td>
+                    <td headers="hd_h_Chlorpromazine.T2_1_1_1_4" rowspan="1" colspan="1">3.8</td>
+                    <td headers="hd_h_Chlorpromazine.T2_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Chlorpromazine.T2_1_1_1_1" rowspan="1" colspan="1">13 weeks</td>
+                    <td headers="hd_h_Chlorpromazine.T2_1_1_1_2" rowspan="1" colspan="1">10 weeks</td>
+                    <td headers="hd_h_Chlorpromazine.T2_1_1_1_3" rowspan="1" colspan="1">7.7</td>
+                    <td headers="hd_h_Chlorpromazine.T2_1_1_1_4" rowspan="1" colspan="1">0.7</td>
+                    <td headers="hd_h_Chlorpromazine.T2_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Chlorpromazine.T2_1_1_1_1 hd_h_Chlorpromazine.T2_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Chlorpromazine.T2_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;13</bold>
+</td>
+                    <td headers="hd_h_Chlorpromazine.T2_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Chlorpromazine.T2_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <p>* Some values estimated from Figure 1 and bilirubin converted from &#x003bc;mol/L to mg/dL.</p>
+          </sec>
+          <sec id="Chlorpromazine.Comment1">
+            <title>Comment</title>
+            <p>The typical cholestatic hepatitis caused by chlorpromazine (&#x0201c;Thorazine jaundice&#x0201d;) is marked by short incubation period (1-4 weeks), jaundice and pruritus (the itching can arise even before jaundice) and a benign, self-limited course. This case was published before general availability of serum aminotransferase measurements, and long before availability of commercial assays for hepatitis A (1982), B (1972) and C (1992). Chlorpromazine used to be the most common cause of drug induced liver injury in the United States and many western countries. Now, chlorpromazine is rarely used, and it no longer even appears in the lists of drugs implicated in case series of drug induced liver injury. Most of the other phenothiazines used in treatment of psychosis have also been implicated in cases of cholestatic jaundice with a similar clinical course, but at a lower frequency than with chlorpromazine.</p>
+          </sec>
+        </sec>
+        <sec id="Chlorpromazine.Case_2._Acute_cholestatic">
+          <title>Case 2. Acute cholestatic hepatitis evolving into chronic cholestatic syndrome with paucity of bile ducts and biliary fibrosis.</title>
+          <p>[Modified from: Moradpour D, Altorfer J, Flury R, Greminger P, Meyenberger C, Jost R, Schmid M. Chlorpromazine-induced vanishing bile duct syndrome leading to biliary cirrhosis. Hepatology 1994; 20: 1437-41. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/7982642">PubMed Citation</ext-link>]</p>
+          <p>A 34 year old pregnant woman was treated with chlorpromazine (25 mg twice daily) for hyperemesis gravidarum and developed fatigue and dark urine 2 weeks later followed by pruritus and jaundice. Chlorpromazine was stopped. Blood testing showed marked increases in serum bilirubin, ALT and alkaline phosphatase (Table). Tests for acute hepatitis A, B and C were negative as were autoantibodies including antinuclear, smooth muscle and mitochondrial antibodies. She had no previous history of liver disease, risk factors for viral hepatitis or alcohol abuse. She was approximately 2 months pregnant. She remained jaundiced throughout pregnancy that was terminated by Caesarian section at week 28. A concurrent liver biopsy showed severe intrahepatic cholestasis, portal inflammation and bile duct injury. After delivery of twin girls she remained jaundiced and had persistent and unrelenting pruritus. Various therapies including antihistamines, phenobarbital, cholestyramine, S-adenosylmethionine, prednisone, phototherapy and plasmapheresis were of minimal benefit. A repeat liver biopsy at 8 months after onset showed increased cholestasis and reduction in number of bile ducts, and a third liver biopsy after 14 months showed bridging fibrosis and paucity of bile ducts (ducts were detectable in only 3 of 16 portal tracts). She had enlargement of the liver and spleen, marked weight loss, steatorrhea, and symptoms of severe pruritus and fatigue. She was started on ursodiol (900 mg daily) and simultaneously began to improve clinically. Jaundice resolved 20 months after initial onset, after which serum alkaline phosphatase and ALT levels fell into the range of 1.5 to 3 fold elevated. Serum albumin and prothrombin time remained normal throughout the course. Ultrasound of the abdomen showed changes suggestive of cirrhosis and a fourth liver biopsy, 46 months after initial onset, showed biliary cirrhosis with minimal inflammation and focal areas of cholestasis and bile duct paucity (ducts detected in 5 of 12 portal tracts).</p>
+          <sec id="Chlorpromazine.Key_Points2">
+            <title>Key Points</title>
+            <table-wrap id="Chlorpromazine.T3" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Chlorpromazine.T3_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Chlorpromazine (50 mg daily for 20 days)</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Chlorpromazine.T3_1_1_1_1" id="hd_b_Chlorpromazine.T3_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Chlorpromazine.T3_1_1_1_1" rowspan="1" colspan="1">Cholestatic (R=~0.1 at peak)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Chlorpromazine.T3_1_1_1_1" id="hd_b_Chlorpromazine.T3_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Chlorpromazine.T3_1_1_2_1" rowspan="1" colspan="1">4+ (prolonged jaundice, cirrhosis)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Chlorpromazine.T3_1_1_1_1" id="hd_b_Chlorpromazine.T3_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Chlorpromazine.T3_1_1_3_1" rowspan="1" colspan="1">2 weeks</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Chlorpromazine.T3_1_1_1_1" id="hd_b_Chlorpromazine.T3_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Chlorpromazine.T3_1_1_4_1" rowspan="1" colspan="1">Incomplete after 4 years</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Chlorpromazine.T3_1_1_1_1" id="hd_b_Chlorpromazine.T3_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Chlorpromazine.T3_1_1_5_1" rowspan="1" colspan="1">None mentioned</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Chlorpromazine.Laboratory_Values2">
+            <title>Laboratory Values</title>
+            <table-wrap id="Chlorpromazine.T4" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Chlorpromazine.T4_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Chlorpromazine.T4_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Chlorpromazine.T4_1_1_1_3" rowspan="1" colspan="1">ALT* (U/L)</th>
+                    <th id="hd_h_Chlorpromazine.T4_1_1_1_4" rowspan="1" colspan="1">Alk P* (U/L)</th>
+                    <th id="hd_h_Chlorpromazine.T4_1_1_1_5" rowspan="1" colspan="1">Bilirubin* (mg/dL)</th>
+                    <th id="hd_h_Chlorpromazine.T4_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_1" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_2 hd_h_Chlorpromazine.T4_1_1_1_3 hd_h_Chlorpromazine.T4_1_1_1_4 hd_h_Chlorpromazine.T4_1_1_1_5 hd_h_Chlorpromazine.T4_1_1_1_6" colspan="5" rowspan="1">Chlorpromazine (50 mg daily for 20 days) given for nausea</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_1" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_3" rowspan="1" colspan="1">60</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_4" rowspan="1" colspan="1">100</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_5" rowspan="1" colspan="1">7.0</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_6" rowspan="1" colspan="1">2 Months pregnant</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_1" rowspan="1" colspan="1">5 months</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_2" rowspan="1" colspan="1">4 months</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_3" rowspan="1" colspan="1">60</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_4" rowspan="1" colspan="1">510</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_5" rowspan="1" colspan="1">35.0</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_6" rowspan="1" colspan="1">Delivery: liver biopsy #1</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_2" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_3" rowspan="1" colspan="1">120</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_4" rowspan="1" colspan="1">400</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_5" rowspan="1" colspan="1">22.0</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_2" rowspan="1" colspan="1">8 months</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_3" rowspan="1" colspan="1">184</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_4" rowspan="1" colspan="1">4128</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_5" rowspan="1" colspan="1">32.7</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_6" rowspan="1" colspan="1">Liver biopsy #2</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_2" rowspan="1" colspan="1">10 months</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_3" rowspan="1" colspan="1">140</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_4" rowspan="1" colspan="1">1800</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_5" rowspan="1" colspan="1">19.0</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_2" rowspan="1" colspan="1">12 months</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_3" rowspan="1" colspan="1">150</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_4" rowspan="1" colspan="1">2100</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_5" rowspan="1" colspan="1">22.9</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_2" rowspan="1" colspan="1">14 months</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_3" rowspan="1" colspan="1">110</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_4" rowspan="1" colspan="1">550</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_5" rowspan="1" colspan="1">20.5</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_6" rowspan="1" colspan="1">Liver biopsy #3</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_2" rowspan="1" colspan="1">4 years</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_3" rowspan="1" colspan="1">100</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_4" rowspan="1" colspan="1">280</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_5" rowspan="1" colspan="1">1.5</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_6" rowspan="1" colspan="1">Liver biopsy #4</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_1 hd_h_Chlorpromazine.T4_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;42</bold>
+</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;90</bold>
+</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Chlorpromazine.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <p>* Some values estimated from Figure 4 and bilirubin converted from &#x003bc;mol/L to mg/dL.</p>
+          </sec>
+          <sec id="Chlorpromazine.Comment2">
+            <title>Comment</title>
+            <p>A typical cholestatic hepatitis from chlorpromazine was followed by persistent cholestasis with jaundice and pruritus. Her pregnancy was terminated early because of the jaundice, with a Caesarian section during which a liver biopsy was done that showed severe cholestatic hepatitis with bile duct injury. Follow up liver biopsies at 8, 12 and 46 months after onset showed loss of bile ducts, but eventually a gradual improvement in cholestasis. Nevertheless, the patient developed cirrhosis and the long term prognosis remains uncertain. This is a dramatic and well documented example of vanishing bile duct syndrome developing after an acute cholestatic hepatitis due to chlorpromazine. Ursodiol therapy appeared to improve both symptoms and laboratory test results, but some degree of clinical improvement had started before therapy was initiated. Many instances of vanishing bile duct syndrome due to chlorpromazine have been published. Ursodiol is often used, but its efficacy in ameliorating or shortening the course of illness is not clear. It is appropriate to use, particularly if there is symptomatic improvement.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Chlorpromazine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Chlorpromazine.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Chlorpromazine &#x02013; Generic, Largactil&#x000ae;, Thorazine&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Gastrointestinal Agents; Antipsychotic Agents</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Chlorpromazine">COMPLETE LABELING</ext-link>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Chlorpromazine.CHEMICAL_FORMULA_AND_STRU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Chlorpromazine.T5" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Chlorpromazine.T5_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Chlorpromazine.T5_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Chlorpromazine.T5_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Chlorpromazine.T5_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Chlorpromazine.T5_1_1_1_1" rowspan="1" colspan="1">Chlorpromazine</td>
+                <td headers="hd_h_Chlorpromazine.T5_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134971498">50-53-3</ext-link>
+</td>
+                <td headers="hd_h_Chlorpromazine.T5_1_1_1_3" rowspan="1" colspan="1">C17-H19-Cl-N2-S</td>
+                <td headers="hd_h_Chlorpromazine.T5_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Chlorpromazine_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Chlorpromazine Chemical Structure</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Chlorpromazine.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 05 October 2017</p>
+        <ref-list id="Chlorpromazine.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Chlorpromazine.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Neuroleptic drugs. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 483-91.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of neuroleptic drugs including chlorpromazine published in 1999 mentions that several hundred cases of chlorpromazine jaundice have been reported, usually cholestatic, arising after 1-5 weeks, often with fever and eosinophilia, sometimes causing vanishing bile duct syndrome; estimated to occur in 1% of exposed persons with minor enzyme elevations in a higher proportion).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R2">
+            <mixed-citation publication-type="other">Larry D, Ripault MP. Hepatotoxicity of psychotropic drugs and drugs of abuse. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 447-62.<annotation><p><italic toggle="yes">(Review of chlorpromazine hepatotoxicity mentions that liver enzyme elevations arise in up to 40% of patients, and hundreds of cases of chlorpromazine jaundice have been published, frequency ~0.5-1%; onset in 2-5 weeks, usually acute cholestatic hepatitis with jaundice and pruritus; prodrome of fever and abdominal pain is common; prolonged course in 7% but most commonly benign).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R3">
+            <mixed-citation publication-type="other">Meyer JM. Pharmacotherapy of psychosis and mania. In, Brunton LL, Chabner BA, Knollman BA, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 417-56.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R4">
+            <mixed-citation publication-type="journal">Zatuchni J, Miller G. Jaundice during chlorpromazine therapy. N Engl J Med 1954; 251: 1003-6. <annotation><p><italic toggle="yes">(70 year old woman developed jaundice 2 weeks after starting chlorpromazine [bilirubin 13 mg/mL, Alk P ~5.5 times ULN], biopsy showing intrahepatic cholestasis, resolving 6 weeks after stopping).</italic></p></annotation><pub-id pub-id-type="pmid">13214378</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R5">
+            <mixed-citation publication-type="journal">Boardman RH. Fatal case of toxic hepatitis implicating chlorpromazine. BMJ 1954; 2: 579. <annotation><p><italic toggle="yes">(Among 500 patients receiving chlorpromazine, 6 developed jaundice and one died; 45 year old woman developed jaundice and fever after 3 weeks of therapy [bilirubin rising to 23 mg/dL, Alk P 3-4 times ULN], followed by stupor, coma and death; congestive heart failure also present).</italic></p></annotation><pub-id pub-id-type="pmid">13182288</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R6">
+            <mixed-citation publication-type="journal">Tasker JR. Fatal agranulocytosis during treatment with chlorpromazine. BMJ 1955; 1: 950-1. <annotation><p><italic toggle="yes">(38 year old woman developed weakness and fever 10 days after starting chlorpromazine, with rash and jaundice; chlorpromazine was continued and she developed mouth ulcers, anemia and neutropenia resulting in death from septicemia 6 weeks after starting drug).</italic></p></annotation><pub-id pub-id-type="pmid">14363757</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R7">
+            <mixed-citation publication-type="journal">Hartnett BS. Liver damage and eosinophilia following chlorpromazine therapy: report of a case. BMJ 1955; 1: 1458-9. <annotation><p><italic toggle="yes">(52 year old man developed nausea 10 days after starting chlorpromazine followed by with fever and jaundice [bilirubin 3.8 mg/dL, Alk P 1.5 times ULN, 49% eosinophilia], resolving slowly over several months after stopping).</italic></p></annotation><pub-id pub-id-type="pmid">14378593</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R8">
+            <mixed-citation publication-type="journal">Isaacs B, MacArthur JG, Taylor RM. Jaundice in relation to chlorpromazine therapy. BMJ 1955; 2; 1122-3. <annotation><p><italic toggle="yes">(Among 26 patients given chlorpromazine for 1 to 2 weeks for nausea, 4 developed jaundice between 4 and 14 days after starting; survey in Scotland found 39 of 3252 patients [1.2%] on chlorpromazine developed jaundice within 2-35 days, 1 fatality).</italic></p></annotation><pub-id pub-id-type="pmid">13260678</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R9">
+            <mixed-citation publication-type="journal">Van Ommen R, Brown C. Obstructive-type jaundice due to chlorpromazine(thorazine); report of three cases. JAMA 1955; 157: 321-5. <annotation><p><italic toggle="yes">(3 women, ages 36 to 64 years, with onset of jaundice 3-4 weeks after starting chlorpromazine [bilirubin 2.5-4.4 mg/dL, rising to 4.2-18.8 mg/dL, Alk P ~2 times rising to 5-8 times ULN], resolving in all within 2-6 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">13221416</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R10">
+            <mixed-citation publication-type="journal">Movitt E, Meyer M, Snell A, Goldman M, Gibson J, Sullivan B, Webster J, et al. Jaundice associated with the administration of chlorpromazine, SKF-2601-A (thorazine); report of three cases, with biopsies of the liver. Gastroenterology 1955; 28: 901-13. <annotation><p><italic toggle="yes">(3 patients, 1 woman and 2 men, ages 42-73 years with onset of jaundice 1-3 weeks after starting chlorpromazine [bilirubin 5.7-20.8 mg/dL, Alk P 3-10 times ULN], resolving within 4-8 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">14380602</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R11">
+            <mixed-citation publication-type="journal">Werther JL, Korelitz BI. Chlorpromazine jaundice: analysis of twenty-two cases. Am J Med 1957; 22: 351-66. <annotation><p><italic toggle="yes">(22 cases of chlorpromazine liver injury seen at one institution and review of literature; onset averaging 15 days after starting, with 1-11 day prodrome of nausea, abdominal pain, and fever followed by jaundice, one with rash; pruritus occasionally present before jaundice; 3 cases were anicteric, highest bilirubin 14.2 mg/dL, Alk P elevated in all except one, duration of jaundice 1 week to 5 months, all ultimately recovered: Case 1).</italic></p></annotation><pub-id pub-id-type="pmid">13402787</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R12">
+            <mixed-citation publication-type="journal">Deutsch L, Dickes R, Schenker V. Serial liver function and blood studies in patients receiving chlorpromazine. N Engl J Med 1957; 256: 1-7. <annotation><p><italic toggle="yes">(50 patients on chlorpromazine were followed prospectively for liver test abnormalities, elevations in Alk P, bilirubin or BSP retention occurred in 21 [42%], but often returned to normal despite continuing drug; therapy stopped in 8 patients, but none developed significant jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">13388017</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R13">
+            <mixed-citation publication-type="journal">Hollister L. Allergy to chlorpromazine manifested by jaundice. Am J Med 1957; 23: 870-9. <annotation><p><italic toggle="yes">(Among 900 patients treated with chlorpromazine, 17 [2%] developed jaundice, ages 24-75 years, onset after 1-4 weeks in all except one, fever in 76%, eosinophilia in ~50%, average bilirubin 4.8 mg/dL [highest=14.2 mg/dL], Alk P usually 2-6 fold elevated, jaundice lasting more than a month in 24%, rechallenge in 11 patients led to jaundice in 6 within a few days, but not in 7 patients given promazine).</italic></p></annotation><pub-id pub-id-type="pmid">13487604</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R14">
+            <mixed-citation publication-type="journal">Graham GS. Chlorpromazine jaundice in a general hospital. BMJ 1957; 2:1080-1. <annotation><p><italic toggle="yes">(Among 65 patients with jaundice seen in 1956, 7 were due to chlorpromazine; onset after 11-28 days, [bilirubin 2.1 to 25 mg/dL, Alk P elevated in all], resolving with stopping in all; resembled obstructive jaundice clinically).</italic></p></annotation><pub-id pub-id-type="pmid">13472055</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R15">
+            <mixed-citation publication-type="journal">Zelman S. Liver cell necrosis in chlorpromazine jaundice (allergic cholangitis): a serial study of 26 needle biopsy specimens in nine patients. Am J Med 1959; 27: 708-29. <annotation><p><italic toggle="yes">(9 patients seen at a single psychiatric hospital underwent 1 to 5 liver biopsies for chlorpromazine hepatotoxicity; onset 6-30 days after starting, bilirubin peak of 1.9-25.3 mg/dL, ALT 37-318 U/L, Alk P 1-8 times ULN, eosinophilia in 7 patients).</italic></p></annotation><pub-id pub-id-type="pmid">13847249</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R16">
+            <mixed-citation publication-type="journal">Melrose AG, Roy JR. Late prognosis of chlorpromazine jaundice. BMJ 1959; 1: 818-9. <annotation><p><italic toggle="yes">(52 year old woman and 48 year old man developed jaundice 23 and 19 days after starting chlorpromazine; both had prolonged Alk P elevations and liver biopsy showing chronic injury and fibrosis).</italic></p></annotation><pub-id pub-id-type="pmid">13629130</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R17">
+            <mixed-citation publication-type="journal">Mackay EV. Progressive chlorpromazine jaundice during pregnancy. Med J Aust 1960; 47: 209-12. <annotation><p><italic toggle="yes">(38 year old woman given chlorpromazine for hyperemesis gravidarum developed jaundice 2 weeks later which persisted for 2 years with pruritus, xanthomata and Alk P elevations that never completely normalized; probable vanishing bile duct syndrome).</italic></p></annotation><pub-id pub-id-type="pmid">14419476</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R18">
+            <mixed-citation publication-type="journal">Stewart WR. Chlorpromazine jaundice. Am J Surg 1960; 100: 495-7. <annotation><p><italic toggle="yes">(78 year old man developed jaundice 3 weeks after starting chlorpromazine [bilirubin 14.2 mg/dL, Alk P elevated, eosinophils 22%], resolving with stopping).</italic></p></annotation><pub-id pub-id-type="pmid">13834633</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R19">
+            <mixed-citation publication-type="journal">Urbinati G, Figliuzzi M. [Jaundice caused by chlorpromazine.] Clin Ter 1960; 18: 611-39. Italian. <pub-id pub-id-type="pmid">13779292</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R20">
+            <mixed-citation publication-type="journal">Gaulhofer WK, van der Helm H. [Jaundice caused by chlorpromazine.] Ned Tijdschr Geneeskd 1961; 105: 477-81. Dutch. <pub-id pub-id-type="pmid">13703970</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R21">
+            <mixed-citation publication-type="journal">Read AE, Harrison CV, Sherlock S. Chronic chlorpromazine jaundice: with particular reference to its relationship to primary biliary cirrhosis. Am J Med 1961; 31: 249-58. <annotation><p><italic toggle="yes">(4 women developed prolonged jaundice due to chlorpromazine, ages 28-57 years, onset in 2-4 weeks, jaundice lasting for 7-36 months, peak bilirubin 15-21.6 mg/dL, Alk P 5-20 times ULN, high cholesterol, xanthomas and weight loss in 3, itching in all; all women, 2 pregnant; ultimately slow recovery, but residual biochemical and histologic abnormalities and fibrosis frequent; probable vanishing bile duct syndrome).</italic></p></annotation><pub-id pub-id-type="pmid">13740051</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R22">
+            <mixed-citation publication-type="journal">Gupta NN, Pant SS, Mehrotra RM. Toxic effects of chlorpromazine with special reference to jaundice. Indian J Med Sci 1962; 16: 315-23. <annotation><p><italic toggle="yes">(Retrospective evaluation of 75 patients treated with chlorpromazine for 2 to 86 weeks, 18 [24%] had an asymptomatic elevation of Alk P and 1 became jaundiced and pruritus 4 weeks after starting drug [bilirubin 5 mg/dL, Alk P ~3 fold elevated], resolving within 7 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">13902998</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R23">
+            <mixed-citation publication-type="journal">Ruettner JR, Rondez R, Maier C. [Chlorpromazine icterus, a form of cholestatic hepatosis. Clinical-pathological report on 14 observations.]. Dtsch Med Wochenschr 1962; 87: 1107-10. German. <pub-id pub-id-type="pmid">14495139</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R24">
+            <mixed-citation publication-type="journal">Waitzkin L. Prolonged hepatic dysfunction after clinical recovery from chlorpromazine jaundice. Gastroenterology 1962; 43: 337-9. <annotation><p><italic toggle="yes">(61 year old man developed jaundice 9 days after starting chlorpromazine [peak bilirubin 4 mg/dL], resolving rapidly but with persistent abnormalities of ALT and Alk P for several years without symptoms).</italic></p></annotation><pub-id pub-id-type="pmid">14004438</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R25">
+            <mixed-citation publication-type="journal">McQueen EG. Toxic effects of phenothiazine tranquillizers. N Z Med J 1963; 62: 460-2. <annotation><p><italic toggle="yes">(Review of the phenothiazines and their side effects; "Jaundice has occurred in about 1% of patients taking chlorpromazine, and also, although less frequently, in patients taking one of the more recently developed analogues").</italic></p></annotation><pub-id pub-id-type="pmid">14073060</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R26">
+            <mixed-citation publication-type="journal">Ranek L. [A fatal case of prolonged chlorpromazine jaundice.]. Ugeskr Laeger 1964; 126: 1271-4. Danish. <pub-id pub-id-type="pmid">14231833</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R27">
+            <mixed-citation publication-type="journal">Cook GC, Sherlock S. Jaundice and its relation to therapeutic agents. Lancet 1965; 1: 175-9. <annotation><p><italic toggle="yes">(Summary of cases of drug induced liver disease seen at Royal Free Hospital between 1959 and 1965; 11 cases of acute liver failure included 3 due to iproniazid, 2 phenelzine, 2 phenoxypropazine, 1 prochlorperazine, and 3 halogenated anesthetics; 20 cases of cholestatic hepatitis included 18 due to chlorpromazine, 1 perphenazine and 1 nitrofurantoin).</italic></p></annotation><pub-id pub-id-type="pmid">14238042</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R28">
+            <mixed-citation publication-type="journal">Dereux J, Dereux JF, Carbonnelle B, Guffroy M, Cacheux S. [Jaundice due to chlorpromazine]. J Sci Med Lille 1965; 83: 565-72. French. <pub-id pub-id-type="pmid">5844831</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R29">
+            <mixed-citation publication-type="journal">Albot G, Lunel J, Pagniez V. [Physiopathology of icterus caused by chlorpromazine]. Actual Hepatogastroenterol (Paris) 1966; 2: 467-87. French. <pub-id pub-id-type="pmid">5963841</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R30">
+            <mixed-citation publication-type="journal">Levine RA, Briggs GW, Lowell DM. Chronic chlorpromazine cholangiolitic hepatitis. Report of a case with immunofluorescent studies. Gastroenterology 1966; 50: 665-70. <annotation><p><italic toggle="yes">(20 year old man developed jaundice 5 days after 8 day course of chlorpromazine with prolonged jaundice, bilirubin rising to 24 mg/dL, with persistent pruritus and xanthomata lasting several years).</italic></p></annotation><pub-id pub-id-type="pmid">5327471</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R31">
+            <mixed-citation publication-type="journal">Lunel J, Albot G, Pagniez R. [Critical study of icterus caused by chlorpromazine]. Sem Hop 1966; 42: 1791-807. French. <pub-id pub-id-type="pmid">4287605</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R32">
+            <mixed-citation publication-type="journal">Walker CO, Combes B. Biliary cirrhosis induced by chlorpromazine. Gastroenterology 1966; 51: 631-40. <annotation><p><italic toggle="yes">(2 patients, 32 year old woman and 31 year old man, developed persistent jaundice [&#x0003e;4 years], cholestasis and liver fibrosis 3 and 4 weeks after starting chlorpromazine; acute cholestatic hepatitis evolving into chronic form with biopsies showing cirrhosis and complications of portal hypertension).</italic></p></annotation><pub-id pub-id-type="pmid">5926937</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R33">
+            <mixed-citation publication-type="journal">Bolton BH. Prolonged chlorpromazine jaundice. Am J Gastroenterol 1967; 48: 497-503. <annotation><p><italic toggle="yes">(34 year old man developed nausea and malaise followed by jaundice 4 weeks after starting chlorpromazine [bilirubin 7.8 rising to 25 mg/dL, ALT 530 U/L, Alk P ~5 x ULN]; prednisone had no apparent effect and jaundice lasted 19 months, followed by persistence of enzyme elevations and liver biopsy showing fibrosis, no mention of bile duct abnormalities).</italic></p></annotation><pub-id pub-id-type="pmid">5583132</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R34">
+            <mixed-citation publication-type="journal">Cheongvee EM, Hurst L, Smith RH. Agranulocytosis and jaundice associated with chlorpromazine. Br J Clin Pract 1967; 21: 95-6. <pub-id pub-id-type="pmid">6037940</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R35">
+            <mixed-citation publication-type="journal">L'hirondel J, Venezia R, Rousselot P, Daridon F, Fellouse JC. [Neonatal jaundice due to chlorpromazine]. Arch Fr Pediatr 1968; 25: 1171-7. French. <pub-id pub-id-type="pmid">5713081</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R36">
+            <mixed-citation publication-type="journal">de Walden JK. [Influence of chlorpromazine on the hepatic functions]. Acta Biol Med (Gdansk) 1969; 14: 335-69. Polish. <pub-id pub-id-type="pmid">5402667</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R37">
+            <mixed-citation publication-type="journal">Eastwood HD. Causes of jaundice in the elderly. A survey of diagnosis and investigation. Gerontol Clin (Basel) 1971; 13: 69-81. <pub-id pub-id-type="pmid">5547261</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R38">
+            <mixed-citation publication-type="journal">Poggi E, Ferrari G. [Liver damage due to chlorpromazine and its treatment with arginine glucose-1-phosphate]. Epatologia 1971; 17: 127-31. Italian. <pub-id pub-id-type="pmid">5147857</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R39">
+            <mixed-citation publication-type="journal">Ishak KG, Irey NS. Hepatic injury associated with the phenothiazines. Clinicopathologic and follow-up study of 36 patients. Arch Pathol 1972; 93: 283-304. <annotation><p><italic toggle="yes">(Review of 36 liver biopsies on phenothiazine induced liver injury from Armed Forces Institute of Pathology files, 33 due to chlorpromazine, 3 prochlorperazine; mean onset 15 days, eosinophilia in 73%, mean bilirubin 12.4 mg/dL, Alk P ~8 fold elevated, ALT 146 U/L; 6 [17%] had prolonged course for 10-16 months).</italic></p></annotation><pub-id pub-id-type="pmid">5017281</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R40">
+            <mixed-citation publication-type="journal">Russell RI, Allan JG, Patrick R. Active chronic hepatitis after chlorpromazine ingestion. Br Med J 1973; 1: 655-6. <annotation><p><italic toggle="yes">(59 year old man developed jaundice 3 weeks after starting chlorpromazine [bilirubin 9.0 mg/dL, ALT 30 U/L, Alk P 13 times ULN]; subsequent persistence of jaundice with biopsy showing fibrosis, ALT levels remaining normal, Alk P high and increased globulins but ANA negative; thus, chronic cholestasis rather than chronic active hepatitis).</italic></p></annotation><pub-id pub-id-type="pmid">4692711</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R41">
+            <mixed-citation publication-type="journal">Morera Prat J, Vidal Pla R, Mari ML. [Primary biliary cirrhosis after a prolonged ingestion of chlorpromazine]. Rev Clin Esp 1976; 142: 483-5. Spanish. <pub-id pub-id-type="pmid">968137</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R42">
+            <mixed-citation publication-type="journal">Nerad V, Skaunic V. [Chronic intrahepatic cholestasis following chlorpromazine; treated using phenobarbital]. Sb Ved Pr Lek Fak Karlovy Univerzity Hradci Kralove Suppl 1976; 19: 721-7. Czech. <pub-id pub-id-type="pmid">1088626</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R43">
+            <mixed-citation publication-type="journal">Glazier RL, Crowell EB Jr. Factor VIII inhibition associated with chlorpromazine-induced hepatic injury. Thromb Haemost 1977; 37: 523-6. <pub-id pub-id-type="pmid">578031</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R44">
+            <mixed-citation publication-type="journal">Nartowicz A, Mirska K, Slowik J. [Jaundice following administration of chlorpromazine to a 21/2-month-old infant]. Pediatr Pol 1977; 52: 217-8. Polish. <pub-id pub-id-type="pmid">840523</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R45">
+            <mixed-citation publication-type="journal">Boyer JL. Mechanisms of chlorpromazine cholestasis: hypersensitivity or toxic metabolite? Gastroenterology 1978; 74: 1331-3. <annotation><p><italic toggle="yes">(Chlorpromazine may have direct effects on hepatocytes and cholestasis may relate to production of free radicals, metabolic intermediates and effects on liver membranes).</italic></p></annotation><pub-id pub-id-type="pmid">648827</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R46">
+            <mixed-citation publication-type="journal">Weinreb M, Kraus V, Krausov&#x000e1;, Hudcov&#x000e1;. Negligible hepatotoxicity of chlorpromazine in long-term therapy. Act Nerv Super (Praha) 1978; 20: 280-1. <pub-id pub-id-type="pmid">735735</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R47">
+            <mixed-citation publication-type="journal">Johnson EI, Lanford RE, Solomon K. Chlorpromazine, eosinophilia, and hepatotoxicity. Va Med 1979; 106: 683-4. <pub-id pub-id-type="pmid">484004</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R48">
+            <mixed-citation publication-type="journal">Zhang ZY. [Observations of liver function in patients with long term administration of chlorpromazine (author's transl)]. Zhonghua Shen Jing Jing Shen Ke Za Zhi 1979; 12: 107-8. Chinese. <pub-id pub-id-type="pmid">263043</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R49">
+            <mixed-citation publication-type="journal">Das UN. Chlorpromazine induced cholestasis and prostaglandins. J Indian Med Assoc 1980; 74: 121. <pub-id pub-id-type="pmid">7410873</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R50">
+            <mixed-citation publication-type="journal">Paumgartner G, Paumgartner D. [Damage to liver and biliary tracts by long-term drug therapy (author's transl)]. MMW Munch Med Wochenschr 1980; 122: 1223-6. German. <pub-id pub-id-type="pmid">6777679</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R51">
+            <mixed-citation publication-type="journal">D&#x000f8;ssing M, Andreasen PB. Drug-induced liver disease in Denmark. An analysis of 572 cases of hepatotoxicity reported to the Danish Board of Adverse Reactions to Drugs. Scand J Gastroenterol 1982; 17: 205-11. <annotation><p><italic toggle="yes">(Among 572 cases of drug induced liver disease seen between 1968-78 in Denmark, 51 [9%, ranking 2nd behind halothane] were attributed to chlorpromazine, latency averaging 14 days [range 11-46]; 5 deaths).</italic></p></annotation><pub-id pub-id-type="pmid">6982502</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R52">
+            <mixed-citation publication-type="journal">Kaplowitz N, Aw TY, Simon FR, Stolz A. Drug-induced hepatotoxicity. Ann Intern Med 1986; 104: 826-39. <annotation><p><italic toggle="yes">(Review of drug induced hepatotoxicity including chlorpromazine jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">3518564</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R53">
+            <mixed-citation publication-type="journal">Munyon WH, Salo R, Briones DF. Cytotoxic effects of neuroleptic drugs. Psychopharmacology (Berl) 1987; 91: 182-8. <annotation><p><italic toggle="yes">(In vitro assay for cytotoxicity of 8 neuroleptic drugs showed that chlorpromazine was more toxic than haloperidol and loxapine, but similar to other phenothiazines).</italic></p></annotation><pub-id pub-id-type="pmid">2883697</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R54">
+            <mixed-citation publication-type="journal">Regal RE, Bili JE, Glazer HM. Phenothiazine-induced cholestatic jaundice. Clin Pharm 1987; 6: 787-94. <annotation><p><italic toggle="yes">(Review of phenothiazine induced liver injury; cross sensitivity is rare "but does exist").</italic></p></annotation><pub-id pub-id-type="pmid">2905941</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R55">
+            <mixed-citation publication-type="journal">Lok AS, Ng IO. Prochlorperazine-induced chronic cholestasis. J Hepatol 1988; 6: 369-73. <annotation><p><italic toggle="yes">(68 year old man developed jaundice 4 weeks after starting prochlorperazine [peak bilirubin 26 mg/dL, ALT 50-90 U/L, Alk P 120-500 U/L], jaundice and pruritus persisting for more than a year, but then gradual clinical improvement but with persistent enzyme elevations, and biopsy 22 months after onset showed fibrosis and paucity of bile ducts).</italic></p></annotation><pub-id pub-id-type="pmid">3392386</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R56">
+            <mixed-citation publication-type="journal">Bach N, Thung SN, Schaffner F, Tobias H. Exaggerated cholestasis and hepatic fibrosis following simultaneous administration of chlorpromazine and sodium valproate. Dig Dis Sci 1989; 34: 1303-7. <annotation><p><italic toggle="yes">(45 year old man developed fatigue and fever 12 days after starting chlorpromazine for intractable hiccups [bilirubin 21.5 mg/dL, ALT 1312 U/L, Alk P 617 U/L], with persistent jaundice and pruritus for several years and eventual presence of cirrhosis and varices; paucity of bile ducts on biopsy).</italic></p></annotation><pub-id pub-id-type="pmid">2502367</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R57">
+            <mixed-citation publication-type="journal">Sidi Y, Douer D, Pinkhas J. Simultaneous appearance of agranulocytosis and cholestatic jaundice following chlorpromazine treatment. Med Interne 1989; 27: 69-71. <pub-id pub-id-type="pmid">2749161</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R58">
+            <mixed-citation publication-type="journal">Ben-Yehuda A, Bloom A, Lijovetzky G, Flusser D, Tur-Kaspa R. Chlorpromazine-induced liver and bone marrow granulomas associated with agranulocytosis. Isr J Med Sci 1990; 26: 449-51. <annotation><p><italic toggle="yes">(35 year old woman developed neutropenia 2 months after starting chlorpromazine with oral ulcers, fever and agranulocytosis with recovery within a few weeks; high Alk P [normal ALT and bilirubin] led to liver and bone marrow biopsy which showed granulomas).</italic></p></annotation><pub-id pub-id-type="pmid">2401609</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R59">
+            <mixed-citation publication-type="journal">Friis H, Andreasen PB. Drug-induced hepatic injury: an analysis of 1100 cases reported to the Danish Committee on Adverse Drug Reactions between 1978 and 1987. J Intern Med 1992; 232: 133-8. <annotation><p><italic toggle="yes">(Among 1100 cases of drug induced liver injury reported between 1978 and 1987 in Denmark, 24 were due to chlorpromazine with 1 fatality).</italic></p></annotation><pub-id pub-id-type="pmid">1506809</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R60">
+            <mixed-citation publication-type="journal">Derby LE, Gutthann SP, Jick H, Dean AD. Liver disorders in patients receiving chlorpromazine or isoniazid. Pharmacotherapy 1993; 13: 353-8. <annotation><p><italic toggle="yes">(Analysis of databases of clinical information from clinicians in the UK; among 10,502 persons given chlorpromazine, 14 developed possible liver injury, for a population based rate of 1.3/1000 users; risk factors were first prescription and age [12-fold increased risk for &#x0003e;70 vs &#x0003c;50 years], but not sex).</italic></p></annotation><pub-id pub-id-type="pmid">8361861</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R61">
+            <mixed-citation publication-type="journal">Moradpour D, Altorfer J, Flury R, Greminger P, Meyenberger C, Jost R, Schmid M. Chlorpromazine-induced vanishing bile duct syndrome leading to biliary cirrhosis. Hepatology 1994; 20: 1437-41. <annotation><p><italic toggle="yes">(33 year old pregnant woman had onset of jaundice 2 weeks after starting chlorpromazine, jaundice lasting 22 months with pruritus and high Alk P; ultimately resolving jaundice, but with biliary cirrhosis and absence of bile ducts: Case 2).</italic></p></annotation><pub-id pub-id-type="pmid">7982642</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R62">
+            <mixed-citation publication-type="journal">Wang CK, Liu JD, Lin SY, Liao LY, Cheng NY, Wang CS, Siauw CP, et al. Drug-induced liver disease--a review of 14 cases. Gaoxiong Yi Xue Ke Xue Za Zhi 1995; 11: 213-9. <annotation><p><italic toggle="yes">(Among 14 cases of drug induced liver disease seen between 1986-1991 at one hospital in Taiwan, 2 were due to isoniazid/rifampin, 2 oral contraceptives, 1 each for aspirin, chlorpromazine, mefenamic acid, acetaminophen, ketoconazole, paraquat, trimethoprim-sulfamethoxazole, chenodeoxycholate, "cold" pill and herbals).</italic></p></annotation><pub-id pub-id-type="pmid">7602656</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R63">
+            <mixed-citation publication-type="journal">Pillans PI. Drug associated hepatic reactions in New Zealand: 21 years experience. N Z Med J 1996; 109: 315-9. <annotation><p><italic toggle="yes">(Between 1974 and 1995, New Zealand registry received 943 reports of liver injury involving 205 drugs; chlorpromazine was listed in the top 20 drugs implicated, but proportions fell over the 21 year period from 4.2% to 2.9% to 1.5% of cases, one fatality).</italic></p></annotation><pub-id pub-id-type="pmid">8816722</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R64">
+            <mixed-citation publication-type="journal">Allison DB, Mentore JL, Heo M, Chandler LP, Cappelleri JC, Infante MC, Weiden PJ. Antipsychotic-induced weight gain: a comprehensive research synthesis. Am J Psychiatry 1999; 156: 1686-96. <annotation><p><italic toggle="yes">(Systematic review of 81 articles on weight change with antipsychotics; using change after 10 weeks to compare agents: clozapine +5.7, olanzapine +4.2, chlorpromazine +4.2, risperidone +1.7, loxapine +0.6, haloperidol +0.5, ziprasidone +0.3, molindone -0.1, and pimozide -2.7 kg).</italic></p></annotation><pub-id pub-id-type="pmid">10553730</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R65">
+            <mixed-citation publication-type="journal">Chlumsk&#x000e1;, Cur&#x000ed;R, Boudov&#x000e1;, Mukensnabl P, Klvana P. Chlorpromazine-induced cholestatic liver disease with ductopenia. Cesk Patol 2001; 37: 118-22. <pub-id pub-id-type="pmid">11669021</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R66">
+            <mixed-citation publication-type="journal">Andrade RJ, Lucena MI, Fern&#x000e1;ez MC, Pelaez G, Pachkoria K, Garc&#x000ed;Ruiz E, Garc&#x000ed;Mu&#x000f1;B, et al.; Spanish Group for the Study of Drug-Induced Liver Disease. Drug-induced liver injury: an analysis of 461 incidences submitted to the Spanish registry over a 10-year period. Gastroenterology. 2005; 129: 512-21. <annotation><p><italic toggle="yes">(461 cases of drug induced liver injury reported in Spain between 1994 and 2004, no phenothiazines were mentioned among the most common causes [those with more than 5 cases]).</italic></p></annotation><pub-id pub-id-type="pmid">16083708</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R67">
+            <mixed-citation publication-type="journal">De Valle MB, Av Klinteberg V, Alem N, Olsson R, Bj&#x000f6;son E. Drug-induced liver injury in a Swedish University hospital out-patient hepatology clinic. Aliment Pharmacol Ther 2006; 24: 1187-95. <annotation><p><italic toggle="yes">(Among 77 cases of drug induced liver injury seen between 1995 and 2005 at a single Swedish hospital, none were due to phenothiazines).</italic></p></annotation><pub-id pub-id-type="pmid">17014577</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R68">
+            <mixed-citation publication-type="journal">Minondo Amuchasteguia L, Egiguren Urrosolo L, Zapata Morcillo E, Castiella Eguzkiza A. [Chlorpromazine-induced cholestatic hepatitis in intractable hiccups]. Gastroenterol Hepatol 2007; 30: 103. Spanish. <annotation><p><italic toggle="yes">(78 year old man developed weakness and dark urine during 12 day course of chlorpromazine for hiccups [bilirubin 2.8 mg/dL, ALT 222 U/L, Alk P 291 U/L] without fever or eosinophilia; resolving within 2 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">17335721</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R69">
+            <mixed-citation publication-type="journal">Sabat&#x000e9;, Ib&#x000e1;nez L, P&#x000e9;rez E, Vidal X, Buti M, Xiol X, Mas A, et al. Risk of acute liver injury associated with the use of drugs: a multicentre population survey. Aliment Pharmacol Ther 2007; 25: 1401-9. <annotation><p><italic toggle="yes">(Among 126 cases of drug induced liver injury seen in Spain between 1993 and 2000, 3 were due to chlorpromazine with relative risk of 613: frequency of 261 per 100,000 person year exposures).</italic></p></annotation><pub-id pub-id-type="pmid">17539979</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R70">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, none were attributed to phenothiazines).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R71">
+            <mixed-citation publication-type="journal">Flanagan RJ. Fatal toxicity of drugs used in psychiatry. Hum Psychopharmacol 2008; 23 Suppl 1: 43-51. <annotation><p><italic toggle="yes">(Deaths from fatal poisonings decreased in England and Wales between 1993-2004, antipsychotic overdose fatalities higher for phenothiazines than atypicals; deaths/million prescriptions being 29 for chlorpromazine, 15.5 thioridazine, 3.9 trifluoperazine, 13.3 olanzapine, 21 clozapine and 31.3 quetiapine; deaths were due to respiratory depression and not acute liver failure).</italic></p></annotation><pub-id pub-id-type="pmid">18098225</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R72">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, including 4 due to psychotropic agents; one each for quetiapine, nefazodone, fluoxetine and venlafaxine, but none for phenothiazines).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R73">
+            <mixed-citation publication-type="journal">Molleston JP, Fontana RJ, Lopez MJ, Kleiner DE, Gu J, Chalasani N; Drug-induced Liver Injury Network. Characteristics of idiosyncratic drug-induced liver injury in children: results from the DILIN prospective study. J Pediatr Gastroenterol Nutr 2011; 53: 182-9. <annotation><p><italic toggle="yes">(Among 30 children with suspected drug induced liver injury, half [n=15] were due to antimicrobials [minocycline 4, INH 3, azithromycin 3] and the rest largely due to CNS agents and anticonvulsants; one case was attributed to perphenazine).</italic></p></annotation><pub-id pub-id-type="pmid">21788760</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R74">
+            <mixed-citation publication-type="journal">Marwick KF, Taylor M, Walker SW. Antipsychotics and abnormal liver function tests: systematic review. Clin Neuropharmacol 2012; 35: 244-53. <annotation><p><italic toggle="yes">(Systematic review of the literature found rates of any serum enzyme elevation during antipsychotic therapy to range from 5% to 78% and "clinically significant' elevations in 0% to 15%, highest rates being reported with haloperidol, olanzapine, risperidone, clozapine, perphenazine and perazine; chlorpromazine is reported to cause severe injury and several fatal cases have been published).</italic></p></annotation><pub-id pub-id-type="pmid">22986798</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R75">
+            <mixed-citation publication-type="journal">Jaiprakash H, Narayana S, Mohanraj J. Drug-induced hepatotoxicity in a tertiary care hospital in rural South India. N Am J Med Sci 2012; 4: 90-3. <annotation><p><italic toggle="yes"> (During a one year period, 65 cases of drug induced liver injury were seen in a rural hospital in South India, the most common causes being antituberculosis medications and cholesterol lowering drugs; chlorpromazine accounted for ~2 cases).</italic></p></annotation><pub-id pub-id-type="pmid">22408755</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R76">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period including one non-fatal but icteric case due to chlorpromazine).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R77">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America: an analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes">(Among 176 reports of drug induced liver injury from Latin America published between 1996 and 2012, one non-fatal, but icteric case [from 2003] was attributed to chlorpromazine).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Chlorpromazine.R78">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 5 [0.4%] were attributed to antipsychotic agents, including 3 to quetiapine and 2 olanzapine, but none chlorpromazine.</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Chlorpromazine.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Chlorpromazine/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Chlorpromazine: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Chlorpromazine">Trials on Chlorpromazine: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

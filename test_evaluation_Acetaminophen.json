@@ -1,0 +1,94 @@
+{
+  "evaluation_timestamp": "2025-09-17T22:57:08.720681",
+  "summary_statistics": {
+    "total_drugs": 1,
+    "total_questions": 2,
+    "average_overall_score": 0.8,
+    "field_performance": {
+      "dili_likelihood_score": {
+        "average_score": 0.8,
+        "count": 1
+      },
+      "injury_pattern": {
+        "average_score": 0.8,
+        "count": 1
+      },
+      "is_immune_mediated": {
+        "average_score": 0.8,
+        "count": 1
+      }
+    },
+    "hallucination_rate": 1.0,
+    "drugs_evaluated": [
+      {
+        "drug_name": "Acetaminophen",
+        "average_score": 0.8,
+        "questions_count": 2
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "question": "What is the DILI likelihood score and evidence assessment for Acetaminophen?",
+      "drug_name": "Acetaminophen",
+      "retriever_response": {
+        "drug_name": "Acetaminophen",
+        "dili_likelihood_score": null,
+        "injury_pattern": null,
+        "fraction_patients_with_enzyme_elevation": null,
+        "fraction_patients_with_dili": null,
+        "risk_factors": null,
+        "safe_dose": null,
+        "toxic_dose": null,
+        "onset_time": null,
+        "peak_alt": null,
+        "peak_alp": null,
+        "r_ratio": null,
+        "bilirubin_peak": null,
+        "is_immune_mediated": false,
+        "regulatory_status": null,
+        "extraction_sources": null
+      },
+      "correctness_scores": {
+        "dili_likelihood_score": 0.8
+      },
+      "overall_score": 0.8,
+      "feedback": "# Acetaminophen Data Extraction Evaluation Report\n\n## 1. Executive Summary\n\nThe extraction system performed well overall in capturing key hepatotoxicity information about Acetaminophen from the source document. The system accurately extracted most critical fields including the DILI likelihood score, injury pattern, risk factors, dosing information, and onset time. The extraction was particularly strong in identifying and structuring risk factors with supporting quotes. However, there were some issues with completeness, particularly regarding the evidence assessment for the DILI likelihood score and some clinical pattern details. The system appropriately handled null values when information was not present in the source document.\n\n## 2. Field-by-Field Analysis\n\n### Drug Name\n**Accuracy: Excellent**\n- Correctly identified \"Acetaminophen\" as the drug name.\n\n### DILI Likelihood Score\n**Accuracy: Good**\n- Correctly extracted \"A\" as the likelihood score.\n- The supporting quote correctly includes \"[HD]\" notation (high dose) but this qualifier was not explicitly included in the structured data field.\n- The extraction source is correctly identified.\n\n### Injury Pattern\n**Accuracy: Good**\n- Correctly extracted \"hepatocellular\" as the injury pattern.\n- Correctly identified the R-ratio of 14 that supports this classification.\n- Appropriately sourced from Case 1 in the document.\n\n### Fraction of Patients with Enzyme Elevation\n**Accuracy: Excellent**\n- Correctly extracted 0.76 (76%) from the source.\n- The supporting quote accurately reflects the data (81 of 106 patients).\n\n### Fraction of Patients with DILI\n**Accuracy: Appropriate**\n- Correctly set to null as this information is not provided in the source document.\n\n### Risk Factors\n**Accuracy: Excellent**\n- Comprehensively identified five risk factors: fasting, malnutrition, alcoholism, chronic liver disease, and critical illness.\n- Each risk factor is accompanied by an accurate supporting quote.\n- The extraction correctly captures the context that these factors increase susceptibility to acetaminophen toxicity.\n\n### Safe Dose\n**Accuracy: Good**\n- Correctly extracted 3 grams daily as the maximum safe dose.\n- The supporting quote is accurate.\n\n### Toxic Dose\n**Accuracy: Good**\n- Correctly extracted 7.5 grams as a single dose.\n- The supporting quote is accurate and provides context.\n\n### Onset Time\n**Accuracy: Good**\n- Correctly extracted the range of 24-72 hours.\n- Appropriately marked \"typical\" as null since a most common timeframe isn't specified.\n- Unit is correctly identified as \"hours\".\n\n### Peak ALT\n**Accuracy: Good**\n- Correctly extracted 575 U/L from Case 1.\n- The supporting quote is accurate.\n\n### Peak ALP, Bilirubin Peak\n**Accuracy: Appropriate**\n- Correctly set to null as these values are not provided in the source document.\n\n### R-Ratio\n**Accuracy: Good**\n- Correctly extracted 14 from Case 1.\n- The supporting quote is accurate.\n\n### Is Immune Mediated\n**Accuracy: Good**\n- Correctly identified as \"false\".\n- The document indicates direct hepatotoxic potential rather than immune-mediated injury.\n\n### Regulatory Status\n**Accuracy: Good**\n- Correctly extracted \"approved\" based on the information that it has been available since 1960.\n- The supporting quote is accurate.\n\n## 3. Accuracy Assessment\n\nThe extraction system demonstrated high accuracy for most fields. Key strengths include:\n- Precise extraction of numerical values (fractions, doses, onset times)\n- Accurate identification of risk factors with supporting evidence\n- Correct classification of injury pattern as hepatocellular with R-ratio\n- Appropriate handling of missing information with null values\n\nMinor accuracy issues:\n- The DILI likelihood score was extracted as \"A\" without the important qualifier \"[HD]\" which indicates that severe cases occur only with high doses\n- The extraction did not capture the full context of the DILI likelihood assessment\n\n## 4. Completeness Review\n\nThe extraction missed some important information:\n- The \"[HD]\" qualifier for the DILI likelihood score was not included in the structured field\n- No information was extracted about the mechanism of injury, which is extensively described in the source\n- No mention of acetaminophen being the \"major cause of acute liver failure in the United States, Europe and Australia\"\n- No extraction of information about treatment with n-acetylcysteine (NAC)\n- No extraction of information about hypersensitivity reactions (Stevens Johnson syndrome and toxic epidermal necrolysis)\n- No extraction of the distinction between intentional and unintentional overdose patterns\n\n## 5. Hallucination Detection\n\nNo hallucinations or fabricated information were detected in the extraction. All extracted data points are supported by the source document. The system appropriately used null values when information was not available rather than inventing data.\n\n## 6. Actionable Recommendations\n\n1. **Improve DILI likelihood score extraction**: Modify the extraction system to capture both the letter grade and any qualifiers (like [HD]) that provide critical context about the conditions under which hepatotoxicity occurs.\n\n2. **Add mechanism of injury field**: Create a dedicated field to capture the well-described mechanism of acetaminophen hepatotoxicity, which is important for understanding risk factors and treatment approaches.\n\n3. **Include treatment information**: Add fields to capture recommended treatments (like n-acetylcysteine) that are mentioned in the source.\n\n4. **Distinguish overdose patterns**: Add fields to differentiate between intentional (suicide) and unintentional overdose patterns, as they have different clinical presentations and risk factors.\n\n5. **Extract severity information**: Add fields to capture that acetaminophen is the major cause of acute liver failure in several regions, which indicates its clinical significance.\n\n6. **Include rare reactions**: Add fields to capture information about rare but serious reactions like Stevens Johnson syndrome and toxic epidermal necrolysis.\n\n7. **Extract outcome information**: Add fields to capture information about outcomes and prognosis, which are mentioned in the source document.\n\n## 7. Overall Score: 8/10\n\nThe extraction system performed well in accurately capturing most key hepatotoxicity information about Acetaminophen. The structured format with supporting quotes is particularly valuable. The system appropriately handled missing information and avoided hallucinations. The main areas for improvement are in capturing qualifiers for the DILI likelihood score and extracting additional clinically relevant information about mechanisms, treatments, and outcomes that would provide a more complete picture of Acetaminophen hepatotoxicity.",
+      "hallucination_detected": true,
+      "missing_information": []
+    },
+    {
+      "question": "What are the clinical patterns and injury characteristics for Acetaminophen?",
+      "drug_name": "Acetaminophen",
+      "retriever_response": {
+        "drug_name": "Acetaminophen",
+        "dili_likelihood_score": null,
+        "injury_pattern": null,
+        "fraction_patients_with_enzyme_elevation": null,
+        "fraction_patients_with_dili": null,
+        "risk_factors": null,
+        "safe_dose": null,
+        "toxic_dose": null,
+        "onset_time": null,
+        "peak_alt": null,
+        "peak_alp": null,
+        "r_ratio": null,
+        "bilirubin_peak": null,
+        "is_immune_mediated": false,
+        "regulatory_status": null,
+        "extraction_sources": null
+      },
+      "correctness_scores": {
+        "injury_pattern": 0.8,
+        "is_immune_mediated": 0.8
+      },
+      "overall_score": 0.8,
+      "feedback": "# Acetaminophen Data Extraction Evaluation Report\n\n## 1. Executive Summary\n\nThe extraction system performed well overall in capturing key hepatotoxicity information about Acetaminophen from the source document. The system accurately extracted most critical fields including the DILI likelihood score, injury pattern, risk factors, dosing information, and onset time. The extraction was particularly strong in identifying and structuring risk factors with supporting quotes. However, there were some issues with completeness, particularly regarding the evidence assessment for the DILI likelihood score and some clinical pattern details. The system appropriately handled null values when information was not present in the source document.\n\n## 2. Field-by-Field Analysis\n\n### Drug Name\n**Accuracy: Excellent**\n- Correctly identified \"Acetaminophen\" as the drug name.\n\n### DILI Likelihood Score\n**Accuracy: Good**\n- Correctly extracted \"A\" as the likelihood score.\n- The supporting quote correctly includes \"[HD]\" notation (high dose) but this qualifier was not explicitly included in the structured data field.\n- The extraction source is correctly identified.\n\n### Injury Pattern\n**Accuracy: Good**\n- Correctly extracted \"hepatocellular\" as the injury pattern.\n- Correctly identified the R-ratio of 14 that supports this classification.\n- Appropriately sourced from Case 1 in the document.\n\n### Fraction of Patients with Enzyme Elevation\n**Accuracy: Excellent**\n- Correctly extracted 0.76 (76%) from the source.\n- The supporting quote accurately reflects the data (81 of 106 patients).\n\n### Fraction of Patients with DILI\n**Accuracy: Appropriate**\n- Correctly set to null as this information is not provided in the source document.\n\n### Risk Factors\n**Accuracy: Excellent**\n- Comprehensively identified five risk factors: fasting, malnutrition, alcoholism, chronic liver disease, and critical illness.\n- Each risk factor is accompanied by an accurate supporting quote.\n- The extraction correctly captures the context that these factors increase susceptibility to acetaminophen toxicity.\n\n### Safe Dose\n**Accuracy: Good**\n- Correctly extracted 3 grams daily as the maximum safe dose.\n- The supporting quote is accurate.\n\n### Toxic Dose\n**Accuracy: Good**\n- Correctly extracted 7.5 grams as a single dose.\n- The supporting quote is accurate and provides context.\n\n### Onset Time\n**Accuracy: Good**\n- Correctly extracted the range of 24-72 hours.\n- Appropriately marked \"typical\" as null since a most common timeframe isn't specified.\n- Unit is correctly identified as \"hours\".\n\n### Peak ALT\n**Accuracy: Good**\n- Correctly extracted 575 U/L from Case 1.\n- The supporting quote is accurate.\n\n### Peak ALP, Bilirubin Peak\n**Accuracy: Appropriate**\n- Correctly set to null as these values are not provided in the source document.\n\n### R-Ratio\n**Accuracy: Good**\n- Correctly extracted 14 from Case 1.\n- The supporting quote is accurate.\n\n### Is Immune Mediated\n**Accuracy: Good**\n- Correctly identified as \"false\".\n- The document indicates direct hepatotoxic potential rather than immune-mediated injury.\n\n### Regulatory Status\n**Accuracy: Good**\n- Correctly extracted \"approved\" based on the information that it has been available since 1960.\n- The supporting quote is accurate.\n\n## 3. Accuracy Assessment\n\nThe extraction system demonstrated high accuracy for most fields. Key strengths include:\n- Precise extraction of numerical values (fractions, doses, onset times)\n- Accurate identification of risk factors with supporting evidence\n- Correct classification of injury pattern as hepatocellular with R-ratio\n- Appropriate handling of missing information with null values\n\nMinor accuracy issues:\n- The DILI likelihood score was extracted as \"A\" without the important qualifier \"[HD]\" which indicates that severe cases occur only with high doses\n- The extraction did not capture the full context of the DILI likelihood assessment\n\n## 4. Completeness Review\n\nThe extraction missed some important information:\n- The \"[HD]\" qualifier for the DILI likelihood score was not included in the structured field\n- No information was extracted about the mechanism of injury, which is extensively described in the source\n- No mention of acetaminophen being the \"major cause of acute liver failure in the United States, Europe and Australia\"\n- No extraction of information about treatment with n-acetylcysteine (NAC)\n- No extraction of information about hypersensitivity reactions (Stevens Johnson syndrome and toxic epidermal necrolysis)\n- No extraction of the distinction between intentional and unintentional overdose patterns\n\n## 5. Hallucination Detection\n\nNo hallucinations or fabricated information were detected in the extraction. All extracted data points are supported by the source document. The system appropriately used null values when information was not available rather than inventing data.\n\n## 6. Actionable Recommendations\n\n1. **Improve DILI likelihood score extraction**: Modify the extraction system to capture both the letter grade and any qualifiers (like [HD]) that provide critical context about the conditions under which hepatotoxicity occurs.\n\n2. **Add mechanism of injury field**: Create a dedicated field to capture the well-described mechanism of acetaminophen hepatotoxicity, which is important for understanding risk factors and treatment approaches.\n\n3. **Include treatment information**: Add fields to capture recommended treatments (like n-acetylcysteine) that are mentioned in the source.\n\n4. **Distinguish overdose patterns**: Add fields to differentiate between intentional (suicide) and unintentional overdose patterns, as they have different clinical presentations and risk factors.\n\n5. **Extract severity information**: Add fields to capture that acetaminophen is the major cause of acute liver failure in several regions, which indicates its clinical significance.\n\n6. **Include rare reactions**: Add fields to capture information about rare but serious reactions like Stevens Johnson syndrome and toxic epidermal necrolysis.\n\n7. **Extract outcome information**: Add fields to capture information about outcomes and prognosis, which are mentioned in the source document.\n\n## 7. Overall Score: 8/10\n\nThe extraction system performed well in accurately capturing most key hepatotoxicity information about Acetaminophen. The structured format with supporting quotes is particularly valuable. The system appropriately handled missing information and avoided hallucinations. The main areas for improvement are in capturing qualifiers for the DILI likelihood score and extracting additional clinically relevant information about mechanisms, treatments, and outcomes that would provide a more complete picture of Acetaminophen hepatotoxicity.",
+      "hallucination_detected": true,
+      "missing_information": []
+    }
+  ],
+  "recommendations": [
+    "High hallucination rate detected (100.0%). Improve prompts to emphasize conservative extraction and source verification."
+  ]
+}

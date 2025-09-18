@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Ketoconazole" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Ketoconazole</book-part-id>
+      <title-group>
+        <title>Ketoconazole</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>17</day>
+          <month>5</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Ketamine" document-type="chapter">Ketamine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Ketoprofen" document-type="chapter">Ketoprofen</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Ketoconazole.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Ketoconazole.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Ketoconazole is an imidazole fungicidal agent with a very broad spectrum of activity against many fungal species that is used for treatment of superficial and systemic fungal infections. Ketoconazole is a well documented cause of clinically apparent acute drug induced liver injury and is no longer recommended as a first line antifungal agent.</p>
+        </sec>
+        <sec id="Ketoconazole.Background">
+          <title>Background</title>
+          <p>Ketoconazole (kee" toe kon' a zole) is an imidazole derivative and fungicidal agent which is believed to work by several mechanisms, including inhibition of the fungal 14&#x003b1;-ergosterol demethylase which is responsible for converting lanosterol to ergosterol and which blocks fungal cell membrane synthesis. Ketoconazole may also inhibit fungal triglyceride and phospholipid synthesis and fungal oxidative and peroxidative enzyme activity, causing accumulation of hydrogen peroxide, contributing to deterioration of organelles. Ketoconazole has been used in the treatment of many fungal infections including blastomycosis, candidiasis, coccidiomycosis, tinea pityriasis versicolor and histoplasmosis. Ketaconazole has also been used as adjuvant therapy of prostate cancer, because of its effects in lowering androgen production by both the testes and adrenal glands. Ketoconazole was approved for use in the United States in 1981, but has been replaced by other antifungal agents which have fewer side effects and wider range of activity. Because of its potential for severe adverse reactions including hepatotoxicity, ketoconazole has been withdrawn in many countries and has strict labeling in the United States recommending that it be used only when other effective antifungal agents are not available or tolerated. Current indications include systemic fungal infections due to candida, blastomycosis, coccidiomycosis, histoplasmosis, chromomycosis and paracoccidioidomycosis. Ketoconazole is available as 200 mg tablets in several generic forms and previously under the brand name of Nizoral. The recommended dose for fungal infections is 200 to 400 mg once daily by mouth in adults and 3.3 to 6.6 mg/kg in children older than 2 years of age. The dose used for prostate cancer is 400 mg three times daily. Ketoconazole is also available as a cream, solution and shampoo for cutaneous fungal infections. Common side effects include pruritus, nausea, rash, abdominal pain, headache, dizziness, fatigue, impotence, menstrual abnormalities and gynecomastia. Severe adverse events include anaphylaxis, hepatotoxicity, endocrine dysregulation and prolongation of the QTc interval.</p>
+        </sec>
+        <sec id="Ketoconazole.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Mild and transient elevations in liver enzymes occur in 4% to 20% of patients on oral ketaconazole. These abnormalities are usually transient and asymptomatic and uncommonly require dose adjustment or discontinuation. Clinically apparent hepatotoxicity from ketaconazole is well described in the literature and is estimated to occur in 1:2,000 to 1:15,000 users. The liver injury typically presents with an acute hepatitis-like picture 1 to 6 months after starting therapy. While most cases present with a hepatocellular pattern of injury, cholestatic forms have been described. Rash, fever and eosinophilia are rare as is autoantibody formation. Recovery upon stopping therapy may be delayed and generally takes 1 to 3 months. Severe cases with acute liver failure and death or need for emergency liver transplantation have been described.</p>
+          <p>Likelihood score: A (well established cause cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Ketoconazole.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of clinically apparent hepatotoxicity from ketoconazole is unknown; however, it may correlate with the ability of ketoconazole to inhibit mammalian sterol synthesis. Acute liver injury is clearly idiosyncratic. Ketoconazole is a potent inhibitor of human CYP 3A4 and can alter the serum levels of many drugs that are metabolized via the P450 system, increasing the toxicity of these agents. Indeed, it is often used to assess the effects of CYP 3A4 inhibition on the metabolism of other drugs.</p>
+        </sec>
+        <sec id="Ketoconazole.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The severity of the liver injury from ketoconazole ranges from mild and transient enzyme elevations (Case 1) to symptomatic acute liver injury with jaundice (Case 2), to severe hepatitis and acute liver failure (Case 4), resulting in death or need for emergency liver transplantation. Recovery from ketoconazole hepatitis is typically slow, starting 1 to 4 weeks after stopping the medication and requiring 1 to 3 months for full recovery. At least one case of chronic hepatitis and cirrhosis has been linked to ketoconazole therapy (Case 3). Rechallenge leads to recurrence and should be avoided. There is little information on cross reactivity of hepatic injury between ketoconazole and other antifungal azoles, such as itraconazole, fluconazole, voriconazole and posaconazole, but a few reports suggest that there is little cross reactivity. Nevertheless, other azoles should be started with caution in patients who have suffered clinically apparent hepatotoxicity attributed to ketoconazole.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntifungalAgents">Antifungal Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Ketoconazole.CASE_REPORTS">
+        <title>CASE REPORTS</title>
+        <sec id="Ketoconazole.Case_1._Acute_self-limited_">
+          <title>Case 1. Acute self-limited serum enzyme elevations during ketoconazole therapy.</title>
+          <p>[Modified from: Leal-Cerro A, Garc&#x000ed;a-Luna PP, Jim&#x000e9;nez Mej&#x000ed;as E, Astorga R. [Hepatotoxicity of ketoconazole in patients with adrenal pathology]. Med Clin (Barc) 1987; 88: 519. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/3586729">PubMed Citation</ext-link>]</p>
+          <p>A woman was started on ketoconazole as experimental therapy of Cushings syndrome and had regular blood test monitoring for liver injury at weekly intervals (Table). Serum ALT levels became abnormal after 14 days and peaked at 21 days, with minimal increase in serum alkaline phosphatase and no increase in serum bilirubin or appearance of symptoms. ALT levels fell to normal by week 5 despite continuation of ketoconazole at the same dose.</p>
+          <sec id="Ketoconazole.Key_Points1">
+            <title>Key Points</title>
+            <table-wrap id="Ketoconazole.T1" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Ketoconazole (daily)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Hepatocellular (R=7.0)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">1+ (serum enzyme elevations without jaundice)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">14 days</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">3 weeks</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">None mentioned</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Ketoconazole.Laboratory_Values1">
+            <title>Laboratory Values</title>
+            <table-wrap id="Ketoconazole.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Ketoconazole.T2_1_1_1_1" rowspan="1" colspan="1">Weeks After Starting</th>
+                    <th id="hd_h_Ketoconazole.T2_1_1_1_2" rowspan="1" colspan="1">ALT<break/> (U/L)</th>
+                    <th id="hd_h_Ketoconazole.T2_1_1_1_3" rowspan="1" colspan="1">AST<break/> (U/L)</th>
+                    <th id="hd_h_Ketoconazole.T2_1_1_1_4" rowspan="1" colspan="1">Alk P<break/> (U/L)</th>
+                    <th id="hd_h_Ketoconazole.T2_1_1_1_5" rowspan="1" colspan="1">Bilirubin<break/> (mg/dL)</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_1" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_2" rowspan="1" colspan="1">37</td>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_3" rowspan="1" colspan="1">26</td>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_4" rowspan="1" colspan="1">145</td>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_5" rowspan="1" colspan="1">0.2</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_1" rowspan="1" colspan="1">1</td>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_2" rowspan="1" colspan="1">30</td>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_3" rowspan="1" colspan="1">19</td>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_4" rowspan="1" colspan="1">162</td>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_5" rowspan="1" colspan="1">0.3</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_1" rowspan="1" colspan="1">2</td>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_2" rowspan="1" colspan="1">353</td>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_3" rowspan="1" colspan="1">166</td>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_4" rowspan="1" colspan="1">260</td>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_5" rowspan="1" colspan="1">0.3</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_1" rowspan="1" colspan="1">3</td>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_2" rowspan="1" colspan="1">79</td>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_3" rowspan="1" colspan="1">38</td>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_4" rowspan="1" colspan="1">252</td>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_5" rowspan="1" colspan="1">0.4</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_1" rowspan="1" colspan="1">4</td>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_2" rowspan="1" colspan="1">34</td>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_3" rowspan="1" colspan="1">33</td>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_4" rowspan="1" colspan="1">212</td>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_5" rowspan="1" colspan="1">0.3</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_1" rowspan="1" colspan="1">5</td>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_2" rowspan="1" colspan="1">36</td>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_3" rowspan="1" colspan="1">33</td>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_4" rowspan="1" colspan="1">215</td>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_5" rowspan="1" colspan="1">0.3</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_1" rowspan="1" colspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_2" rowspan="1" colspan="1">
+<bold>&#x0003c;50</bold>
+</td>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;50</bold>
+</td>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;279</bold>
+</td>
+                    <td headers="hd_h_Ketoconazole.T2_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Ketoconazole.Comment1">
+            <title>Comment</title>
+            <p>A typical example of mild-to-moderate serum aminotransferase elevations during the first few weeks of ketaconazole therapy with spontaneous resolution despite continuing therapy without dose modification. The phenomenon is referred to as "adaptation" and its mechanism is unknown.</p>
+          </sec>
+        </sec>
+        <sec id="Ketoconazole.Case_2._Ketoconazole_induce">
+          <title>Case 2. Ketoconazole induced acute, self-limited hepatitis.</title>
+          <p>[Modified from: Svejgaard E, Ranek L. Hepatic dysfunction and ketoconazole therapy. Ann Intern Med 1982; 96 (6 Pt 1): 788-9. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/6283980">PubMed Citation</ext-link>]</p>
+          <p>A 48 year old man developed nausea and fatigue 81 days after starting ketoconazole (200 mg daily) for fingernail onychomycosis. Serum ALT levels were normal before therapy and had been only minimally elevated at 8 weeks. On presentation, he was jaundiced but without fever or rash. Serum bilirubin was 6.3 mg/dL and serum aminotransferase levels were markedly elevated. Tests for hepatitis A and B were negative and ultrasound and CT scans of the abdomen showed no evidence of biliary obstruction or chronic liver disease. The patient remained jaundiced for a month, but serum enzymes then began to fall and were normal 2 months later (Table).</p>
+          <sec id="Ketoconazole.Key_Points2">
+            <title>Key Points</title>
+            <table-wrap id="Ketoconazole.T3" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Ketoconazole (200 mg daily)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Hepatocellular (R=12.8)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">3+ (jaundice leading to hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">3 months</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">2 months</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">None mentioned</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Ketoconazole.Laboratory_Values2">
+            <title>Laboratory Values</title>
+            <table-wrap id="Ketoconazole.T4" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Ketoconazole.T4_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Ketoconazole.T4_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Ketoconazole.T4_1_1_1_3" rowspan="1" colspan="1">AST (U/L)</th>
+                    <th id="hd_h_Ketoconazole.T4_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Ketoconazole.T4_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Ketoconazole.T4_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_1" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_3" rowspan="1" colspan="1">13</td>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_6" rowspan="1" colspan="1">Before ketoconazole</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_1" rowspan="1" colspan="1">3 months</td>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_3" rowspan="1" colspan="1">1030</td>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_6" rowspan="1" colspan="1">One more dose given</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_2" rowspan="1" colspan="1">1 day</td>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_3" rowspan="1" colspan="1">1900</td>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_4" rowspan="1" colspan="1">450</td>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_5" rowspan="1" colspan="1">6.2</td>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_6" rowspan="1" colspan="1">Ultrasound normal</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_1" rowspan="1" colspan="1">3.5 months</td>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_2" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_3" rowspan="1" colspan="1">1450</td>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_4" rowspan="1" colspan="1">480</td>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_5" rowspan="1" colspan="1">6.5</td>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_1" rowspan="1" colspan="1">4 months</td>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_2" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_3" rowspan="1" colspan="1">480</td>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_4" rowspan="1" colspan="1">240</td>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_5" rowspan="1" colspan="1">3.0</td>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_1" rowspan="1" colspan="1">5 months</td>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_2" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_3" rowspan="1" colspan="1">31</td>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_4" rowspan="1" colspan="1">158</td>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_5" rowspan="1" colspan="1">0.8</td>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_1 hd_h_Ketoconazole.T4_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;40</bold>
+</td>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;275</bold>
+</td>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Ketoconazole.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Ketoconazole.Comment2">
+            <title>Comment</title>
+            <p>A typical case of hepatocellular injury due to ketoconazole arising after 3 months of therapy, despite monitoring for liver injury with monthly blood tests as a part of a clinical trial of this azole for superficial onychomycosis. Recovery was spontaneous but was slightly delayed as is typical of ketoconazole hepatotoxicity.</p>
+          </sec>
+        </sec>
+        <sec id="Ketoconazole.Case_3._Ketoconazole_induce">
+          <title>Case 3. Ketoconazole induced liver cirrhosis.</title>
+          <p>[Modified from: Kim TH, Kim BH, Kim YW, Yang DM, Han YS, Dong SH, Kim HJ, et al. Liver cirrhosis developed after ketoconazole-induced acute hepatic injury. J Gastroenterol Hepatol 2003; 18: 1426-9. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/14675275">PubMed Citation</ext-link>]</p>
+          <p>A 41 year old woman developed nausea, vomiting, anorexia, and jaundice after taking ketoconazole (200 mg daily) for 4.5 months for onychomycosis. Before starting therapy, serum aminotransferase and bilirubin levels were normal. On presentation, she had jaundice but no fever or rash. Serum bilirubin was 12.8 mg/dL and ALT 1461 U/L. Tests for viral hepatitis A, B, C and E were negative as were autoantibodies including ANA and AMA. Over the next four months bilirubin levels remained high and serum albumin fell. Ascites was found after 4 months and upper endoscopy showed varices. Liver biopsy showed cirrhosis; bile duct damage was not mentioned. During long term follow up, liver tests improved, but remained abnormal even five years after the acute injury and discontinuation of ketoconazole.</p>
+          <sec id="Ketoconazole.Key_Points3">
+            <title>Key Points</title>
+            <table-wrap id="Ketoconazole.T5" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Ketoconazole (200 mg daily)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Hepatocellular (R=16)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">4+ (prolonged jaundice and cirrhosis)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">4.5 months</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">Incomplete</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">None mentioned</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Ketoconazole.Laboratory_Values3">
+            <title>Laboratory Values</title>
+            <table-wrap id="Ketoconazole.T6" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Ketoconazole.T6_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Ketoconazole.T6_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Ketoconazole.T6_1_1_1_3" rowspan="1" colspan="1">AST* (U/L)</th>
+                    <th id="hd_h_Ketoconazole.T6_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Ketoconazole.T6_1_1_1_5" rowspan="1" colspan="1">Bilirubin* (mg/dL)</th>
+                    <th id="hd_h_Ketoconazole.T6_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_1" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_3" rowspan="1" colspan="1">23</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_1" rowspan="1" colspan="1">5 months</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_3" rowspan="1" colspan="1">1461</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_4" rowspan="1" colspan="1">268</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_5" rowspan="1" colspan="1">12.3</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_6" rowspan="1" colspan="1">Symptomatic onset</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_2" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_3" rowspan="1" colspan="1">1800</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_5" rowspan="1" colspan="1">24.0</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_6" rowspan="1" colspan="1">INR 1.2</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_1" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_2" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_3" rowspan="1" colspan="1">205</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_5" rowspan="1" colspan="1">31.0</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_6" rowspan="1" colspan="1">Albumin 2.4</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_2" rowspan="1" colspan="1">6 weekls</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_3" rowspan="1" colspan="1">170</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_5" rowspan="1" colspan="1">30.0</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_1" rowspan="1" colspan="1">7 months</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_2" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_3" rowspan="1" colspan="1">180</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_5" rowspan="1" colspan="1">30.4</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_2" rowspan="1" colspan="1">11 weeks</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_3" rowspan="1" colspan="1">120</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_5" rowspan="1" colspan="1">22.8</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_1" rowspan="1" colspan="1">8 months</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_2" rowspan="1" colspan="1">13 weeks</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_3" rowspan="1" colspan="1">150</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_5" rowspan="1" colspan="1">12.9</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_2" rowspan="1" colspan="1">15 weeks</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_3" rowspan="1" colspan="1">110</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_5" rowspan="1" colspan="1">9.9</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_1" rowspan="1" colspan="1">9 months</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_2" rowspan="1" colspan="1">4 months</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_3" rowspan="1" colspan="1">80</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_5" rowspan="1" colspan="1">7.6</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_6" rowspan="1" colspan="1">Ascites, varices</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_1" rowspan="1" colspan="1">12 months</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_2" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_3" rowspan="1" colspan="1">60</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_5" rowspan="1" colspan="1">2.9</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_6" rowspan="1" colspan="1">Liver biopsy: cirrhosis</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_1" rowspan="1" colspan="1">14 months</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_2" rowspan="1" colspan="1">9 months</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_3" rowspan="1" colspan="1">50</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_5" rowspan="1" colspan="1">1.2</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_6" rowspan="1" colspan="1">Albumin 3.3</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_1 hd_h_Ketoconazole.T6_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;35</bold>
+</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;117</bold>
+</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Ketoconazole.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <p>*Some values estimated from Figure 2.</p>
+          </sec>
+          <sec id="Ketoconazole.Comment3">
+            <title>Comment</title>
+            <p>An unusual case of drug induced liver injury. The initial presentation with acute, severe hepatocellular jaundice arising 5 months after starting ketoconazole in a middle aged woman was typical of this form of drug induced liver injury. However, the evidence of liver injury persisted and four months later clinical evidence of cirrhosis was present. Laboratory values remained abnormal even five years after the initial presentation and discontinuation of ketoconazole. The liver biopsy showed cirrhosis, but the report does not mention evidence of biliary damage as might be seen in vanishing bile duct syndrome or primary biliary cirrhosis or sclerosing cholangitis. Most drugs that have been implicated in causing cirrhosis are given for prolonged periods (minocycline, methyldopa, amiodarone, valproate) and induction of chronic hepatitis by an limited course of therapy is usually accompanied by features of autoimmunity such as antinuclear antibody. Alternatively, the clinical syndrome may represent &#x0201c;post-hepatitic&#x0201d; inactive cirrhosis due to the severity of the acute hepatitis and that is not associated with progressive liver injury.</p>
+          </sec>
+        </sec>
+        <sec id="Ketoconazole.Case_4._Acute_liver_failure">
+          <title>Case 4. Acute liver failure due to ketoconazole.</title>
+          <p>[Modified from: Knight T, Shikuma C, Knight J. Ketoconazole-induced fulminant hepatitis necessitating liver transplantation. J Am Acad Dermatol 1991; 25: 398-400. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/1832694">PubMed Citation</ext-link>]</p>
+          <p>A 45 year old woman treated with ketoconazole for candidal onychomycosis developed anorexia, nausea, malaise, and dark-colored urine after 58 days of therapy. She discontinued the medication promptly. Physical examination revealed hepatic tenderness and mild jaundice but no fever or rash. Blood tests showed bilirubin of 4.2 mg/dL, alkaline phosphatase 102 U/L, and AST 1328 U/L. During the second week of illness, she developed worsening symptoms and jaundice that progressed to liver failure and hepatic coma that prompted emergency liver transplantation.</p>
+          <sec id="Ketoconazole.Key_Points4">
+            <title>Key Points</title>
+            <table-wrap id="Ketoconazole.T7" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Ketoconazole (200 mg daily)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Hepatocellular (R=79)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">5+ (jaundice, hepatic failure, liver transplantation)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">58 days</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">None</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">Levothyroxine</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Ketoconazole.Comment4">
+            <title>Comment</title>
+            <p>A example of ketaconazole hepatotoxicity, presenting after two months of therapy with an acute hepatitis-like syndrome, but then progressing to acute liver failure. Improvement upon stopping therapy can be delayed with progressive worsening over the 1 to 4 weeks after discontinuation of treatment. Minor allergic signs and symptoms (rash and eosinophilia) may be present early in the course, but are rarely severe. Corticosteroid therapy has been applied to patients with ketaconazole hepatotoxicity, but its efficacy in ameliorating the course of illness has not been shown.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Ketoconazole.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Ketoconazole.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Ketoconazole &#x02013; Generic, Nizoral&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Antifungal Agents</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=ketoconazole">COMPLETE LABELING</ext-link>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Ketoconazole.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Ketoconazole.T8" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Ketoconazole.T8_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Ketoconazole.T8_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Ketoconazole.T8_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Ketoconazole.T8_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Ketoconazole.T8_1_1_1_1" rowspan="1" colspan="1">Ketoconazole</td>
+                <td headers="hd_h_Ketoconazole.T8_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135007018">65277-42-1</ext-link>
+</td>
+                <td headers="hd_h_Ketoconazole.T8_1_1_1_3" rowspan="1" colspan="1">C26-H28-Cl2-N4-O4</td>
+                <td headers="hd_h_Ketoconazole.T8_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="ketoconazole.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Image of Ketoconazole Chemical Structure</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Ketoconazole.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 17 May 2017</p>
+        <ref-list id="Ketoconazole.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Ketoconazole.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Antifungal agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 609-11.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of antifungal agents published in 1999; mentions that ketoconazole has been implicated in many cases of liver injury, more often in woman, usually hepatocellular arising after 1-24 weeks, occasionally fatal).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R2">
+            <mixed-citation publication-type="other">Moseley RH. Antifungal agents. Antibacterial and antifungal agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 470-3. <italic toggle="yes">(Review of hepatotoxicity of antifungal agents</italic>
+<italic toggle="yes">mentions that</italic><annotation><p><italic toggle="yes">symptomatic liver injury occurs in 1:2000 to 1:10,000 persons taking ketaconazole and up to 17.5% of treated patients have asymptomatic aminotransferase elevations).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R3">
+            <mixed-citation publication-type="other">Bennett JE. Antifungal agents. In, Brunton LL, Chabner B, Knollman K, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1571-91.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics; ketoconazole has been replaced in large part by itraconazole, which lacks the corticosteroid suppressive activity of ketoconazole and has an expanded antifungal spectrum).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R4">
+            <mixed-citation publication-type="journal">Petersen EA, Alling DW, Kirkpatrick CH. Treatment of chronic mucocutaneous candidiasis with ketoconazole. Ann Intern Med 1980; 93: 791-5. <annotation><p><italic toggle="yes">(Controlled trial of 6 month course of ketoconazole vs placebo in 12 patients with chronic mucocutaneous candidiasis with subsequent cross-over; marked beneficial effect in all treated patients; one developed ALT and Alk P elevations without jaundice that improved with lowering dose).</italic></p></annotation><pub-id pub-id-type="pmid">6255844</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R5">
+            <mixed-citation publication-type="journal">Heiberg JK, Svejgaard E. Toxic hepatitis during ketoconazole treatment. Br Med J (Clin Res Ed) 1981; 283: 825-6. <annotation><p><italic toggle="yes"> (68 year old woman developed pruritus after 14 weeks of ketoconazole followed by dark urine with ALT ~275 U/L, resolving rapidly and recurring with reexposure; biopsy with portal inflammation; three liver biopsies).</italic></p></annotation><pub-id pub-id-type="pmid">6271328</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R6">
+            <mixed-citation publication-type="journal">Macnair AL, Gascoigne E, Heap J, Schuermans V, Symoens J. Hepatitis and ketoconazole therapy. Br Med J (Clin Res Ed) 1981; 283: 1058-9. <annotation><p><italic toggle="yes">(Summary of monitoring of liver tests in study of 988 patients from Janssen Pharmacuticals finding little evidence of hepatic injury; 3 reported cases of hepatitis during therapy, all resolved with stopping therapy).</italic></p></annotation><pub-id pub-id-type="pmid">6271330</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R7">
+            <mixed-citation publication-type="journal">Firebrace DAJ. Hepatitis and ketoconazole therapy. Br Med J (Clin Res Ed) 1981; 283; 1058-9. <annotation><p><italic toggle="yes">(62 year old man developed jaundice 2 months after starting ketaconazole [bilirubin 2.8 mg/dL, ALT 697 U/L, Alk P 396 UL], resolving despite continuing therapy).</italic></p></annotation><pub-id pub-id-type="pmid">6271330</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R8">
+            <mixed-citation publication-type="journal">Adams JG. Jaundice and other drug reactions to ketoconazole. Australas J Dermatol 1982; 23: 90. <annotation><p><italic toggle="yes">(31 cases of jaundice or symptomatic hepatitis related to ketaconazole therapy reported to Janssen Pharmaceuticals, onset between 3 and 24 weeks).</italic></p></annotation><pub-id pub-id-type="pmid">6295356</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R9">
+            <mixed-citation publication-type="journal">Horsburgh CR Jr, Kirkpatrick CH, Teutsch CB. Ketoconazole and the liver. Lancet 1982; 1: 860. <annotation><p><italic toggle="yes">(Letter stressing hepatic side effects of ketoconazole; transient enzyme elevations occurred in 4 of 12 patients and 1 developed clinically apparent hepatitis in the study by Peterson et al. [1980]; since then, another patient had rise of AST to 1100 U/L, resolving with stopping).</italic></p></annotation><pub-id pub-id-type="pmid">6122089</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R10">
+            <mixed-citation publication-type="journal">Svejgaard E, Ranek L. Hepatic dysfunction and ketoconazole therapy. Ann Intern Med 1982; 96 (6 Pt 1): 788-9. <annotation><p><italic toggle="yes">(48 year old man developed fatigue and nausea 81 days after starting ketoconazole [bilirubin 6.3 mg/dL, AST 1030 U/L, Alk P 450 U/L], resolving 2 months after stopping: Case 2).</italic></p></annotation><pub-id pub-id-type="pmid">6283980</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R11">
+            <mixed-citation publication-type="journal">Strauss JS. Ketaconazole and the liver. J Am Acad Dermatol 1982; 6: 546-7. <annotation><p><italic toggle="yes">(52 year old woman developed intermittent AST elevations without jaundice during ketoconazole therapy; AST finally rising to 346 U/L at 7 months when it was stopped; ALT 575 U/L one week later, but fell to normal in next 8 weeks).</italic></p></annotation><pub-id pub-id-type="pmid">6281318</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R12">
+            <mixed-citation publication-type="journal">Tkach JR, Rinaldi MG. Severe hepatitis associated with ketoconazole therapy for chronic mucocutaneous candidiasis. Cutis 1982; 29: 482-4. <annotation><p><italic toggle="yes">(6 year old boy with chronic cutaneous candidiasis developed jaundice 5 months after starting ketaconazole [bilirubin 10.4 rising to 15.6 mg/dL and ALT 1980 U/L], with slow but complete resolution in 3 months).</italic></p></annotation><pub-id pub-id-type="pmid">6284445</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R13">
+            <mixed-citation publication-type="journal">van Dijke CP. [Hepatitis during the administration of ketoconazole (Nizoral)]. Ned Tijdschr Geneeskd 1983; 127: 339-41. <annotation><p><italic toggle="yes">(5 cases of liver injury: 3 women and 2 men, ages 24 to 54, with dermatomycosis developed abnormal liver tests 1 to 6 months after starting oral ketoconazole [bilirubin normal to 6.4 mg/dL, ALT 308 to 790 U/L, Alk P normal] resolving in few weeks to 3 months after stopping).</italic></p></annotation><pub-id pub-id-type="pmid">6300701</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R14">
+            <mixed-citation publication-type="journal">Bo&#x000eb;tius G, Peeters JP, Peters JH. [Toxic hepatitis caused by ketoconazole (Nizoral)]. Ned Tijdschr Geneeskd 1983; 127: 341-3. Dutch. <annotation><p><italic toggle="yes">(2 cases of liver injury: two women, ages 54 and 49 developed dark urine 3 and 4 months after starting ketoconazole [bilirubin 5.6 and 29.2 mg/dL, ALT 85 and 1092 U/L, Alk P 262 and 189 U/L], resolving clinically within 6 and 8 weeks after stopping). </italic></p></annotation><pub-id pub-id-type="pmid">6300702</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R15">
+            <mixed-citation publication-type="journal">Kramer NJ, Montnor LP, Berghuis PH. [Toxic hepatitis during the administration of ketoconazole(Nizoral)]. Ned Tijdschr Geneeskd 1983; 127: 343-4. <annotation><p><italic toggle="yes">(24 year old woman developed nausea followed by jaundice 4 months after starting ketoconazole for dermatomycosis [bilirubin 6.4 mg/dL, ALT 785 U/L, Alk P 98 U/L], resolving within 6 weeks of stopping: patient D in van Dijke [1983]). </italic></p></annotation><pub-id pub-id-type="pmid">6300703</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R16">
+            <mixed-citation publication-type="other">Bekkers GAH. [Toxic hepatitis due to ketoconazole]. Toxische hepatitis door ketoconazol. Ned Tijdschr Geneesk 1983; 127: 1114-5. Not in PubMed</mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R17">
+            <mixed-citation publication-type="journal">Haneke E. [Side effects of ketoconazole]. Z Hautkr 1983; 58: 1542-7. <pub-id pub-id-type="pmid">6318466</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R18">
+            <mixed-citation publication-type="journal">Boughton K. Ketoconazole and hepatic reactions. S Afr Med J 1983; 63: 955. <annotation><p><italic toggle="yes">(Among 1.3 million patients treated with ketoconazole worldwide, 96 reports of symptomatic liver damage were made to Janssen Pharmaceutics, for an estimated incidence of ~1:10,000, 3 deaths).</italic></p></annotation><pub-id pub-id-type="pmid">6304923</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R19">
+            <mixed-citation publication-type="journal">Henning H, Kasper B, L&#x000fc;ders CJ. [Ketoconazole-induced hepatitis. Case report]. Z Gastroenterol 1983; 21: 709-15. <annotation><p><italic toggle="yes">(62 year old woman developed fatigue 2 and jaundice 4 weeks after starting ketaconazole [bilirubin 7.6 mg/dL, ALT 1197 U/L, Alk P 524 U/L], resolving after 4-5 months, positive rechallenge to two doses [ALT rising to 176 U/L] and biopsy showing portal inflammation and focal necrosis).</italic></p></annotation><pub-id pub-id-type="pmid">6141674</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R20">
+            <mixed-citation publication-type="journal">Janssen PA, Symoens JE. Hepatic reactions during ketoconazole treatment. Am J Med 1983; 74: 80-5. <annotation><p><italic toggle="yes">(Summary of reports of symptomatic liver injury due to ketoconazole; 14% of 1074 patients had liver test abnormalities identified during routine monitoring, but many had elevations before therapy and none had symptoms, and elevations often resolved even with continuation of therapy; 31 reports of symptomatic hepatitis, 25 with jaundice, mean onset at 8 weeks [range 1-24], all resolved except one death from acute liver failure; two rechallenged and both had recurrence; estimated frequency 1:10,000 exposures).</italic></p></annotation><pub-id pub-id-type="pmid">6129799</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R21">
+            <mixed-citation publication-type="journal">Pegram S, Kerns FT, Wasilauskas BL, Hampton KD, Scharyj M, Bruke JG. Successful ketoconazole treatment of protothecosis with ketoconazole associated hepatotoxicity. Arch Intern Med 1983; 143: 1802-5. <annotation><p><italic toggle="yes">(46 year old woman with treatment resistant algae-like Prototheca wickerhamil wound infection responded to ketaconazole therapy, but she developed jaundice after 10 weeks [bilirubin 3.5 mg/dL, AST 873 U/L and Alk P 455 U/L], resolving with stopping therapy).</italic></p></annotation><pub-id pub-id-type="pmid">6311129</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R22">
+            <mixed-citation publication-type="journal">Okumura H, Aramaki T, Satomura K, Iizuka K, Ohta M, Katsuta Y, Akaike M, et al. Severe hepatitis during ketoconazole therapy. Gastroenterol Jpn 1983; 18: 142-7. <annotation><p><italic toggle="yes">(31 year old woman developed fatigue 3 months after starting ketoconazole [bilirubin 1.2 mg/dL, ALT 604 U/L, Alk P 102 U/L], but with worsening over the next 4 weeks, slowly resolving 3 months later).</italic></p></annotation><pub-id pub-id-type="pmid">6303886</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R23">
+            <mixed-citation publication-type="journal">Rollman O, L&#x000f6;&#x000f6;f L. Hepatic toxicity of ketoconazole. Br J Dermatol 1983; 108: 376-8. <annotation><p><italic toggle="yes">(4 of 36 patients had liver injury during ketaconazole therapy; most severe in a 37 year old man who developed pain after 6 months with ALT rising to 360 U/L, treated with prednisone; two asymptomatic cases with ALT elevations only, and one 43 year old man who developed jaundice and eosinophilia after 1 month of ketaconazole).</italic></p></annotation><pub-id pub-id-type="pmid">6299322</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R24">
+            <mixed-citation publication-type="journal">Duarte PA, Chow CC, Simmons F, Ruskin J. Fatal hepatitis associated with ketoconazole therapy. Arch Intern Med 1984; 144: 1069-70. <annotation><p><italic toggle="yes">(67 year old woman developed jaundice 2 months after starting ketoconazole [bilirubin 15 mg/dL, ALT 1580 U/L, Alk P 69 U/L], progressing to hepatic coma and death in 11 days: autopsy showed massive necrosis).</italic></p></annotation><pub-id pub-id-type="pmid">6324708</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R25">
+            <mixed-citation publication-type="journal">Lewis JH, Zimmerman HJ, Benson GD, Ishak KG. Hepatic injury associated with ketoconazole therapy. Analysis of 33 cases. Gastroenterology 1984; 86: 503-13. <annotation><p><italic toggle="yes">(Retrospective analysis of 33 cases of ketaconazole hepatotoxicity reported to FDA and Janssen: 11 men and 22 women; range in age of 5 to 93 years, latency averaged 56 days [range 10-219]; no hypersensitivity features; largely hepatocellular pattern of enzymes, but 15% cholestatic; 97% recovered in 1 to 16 weeks; no chronic hepatitis).</italic></p></annotation><pub-id pub-id-type="pmid">6319220</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R26">
+            <mixed-citation publication-type="journal">P&#x000e9;rez-Mateo M, Sillero C, V&#x000e1;zquez N. [Is ketoconazole hepatotoxic at high doses?]. Med Clin (Barc) 1984; 83: 780. <annotation><p><italic toggle="yes">(18 year old woman took overdose of ketoconazole [~6 g]; gastric lavage demonstratingly minimized residual pills; biochemical tests were normal over the next 24 hours and were normal in follow up weekly for one month; little evidence for direct toxicity of ketoconazole).</italic></p></annotation><pub-id pub-id-type="pmid">6097780</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R27">
+            <mixed-citation publication-type="journal">Roudot-Thoraval F, Dhumeaux D. [Hepatitis during treatment with ketoconazole]. Gastroenterol Clin Biol 1984; 8: 92. <annotation><p><italic toggle="yes">(25 year old woman developed abdominal pain and fatigue during 20 day course of ketoconazole that persisted for 4 weeks [bilirubin 1.0 mg/dL, ALT 190 U/L, Alk P 90 U/L], symptoms and laboratory abnormalities resolving over the next few weeks).</italic></p></annotation><pub-id pub-id-type="pmid">6321289</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R28">
+            <mixed-citation publication-type="journal">Savin RC. Systemic ketoconazole in tinea versicolor: a double-blind evaluation and 1-year follow-up. J Am Acad Dermatol 1984; 10 (5 Pt 1): 824-30. <annotation><p><italic toggle="yes">(Controlled trial of 4 weeks of ketoconazole vs placebo in 66 patients; significant increase in ALT without change in bilirubin in 1 ketoconazole treated patient).</italic></p></annotation><pub-id pub-id-type="pmid">6327784</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R29">
+            <mixed-citation publication-type="journal">Svedhem A. Toxic hepatitis following ketoconazole treatment. Scand J Infect Dis 1984; 16: 123-5. <annotation><p><italic toggle="yes">(61 year old woman developed rising ALT levels 4 months after starting ketoconazole [bilirubin normal but then rising to 16.4 mg/dL, ALT 1680 U/L, Alk P 540 U/L], resolving in 2 months).</italic></p></annotation><pub-id pub-id-type="pmid">6320358</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R30">
+            <mixed-citation publication-type="journal">Bercoff E, Bernau J, Degott C, Kalis B, Lemaire A, Tilly H, Rueff B, et al. Ketoconazole-induced fulminant hepatitis. Gut 1985; 26: 636-8. <annotation><p><italic toggle="yes">(2 cases of acute liver failure arising 17 and 103 days after starting ketoconazole with progression to ascites, coma and death during the month after stopping; autopsy showed massive necrosis).</italic></p></annotation><pub-id pub-id-type="pmid">4007605</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R31">
+            <mixed-citation publication-type="journal">Hay RJ, Clayton YM, Griffiths WA, Dowd PM. A comparative double blind study of ketoconazole and griseofulvin in dermatophytosis. Br J Dermatol 1985; 112: 691-6. <annotation><p><italic toggle="yes">(Controlled trial of ketoconazole vs griseofulvin for up to one year in 74 patients with dermatophytoses; similar efficacy; side effects were mild and there was no evidence of liver toxicity in either group &#x0201c;as assessed clinically or by liver function tests&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">3890924</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R32">
+            <mixed-citation publication-type="journal">Tabor E. Potential toxicity of ketoconazole. J Infect Dis 1985; 152: 233. <annotation><p><italic toggle="yes">(Letter stressing the importance of hepatotoxicity of ketoconazole).</italic></p></annotation><pub-id pub-id-type="pmid">4008991</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R33">
+            <mixed-citation publication-type="journal">Caballer&#x000ed;a Rovira E, Mass&#x000f3; Ubeda RM, Arag&#x000f3; L&#x000f3;pez JV, Sanchis Closa A. [Ketoconazole hepatotoxicity. Apropos of a case]. Med Clin (Barc) 1986; 86: 303-4. <annotation><p><italic toggle="yes">(73 year old developed jaundice 7 days after starting ketoconazole [bilirubin 4.4 mg/dL, ALT 302 U/L, Alk P 1633 U/L, 13% eosinophils], resolving clinically in 2 weeks, biochemically in 6 weeks).</italic></p></annotation><pub-id pub-id-type="pmid">3713348</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R34">
+            <mixed-citation publication-type="journal">Krivoy N, Bassan L. [Ketoconazole-induced acute liver necrosis]. Harefuah 1986; 110: 346-7. <annotation><p><italic toggle="yes">(63 year old woman developed jaundice 6 months after starting ketoconazole and continued therapy for 2 more weeks when she presented with confusion [bilirubin 27 mg/dL, ALT 935 U/L, Alk P 139 U/L, protime 15%], progressive coma and death in 3 days; autopsy showed massive necrosis).</italic></p></annotation><pub-id pub-id-type="pmid">3732948</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R35">
+            <mixed-citation publication-type="journal">Navarro Villena M. [Ketoconazole hepatotoxicity]. Med Clin (Barc) 1986; 87: 694. <annotation><p><italic toggle="yes">(40 year old woman developed rise in ALT to 300 U/L 7 days after starting ketoconazole with resolution within 30 days later, no symptoms or jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">3796103</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R36">
+            <mixed-citation publication-type="journal">Leal-Cerro A, Garc&#x000ed;a-Luna PP, Jim&#x000e9;nez Mej&#x000ed;as E, Astorga R. [Hepatotoxicity of ketoconazole in patients with adrenal pathology]. Med Clin (Barc) 1987; 88: 519. Spanish. <annotation><p><italic toggle="yes">(Report of serial serum enzyme results from 4 patients treated with ketoconazole who had ALT elevations at 7 or 14 days, but all had normal values within a few weeks, 3 even while continuing therapy: Case 1).</italic></p></annotation><pub-id pub-id-type="pmid">3586729</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R37">
+            <mixed-citation publication-type="journal">Stricker BH, Blok AP, Bronkhorst FB, Van Parys GE, Desmet VJ. Ketoconazole-associated hepatic injury. A clinicopathological study of 55 cases. J Hepatol 1986; 3: 399-406. <annotation><p><italic toggle="yes">(Analysis of 55 cases of ketoconazole hepatotoxicity reported in Netherlands; 84% women, eosinophilia in 10%, fever 6%, rash 2%; enzymes predominantly hepatocellular; none fatal).</italic></p></annotation><pub-id pub-id-type="pmid">3559147</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R38">
+            <mixed-citation publication-type="journal">Tabor E. Hepatotoxicity of ketoconazole in men and in patients under 50. N Engl J Med 1987; 316: 1606-7. <annotation><p><italic toggle="yes">(Letter summarizing the hepatotoxicity of ketoconazole based largely on analysis of Lewis et al. [1984]).</italic></p></annotation><pub-id pub-id-type="pmid">3587297</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R39">
+            <mixed-citation publication-type="journal">Domingo Ribas C, Mart&#x000ed; Ripoll S, Ravent&#x000f3;s Vilaplana A, Cabezuelo Hern&#x000e1;ndez MA. [Hepatic toxicity of ketoconazole]. Rev Clin Esp 1987; 181: 542. <annotation><p><italic toggle="yes">(58 year old woman developed fatigue and anorexia 2 months after starting ketoconazole for dermatomycosis [bilirubin not given, ALT 225U/L, Alk P 600 U/L], resolving in 10 weeks after stopping). </italic></p></annotation><pub-id pub-id-type="pmid">3448668</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R40">
+            <mixed-citation publication-type="journal">Lake-Bakaar G, Scheuer PJ, Sherlock S. Hepatic reactions associated with ketoconazole in the United Kingdom. Br Med J (Clin Res Ed). 1987; 294: 419-22. <annotation><p><italic toggle="yes">(Between 1981-1984, 75 cases of ketoconazole hepatotoxicity were reported in the UK, 70% in women, mean age 56 years, mean latency 54 days, both hepatocellular and cholestatic cases, 5 deaths).</italic></p></annotation><pub-id pub-id-type="pmid">3101906</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R41">
+            <mixed-citation publication-type="journal">McCance DR, Ritchie CM, Sheridan B, Atkinson AB. Acute hypoadrenalism and hepatotoxicity after treatment with ketoconazole. Lancet 1987; 1: 573. <annotation><p><italic toggle="yes">(A patient with Cushing syndrome developed adrenal insufficiency and serum ALT elevations [303 U/L] one week after starting ketoconazole, resolving with stopping).</italic></p></annotation><pub-id pub-id-type="pmid">2881126</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R42">
+            <mixed-citation publication-type="journal">Meiring PD, Whitelaw DA. Ketoconazole induced hepatitis. S Afr Med J 1987; 72: 577-8. <annotation><p><italic toggle="yes">(74 year old man developed jaundice one year after starting ketoconazole [bilirubin 5.8 mg/dL, ALT 39 U/L, Alk P 1687 U/L], resolving within 2 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">3672282</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R43">
+            <mixed-citation publication-type="journal">van Parys G, Evenepoel C, van Damme B, Desmet VJ. Ketoconazole-induced hepatitis: a case with a definite cause-effect relationship. Liver 1987; 7: 27-30. <annotation><p><italic toggle="yes">(59 year old woman developed jaundice 6 months after starting ketoconazole [bilirubin 8.0 mg/dL, ALT 1475 U/L, Alk P 234 U/L], resolving within 7 weeks of stopping, but subsequent inadvertent rechallenge for 7 days led to jaundice 1 week later [bilirubin 2.6 mg/dL, ALT 503 U/L]).</italic></p></annotation><pub-id pub-id-type="pmid">2952860</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R44">
+            <mixed-citation publication-type="journal">Bensaude RJ, Furet Y, Autret E, Brottes H, Billard JL, Breteau M. [Cholestatic hepatitis caused by ketoconazole]. Ann Gastroenterol Hepatol(Paris) 1988; 24: 55-7. French. <annotation><p><italic toggle="yes">(62 year old woman developed abdominal pain and fever 3 days after starting ketoconazole [bilirubin normal, ALT 1.5 times ULN, Alk P 2.5 times ULN], resolving clinically within 2 and biochemically within 7 days of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">3389721</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R45">
+            <mixed-citation publication-type="journal">Benson GD, Anderson PK, Combes B, Ishak KG. Prolonged jaundice following ketoconazole-induced hepatic injury. Dig Dis Sci 1988; 33: 240-6. <annotation><p><italic toggle="yes">(55 and 39 year old men developed prolonged jaundice 27 and 23 days after starting ketoconazole [bilirubin 3.6 rising to 27.0 and 3.6 rising to 19 mg/dL, peak ALT 640 and 304 U/L, Alk P 436 and 223 U/L], with worsening for 1-2 months and jaundice with pruritus persisting for 3-4 months after stopping).</italic></p></annotation><pub-id pub-id-type="pmid">3338372</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R46">
+            <mixed-citation publication-type="journal">Kendrey G, Kov&#x000e1;cs M. [Histopathologic observations on acute liver lesions in patients taking Nizoral (ketoconazole)]. Morphol Igazsagugyi Orv Sz 1988; 28: 292-7. Hungarian. <pub-id pub-id-type="pmid">3185578</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R47">
+            <mixed-citation publication-type="journal">De Wit S, Weerts D, Goossens H, Clumeck N. Comparison of fluconazole and ketoconazole for oropharyngeal candidiasis. Lancet 1989; 1: 746-50. <annotation><p><italic toggle="yes">(Randomized trial of fluconazole vs ketoconazole in 37 patients with HIV infection and oropharyngeal candidiasis; ALT or AST elevations occurred in 1 of 18 [6%] on fluconazole vs 4 of 19 [21%] on ketoconazole; fluconazole also more effective).</italic></p></annotation><pub-id pub-id-type="pmid">2564563</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R48">
+            <mixed-citation publication-type="journal">Cabeza Lamban F, Simal Gil E, Mur Villacampa M, Guerrero Navarro L. [Hepatotoxicity caused by ketoconazole]. Rev Esp Enferm Apar Dig 1989; 76: 92. <annotation><p><italic toggle="yes">(5 year old boy with cutaneous candidiasis developed abnormal liver tests 6 months after starting ketoconazole [bilirubin 3.2 mg/dL, ALT 475 U/L, Alk P 559 U/L] resolving rapidly upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">2799042</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R49">
+            <mixed-citation publication-type="journal">Van Cauteren H, Lampo A, Vandenberghe J, Vanparys P, Coussement W, De Coster R, Marsboom R. Toxicological profile and safety evaluation of antifungal azole derivatives. Mycoses 1989; 32 Suppl 1: 60-6. <pub-id pub-id-type="pmid">2561186</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R50">
+            <mixed-citation publication-type="journal">Lambert DR, Siegle RJ, Camisa C. Griseofulvin and ketoconazole in the treatment of dermatophyte infections. Int J Dermatol 1989; 28: 300-4. <annotation><p><italic toggle="yes">(Review of efficacy and safety of griseofulvin and ketoconazole for superficial mycoses; rate of hepatotoxicity from ketoconazole ranges from 1:10,000 to 1:15,000, and is more common among women and in persons over 40 years of age; authors recommend routine monitoring of liver enzymes; in contrast, griseofulvin is &#x0201c;remarkably safe&#x0201d; and no deaths have been attributed directly to the drug).</italic></p></annotation><pub-id pub-id-type="pmid">2666321</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R51">
+            <mixed-citation publication-type="journal">Vilela MP, Ferraz ML, Franco DR. [Toxic hepatitis caused by ketoconazole: a report of 4 cases]. Rev Paul Med 1989; 107: 57-8. Portuguese. <annotation><p><italic toggle="yes">(Four women developed symptomatic hepatotoxicity 2-4 months after starting ketoconazole, [bilirubin 1.0, 2.1, 8.9 and 9.1 mg/dL, ALT 180-1500 U/L, Alk P 218-360 U/L], resolving within 2-3 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">2616978</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R52">
+            <mixed-citation publication-type="journal">Gradon JD, Sepkowitz DV. Massive hepatic enlargement with fatty change associated with ketoconazole. DICP 1990; 24: 1175-6. <annotation><p><italic toggle="yes">(37 year old woman with AIDS developed hepatomegaly 11 months after starting ketoconzaole [bilirubin not mentioned, ALT 116 U/L, Alk P 180 U/L], liver biopsy showing fatty liver; also on zidovudine, a more likely candidate to cause this pattern of liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">2089825</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R53">
+            <mixed-citation publication-type="journal">Ritchie D. Comment: consideration of amphotericin B hepatotoxicity. DCIP 1991; 25: 559-60. <annotation><p><italic toggle="yes">(Agrees that the case described by Gradon et al. was likely due to ketoconazole, but stresses that amphotericin B can also cause liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">2068844</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R54">
+            <mixed-citation publication-type="journal">Brusko C, Marten J. Ketoconazole hepatotoxicity in a patient treated for environmental illness and systemic candidiasis. DCIP 1991; 25: 1321-5. <annotation><p><italic toggle="yes">(39 year old woman developed abnormal liver tests [ALT 367] one month after starting ketoconazole for chronic fatigue syndrome and candida with worsening over the next 6 months [bilirubin rising to 43 mg/dL, ALT 838 U/L, Alk P 186 U/L]; despite prompt discontinuation of ketoconazole, ultimately evolving into hepatic failure).</italic></p></annotation><pub-id pub-id-type="pmid">1815425</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R55">
+            <mixed-citation publication-type="journal">Knight T, Shikuma C, Knight J. Ketoconazole-induced fulminant hepatitis necessitating liver transplantation. J Am Acad Dermatol 1991; 25: 398-400. <annotation><p><italic toggle="yes">(A 39 year old woman developed elevated ALT levels 2 months after starting ketoconazole and, despite stopping, had progressive liver injury resulting in hepatic failure and death, [bilirubin 0.4 rising to 43 mg/dL, ALT 367 rising to 1170 U/L]: Case 4).</italic></p></annotation><pub-id pub-id-type="pmid">1832694</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R56">
+            <mixed-citation publication-type="journal">Simon DL. Comment: ketoconazole hepatotoxicity. Ann Pharmacother 1992; 26: 564-5. <annotation><p><italic toggle="yes">(Comment on case reported by Knight et al. [1991] suggesting that chronic acetaminophen ingestion may have caused the persistent injury).</italic></p></annotation><pub-id pub-id-type="pmid">1576399</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R57">
+            <mixed-citation publication-type="journal">Klausner MA. Ketoconazole and hepatitis. J Am Acad Dermatol 1992; 26: 1028-30. <annotation><p><italic toggle="yes">(Response by Janssen to review articles on ketaconazole, stressing the importance of hepatotoxicity and need to monitor liver tests during therapy).</italic></p></annotation><pub-id pub-id-type="pmid">1535078</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R58">
+            <mixed-citation publication-type="journal">Hay RJ. Risk/benefit ratio of modern antifungal therapy: focus on hepatic reactions. J Am Acad Dermatol 1993; 29: S50-4. <annotation><p><italic toggle="yes">(Review article on hepatotoxicity of antifungal agents, griseofulvin, ketoconazole, fluconazole, itraconazole and terbinafine; does not recommend routine monitoring, but stresses need to discontinue agent for hepatic injury with symptoms).</italic></p></annotation><pub-id pub-id-type="pmid">8315062</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R59">
+            <mixed-citation publication-type="journal">Gearhart M. Worsening of liver function with fluconazole and review of azole antifungal hepatotoxicity. Ann Pharmacother 1994; 28: 1177-81. <annotation><p><italic toggle="yes">(50 year old woman with probable chronic hepatitis C and cirrhosis had acute worsening of liver disease within a few days of starting fluconazole [bilirubin 1.6 rising to 6.6 mg/dL, AST rising from 66 to 1556 U/L, protime 19.2 rising to 29.8 sec], improving when fluconazole was stopped; discussion of azole antifungal agents and hepatotoxicity mentions that ketoconazole has been most frequently implicated in drug induced liver injury, perhaps because it is extensively metabolized by the liver).</italic></p></annotation><pub-id pub-id-type="pmid">7841574</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R60">
+            <mixed-citation publication-type="journal">Chien R, Yang L, Lin P, Liaw Y. Hepatic injury during ketoconazole therapy in patients with onchomycosis: a controlled cohort study. Hepatology 1997; 25: 103-7. <annotation><p><italic toggle="yes">(Controlled trial of ketaconazole vs griseofulvin in 211 patients with onchomycosis; ALT elevations occurred in 17.5% of ketaconazole vs none of griseofulvin recipients; 4 ketoconazole recipients developed symptoms after 28, 28, 35 and 63 days with ALT 254-963 U/L [median=490 U/L], minimal Alk P elevations [median=127 U/L] and jaundice in 3 patients; all recovered within 7 weeks ).</italic></p></annotation><pub-id pub-id-type="pmid">8985273</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R61">
+            <mixed-citation publication-type="journal">Bernuau J, Durand F, Pessayre D. Ketoconazole-induced hepatotoxicity. Hepatology 1997; 26: 802. <annotation><p><italic toggle="yes">(Letter disagreeing with the conclusions of Chien [1997] about role of monitoring ALT and speed of reversibility of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">9303518</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R62">
+            <mixed-citation publication-type="journal">Findor JA, Sorda JA, Igartua EB, Avagnina A. Ketoconazole-induced liver damage. Medicina 1998; 58: 277-81. <annotation><p><italic toggle="yes">(Five cases, 2 fatal, of ketoconazole related liver damage; in the 2 fatal cases there was a delay in stopping ketaconazole).</italic></p></annotation><pub-id pub-id-type="pmid">9713096</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R63">
+            <mixed-citation publication-type="journal">Van Puijenbroek EP, Metselaar HJ, Berghuis PH, Zondervan PE, Stricker BH. [Acute hepatocytic necrosis during ketoconazole therapy for treatment of onchomycosis. National Foundation for Registry and Evaluation of Adverse Effects]. Ned Tijdschr Geneeskd 1998; 142: 2416-8. Dutch. <annotation><p><italic toggle="yes">(Between 1986 and 1998, 18 cases of severe liver injury due to ketoconazole were reported to a Dutch National Registry including 3 men and 15 women, ages 21 to 65 years, latency 1 to 16 weeks, one third with fever, rash or eosinophilia, 69% with hepatocellular injury, 31% cholestatic-mixed; 15 with jaundice, 1 liver transplant and 1 death).</italic></p></annotation><pub-id pub-id-type="pmid">9864540</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R64">
+            <mixed-citation publication-type="journal">Bok RA, Small EJ. The treatment of advanced prostate cancer with ketoconazole: safety issues. Drug Saf 1999; 20: 451-8. <annotation><p><italic toggle="yes">(Ketaconazole inhibits synthesis of androgenic steroids by both testes and adrenals and has been used in higher doses [400 mg three times daily] to treat prostate cancer; side effects include liver test abnormalities in 4-20% and fulminant hepatitis in 0.01-0.1%; in studies in prostate cancer, hepatotoxicity occurred in 4.2%, mostly ALT and Alk P elevations that resolve with discontinuation).</italic></p></annotation><pub-id pub-id-type="pmid">10348095</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R65">
+            <mixed-citation publication-type="journal">Garc&#x000ed;a Rodriguez L, Duque A, Castellsague J, P&#x000e9;rez-Gutthann S, Stricker B. A cohort study on the risk of acute liver injury among users of ketoconazole and other antifungal drugs. Br J Clin Pharmacol 1999; 48: 847-52. <annotation><p><italic toggle="yes">(Population based study identified 5 cases of acute liver injury during antifungal therapy in 69,830 patients; relative risk for ketoconazole was 228 [~2:1,000 patients], itraconazole 17.7 [~1:10,000] and terbinafine 4.2 [~.2:10,000]).</italic></p></annotation><pub-id pub-id-type="pmid">10594489</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R66">
+            <mixed-citation publication-type="journal">Chien RN, Sheen IS, Liaw YF. Unintentional rechallenge resulting in a causative relationship between ketoconazole and acute liver injury. Int J Clin Pract 2003; 57: 829-30. <annotation><p><italic toggle="yes">(50 year old developed fatigue 2 months after starting ketoconazole [bilirubin 6.0 rising to 19.9 mg/dL, ALT 1326 U/L, Alk P 165 U/L, prothrombin time 13.3 seconds], resolving spontaneously starting 4 days after stopping; recurrence after 2 days of reexposure [bilirubin 4.9 mg/dL, ALT 1375 U/L, eosinophils 2%]).</italic></p></annotation><pub-id pub-id-type="pmid">14686574</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R67">
+            <mixed-citation publication-type="journal">Kim TH, Kim BH, Kim YW, Yang DM, Han YS, Dong SH, Kim HJ, et al. Liver cirrhosis developed after ketoconazole-induced acute hepatic injury. J Gastroenterol Hepatol 2003; 18: 1426-9. <annotation><p><italic toggle="yes">(41 year old woman developed nausea and jaundice 5 months after starting ketoconazole [bilirubin 12.8 mg/dL, ALT 1318 U/L, Alk P 268 U/L], with persistent jaundice and appearance of ascites and varices 4 months later, cirrhosis on biopsy and mildly abnormal liver tests for several years: Case 3).</italic></p></annotation><pub-id pub-id-type="pmid">14675275</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R68">
+            <mixed-citation publication-type="journal">Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl 2004; 10: 1018-23. <annotation><p><italic toggle="yes">(Among ~50,000 liver transplants done in the United States between 1990 and 2002, 137 [0.2%] were done for idiosyncratic drug induced acute liver failure, of which 6 were attributed to ketoconazole and 1 to itraconazole).</italic></p></annotation><pub-id pub-id-type="pmid">15390328</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R69">
+            <mixed-citation publication-type="journal">Fischer MA, Winkelmayer WC, Rubin RH, Avorn J. The hepatotoxicity of antifungal medications in bone marrow transplant recipients. Clin Infect Dis 2005; 41: 301-7. <annotation><p><italic toggle="yes">(Among 587 patients undergoing bone marrow transplantation, 123 had evidence of liver injury after transplant; case control analysis found increased rate of liver injury associated with fluconazole and amphotericin; ketoconazole, itraconazole and voriconazole were infrequently used and could not be evaluated).</italic></p></annotation><pub-id pub-id-type="pmid">16007524</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R70">
+            <mixed-citation publication-type="journal">Wingard J, Leather H. Hepatotoxicity associated with antifungal therapy after bone marrow transplantation. Clin Infect Dis 2005; 41: 308-10. <annotation><p><italic toggle="yes">(Editorial in response to the article by Fisher et al. [2005]; discusses the difficulties of detection, diagnosis, attribution and management of liver test abnormalities after bone marrow transplantation).</italic></p></annotation><pub-id pub-id-type="pmid">16007525</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R71">
+            <mixed-citation publication-type="journal">Videla C, Vega J, Borja H. Hepatotoxicity associated with cyclosporine monitoring using C2 recommendations in adults renal recipients receiving ketoconazole. Transplant Proc 2005; 37: 1574-6. <annotation><p><italic toggle="yes">(The interaction of cyclosporine and ketoconazole may result in toxic cyclosporine levels and liver injury; 6 cases of hepatotoxicity, 3 with jaundice between 4-21 days after renal transplant; improved with lowering cyclosporine dose and patients tolerated re-introduction of ketoconazole).</italic></p></annotation><pub-id pub-id-type="pmid">15866677</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R72">
+            <mixed-citation publication-type="journal">Song J, Deresinski S. Hepatotoxicity of antifungal agents. Curr Opin Investig Drugs 2005; 6: 170-7. <annotation><p><italic toggle="yes">(Extensive review of hepatotoxicity from antifungals; liver toxicity is a well documented complication of ketoconazole, asymptomatic ALT elevations in 2-10% of patients and symptomatic hepatitis in 1:10,000 to 1:15,000, usually hepatocellular; among antifungal agents, ketoconazole has been the agent most frequently linked to acute liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">15751740</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R73">
+            <mixed-citation publication-type="journal">Cruciani M, Mengoli C, Malena M, Bosco O, Serpelloni G, Grossi P. Antifungal prophylaxis in liver transplant patients: a systematic review and meta-analysis. Liver Transpl 2006; 12: 850-8. <annotation><p><italic toggle="yes">(Metaanalysis found 6 studies with total of 698 patients comparing fluconazole, itraconazole or amphotericin vs placebo for prevention of fungal infections after liver transplantation; side effects were more with prophylaxis but liver toxicity was not discussed).</italic></p></annotation><pub-id pub-id-type="pmid">16628697</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R74">
+            <mixed-citation publication-type="journal">Girois SB, Chapuis F, Decullier E, Revol BG. Adverse effects of antifungal therapies in invasive fungal infections: review and meta-analysis. Eur J Clin Microbiol Infect Dis 2006; 25: 138-49. <annotation><p><italic toggle="yes">(Systematic review of adverse effects of antifungal therapy in 54 studies with 9228 patients; hepatotoxicity reported in 14.1-18.6% on amphotericin, 1.9% on fluconazole and 31.6% on itraconazole; but great variation in definitions and intensity of monitoring; ketoconazole not discussed).</italic></p></annotation><pub-id pub-id-type="pmid">16622909</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R75">
+            <mixed-citation publication-type="journal">Stein CA, Goel S, Ghavamian R. Hepatitis and rhabdomyolysis in a patient with hormone refractory prostate cancer on ketoconazole and concurrent lovastatin therapy. Invest New Drugs 2007; 25: 277-8. <annotation><p><italic toggle="yes">(84 year old man on long term lovastatin therapy developed fatigue and dark urine 4 weeks after starting ketoconazole for refractory prostate cancer [bilirubin and Alk P normal, ALT 829 U/L, CPK 47,250 U/L and myoglobin in the urine], resolving 3 weeks after stopping; suggested that ketoconazole caused increase in lovastatin to toxic levels becauseof inhibition of CYP 3A4 activity).</italic></p></annotation><pub-id pub-id-type="pmid">17216557</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R76">
+            <mixed-citation publication-type="journal">Lin C, Hu J, Yang S, Shin C, Huang S. Unexpected emergence of acute hepatic injury in patients treated repeatedly with ketoconazole. J Clin Gastroenterol 2008; 42: 432-3. <annotation><p><italic toggle="yes">(3 cases of severe hepatitis in patients who took multiple courses of ketoconazole, usually within 1-3 days of restarting with mild eosinophilia but no rash or fever; few specific details given).</italic></p></annotation><pub-id pub-id-type="pmid">18277890</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R77">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes"> (Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, two cases were attributed to fluconazole, and one to ketoconazole, one to itraconazole, none to voriconazole).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R78">
+            <mixed-citation publication-type="journal">Antifungal drugs. Treat Guidel Med Lett 2009; 7: 95-102. (Concise summary of therapy of fungal infections with recommendations on agents, dosage and duration of treatment and safety; ketoconazole is seldom used; other azoles have fewer side effects and are preferred; ketoconazole can cause hepatic toxicity and some cases are fatal)<annotation><p><italic toggle="yes">.</italic></p></annotation><pub-id pub-id-type="pmid">19940816</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R79">
+            <mixed-citation publication-type="journal">Wang JL, Chang CH, Young-Xu Y, Chan KA. Systematic review and meta-analysis of the tolerability and hepatotoxicity of antifungals in empirical and definitive therapy for invasive fungal infection. Antimicrob Agents Chemother 2010; 54: 2409-19. <annotation><p><italic toggle="yes">(Systematic review of 39 controlled trials in more than 8000 patients, found liver enzyme elevations in 14.5% of patients on amphotericin (pooled estimate); 19.7% on voriconazole; 18.9% itraconazole; 10% fluconazole; 2.8% anidulafungin; 7.2% caspofungin; and 5.7% micafungin; ketoconazole not discussed).</italic></p></annotation><pub-id pub-id-type="pmid">20308378</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R80">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury and 6 to antifungal agents, including 2 to ketoconazole).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R81">
+            <mixed-citation publication-type="journal">Ferrajolo C, Capuano A, Verhamme KM, Schuemie M, Rossi F, Stricker BH, Sturkenboom MC. Drug-induced hepatic injury in children: a case/non-case study of suspected adverse drug reactions in VigiBase. Br J Clin Pharmacol 2010; 70: 721-8. <annotation><p><italic toggle="yes">(Worldwide pharmacovigilance database contained 9036 hepatic adverse drug reactions in children, voriconazole ranked 21st with 52 cases [odds ratio 10.7] and fluconazole 30th with 42 cases [odds ratio 8.6]; no other antifungal agent listed in the top 41 causes).</italic></p></annotation><pub-id pub-id-type="pmid">21039766</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R82">
+            <mixed-citation publication-type="journal">Antifungal drugs. Treat Guidel Med Lett 2012;10: 61-8. <annotation><p><italic toggle="yes">(Concise summary of therapy of fungal infections with recommendations on agents, dosage and duration of treatment and safety; side effects of ketoconazole include blurred vision, photophobia, fever, nausea, rash, photosensitivity, Stevens-Johnson syndrome, periostitis, confusion, anaphylactoid infusion reactions, and increased "transaminase levels").</italic></p></annotation><pub-id pub-id-type="pmid">22825657</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R83">
+            <mixed-citation publication-type="journal">Yan JY, Nie XL, Tao QM, Zhan SY, Zhang YD. Ketoconazole associated hepatotoxicity: a systematic review and meta- analysis. Biomed Environ Sci 2013; 26: 605-10. <annotation><p><italic toggle="yes">(Analysis of 2404 publications on liver test abnormalities in patients receiving ketoconazole found an overall rate of 3.6-4.3% with no clear cut relation to total daily dose or indication, but lower rates in children [1.4%]).</italic></p></annotation><pub-id pub-id-type="pmid">23895707</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R84">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes"> (In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, none of which were attributed to ketaconazole or other antifungal agents).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R85">
+            <mixed-citation publication-type="journal">Castinetti F, Guignat L, Giraud P, Muller M, Kamenicky P, Drui D, Caron P, et al. Ketoconazole in Cushing's disease: is it worth a try? J Clin Endocrinol Metab 2014; 99: 1623-30. <annotation><p><italic toggle="yes">(Retrospective analysis of 200 patients with Cushing disease treated with ketoconazole found liver enzyme elevations above 5 times ULN in 16%, but elevations resolved in all patients with dose reduction [50%] or stopping therapy [50%], and there were no deaths from acute liver failure).</italic></p></annotation><pub-id pub-id-type="pmid">24471573</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R86">
+            <mixed-citation publication-type="journal">Kao WY, Su CW, Huang YS, Chou YC, Chen YC, Chung WH, Hou MC, et al. Risk of oral anti-fungal agent-induced liver injury in Taiwanese. Br J Clin Pharmacol 2014; 77: 180-9. <annotation><p><italic toggle="yes">(Analysis of Taiwan National Health Insurance database from 2002-2008 identified 52 patients with drug induced liver injury among 90,847 users of oral antifungal agents, 28 of which [54%] were attributed to ketoconazole [4.9 per 10,000 persons], the rate increasing with increasing duration of therapy).</italic></p></annotation><pub-id pub-id-type="pmid">23750489</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R87">
+            <mixed-citation publication-type="journal">Greenblatt HK, Greenblatt DJ. Liver injury associated with ketoconazole: review of the published evidence. J Clin Pharmacol 2014; 54: 1321-9. <annotation><p><italic toggle="yes">(Review of the literature on hepatotoxicity of ketoconazole and alternatives to its use as an antifungal agent and as a tool in pharmacokinetic studies based upon its inhibition of CYP 3A4).</italic></p></annotation><pub-id pub-id-type="pmid">25216238</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R88">
+            <mixed-citation publication-type="journal">Raschi E, Poluzzi E, Koci A, Caraceni P, Ponti FD. Assessing liver injury associated with antimycotics: Concise literature review and clues from data mining of the FAERS database. World J Hepatol 2014; 6: 601-12. <annotation><p><italic toggle="yes">(Analysis of the FDA database on adverse reactions [2004 to 2011] identified 68,115 reports of liver injury including 1964 due to antifungal agents, the most common being terbinafine [422], fluconazole [412], voriconazole [361], amphotericin B [265], itraconazole [182], ketaconazole [94], and posaconazole [70]; among 112 cases with acute liver failure, causes included fluconazole [31], terbinafine [27], voriconazole [19], and ketoconazole [6]).</italic></p></annotation><pub-id pub-id-type="pmid">25232453</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R89">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 14 cases [1.6%] were attributed to antifungal agents including 6 triazoles [3 with jaundice and 2 hospitalized, no deaths], 4 due to fluconazole, 1 ketoconazole and 1 voriconazole).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R90">
+            <mixed-citation publication-type="journal">Gupta AK, Daigle D, Foley KA. Drug safety assessment of oral formulations of ketoconazole. Expert Opin Drug Saf 2015; 14: 325-34. <annotation><p><italic toggle="yes">(Review of literature and regulatory actions regarding ketoconazole hepatotoxicity; mentions that oral ketoconazole was withdrawal from the market in Europe and Australia in 2013 and was subjected to more strigent safety warnings and more limited written indications in the US and Canada).</italic></p></annotation><pub-id pub-id-type="pmid">5409549</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R91">
+            <mixed-citation publication-type="journal">Lo Re V 3rd, Carbonari DM, Lewis JD, Forde KA, Goldberg DS, Reddy KR, Haynes K, et al. Oral azole antifungal medications and risk of acute liver injury, overall and by chronic liver disease status. Am J Med 2016; 129: 283-91. <annotation><p><italic toggle="yes">(Among 14,296 persons treated with oral ketoconazole analyzed from a Kaiser Permanente clinical database, the incidence of ALT or AST elevations above 200 U/L was 1.9% and severe acute liver injury 0.3%; one patient developed acute liver failure and required liver transplantation).</italic></p></annotation><pub-id pub-id-type="pmid">26597673</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ketoconazole.R92">
+            <mixed-citation publication-type="journal">Kyriakidis I, Tragiannidis A, Munchen S, Groll AH. Clinical hepatotoxicity associated with antifungal agents. Expert Opin Drug Saf 2017; 16: 149-65. <annotation><p><italic toggle="yes">(Review of the hepatotoxicity of antifungal agents states that all antifungal agents may cause hepatic toxicity and discusses fluconazole, itraconazole, voriconazole, posaconazole and isavuconazole, but not ketoconazole).</italic></p></annotation><pub-id pub-id-type="pmid">27927037</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Ketoconazole.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Ketoconazole)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%222010/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Ketoconazole: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=ketoconazole">Trials on Ketoconazole: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

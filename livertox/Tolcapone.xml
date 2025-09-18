@@ -1,0 +1,1588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Tolcapone" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Tolcapone</book-part-id>
+      <title-group>
+        <title>Tolcapone</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>25</day>
+          <month>10</month>
+          <year>2021</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Tofersen" document-type="chapter">Tofersen</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Tolmetin" document-type="chapter">Tolmetin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Tolcapone.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Tolcapone.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Tolcapone is a catechol-O-methyltransferase inhibitor used in the therapy of Parkinson disease as adjunctive therapy in combination with levodopa and carbidopa. Tolcapone has been associated with serum enzyme elevations during treatment and with several instances of clinically apparent acute liver injury, which can be severe and even fatal.</p>
+        </sec>
+        <sec id="Tolcapone.Background">
+          <title>Background</title>
+          <p>Tolcapone (tol' ka pone) is a specific inhibitor of cathechol-O-methyltransferase (COMT), which is a major enzyme in the pathway of levodopa metabolism. As a result, tolcapone slows the metabolism of levodopa and results in an increase in its bioavailability and duration of action. Tolcapone inhibits COMT activity both peripherally and in the central nervous system. Tolcapone was approved for use in the United States in 1998 for the therapy of symptomatic Parkinson disease as an adjunct to levodopa/carbidopa therapy in patients with motor complications. Soon after its approval, it was withdrawn after several instances of acute liver failure were attributed to its use. Subsequently tolcapone was reintroduced, but with requirements for informing patients about the possibility of liver injury and rigorous monitoring of serum enzymes during treatment. Tolcapone is recommended only for patients who fail to respond to other conventional adjunctive therapies in patients who experience episodes of motor abnormalities (&#x0201c;off&#x0201d; episodes) while receiving levodopa therapy. Two other COMT inhibitors have been approved that have not been associated with liver injury, and tolcapone is now rarely used. Tolcapone remains available in tablets of 100 mg generically and under the brand name of Tasmar. Tolcapone is typically initiated in doses of 100 mg three times daily, with adjustment upwards based upon tolerance and clinical effects to a maximum of 600 mg daily. Common side effects include somnolence, dizziness, confusion, dyskinesia, vivid dreams, hallucinations, depression, fatigue, headache, diarrhea and gastrointestinal upset, symptoms that are typical of dopaminergic stimulation and enhanced effects of levodopa. Severe adverse events can include hypotension, syncope, psychotic behaviors, poor impulse control, hallucinations, diarrhea, colitis, rhabdomyolysis, and severe hepatotoxicity.</p>
+        </sec>
+        <sec id="Tolcapone.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Tolcapone has been reported to cause serum aminotransferase elevations above 3 times the upper limit of normal in 1% to 5% of patients. While these abnormalities are usually asymptomatic and self-limiting, some persist if therapy is continued and resolved only with stopping tolcapone. More importantly, tolcapone has been implicated in several cases of severe, clinically apparent acute liver injury and at least three cases of death from acute liver failure. The onset of injury was insidious, arising 1 to 5 months after starting treatment. The pattern of serum enzyme elevations was hepatocellular and the clinical phenotype was similar to acute viral hepatitis. Immunoallergic manifestations were not present, but some patients had autoantibodies of unclear significance. Because of these reports, regular monitoring of serum aminotransferase levels has been mandated (every 2 to 4 weeks for the first 6 months of treatment and as clinically indicated thereafter) during tolcapone therapy, and treatment should be promptly discontinued if ALT or AST levels rise above twice the upper limit of the normal range or if signs or symptoms of liver injury are present.</p>
+          <p>Likelihood score: C (probable cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Tolcapone.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Tolcapone is metabolized extensively in the liver and undergoes glucuronidation prior to excretion. The hepatotoxicity of tolcapone is likely due to production of a toxic intermediate that overwhelms the usual protective mechanisms of excretion. Increased likelihood of hepatic injury due to tolcapone has been linked to variants of the gene that is responsible for glucuronidation, UDP-glucuronosyl transferase.</p>
+        </sec>
+        <sec id="Tolcapone.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Liver injury caused by tolcapone ranges from mild, transient and asymptomatic serum enzyme elevations to clinically apparent hepatitis and acute liver failure. Tolcapone therapy has not been associated with chronic hepatitis or vanishing bile duct syndrome. Therapy of acute liver failure due to medications is largely supportive, but infusions of n-acetyl cysteine may be beneficial if given early. In at least one case report of acute liver failure due to tolcapone, autoimmune features led to the use of corticosteroids which appeared to be beneficial. Because of the propensity for tolcapone to cause acute liver failure, routine testing for serum aminotransferase levels should be done every 2 to 4 weeks for 6 months after initiation of therapy and as clinically indicated thereafter. Tolcapone should be discontinued if ALT or AST levels rise above twice the upper limit of the normal range or if any signs and symptoms suggestive of liver injury appear. There does not appear to be cross sensitivity to hepatic injury between tolcapone and entacapone, a COMT inhibitor with a similar chemical structure.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntiparkinsonAgents" document-type="chapter">Parkinson Disease Agents</related-object></p>
+          <p>Other Drugs in the Subclass, COMT Inhibitors: <related-object link-type="booklink" source-id="livertox" document-id="Entacapone" document-type="chapter">Entacapone</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Opicapone" document-type="chapter">Opicapone</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Tolcapone.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Tolcapone.Case_1_Acute_liver_failure_att">
+          <title>Case 1. Acute liver failure attributed to tolcapone.(<xref ref-type="bibr" rid="Tolcapone.REF.1">1</xref>-<xref ref-type="bibr" rid="Tolcapone.REF.3">3</xref>)</title>
+          <p>A 74 year old woman with Parkinson disease developed jaundice 8 weeks after being switched from amantadine to tolcapone (100 mg twice daily), because of motor fluctuations during long term levodopa therapy. She had no history of liver disease, alcohol abuse or risk factors for viral hepatitis. She had suffered from Parkinson disease for more than 15 years and was maintained on levodopa and benserazide (25 mg three times daily: a decarboxylase inhibitor similar to carbidopa). Other medications included etilefrine (30 mg daily: an oral adrenergic sympathomimetic amine) for orthostatic hypotension, amiloride (2.5 mg) combined with hydrochlorothiazine (25 mg) twice weekly for edema, and oxazepam (15 mg) at bedtime for sleep, all of these medications having been taken chronically. She had normal liver test results on several occasions in the past while taking these medications. On presentation with jaundice, she was confused and was considered to have stage 2 hepatic encephalopathy. Her resting tremor, akinesia and rigidity were unchanged from before. Laboratory test results showed bilirubin elevations (total 21.5 mg/dL) and marked increases in serum aminotransferase levels (ALT 2904 U/L, AST 2541 U/L), with minimal abnormality in alkaline phosphatase levels (177 U/L) (Table). The prothrombin time was prolonged (21 seconds; INR 1.7) and ammonia levels were elevated (102 &#x000b5;mol/L). Tests for hepatitis A, B and C were negative and abdominal ultrasound showed no evidence of biliary obstruction or tumor. A transjugular liver biopsy showed large areas of parenchymal collapse that was predominantly centrolobular (zone 3) and accompanied by dense infiltration with chronic inflammatory cells (including eosinophils). There was marked cholestasis, but normal numbers of uninjured bile ducts. There was no fibrosis. The hepatic venous pressure gradient was 7.5 mm Hg (normal &#x0003c;6). Tolcapone was discontinued on admission, but she continued to deteriorate with steadily rising bilirubin levels and worsening consciousness, and she died 13 days later.</p>
+          <sec id="Tolcapone.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Tolcapone.Tc" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Tolcapone.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Tolcapone.Tc_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Tolcapone (200 mg daily)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Tolcapone.Tc_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Tolcapone.Tc_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Hepatocellular (R=~80)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Tolcapone.Tc_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Tolcapone.Tc_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">5+ (death within 2 weeks from acute liver failure)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Tolcapone.Tc_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Tolcapone.Tc_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">2 months</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Tolcapone.Tc_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Tolcapone.Tc_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">None</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Tolcapone.Tc_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Tolcapone.Tc_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">Levodopa, benserazide, etilefrine, amiloride/hydrochlorothiazide, oxazepam</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Tolcapone.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Tolcapone.Td" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Tolcapone.Td_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Starting</th>
+                    <th id="hd_h_Tolcapone.Td_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Stopping</th>
+                    <th id="hd_h_Tolcapone.Td_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT*<break/>(U/L)</th>
+                    <th id="hd_h_Tolcapone.Td_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Alk P<break/>(U/L)</th>
+                    <th id="hd_h_Tolcapone.Td_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin*<break/>(mg/dL)</th>
+                    <th id="hd_h_Tolcapone.Td_1_1_1_6" valign="top" align="center" scope="col" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">-1 year</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">21</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">1 year before starting</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">2 months</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">2904</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">117</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">21.4</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Admission</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">1 day</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">2810</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">24.8</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Liver biopsy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">2 days</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">2625</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">29.8</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Worsening coma</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">3 days</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">2710</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">39.2</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">4 days</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">2150</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">35.4</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">5 days</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">2275</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">42.4</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">6 days</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">1905</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">35.6</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">7 days</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">1930</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">40.9</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">8 days</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">1783</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">2.5 months</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_3 hd_h_Tolcapone.Td_1_1_1_4 hd_h_Tolcapone.Td_1_1_1_5 hd_h_Tolcapone.Td_1_1_1_6" colspan="4" valign="top" align="left" rowspan="1">Patient died of hepatic failure</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_1 hd_h_Tolcapone.Td_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;36</bold>
+</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;125</bold>
+</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Tolcapone.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+              <table-wrap-foot>
+                <fn id="Tolcapone.TF.d.1">
+                  <label>* </label>
+                  <p>Some values estimated from Figure 2.</p>
+                </fn>
+              </table-wrap-foot>
+            </table-wrap>
+          </sec>
+          <sec id="Tolcapone.Comment">
+            <title>Comment</title>
+            <p>This was the first case report in the literature of acute liver failure attributed to tolcapone. The case was published initially as a letter to the editor (Assal: 1998), then as a full case report with details of hepatic histology (Spahr: 2000), and then summarized with 3 other cases of acute liver failure in support of guidelines for monitoring patients on tolcapone (Olanow: 2000). The timing of onset, severe hepatocellular injury and exclusion of other causes of acute liver disease supported the diagnosis of tolcapone induced acute liver injury. Subsequently, routine monitoring for serum enzyme levels during tolcapone therapy was not only recommended, but mandated by the US Food and Drug Administration and no further cases of acute liver failure have been published. However, the concern over hepatotoxicity and the requirement for monitoring has led to a limited use of this medication. Because it appears to be more effective than other COMT inhibitors and can have a beneficial effect in advanced Parkinson disease, it has been reintroduced with strict guidelines for monitoring.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Tolcapone.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Tolcapone &#x02013; Generic, Tasmar&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Parkinson Disease Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Tolcapone">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Tolcapone.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Tolcapone.Te" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Tolcapone.Te_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Tolcapone.Te_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Tolcapone.Te_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Tolcapone.Te_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Tolcapone.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Tolcapone</td>
+                <td headers="hd_h_Tolcapone.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135029479">134308-13-7</ext-link>
+</td>
+                <td headers="hd_h_Tolcapone.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C14-H11-N-O5</td>
+                <td headers="hd_h_Tolcapone.Te_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135029479" document-id-type="sid" document-type="summary" object-id="135029479" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Tolcapone.CITED_REFERENCES">
+        <title>CITED REFERENCES</title>
+        <ref-list id="Tolcapone.CITED_REFERENCES.reflist0">
+          <ref id="Tolcapone.REF.1">
+            <label>1</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Assal</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Spahr</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Hadengue</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Rubbia-Brandt</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Burkhard</surname><given-names>PR</given-names></name>
+</person-group>
+              <article-title>Tolcapone and fulminant hepatitis.</article-title>
+              <source>Lancet</source>
+              <year>1998</year>
+              <volume>352</volume>
+              <fpage>958</fpage>
+              <pub-id pub-id-type="pmid">9752821</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.2">
+            <label>2</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Spahr</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Rubbia-Brandt</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Burkhard</surname><given-names>PR</given-names></name>
+<name name-style="western"><surname>Assal</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Hadengue</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Tolcapone-related fulminant hepatitis: electron microscopy shows mitochondrial alterations.</article-title>
+              <source>Dig Dis Sci</source>
+              <year>2000</year>
+              <volume>45</volume>
+              <fpage>1881</fpage>
+              <lpage>4</lpage>
+              <pub-id pub-id-type="pmid">11052337</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.3">
+            <label>3</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Olanow</surname><given-names>CW</given-names></name>
+</person-group>
+              <article-title>Tolcapone and hepatotoxic effects.</article-title>
+              <source>Tasmar Advisory Panel Arch Neurol</source>
+              <year>2000</year>
+              <volume>57</volume>
+              <fpage>263</fpage>
+              <lpage>7</lpage>
+              <pub-id pub-id-type="pmid">10681087</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Tolcapone.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 25 October 2021</p>
+        <p>Abbreviations used: COMT, catechol O-methyltransferase; MAO, monoamine oxidase.</p>
+        <ref-list id="Tolcapone.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Tolcapone.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Antiparkinsonism drugs. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 715-7.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; among anticholinergic agents, "only trihexyphenidyl has been incriminated in hepatic injury"; other antiparkinsonism drugs discussed include levodopa, lergotrile [no longer available], pergolide and bromocriptine, but not tolcapone).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tolcapone.REF.larrey.2013">
+            <mixed-citation publication-type="book">Larrey D, Ripault MP. Hepatotoxicity of psychotropic drugs and drugs of abuse. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier Inc, 2013, pp. 443-62.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of agents acting on the central nervous system).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tolcapone.REF.roberson.2018">
+            <mixed-citation publication-type="book">Roberson ED. Parkinson Disease. Treatment of central nervous system degenerative disorders. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 328-333.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics; istradefylline and adenosine receptor antagonists are not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tolcapone.REF.waters.1998.s39">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Waters</surname><given-names>CH</given-names></name>
+<name name-style="western"><surname>Kurth</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Bailey</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Shulman</surname><given-names>LM</given-names></name>
+<name name-style="western"><surname>LeWitt</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Dorflinger</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Deptula</surname><given-names>D</given-names></name>
+</person-group>
+              <article-title>S. Tolcapone in stable Parkinson's disease: efficacy and safety of long-term treatment. Tolcapone Stable Study Group.</article-title>
+              <source>Neurology</source>
+              <year>1998</year>
+              <month>May</month>
+              <volume>50</volume>
+              <issue>5</issue>
+              <supplement>Suppl 5</supplement>
+              <fpage>S39</fpage>
+              <lpage>45</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 298 patients with stable Parkinson disease treated with levodopa and either tolcapone [n=196] or placebo [n=102], ALT abnormalities occurred in 3-5% of tolcapone treated patients between month 1 and 6 of therapy, 4 were withdrawn and recovered; abnormalities resolved in another 4 despite continuing on therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9591521</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.hauser.1998.643">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hauser</surname><given-names>RA</given-names></name>
+<name name-style="western"><surname>Molho</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Shale</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Pedder</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Dorflinger</surname><given-names>EE</given-names></name>
+</person-group>
+              <article-title>A pilot evaluation of the tolerability, safety, and efficacy of tolcapone alone and in combination with oral selegiline in untreated Parkinson's disease patients. Tolcapone De Novo Study Group.</article-title>
+              <source>Mov Disord</source>
+              <year>1998</year>
+              <volume>13</volume>
+              <fpage>643</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 83 patients with Parkinson disease treated with tolcapone with or without selegiline for 8 weeks, ALT elevations occurred in 1 patient [2%] on tolcapone alone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9686768</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.tolcapone_for_parkinsons_disease.1998.60">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>Tolcapone for Parkinson's disease</collab>
+</person-group>
+              <source>Med Lett Drugs Ther</source>
+              <year>1998</year>
+              <volume>40</volume>
+              <fpage>60</fpage>
+              <lpage>1</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise summary of clinical efficacy and safety of tolcapone shortly after its approval in the US; common side effects were diarrhea, increase in levodopa related [dopaminergic] side effects and serum ALT elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9629124</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.assal.1998.958">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Assal</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Spahr</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Hadengue</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Rubbia-Brandt</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Burkhard</surname><given-names>PR</given-names></name>
+</person-group>
+              <article-title>Tolcapone and fulminant hepatitis.</article-title>
+              <source>Lancet</source>
+              <year>1998</year>
+              <volume>352</volume>
+              <fpage>958</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(74 year old woman with Parkinson disease developed jaundice 9 weeks after starting tolcapone [bilirubin 17.1 mg/dL, ALT 2904 U/L, Alk P 177 U/L, protime 21 sec], progressing to hepatic failure and death 2 weeks later).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9752821</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.rivest.1999.s34">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rivest</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Barclay</surname><given-names>CL</given-names></name>
+<name name-style="western"><surname>Suchowersky</surname><given-names>O</given-names></name>
+</person-group>
+              <article-title>COMT inhibitors in Parkinson's disease.</article-title>
+              <source>Can J Neurol Sci</source>
+              <year>1999</year>
+              <volume>26</volume>
+              <supplement>Suppl 2</supplement>
+              <fpage>S34</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of efficacy and safety of tolcapone and entacapone in Parkinson disease; ALT elevations above 3 times the ULN occurred in 2-5% of tolcapone, but in no entacapone recipients; reports of 3 cases of acute liver failure due to tolcapone led to its withdrawal in several countries).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10451758</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.kaakkola.2000.1233">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kaakkola</surname><given-names>S.</given-names></name>
+</person-group>
+              <article-title>Clinical pharmacology, therapeutic use and potential of COMT inhibitors in Parkinson's disease.</article-title>
+              <source>Drugs</source>
+              <year>2000</year>
+              <volume>59</volume>
+              <fpage>1233</fpage>
+              <lpage>50</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the mechanism of action, pharmacology, efficacy and side effects of tolcapone and entacapone; both enhance dopaminergic effects of levodopa and diarrhea is a frequent dose modifying side effect; hepatotoxicity occurs with tolcapone, but has not been reported with entacapone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10882160</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.lambert.2000.55">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lambert</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Waters</surname><given-names>CH</given-names></name>
+</person-group>
+              <article-title>Comparative tolerability of the newer generation antiparkinsonian agents.</article-title>
+              <source>Drugs Aging</source>
+              <year>2000</year>
+              <volume>16</volume>
+              <fpage>55</fpage>
+              <lpage>65</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of mechanism of action, tolerability and safety of selegiline, pramipexole, ropinirole, tolcapone and entacapone in Parkinson disease).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10733264</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.olanow.2000.263">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Olanow</surname><given-names>CW</given-names></name>
+</person-group>
+              <article-title>Tolcapone and hepatotoxic effects. Tasmar Advisory Panel.</article-title>
+              <source>Arch Neurol</source>
+              <year>2000</year>
+              <volume>57</volume>
+              <fpage>263</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Consensus recommendations for monitoring patients on tolcapone after 4 reports of acute liver failure; among 1535 patients treated in phase III studies, ALT or AST elevations [&#x0003e;3 times ULN] occurred in 1.3-3.7% of patients, returning to normal when discontinued and one woman developed jaundice and died; postmarketing reports included 4 patients, ages 66 to 74, with onset of symptoms and jaundice after 2-4 months, [bilirubin 6.9-26.1 mg/dL, ALT 1245-5020 U/L, Alk P 66-347 U/L], 3 died within 1-2 weeks of presentation).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10681087</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.spahr.2000.1881">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Spahr</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Rubbia-Brandt</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Burkhard</surname><given-names>PR</given-names></name>
+<name name-style="western"><surname>Assal</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Hadengue</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Tolcapone-related fulminant hepatitis: electron microscopy shows mitochondrial alterations.</article-title>
+              <source>Dig Dis Sci</source>
+              <year>2000</year>
+              <volume>45</volume>
+              <fpage>1881</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Histologic analysis of patient with acute liver failure due to tolcapone [Assal 1988], showed multilobular collapse, inflammatory infiltrates including eosinophils, cholestasis, and focal microvescular steatosis; electron microscopy suggested mitochondrial injury: Case 1).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11052337</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.watkins.2000.s51">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Watkins</surname><given-names>P.</given-names></name>
+</person-group>
+              <article-title>COMT inhibitors and liver toxicity.</article-title>
+              <source>Neurology</source>
+              <year>2000</year>
+              <volume>55</volume>
+              <issue>11</issue>
+              <supplement>Suppl 4</supplement>
+              <fpage>S51</fpage>
+              <lpage>2</lpage>
+              <lpage>discussion S53-6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of hepatotoxicity of tolcapone and entacapone suggesting that liver injury is not a class effect and that there have been no reports of jaundice attributed to entacapone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11147510</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.entacapone_for_parkinsons_disease.2000.7">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>Entacapone for Parkinson's disease</collab>
+</person-group>
+              <source>Med Lett Drugs Ther</source>
+              <year>2000</year>
+              <volume>42</volume>
+              <fpage>7</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise summary of clinical efficacy and safety of entacapone shortly after its approval in the US; common side effects were diarrhea, increase in levodopa related side effects, but no reported hepatotoxicity as occurs with tolcapone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10696231</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.blum.2001.158">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Blum</surname><given-names>MW</given-names></name>
+<name name-style="western"><surname>Siegel</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Meier</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Hess</surname><given-names>K</given-names></name>
+</person-group>
+              <article-title>Neuroleptic malignant-like syndrome and acute hepatitis during tolcapone and clozapine medication.</article-title>
+              <source>Eur Neurol</source>
+              <year>2001</year>
+              <volume>46</volume>
+              <fpage>158</fpage>
+              <lpage>60</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(70 year old woman developed stupor, rigidity and hyperthermia with increases in CPK [3132 U/L] and ALT [988 U/L], but not bilirubin or alkaline phosphatase while on the combination of tolcapone and clozapine, resolving rapidly on stopping therapy; compatible with neuroleptic malignant-like syndrome).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11598337</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.myllyl_.2001.53">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Myllyl&#x000e4;</surname><given-names>VV</given-names></name>
+<name name-style="western"><surname>Kultalahti</surname><given-names>ER</given-names></name>
+<name name-style="western"><surname>Haapaniemi</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Leinonen</surname><given-names>M</given-names></name>
+<collab>FILOMEN Study Group</collab>
+</person-group>
+              <article-title>Twelve-month safety of entacapone in patients with Parkinson's disease.</article-title>
+              <source>Eur J Neurol</source>
+              <year>2001</year>
+              <volume>8</volume>
+              <fpage>53</fpage>
+              <lpage>60</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 326 patients with Parkinson disease treated with entacapone or placebo, ALT elevations occurred in 6.9% on drug vs 4.6% on placebo and were above 3 times ULN in 0.9% vs 0.0%; no patient developed clinically apparent liver injury that could be attributed to entacapone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11509081</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.acu_a.2002.327">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Acu&#x000f1;a</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Foernzler</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Leong</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Rabbia</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Smit</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Dorflinger</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Gasser</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Pharmacogenetic analysis of adverse drug effect reveals genetic variant for susceptibility to liver toxicity.</article-title>
+              <source>Pharmacogenomics J</source>
+              <year>2002</year>
+              <volume>2</volume>
+              <fpage>327</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(DNA genotyping of 30 single nucleotide polymorphisms in 135 patients who had liver enzyme elevations during tolcapone therapy and controls found variants within the UDP-glucuronsyl transferase gene that were associated with liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12439739</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.fisher.2002.1362">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fisher</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Croft-Baker</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Davis</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Purcell</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>McLean</surname><given-names>AJ</given-names></name>
+</person-group>
+              <article-title>Entacapone-induced hepatotoxicity and hepatic dysfunction.</article-title>
+              <source>Mov Disord</source>
+              <year>2002</year>
+              <volume>17</volume>
+              <fpage>1362</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Three cases of clinically apparent liver injury attributed to entacapone use; 74 year old woman developed nausea and fatigue 2 weeks after adding entacapone to a regimen of levodopa/benserazide for Parkinson disease [bilirubin 2.4 mg/dL, ALT 104 U/L, Alk P 238 U/L], with rapid improvement on stopping; 2 other cases were reported to Australian Drug Reaction Database with only partial documentation, arising 5 and 6 weeks after starting entacapone, with cholestatic liver enzyme elevations and mild jaundice).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12465084</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.benabou.2003.263">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Benabou</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Waters</surname><given-names>C.</given-names></name>
+</person-group>
+              <article-title>Hepatotoxic profile of catechol-O-methyltransferase inhibitors in Parkinson's disease.</article-title>
+              <source>Expert Opin Drug Saf</source>
+              <year>2003</year>
+              <volume>2</volume>
+              <fpage>263</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of hepatotoxicity of tolcapone and entacapone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12904105</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.borges.2003.743">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Borges</surname><given-names>N.</given-names></name>
+</person-group>
+              <article-title>Tolcapone-related liver dysfunction: implications for use in Parkinson's disease therapy.</article-title>
+              <source>Drug Saf</source>
+              <year>2003</year>
+              <volume>26</volume>
+              <fpage>743</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of hepatotoxicity of tolcapone and possible mechanisms).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12908845</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.brooks.2004.s39">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Brooks</surname><given-names>DJ</given-names></name>
+</person-group>
+              <article-title>Safety and tolerability of COMT inhibitors.</article-title>
+              <source>Neurology</source>
+              <year>2004</year>
+              <volume>62</volume>
+              <issue>1</issue>
+              <supplement>Suppl 1</supplement>
+              <fpage>S39</fpage>
+              <lpage>46</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of safety and side effects of entacapone; in phase III trials ALT elevations &#x0003e;3 times ULN occurred in 0.3-0.5% of patients taking entacapone and 0.4% on placebo, and there were no cases of jaundice or clinically apparent liver injury among ~1600 entacapone treated patients).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14718679</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.deane.2004.cd004554">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Deane</surname><given-names>KH</given-names></name>
+<name name-style="western"><surname>Spieker</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Clarke</surname><given-names>CE</given-names></name>
+</person-group>
+              <article-title>Catechol-O-methyltransferase inhibitors for levodopa-induced complications in Parkinson's disease.</article-title>
+              <source>Cochrane Database Syst Rev</source>
+              <year>2004</year>
+              <issue>4</issue>
+              <elocation-id>CD004554</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of efficacy of tolcapone and entacapone; ALT elevations reported in variable proportions of patients on tolcapone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15495119</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF26">
+            <element-citation publication-type="journal">
+              <article-title>Levodopa + carbidopa + entacapone. Entacapone: a second look: new preparations. Parkinson's disease: a modest effect.</article-title>
+              <source>Prescrire Int</source>
+              <year>2005</year>
+              <volume>14</volume>
+              <fpage>51</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of risks and benefits of a fixed dose combination of levodopa, carbidopa and entacapone mentions that entacapone may cause cholestatic hepatitis and that is has not been shown to be more effective than bromocriptine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15875340</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.borges.2005.69">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Borges</surname><given-names>N.</given-names></name>
+</person-group>
+              <article-title>Tolcapone in Parkinson's disease: liver toxicity and clinical efficacy.</article-title>
+              <source>Expert Opin Drug Saf</source>
+              <year>2005</year>
+              <volume>4</volume>
+              <fpage>69</fpage>
+              <lpage>73</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of hepatotoxicity of tolcapone and its possible mechanisms).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15709899</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.korri.2005.1113">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Korri</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Awada</surname><given-names>A.</given-names></name>
+</person-group>
+              <comment>[Serious tolcapone-induced hepatitis 17 months after commencing treatment]</comment>
+              <source>Rev Neurol (Paris)</source>
+              <year>2005</year>
+              <volume>161</volume>
+              <fpage>1113</fpage>
+              <lpage>5</lpage>
+              <comment>French.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(61 year old man with Parkinson disease developed jaundice and fever 17 months after starting tolcapone [bilirubin 3.1 mg/dL, ALT 399 U/L, Alk P 115 U/L], resolving upon stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16288178</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.martignoni.2005.1820">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Martignoni</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Cosentino</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ferrari</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Porta</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Mattarucchi</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Marino</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Lecchini</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Two patients with COMT inhibitor-induced hepatic dysfunction and UGT1A9 genetic polymorphism.</article-title>
+              <source>Neurology</source>
+              <year>2005</year>
+              <volume>65</volume>
+              <fpage>1820</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Two patients who had ALT elevations [78 and 284 U/L] during tolcapone therapy, one of whom had similar elevations during entacapone treatment; both had the A(T)9AT sequence [1A9*1] in the promoter of the UGT1A9 gene).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16344532</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF30">
+            <element-citation publication-type="journal">
+              <article-title>Tolcapone: new drug. In Parkinson's disease: unacceptable risk of severe hepatitis.</article-title>
+              <source>Prescrire Int</source>
+              <year>2006</year>
+              <volume>15</volume>
+              <fpage>54</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of tolcapone as adjunctive therapy in Parkinson disease suggests that the hepatotoxicity risk makes it an unacceptable option).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16604736</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.leegwaterkim.2006.2263">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Leegwater-Kim</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Waters</surname><given-names>C</given-names></name>
+</person-group>
+              <article-title>Tolcapone in the management of Parkinson's disease.</article-title>
+              <source>Expert Opin Pharmacother</source>
+              <year>2006</year>
+              <volume>7</volume>
+              <fpage>2263</fpage>
+              <lpage>70</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review on use of tolcapone in Parkinson disease suggesting that with proper monitoring, the potential for hepatotoxicity is "negligibly small").</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17059382</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.stocchi.2006.317">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Stocchi</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>De Pandis</surname><given-names>MF</given-names></name>
+</person-group>
+              <article-title>Utility of tolcapone in fluctuating Parkinson's disease.</article-title>
+              <source>Clin Interv Aging</source>
+              <year>2006</year>
+              <volume>1</volume>
+              <fpage>317</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of role of tolcapone in treatment of Parkinson disease, indicating its efficacy in patients with fluctuating symptoms and its safety with proper monitoring of serum enzymes).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18046910</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.entacapone_to_tolcapone_switch_study_investigators.2007.14">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>Entacapone to Tolcapone Switch Study Investigators</collab>
+</person-group>
+              <article-title>Entacapone to tolcapone switch: Multicenter double-blind, randomized, active-controlled trial in advanced Parkinson's disease.</article-title>
+              <source>Mov Disord</source>
+              <year>2007</year>
+              <volume>22</volume>
+              <fpage>14</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Randomized controlled trial of replacing entacapone with tolcapone in patients with Parkinson disease and motor fluctuations on long term levodopa therapy; ALT elevations occurred in 3% on entacapone and 9% on tolcapone, but were mild and self-limiting).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17089403</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.leegwaterkim.2007.1649">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Leegwater-Kim</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Waters</surname><given-names>C</given-names></name>
+</person-group>
+              <article-title>Role of tolcapone in the treatment of Parkinson's disease.</article-title>
+              <source>Expert Rev Neurother</source>
+              <year>2007</year>
+              <volume>7</volume>
+              <fpage>1649</fpage>
+              <lpage>57</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the pharmacology, metabolism, clinical efficacy and safety of tolcapone, indicating that the risk of hepatotoxicity "is very small if proper hepatic monitoring guidelines are followed").</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18052761</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.olanow.2007.287">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Olanow</surname><given-names>CW</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+</person-group>
+              <article-title>Tolcapone: an efficacy and safety review (2007).</article-title>
+              <source>Clin Neuropharmacol.</source>
+              <year>2007</year>
+              <volume>30</volume>
+              <fpage>287</fpage>
+              <lpage>94</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the efficacy and safety of tolcapone focusing upon the hepatotoxicity concludes that tolcapone can be used safety if there is strict adherence to routine liver test monitoring requirements of every 2-4 weeks for 6 months and at 3-6 month intervals thereafter).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17909307</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.lees.2007.944">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lees</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Ratziu</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Tolosa</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Oertel</surname><given-names>WH</given-names></name>
+</person-group>
+              <article-title>Safety and tolerability of adjunctive tolcapone treatment in patients with early Parkinson's disease.</article-title>
+              <source>J Neurol Neurosurg Psychiatry</source>
+              <year>2007</year>
+              <volume>78</volume>
+              <fpage>944</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of tolcapone vs placebo combined with levodopa and carbidopa in 677 patients with early Parkinson disease; ALT or AST elevations occurred in 20% of placebo- vs 27% of tolcapone treated patients and were &#x0003e;3 times ULN in 1.2% [placebo] vs 1.8% [tolcapone], almost all during first 6 months; 1% of tolcapone treated patients stopped because of ALT elevations, but none developed jaundice or clinically apparent liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17098835</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.lew.2007.281">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lew</surname><given-names>MF</given-names></name>
+<name name-style="western"><surname>Kricorian</surname><given-names>G</given-names></name>
+</person-group>
+              <article-title>Results from a 2-year centralized tolcapone liver enzyme monitoring program.</article-title>
+              <source>Clin Neuropharmacol</source>
+              <year>2007</year>
+              <volume>30</volume>
+              <fpage>281</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Centralized testing for ALT and AST in 1725 patients with Parkinson disease treated with tolcapone for up to 2 years; 69 [3.9%] had at least one elevation, but &#x0003c;1% had an elevation above 2 times the ULN and most returned to normal despite continuing therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17909306</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF38">
+            <element-citation publication-type="journal">
+              <article-title>Entacapone: hepatitis (continued). The risk of liver damage is being confirmed. It is better not to expose parkinsonian patients to this drug.</article-title>
+              <source>Prescrire Int</source>
+              <year>2008</year>
+              <volume>17</volume>
+              <fpage>113</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Commentary mentions that the European Medicines Agency has reported 29 cases of hepatic disorders linked to entacapone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18630358</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Davern</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Serrano</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rochon</surname><given-names>J</given-names></name>
+<collab>Drug Induced Liver Injury Network (DILIN)</collab>
+</person-group>
+              <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 300 cases of drug induced liver injury in the US collected between 2004 and 2008, none were due to drugs used for Parkinson disease).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.canesi.2008.s380">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Canesi</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Zecchinelli</surname><given-names>AL</given-names></name>
+<name name-style="western"><surname>Pezzoli</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Antonini</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Clinical experience of tolcapone in advanced Parkinson's disease.</article-title>
+              <source>Neurol Sci</source>
+              <year>2008</year>
+              <volume>29</volume>
+              <supplement>Suppl 5</supplement>
+              <fpage>S380</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 66 patients with advanced Parkinson disease treated with tolcapone, 2 [3%] were withdrawn from therapy because of ALT elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19381768</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.brooks.2008.843">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Brooks</surname><given-names>DJ</given-names></name>
+<name name-style="western"><surname>Leinonen</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kuoppam&#x000e4;ki</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Nissinen</surname><given-names>H</given-names></name>
+</person-group>
+              <article-title>Five-year efficacy and safety of levodopa/DDCI and entacapone in patients with Parkinson's disease.</article-title>
+              <source>J Neural Transm</source>
+              <year>2008</year>
+              <volume>115</volume>
+              <fpage>843</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Retrospective, pooled analysis of 5 controlled trials with 5 year extension phases that included 806 patients with Parkinson disease treated with entacapone added to levodopa/carbodopa; there were "few clinically significant changes in liver function tests" and none of the 478 serious adverse events that were reported were due to hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18259682</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.ebersbach.2009.e40">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ebersbach</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Storch</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Tolcapone in elderly patients with Parkinson's disease: a prospective open-label multicenter non-interventional trial.</article-title>
+              <source>Arch Gerontol Geriatr</source>
+              <year>2009</year>
+              <volume>49</volume>
+              <fpage>e40</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 237 patients with advanced Parkinson disease treated with tolcapone, diarrhea was the most common side effect [3.4%], ALT or AST elevations occurred in 18%, but were mostly mild and "not clinically significant").</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18835049</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.mcburney.2009.52">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>McBurney</surname><given-names>RN</given-names></name>
+<name name-style="western"><surname>Hines</surname><given-names>WM</given-names></name>
+<name name-style="western"><surname>Von Tungeln</surname><given-names>LS</given-names></name>
+<name name-style="western"><surname>Schnackenberg</surname><given-names>LK</given-names></name>
+<name name-style="western"><surname>Beger</surname><given-names>RD</given-names></name>
+<name name-style="western"><surname>Moland</surname><given-names>CL</given-names></name>
+<name name-style="western"><surname>Han</surname><given-names>T</given-names></name>
+<etal/>
+</person-group>
+              <article-title>The liver toxicity biomarker study: phase I design and preliminary results.</article-title>
+              <source>Toxicol Pathol</source>
+              <year>2009</year>
+              <volume>37</volume>
+              <fpage>52</fpage>
+              <lpage>64</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Design and early results of a comprehensive study of rats given 28 days of entacapone or tolcapone as examples of two related agents, one of which causes liver injury in man and one which does not, assessing liver enzymes, histology, gene transcription, proteomics, metabolomics and possible biomarkers to identify predictors of idiosyncratic liver injury in humans).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19171931</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Reuben</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Koch</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>WM</given-names></name>
+<collab>Acute Liver Failure Study Group</collab>
+</person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury but none were attributed to agents used for Parkinson disease).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.fischer.2010.243">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fischer</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Michaelis</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Schrey</surname><given-names>AK</given-names></name>
+<name name-style="western"><surname>Graebner</surname><given-names>OG</given-names></name>
+<name name-style="western"><surname>Glinski</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Dreger</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kroll</surname><given-names>F</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Capture compound mass spectrometry sheds light on the molecular mechanisms of liver toxicity of two Parkinson drugs.</article-title>
+              <source>Toxicol Sci</source>
+              <year>2010</year>
+              <volume>113</volume>
+              <fpage>243</fpage>
+              <lpage>53</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In vitro study of binding of tolcapone and entacapone to other proteins; unlike entacapone, tolcapone interacted with a number of non-COMT intracellular proteins which are involved in the respiratory chain actions, fatty acid beta-oxidation and bile acid synthesis, perhaps accounting for its potential for hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19783845</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.haasio.2010.163">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Haasio</surname><given-names>K.</given-names></name>
+</person-group>
+              <article-title>Toxicology and safety of COMT inhibitors.</article-title>
+              <source>Int Rev Neurobiol</source>
+              <year>2010</year>
+              <volume>95</volume>
+              <fpage>163</fpage>
+              <lpage>89</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Extensive review of the mechanism of hepatic injury from tolcapone; "at the moment there is no explanation to the hepatotoxicity appeared in clinical use").</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21095462</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.marsala.2012.185">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Marsala</surname><given-names>SZ</given-names></name>
+<name name-style="western"><surname>Gioulis</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ceravolo</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Tinazzi</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>A systematic review of catechol-0-methyltransferase inhibitors: efficacy and safety in clinical practice.</article-title>
+              <source>Clin Neuropharmacol</source>
+              <year>2012</year>
+              <volume>35</volume>
+              <fpage>185</fpage>
+              <lpage>90</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of literature on safety and efficacy of tolcapone and entacapone recommends use of tolcapone only if entacapone treatment fails and liver tests are normal).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22805229</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.mcburney.2012.951">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>McBurney</surname><given-names>RN</given-names></name>
+<name name-style="western"><surname>Hines</surname><given-names>WM</given-names></name>
+<name name-style="western"><surname>VonTungeln</surname><given-names>LS</given-names></name>
+<name name-style="western"><surname>Schnackenberg</surname><given-names>LK</given-names></name>
+<name name-style="western"><surname>Beger</surname><given-names>RD</given-names></name>
+<name name-style="western"><surname>Moland</surname><given-names>CL</given-names></name>
+<name name-style="western"><surname>Han</surname><given-names>T</given-names></name>
+<etal/>
+</person-group>
+              <article-title>The liver toxicity biomarker study phase I: markers for the effects of tolcapone or entacapone.</article-title>
+              <source>Toxicol Pathol</source>
+              <year>2012</year>
+              <volume>40</volume>
+              <fpage>951</fpage>
+              <lpage>64</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Comparison of the molecular effects of tolcapone vs entacapone on rat liver and plasma biomarkers found that changes from the two drugs only partially overlapped and different effects were present at 3 and 28 days, suggesting that some of these "off-target" and specific effects of tolcapone may account for its occasional hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22573522</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Bergmann</surname><given-names>OM</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Kvaran</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Olafsson</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Incidence, presentation, and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>1425</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none of the 96 were attributed to an agent used to treat Parkinson disease).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.drugs_for_parkinsons_disease.2013.101">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>Drugs for Parkinson's disease</collab>
+</person-group>
+              <source>Treat Guidel Med Lett</source>
+              <year>2013</year>
+              <volume>11</volume>
+              <issue>135</issue>
+              <fpage>101</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of recommendations for therapy of Parkinson disease with description of mechanisms of action, efficacy and adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24165688</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hern&#x000e1;ndez</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bessone</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>di Pace</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Brahm</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zapata</surname><given-names>R, A</given-names></name>
+<name name-style="western"><surname>Chirino</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America: an analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 176 reports of drug induced liver injury from Latin America published between 1996 and 2012, none were attributed to an agent to treat Parkinson disease).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.eggert.2014.1">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Eggert</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Oertel</surname><given-names>WH</given-names></name>
+<name name-style="western"><surname>Lees</surname><given-names>AJ</given-names></name>
+</person-group>
+              <article-title>German Competence Network on Parkinson&#x02019;s disease. Safety and efficacy of tolcapone in the long-term use in Parkinson disease: an observational study.</article-title>
+              <source>Clin Neuropharmacol</source>
+              <year>2014</year>
+              <volume>37</volume>
+              <fpage>1</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 391 patients with Parkinson disease treated with tolcapone in an observation study conducted at 48 neurologic centers and followed for one year, 34 [8.7%] developed liver enzyme elevation, usually within the first 3 months, which were above twice ULN in only 5 [1.3%] and resolved spontaneously in most; no patient developed clinically apparent liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24434524</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury from the US enrolled in a prospective database between 2004 and 2012, none were attributed to an agent used to treat Parkinson disease).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.longo.2016.31">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Longo</surname><given-names>DM</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Howell</surname><given-names>BA</given-names></name>
+<name name-style="western"><surname>Siler</surname><given-names>SQ</given-names></name>
+</person-group>
+              <article-title>Elucidating differences in the hepatotoxic potential of tolcapone and entacapone with DILIsym(&#x000ae;), a mechanistic model of drug-induced liver injury.</article-title>
+              <source>CPT Pharmacometrics Syst Pharmacol</source>
+              <year>2016</year>
+              <volume>5</volume>
+              <issue>1</issue>
+              <fpage>31</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Description of mechanistic simulation models of the metabolism and toxicity of tolcapone and entacapone which predicted their differential hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26844013</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.lv.2016.42">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lv</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>XX</given-names></name>
+<name name-style="western"><surname>Hou</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Fang</surname><given-names>ZZ</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Cao</surname><given-names>YF</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>SW</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Comparison of the inhibitory effects of tolcapone and entacapone against human UDP-glucuronosyl-transferases.</article-title>
+              <source>Toxicol Appl Pharmacol</source>
+              <year>2016</year>
+              <volume>301</volume>
+              <fpage>42</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Comparison of the inhibitory effects of tolacapone and entacapone against recombinant human UGTs showed more potent inhibition by tolacapone for most isoforms).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27089846</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.drugs_for_parkinsons_disease.2017.187">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>Drugs for Parkinson's disease</collab>
+</person-group>
+              <source>Med Lett Drugs Ther.</source>
+              <year>2017</year>
+              <volume>59</volume>
+              <issue>1534</issue>
+              <fpage>187</fpage>
+              <lpage>194</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of medications approved for use in Parkinson disease including levodopa/carbidopa, dopamine agonists, MAO-B inhibitors, anticholinergics, and COMT inhibitors, mentions hepatotoxicity of tolcapone but not of levodopa or any of the other adjunctive therapies: &#x0201c;Use of tolcapone requires written informed consent and monitoring of liver function every 2-4 weeks for the first 6 months of treatment and periodically thereafter. Serious hepatoxicity has not been reported with entacapone&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29136401</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.margolesky.2017.1756285617737728">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Margolesky</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Singer</surname><given-names>C</given-names></name>
+</person-group>
+              <article-title>Extended-release oral capsule of carbidopa-levodopa in Parkinson disease.</article-title>
+              <source>Ther Adv Neurol Disord.</source>
+              <year>2017</year>
+              <volume>11</volume>
+              <elocation-id>1756285617737728</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the pharmacology, efficacy and safety of extended release carbidopa/levodopa in listing of reported adverse reactions there is no mention of serious hepatic events or ALT elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29399046</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.mak.2018.412">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mak</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Kato</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Weston</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Hayes</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Uetrecht</surname><given-names>J.</given-names></name>
+</person-group>
+              <article-title>Editor's highlight: An impaired immune tolerance animal model distinguishes the potential of troglitazone/pioglitazone and tolcapone/entacapone to cause IDILI.</article-title>
+              <source>Toxicol Sci.</source>
+              <year>2018</year>
+              <volume>161</volume>
+              <fpage>412</fpage>
+              <lpage>420</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In an animal model of idiosyncratic liver injury using PD-1 knock out mice treated with anti-CTLA-4 to decrease the natural inhibition of T cell responses [immune check point], treatment with tolcapone caused greater injury than treatment with entacapone while neither agent caused liver injury in wild type mice or PD-1 knock out mice without anti-CTLA-4 treatment, suggesting that idiosyncratic liver injury is immune mediated, caused by an unregulated CD-8+ response and failure of immune tolerance).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29087505</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.fremont.2020.1391">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fremont</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Manoochehri</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Armstrong</surname><given-names>NM</given-names></name>
+<name name-style="western"><surname>Mattay</surname><given-names>VS</given-names></name>
+<name name-style="western"><surname>Apud</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Tierney</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Devanand</surname><given-names>DP</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Tolcapone treatment for cognitive and behavioral symptoms in behavioral variant frontotemporal dementia: a placebo-controlled crossover study.</article-title>
+              <source>J Alzheimers Dis.</source>
+              <year>2020</year>
+              <volume>75</volume>
+              <fpage>1391</fpage>
+              <lpage>1403</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 28 adults with frontotemporal dementia with behavioral symptoms who were treated with tolcapone [200 mg] or placebo three times daily for 9 days in a cross-over design, tolcapone therapy was associated with slight improvements in some cognitive and behavioral scores and was well tolerated, although 21% of patients developed mild liver enzyme elevations [less than twice ULN] that were asymptomatic and resolved rapidly).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32444540</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.artusi.2021.817">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Artusi</surname><given-names>CA</given-names></name>
+<name name-style="western"><surname>Sarro</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Imbalzano</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Fabbri</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Lopiano</surname><given-names>L</given-names></name>
+</person-group>
+              <article-title>Safety and efficacy of tolcapone in Parkinson's disease: systematic review.</article-title>
+              <source>Eur J Clin Pharmacol.</source>
+              <year>2021</year>
+              <volume>77</volume>
+              <fpage>817</fpage>
+              <lpage>829</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of the literature on the efficacy and safety of tolcapone identified 32 studies with 4780 patients, of whom 0.9% developed liver enzyme elevations above 2 times ULN; and while there were 3 case reports of fatal acute liver failure all reported in 1998, since then there have been no deaths and only 3 non-fatal cases).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33415500</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.drugs_for_parkinsons_disease.2021.25">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>Drugs for Parkinson's disease</collab>
+</person-group>
+              <source>Med Lett Drugs Ther.</source>
+              <year>2021</year>
+              <volume>63</volume>
+              <issue>1618</issue>
+              <fpage>25</fpage>
+              <lpage>32</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of current medications approved for use in Parkinson disease including levodopa/carbidopa, dopamine agonists, COMT inhibitors, MAO-B inhibitors, anticholinergics, and istradefylline, mentions hepatotoxicity of tolcapone but not of levodopa or any of the adjunctive therapies).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33647001</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolcapone.REF.hauser.2021.1663">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hauser</surname><given-names>RA</given-names></name>
+<name name-style="western"><surname>Hattori</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fernandez</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Isaacson</surname><given-names>SH</given-names></name>
+<name name-style="western"><surname>Mochizuki</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rascol</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Stocchi</surname><given-names>F</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Efficacy of istradefylline, an adenosine A2A receptor antagonist, as adjunctive therapy to levodopa in Parkinson's disease: a pooled analysis of 8 phase 2b/3 trials.</article-title>
+              <source>J Parkinsons Dis.</source>
+              <year>2021</year>
+              <volume>11</volume>
+              <fpage>1663</fpage>
+              <lpage>75</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a pooled analysis of 8 randomized placebo-controlled trials of istradefylline in 2719 patients with Parkinson disease and motor complications, while adverse event rates were similar in the 3 groups [71% and 70% vs 65%] except for dyskinesia [16% and 18% vs 10%] and &#x0201c;no clinically meaningful changes in laboratory parameters&#x02026;were observed&#x0201d; in any group including those on levodopa/carbidopa alone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34486986</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Tolcapone.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Tolcapone/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Tolcapone: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Tolcapone">Trials on Tolcapone: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

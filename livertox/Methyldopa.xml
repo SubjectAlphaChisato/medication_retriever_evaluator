@@ -1,0 +1,2118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Methyldopa" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Methyldopa</book-part-id>
+      <title-group>
+        <title>Methyldopa</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>10</day>
+          <month>1</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Methsuximide" document-type="chapter">Methsuximide</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Methylphenidate" document-type="chapter">Methylphenidate</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Methyldopa.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Methyldopa.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Methyldopa (alpha-methyldopa or &#x003b1;-methyldopa) is a centrally active sympatholytic agent that has been used for more than 50 years for the treatment of hypertension. Methyldopa has been clearly linked to instances of acute and chronic liver injury that can be severe and even fatal.</p>
+        </sec>
+        <sec id="Methyldopa.Background">
+          <title>Background</title>
+          <p>Methyldopa (meth" il doe' pa) is a centrally active sympatholytic agent that reduces sympathic drive to the heart and peripheral circulation, leading to decreased cardiac output and lowered peripheral arterial resistance. Introduced in 1960, methyldopa rapidly became a leading antihypertensive agent, but in the last two decades its use has decreased markedly, replaced by better tolerated and more effective antihypertensive medications. Currently, the major use of methyldopa is treatment of hypertension during pregnancy, a use based upon its established record of safety during pregnancy and breast feeding. Methyldopa is available generically and formerly under the trade name Aldomet as 125, 250 and 500 mg tablets. Fixed combinations with hydrochlorothiazide are also available (Aldoril). The recommended maintenance dose in adults is 500 mg to 2 g daily in 2-4 divided doses. Common side effects include nausea, diarrhea, headache, dizziness, sedation, dry mouth and rash. Rare but potentially severe adverse effects include hemolytic anemia (Coombs positive), lupus-like syndrome, mycocarditis, pancreatitis and hepatotoxicity.</p>
+        </sec>
+        <sec id="Methyldopa.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Drug induced liver injury due to methyldopa was identified shortly after its introduction into medical use in the 1960&#x02019;s. Chronic use of methyldopa is associated with mild and transient elevations in serum aminotransferase levels in 5% to 35% of patients, these elevations often resolving despite continuation of the medication. In contrast, clinically apparent or significant liver injury from methyldopa is relatively uncommon, although several hundred cases have been reported. Two patterns of hepatotoxicity have been described: an acute hepatitis that appears within weeks to months of starting treatment, and a chronic hepatitis that arises months to years after initiation of methyldopa therapy.</p>
+          <p>The acute liver injury from methyldopa generally arises within 2 to 12 weeks of starting therapy and is typically hepatocellular with marked elevations in ALT and AST (5- to 100-fold) and modest increases in alkaline phosphatase, although in a small proportion of patients the pattern of enzyme elevations is mixed or cholestatic (Case 1 and 2). Most patients become jaundiced. Symptoms resemble those of acute viral hepatitis, including fever, headache, fatigue, anorexia and nausea. Signs of hypersensitivity other than fever are uncommon. The injury can be severe and fatal. While some cases are associated with marked cholestasis and prolonged jaundice, most patients recover within 4 to 12 weeks. Autoantibodies including Coombs and antinuclear antibody positivity may be present (but also can arise independent of liver injury). Liver biopsy shows an acute hepatitis-like picture with marked inflammatory infiltrates and fatty change, with variable amounts of necrosis. Rechallenge leads to rapid recurrence of liver injury and can result in severe hepatitis, acute liver failure and death.</p>
+          <p>The chronic liver injury from methyldopa usually arises after 6 months, but may become first evident after several years of therapy (Case 3). This chronic hepatitis-like clinical picture has a more insidious onset typically with fatigue, weakness and nausea associated with mild or no jaundice. Clinical features may include liver enlargement and tenderness and spider angiomata. The clinical and laboratory pattern often resembles autoimmune hepatitis, with moderate to marked elevations in ALT and AST, modest alkaline phosphatase elevations, increases in immunoglobulin levels (particularly IgG), and high titers of autoantibodies such as antinuclear antibody (ANA) and smooth muscle antibody (SMA). Liver biopsy demonstrates findings of chronic active hepatitis with variable amounts of fatty change and fibrosis. Plasma cell infiltrates may be prominent. Cirrhosis and end stage liver disease can occur if the drug is continued. The disease resolves slowly but completely with discontinuation of methyldopa. Chronic liver injury now appears to be the most common form of drug induced liver injury from this agent. Some cases of methyldopa induced liver injury have features of both acute and chronic injury and the two forms of hepatic injury may share a common etiology.</p>
+          <p>African Americans appear to have a higher risk for liver injury from methyldopa than Caucasians or Hispanic individuals. The course may be more severe and outcome less favorable in Africans Americans as well. Granulomatous hepatitis can also occur with methyldopa therapy, usually in association with drug fever and systemic symptoms (and granulomas elsewhere), and sometimes with granulomatous myocarditis which can be fatal. In these situations, the liver injury is usually mild and anicteric.</p>
+          <p>Likelihood score: A (well known cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Methyldopa.Mechanism_of_Hepatotoxicity">
+          <title>Mechanism of Hepatotoxicity</title>
+          <p>Both the acute and chronic hepatic injury from methyldopa have features that suggest an immune etiology, although less allergic than autoimmune in character. These findings and metabolic studies suggest that methyldopa may induce an autoimmune liver injury (perhaps via a toxic metabolic intermediate serving as an antigenic hapten presented on the surface of hepatocytes) in susceptible hosts.</p>
+        </sec>
+        <sec id="Methyldopa.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Both the acute and the chronic forms of liver injury from methyldopa can be severe, particularly if the medication is continued despite appearance of clinically significant injury. Recovery usually occurs within 6 to 8 weeks, but patients with chronic hepatitis can be left with inactive cirrhosis. Methyldopa ranks as one of the ten most common causes of acute liver failure due to medications, although its frequency is decreasing as its use has become more restricted. Because of its cost, methyldopa is still used widely for treatment of hypertension in developing nations, where cases of liver injury are likely to continue to arise. Patients with methyldopa induced liver injury should not be reexposed to this medication, but there is no evidence that there is cross susceptibility to liver injury with other antihypertensive agents. Prednisone has been used to treat both the acute and the chronic injury from methyldopa with unclear benefit. Management should focus on early withdrawal of methyldopa, and treatment with corticosteroids should be restricted only to severe or persistent cases and withdrawn in a timely manner.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntihypertensiveAgen" document-type="chapter">Antihypertensive Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Methyldopa.CASE_REPORTS">
+        <title>CASE REPORTS</title>
+        <sec id="Methyldopa.Case_1_Abnormal_serum_aminotr">
+          <title>Case 1. Abnormal serum aminotransferase levels developing during methyldopa therapy.(<xref ref-type="bibr" rid="Methyldopa.REF.1">1</xref>)</title>
+          <p>A 29 year old woman was found to have hypertension during the first trimester of her first pregnancy and was started on methyldopa in a dose of 500 mg twice daily. Eight weeks later, during a routine prenatal visit, she was found to have elevations in serum aminotransferase levels. She was without symptoms of liver disease and denied all previous history of hepatitis or jaundice and any exposures or high risk behaviors. Serum alkaline phosphatase levels were minimally elevated and bilirubin, albumin and prothrombin time were normal. An abdominal ultrasound showed no abnormality of the liver or bile ducts. Serum ANA was positive in a titer of 1:160. She also had equivocal tests for anti-HCV and VDRL, both of which were later shown to be false positives. Methyldopa was stopped and her liver tests were normal one month later.</p>
+          <sec id="Methyldopa.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Methyldopa.Tc" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Methyldopa.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Methyldopa.Tc_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Methyldopa</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Methyldopa.Tc_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Methyldopa.Tc_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Hepatocellular (R=28)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Methyldopa.Tc_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Methyldopa.Tc_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">1+ (no jaundice)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Methyldopa.Tc_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Methyldopa.Tc_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">8 weeks</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Methyldopa.Tc_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Methyldopa.Tc_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">Complete within 1 month</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Methyldopa.Tc_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Methyldopa.Tc_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">Nifedipine, multivitamins</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Methyldopa.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Methyldopa.Td" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Methyldopa.Td_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Starting</th>
+                    <th id="hd_h_Methyldopa.Td_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Stopping</th>
+                    <th id="hd_h_Methyldopa.Td_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT<break/>(U/L)</th>
+                    <th id="hd_h_Methyldopa.Td_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Alk P<break/>(U/L)</th>
+                    <th id="hd_h_Methyldopa.Td_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                    <th id="hd_h_Methyldopa.Td_1_1_1_6" valign="top" align="center" scope="col" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">20</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">57</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.6</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Hypertensive</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_1 hd_h_Methyldopa.Td_1_1_1_2 hd_h_Methyldopa.Td_1_1_1_3 hd_h_Methyldopa.Td_1_1_1_4 hd_h_Methyldopa.Td_1_1_1_5 hd_h_Methyldopa.Td_1_1_1_6" colspan="6" valign="top" align="center" scope="col" rowspan="1">Methyldopa started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">800</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">125</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">1 day</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">442</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">125</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">3 days</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">327</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">109</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">4 days</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">296</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">..</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">9 weeks</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">9 days</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">87</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">94</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.7</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">10 weeks</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">20</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">..</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">12 weeks</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">1 month</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">30</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">57</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">10 months</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">13</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">51</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.7</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_1 hd_h_Methyldopa.Td_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;45</bold>
+</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;125</bold>
+</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Methyldopa.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Methyldopa.Comment">
+            <title>Comment</title>
+            <p>This case is typical of asymptomatic elevations in serum aminotransferase levels that can occur during methyldopa therapy. These were indentified on routine testing and not as a result of symptoms or specific monitoring for hepatotoxicity. Recovery was rapid. The co-occurrence of ANA positivity and false positive VDRL and anti-HCV reactivity was probably due to methyldopa induced immune activation and hyperglobulinemia.</p>
+          </sec>
+        </sec>
+        <sec id="Methyldopa.Case_2_Acute_hepatitis_due_to">
+          <title>Case 2. Acute hepatitis due to methyldopa.(<xref ref-type="bibr" rid="Methyldopa.REF.2">2</xref>)</title>
+          <p>A 55 year old woman had been treated for hypertension intermittently with methyldopa in the past and then developed jaundice and fatigue 7 days after it was restarted. She had no other significant past medical history, took no other medications, did not drink alcohol and had no risk factors for viral hepatitis or liver disease. On admission, she was jaundiced and serum bilirubin was 6.8 mg/dL (5.0 mg/dL direct), AST 858 U/L and alkaline phosphatase 214 U/L (Table). A liver biopsy was compatible with acute drug induced liver injury. Markers of hepatitis B were negative. Further study showed that she had elevations in IgG, IgA and IgM, and was positive for smooth muscle (SMA) and antinuclear (ANA) antibodies and had a positive direct Coombs test. She was not anemic. Methyldopa was stopped and she recovered clinically quite rapidly; but biochemical and immunological abnormalities resolved only slowly over the next few months. Ultimately most abnormalities fell to normal or near normal, although SMA persisted in unchanging titers.</p>
+          <sec id="Methyldopa.Key_Points_1">
+            <title>Key Points</title>
+            <table-wrap id="Methyldopa.Te" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Methyldopa.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Methyldopa.Te_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Methyldopa</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Methyldopa.Te_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Methyldopa.Te_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Hepatocellular (R=8.6)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Methyldopa.Te_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Methyldopa.Te_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">3+ (jaundice and hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Methyldopa.Te_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Methyldopa.Te_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">1 week (prior exposure)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Methyldopa.Te_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Methyldopa.Te_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">Complete by 6 months</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Methyldopa.Te_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Methyldopa.Te_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">None</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Methyldopa.Laboratory_Values_1">
+            <title>Laboratory Values</title>
+            <table-wrap id="Methyldopa.Tf" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Methyldopa.Tf_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Starting</th>
+                    <th id="hd_h_Methyldopa.Tf_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Stopping</th>
+                    <th id="hd_h_Methyldopa.Tf_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT<break/>(U/L)</th>
+                    <th id="hd_h_Methyldopa.Tf_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Alk P<break/>(U/L)</th>
+                    <th id="hd_h_Methyldopa.Tf_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                    <th id="hd_h_Methyldopa.Tf_1_1_1_6" valign="top" align="center" scope="col" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_1 hd_h_Methyldopa.Tf_1_1_1_2 hd_h_Methyldopa.Tf_1_1_1_3 hd_h_Methyldopa.Tf_1_1_1_4 hd_h_Methyldopa.Tf_1_1_1_5 hd_h_Methyldopa.Tf_1_1_1_6" colspan="6" valign="top" align="left" scope="col" rowspan="1">Methyldopa, which had been used intermittently for at least a year, was given for 7 days</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">858</td>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">214</td>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">6.8</td>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">1 month</td>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">300</td>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">140</td>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.6</td>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">SMA+, ANA+, Coombs+</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">3 months</td>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">100</td>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">95</td>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.8</td>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">IgG 2300, IgA 600, IgM 300 mg/dL</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">5 months</td>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">78</td>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">09</td>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">SMA+, ANA-, Coombs-</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">63</td>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">88</td>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">7 months</td>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">47</td>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">90</td>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">IgG 1300, IgA 250, IgM 78 mg/dL</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_1 hd_h_Methyldopa.Tf_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;40</bold>
+</td>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;86</bold>
+</td>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Methyldopa.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Methyldopa.Comment_1">
+            <title>Comment</title>
+            <p>Although the latency period was very short, this case was otherwise typical of the acute hepatocellular injury caused by methyldopa. Aminotransferase levels were more than 20-fold elevated while alkaline phosphatase was minimally increased. Autoantibodies and hypergammaglobulinemia can develop with methyldopa induced liver disease and give a clinical picture that resembles an acute onset of autoimmune hepatitis. However, in this case, the disease improved with discontinuation of methyldopa and the autoantibodies and elevated immunoglobulin levels ultimately improved once the liver injury had settled. Nevertheless, the minor abnormalities of serum enzymes many months after the injury are a good reason to continue to follow the patient for evidence of an underlying liver disease. She should be cautioned against receiving methyldopa again.</p>
+          </sec>
+        </sec>
+        <sec id="Methyldopa.Case_3_Chronic_hepatitis_caus">
+          <title>Case 3. Chronic hepatitis caused by long term methyldopa therapy.(<xref ref-type="bibr" rid="Methyldopa.REF.1">1</xref>)</title>
+          <p>A 25 year old woman developed signs and symptoms of chronic liver disease after 8 months of therapy with methyldopa. Methyldopa had been started in a dose of 250 mg twice daily during a pregnancy, but was then continued after she had a Caesarian section 3 months later. After being on methyldopa for 8 months, she had the insidious onset of nausea, dark urine, itching and jaundice. She was admitted to a local hospital and laboratory testing showed an ALT of 1292 U/L and bilirubin of 7.3 mg/dL. Tests for hepatitis A, B and C were negative. Both smooth muscle and antinuclear antibody were negative. CT scans and ultrasound of the liver were normal. A liver biopsy showed changes typical of chronic active hepatitis. Methyldopa was stopped, and she was placed on prednisone. Serum aminotransferases slowly improved. Six months later prednisone was stopped and in follow up her liver tests remained normal.</p>
+          <sec id="Methyldopa.Key_Points_2">
+            <title>Key Points</title>
+            <table-wrap id="Methyldopa.Tg" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Methyldopa.Tg_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Methyldopa.Tg_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Methyldopa</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Methyldopa.Tg_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Methyldopa.Tg_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Hepatocellular (R=21)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Methyldopa.Tg_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Methyldopa.Tg_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">3+ (jaundice and hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Methyldopa.Tg_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Methyldopa.Tg_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">8 months</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Methyldopa.Tg_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Methyldopa.Tg_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">Complete after 6 month course of prednisone</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Methyldopa.Tg_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Methyldopa.Tg_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">Triamterene</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Methyldopa.Laboratory_Values_2">
+            <title>Laboratory Values</title>
+            <table-wrap id="Methyldopa.Th" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Methyldopa.Th_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Starting</th>
+                    <th id="hd_h_Methyldopa.Th_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Stopping</th>
+                    <th id="hd_h_Methyldopa.Th_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT<break/>(U/L)</th>
+                    <th id="hd_h_Methyldopa.Th_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Alk P<break/>(U/L)</th>
+                    <th id="hd_h_Methyldopa.Th_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                    <th id="hd_h_Methyldopa.Th_1_1_1_6" valign="top" align="center" scope="col" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_1 hd_h_Methyldopa.Th_1_1_1_2 hd_h_Methyldopa.Th_1_1_1_3 hd_h_Methyldopa.Th_1_1_1_4 hd_h_Methyldopa.Th_1_1_1_5 hd_h_Methyldopa.Th_1_1_1_6" colspan="6" valign="top" align="center" scope="col" rowspan="1">Methyldopa started during pregnancy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">8 months</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">1292</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">126</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">10.3</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Methyldopa stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">1053</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">101</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">19.3</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">1140</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">156</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">24.9</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Prednisone started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">9 months</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">362</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">169</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">11.9</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">88</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">102</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">3.0</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">10 months</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">64</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">113</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">2.0</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">11 months</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">3 months</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">80</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">61</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.0</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Prednisone tapered</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">12 months</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">4 months</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">45</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">74</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.0</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">14 months</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">29</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">69</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Prednisone stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">20 months</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">12 months</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">19</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">83</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.0</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_1 hd_h_Methyldopa.Th_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;60</bold>
+</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;126</bold>
+</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Methyldopa.Th_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Methyldopa.Comment_2">
+            <title>Comment</title>
+            <p>This case represents an example of severe chronic active hepatitis induced by methyldopa. The use of prednisone is controversial, but the height of the bilirubin and ALT elevation led to its use. Importantly, once jaundice had resolved, the prednisone was withdrawn gradually and, in follow up, this patient was asymptomatic and had normal liver tests. Many cases of methyldopa induced acute and chronic hepatitis are accompanied by high levels of autoantibodies and immunoglobulin elevations. Comparison of cases with and without these autoimmune features, however, show little difference in clinical features, severity of injury, hepatic histology or outcome, suggesting that they are similarly immune mediated and that the autoantibodies do not play a pathogenetic role.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Methyldopa.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Methyldopa &#x02013; Generic, Aldomet&#x000ae; (Currently discontinued)</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antihypertensive Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Methyldopa">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Methyldopa.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Methyldopa.Ti" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <tbody>
+              <tr>
+                <th id="hd_b_Methyldopa.Ti_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_b_Methyldopa.Ti_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_b_Methyldopa.Ti_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_b_Methyldopa.Ti_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+              <tr>
+                <td headers="hd_b_Methyldopa.Ti_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Methyldopa</td>
+                <td headers="hd_b_Methyldopa.Ti_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134976346">555-30-6</ext-link>
+</td>
+                <td headers="hd_b_Methyldopa.Ti_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C10-H13-N-O4</td>
+                <td headers="hd_b_Methyldopa.Ti_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134976346" document-id-type="sid" document-type="summary" object-id="134976346" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Methyldopa.CITED_REFERENCES">
+        <title>CITED REFERENCES</title>
+        <ref-list id="Methyldopa.CITED_REFERENCES.reflist0">
+          <ref id="Methyldopa.REF.1">
+            <label>1</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Davern</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Serrano</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rochon</surname><given-names>J</given-names></name>
+<collab>Drug Induced Liver Injury Network (DILIN)</collab>
+</person-group>
+              <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.2">
+            <label>2</label>
+            <mixed-citation publication-type="other">Delpre G, Grinblat J, Kadish U, Livni E, Shoha B. Case report. Immunological studies in a case of hepatitis following methyldopa administration. Am J Med Sci 1979; 277: 207-13. PMID:37733</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Methyldopa.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 15 January 2020</p>
+        <ref-list id="Methyldopa.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Methyldopa.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd edition. Philadelphia: Lippincott Williams &#x00026; Wilkins, 1999. pp. 656-8.<annotation><p><italic toggle="yes">(Expert review of methyldopa induced liver injury from 1999. At least 150 instances of hepatoxicity from methyldopa have been described; usually a hepatocellular pattern of injury and can present as a chronic hepatitis; rash and esoinophilia are rare, but ANA is often present).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Methyldopa.REF.de_marzio.2013">
+            <mixed-citation publication-type="book">De Marzio DH, Navarro VJ. Antihypertensives. Hepatotoxicity of cardiovascular and antidiabetic drugs: antihypertensives. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 522-5.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of antihypertensive agents mentions that hepatotoxicity from methyldopa resembles acute viral hepatitis and the toxicity appears to be immune mediated).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Methyldopa.REF.eschenhagen.2018">
+            <mixed-citation publication-type="book">Eschenhagen T. Treatment of hypertension. In, Brunton LL, Hillal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 507-26.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Methyldopa.REF.gillespie.1962.281">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gillespie</surname><given-names>L</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Oates</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Crout</surname><given-names>JR</given-names></name>
+<name name-style="western"><surname>Sjoerdsma</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Clinical and chemical studies with alpha-methyl-dopa in patients with hypertension.</article-title>
+              <source>Circulation</source>
+              <year>1962</year>
+              <volume>25</volume>
+              <fpage>281</fpage>
+              <lpage>91</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of 80 patients treated with methyldopa; 2 developed fever with accompanying abnormal AST and bilirubin levels, with rapid resolution upon stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">13898638</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.williams.1967.5">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Williams</surname><given-names>ER</given-names></name>
+<name name-style="western"><surname>Khan</surname><given-names>MA</given-names></name>
+</person-group>
+              <article-title>Liver damage in patients on methyldopa.</article-title>
+              <source>J Ther Clin Res</source>
+              <year>1967</year>
+              <volume>1</volume>
+              <fpage>5</fpage>
+              <lpage>7</lpage>
+              <comment>Not in PubMed</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Summarized in Tysell et al. [1971]: two cases of liver injury appearing after 2 and 18 months of methyldopa therapy, with hepatocellular injury and jaundice).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.zarday.1967.1897">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zarday</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Rosenthal</surname><given-names>WS</given-names></name>
+<name name-style="western"><surname>Wolff</surname><given-names>FW</given-names></name>
+</person-group>
+              <article-title>Severe liver toxicity after methyldopa.</article-title>
+              <source>N Y State J Med</source>
+              <year>1967</year>
+              <volume>67</volume>
+              <fpage>1897</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(37 year old man developed jaundice 2-3 months after starting methyldopa [bilirubin rising to 30.3 mg/dL, AST 1,120 U/L, Alk P 4 times ULN], worsening for 2 weeks after stopping before gradually resolving).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">5232672</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.elkington.1969.589">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Elkington</surname><given-names>SG</given-names></name>
+<name name-style="western"><surname>Schreiber</surname><given-names>WM</given-names></name>
+<name name-style="western"><surname>Conn</surname><given-names>HO</given-names></name>
+</person-group>
+              <article-title>Hepatic injury caused by L-alpha-methyldopa.</article-title>
+              <source>Circulation</source>
+              <year>1969</year>
+              <volume>40</volume>
+              <fpage>589</fpage>
+              <lpage>95</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(37 year old man developed symptoms within 2 weeks of starting methyldopa, but it was continued for 4 months [biliubin 14.0 mg/dL, AST 1410 U/L, Alk P 3 times ULN], resolving after stopping and recurring in response to two rechallenges, but only after several weeks of exposure).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">5823554</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.eliastam.1971.1014">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Eliastam</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Holmes</surname><given-names>AW</given-names></name>
+</person-group>
+              <article-title>Hepatitis, arthritis and lupus cell phenomena caused by methyldopa.</article-title>
+              <source>Am J Dig Dis</source>
+              <year>1971</year>
+              <volume>16</volume>
+              <fpage>1014</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(40 year old man developed jaundice 2 months after starting methyldopa [bilirubin 7.4 mg/dL, ALT 1000 U/L, Alk P 2 times ULN] that began to resolve, but rapidly recurred upon reexposure for 2 weeks [bilirubin 5.1 mg/dL, ALT 1200 U/L, Alk P 2 times ULN], ultimately resolving).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">4108488</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.tysell.1971.848">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Tysell</surname><given-names>JE</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Knauer</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Hepatitis induced by methyldopa (aldomet). Report of a case and a review of the literature.</article-title>
+              <source>Am J Dig Dis</source>
+              <year>1971</year>
+              <volume>16</volume>
+              <fpage>848</fpage>
+              <lpage>55</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(38 year old woman developed jaundice 2 months after starting methyldopa [bilirubin 6.1 mg/dL, ALT 1300 U/L, Alk P 3 times ULN], resolving spontaneously and recurring more rapidly [19 days] and severely [bilirubin 8.5 mg/dL, ALT 1240 U/L, Alk P 2 times ULN] on reexposure 3 years later).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">5098212</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.wong.1971.218">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wong</surname><given-names>ML</given-names></name>
+</person-group>
+              <article-title>Hepatocellular damage due to methyldopa.</article-title>
+              <source>Med J Malaya</source>
+              <year>1971</year>
+              <volume>25</volume>
+              <fpage>218</fpage>
+              <lpage>9</lpage>
+              <pub-id pub-id-type="pmid">4253251</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.brouillard.1973.904">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Brouillard</surname><given-names>RP</given-names></name>
+<name name-style="western"><surname>Barret</surname><given-names>O</given-names><suffix>Jr</suffix></name>
+</person-group>
+              <article-title>Methyldopa associated hepatitis.</article-title>
+              <source>JAMA</source>
+              <year>1973</year>
+              <volume>224</volume>
+              <fpage>904</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(56 year old woman developed jaundice 41 days after starting methyldopa [bilirubin 15.0 mg/dL, AST 2070 U/L], recovering within 2 months of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">4739696</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.goldstein.1973.177">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Goldstein</surname><given-names>GB</given-names></name>
+<name name-style="western"><surname>Lam</surname><given-names>KC</given-names></name>
+<name name-style="western"><surname>Mistilis</surname><given-names>SP</given-names></name>
+</person-group>
+              <article-title>Drug-induced active chronic hepatitis.</article-title>
+              <source>Am J Dig Dis</source>
+              <year>1973</year>
+              <volume>18</volume>
+              <fpage>177</fpage>
+              <lpage>84</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 21 cases of "active chronic hepatitis" presenting over a 1 year period, 9 were due to oxyphenisatin, 5 to methyldopa and 9 were idiopathic; methyldopa cases were all jaundiced and AST 200-600 U/L, latency averaged 15 months, all responded to corticosteroids; no mention of ANA).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">4688569</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.hoyumpa.1973.213">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hoyumpa</surname><given-names>AM</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Connell</surname><given-names>AM</given-names></name>
+</person-group>
+              <article-title>Methyldopa hepatitis. Report of three cases.</article-title>
+              <source>Am J Dig Dis</source>
+              <year>1973</year>
+              <volume>18</volume>
+              <fpage>213</fpage>
+              <lpage>22</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Three women, ages 50-55 years, developed jaundice and acute hepatitis within 8-10 weeks of starting methyldopa, one case fatal and another protracted; severe recurrence with reexposure).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">4688573</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.rehman.1973.1390">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rehman</surname><given-names>OU</given-names></name>
+<name name-style="western"><surname>Keith</surname><given-names>TA</given-names></name>
+<name name-style="western"><surname>Gall</surname><given-names>EA</given-names></name>
+</person-group>
+              <article-title>Methyldopa-induced submassive hepatic necrosis.</article-title>
+              <source>JAMA</source>
+              <year>1973</year>
+              <volume>224</volume>
+              <fpage>1390</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(51 year old woman developed jaundice 3 months after starting methyldopa with recovery, but fatal recurrence upon reexposure).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">4739987</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.torres_gomez.1973.212">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Torres Gomez</surname><given-names>JM</given-names></name>
+</person-group>
+              <article-title>Intrahepatic cholestasis due to alpha-methyldopa: a case report.</article-title>
+              <source>Bol Asoc Med P R</source>
+              <year>1973</year>
+              <volume>65</volume>
+              <fpage>212</fpage>
+              <lpage>4</lpage>
+              <pub-id pub-id-type="pmid">4531928</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.hoffbrand.1974.559">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hoffbrand</surname><given-names>BI</given-names></name>
+<name name-style="western"><surname>Fry</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Bunton</surname><given-names>GL</given-names></name>
+</person-group>
+              <article-title>Cholestatic jaundice due to methyldopa.</article-title>
+              <source>Br Med J</source>
+              <year>1974</year>
+              <volume>3</volume>
+              <fpage>559</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(51 year old woman developed jaundice and pruritus 2 months after starting methyldopa [bilirubin 11.3 mg/dL, AST and ALk P 2 times ULN, ANA negative], resolving slowly over 3 months after stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">4412424</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.schweitzer.1974.1203">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Schweitzer</surname><given-names>IL</given-names></name>
+<name name-style="western"><surname>Peters</surname><given-names>RL</given-names></name>
+</person-group>
+              <article-title>Acute submassive hepatic necrosis due to methyldopa. A case demonstrating possible initiation of chronic liver disease.</article-title>
+              <source>Gastroenterology</source>
+              <year>1974</year>
+              <volume>66</volume>
+              <fpage>1203</fpage>
+              <lpage>11</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(49 year old woman developed severe acute hepatitis 10 weeks after starting methyldopa [bilirubin 22.1 mg/dL, ALT 1860 U/L, Alk P 3 times ULN], with biopsy findings suggesting chronicity and Coombs and LE prep positivity; positive rechallenge [ALT 500 U/L after 8 days of reexposure] with 2 more biopsies).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">4133500</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.toghill.1974.545">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Toghill</surname><given-names>PJ</given-names></name>
+<name name-style="western"><surname>Smith</surname><given-names>PG</given-names></name>
+<name name-style="western"><surname>Benton</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Brown</surname><given-names>RC</given-names></name>
+<name name-style="western"><surname>Matthews</surname><given-names>HL</given-names></name>
+</person-group>
+              <article-title>Methyldopa liver damage.</article-title>
+              <source>Br Med J</source>
+              <year>1974</year>
+              <volume>3</volume>
+              <fpage>545</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Characterization of 20 cases of methyldopa induced liver injury; latency 2-32 weeks, most &#x0003c;6 weeks, all jaundiced, mostly hepatocellular or mixed, but two cholestatic, resolved with stopping; liver biopsies showing chronic active hepatitis in 2, acute liver failure in 2, cirrhosis in 2; severe recurrences with reexposure).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">4414663</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.toghill.1974.342">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Toghill</surname><given-names>PJ</given-names></name>
+<name name-style="western"><surname>Smith</surname><given-names>PG</given-names></name>
+<name name-style="western"><surname>Benton</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Brown</surname><given-names>RC</given-names></name>
+<name name-style="western"><surname>Matthews</surname><given-names>HL</given-names></name>
+</person-group>
+              <article-title>Proceedings: Liver damage in patients taking methyldopa.</article-title>
+              <source>Gut</source>
+              <year>1974</year>
+              <volume>15</volume>
+              <fpage>342</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Abstract summarizing 20 cases of methyldopa hepatotoxicity described in Toghill [1974]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">4834576</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.maddrey.1975.351">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Maddrey</surname><given-names>WC</given-names></name>
+<name name-style="western"><surname>Boitnott</surname><given-names>JK</given-names></name>
+</person-group>
+              <article-title>Severe hepatitis from methyldopa.</article-title>
+              <source>Gastroenterology</source>
+              <year>1975</year>
+              <volume>68</volume>
+              <fpage>351</fpage>
+              <lpage>360</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(6 cases of methyldopa hepatotoxicity in 2 year period, all women, ages 38-62 years, onset of symptoms in 1-2 weeks, jaundice after 2-6 weeks; bilirubin 11.8-29.4 mg/dL, ALT 122-710 U/L, Alk P &#x0003c; twice ULN; 1 died; 2 had rash).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22550758</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.sataline.1975.775">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sataline</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Lowell</surname><given-names>D</given-names></name>
+</person-group>
+              <article-title>Delayed hepatotoxicity from methyldopa.</article-title>
+              <source>Conn Med</source>
+              <year>1975</year>
+              <volume>39</volume>
+              <fpage>775</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(39 year old man developed acute hepatitis 3 years after starting methyldopa [bilirubin 6.8 mg/dL, AST 180 U/L, Alk P 188 U/L], resolving within 2 months of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1204341</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.bonkowsky.1976.1602">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bonkowsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Brisbane</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Colitis and hepatitis caused by methyldopa.</article-title>
+              <source>JAMA</source>
+              <year>1976</year>
+              <volume>236</volume>
+              <fpage>1602</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(55 year old man developed fever, rash, eosinophilia [11%], and diarrhea within 10 days of starting methyldopa [bilirubin 2.3 mg/dL, AST 150 U/L, Alk P 181 U/L], rapid improvement upon stopping, but immediate recurrence with single dose rechallenge).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">989134</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.miller.1976.2001">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Miller</surname><given-names>AC</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Reid</surname><given-names>WM</given-names></name>
+</person-group>
+              <article-title>Methyldopa-induced granulomatous hepatitis.</article-title>
+              <source>JAMA</source>
+              <year>1976</year>
+              <volume>235</volume>
+              <fpage>2001</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(49 year old woman developed fever, myalgias and nausea within 2 days of starting methyldopa, minimal AST and Alk P elevations; liver biopsy showed granulomas; not so much hepatotoxicity as drug-fever, with systemic granulomas).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">946514</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.rodman.1976.941">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rodman</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>Deutsch</surname><given-names>DJ</given-names></name>
+<name name-style="western"><surname>Gutman</surname><given-names>SI</given-names></name>
+</person-group>
+              <article-title>Methyldopa Hepatitis. A report of six cases and review of the literature.</article-title>
+              <source>Am J Med</source>
+              <year>1976</year>
+              <volume>60</volume>
+              <fpage>941</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Six cases of methyldopa hepatotoxicity, including 4 women and 2 men, 2 fatal, usually hepatocellular with latency of 4-12 weeks, resolution in 4-12 weeks, occasionally with Coombs positivity; review of 77 additional cases from the literature).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">937354</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.thomas.1976.851">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Thomas</surname><given-names>E.</given-names></name>
+</person-group>
+              <article-title>Methyldopa liver injury.</article-title>
+              <source>J Assoc Physicians India</source>
+              <year>1976</year>
+              <volume>24</volume>
+              <fpage>851</fpage>
+              <lpage>3</lpage>
+              <pub-id pub-id-type="pmid">1028823</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.thomas.1976.132">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Thomas</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Bhuta</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Rosenthal</surname><given-names>WS</given-names></name>
+</person-group>
+              <article-title>Methyldopa-induced liver injury. Rapid progression to fatal postnecrotic cirrhosis.</article-title>
+              <source>Arch Pathol Lab Med</source>
+              <year>1976</year>
+              <volume>100</volume>
+              <fpage>132</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(55 year old woman developed severe hepatitis 12 weeks after starting methyldopa [bilirubin 13.9 mg/dL, AST 900 U/L, Alk P 150 U/L], treated with corticosteroids, but developed subacute liver failure and death, not actually cirrhosis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">946400</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.puppala.1977">
+            <mixed-citation publication-type="other">Puppala AR, Steinheber FU. Fulminant hepatic failure associated with methyldopa. Am J Gastroenterol 1977; 68: 578-81. PMID: 77129<annotation><p><italic toggle="yes">(66 year old woman developed acute liver failure after 6 months of intermittent therapy with methyldopa, LE prepation positive, ANA negative).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Methyldopa.REF.sakamaki.1977">
+            <mixed-citation publication-type="other">Sakamaki H, Dan K, Onozawa Y, Adachi Y, Ukishima H. [A case of alpha-methyldopa-induced hemolytic anemia with cholestasis (author's transl)] Rinsho Ketsueki 1977; 18: 821-7. Japanese. PMID: 916211</mixed-citation>
+          </ref>
+          <ref id="Methyldopa.REF.sotaniemi.1977.429">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sotaniemi</surname><given-names>EA</given-names></name>
+<name name-style="western"><surname>Hokkanen</surname><given-names>OT</given-names></name>
+<name name-style="western"><surname>Ahokas</surname><given-names>JT</given-names></name>
+<name name-style="western"><surname>Pelkonen</surname><given-names>RO</given-names></name>
+<name name-style="western"><surname>Ahlqvist</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Hepatic injury and drug metabolism in patients with alpha-methyldopa-induced liver damage.</article-title>
+              <source>Eur J Clin Pharmacol</source>
+              <year>1977</year>
+              <volume>12</volume>
+              <fpage>429</fpage>
+              <lpage>35</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Summary of 36 cases of methyldopa hepatotoxicity, 14 with acute presentation with hepatocellular or mixed injury and jaundice within 1-6 months and 22 with chronic onset, often insidiuous, injury usually mixed and anicteric arising within 12-24 months of starting; 4 cases occurred in one family).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">598417</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.thomas.1977.125">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Thomas</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Rosenthal</surname><given-names>WS</given-names></name>
+<name name-style="western"><surname>Zapiach</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Micci</surname><given-names>D</given-names></name>
+</person-group>
+              <article-title>Spectrum of methyldopa liver injury.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>1977</year>
+              <volume>68</volume>
+              <fpage>125</fpage>
+              <lpage>33</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Seven cases of methyldopa hepatotoxicity with hepatocellular injury and jaundice occurring 6-12 weeks after starting methyldopa, only one with autoantibodies, one fatal, all jaundiced).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">920711</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.furhoff.1978.425">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Furhoff</surname><given-names>AK</given-names></name>
+</person-group>
+              <article-title>Adverse reactions with methyldopa--a decade's reports.</article-title>
+              <source>Acta Med Scand</source>
+              <year>1978</year>
+              <volume>203</volume>
+              <fpage>425</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Summary of 75 Swedish adverse event reports on methyldopa between 1966-75; fever in 166 [latency usually &#x0003c;3 weeks], hemolysis 67 [2 months to years], liver injury 29 [1 month to years], allergic reactions 23, gastrointestinal 17, psychiatric 13, other 27; those with fever often had mild ALT elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">149490</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.hokkanen.1978.173">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hokkanen</surname><given-names>OT</given-names></name>
+<name name-style="western"><surname>Sotaniemi</surname><given-names>EA</given-names></name>
+</person-group>
+              <article-title>Liver injury and multiple drug therapy.</article-title>
+              <source>Arch Toxicol Suppl</source>
+              <year>1978</year>
+              <issue>1</issue>
+              <fpage>173</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Description of 100 cases of drug induced liver injury presenting over 10 year period to one Finnish center; 36 due to sulphonamides, 16 nitrofurantoin, 20 contraceptives, 10 methyldopa [10%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">277098</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.delpre.1979">
+            <mixed-citation publication-type="other">Delpre G, Grinblat J, Kadish U, Livni E, Shoha B. Case report. Immunological studies in a case of hepatitis following methyldopa administration. Am J Med Sci 1979; 277: 207-13. PMID: 37733<annotation><p><italic toggle="yes">(55 year old woman developed acute hepatitis 7 days after starting methyldopa [bilirubin 6.8 mg/dL, AST 858 U/L, Alk P 214 U/L], with concurrent autoantibodies, ANA disappeared after stopping but SMA remained present; extensive immunologic tests also performed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Methyldopa.REF.seggie.1979.75">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Seggie</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Saunders</surname><given-names>SJ</given-names></name>
+<name name-style="western"><surname>Kirsch</surname><given-names>RE</given-names></name>
+<name name-style="western"><surname>Campbell</surname><given-names>JAH</given-names></name>
+<name name-style="western"><surname>Gitlin</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Clain</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Terblanche</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Patterns of hepatic injury induced by methyldopa.</article-title>
+              <source>S Afr Med J</source>
+              <year>1979</year>
+              <volume>55</volume>
+              <fpage>75</fpage>
+              <lpage>83</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(12 patients with methyldopa hepatotoxicity, 9 with acute hepatocellular disease and jaundice with onset in 1-9 weeks, of whom 2 died; 3 patients developed chronic disease arising after 1-7 years of therapy accompanied by mild jaundice and ALT elevations, one not fully resolving by 8 months after stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">424937</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.shashaty.1979.364">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Shashaty</surname><given-names>GG</given-names></name>
+</person-group>
+              <article-title>Cryptogenic cirrhosis associated with methyldopa.</article-title>
+              <source>South Med J</source>
+              <year>1979</year>
+              <volume>72</volume>
+              <fpage>364</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(55 year old woman presented with ascites and cryptogenic cirrhosis having been on methyldopa for 5 years, with normal ALT, AST and bilirubin; Coombs positive).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">424836</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.beaugrand.1980">
+            <mixed-citation publication-type="other">Beaugrand M, Gavillon C, Ferrier JP. [High levels of endoplasmic reticulum antibody titer in a case of alpha-methyldopa-induced chronic active hepatitis (author's transl)] Gastroenterol Clin Biol 1980; 4: 219-21. French. PMID: 7380145</mixed-citation>
+          </ref>
+          <ref id="Methyldopa.REF.arranto.1981.853">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Arranto</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Sotaniemi</surname><given-names>EA</given-names></name>
+</person-group>
+              <article-title>Morphologic alterations in patients with alpha-methyldopa-induced liver damage after short- and long-term exposure.</article-title>
+              <source>Scand J Gastroenterol</source>
+              <year>1981</year>
+              <volume>16</volume>
+              <fpage>853</fpage>
+              <lpage>63</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Comparison of 7 patients with acute icteric hepatitis after short term [3-6 months] and 24 with chronic usually anicteric hepatitis after long term [3-11 years] methyldopa; histology showed fat and some fibrosis in chronic cases, but also showed chronic hepatitis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7323715</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.arranto.1981.865">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Arranto</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Sotaniemi</surname><given-names>EA</given-names></name>
+</person-group>
+              <article-title>Histologic follow-up of alpha-methyldopa-induced liver injury.</article-title>
+              <source>Scand J Gastroenterol</source>
+              <year>1981</year>
+              <volume>16</volume>
+              <fpage>865</fpage>
+              <lpage>72</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Follow up liver biopsies in 6 patients with chronic methyldopa injury, 7-24 months later; resolution of enzyme elevations and clinical improvement occurred, but liver biopsies showed persistence of of fat and fibrosis, one patient developed cirrhosis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7323716</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.bal_zs.1981.199">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bal&#x000e1;zs</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kov&#x000e1;ch</surname><given-names>G</given-names></name>
+</person-group>
+              <article-title>Chronic aggressive hepatitis after methyldopa treatment. Case report with electron-microscopic study.</article-title>
+              <source>Hepatogastroenterology</source>
+              <year>1981</year>
+              <volume>28</volume>
+              <fpage>199</fpage>
+              <lpage>202</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(52 year old woman developed liver injury 4 months after starting methyldopa, which resolved rapidly upon stopping and recurred within 3 weeks of reexposure [bilirubin 0.9 mg/dL, ALT 354 U/L, Alk P 2 times ULN]; biopsy suggested chronic active hepatitis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7274982</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.bezahler.1982.41">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bezahler</surname><given-names>GH</given-names></name>
+</person-group>
+              <article-title>Fatal methyldopa-associated granulomatous hepatitis and myocarditis.</article-title>
+              <source>Am J Med Sci</source>
+              <year>1982</year>
+              <volume>283</volume>
+              <fpage>41</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(78 year old woman developed drug fever after years of methyldopa therapy, sudden death and autopsy showed granulomatous myocarditis, many granulomas in liver and elsewhere, minimal ALT elevation and no jaundice, indicative of drug fever with systemic granulomas).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7055158</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.breland.1982.489">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Breland</surname><given-names>BD</given-names></name>
+<name name-style="western"><surname>Hicks</surname><given-names>GS</given-names><suffix>Jr</suffix></name>
+</person-group>
+              <article-title>Hepatitis and hemolytic anemia associated with methyldopa therapy.</article-title>
+              <source>Drug Intell Clin Pharm</source>
+              <year>1982</year>
+              <volume>16</volume>
+              <fpage>489</fpage>
+              <lpage>92</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(56 year old man presented with jaundice after 7 years of methyldopa therapy [bilirubin 41 mg/dL, AST 105 U/L, Alk P 122 U/L, ANA negative, Coombs positive]; liver biopsy showed cirrhosis with slow and incomplete recovery and associated hemolytic anemia that resolved more rapidly upon stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7094845</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.dossing.1982.205">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dossing</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Andreasen</surname><given-names>PB</given-names></name>
+</person-group>
+              <article-title>Drug-induced liver disease in Denmark. An analysis of 572 cases of hepatotoxicity reported to the Danish Board of Adverse Reactions to Drugs.</article-title>
+              <source>Scand J Gastroenterol</source>
+              <year>1982</year>
+              <volume>17</volume>
+              <fpage>205</fpage>
+              <lpage>11</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of 572 Danish cases of drug induced liver injury between 1968-78, methyldopa accounted for 11 cases, 8 with acute and 3 with chronic presentations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">6982502</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.seeverens.1982.233">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Seeverens</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>de Bruin</surname><given-names>CD</given-names></name>
+<name name-style="western"><surname>Jordans</surname><given-names>JG</given-names></name>
+</person-group>
+              <article-title>Myocarditis and methyldopa.</article-title>
+              <source>Acta Med Scand</source>
+              <year>1982</year>
+              <volume>211</volume>
+              <fpage>233</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Autopsy series of 6 patients who died suddenly due to granulomatous myocarditis while receiving methyldopa [for 16 days to 3 years], most also had granulomas in liver or chronic hepatitis; no clinical information).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7080870</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.orozco_l_pez.1983">
+            <mixed-citation publication-type="other">Orozco L&#x000f3;pez P, Rom&#x000e1;&#x000a1;n Mart&#x000ed;nez J, Sorribes Puelles R, Trilla Soler M, Pujol Fern&#x000e1;ndez C. [Carbamazepine and methyldopa: a hepatotoxic combination?] Med Clin (Barc) 1983; 81: 40-1. Spanish. PMID: 6888059</mixed-citation>
+          </ref>
+          <ref id="Methyldopa.REF.shalev.1983.592">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Shalev</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Mosseri</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ariel</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Stalnikowicz</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Methyldopa-induced immune hemolytic anemia and chronic active hepatitis.</article-title>
+              <source>Arch Intern Med</source>
+              <year>1983</year>
+              <volume>143</volume>
+              <fpage>592</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(76 year old man developed mild hepatitis [bilirubin 2.1 mg/dL, ALT 205 U/L] and hemolytic anemia after 3 years of methyldopa therapy [Coombs positive, SMA positive]; delayed recovery on stopping methyldopa, but rapid response to prednisone and no recurrence upon withdrawal).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">6830396</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.neuberger.1985.1233">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Neuberger</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Kenna</surname><given-names>JG</given-names></name>
+<name name-style="western"><surname>Nouri Aria</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Williams</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Antibody mediated hepatocyte injury in methyl dopa induced hepatotoxicity.</article-title>
+              <source>Gut</source>
+              <year>1985</year>
+              <volume>26</volume>
+              <fpage>1233</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(9 cases of methyldopa hepatotoxicity; 5 with acute liver failure, 3 acute self-limited hepatitis, 1 chronic active hepatitis arising 7 weeks to 3 years after starting methyldopa; 5 had antibody mediated cytotoxicity to rabbit hepatocytes exposed to methyldopa and a microsomal enzyme inducer).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3905530</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.otsuka.1985">
+            <mixed-citation publication-type="other">Otsuka M, Fujimura M, Koshino T, Ueda M, Otake S, Funada H, Harada M, et al. [A case of autoimmune hemolytic anemia, interstitial pneumonia and liver injury occurred during one month's medication of small dose of alpha-methyldopa] Rinsho Ketsueki 1985; 26: 1647-53. Japanese. PMID: 4094082</mixed-citation>
+          </ref>
+          <ref id="Methyldopa.REF.sakurai.1985">
+            <mixed-citation publication-type="other">Sakurai S, Yamada S, Nagamine T, Takezawa J, Ichikawa K, Arai T, Takagi H, et al. [A male case of methyldopa-induced liver injury with positive lupus cell preparation] Nippon Shokakibyo Gakkai Zasshi 1985; 82: 2134-8. Japanese. PMID: 2419608</mixed-citation>
+          </ref>
+          <ref id="Methyldopa.REF.minakami.1986">
+            <mixed-citation publication-type="other">Minakami H, Ohkusa T, Kimura K, Tamada T, Hirota N. [Hepatic injury caused by methyldopa in a pre-eclamptic patient] Nippon Sanka Fujinka Gakkai Zasshi 1986; 38: 139-42. Japanese. PMID: 3950462</mixed-citation>
+          </ref>
+          <ref id="Methyldopa.REF.rao.1986.720">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rao</surname><given-names>KV</given-names></name>
+</person-group>
+              <article-title>Cholestatic jaundice associated with methyldopa.</article-title>
+              <source>Minn Med</source>
+              <year>1986</year>
+              <volume>69</volume>
+              <fpage>720</fpage>
+              <lpage>1</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(40 year old man with probable alcoholic liver disease developed jaundice and cholestatic pattern of enzymes 2-3 months after restarting methyldopa [bilirubin 17.5 mg/dL, AST 60 U/L, Alk P 5 times ULN], resolving rapidly upon stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3807865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.stanley.1986.603">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Stanley</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Mijch</surname><given-names>A.</given-names></name>
+</person-group>
+              <article-title>Methyldopa: an often overlooked cause of fever and transient hepatocellular dysfunction.</article-title>
+              <source>Med J Aust</source>
+              <year>1986</year>
+              <volume>144</volume>
+              <fpage>603</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Summary of 78 cases of methyldopa induced fever, onset in 5-35 days, no rash or eosinophilia, often have mild ALT elevations [~61%], occasionally hepatitis with jaundice [18%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3713591</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.olmos.1987">
+            <mixed-citation publication-type="other">Olmos M, Guma C, Colombato LO, Lami G, Miyashiro R, Alvarez E. [Hepatic lesions induced by drugs. Report of 26 cases] Acta Gastroenterol Latinoam 1987; 17: 105-11. Spanish. PMID: 3442185</mixed-citation>
+          </ref>
+          <ref id="Methyldopa.REF.lee.1989.75">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lee</surname><given-names>WM</given-names></name>
+<name name-style="western"><surname>Denton</surname><given-names>WT</given-names></name>
+</person-group>
+              <article-title>Chronic hepatitis and indolent cirrhosis due to methyldopa: the bottom of the iceberg?</article-title>
+              <source>J S C Med Assoc</source>
+              <year>1989</year>
+              <volume>85</volume>
+              <fpage>75</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 15 cases of drug induced liver disease seen over a 2.5 year period, 6 were were due to methyldopa, including 2 with an acute [bilirubin 11-13 mg/dL, AST 500-1700 U/L, Alk P 247-345 U/L] and 4 a chronic presentation [bilirubin 0.3-3.1 mg/dL, AST 39-545 U/L, Alk P 121-280 U/L], all with SMA positivity, 3 presenting with cirrhosis [on methyldopa for 4-9 years]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2918709</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.lee.1989.367">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lee</surname><given-names>MG</given-names></name>
+<name name-style="western"><surname>Hanchard</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Williams</surname><given-names>NP</given-names></name>
+</person-group>
+              <article-title>Drug-induced acute liver disease.</article-title>
+              <source>Postgrad Med J</source>
+              <year>1989</year>
+              <volume>65</volume>
+              <fpage>367</fpage>
+              <lpage>70</lpage>
+              <pub-id pub-id-type="pmid">2608576</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.moses.1989.57">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Moses</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Zahger</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Amir</surname><given-names>G</given-names></name>
+</person-group>
+              <article-title>Cholestatic liver injury after prolonged exposure to methyldopa.</article-title>
+              <source>Digestion</source>
+              <year>1989</year>
+              <volume>42</volume>
+              <fpage>57</fpage>
+              <lpage>60</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(75 year old man developed jaundice having been on methyldopa for 6 years [bilirubin 26.3 mg/dL, ALT 960 U/L, Alk P 1120 U/L], resolving within 5 months of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2744247</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.picaud.1990">
+            <mixed-citation publication-type="other">Picaud A, Walter P, de Pr&#x000e9;ville G, Nicolas P. [Fatal toxic hepatitis in pregnancy. A discussion of the role of methyldopa] J Gynecol Obstet Biol Reprod (Paris) 1990; 19: 192-6. French. PMID: 2324442</mixed-citation>
+          </ref>
+          <ref id="Methyldopa.REF.mirada_canals.1991.1269">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mirada Canals</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Monteagudo Jimenez</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Sole Villa</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Rodriguez Moreno</surname><given-names>C.</given-names></name>
+</person-group>
+              <article-title>Methyldopa-induced granulomatous hepatitis.</article-title>
+              <source>DICP</source>
+              <year>1991</year>
+              <volume>25</volume>
+              <fpage>1269</fpage>
+              <lpage>70</lpage>
+              <pub-id pub-id-type="pmid">1763547</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.friis.1992.133">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Friis</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Andreasen</surname><given-names>PB</given-names></name>
+</person-group>
+              <article-title>Drug-induced hepatic injury: an analysis of 1100 cases reported to the Danish Committee on Adverse Drug Reactions between 1978 and 1987.</article-title>
+              <source>J Intern Med</source>
+              <year>1992</year>
+              <volume>232</volume>
+              <fpage>133</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1100 liver adverse event reports in Denmark, methyldopa accounted for 13, ranking 17th).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1506809</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.daghfous.1994">
+            <mixed-citation publication-type="other">Daghfous R, el Aidli S, Loueslati MH, Sakka T, Takhal M, Ben Mami N, Ben Khelifa H, et al. [Methyldopa-induced hepatitis: 3 case reports] Tunis Med 1994; 72: 47-50. French. PMID: 8203031</mixed-citation>
+          </ref>
+          <ref id="Methyldopa.REF.smith.1995.222">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Smith</surname><given-names>GN</given-names></name>
+<name name-style="western"><surname>Piercy</surname><given-names>WN</given-names></name>
+</person-group>
+              <article-title>Methyldopa hepatotoxicity in pregnancy: a case report.</article-title>
+              <source>Am J Obstet Gynecol</source>
+              <year>1995</year>
+              <volume>172</volume>
+              <fpage>222</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(30 year old woman developed jaundice 3 weeks after starting methyldopa during pregnancy [bilirubin 6.6 mg/dL, ALT 2415 U/L], with slow recovery and then recurrence with reexposure).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7847544</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.pillans.1996.315">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Pillans</surname><given-names>PI</given-names></name>
+</person-group>
+              <article-title>Drug associated hepatic reactions in New Zealand: 21 years experience.</article-title>
+              <source>N Z Med J</source>
+              <year>1996</year>
+              <volume>109</volume>
+              <fpage>315</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Adverse event reporting over 20 year period from New Zealand identified 943 liver injuries from medications; top 10 drugs included methyldopa [n=38], which decreased in ranking from 3rd [before 1980] to 4th [1980-87] to &#x0003c;20th [1988-94]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8816722</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.lammert.1997">
+            <mixed-citation publication-type="other">Lammert F, Matern S. [Hepatic diseases caused by drugs] Schweiz Rundsch Med Prax 1997; 86: 1167-71. German. PMID: 9333916</mixed-citation>
+          </ref>
+          <ref id="Methyldopa.REF.thomas.1997.658">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Thomas</surname><given-names>LA</given-names></name>
+<name name-style="western"><surname>Cardwell</surname><given-names>MS</given-names></name>
+</person-group>
+              <article-title>Acute reactive hepatitis in pregnancy induced by alpha-methyldopa.</article-title>
+              <source>Obstet Gynecol</source>
+              <year>1997</year>
+              <volume>90</volume>
+              <fpage>658</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(37 year old woman developed jaundice with hepatocellular pattern of enzymes 9 weeks after starting methyldopa therapy during pregnancy [bilirubin 13.9 mg/dL, ALT 898 U/L, Alk P 95 U/L], resolving within 4 weeks of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11770583</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.follmann.2000.417">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Follmann</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Heinemann</surname><given-names>LA</given-names></name>
+<name name-style="western"><surname>Bauerfeind</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Garbe</surname><given-names>E</given-names></name>
+</person-group>
+              <article-title>Treatment with potentially hepatotoxic drugs and the risk of hepatocellular carcinoma: results of a european case - control study.</article-title>
+              <source>Pharmacoepidemiol Drug Saf</source>
+              <year>2000</year>
+              <volume>9</volume>
+              <fpage>417</fpage>
+              <lpage>22</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Case control study of 317 cases of hepatocellular carcinoma found no association of cancer with taking medications including methyldopa).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19025848</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.andrade.2005.512">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Andrade</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Lucena</surname><given-names>MI</given-names></name>
+<name name-style="western"><surname>Fern&#x000e1;ndez</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Pelaez</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Pachkoria</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Garcia-Ruiz</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Garcia-Munoz</surname><given-names>B</given-names></name>
+<etal/>
+<collab>Spanish Group for the Study of Drug-Induced Liver Disease</collab>
+</person-group>
+              <article-title>Drug-induced liver injury: an analysis of 461 incidences submitted to the Spanish registry over a 10-year period.</article-title>
+              <source>Gastroenterology</source>
+              <year>2005</year>
+              <volume>129</volume>
+              <fpage>512</fpage>
+              <lpage>21</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Reports to a Spanish network identified 570 cases of drug induced liver disease between 1994-2005, methyldopa not mentioned).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16083708</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.bj_rnsson.2005.1095">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Jerlstad</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Bergqvist</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Olsson</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Fulminant drug-induced hepatic failure leading to death or liver transplantation in Sweden.</article-title>
+              <source>Scand J Gastroenterol</source>
+              <year>2005</year>
+              <volume>40</volume>
+              <fpage>1095</fpage>
+              <lpage>101</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Survey of all cases of drug induced liver injury with fatal outcome from Swedish Adverse Drug Reporting system from 1966-2002; 103 cases identified, but only one was attributed to methyldopa).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16165719</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.fern_ndezmarcote_menor.2005">
+            <mixed-citation publication-type="other">Fern&#x000e1;ndez-Marcote Menor EM, P&#x000e9;rez-Bedmar Delgado J. [Methyldopa-induced acute toxic hepatitis] Rev Esp Enferm Dig 2005; 97: 840-1. Spanish. PMID: 16438629<annotation><p><italic toggle="yes">(43 year old woman was given methyldopa during pregnancy and developed jaundice when she continued it afterwards [bilirubin 11 mg/dL, ALT 1904 U/L, ANA positive], resolving within 6 weeks of stopping).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Methyldopa.REF.phadnis.2006.256">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Phadnis</surname><given-names>SV</given-names></name>
+<name name-style="western"><surname>Sangay</surname><given-names>MR</given-names></name>
+<name name-style="western"><surname>Sanusi</surname><given-names>FA</given-names></name>
+</person-group>
+              <article-title>Alpha-methyldopa-induced acute hepatitis in pregnancy.</article-title>
+              <source>Aust N Z J Obstet Gynaecol</source>
+              <year>2006</year>
+              <volume>46</volume>
+              <fpage>256</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(40 year old woman developed fatigue within 2 weeks and jaundice within 4 weeks of starting methyldopa during pregnancy [bilirubin 2.0-5.4 mg/dL, ALT 2511 U/L, Alk P 216 U/L, ANA 1:180], resolving within 6 weeks of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16704485</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.podymow.2007.178">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Podymow</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>August</surname><given-names>P.</given-names></name>
+</person-group>
+              <article-title>Hypertension in pregnancy.</article-title>
+              <source>Adv Chronic Kidney Dis</source>
+              <year>2007</year>
+              <volume>14</volume>
+              <fpage>178</fpage>
+              <lpage>90</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Guidelines to therapy of hypertension during pregnancy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17395120</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.abalos.2007.cd002252">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Abalos</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Duley</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Steyn</surname><given-names>DW</given-names></name>
+<name name-style="western"><surname>Henderson-Smart</surname><given-names>DJ</given-names></name>
+</person-group>
+              <article-title>Antihypertensive drug therapy for mild to moderate hypertension during pregnancy.</article-title>
+              <source>Cochrane Database Syst Rev.</source>
+              <year>2007</year>
+              <issue>1</issue>
+              <elocation-id>CD002252</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Treatment of mild-to-moderate hypertension during pregnancy has little effect on outcomes; beta blockers are more effective than methyldopa in reducing blood pressure).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17253478</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.yusuff.2008.163">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Yusuff</surname><given-names>KB</given-names></name>
+<name name-style="western"><surname>Ajayi</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Joseph</surname><given-names>YB</given-names></name>
+</person-group>
+              <article-title>Laboratory monitoring of hematological and hepatic parameters in ambulatory patients receiving alpha-methyldopa in a Nigerian tertiary care setting.</article-title>
+              <source>Curr Drug Saf</source>
+              <year>2008</year>
+              <volume>3</volume>
+              <fpage>163</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Retrospective chart review of whether ALT and AST monitoring was done in 260 patients given methyldopa; found no testing performed during first 6-12 weeks of therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18690994</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Davern</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Serrano</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rochon</surname><given-names>J</given-names></name>
+<collab>Drug Induced Liver Injury Network (DILIN)</collab>
+</person-group>
+              <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, 5 cases were attributed to methyldopa).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.ali.2009.125">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ali</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Srinivasan</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Le</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Rizvi</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Alpha-methyldopa hepatotoxicity in pregnancy.</article-title>
+              <source>J Coll Physicians Surg Pak</source>
+              <year>2009</year>
+              <volume>19</volume>
+              <fpage>125</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(33 year old woman developed jaundice 6 weeks after starting methyldopa during pregnancy [bilirubin 19.9 mg/dL, ALT 1303 U/L, Alk P 134 U/L, ANA negative], resolving rapidly with prednisone treatment).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19208320</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Reuben</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Koch</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>WM</given-names></name>
+<collab>Acute Liver Failure Study Group</collab>
+</person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury including 2 due to methyldopa).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.bj_rnsson.2010.2040">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Treeprasertsuk</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Kamath</surname><given-names>PS</given-names></name>
+<name name-style="western"><surname>Takahashi</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Sanderson</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Neuhauser</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Lindor</surname><given-names>K</given-names></name>
+</person-group>
+              <article-title>Drug-induced autoimmune hepatitis: clinical characteristics and prognosis.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>51</volume>
+              <fpage>2040</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Retrospective analysis of 261 cases of autoimmune hepatitis, 24 [9%] of which were due to a medication; 11 nitrofurantoin and 11 minocylcine, but none due to methyldopa; drug induced cases resembled idiopathic cases in all regards except in ability to stop corticosteroids without relapse).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20512992</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.ozsv_r.2010">
+            <mixed-citation publication-type="other">Ozsv&#x000e1;r Z, Solymossi Z, Monostory K. [Methyldopa-induced acute reactive hepatitis in pregnancy, drug-metabolizing capacity of the liver]. Orv Hetil 2010; 151: 457-61. Hungarian. PMID: 20211808<annotation><p><italic toggle="yes">(A 35 year old pregnant woman developed hepatitis at gestational week 23 [bilirubin 6.1 mg/dL, ALT 1190 U/L, Alk P 266 U/L, ANA negative], resolving rapidly on stopping methyldopa therapy).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Methyldopa.REF.ozaslan.2011.370">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ozaslan</surname><given-names>E.</given-names></name>
+</person-group>
+              <article-title>Drug-induced autoimmune hepatitis: an easily reversible type of liver fibrosis?</article-title>
+              <source>Hepatology.</source>
+              <year>2011</year>
+              <volume>53</volume>
+              <fpage>370</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Letter in response to Bj&#x000f6;rnsson [2010] discussing the reversibility of early fibrosis in cases of drug induced autoimmune hepatitis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20848612</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.slim.2010.361">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Slim</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Ben Salem</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Hmouda</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Bouraoui</surname><given-names>K</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity of alpha-methyldopa in pregnancy.</article-title>
+              <source>J Clin Pharm Ther</source>
+              <year>2010</year>
+              <volume>35</volume>
+              <fpage>361</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(A 34 year old woman developed jaundice and pruritus 4 weeks after starting methyldopa during pregnancy [bilirubin 9.4 mg/dL, ALT 685 U/L, Alk P 301 U/L], resolving within 10 weeks of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20831537</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.czaja.2011.958">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Czaja</surname><given-names>AJ</given-names></name>
+</person-group>
+              <article-title>Drug-induced autoimmune-like hepatitis.</article-title>
+              <source>Dig Dis Sci</source>
+              <year>2011</year>
+              <volume>56</volume>
+              <fpage>958</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of drug induced autoimmune hepatitis, the principal causes being minocycline and nitrofurantoin; other causes were methyldopa, hydralazine, statins, fibrates, diclofenac, anti-TNF agents, interferons, propylthiouracil, and isoniazid).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21327704</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Bergmann</surname><given-names>OM</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Kvaran</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Olafsson</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period none of which were attributed to methyldopa or other antihypertensive medications).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.delemos.2014.194">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>deLemos</surname><given-names>AS</given-names></name>
+<name name-style="western"><surname>Foureau</surname><given-names>DM</given-names></name>
+<name name-style="western"><surname>Jacobs</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Ahrens</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Russo</surname><given-names>MW</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+</person-group>
+              <article-title>Drug-induced liver injury with autoimmune features.</article-title>
+              <source>Semin Liver Dis</source>
+              <year>2014</year>
+              <volume>34</volume>
+              <fpage>194</fpage>
+              <lpage>204</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of autoimmune drug induced liver injury which provides an example in a 39 year old African American woman treated with methyldopa shortly after pregnancy who developed jaundice 1 month later [bilirubin 19.9 mg/dL, ALT 1869 U/L, Alk P 205 U/L, ANA positive], resolving spontaneously within 6 months of stopping methyldopa).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24879983</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.kashkooli.2014.bcr2014203712">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kashkooli</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Baraty</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Kalantar</surname><given-names>J.</given-names></name>
+</person-group>
+              <article-title>&#x003b1;-Methyldopa-induced hepatitis during the postpartum period.</article-title>
+              <source>BMJ Case Rep</source>
+              <year>2014</year>
+              <volume>2014</volume>
+              <comment>pii</comment>
+              <elocation-id>bcr2014203712</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(A 34 year old woman developed hepatitis two months after delivery and while on methyldopa [bilirubin 18.8 mg/dL, ALT 1018 U/L, Alk P 275 U/L, INR 1.2 rising to 1.7, ANA positive], resolving within 2 months of stopping drug).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24577181</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hern&#x000e1;ndez</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bessone</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>di Pace</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Brahm</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zapata</surname><given-names>R, A</given-names></name>
+<name name-style="western"><surname>Chirino</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America: an analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 176 reports of drug induced liver injury from Latin America published between 1996 and 2012, 2 were attributed to methyldopa, one of which was fatal).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.chalasani.2015">
+            <mixed-citation publication-type="other">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. e7. PMID: 25754159<annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 39 [4%] were attributed to antihypertensive drugs including 11 to methyldopa).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Methyldopa.REF.koizumi.2015">
+            <mixed-citation publication-type="other">Koizumi T, Furuya K, Baba M, Sadaoka K, Sekiya C, Hattori A, Goto R, et al. [Case Report; A case of subacute fulminant hepatitis induced by methyldopa]. Nihon Naika Gakkai Zasshi 2015; 104: 586-9. Japanese. PMID: 26571747<annotation><p><italic toggle="yes">(A 40 year old woman developed severe hepatitis while receiving methyldopa [bilirubin 18.4 mg/dL, ALT 1685 U/L, Alk P 833 U/L, INR 2.17, ANA positive], with progressive hepatic failure and death).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Methyldopa.REF.firoz.2015.190">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Firoz</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Webber</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Rowe</surname><given-names>H</given-names></name>
+</person-group>
+              <article-title>Drug-induced fulminant hepatic failure in pregnancy.</article-title>
+              <source>Obstet Med</source>
+              <year>2015</year>
+              <volume>8</volume>
+              <fpage>190</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(A 39 year old pregnant woman developed jaundice 8 weeks after starting labetalol and 4 weeks after methyldopa [bilirubin 17.8 mg/dL, ALT 1406 U/L, Alk P 159 U/L, INR 3.1, ANA positive], resolving rapidly after stopping both medications and a complicated delivery).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27512479</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.stine.2016.1291">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Stine</surname><given-names>JG</given-names></name>
+<name name-style="western"><surname>Northup</surname><given-names>PG</given-names></name>
+</person-group>
+              <article-title>Autoimmune-like drug-induced liver injury: a review and update for the clinician.</article-title>
+              <source>Expert Opin Drug Metab Toxicol</source>
+              <year>2016</year>
+              <volume>12</volume>
+              <fpage>1291</fpage>
+              <lpage>301</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of drug induced liver injury with autoimmune features discusses methyldopa as a frequent cause).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27402321</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.chalasani.2017.1382">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KRK</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Barnhart</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Gu</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Hayashi</surname><given-names>PH</given-names></name>
+<name name-style="western"><surname>Ahmad</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Idiosyncratic drug induced liver injury in African-Americans is associated with greater morbidity and mortality compared to Caucasians.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>2017</year>
+              <volume>112</volume>
+              <fpage>1382</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 985 patients with drug-induced liver injury enrolled in a prospective US database between 2004 and 2016, methyldopa accounted for 4% of cases among 144 African Americans compared to &#x0003c;1% of 841 caucasians, and disease severity and worse outcomes were more frequent in African American subjects both overall and for methyldopa).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28762375</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Methyldopa.REF.de_boer.2017.103">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>de Boer</surname><given-names>YS</given-names></name>
+<name name-style="western"><surname>Kosinski</surname><given-names>AS</given-names></name>
+<name name-style="western"><surname>Urban</surname><given-names>TJ</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Long</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Kleiner</surname><given-names>DE</given-names></name>
+<name name-style="western"><surname>Hoofnagle</surname><given-names>JH</given-names></name>
+<collab>Drug-Induced Liver&#x000a0;Injury&#x000a0;Network</collab>
+</person-group>
+              <article-title>Features of autoimmune hepatitis in patients with drug-induced liver injury.</article-title>
+              <source>Clin Gastroenterol Hepatol</source>
+              <year>2017</year>
+              <volume>15</volume>
+              <fpage>103</fpage>
+              <lpage>12.e2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of 88 cases of liver injury due to medications known to induce autoimmune markers [including methyldopa, hydralazine, nitrofurantoin and minocycline] found that clinical features were similar in those with and those without an autoimmune phenotype and that HLA Class I and II alleles associated with spontaneous autoimmune hepatitis were not increased among patients with drug induced autoimmune liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27311619</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Methyldopa.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=methyldopa/AE+AND+Human%5BMH%5D+AND+(%20drug-induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%222009/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Methyldopa: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=methyldopa">Trials on Methyldopa: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

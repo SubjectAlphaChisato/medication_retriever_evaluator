@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Nimesulide" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Nimesulide</book-part-id>
+      <title-group>
+        <title>Nimesulide</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>1</day>
+          <month>3</month>
+          <year>2016</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Nilutamide" document-type="chapter">Nilutamide</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Nimodipine" document-type="chapter">Nimodipine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Nimesulide.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Nimesulide.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Nimesulide is a nonsteroidal antiinflammatory drug (NSAID) with relative specificity for COX-2 that is not available in the United States, but is used widely in other countries in the treatment of acute pain. Nimesulide has been linked to a low rate of transient serum enzyme elevations during therapy, but also to many instances of clinically apparent acute liver injury that can be severe and can result in acute liver failure, need for emergency liver transplantation and death.</p>
+        </sec>
+        <sec id="Nimesulide.Background">
+          <title>Background</title>
+          <p>Nimesulide (ni mes' sul ide) is a unique NSAID that has a basic sulfonanilide structure. Like other NSAIDs, nimesulide inhibits the enzyme cyclo-oxygenase (COX), thereby blocking the formation of prostaglandins that are important in pain and inflammatory pathways. Unlike most conventional NSAIDs, however, nimesulide has a relative specificity for COX-2 activity, the form that is most closely related to pain pathways as opposed to COX-1, which has major effects of gastric mucosa cell protection and platelet function. Nimesulide has analgesic as well as antipyretic and antiinflammatory activities mediated by COX-2 actions, but has relatively scant effect on platelet function or loss of gastric cytoprotection which is associated with COX-1 activity. Nimesulide has a rapid onset of action and has other activities besides its effects of cyclo-oxygenases that may be important in its antiinflammatory and analgesic actions. Nimesulide was never marketed in the United States, but has been widely used in many countries of the world since its introduction in the 1990s. Current indications vary by country, but are generally limited to mild-to-moderate acute pain for which the recommended dose in adults is 100 mg twice daily for no more than 15 days. Chronic therapy is not generally recommended, and nimesulide is considered contraindicated in children. Nimesulide is available by prescription in the form of capsules or granules for oral suspension of 100 mg and as suppositories of 200 mg in both generic and trade formulations (Sulide, Nimside and others). Nimesulide is generally well tolerated, but side effects can include headache, dizziness, somnolence, gastrointestinal upset, nausea, abdominal discomfort, diarrhea, peripheral edema and hypersensitivity reactions.</p>
+        </sec>
+        <sec id="Nimesulide.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Prospective studies show that up to 15% of patients taking NSAIDs experience at least transient serum aminotransferase elevations. A lower rate has been reported with nimesulide. These elevations are generally transient, mild and asymptomatic, and may resolve even with drug continuation. Marked aminotransferase elevations (&#x0003e;3 fold elevated) occur in &#x0003c;1% of patients. Nevertheless, nimesulide has been repeatedly linked to cases of clinically apparent liver injury with jaundice, with more than 100 cases described in the world's literature. The time to onset has ranged from a few days to 6 months, the usual latency being 4 weeks. The pattern of enzyme elevations is typically hepatocellular, although cholestatic forms have been described as well. Immunoallergic features are usually absent and, when present, are not prominent. Autoimmune features are rare. Most cases resolve beginning a few days after stopping therapy. However, multiple instances of acute liver failure with death or need for emergency liver transplantation have been described (Case 1). The mortality rate of nimesulide associated acute hepatitis with jaundice is between 10% and 20%. The overall frequency of nimesulide hepatotoxicity is not known, but it is usually mentioned in large case series on drug induced liver injury and acute liver failure, and a reasonable estimation is one in 50,000 users. Liver injury may be less common when the duration of therapy is limited to 15 days; however, severe cases of nimesulide liver injury have been reported after courses of therapy as short as 3 to 5 days.</p>
+          <p>Likelihood score: A (well established cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Nimesulide.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of nimesulide hepatotoxicity is not known, but likely to be due to an idiosyncratic reaction to an intermediate of its metabolism. Nimesulide is extensively metabolized by the liver.</p>
+        </sec>
+        <sec id="Nimesulide.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Severity ranges from asymptomatic elevations in serum aminotransferase levels to symptomatic hepatitis with or without jaundice. Several cases of fulminant hepatitis attributed to nimesulide have been reported, and the overall mortality rate among jaundiced cases is between 10% and 20%. Recurrence upon rechallenge with nimesulide has been reported and should be avoided. There is no evidence for cross sensitivity to liver injury between nimesulide and other conventional NSAIDs, such as ibuprofen, naproxen or diclofenac. Because of the sulfonanilide structure of nimesulide, use of sulfonamides or other agents with a sulfonamide related structure (celecoxib, zonisamide) after clinically apparent liver injury from nimesulide should be done with caution.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="NonsteroidalAntiinfl">Nonsteroidal Antiinflammatory Drugs</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Nimesulide.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Nimesulide.Case_1._Acute_liver_failure_a">
+          <title>Case 1. Acute liver failure attributed to nimesulide.</title>
+          <p>[Modified from: McCormick PA, Kennedy F, Curry M, et al. COX-2 inhibition and fulminant hepatic failure Lancet 1999; 353 (9146): 40-1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/100239573">PubMed Citation</ext-link>.]</p>
+          <p>A 58 year old woman began to feel unwell approximately 10 days after starting nimesulide for chronic back pain. She was seen and found to have mild elevations in serum enzymes (Table). Nimesulide was continued, but she developed further symptoms including nausea and it was stopped. Two weeks later, she noted dark urine and jaundice and shortly thereafter she was admitted to the hospital because of worsening symptoms. She had no history of liver disease, alcohol abuse or risk factors for viral hepatitis. She had taken nimesulide for short periods in the past. Her other medications included birth control pills which she had taken for 6 years and sertraline which she had taken for 11 months. On admission, she was acutely ill with jaundice and confusion. Laboratory results showed a total bilirubin of 16.9 mg/dL, ALT 1046 U/L, AST 386 U/L, alkaline phosphatase 114 U/L, GGT 112 U/L, albumin 2.8 g/dL and INR greater than 12. Tests for hepatitis A, B, C, EBV and CMV were negative. She had low titers of ANA (1:25). Abdominal ultrasound showed normal liver, spleen and biliary system and a small amount of ascites. She rapidly deteriorated and required assisted ventilation. She developed progressive hepatic failure and underwent emergency liver transplantation within 3 days of admission, but had primary graft nonfunction, multiorgan failure and died within a day of the surgery. Autopsy revealed massive hepatic necrosis.</p>
+          <sec id="Nimesulide.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Nimesulide.T1" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Nimesulide (100 mg twice daily)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Hepatocellular (R=~62)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">5+ (jaundice, hepatic failure, liver transplantation, death)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">10 days to symptoms, 50 days to jaundice</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">None</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">Oral contraceptives, sertraline</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Nimesulide.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Nimesulide.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Nimesulide.T2_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Nimesulide.T2_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Nimesulide.T2_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Nimesulide.T2_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Nimesulide.T2_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Nimesulide.T2_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Nimesulide.T2_1_1_1_1" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Nimesulide.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Nimesulide.T2_1_1_1_3" rowspan="1" colspan="1">23</td>
+                    <td headers="hd_h_Nimesulide.T2_1_1_1_4" rowspan="1" colspan="1">51</td>
+                    <td headers="hd_h_Nimesulide.T2_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Nimesulide.T2_1_1_1_6" rowspan="1" colspan="1">Routine</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Nimesulide.T2_1_1_1_1" rowspan="1" colspan="1">10 days</td>
+                    <td headers="hd_h_Nimesulide.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Nimesulide.T2_1_1_1_3" rowspan="1" colspan="1">187</td>
+                    <td headers="hd_h_Nimesulide.T2_1_1_1_4" rowspan="1" colspan="1">50</td>
+                    <td headers="hd_h_Nimesulide.T2_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Nimesulide.T2_1_1_1_6" rowspan="1" colspan="1">Nonspecific symptoms</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Nimesulide.T2_1_1_1_1" rowspan="1" colspan="1">32 days</td>
+                    <td headers="hd_h_Nimesulide.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Nimesulide.T2_1_1_1_3" rowspan="1" colspan="1">504</td>
+                    <td headers="hd_h_Nimesulide.T2_1_1_1_4" rowspan="1" colspan="1">54</td>
+                    <td headers="hd_h_Nimesulide.T2_1_1_1_5" rowspan="1" colspan="1">0.9</td>
+                    <td headers="hd_h_Nimesulide.T2_1_1_1_6" rowspan="1" colspan="1">Nausea</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Nimesulide.T2_1_1_1_1" rowspan="1" colspan="1">50 days</td>
+                    <td headers="hd_h_Nimesulide.T2_1_1_1_2" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Nimesulide.T2_1_1_1_3" rowspan="1" colspan="1">2857</td>
+                    <td headers="hd_h_Nimesulide.T2_1_1_1_4" rowspan="1" colspan="1">114</td>
+                    <td headers="hd_h_Nimesulide.T2_1_1_1_5" rowspan="1" colspan="1">7.0</td>
+                    <td headers="hd_h_Nimesulide.T2_1_1_1_6" rowspan="1" colspan="1">Admission, confusion</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Nimesulide.T2_1_1_1_1" rowspan="1" colspan="1">53 days</td>
+                    <td headers="hd_h_Nimesulide.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Nimesulide.T2_1_1_1_3 hd_h_Nimesulide.T2_1_1_1_4 hd_h_Nimesulide.T2_1_1_1_5 hd_h_Nimesulide.T2_1_1_1_6" colspan="4" rowspan="1">Liver transplantation, primary nonfunction, death</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Nimesulide.T2_1_1_1_1 hd_h_Nimesulide.T2_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Nimesulide.T2_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;40</bold>
+</td>
+                    <td headers="hd_h_Nimesulide.T2_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;100</bold>
+</td>
+                    <td headers="hd_h_Nimesulide.T2_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Nimesulide.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Nimesulide.Comment">
+            <title>Comment</title>
+            <p>This was one of the earliest reported cases of acute liver failure attributed to nimesulide. The latency to onset was actually quite short, within 2 weeks of starting. Symptoms were vague and not specific. Her liver tests were abnormal, but nimesulide was continued. She continued to feel worse and eventually developed jaundice followed by hepatic failure. She was acutely ill on hospital admission and was rapidly listed for emergency liver transplantation, which was carried out on day 3. She suffered primary graft nonfunction, however, and died of multiorgan failure. The majority of cases of acute liver failure due to nimesulide have been in middle aged women with onset within 2 weeks to 3 months of starting. The shorter latencies may correlate with previous exposure.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Nimesulide.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Nimesulide.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Nimesulide &#x02013; Generic, Sulide&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Nonsteroidal Antiinflammatory Drugs</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Nimesulide">COMPLETE LABELING</ext-link>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Nimesulide.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Nimesulide.T3" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Nimesulide.T3_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Nimesulide.T3_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Nimesulide.T3_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Nimesulide.T3_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Nimesulide.T3_1_1_1_1" rowspan="1" colspan="1">Nimesulide</td>
+                <td headers="hd_h_Nimesulide.T3_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135001308">51803-78-2</ext-link>
+</td>
+                <td headers="hd_h_Nimesulide.T3_1_1_1_3" rowspan="1" colspan="1">C13-H12-N2-O5-S</td>
+                <td headers="hd_h_Nimesulide.T3_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Nimesulide_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Nimesulide Chemical Structure</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Nimesulide.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 01 March 2016</p>
+        <ref-list id="Nimesulide.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Nimesulide.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Drugs used to treat rheumatic and musculospastic disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 517-53.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; nimesulide is described as a newly introduced NSAID that had led to at least 6 reported cases of hepatic injury reported, all from one institution [Van Steenberger 1998]).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R2">
+            <mixed-citation publication-type="other">Lewis JH, Stine JG. Nonsteroidal anti-inflammatory drugs and leukotriene receptor antagonists: pathology and clinical presentation of hepatotoxicity. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd. Amsterdam: Elsevier, 2013, pp. 369-401.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of NSAIDs mentions that many cases of hepatotoxicity from nimesulide have been reported).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R3">
+            <mixed-citation publication-type="other">Grosser T, Smyth E, FitzGerald GA. Anti-inflammatory, antipyretic, and analgesic agents; pharmacotherapy of gout. In, Brunton LL, Chabner B, Knollman B, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 959-1004.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R4">
+            <mixed-citation publication-type="journal">Kromann-Andersen H, Pedersen A. Reported adverse reactions to and consumption of nonsteroidal anti-inflammatory drugs in Denmark over a 17-year period. Dan Med Bull 1988; 35: 187-92. <annotation><p><italic toggle="yes">(Over a 17 year period, 3521 suspected adverse drug reactions due to NSAIDs were reported to a Danish National Registry, of which 3% were liver related, 3% of which [n=3] were fatal, 2 due to benoxaprofen and one to indomethacin; nimesulide was not widely available at this time).</italic></p></annotation><pub-id pub-id-type="pmid">2966038</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R5">
+            <mixed-citation publication-type="journal">Hannequin JR, Doffoel M, Schmutz G. [Hepatitis secondary to current non-steroidal anti-inflammatory agents]. Rev Rhum Mal Osteoartic 1988; 55: 983-8. French. <annotation><p><italic toggle="yes">(Review of published literature on hepatotoxicity of NSAIDs mentions 28 cases attributed to ibuprofen, 21 sulindac, 6 piroxicam, 5 diclofenac, 5 indomethacin, 4 naproxen and 1 fenoprofen; nimesulide was not yet available in France).</italic></p></annotation><pub-id pub-id-type="pmid">3070713</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R6">
+            <mixed-citation publication-type="journal">Zimmerman HJ. Update of hepatotoxicity due to classes of drugs in common clinical use: non-steroid drugs, anti-inflammatory drugs, antibiotics, antihypertensives, and cardiac and psychotropic agents. Semin Liver Dis 1990; 10: 322-8. <annotation><p><italic toggle="yes">(Extensive review of NSAID related liver injury before the wide scale availability of nimesulide).</italic></p></annotation><pub-id pub-id-type="pmid">2281340</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R7">
+            <mixed-citation publication-type="journal">Walker AM. Quantitative studies of the risk of serious hepatic injury in persons using nonsteroidal antiinflammatory drugs. Arthritis Rheum 1997; 40: 201-8. <annotation><p><italic toggle="yes">(Review of population based studies of NSAID use and hepatic injury; frequency of clinically apparent liver injury from NSAIDs overall was ~10 cases per 100,000 patient-years of use; studies were conducted before the availability of nimesulide).</italic></p></annotation><pub-id pub-id-type="pmid">9041931</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R8">
+            <mixed-citation publication-type="other">Bessone F, Fay F, Fay O, Vorobioff J, Passamonti ME, Godoy A, Tanno H. Nimesulide hepatotoxicity. Hepatology 1997; 26 (Suppl 4): 483A. Not in PubMed<annotation><p><italic toggle="yes">(Abstract: 12 patients with suspected nimesulide hepatotoxicity were seen over a 10 year period; 8 with jaundice, 9 pruritus, mean latency 25 days [mean bilirubin 3.4 mg/dL, ALT 276 U/L, Alk P 115 U/L], all recovered an average of 55 days after stopping).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R9">
+            <mixed-citation publication-type="journal">Rainsford KD. An analysis from clinico-epidemiological data of the principal adverse events from the COX-2 selective NSAID, nimesulide, with particular reference to hepatic injury. Inflammopharmacology 1998; 6: 203-21. <annotation><p><italic toggle="yes">(Retrospective summary of adverse events from clinical trials of nimesulide found ALT or AST elevations in 1-10% of patients, but degree of monitoring not described; there were 25 cases of hepatic injury reported worldwide after sales of at least 130 million doses, some cases resulting in hospitalization and some in death, but in many "the association could be questioned").</italic></p></annotation><pub-id pub-id-type="pmid">17657620</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R10">
+            <mixed-citation publication-type="journal">Van Steenbergen W, Peeters P, De Bondt J, Staessen D, B&#x000fc;scher H, Laporta T, Roskams T, Desmet V. Nimesulide-induced acute hepatitis: evidence from six cases. J Hepatol 1998; 29: 135-41. <annotation><p><italic toggle="yes">(Description of 6 cases of suspected nimesulide liver injury seen over a 9 month period at a single referral center in Belgium included 4 women and 2 men, ages 39 to 71 years, taking drug for 1-15 weeks [bilirubin 2-30 mg/dL, ALT 3-23 times ULN, Alk P 1.4-2.8 times ULN], two cholestatic and 4 hepatocellular, one severe, all resolving slowly within 6-17 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">9696502</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R11">
+            <mixed-citation publication-type="other">Grignola JC, Arias L, Rondan M, Sola L, Bagnulo H. [Hepatotoxicity associated with nimesulide]. Arch Med Int 1998; Unknown: 13-18. Not in PubMed<annotation><p><italic toggle="yes">(Case report mentioned in Hern&#x000e1;ndez [1014]).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R12">
+            <mixed-citation publication-type="journal">McCormick PA, Kennedy F, Curry M, Traynor Ol. COX-2 inhibition and fulminant hepatic failure Lancet 1999; 353 (9146): 40-1. <annotation><p><italic toggle="yes">(58 year old woman developed jaundice after several months of intermittent courses of nimesulide [bilirubin 16.9 mg/dL, ALT 1046 U/L, Alk P not given, INR 12], with progressive hepatic failure and death shortly after liver transplantation: Case 1).</italic></p></annotation><pub-id pub-id-type="pmid">10023957</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R13">
+            <mixed-citation publication-type="other">Villa G. NSAIDs and hepatic reactions. Lancet 1999; 353: 846.<annotation><p><italic toggle="yes">(Letter in response to McCormick [1999] arguing caution in attributing the liver injury to nimesulide).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R14">
+            <mixed-citation publication-type="journal">Weiss P, Mouallem M, Bruck R, Hassin D, Tanay A, Brickman CM, Farfel Z, et al. Nimesulide-induced hepatitis and acute liver failure. Isr Med Assoc J 1999; 1: 89-91. <annotation><p><italic toggle="yes">(Six cases of suspected nimesulide hepatotoxicity; 5 women and 1 man, ages 18 to 70 years, with onset after 2 weeks to 4 months, 5 being anicteric [3 hepatocellular, 2 cholestatic enzyme elevations], these 5 resolving in 1-3 months of stopping, but one case of jaundice, acute liver failure and death).</italic></p></annotation><pub-id pub-id-type="pmid">10731303</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R15">
+            <mixed-citation publication-type="journal">Romero G&#x000f3;mez M, Nevado Santos M, Fobelo MJ, Castro Fern&#x000e1;ndez M. [Nimesulide acute hepatitis: description of 3 cases]. Med Clin(Barc) 1999; 113(9): 357-8. Spanish. <annotation><p><italic toggle="yes">(3 cases of acute hepatitis attributed to nimesulide seen at a single center, all women, ages 61-65 years, onset after 1-2 months with jaundice and hepatocellular enzyme elevations [bilirubin 7.8, 13.6 and 24 mg/dL, ALT 483, 1234 and 4023 U/L, Alk P 310, 456 and 675 U/L], resolving within 1-4 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">10562933</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R16">
+            <mixed-citation publication-type="journal">Schattner A, Sokolovskaya N, Cohen J. Fatal hepatitis and renal failure during treatment with nimesulide. J Intern Med 2000; 247: 153-5. <annotation><p><italic toggle="yes">(70 year old woman developed jaundice a few days after a 5 day course of nimesulide [bilirubin 12.6 mg/dL, ALT 1240 U/L, Alk P 285 U/L, INR 2.3], with progressive hepatic failure and death 3 weeks later).</italic></p></annotation><pub-id pub-id-type="pmid">10672143</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R17">
+            <mixed-citation publication-type="journal">Elmalem E. Nimesulide, clavulanic acid and hepatitis. J Intern Med 2000; 248: 168-9. <annotation><p><italic toggle="yes">(Letter in response to Schattner [2000] from the sponsor raising issue of the possible role of amoxicillin/clavulanate and mentioning the new recommendation for liver enzyme monitoring during therapy with nimesulide).</italic></p></annotation><pub-id pub-id-type="pmid">10947899</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R18">
+            <mixed-citation publication-type="journal">Ferreiro C, Vivas S, Jorquera F, Dom&#x000ed;nguez AB, Espinel J, Mu&#x000f1;oz F, Herrera A, et al. [Toxic hepatitis caused by nimesulide, presentation of a new case and review of the literature]. Gastroenterol Hepatol 2000; 23: 428-30. Spanish. <annotation><p><italic toggle="yes">(72 year old woman developed jaundice 15 days after starting nimesulide [bilirubin 7.8 mg/dL, ALT 696 U/L, Alk P 452 U/L, eosinophils 5%], resolving within 3 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">11126038</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R19">
+            <mixed-citation publication-type="journal">Andrade RJ, Lucena MI, Fern&#x000e1;ndez MC, Gonz&#x000e1;lez M. Fatal hepatitis associated with nimesulide. J Hepatol 2000; 32: 174. <annotation><p><italic toggle="yes">(66 year old woman developed jaundice 8 months after starting nimesulide [bilirubin 18.4 mg/dL, ALT 885 U/L, Alk P not given, prothrombin index 35%], with progressive liver failure and death 8 days later).</italic></p></annotation><pub-id pub-id-type="pmid">10673086</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R20">
+            <mixed-citation publication-type="journal">Rodrigues de Oliveira J, Correia J, Silvestre F, Meirelles A, Bernardo A. [Severe acute hepatitis probably induced by nimesulide]. Gastroenterol Clin Biol 2000; 24: 592-3. French. <annotation><p><italic toggle="yes">(47 year old man on nimesulide for several years developed nausea one month after restarting nimesulide after hernia surgery [and cefazolin] followed by jaundice 2 months later [bilirubin 7.9 mg/dL, ALT 93 times ULN, Alk P 1.5 times ULN, prothrombin time 42 sec], with subsequent ascites and peak bilirubin of 17.8 mg/dL, ultimately resolving).</italic></p></annotation><pub-id pub-id-type="pmid">10891757</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R21">
+            <mixed-citation publication-type="journal">P&#x000e9;rez-Moreno J, Llerena Guerrero RM, Puertas Montenegro M, Jim&#x000e9;nez Arjona MJ. [Nimesulide toxic hepatitis in pregnancy]. Gastroenterol Hepatol 2000; 23: 498-9. Spanish. <annotation><p><italic toggle="yes">(22 year old woman, 5 weeks pregnant, developed jaundice 5 days after starting nimesulide for a sprained ankle [bilirubin 4.7 mg/dL, ALT 635 U/L, Alk P 309 U/L], resolving within a month of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">11149228</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R22">
+            <mixed-citation publication-type="journal">Bessone F, Tanno H. [Hepatotoxicity induced by non-steroidal anti-inflammatory drugs]. Gastroenterol Hepatol 2000; 23: 200-5. <annotation><p><italic toggle="yes">(Review of drug induced liver injury due to NSAIDs mentions that nimesulide was approved in Argentina in 1986 and during the ensuing 10 years, they observed 12 patients with acute liver injury, usually cholestatic and self-limited, but also with hepatocellular injury that can be severe and even fatal).</italic></p></annotation><pub-id pub-id-type="pmid">10863862</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R23">
+            <mixed-citation publication-type="journal">Sbeit W, Krivoy N, Shiller M, Farah R, Cohen HI, Struminger L, Reshef R. Nimesulide-induced acute hepatitis. Ann Pharmacother 2001; 35: 1049-52. <annotation><p><italic toggle="yes">(54 year old woman developed fever and jaundice two months after starting nimesulide for low back pain [bilirubin 12.9 mg/dL, ALT 2842 U/L, Alk P 748 U/L, INR 1.59, eosinophils 9%], with resolution within 2 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">11573855</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R24">
+            <mixed-citation publication-type="journal">Montesinos S, Hallal H, Rausell V, Conesa F, L&#x000f3;pez A. [Nimesulide-induced acute hepatitis]. Gastroenterol Hepatol 2001; 24: 219-20. Spanish. <annotation><p><italic toggle="yes">(64 year old man developed jaundice 6 months after starting nimesulide [bilirubin 17.6 mg/dL, ALT 1705 U/L, Alk P 512 U/L], resolving once the drug was stopped).</italic></p></annotation><pub-id pub-id-type="pmid">11333664</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R25">
+            <mixed-citation publication-type="journal">Knowles S, Shapiro L, Shear NH. Should celecoxib be contraindicated in patients who are allergic to sulfonamides? Revisiting the meaning of 'sulfa' allergy. Drug Saf 2001; 24: 239-47. <annotation><p><italic toggle="yes">(Analysis of data on hypersensitivity reactions to sulfonamides and subsequent risk of hypersensitivity reactions to celecoxib and other sulfonamide-like drugs found little evidence for cross sensitivity).</italic></p></annotation><pub-id pub-id-type="pmid">11330653</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R26">
+            <mixed-citation publication-type="journal">Conforti A, Leone R, Moretti U, Mozzo F, Velo G. Adverse drug reactions related to the use of NSAIDs with a focus on nimesulide: results of spontaneous reporting from a Northern Italian area. Drug Saf 2001; 24: 1081-90. <annotation><p><italic toggle="yes">(Analysis of spontaneous adverse event reports attributed to nimesulide over a 13 year period in Northern Italy found 207 reports mostly of gastrointestinal complaints, with only 4 reports of hepatitis and 3 of Stevens Johnson syndrome).</italic></p></annotation><pub-id pub-id-type="pmid">11735663</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R27">
+            <mixed-citation publication-type="journal">Merlani G, Fox M, Oehen HP, Cathomas G, Renner EL, Fattinger K, Schneemann M, et al. Fatal hepatoxicity secondary to nimesulide. Eur J Clin Pharmacol 2001; 57: 321-6. <annotation><p><italic toggle="yes">(57 year old woman developed jaundice 3 months after starting nimesulide [bilirubin 28.6 mg/dL, ALT 2786 U/L, Alk P 225 U/L, prothrombin index 32%], with progressive liver failure, oliguria and death 3 weeks after presentation).</italic></p></annotation><pub-id pub-id-type="pmid">11549211</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R28">
+            <mixed-citation publication-type="journal">Dumortier J, Borel I, Delafosse B, Vial T, Scoazec JY, Boillot O. [Subfulminant hepatitis associated with nimesulide treatment requiring liver transplantation]. Gastroenterol Clin Biol 2002; 26: 415-6. French. <annotation><p><italic toggle="yes">(51 year old man developed fatigue 14 days after a 7 day course of nimesulide followed by jaundice [bilirubin 17.7 mg/dL, ALT 50 times ULN, Alk P 10 times ULN, prothrombin index 24%], with subsequent liver failure and successful liver transplantation 14 days later).</italic></p></annotation><pub-id pub-id-type="pmid">12070417</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R29">
+            <mixed-citation publication-type="journal">Gatti S, Bertazzoli M. Evaluation of isolated case reports on hepatotoxicity. Eur J Clin Pharmacol 2002; 57: 919-20; author reply 921-2. <annotation><p><italic toggle="yes">(Letter in response to Merlani [2001] questioning the validity of reporting isolated cases of liver injury during drug therapy as opposed to providing an absolute risk assessment in prospective studies).</italic></p></annotation><pub-id pub-id-type="pmid">11936716</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R30">
+            <mixed-citation publication-type="journal">Rodrigo L, de Francisco R, P&#x000e9;rez-Pariente JM, Cadahia V, Tojo R, Rodriguez M, Lucena MI, Andrade RJ. Nimesulide-induced severe hemolytic anemia and acute liver failure leading to liver transplantation. Scand J Gastroenterol 2002; 37: 1341-3. <annotation><p><italic toggle="yes">(63 year old woman developed jaundice 7 months after starting nimesulide for osteoarthritis [bilirubin 33.9 mg/dL, ALT 143 U/L, Alk P 1099 U/L], which was complicated by severe hemolytic anemia with hepatic failure and death 23 days after admission).</italic></p></annotation><pub-id pub-id-type="pmid">12465736</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R31">
+            <mixed-citation publication-type="journal">Gallego Rojo FJ, Fern&#x000e1;ndez P&#x000e9;rez F, Fern&#x000e1;ndez P&#x000e9;rez R, Porcel A, Blas JM, D&#x000ed;ez F. [Nimesulide-induced hepatotoxicity]. Rev Esp Enferm Dig 2002; 94: 41-2. Spanish. <annotation><p><italic toggle="yes">(83 year old man developed jaundice 2 weeks after starting nimesulide [bilirubin 6.3 mg/dL, ALT 811 U/L, Alk P 780 U/L], resolving within 2 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">12073669</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R32">
+            <mixed-citation publication-type="journal">Stadlmann S, Zoller H, Vogel W, Offner FA. COX-2 inhibitor (nimesulide) induced acute liver failure. Virchows Arch 2002; 440: 553-5. <annotation><p><italic toggle="yes">(36 year old woman developed abdominal pain and confusion one month after starting nimesulide [bilirubin 2.2 mg/dL, ALT 1115 U/L, Alk P not given, prothrombin index 39%], biopsy showing centrolobular, confluent necrosis, yet with resolution within 3 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">12021934</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R33">
+            <mixed-citation publication-type="journal">Boelsterli UA. Mechanisms of NSAID-induced hepatotoxicity: focus on nimesulide. Drug Saf 2002; 25: 633-48. <annotation><p><italic toggle="yes">(Review of the possible mechanisms of hepatic injury caused by NSAIDs with focus on nimesulide, described as a rare cause of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">12137558</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R34">
+            <mixed-citation publication-type="journal">Maci&#x000e1; MA, Carvajal A, del Pozo JG, Vera E, del Pino A. Hepatotoxicity associated with nimesulide: data from the Spanish Pharmacovigilance System. Clin Pharmacol Ther 2002; 72: 596-7. <annotation><p><italic toggle="yes">(Analysis of Spanish Pharmacovigilance Database found that among NSAIDs, nimesulide was associated with the highest rate of liver injury [29 cases, ~1:15,000 persons exposed], the second being meloxicam [16 cases: ~1:70,000]).</italic></p></annotation><pub-id pub-id-type="pmid">12426524</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R35">
+            <mixed-citation publication-type="journal">Traversa G, Bianchi C, Da Cas R, Abraha I, Menniti-Ippolito F, Venegoni M. Cohort study of hepatotoxicity associated with nimesulide and other non-steroidal anti-inflammatory drugs. BMJ 2003; 327(7405): 18-22. <annotation><p><italic toggle="yes">(Retrospective study of all patients prescribed nimesulide in a region of Northern Italy between 1997 and 2001 identified 17 cases of acute liver injury with hospitalization [one fatal] among 187,312 users, yielding an overall rate of 1.3 per 100,000 person-years, minimally greater than with other NSAIDs).</italic></p></annotation><pub-id pub-id-type="pmid">12842950</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R36">
+            <mixed-citation publication-type="journal">Papaioannides D, Korantzopoulos P, Athanassiou E, Sinapidis D. Nimesulide-induced acute hepatotoxicity. Indian J Gastroenterol 2003; 22: 239. <annotation><p><italic toggle="yes">(62 year old man developed jaundice 1 week after starting nimesulide for .gonarthritic pain. [bilirubin 4.2 mg/dL, ALT 1270 U/L, Alk P 185 U/L, INR normal], resolving within 4 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">15030049</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R37">
+            <mixed-citation publication-type="journal">Ozg&#x000fc;r O, Hacihasanoglu A, Karti SS, Ovali E. Nimesulide-induced fulminant hepatitis. Turk J Gastroenterol 2003; 14: 208-10. <annotation><p><italic toggle="yes">(18 year old boy developed jaundice 3 days after starting nimesulide for a muscle strain [bilirubin 3.6 mg/dL, ALT 1528 U/L, Alk P 510 U/L, INR 1.9], with confusion and ascites, but eventual resolution within 1 month of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">14655069</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R38">
+            <mixed-citation publication-type="journal">Casta&#x000f1;eda Hern&#x000e1;ndez G, Barrag&#x000e1;n Padilla SB. [Hepatotoxicity of nimesulide]. Gac Med Mex 2004; 140: 679. Spanish. <annotation><p><italic toggle="yes">(Letter to the editor cautioning against use of nimesulide in Mexico in view of it having been withdrawn in Finland, Spain and Portugal because of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">15633581</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R39">
+            <mixed-citation publication-type="journal">Lacroix I, Lapeyre-Mestre M, Bagheri H, Pathak A, Montastruc JL; Club de Reflexion des cabinets de Groupe de Gastro-Enterologie (CREGG); General Practitioner Networks. Nonsteroidal anti-inflammatory drug-induced liver injury: a case-control study in primary care. Fundam Clin Pharmacol 2004; 18: 201-6. <annotation><p><italic toggle="yes">(Case controlled study of patients presenting with suspected drug induced liver injury in a general practice context in Southern France between 1998 and 2001 found 88 cases which were matched with 178 controls; 22 cases vs 16 controls had been exposed to NSAIDs; 5 diclofenac, 4 ibuprofen, 4 ketoprofen, 2 niflumic acid, 1 flurbiprofen and 1 meloxicam, the rest to salicylates which were as frequently used in controls as cases; there were no fatalities and cases were more common in women than men, no mention of nimesulide).</italic></p></annotation><pub-id pub-id-type="pmid">15066135</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R40">
+            <mixed-citation publication-type="journal">Rubenstein JH, Laine L. Systematic review: the hepatotoxicity of non-steroidal anti-inflammatory drugs. Aliment Pharmacol Ther 2004; 20: 373-80. <annotation><p><italic toggle="yes">(NSAIDs are the most commonly used drugs in the US and account for a large proportion of cases of hepatic injury, but the frequency is quite rare. Among 7 population based studies, hospitalization occurred in 22.4/100,000 patient-years of NSAID use [33.1/100,000 for nimesulide] and deaths from liver injury occurred in ~1/100,000 patient-years; in case controlled studies, higher odds ratio for liver injury was found with sulindac and nimesulide).</italic></p></annotation><pub-id pub-id-type="pmid">15298630</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R41">
+            <mixed-citation publication-type="journal">Gallelli L, Ferraro M, Mauro GF, De Fazio S, De Sarro G. Nimesulide-induced hepatotoxicity in a previously healthy woman. Clin Drug Investig 2005; 25: 421-4. <annotation><p><italic toggle="yes">(70 year old woman developed nausea and fatigue within 8 hours of taking a single tablet of nimesulide [bilirubin 0.9 mg/dL, ALT 224 U/L, Alk P 65 U/L, INR 2.3], values falling into the normal range within 7 days).</italic></p></annotation><pub-id pub-id-type="pmid">17532683</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R42">
+            <mixed-citation publication-type="journal">Giannattasio A, D'Ambrosi M, Volpicelli M, Iorio R. Steroid therapy for a case of severe drug-induced cholestasis. Ann Pharmacother 2006; 40: 1196-9. <annotation><p><italic toggle="yes">(15 year old girl developed jaundice 15 days after starting clarithromycin and nimesulide for a respiratory tract infection [bilirubin 10.6 rising to 25.6 mg/dL, ALT 69 U/L, GGT normal], with severe itching treated with ursodiol and corticosteroids, resolving slowly by 3 months after stopping both drugs).</italic></p></annotation><pub-id pub-id-type="pmid">16720710</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R43">
+            <mixed-citation publication-type="journal">Polimeni G, Salvo F, Cutroneo P, Morreale I, Patrizio Caputi A. Adverse reactions induced by NSAIDs and antibacterials: analysis of spontaneous reports from the Sicilian regional database. Drug Saf 2006; 29 (5): 449-59. <annotation><p><italic toggle="yes">(Analysis of spontaneous adverse reactions reported to Sicilian registries between 1998 and 2004 found 108 serious reactions to NSAIDs, with disproportional reports of hepatitis from nimesulide [3 cases resulting in liver transplantation]).</italic></p></annotation><pub-id pub-id-type="pmid">16689558</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R44">
+            <mixed-citation publication-type="journal">Lapeyre-Mestre M, de Castro AM, Bareille MP, Garcia del Pozo J, Requejo AA, Arias LM, Montastruc J-L, et al. Non-steroidal anti-inflammatory drug-related hepatic damage in France and Spain: analysis from national spontaneous reporting systems. Fundam Clin Pharmacol 2006; 20: 391-5. <annotation><p><italic toggle="yes">(Analysis of adverse event reports from NSAIDs from France and Spain from 1982-2001; the proportion of reports that were hepatic was high for nimesulide in Spain [17.3%] and France [16.1%], but the odds ratio was elevated for hepatic injuries and nimesulide only in Spain [6.04]).</italic></p></annotation><pub-id pub-id-type="pmid">16867024</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R45">
+            <mixed-citation publication-type="journal">Arellano FM, Yood MU, Wentworth CE, Oliveria SA, Rivero E, Verman A, Rothman K. Use of cyclo-oxygenase 2 inhibitors (COX-2) and prescription non-steroidal anti-inflammatory drugs (NSAIDS) in UK and USA populations Implications for COX-2 cardiovascular profile. Pharmacoepidemiol Drug Saf 2006; 15: 861-72. <annotation><p><italic toggle="yes">(Surveys from the UK and USA indicate that ibuprofen, naproxen and diclofenac were the most commonly used NSAIDs; nimesulide was not among the top 10 agents used).</italic></p></annotation><pub-id pub-id-type="pmid">17086563</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R46">
+            <mixed-citation publication-type="journal">Sanchez-Matienzo D, Arana A, Castellsague J, Perez-Gutthann S. Hepatic disorders in patients treated with COX-2 selective inhibitors or nonselective NSAIDs: a case/noncase analysis of spontaneous reports. Clin Ther 2006; 28: 1123-32. <annotation><p><italic toggle="yes">(Analysis of large databases from the FDA and WHO on spontaneous reports of adverse reactions to NSAIDs found the highest proportion of hepatic injury reports for nimesulide, bromfenac, diclofenac and sulindac compared to other NSAIDs).</italic></p></annotation><pub-id pub-id-type="pmid">16982289</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R47">
+            <mixed-citation publication-type="journal">Aithal GP, Day CP. Nonsteroidal anti-inflammatory drug-induced hepatotoxicity. Clin Liver Dis 2007; 11: 563-75, vi-vii. <annotation><p><italic toggle="yes">(Review of NSAID induced liver injury mentions that nimesulide was never marketed in the US, but was available in over 50 countries and the most commonly prescribed NSAID in Italy and Portugal despite its withdrawal in Finland and Spain because of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">17723920</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R48">
+            <mixed-citation publication-type="journal">Tan HH, Ong WM, Lai SH, Chow WC. Nimesulide-induced hepatotoxicity and fatal hepatic failure. Singapore Med J 2007; 48: 582-5. <annotation><p><italic toggle="yes">(Three Chinese adults, two women and one man, ages 54-71 years, developed jaundice 19-28 days after starting nimesulide [bilirubin 3.6, 3.1 and 45.3 mg/dL, ALT 23-31 times ULN], two resolving after stopping and one developed fatal acute liver failure, an autopsy revealing cirrhosis).</italic></p></annotation><pub-id pub-id-type="pmid">17538762</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R49">
+            <mixed-citation publication-type="journal">Dastis SN, Rahier J, Lerut J, Geubel AP. Liver transplantation for nonsteroidal anti-inflammatory drug-induced liver failure: nimesulide as the first implicated compound. Eur J Gastroenterol Hepatol 2007; 19: 919-22. <annotation><p><italic toggle="yes">(Among 57 patients undergoing liver transplantation for acute liver failure during a 17 year period at a single referral center in Belgium, 5 were attributed to NSAIDs including 3 to nimesulide; 22-59 year old women exposed for 2 days to 2 months [bilirubin 10-22 mg/dL, ALT 21-34 times ULN], successfully transplanted within 1-7 days of presentation with encephalopathy).</italic></p></annotation><pub-id pub-id-type="pmid">18049158</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R50">
+            <mixed-citation publication-type="journal">Bissoli F. Negrin Dastis S. et al.: Liver transplantation for nonsteroidal anti-inflammatory drug-induced liver failure: nimesulide as the first implicated compound. Eur J Gastroenterol Hepatol 2008; 20: 1122. <annotation><p><italic toggle="yes">(Letter in response to Dastis [2007] arguing that case reports of drug induced acute liver failure provide a safety signal, but only prospective studies can provide information of the frequency of liver injury and establish causality).</italic></p></annotation><pub-id pub-id-type="pmid">19047848</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R51">
+            <mixed-citation publication-type="journal">Bissoli F. Nimesulide-induced hepatotoxicity and fatal hepatic failure. Singapore Med J 2008; 49: 436-7; author reply 438. <annotation><p><italic toggle="yes">(Letter in response to Tan [2007] stressing that acute liver failure from nimesulide is very rare).</italic></p></annotation><pub-id pub-id-type="pmid">18465058</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R52">
+            <mixed-citation publication-type="journal">Chatterjee S, Pal J, Biswas N. Nimesulide-induced hepatitis and toxic epidermal necrolysis. J Postgrad Med 2008; 54: 150-1. <annotation><p><italic toggle="yes">(21 year old woman developed extensive exfoliative rash 5 days after starting nimesulide followed by fever and jaundice [bilirubin 3.4 mg/dL, ALT 340 U/L, Alk P 696 U/L], with prolonged hospital stay and corticosteroid therapy, but ultimate full recovery).</italic></p></annotation><pub-id pub-id-type="pmid">18480536</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R53">
+            <mixed-citation publication-type="journal">Page M, Christin F, Hayi-Slayman D, Baillon JJ, Ber CE, Delafosse B, Dumortier J, Rimmel&#x000e9;. [Acute liver failure due to a treatment by nimesulide: another case and review]. Ann Fr Anesth Reanim 2008; 27: 742-6. French. <annotation><p><italic toggle="yes">(49 year old woman developed acute liver failure one month after a 3 day course of nimesulide [bilirubin and Alk P not given, ALT 1435 U/L, prothrombin index 24%], undergoing successful emergency liver transplantation).</italic></p></annotation><pub-id pub-id-type="pmid">18760563</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R54">
+            <mixed-citation publication-type="journal">Koller T, Ban&#x000e1;rov&#x000e1; A, Ondrias F, Kollerov&#x000e1; J, Payer J. [Acute cholestasis following treatment with nimesulide and oral contraception: case report and review]. Vnitr Lek 2008; 54: 665-9. Slovak. <annotation><p><italic toggle="yes">(42 year old woman developed jaundice one month after a 10 day course of nimesulide having been on birth control pills for 8 years [bilirubin 11 mg/dL, ALT 175 U/L, Alk P 180 U/L], with bland cholestasis on liver biopsy and recovery within two months).</italic></p></annotation><pub-id pub-id-type="pmid">18672579</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R55">
+            <mixed-citation publication-type="journal">Walker SL, Kennedy F, Niamh N, McCormick PA. Nimesulide associated fulminant hepatic failure. Pharmacoepidemiol Drug Saf 2008; 17: 1108-12. <annotation><p><italic toggle="yes">(Retrospective analysis of all cases of acute liver failure of unknown cause undergoing liver transplantation at a single center in Ireland between 1994 and 2007 found 6 probably due to nimesulide: 5 women and 1 man, ages 23-61 years, on drug for 1 week to 2 months of whom 2 died and 4 underwent successful liver transplant).</italic></p></annotation><pub-id pub-id-type="pmid">18821716</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R56">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network(DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, NSAIDs were implicated as a sole agent in 8 cases [4 diclofenac, 2 celecoxib, 1 meloxicam and 1 oxaprozin] and as one of several agents in 3 cases [1 diclofenac, 1 celecoxib, 1 ibuprofen]; none were attributed to fenoprofen).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R57">
+            <mixed-citation publication-type="journal">Leone R, Sottosanti L, Luisa Iorio M, Santuccio C, Conforti A, Sabatini V, Moretti U, et al. Drug-related deaths: an analysis of the Italian spontaneous reporting database. Drug Saf 2008; 31: 703-13. <annotation><p><italic toggle="yes">(Analysis of fatal adverse drug reactions reported to an Italian registry between 2001 and 2006, identified 450 case reports implicated 222 different drugs, the most common being antiinfectives and antineoplastic agents, specific agents being ceftriaxone [n=24], triclopidine [22], nimesulide [17], amiodarone [13], allopurinol [12], simvastatin [12] and acetaminophen [10]).</italic></p></annotation><pub-id pub-id-type="pmid">18636789</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R58">
+            <mixed-citation publication-type="journal">Betrosian AP, Flevari K, Andrianakis I, Boudouri I, Douzinas EE. Severe hemolytic anemia and fatal hepatic failure associated with nimesulide. Dig Liver Dis 2009; 41: 80. <annotation><p><italic toggle="yes">(61 year old woman developed jaundice 3 months after starting nimesulide which was used intermittently [bilirubin 11.2 mg/dL, ALT 762 U/L, INR 3.9, hemoglobin 6 g/dL, LDH 8867 U/L, direct Coombs positivity], dying of liver failure within 4 days of presentation).</italic></p></annotation><pub-id pub-id-type="pmid">18778975</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R59">
+            <mixed-citation publication-type="journal">Wang YP, Shi B, Chen YX, Xu J, Jiang CF, Xie WF. Drug-induced liver disease: an 8-year study of patients from one gastroenterological department. J Dig Dis 2009; 10: 195-200. <annotation><p><italic toggle="yes">(Retrospective analysis of 30 cases of drug induced liver injury seen in a single referral center in Shanghai between 2000-2007 found one case due to nimesulide: 58 year old woman treated for 2 weeks developed hepatocellular liver injury [bilirubin 1.5 mg/dL, ALT 20 times ULN, Alk P 1.1 times ULN], resolving promptly with stopping nimesulide).</italic></p></annotation><pub-id pub-id-type="pmid">19659787</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R60">
+            <mixed-citation publication-type="journal">Altwegg R. [Acute liver failure due to a treatment by nimesulide]. Ann Fr Anesth Reanim 2009; 28: 262-3. French. <annotation><p><italic toggle="yes">(Letter in response to Page [2008) questioning the attribution of the injury to nimesulide, which had been stopped two months before onset).</italic></p></annotation><pub-id pub-id-type="pmid">19195818</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R61">
+            <mixed-citation publication-type="journal">Lukic S. S, Krstic M, Damjanov N, Boricic I, Popovic D, Djuranovic S, Kovacevic N, et al. [Cholestatic hepatitis associated with nimesulide--a case report]. Srp Arh Celok Lek 2009 Sep-Oct; 137 (9-10): 550-3. Serbian. <annotation><p><italic toggle="yes">(Abstract: 73 year old woman developed acute liver failure 2 months after starting nimesulide, recovering upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">19950766</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R62">
+            <mixed-citation publication-type="journal">Licata A, Calvaruso V, Cappello M, Crax&#x000ec;, Almasio PL. Clinical course and outcomes of drug-induced liver injury: nimesulide as the first implicated medication. Dig Liver Dis 2010; 42: 143-8. <annotation><p><italic toggle="yes">(Among 46 patients with drug induced liver injury seen at a single referral center in Italy over a 10 year period, 14 [30%] were attributed to nimesulide, 7 men and 7 women, mean age 58 years, 11 with jaundice including 3 cases of acute liver failure and 1 death, others recovering in an average of 4 weeks with normal liver tests in follow up).</italic></p></annotation><pub-id pub-id-type="pmid">19625223</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R63">
+            <mixed-citation publication-type="journal">Lee CH, Wang JD, Chen PC. Increased risk of hospitalization for acute hepatitis in patients with previous exposure to NSAIDs. Pharmacoepidemiol Drug Saf 2010; 19: 708-14. <annotation><p><italic toggle="yes">(Analysis of hospitalizations for acute, non-viral hepatitis in Taiwan been 2001 and 2004 found 4519 cases with an increased odds ratio for use of NSAIDs within the previous month, highest for nimesulide, ibuprofen and diclofenac).</italic></p></annotation><pub-id pub-id-type="pmid">20582911</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R64">
+            <mixed-citation publication-type="journal">Bessone F. Non-steroidal anti-inflammatory drugs: What is the actual risk of liver damage? World J Gastroenterol 2010; 16: 5651-61. <annotation><p><italic toggle="yes">(Review of estimated frequency of drug induced liver injury due to NSAIDs from large published epidemiological studies; largest series on nimesulide was from Argentina with 43 cases, 70% with jaundice, usually arising 15-90 days after starting, 6 with acute liver failure and 2 deaths).</italic></p></annotation><pub-id pub-id-type="pmid">21128314</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R65">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury and 7 to NSAIDs, including 4 to bromfenac, 2 diclofenac and 1 etodolac, but none to nimesulide which was never marketed in the US).</italic></p></annotation><pub-id pub-id-type="pmid">20949331</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R66">
+            <mixed-citation publication-type="other">Bessone F, Colombato L, Fassio E, Reggiardo M, Vorobioff J, Tanno H. The spectrum of nimesulide induced hepatotoxicity. An overview. Antiinflamm Antiallergy Agents Med Chem 2010; 9: 355-65. Not in PubMed<annotation><p><italic toggle="yes">(Mentioned in Hern&#x000e1;ez [2014]).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R67">
+            <mixed-citation publication-type="journal">Gulmez SE, Larrey D, Pageaux GP, Lignot S, Lassalle R, Jov&#x000e9; J, Gatta A, et al. Transplantation for acute liver failure in patients exposed to NSAIDs or paracetamol (acetaminophen): the multinational case-population SALT study. Drug Saf 2013; 36: 135-44. <annotation><p><italic toggle="yes">(Among 600 patients undergoing liver transplantation for acute liver failure at 52 European liver transplant centers between 2005 and 2007, 301 were considered idiopathic and had received a medication within 30 days of onset, including acetaminophen in 192 and NSAIDs in 40 cases of which nimesulide was used in 8 for an estimated rate of 1.88 case per million treatment-years).</italic></p></annotation><pub-id pub-id-type="pmid">23743692</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R68">
+            <mixed-citation publication-type="journal">Lapeyre-Mestre M, Grolleau S, Montastruc JL; Association Fran&#x000e7;aise des Centres R&#x000e9;gionaux de Pharmacovigilance (CRPV). Adverse drug reactions associated with the use of NSAIDs: a case/noncase analysis of spontaneous reports from the French pharmacovigilance database 2002-2006. Fundam Clin Pharmacol 2013; 27: 223-30. <annotation><p><italic toggle="yes">(Analysis of serious adverse events reporting to a French pharmacovigilance database found highest cumulative rates for liver related reports for nimesulide [0.15 per million defined daily doses], followed by diclofenac [0.09], ketoprofen [0.09], piroxicam [0.06], naproxen [0.04] and meloxicam [0.03] being significant in case/noncase analyses for nimesulide, diclofenac and piroxicam only).</italic></p></annotation><pub-id pub-id-type="pmid">21929527</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R69">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none were attributed to nimesulide, probably because it is not marketed in Iceland).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R70">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America: an analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes">(Among 176 published reports of drug induced liver injury between 1996 and 2012, nimesulide was the single most common cause a counting for 53 cases [30%], of which 13 [25%] resulted in acute liver failure).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R71">
+            <mixed-citation publication-type="journal">Bernardes SS, Souza-Nogueira A, Moreira EG, Kishima MO, Guembarovski AF, Turini TL, Turini CA. Nimesulide-induced fatal acute liver failure in an elderly woman with metastatic biliary adenocarcinoma. A case report. Sao Paulo Med J 2014 Sep 19. [Epub ahead of print] <annotation><p><italic toggle="yes">(81 year old woman developed hematemesis 6 days after starting nimesulide and was found to have hypotension, metabolic acidosis and respiratory failure [bilirubin 4.0 mg/dL, ALT 60 U/L, Alk P 260 U/L], with rapid progression to multiorgan failure and death, metastatic bile duct adenocarcinoma and acute hepatic necrosis found on autopsy).</italic></p></annotation><pub-id pub-id-type="pmid">25250798</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R72">
+            <mixed-citation publication-type="journal">Bhattacharya PK, Barman B, Roy A, Jamil M, Lyngdoh M, Mishra J. Nimesulide induced leukocytoclastic vasculitis and hepatitis: a case report. Springerplus 2015; 4: 302. <annotation><p><italic toggle="yes">(38 year old woman developed rash, pruritus and liver injury 4 days after starting nimesulide for fever [bilirubin 6.0 mg/dL, ALT 173 U/L, Alk P 467 U/L, INR 1.47], skin biopsy showing leukocytoclastic vasculitis, resolving with corticosteroid therapy within 3 weeks of stopping nimesulide).</italic></p></annotation><pub-id pub-id-type="pmid">26155441</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nimesulide.R73">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-1352.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 28 cases were attributed to an NSAID including 15 to diclofenac, 3 celecoxib, 3 meloxicam, 2 oxaprozin, 2 etodolac, and 1 each for ibuprofen, sulindac and valdecoxib, but none for nimesulide which was not marketed in the US).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Nimesulide.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Nimesulide/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Nimesulide: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Nimesulide">Trials on Nimesulide: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

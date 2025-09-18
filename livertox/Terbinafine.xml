@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Terbinafine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Terbinafine</book-part-id>
+      <title-group>
+        <title>Terbinafine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>1</day>
+          <month>1</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Terazosin" document-type="chapter">Terazosin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Teriflunomide" document-type="chapter">Teriflunomide</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Terbinafine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Terbinafine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Terbinafine is an orally and topically active allylamine fungicidal agent which is used to treat superficial fungal infections of the skin and nails. Terbinafine has been clearly linked to rare instances of acute liver injury that can be severe and sometimes fatal.</p>
+        </sec>
+        <sec id="Terbinafine.Background">
+          <title>Background</title>
+          <p>Terbinafine (ter' bin a feen) is a synthetic allylamine derivative that has potent activity against many dermatophytes that affect skin and nails, including Epidermophyton floccosum, Trichophyton mentagrophytes and Trichophyton rubrum. The antifungal activity of terbinafine is believed to be due to the selective inhibition of fungal squalene epoxidase, which increases squalene to toxic levels, thus killing the fungal cell. Terbinafine was approved for use in the United States in a topical form in 1992 and as an oral antifungal agent in 1998. Topical terbinafine is available over-the-counter as a 1% cream or spray for treatment of dermatophyte infections of the skin (tinea pedis, cruris or corporis). Oral terbinafine is available by prescription only in tablets of 250 mg generically and under the brand name of Lamisal. Oral terbinafine is used in the therapy of onychomycosis or fungal infections of the fingernails or toenails (tinea unguium) typically in a dose of 250 mg once daily for 6 weeks (fingernails) or 12 weeks (toenails). The most common side effects of terbinafine include gastrointestinal disturbances, headache, change in taste and rash.</p>
+        </sec>
+        <sec id="Terbinafine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Drug induced liver injury due to terbinafine was identified shortly after its introduction into medical use. Oral therapy with terbinafine is associated with elevations in serum aminotransferases in less than 1% of patients and the elevations are generally asymptomatic and resolve without stopping therapy. The estimated probability of developing elevated serum aminotransferase levels requiring stopping treatment is about 0.31% for 2 to 6 weeks' treatment and 0.44% for treatment longer than 8 weeks.</p>
+          <p>Clinically apparent liver injury from terbinafine occurs rarely (1 in 50,000 to 120,000 prescriptions), but many case reports and even case series have been described in the literature. Liver injury usually arises within the first 6 weeks of therapy. The pattern of injury can be either hepatocellular or cholestatic initially, but typically evolves into a cholestatic pattern which can be prolonged (Cases 1 and 2). Some cases may progress to vanishing bile duct syndrome. Signs of hypersensitivity (rash, fever, eosinophilia) are not common and, when present, are generally mild-to-moderate in severity. Autoantibody formation is rare. In addition, cases with severe hepatocellular injury with acute liver failure have been described. These instances are marked by precipitous onset with marked elevations in serum aminotransferase levels and progressive jaundice and hepatic failure. Terbinafine has also been implicated in cases of Stevens-Johnson syndrome, in which case the hepatic injury may be overshadowed by rash and allergic symptoms.</p>
+          <p>Likelihood score: B (highly likely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Terbinafine.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The acute hepatotoxicity caused by terbinafine appears to be part of a hypersensitivity reaction, although the mechanism has not been defined. Genome-wide association studies identified polymorphisms within the HLA region of chromosome six to be linked to cholestatic cases of drug induced liver injury, and particularly terbinafine. HLA sequencing has confirmed these associations and shown that most subjects of European ancestry with terbinafine hepatotoxicity are carriers of HLA-A* 33:01 (heterozygosity), an allele found in less than 1% of control populations. The HLA-A* 33:03 allele which shares 99% sequence identity with 33:01 has been linked to terbinafine hepatotoxicity in a small number of Asian subjects. These associations indicate that the injury is immunologically mediated.</p>
+        </sec>
+        <sec id="Terbinafine.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Most cases of acute hepatic injury from terbinafine resolve within 3 to 6 months of stopping the medication. In some instances, however, the injury is severe and unremitting, leading to acute liver failure and either death or need for liver transplantation. A severe outcome is more likely if terbinafine is continued after the appearance of symptoms and signs of liver injury. Terbinafine has also been implicated in several cases of acute bile duct injury, followed by prolonged cholestasis associated with vanishing bile duct syndrome. There appears to be no cross sensitivity to hepatic injury between terbinafine and griseofulvin, another agent used for onychomycosis.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntifungalAgents">Antifungal Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Terbinafine.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Terbinafine.Case_1._Prolonged_cholestasi">
+          <title>Case 1. Prolonged cholestasis due to terbinafine.</title>
+          <p>[Modified from: Fernandes NF, Geller SA, Fong TL. Terbinafine hepatotoxicity: case report and review of the literature. Am J Gastroenterol 1998; 93: 459-60. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/9517658">PubMed Citation</ext-link>]</p>
+          <p>A 24 year old man developed progressive loss of appetite, pruritus and jaundice within days of stopping a 3&#x000bd; week course of terbinafine (250 mg daily) for onychomycosis of the toe nails. On initial evaluation one week later, he was jaundiced and had excoriations. There was no fever, urticaria or rash. Laboratory tests showed serum bilirubin of 6.6 mg/dL and elevations in both ALT (584 U/L) and alkaline phosphatase (222 U/L). Tests for hepatitis A, B and C were negative, he did not drink alcohol to excess, and he took no other medications. Ultrasound of the abdomen showed no evidence of biliary obstruction. A liver biopsy showed intrahepatic cholestasis and injury to small bile ducts, with reduction in the number of ducts. Despite having stopped terbinafine, his symptoms and laboratory test abnormalities worsened over the next few weeks. Pruritus was treated with antihistamines and cholestyramine. Six weeks after stopping terbinafine, his symptoms began to improve and 16 weeks after stopping his liver tests were normal (Table).</p>
+          <sec id="Terbinafine.Key_Points1">
+            <title>Key Points</title>
+            <table-wrap id="Terbinafine.T1" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Terbinafine (250 mg daily)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Hepatocellular&#x02192;Cholestatic (R=7.5&#x02192;1.1)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">3+ (jaundice, hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">24 days to symptoms, 32 days to jaundice</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">Complete recovery after 12 weeks</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">None</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Terbinafine.Laboratory_Values1">
+            <title>Laboratory Values</title>
+            <table-wrap id="Terbinafine.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Terbinafine.T2_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Terbinafine.T2_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Terbinafine.T2_1_1_1_3" rowspan="1" colspan="1">ALT* (U/L)</th>
+                    <th id="hd_h_Terbinafine.T2_1_1_1_4" rowspan="1" colspan="1">Alk P* (U/L)</th>
+                    <th id="hd_h_Terbinafine.T2_1_1_1_5" rowspan="1" colspan="1">Bilirubin* (mg/dL)</th>
+                    <th id="hd_h_Terbinafine.T2_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_1" rowspan="1" colspan="1">1 month</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_2" rowspan="1" colspan="1">8 days</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_3" rowspan="1" colspan="1">584</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_4" rowspan="1" colspan="1">222</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_5" rowspan="1" colspan="1">6.6</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_6" rowspan="1" colspan="1">Admission</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_2" rowspan="1" colspan="1">11 days</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_3" rowspan="1" colspan="1">420</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_4" rowspan="1" colspan="1">370</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_5" rowspan="1" colspan="1">12.0</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_6" rowspan="1" colspan="1">Normal ultrasound</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_2" rowspan="1" colspan="1">21 days</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_3" rowspan="1" colspan="1">210</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_4" rowspan="1" colspan="1">530</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_5" rowspan="1" colspan="1">20.5</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_6" rowspan="1" colspan="1">Intense pruritus</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_2" rowspan="1" colspan="1">27 days</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_3" rowspan="1" colspan="1">190</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_4" rowspan="1" colspan="1">550</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_5" rowspan="1" colspan="1">25.0</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_2" rowspan="1" colspan="1">29 days</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_3" rowspan="1" colspan="1">205</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_4" rowspan="1" colspan="1">525</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_5" rowspan="1" colspan="1">30.9</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_6" rowspan="1" colspan="1">Liver biopsy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_1" rowspan="1" colspan="1">2 months</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_2" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_3" rowspan="1" colspan="1">310</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_4" rowspan="1" colspan="1">490</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_5" rowspan="1" colspan="1">28.0</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_2" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_3" rowspan="1" colspan="1">250</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_4" rowspan="1" colspan="1">490</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_5" rowspan="1" colspan="1">21.0</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_6" rowspan="1" colspan="1">Symptoms improved</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_2" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_3" rowspan="1" colspan="1">175</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_4" rowspan="1" colspan="1">400</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_5" rowspan="1" colspan="1">10.0</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_2" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_3" rowspan="1" colspan="1">40</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_4" rowspan="1" colspan="1">670</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_5" rowspan="1" colspan="1">5.0</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_1" rowspan="1" colspan="1">3 months</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_2" rowspan="1" colspan="1">9 weeks</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_3" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_4" rowspan="1" colspan="1">200</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_5" rowspan="1" colspan="1">1.4</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_6" rowspan="1" colspan="1">Asymptomatic</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_2" rowspan="1" colspan="1">10 weeks</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_3" rowspan="1" colspan="1">40</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_4" rowspan="1" colspan="1">110</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_5" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_1 hd_h_Terbinafine.T2_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;42</bold>
+</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;120</bold>
+</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Terbinafine.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <p>*Values estimated from Figure 2.</p>
+          </sec>
+          <sec id="Terbinafine.Comment1">
+            <title>Comment</title>
+            <p>This was a typical case of terbinafine hepatotoxicity arising within 4 weeks of starting therapy and worsening for several weeks thereafter despite the prompt discontinuation. The initial laboratory results suggested a hepatocellular pattern of injury, but by the time of peak bilirubin elevation the serum enzyme pattern was clearly cholestatic. The prominence of jaundice and pruritus also argued for a cholestatic injury. A liver biopsy showed evidence of injury to bile ducts and ductopenia, which was clearly severe enough to cause prolonged jaundice, but not severe enough to cause persistence of cholestatic features and qualify as vanishing bile duct syndrome.</p>
+          </sec>
+        </sec>
+        <sec id="Terbinafine.Case_2._Terbinafine_induced_">
+          <title>Case 2. Terbinafine induced cholestatic hepatitis.</title>
+          <p>[Modified from a case in the database of the Drug-Induced Liver Injury Network]</p>
+          <p>A 43 year old man with history of diabetes and onychomycosis developed fatigue and flu-like symptoms one month after starting treatment with terbinafine taken orally once daily. He developed severe itching one week later and stopped terbinafine after a total of 40 days. Several days later he complained of nausea, vomiting and became jaundiced. Laboratory investigations (Table 1) revealed bilirubin of 6.8 mg/dL, ALT 269 U/L and alkaline phosphatase 433 U/L. Tests for hepatitis A, B and C were negative as were autoantibodies. Imaging of the liver showed no evidence of extrahepatic obstruction. Five days after stopping terbinafine, prednisone was started. Prednisone was initially given intravenously and then orally in tapering doses over 4 weeks (60 mg, 40 mg, 20 mg, 10 mg for one week each). The itching and jaundice improved and he became asymptomatic a month after initial presentation. Liver test abnormalities resolved over the next several months.</p>
+          <sec id="Terbinafine.Key_Points2">
+            <title>Key Points</title>
+            <table-wrap id="Terbinafine.T3" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Terbinafine</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Mixed (R=3.7)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">3+ (jaundice, hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">34 days</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">Symptomatic improvements after 4 weeks</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">Milrinone lactate</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Terbinafine.Laboratory_Values2">
+            <title>Laboratory Values</title>
+            <table-wrap id="Terbinafine.T4" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Terbinafine.T4_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Terbinafine.T4_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Terbinafine.T4_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Terbinafine.T4_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Terbinafine.T4_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Terbinafine.T4_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_1" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_3" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_4" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_5" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_1" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_3 hd_h_Terbinafine.T4_1_1_1_4 hd_h_Terbinafine.T4_1_1_1_5" colspan="3" rowspan="1">Terbinafine started</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_1" rowspan="1" colspan="1">34 days</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_3" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_6" rowspan="1" colspan="1">Fatigue, flu-like illness</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_1" rowspan="1" colspan="1">40 days</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_3 hd_h_Terbinafine.T4_1_1_1_4 hd_h_Terbinafine.T4_1_1_1_5" colspan="3" rowspan="1">Terbinafine stopped</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_6" rowspan="1" colspan="1">Severe itching, dark urine</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_2" rowspan="1" colspan="1">3 days</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_3" rowspan="1" colspan="1">269</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_4" rowspan="1" colspan="1">443</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_5" rowspan="1" colspan="1">6.8</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_6" rowspan="1" colspan="1">Nausea and vomiting</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_2" rowspan="1" colspan="1">6 days</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_3" rowspan="1" colspan="1">234</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_4" rowspan="1" colspan="1">489</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_5" rowspan="1" colspan="1">6.2</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_6" rowspan="1" colspan="1">Prednisone started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_1" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_2" rowspan="1" colspan="1">7 days</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_3" rowspan="1" colspan="1">269</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_4" rowspan="1" colspan="1">508</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_5" rowspan="1" colspan="1">9.1</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_2" rowspan="1" colspan="1">10 days</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_3" rowspan="1" colspan="1">686</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_4" rowspan="1" colspan="1">667</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_5" rowspan="1" colspan="1">11.3</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_1" rowspan="1" colspan="1">2 months</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_2" rowspan="1" colspan="1">17 days</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_3" rowspan="1" colspan="1">775</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_4" rowspan="1" colspan="1">625</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_5" rowspan="1" colspan="1">6.4</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_1" rowspan="1" colspan="1">3 months</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_2" rowspan="1" colspan="1">1 month</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_3" rowspan="1" colspan="1">99</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_4" rowspan="1" colspan="1">232</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_5" rowspan="1" colspan="1">2.1</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_6" rowspan="1" colspan="1">Prednisone stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_1 hd_h_Terbinafine.T4_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;41</bold>
+</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_4" rowspan="1" colspan="1">
+<bold>115</bold>
+</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Terbinafine.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Terbinafine.Comment2">
+            <title>Comment</title>
+            <p>A 43 year old man developed fatigue approximately 5 weeks after starting terbinabine and itching and jaundice one to two weeks later. The symptoms (itching) suggested a cholestatic hepatitis, although the initial pattern of enzyme elevations was &#x0201c;mixed&#x0201d; (R=3.7). While corticosteroids may improve itching and jaundice, they have not been shown to ameliorate or shorten the course of illness. The patient became asymptomatic after 4 weeks, but was lost to follow up. Follow up is important, as terbinafine hepatotoxicity has been linked to cases of chronic cholestasis and vanishing bile duct syndrome, and his liver tests were not normal when he was last seen and prednisone stopped.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Terbinafine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Terbinafine.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Terbinafine &#x02013; Generic, Lamisil&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Antifungal Agents</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=terbinafine">COMPLETE LABELING</ext-link>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Terbinafine.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Terbinafine.T5" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Terbinafine.T5_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Terbinafine.T5_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Terbinafine.T5_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Terbinafine.T5_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Terbinafine.T5_1_1_1_1" rowspan="1" colspan="1">Terbinafine</td>
+                <td headers="hd_h_Terbinafine.T5_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135014005">91161-71-6</ext-link>
+</td>
+                <td headers="hd_h_Terbinafine.T5_1_1_1_3" rowspan="1" colspan="1">C21-H25-N</td>
+                <td headers="hd_h_Terbinafine.T5_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Terbinafine_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Terbinafine Chemical Structure</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Terbinafine.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 01 January 2018</p>
+        <ref-list id="Terbinafine.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Terbinafine.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Antifungal agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 609-11.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of antifungal agents published in 1999; reports that terbinafine has been implicated in at least 10 cases of hepatic injury, usually mixed pattern of enzyme elevations and 1 case of possible vanishing bile duct syndrome).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R2">
+            <mixed-citation publication-type="other">Moseley RH. Antifungal agents. Antibacterial and antifungal agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 470-3. <italic toggle="yes">(Review of hepatotoxicity of antifungal agents</italic><annotation><p><italic toggle="yes">mentions that many case reports of terbinafine hepatotoxicity have been published, that latency is 4 to 6 weeks, typicaly with a mixed enzyme pattern, sometimes with bile duct injury and occasionally with acute liver failure). </italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R3">
+            <mixed-citation publication-type="other">Bennett JE. Antimicrobial agents: antifungal agents. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1571-92.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics mentions that oral terbinafine is more effective than itraconazole for nail onychomycosis).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R4">
+            <mixed-citation publication-type="journal">Lowe G, Green C, Jennings P. Hepatitis associated with terbinafine treatment. BMJ 1993; 306: 248. <annotation><p><italic toggle="yes">(52 year old man developed abdominal pain and jaundice 2 weeks after starting terbinafine [bilirubin 1.7 mg/dL, ALT 470 U/L and AlkP 193 U/L], resolving within a month of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">8443524</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R5">
+            <mixed-citation publication-type="journal">Hay RJ. Risk/benefit ratio of modern antifungal therapy: focus on hepatic reactions. J Am Acad Dermatol 1993; 29: S50-4. <annotation><p><italic toggle="yes">(Review article on hepatotoxicity of antifungal agents, griseofulvin, ketoconazole, fluconazole, itraconazole and terbinafine; does not recommend routine monitoring, but stresses need to discontinue agent if there are symptoms of hepatic injury).</italic></p></annotation><pub-id pub-id-type="pmid">8315062</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R6">
+            <mixed-citation publication-type="journal">van &#x02018;t Wout JW, Herrmann WA, de Vries RA, Stricker BHC. Terbinafine-associated hepatic injury. J Hepatology 1994; 21: 1115-7. <annotation><p><italic toggle="yes">(Two cases of hepatitis due to terbinafine; 63 year old man and 52 year old woman who developed jaundice 38 and 31 days after starting terbinafine [bilirubin 10.6 and 7.3 mg/dL, ALT 194 and 446 U/L, and Alk P 201 and 296 U/L], resolving slowly but completely by 12 weeks).</italic></p></annotation><pub-id pub-id-type="pmid">7963410</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R7">
+            <mixed-citation publication-type="journal">Ihre-Lundgren C, Frisell J, Bergman U. [A patient treated with terbinafine. Intrahepatic biliary stasis is a severe adverse effect]. Lakartidningen 1995; 92: 1112-3. Swedish. <annotation><p><italic toggle="yes">(43 year old man developed fatigue and jaundice 6 weeks after starting terbinafine [bilirubin 10.9 mg/dL, ALT 312 U/L, Alk P 690 U/L], worsening for 4 weeks, found to have intrahepatic gallstones, resolving over 12 weeks).</italic></p></annotation><pub-id pub-id-type="pmid">7700115</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R8">
+            <mixed-citation publication-type="journal">Lazaros GA, Papatheodoridis GV, Delladetsima JK, Tassopoulos NC. Terbinafine-induced cholestatic liver disease. J Hepatol 1996; 24: 753-6. <annotation><p><italic toggle="yes">(58 year old woman developed jaundice 7 weeks after starting terbinafine and presented 18 days later with jaundice [bilirubin 16.7 mg/dL, ALT 470 U/L, Alk P 934 U/L], resolving slowly over the 6 months after stopping).</italic></p></annotation><pub-id pub-id-type="pmid">8835752</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R9">
+            <mixed-citation publication-type="journal">Boldewijn OY, Ottervanger JP, Mostart CM, Janssens AR, Calame J, Jonkers GJ. [Hepatitis attributed to the use of terbinafine]. Ned Tijdschr Geneeskd 1996; 140: 669-72. Dutch. <annotation><p><italic toggle="yes">(71 year old developed severe cholestasis [bilirubin 7.9 mg/dL, ALT 321 U/L] and pruritus that persisted for 10 months, after stopping 6 week course of terbinafine).</italic></p></annotation><pub-id pub-id-type="pmid">8668241</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R10">
+            <mixed-citation publication-type="journal">Vantaux P, Grasset D, Nougue J, Lagier E, Seigneuric C. [Acute hepatitis related to the ingestion of terbinafine]. Gastroenterol Clin Biol 1996; 20: 402-3. French. <annotation><p><italic toggle="yes">(68 year old man developed malaise and fever 23 days after starting terbinafine [bilirubin 1.8 mg/dL, ALT 9 times ULN, Alk P 4 times ULN], with rapid improvement and resolution within 1 month of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">8758509</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R11">
+            <mixed-citation publication-type="journal">Dwyer CM, White MI, Sinclair TS. Cholestatic jaundice due to terbinafine. Br J Dermatol 1997; 136: 976-7. <annotation><p><italic toggle="yes">(40 year old man developed jaundice and pruritus 6 weeks after starting terbinafine [bilirubin 5.6 mg/dL, ALT 165 U/L, Alk P 256 U/L], resolving within 10 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">9217846</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R12">
+            <mixed-citation publication-type="journal">Mallat A, Zafrani ES, Metreau JM, Dhumeaux D. Terbinafine-induced prolonged cholestasis with reduction of interlobular bile ducts. Dig Dis Sci 1997; 42: 1486-8. <annotation><p><italic toggle="yes">(75 year old woman developed weakness followed by jaundice and pruritus several days after completing a 3 week course of terbinafine [bilirubin 5.2 rising to 7.3 mg/dL, ALT 277 U/L, Alk P 375 U/L]; pruritus persisted and biopsy at 6 months showed decrease in bile ducts; GGT still abnormal 17 months later).</italic></p></annotation><pub-id pub-id-type="pmid">9246051</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R13">
+            <mixed-citation publication-type="journal">Shiloah E, Horowiz M, Zecler E. [Terbinafine-induced cholestatic liver injury]. Harefuah 1997; 133: 11-2, 80-1. Hebrew. <pub-id pub-id-type="pmid">9332048</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R14">
+            <mixed-citation publication-type="journal">Tejada Garc&#x000ed;a M, Llvona Hevia AM, Mart&#x000ed;n Arias L, Garc&#x000ed;a-Pando AC. [Terbinafine and cholestatic hepatitis]. Med Clin (Barc) 1997; 109: 356. Spanish. <annotation><p><italic toggle="yes">(58 year old man developed jaundice 40 days after starting terbinafine [bilirubin 13.3 mg/dL, ALT 136 U/L, Alk P 728 U/L], 6 months later, he was anicteric but still had mild serum aminotransferase elevations).</italic></p></annotation><pub-id pub-id-type="pmid">9379769</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R15">
+            <mixed-citation publication-type="journal">Vivas S, Rodr&#x000ed;guez M, Palacio MA, Cadenas F, Lomo J, Rodrigo L. [Acute hepatitis associated with terbinafine]. Gastroenterol Hepatol 1997; 20: 456-8. Spanish. <annotation><p><italic toggle="yes">(59 year old man developed abdominal pain and dark urine 32 days after starting terbinafine, presenting with jaundice 1 week later [bilirubin 13.3 rising to 37 mg/dL, ALT 136 U/L, Alk P 728 rising to 1258 U/L], with prolonged cholestasis requiring a year for full resolution; seems to be the same case as Tejada Garcia [1997]).</italic></p></annotation><pub-id pub-id-type="pmid">9445740</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R16">
+            <mixed-citation publication-type="journal">Hall M, Monka C, Krupp P, O'Sullivan D. Safety of oral terbinafine: results of a postmarketing surveillance study in 25,884 patients. Arch Dermatol 1997; 133: 1213-9. <annotation><p><italic toggle="yes">(Results of prospective postmarketing surveillance in 25,884 patients treated with terbinafine for an average of 13 weeks; adverse events reported in 10.5%, largely gastrointestinal upset [4.9%] and dermatologic [2.3%]; hepatobiliary events in 55 patients [0.2%], 45 with asymptomatic ALT elevations, 5 with nonspecific symptoms and 5 with jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">9382559</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R17">
+            <mixed-citation publication-type="journal">Abdel-Rahman SM, Nahata MC. Oral terbinafine: a new antifungal agent. Ann Pharmacother 1997; 31: 445-56. <annotation><p><italic toggle="yes">(Extensive review of clinical efficacy of terbinafine for superficial fungal infections; low rate of adverse events ~2% to 7%, asymptomatic ALT elevations in 0.5%, severe hepatitis in 1:120,000).</italic></p></annotation><pub-id pub-id-type="pmid">9101008</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R18">
+            <mixed-citation publication-type="journal">Fernandes NF, Geller SA, Fong TL. Terbinafine hepatotoxicity: case report and review of the literature. Am J Gastroenterol 1998; 93: 459-60. <annotation><p><italic toggle="yes">(24 year old man developed jaundice and pruritus 3.5 weeks after starting terbinafine [bilirubin 6.6 rising to 30.9 mg/dL, ALT 584 U/L, Alk P 222 U/L], biopsy showing bile duct injury; resolving within 3 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">9517658</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R19">
+            <mixed-citation publication-type="journal">Gupta AK, del Rosso JQ, Lynde CW, Brown GH, Shear NH. Hepatitis associated with terbinafine therapy: three case reports and a review of the literature. Clin Exp Dermatol 1998; 23: 64-7. <annotation><p><italic toggle="yes">(Three cases, 1 man and 2 women, ages 54, 42 and 74 years, presenting after 3, 4 and 4 weeks with jaundice [bilirubin 8.4, 5.3 and 10.5 mg/dL, ALT 407, 521 and 333 U/L, Alk P 273, 214 and 157 U/L], slow resolution and no or little follow up on two cases).</italic></p></annotation><pub-id pub-id-type="pmid">9692307</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R20">
+            <mixed-citation publication-type="journal">Agarwal K, Manas DM, Hudson M. Terbinafine and fulminant hepatic failure. N Engl J Med 1999; 340: 1292-3. <annotation><p><italic toggle="yes">(48 year old woman developed acute liver failure after 5 days of terbinafine therapy, ultimately requiring successful emergency liver transplantation; few details given).</italic></p></annotation><pub-id pub-id-type="pmid">10215503</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R21">
+            <mixed-citation publication-type="journal">Garc&#x000ed;a Rodriguez L, Duque A, Castellsague J, P&#x000e9;rez-Gutthann S, Stricker B. A cohort study on the risk of acute liver injury among users of ketoconazole and other antifungal drugs. Br J Clin Pharmacol 1999; 48: 847-52. <annotation><p><italic toggle="yes">(Population based study identified 5 cases of acute liver injury during antifungal therapy in 69,830 patients; relative risk for ketoconazole was 228 [~2:1,000 patients], itraconazole 17.7 [~1:10,000] and terbinafine 4.2 [~.2:10,000]).</italic></p></annotation><pub-id pub-id-type="pmid">10594489</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R22">
+            <mixed-citation publication-type="journal">Chambers WM, Millar A, Jain S, Burroughs AK. Terbinafine-induced hepatic dysfunction. Eur J Gastroenterol Hepatol 2001; 13: 1115-8. <annotation><p><italic toggle="yes">(41 year old man developed jaundice 4 weeks after starting terbinafine which worsened over next 3 to 6 weeks [bilirubin 7.0 rising to 33.2 mg/dL, AST 124 U/L, Alk P 568 U/L], followed by prolonged jaundice [5 months], pruritus [10 months] and persistent Alk P elevations).</italic></p></annotation><pub-id pub-id-type="pmid">11564966</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R23">
+            <mixed-citation publication-type="journal">Conjeevaram G, Vongthavaravat V, Sumner R, Koff RS. Terbinafine-induced hepatitis and pancytopenia. Dig Dis Sci 2001; 46: 1714-6. <annotation><p><italic toggle="yes">(63 year old man developed malaise, fever and pancytopenia 4 weeks after starting terbinafine, which worsened over the next 3 weeks [bilirubin 1.7 rising to 2.0 mg/dL, ALT 86 to 1073 U/L, Alk P 94 to 597 U/L], resolving within 6 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">11508672</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R24">
+            <mixed-citation publication-type="journal">Iverson SL, Uetrecht JP. Identification of a reactive metabolite of terbinafine: insights into terbinafine-induced hepatotoxicity. Chem Res Toxicol 2001; 14: 175-81. <annotation><p><italic toggle="yes">(Identified an N-dealkylation product of terbinafine which could bind to hepatobiliary proteins and induce an immune reaction).</italic></p></annotation><pub-id pub-id-type="pmid">11258966</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R25">
+            <mixed-citation publication-type="journal">Johnstone D, Berger C, Fleckman P. Acute fulminant hepatitis after treatment with rabeprazole and terbinafine. Arch Intern Med 2001; 161: 1677-8. <annotation><p><italic toggle="yes">(46 year old man developed jaundice 4 weeks after starting terbinafine, citalopram and rabepazole [bilirubin 1.2 rising to 5.2 mg/dL, ALT &#x0003e;3000 U/L, INR 1.8, mild encephalopathy and renal failure], but eventual recovery after stopping all 3 agents).</italic></p></annotation><pub-id pub-id-type="pmid">11434801</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R26">
+            <mixed-citation publication-type="journal">Andrade RJ, Lucena MI. Acute fulminant hepatitis after treatment with rabeprazole and terbinafine: is rabeprazole the culprit? Arch Intern Med 2002; 162: 360-1. <annotation><p><italic toggle="yes">(Letter in response to Johnstone [2001] suggesting that terbinafine was the culprit rather than rabeprazole).</italic></p></annotation><pub-id pub-id-type="pmid">11822934</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R27">
+            <mixed-citation publication-type="journal">Severe liver damage on terbinafine. Prescrire Int 2002; 11: 16. <annotation><p><italic toggle="yes">(Mentions that FDA has reported 16 cases of severe liver damage due to terbinafine, including 11 deaths and 2 liver transplants).</italic></p></annotation><pub-id pub-id-type="pmid">11985370</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R28">
+            <mixed-citation publication-type="journal">Anania FA, Rabin L. Terbinafine hepatotoxicity resulting in chronic biliary ductopenia and portal fibrosis. Am J Med 2002; 112: 741-2. <annotation><p><italic toggle="yes">(56 year old woman with jaundice after a short course of terbinafine who developed persistent pruritus and Alk P elevations [550 U/L], liver biopsy 20 months later showing paucity of bile ducts).</italic></p></annotation><pub-id pub-id-type="pmid">12079721</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R29">
+            <mixed-citation publication-type="journal">Walter RB, Lukaschek J, Renner EL, M&#x000fc;llhaupt B, Bachli EB. Fatal hepatic veno-occlusive disease associated with terbinafine in a liver transplant recipient. J Hepatol 2003; 38: 373-4. <annotation><p><italic toggle="yes">(35 year old man with familial amyloid polyneuropathy and liver transplant developed jaundice 6 weeks after starting terbinafine [bilirubin 8.9 mg/dL, ALT 491 U/L, Alk P 1128 U/L], with severe pruritus and ascites and progressive central vein sclerosis and death from gastrointestinal bleeding).</italic></p></annotation><pub-id pub-id-type="pmid">12586307</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R30">
+            <mixed-citation publication-type="journal">Zapata Garrido AJ, Romo AC, Padilla FB. Terbinafine hepatotoxicity. A case report and review of the literature. Ann Hepatol 2003; 2: 47-51. <annotation><p><italic toggle="yes">(53 year old woman developed jaundice and abdominal pain 7 days after starting terbinafine [bilirubin 5.8 rising to 23 mg/dL, ALT 1272 U/L, Alk P 154 U/L], worsening for 4 weeks and then resolving over the next 4 months after stopping).</italic></p></annotation><pub-id pub-id-type="pmid">15094707</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R31">
+            <mixed-citation publication-type="journal">Ajit C, Suvannasankha A, Zaeri N, Munoz SJ. Terbinafine-associated hepatotoxicity. Am J Med Sci 2003; 325: 292-5. <annotation><p><italic toggle="yes">(65 year old man developed fatigue and jaundice 4 weeks after starting terbinafine [bilirubin 21.0 mg/dL, ALT 179 U/L, Alk P 1040 U/L], slow recovery, biopsy showing bile duct injury; corticosteroids started and improved, but enzymes were not normal 4 months later).</italic></p></annotation><pub-id pub-id-type="pmid">12792250</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R32">
+            <mixed-citation publication-type="journal">Burstein Z, Vildosola H, Lozano Z, Verona R, Vargas G. Colestasic toxic hepatitis caused by terbinafine: case report. Rev Gastroenterol Peru 2004; 24: 357-62. Spanish. <annotation><p><italic toggle="yes">(31 year old woman developed jaundice 40 days after starting terbinafine [bilirubin 3.2 mg/dL, ALT 244 U/L, Alk P 334 U/L], resolving within 3 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">15614306</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R33">
+            <mixed-citation publication-type="journal">Wingfield AB, Fernandez-Obregon AC, Wignall FS, Greer DL. Treatment of tinea imbricate: a randomized clinical trial using griseofulvin, terbinafine, itraconazole and fluconazole. Br J Dermatol 2004; 150: 119-26. <annotation><p><italic toggle="yes">(Randomized trial of four antifungals for 4 weeks for tinea imbricate in 86 patients in New Guinea; griseofulvin and terbinafine were effective; itraconazole and fluconazole were not; only one patient had ALT elevation [3-fold: terbinafine]).</italic></p></annotation><pub-id pub-id-type="pmid">14746625</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R34">
+            <mixed-citation publication-type="journal">Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl 2004; 10: 1018-23. <annotation><p><italic toggle="yes">(Among ~50,000 liver transplants done in the US between 1990 and 2002, 137 [0.2%] were done for idiosyncratic drug induced acute liver failure, of which 6 were attributed to ketoconazole and 1 to itraconazole, but none to terbinafine).</italic></p></annotation><pub-id pub-id-type="pmid">15390328</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R35">
+            <mixed-citation publication-type="journal">Nakano N, Hiruma M, Shiraki Y, Chen X, Porgpermdee S, Ikeda S. Combination of pulse therapy with terbinafine tablets and topical terbinafine cream for the treatment of dermatophyte onychomycosis: a pilot study. J Dermatol 2006; 33: 753-8. <annotation><p><italic toggle="yes">(Trial of pulse therapy with terbinafine in 66 patients [one week every month] found high rate of response and &#x0201c;no abnormal findings in the laboratory tests performed before, during or after pulse therapy&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">17073989</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R36">
+            <mixed-citation publication-type="journal">Song J, Deresinski S. Hepatotoxicity of antifungal agents. Curr Opin Investig Drugs 2005; 6: 170-7. <annotation><p><italic toggle="yes">(Extensive review of hepatotoxicity from antifungals; terbinafine reported to cause ALT elevations in 4% of patients; several cases of clinically apparent hepatitis and acute liver failure have been described, typically arising within 4-6 weeks and requiring 3-6 months to resolve; 16 cases of hepatotoxicity reported to FDA, including 11 deaths and 2 liver transplants).</italic></p></annotation><pub-id pub-id-type="pmid">15751740</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R37">
+            <mixed-citation publication-type="journal">Paredes AH, Lewis JH. Terbinafine-induced acute autoimmune hepatitis in the setting of hepatitis B virus infection. Ann Pharmacother 2007; 41: 880-4. <annotation><p><italic toggle="yes">(57 year old male HBsAg carrier who developed severe acute hepatitis after 12 weeks of terbinafine therapy [bilirubin 11.0 mg/dL, ALT 1044 U/L, Alk P 167 U/L] and rise in HBV DNA; suggestive of HBV reactivation rather than terbinafine hepatotoxicity per se).</italic></p></annotation><pub-id pub-id-type="pmid">17426078</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R38">
+            <mixed-citation publication-type="journal">Kim B, Jang H, Jwa S, Jang B, Kim M, Oh C, Kwon Y, et al. Generalized pustular psoriasis and hepatic dysfunction associated with oral terbinafine therapy. J Korean Med Sci 2007; 22: 167-9. <annotation><p><italic toggle="yes">(61 year old man with psoriasis developed generalized pustular psoriasis 4 days after starting terbinafine with fever, rash, and neutrophilia but no jaundice [bilirubin normal, ALT 376 U/L, Alk P 564 U/L], symptoms and enzyme elevations responding to corticosteroids within 2 weeks).</italic></p></annotation><pub-id pub-id-type="pmid">17297275</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R39">
+            <mixed-citation publication-type="journal">Chang CH, Young-Xu Y, Kurth T, Orav JE, Chan AK. The safety of oral antifungal treatments for superficial dermatophytosis and onychomycosis: a meta-analysis. Am J Med 2007; 120: 791-8. <annotation><p><italic toggle="yes">(The pooled probability of stopping terbinafine because of elevated ALT/AST was 0.31% [95% CI, 0%-0.74%] for 2-6 weeks and 0.44% [95% CI, 0.13%-0.76%] for 8-48 weeks).</italic></p></annotation><pub-id pub-id-type="pmid">17765049</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R40">
+            <mixed-citation publication-type="journal">Perveze Z, Johnson MW, Rubin RA, Sellers M, Zayas C, Jones JL, Cross R, et al. Terbinafine-induced hepatic failure requiring liver transplantation. Liver Transpl 2007; 13: 162-4. <annotation><p><italic toggle="yes">(50 year old man developed jaundice 3 months after starting terbinafine [bilirubin 29 rising to 67.7 mg/dL, ALT 149 U/L, Alk P 497 U/L], with progressive hepatic failure leading to liver transplantation, explant showed severe cholestasis and paucity of bile ducts).</italic></p></annotation><pub-id pub-id-type="pmid">17192859</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R41">
+            <mixed-citation publication-type="journal">Gendre G, Buclin T, Morard I, Fontannaz J, Berney JL. [Terbinafine induced hepatitis with persistent cholestasis]. Rev Med Suisse 2008; 4: 736-9. French. <annotation><p><italic toggle="yes">(55 year old developed jaundice 6 weeks after starting terbinafine [bilirubin 11.9 mg/dL, ALT 57 U/L, Alk P 590 U/L], jaundice persisting for 3 months and Alk P elevations continuing for more than 6 months, biopsy showing vanishing bile duct syndrome).</italic></p></annotation><pub-id pub-id-type="pmid">18472735</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R42">
+            <mixed-citation publication-type="journal">Elewski BE, C&#x000e1;ceres HW, DeLeon L, El Shimy S, Hunter JA, Korotkiy N, Rachesky IJ, et al. Terbinafine hydrochloride oral granules versus oral griseofulvin suspension in children with tinea capitis: results of two randomized, investigator-blinded, multicenter, international, controlled trials. J Am Acad Dermatol 2008; 59: 41-54. <annotation><p><italic toggle="yes">(Pooled analysis of two controlled trials of 6 weeks of terbinafine vs griseofulvin in 1549 children with tinea capitis; no difference in biochemical laboratory results between two groups; low rate of discontinuation because of abnormal liver tests [&#x0003c;1%]).</italic></p></annotation><pub-id pub-id-type="pmid">18378354</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R43">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes"> (Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, 8 were attributed to antifungal agents, including 4 to terbinafine, 2 to fluconazole, 1 each to ketaconazole and itraconazole).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R44">
+            <mixed-citation publication-type="journal">Antifungal drugs. Treat Guidel Med Lett 2009; 7: 95-102. <annotation><p><italic toggle="yes"> (Concise summary of therapy of fungal infections with recommendations on agents, dosage and duration of treatment and safety; because of risk of liver injury from terbinafine, recommends that liver tests be assessed before and periodically during therapy).</italic></p></annotation><pub-id pub-id-type="pmid">19940816</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R45">
+            <mixed-citation publication-type="journal">Gupta AK, Lynch LE, Kogan N, Cooper EA. The use of an intermittent terbinafine regimen for the treatment of dermatophyte toenail onychomycosis. J Eur Acad Dermatol Venereol 2009; 23: 256-62. <annotation><p><italic toggle="yes">(Trial comparing continuous vs intermittent terbinafine for onychomycosis in 142 adults reported no serious adverse events; no mention of liver toxicity).</italic></p></annotation><pub-id pub-id-type="pmid">19438818</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R46">
+            <mixed-citation publication-type="journal">Takahata Y, Hiruma M, Shiraki Y, Tokuhisa Y, Sugita T, Muto M. Treatment of dermatophyte onychomycosis with three pulses of terbinafine (500 mg day for a week). Mycoses 2009; 52: 72-6. <annotation><p><italic toggle="yes">(55 patients with oncychomycosis were treated with 3 one-week courses [pulses] of terbinafine; no patient had &#x0201c;abnormal findings in any of the laboratory tests&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">18444971</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R47">
+            <mixed-citation publication-type="journal">Ferrajolo C, Capuano A, Verhamme KM, Schuemie M, Rossi F, Stricker BH, Sturkenboom MC. Drug-induced hepatic injury in children: a case/non-case study of suspected adverse drug reactions in VigiBase. Br J Clin Pharmacol 2010; 70: 721-8. <annotation><p><italic toggle="yes">(Worldwide pharmacovigilance database contained 9036 hepatic adverse drug reactions in children, voriconazole ranked 21st with 52 cases [odds ratio 10.7] and fluconazole 30th with 42 cases [odds ratio 8.6]; terbinafine was not listed in the top 41 causes).</italic></p></annotation><pub-id pub-id-type="pmid">21039766</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R48">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, of which 6 were due to antifungal agents, including 3 to terbinafine).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R49">
+            <mixed-citation publication-type="journal">Tey HL, Tan AS, Chan YC. Meta-analysis of randomized, controlled trials comparing griseofulvin and terbinafine in the treatment of tinea capitis. J Am Acad Dermatol 2011; 64: 663-70. <annotation><p><italic toggle="yes">(Systematic review of trials comparing oral griseofulvin and terbinafine, rates of hepatotoxicity not mentioned, but authors do not recommend routine monitoring of liver tests if terbinafine is given for 4 weeks only).</italic></p></annotation><pub-id pub-id-type="pmid">21334096</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R50">
+            <mixed-citation publication-type="journal">Deng S, Hu H, Abliz P, Wan Z, Wang A, Cheng W, Li R. A random comparative study of terbinafine versus griseofulvin in patients with tinea capitis in western China. Mycopathologia 2011; 172: 365-72. <annotation><p><italic toggle="yes">(88 children with tinea capitis were treated with 2-4 weeks of oral terbinafine or grisefulvin; reported that there were no side effects). </italic></p></annotation><pub-id pub-id-type="pmid">21701791</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R51">
+            <mixed-citation publication-type="journal">Antifungal drugs. Treat Guidel Med Lett 2012; 10 (120): 61-8. <annotation><p><italic toggle="yes"> (Concise summary of recommendations and guidelines for use of antifungal drugs including the imidazoles and triazoles, echinocandins, terbinafine, flucytosine, and amphotericin; liver adverse events are mentioned for terbinafine, ketoconazole, fluconazole, itraconazole, posaconazole and voriconazole).</italic></p></annotation><pub-id pub-id-type="pmid">22825657</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R52">
+            <mixed-citation publication-type="journal">Kao WY, Su CW, Huang YS, Chou YC, Chen YC, Chung WH, Hou MC, et al. Risk of oral antifungal agent-induced liver injury in Taiwanese. Br J Clin Pharmacol 2014; 77: 180-9. <annotation><p><italic toggle="yes">(Analysis of Taiwan National Health Insurance database from 2002-2008 identified 52 patients with drug induced liver injury among 90,847 users of oral antifungal agents, only 2 of which were attributed to terbinafine).</italic></p></annotation><pub-id pub-id-type="pmid">23750489</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R53">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes"> (In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, none of which were attributed to terbinafine or other antifungal agents). </italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R54">
+            <mixed-citation publication-type="journal">Choudhary NS, Kotecha H, Saraf N, Gautam D, Saigal S. Terbinafine induced liver injury: a case report. J Clin Exp Hepatol 2014; 4: 264-5. <annotation><p><italic toggle="yes">(55 year old man developed jaundice and pruritus 1 month after starting terbinafine [bilirubin 13.6 mg/dL, ALT 216 U/L, Alk P 202 U/L], resolving within 3 months of stopping and with ursodiol therapy).</italic></p></annotation><pub-id pub-id-type="pmid">25755569</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R55">
+            <mixed-citation publication-type="journal">Kumar K, Gill A, Shafei R, Wright JL. A curious case of cholestasis: oral terbinafine associated with cholestatic jaundice and subsequent erythema nodosum. BMJ Case Rep 2014; 2014. <annotation><p><italic toggle="yes">(A 30ish year old woman developed itching and jaundice shortly after completing a 3 week course of terbinafine [bilirubin 8.5 mg/dL, ALT 120 U/L, Alk P 463 U/L] followed by eythema nodosum which was treated with prednisone; 6 weeks later the skin rash had resolved and all liver tests were normal). </italic></p></annotation><pub-id pub-id-type="pmid">25480138</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R56">
+            <mixed-citation publication-type="journal">Raschi E, Poluzzi E, Koci A, Caraceni P, Ponti FD. Assessing liver injury associated with antimycotics: Concise literature review and clues from data mining of the FAERS database. World J Hepatol 2014; 6: 601-12. <annotation><p><italic toggle="yes"> (Analysis of spontaneous reports of drug induced liver injury to the FDA between 2004 and 2011 identified 395 cases of liver injury attributed to terbinafine including 27 cases of acute liver failure, thus ranking first in total number of cases due to antifungal agents).</italic></p></annotation><pub-id pub-id-type="pmid">25232453</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R57">
+            <mixed-citation publication-type="journal">Yan J, Wang X, Chen S. Systematic review of severe acute liver injury caused by terbinafine. Int J Clin Pharm 2014; 36: 679-83. <annotation><p><italic toggle="yes">(Case report and systematic review of the literature on liver injury from terbinafine; 45 year old man developed dark urine 2 weeks after starting terbinafine and was admitted one month later [biliirubin 18.9 mg/dL, ALT 580 U/L, Alk P not provided] with eventual full recovery after treatment with ursodiol and several traditional Chinese medications).</italic></p></annotation><pub-id pub-id-type="pmid">24986266</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R58">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes"> (Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, none of which were attributed to terbinafine).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R59">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US mulitcenter prospective study between 2004 and 2013, 7 [0.9%] were attributed to terbinafine).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R60">
+            <mixed-citation publication-type="journal">Kyriakidis I, Tragiannidis A, Munchen S, Groll AH. Clinical hepatotoxicity associated with antifungal agents. Expert Opin Drug Saf 2017; 16: 149-65. <annotation><p><italic toggle="yes">(Review of the hepatotoxicity of antifungal agents discusses terbinafine and its association with both hepatocellular and cholestatic jaundice and which can result in acute liver failure).</italic></p></annotation><pub-id pub-id-type="pmid">27927037</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R61">
+            <mixed-citation publication-type="journal">Kramer ON, Albrecht J. Clinical presentation of terbinafine-induced severe liver injury and the value of laboratory monitoring: a critically appraised topic. Br J Dermatol 2017; 177: 1279-84. <annotation><p><italic toggle="yes">(Among 38 publications describing clinical features of terbinafine induced liver injury, 173 cases were analyzed but only 31 with jaundice, mean age of 54 years [range 24-75], mean latency to onset was 33 days [range 5-84], 3 patients died and 3 underwent liver transplantation; the authors conclude that routine monitoring of liver tests is not justified and is unlikely to be beneficial).</italic></p></annotation><pub-id pub-id-type="pmid">28762471</pub-id></mixed-citation>
+          </ref>
+          <ref id="Terbinafine.R62">
+            <mixed-citation publication-type="journal">Nicoletti P, Aithal GP, Bjornsson ES, Andrade RJ, Sawle A, Arrese M, Barnhart HX, et al.; International Drug-Induced Liver Injury Consortium, Drug-Induced Liver Injury Network Investigators, and International Serious Adverse Events Consortium. Association of liver injury from specific drugs, or groups of drugs, with polymorphisms in HLA and other genes in a genome-wide association study. Gastroenterology 2017; 152: 1078-89. <annotation><p><italic toggle="yes">(A genome-wide association study done on 862 persons of European ancestry with drug induced liver injury demonstrated a highly significant association with a polymorphism on chromosome 6 which was a proxy for HLA-A* 33:01 and most strongly linked to cases of terbinafine, although also with fenofibrate, methyldopa and ticlopidine and possibly other drug causes of cholestatic injury).</italic></p></annotation><pub-id pub-id-type="pmid">28043905</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Terbinafine.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(terbinafine)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Terbinafine: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=terbinafine">Trials on Terbinafine: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

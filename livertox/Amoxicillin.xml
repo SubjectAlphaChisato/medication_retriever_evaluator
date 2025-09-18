@@ -1,0 +1,1221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Amoxicillin" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Amoxicillin</book-part-id>
+      <title-group>
+        <title>Amoxicillin</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>20</day>
+          <month>10</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Amoxapine" document-type="chapter">Amoxapine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="AmoxicillinClavulana" document-type="chapter">Amoxicillin-Clavulanate</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Amoxicillin.OVERVIEW">
+        <title>OVERVIEW</title>
+        <p>Amoxicillin is considered a third generation or aminopenicillin and is one of the most commonly prescribed antibiotics. Amoxicillin and other aminopenicillins have been linked with idiosyncratic liver injury, but only rarely and in isolated case reports.</p>
+        <sec id="Amoxicillin.Background" sec-type="pubmed-excerpt">
+          <title>Background</title>
+          <p>Amoxicillin (a mox' i sil' in) is an orally available aminopenicillin antibiotic that has been available in the United States since 1980, for which currently more than 50 million prescriptions are filled yearly. Amoxicillin is used to treat mild to moderate infections caused by susceptible agents, such as (but not limited to) Escherichia coli, Hemophilus influenzae, Listeria monocytogenesis, Neisseria gonorrhoeae, Proteus mirabilis, Salmonella, Shigella, Staphylococcus aureus (non-penicillinase producing), Staphylococcus epidermidis, and Streptococcus pneumoniae. Amoxicillin is available in multiple generic formulations as tablets or capsules of 250, 500 and 875 mg and is usually given in doses of 250 to 850 mg every 8 hours for 7 to 14 days. Pediatric formulations in liquid suspension and chewable tablets are also available. Side effects are generally mild and self-limited and can include diarrhea, nausea and vomiting, fatigue, headache, local reactions and rash. Rare but potentially serious adverse events include hypersensitivity reactions, anaphylaxis, severe skin rash, Stevens Johnson syndrome, C. difficile diarrhea, neutropenia, aplastic anemia and thrombocytopenic purpura.</p>
+        </sec>
+        <sec id="Amoxicillin.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Rare instances of idiosyncratic liver injury have been reported in persons receiving the aminopenicillins including amoxicillin. Cases are characterized by a short latency period of a few days to as long as two weeks. The onset of liver injury can occur after the antibiotic is stopped. The serum enzyme pattern associated with aminopenicillin liver injury has included a hepatocellular pattern with marked elevations in ALT and AST, and minimal elevations in alkaline phosphatase and rapid recovery after withdrawal. In addition, cholestatic forms of hepatic injury with marked alkaline phosphatase elevations (as also seen with penicillin-induced liver injury) have also been described, some of which have been associated with prolonged cholestasis (Case 1). The onset of hepatic injury may be accompanied by signs or symptoms of hypersensitivity such as eosinophilia, rash and arthralgias, and in some cases is accompanied by toxic epidermal necrolysis or Stevens Johnson syndrome.</p>
+          <p>Much more common than liver injury from amoxicillin alone is the typically cholestatic hepatitis that occurs after treatment with the combination of amoxicillin and clavulanate. Indeed, this combination is currently the most common cause of idiosyncratic acute liver injury in the United States, Europe and Australia. The injury, however, is usually attributed to the clavulanate rather than amoxicillin. The clinical features are similar but perhaps not completely the same. In cases of liver injury seeming due to amoxicillin, an extra effort should be made to make sure that it was not amoxicillin-clavulanate [Augmentin] that was taken.</p>
+          <p>Likelihood score: B (highly likely but rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Amoxicillin.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of the liver injury associated with amoxicillin use is probably hypersensitivity or allergy. Recurrence with reexposure has been described as well as cross sensitivity to hepatic injury with other penicillins and cephalosporins.</p>
+        </sec>
+        <sec id="Amoxicillin.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>In the few cases that have been described, the majority of patients have recovered, although recovery has been slow in some cholestatic instances (2 to 6 months). Rare instances of acute liver failure and several cases of vanishing bile duct syndrome have been reported with aminopenicillin induced liver injury. Corticosteroids have often been used to treat the allergic manifestations of penicillin related immunoallergic hepatitis; while corticosteroid therapy may improve fever and rash promptly, their efficacy in ameliorating the accompanying liver disease has not been shown. Instances of recurrence of liver injury with unintentional reexposure to aminopenicillins and recurrence with exposure to cephalosporins have been reported. Patients with aminopenicillin induced hepatitis should avoid reexposure to other penicillins and should take cephalosporins with caution.</p>
+          <p>Other references relevant to the hepatotoxicity and safety of amoxicillin are given in the chapter on amoxicillin-clavulanate and in the Overview section on aminopenicillins (3<sup>rd</sup> generation penicillins).</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="Antiinfective" document-type="chapter">Antiinfective Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="PenicillinThirdGen" document-type="chapter">Aminopenicillins</related-object></p>
+          <p>Other Drugs in the Subclass, Aminopenicillins: <related-object link-type="booklink" source-id="livertox" document-id="AmoxicillinClavulana" document-type="chapter">Amoxicillin-Clavulanate</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ampicillin" document-type="chapter">Ampicillin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="AmpicillinSulbactam" document-type="chapter">Ampicillin-Sulbactam</related-object>, Bacampicillin, Pivampicillin</p>
+        </sec>
+      </sec>
+      <sec id="Amoxicillin.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Amoxicillin.Case_1_Cholestatic_hepatitis">
+          <title>Case 1. Cholestatic hepatitis due to amoxicillin therapy.(<xref ref-type="bibr" rid="Amoxicillin.REF.1">1</xref>)</title>
+          <p>A 24 year old woman developed anorexia and weakness followed by dark urine and itching 5 days into a 10 day course of amoxicillin for pharyngitis and fever. Within days of finishing the 10 day course, a friend told her that she looked jaundiced. Ten days after stopping the antibiotic, she sought medical care for continuing jaundice and pruritus. Serum ALT, AST and alkaline phosphatase were only modestly elevated, but total serum bilirubin was 10.5 mg/dL with a direct fraction of 8.0 mg/dL. There was no eosinophilia, rash or fever. Tests for viral hepatitis and autoantibodies were negative. An ultrasound of the liver was normal. Her jaundice deepened, and she underwent endoscopic retrograde pancreato-cholangiography (ERCP) which was also normal. A liver biopsy showed intrahepatic cholestasis, mild portal inflammation, but little hepatocellular injury, compatible with a resolving cholestatic hepatitis secondary to a medication. She had taken no other medications, herbals or over-the-counter products and had no previous history of liver disease or alcohol abuse.</p>
+          <sec id="Amoxicillin.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Amoxicillin.Tc" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Amoxicillin.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Amoxicillin.Tc_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Amoxicillin (1500 mg daily for 10 days)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Amoxicillin.Tc_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Amoxicillin.Tc_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Cholestatic (R=1.2)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Amoxicillin.Tc_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Amoxicillin.Tc_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">3+ (jaundice and hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Amoxicillin.Tc_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Amoxicillin.Tc_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">Five days</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Amoxicillin.Tc_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Amoxicillin.Tc_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">Two months</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Amoxicillin.Tc_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Amoxicillin.Tc_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">None</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Amoxicillin.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Amoxicillin.Td" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Amoxicillin.Td_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Days After<break/>Starting</th>
+                    <th id="hd_h_Amoxicillin.Td_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">Days After<break/>Stopping</th>
+                    <th id="hd_h_Amoxicillin.Td_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT<break/>(U/L)</th>
+                    <th id="hd_h_Amoxicillin.Td_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Alk P<break/>(U/L)</th>
+                    <th id="hd_h_Amoxicillin.Td_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                    <th id="hd_h_Amoxicillin.Td_1_1_1_6" valign="top" align="center" scope="col" rowspan="1" colspan="1">Comments</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_3 hd_h_Amoxicillin.Td_1_1_1_4 hd_h_Amoxicillin.Td_1_1_1_5 hd_h_Amoxicillin.Td_1_1_1_6" colspan="4" valign="top" align="center" rowspan="1">Amoxicillin 1500 mg/day for 10 days for pharyngitis</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">20</td>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">10</td>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">30</td>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">314</td>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">10.5</td>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">AMA, ANA, pANCA negative</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">28</td>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">18</td>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">13</td>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">383</td>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">18.4</td>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">US normal</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">51</td>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">41</td>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">39</td>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">546</td>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">23.3</td>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">ERCP normal</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">58</td>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">48</td>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">13</td>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">476</td>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">4.0</td>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Liver biopsy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">82</td>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">72</td>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">12</td>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">222</td>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.7</td>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_1 hd_h_Amoxicillin.Td_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;18</bold>
+</td>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;240</bold>
+</td>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Amoxicillin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Amoxicillin.Comment">
+            <title>Comment</title>
+            <p>A dramatic example of somewhat prolonged cholestatic liver injury starting after a few days of amoxicillin therapy. The short latency, abrupt onset and cholestatic pattern of enzymes and clinical presentation are compatible with penicillin and aminopenicillin induced hepatic injury. Cases such as this are convincing, but extremely rare given the frequency with which amoxicillin is used. Patients with suspected amoxicillin induced liver injury should be questioned carefully about the antibiotic taken, making sure that it was not amoxicillin-clavulanate instead (a much more common cause of cholestatic liver injury). This patient should be cautioned against future exposure to penicillins.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Amoxicillin.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Amoxicillin &#x02013; Generic, Amoxil&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antiinfective Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=amoxicillin">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Amoxicillin.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Amoxicillin.Te" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Amoxicillin.Te_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Amoxicillin.Te_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Amoxicillin.Te_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Amoxicillin.Te_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Amoxicillin.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Amoxicillin</td>
+                <td headers="hd_h_Amoxicillin.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134997708">26787-78-0</ext-link>
+</td>
+                <td headers="hd_h_Amoxicillin.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C16-H19-N3-O5-S</td>
+                <td headers="hd_h_Amoxicillin.Te_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134997708" document-id-type="sid" document-type="summary" object-id="134997708" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Amoxicillin.CITED_REFERENCE">
+        <title>CITED REFERENCE</title>
+        <ref-list id="Amoxicillin.CITED_REFERENCE.reflist0">
+          <ref id="Amoxicillin.REF.1">
+            <label>1</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bolzan</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Spatola</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Castelletto</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Curciarello</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Colestasis intrahep&#x000e1;tica inducida por amoxicilina sola</article-title>
+              <comment>[Intrahepatic cholestasis induced by amoxicillin alone]</comment>
+              <source>Gastroenterol Hepatol</source>
+              <year>2000</year>
+              <volume>23</volume>
+              <fpage>237</fpage>
+              <lpage>9</lpage>
+              <comment>Spanish.</comment>
+              <pub-id pub-id-type="pmid">10902278</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Amoxicillin.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 20 October 2020</p>
+        <ref-list id="Amoxicillin.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Amoxicillin.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Penicillins. In, Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott Williams and Wilkins, 1999. p. 595-6.<annotation><p><italic toggle="yes">(Expert review of penicillins and liver injury published in 1999; the penicillins commonly lead to hypersensitivity reactions but rarely to liver injury).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.moseley.2013">
+            <mixed-citation publication-type="book">Moseley RH. Hepatotoxicity of antimicrobials and antifungal agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 463-82.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of antibiotics mentions that penicillins rarely cause liver injury and both hepatocellular and cholestatic patterns of injury have been described).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.macdougall.2018">
+            <mixed-citation publication-type="book">MacDougall C. Penicillins, cephalosporins, and other &#x003b2;-lactam antibiotics. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1023-38.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.davies.1994.112">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Davies</surname><given-names>MH</given-names></name>
+<name name-style="western"><surname>Harrison</surname><given-names>RF</given-names></name>
+<name name-style="western"><surname>Elias</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>H&#x000fc;bscher</surname><given-names>SG</given-names></name>
+</person-group>
+              <article-title>Antibiotic-associated acute vanishing bile duct syndrome: a pattern associated with severe, prolonged, intrahepatic cholestasis.</article-title>
+              <source>J Hepatol</source>
+              <year>1994</year>
+              <volume>20</volume>
+              <fpage>112</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Two cases of vanishing bile duct syndrome, one with toxic epidermolysis developing in a 37 year old woman a day after starting amoxicillin with persistent sclerosing cholangitis-like syndrome and severe jaundice documented by four liver biopsies; second case in a 42 year old woman treated with flucloxacillin who developed cholestatic hepatitis followed by persistent Alk P elevations who underwent five liver biopsies).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8201211</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.pillans.1996.315">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Pillans</surname><given-names>PI</given-names></name>
+</person-group>
+              <article-title>Drug associated hepatic reactions in New Zealand: 21 years&#x02019; experience.</article-title>
+              <source>N Z Med J</source>
+              <year>1996</year>
+              <volume>109</volume>
+              <fpage>315</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Adverse drug reaction reports identified 943 liver injuries over 21 years in New Zealand; amoxicillin is listed in top 20 drugs over several periods).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8816722</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.friis.1992.133">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Friis</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Andreasen</surname><given-names>PB</given-names></name>
+</person-group>
+              <article-title>Drug-induced hepatic injury: an analysis of 1100 cases reported to the Danish Committee on Adverse Drug Reactions between 1978 and 1987.</article-title>
+              <source>J Intern Med</source>
+              <year>1992</year>
+              <volume>232</volume>
+              <fpage>133</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Adverse drug reaction reports in Denmark from 1978 to 1987; no mention of aminopenicillins).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1506809</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.bolzan.2000.237">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bolzan</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Spatola</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Castelletto</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Curciarello</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Colestasis intrahep&#x000e1;tica inducida por amoxicilina sola</article-title>
+              <comment>[Intrahepatic cholestasis induced by amoxicillin alone]</comment>
+              <source>Gastroenterol Hepatol</source>
+              <year>2000</year>
+              <volume>23</volume>
+              <fpage>237</fpage>
+              <lpage>9</lpage>
+              <comment>Spanish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(24 year old woman developed weakness after 5 days and dark urine after 7 days of amoxicillin therapy, but continued it for 10 days developing deep jaundice and pruritus [bilirubin 10.5 rising to 23.3 mg/dL, ALT 30 U/L, Alk P 314-546 U/L], resolving within 2 months of stopping: Case 1).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10902278</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.schwarze.2002.1275">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Schwarze</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Schmitz</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Fischer</surname><given-names>HP</given-names></name>
+<name name-style="western"><surname>Sauerbruch</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Spengler</surname><given-names>U</given-names></name>
+</person-group>
+              <article-title>Vanishing bile duct syndrome associated with elevated pancreatic enzymes after short-term administration of amoxicillin.</article-title>
+              <source>Eur J Gastroenterol Hepatol</source>
+              <year>2002</year>
+              <volume>14</volume>
+              <fpage>1275</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(45 year old woman developed progressive cholestasis and vanishing bile duct syndrome 2 months after a 6 day course of amoxicillin; progressive cholestasis evolved into chronic liver failure and death 18 months later).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12439126</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.heluwaert.2003.841">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Heluwaert</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Roblin</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Duffournet</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Capony</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Martin</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Roblin</surname><given-names>X.</given-names></name>
+</person-group>
+              <comment>[Hepatitis related to amoxicillin or levofloxacin: a case report]</comment>
+              <source>Rev Med Interne</source>
+              <year>2003</year>
+              <volume>24</volume>
+              <fpage>841</fpage>
+              <lpage>3</lpage>
+              <comment>French.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(34 year old woman developed nausea followed by jaundice 2 weeks after starting 6 day course of amoxicillin and 1 week after starting a 5 day course of levofloxacillin [bilirubin 6.6 rising to 12.6 mg/dL, ALT 8.7 times and Alk P 2.1 times ULN]; case most compatible with levofloxacin hepatotoxicity with abrupt onset and hepatocellular pattern of serum enzymes).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14656650</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.romney.2004.505">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Romney</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Biour</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Belloula</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Elbaz</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Carriere</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Cadranel</surname><given-names>JF</given-names></name>
+</person-group>
+              <comment>[Amoxicillin induced acute hepatitis]</comment>
+              <source>Gastroenterol Clin Biol</source>
+              <year>2004</year>
+              <volume>28</volume>
+              <fpage>505</fpage>
+              <lpage>6</lpage>
+              <comment>French.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(27 year old developed acute hepatitis 3 days after starting amoxicillin [bilirubin 7.9 mg/dL, ALT 84 times, Alk P normal], resolving within 1 month; patient also took acetaminophen).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15243334</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.de_abajo.2004.71">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>de Abajo</surname><given-names>FJ</given-names></name>
+<name name-style="western"><surname>Montero</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Madurga</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Rodriguez</surname><given-names>LAG</given-names></name>
+</person-group>
+              <article-title>Acute and clinically relevant drug-induced liver injury: a population based case-control study.</article-title>
+              <source>Brit J Clin Pharm</source>
+              <year>2004</year>
+              <volume>58</volume>
+              <fpage>71</fpage>
+              <lpage>80</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of General Practice Research Database from UK on 1.6 million persons from 1994-2000 found 128 cases of drug induced liver injury [2.4/100,000 person-years]; amoxicillin was associated with a minimal increase in risk).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15206996</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.russo.2004.1018">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Russo</surname><given-names>MW</given-names></name>
+<name name-style="western"><surname>Galanko</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Shrestha</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Fried</surname><given-names>MW</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>P</given-names></name>
+</person-group>
+              <article-title>Liver transplantation for acute liver failure from drug-induced liver injury in the United States.</article-title>
+              <source>Liver Transpl</source>
+              <year>2004</year>
+              <volume>10</volume>
+              <fpage>1018</fpage>
+              <lpage>23</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among ~50,000 liver transplants done in the US between 1990 and 2002, 270 [0.5%] were done for drug induced acute liver failure; one case was attributed to amoxicillin-clavulanate, but none to penicillin, ampicillin or amoxicillin alone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15390328</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.fontana.2005.1785">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Shakil</surname><given-names>AO</given-names></name>
+<name name-style="western"><surname>Greenson</surname><given-names>JK</given-names></name>
+<name name-style="western"><surname>Boyd</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>WM</given-names></name>
+</person-group>
+              <article-title>Acute liver failure due to amoxicillin and amoxicillin-clavulanate.</article-title>
+              <source>Dig Dis Sci</source>
+              <year>2005</year>
+              <volume>50</volume>
+              <fpage>1785</fpage>
+              <lpage>90</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Two case reports, one of acute liver failure arising 1 month after 6 day course of oral amoxicillin for dental work [bilirubin 23.0 mg/dL, ALT 521 U/L, GGT 89 U/L], progressing to liver failure and liver transplant; second case attributed to amoxicillin-clavulanate).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16187174</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.andrade.2006.1581">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Andrade</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Lucena</surname><given-names>MI</given-names></name>
+<name name-style="western"><surname>Kaplowitz</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Garcia-Munoz</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Borraz</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Pachkoria</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Garcia-Cortes</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Outcome of acute idiosyncratic drug-induced liver injury: Long-term follow-up in a hepatotoxicity registry.</article-title>
+              <source>Hepatology</source>
+              <year>2006</year>
+              <volume>44</volume>
+              <fpage>1581</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Clinical description of 28 patients with &#x0201c;chronic&#x0201d; outcome of drug induced liver injury included one case attributed to amoxicillin with jaundice arising 5 days after a 1 day course with severe hypersensitivity; 6 months later, only evidence of chronic injury was an elevated GGT ~1.4 times ULN).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17133470</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.madro_ero.2007.173">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Madro&#x000f1;ero</surname><given-names>AB</given-names></name>
+<name name-style="western"><surname>Porcel</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Bielsa</surname><given-names>S</given-names></name>
+</person-group>
+              <comment>[Hepatotoxicity induced by amoxicillin]</comment>
+              <source>Rev Esp Enferm Dig</source>
+              <year>2007</year>
+              <volume>99</volume>
+              <fpage>173</fpage>
+              <lpage>4</lpage>
+              <comment>Spanish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(76 year old woman developed acute cholestatic hepatitis 2 weeks after starting 6 days of amoxicillin [bilirubin 9.4 mg/dL, ALT 54 U/L, Alk P 339 U/L], resolving within 1 month of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17516833</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Davern</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Serrano</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rochon</surname><given-names>J</given-names></name>
+<collab>Drug Induced Liver Injury Network (DILIN)</collab>
+</person-group>
+              <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, 23 cases were attributed to amoxicillin-clavulanate, 2 cases to amoxicillin, but none to ampicillin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.treudler.2009.314">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Treudler</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Grunewald</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Gebhardt</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Simon</surname><given-names>JC</given-names></name>
+</person-group>
+              <article-title>Prolonged course of acute generalized exanthematous pustulosis with liver involvement due to sensitization to amoxicillin and paracetamol.</article-title>
+              <source>Acta Derm Venereol</source>
+              <year>2009</year>
+              <volume>89</volume>
+              <fpage>314</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(48 year old man treated with amoxicillin for 3 days and acetaminophen for 5 days developed generalized pustular rash with fever and later had ALT elevations [3 times ULN] and hepatomegaly that arose after initiation of high dose methylprednisolone therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19479138</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.devarbhavi.2010.2396">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Devarbhavi</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Dierkhising</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Kremers</surname><given-names>WK</given-names></name>
+<name name-style="western"><surname>Sandeep</surname><given-names>MS</given-names></name>
+<name name-style="western"><surname>Karanth</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Adarsh</surname><given-names>CK</given-names></name>
+</person-group>
+              <article-title>Single-center experience with drug-induced liver injury from India: causes, outcome, prognosis, and predictors of mortality.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>2010</year>
+              <volume>105</volume>
+              <fpage>2396</fpage>
+              <lpage>404</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(313 cases of drug induced liver injury were seen over a 12 year period at a large hospital in Bangalore, India; 3 [1%] were attributed to the combination of amoxicillin and clavulanate, but none were attributed to ampicillin or amoxicillin alone].</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20648003</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Reuben</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Koch</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>WM</given-names></name>
+<collab>Acute Liver Failure Study Group</collab>
+</person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury including 66 due to antimicrobial agents, including two attributed to amoxicillin but none to ampicillin; no details given).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.ferrajolo.2010.721">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ferrajolo</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Capuano</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Verhamme</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>Schuemie</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Rossi</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Stricker</surname><given-names>BH</given-names></name>
+<name name-style="western"><surname>Sturkenboom</surname><given-names>MC</given-names></name>
+</person-group>
+              <article-title>Drug-induced hepatic injury in children: a case/non-case study of suspected adverse drug reactions in VigiBase.</article-title>
+              <source>Br J Clin Pharmacol</source>
+              <year>2010</year>
+              <volume>70</volume>
+              <fpage>721</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Worldwide pharmacovigilance database contained 9036 hepatic adverse drug reactions in children, amoxicillin-clavulanate accounted for 38 cases [0.4%] for an adjusted odds ratio of 1.7, whereas neither amoxicillin or ampicillin alone were listed among the 41 most common causes [linked to at least 30 cases]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21039766</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.kim.2011.229">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kim</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>Jang</surname><given-names>YR</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>JW</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>JY</given-names></name>
+<name name-style="western"><surname>Jung</surname><given-names>YK</given-names></name>
+<name name-style="western"><surname>Chung</surname><given-names>DH</given-names></name>
+<name name-style="western"><surname>Kwon</surname><given-names>OS</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>YS</given-names></name>
+<name name-style="western"><surname>Choi</surname><given-names>DJ</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>JH</given-names></name>
+</person-group>
+              <article-title>A case of amoxicillin-induced hepatocellular liver injury with bile-duct damage.</article-title>
+              <source>Korean J Hepatol</source>
+              <year>2011</year>
+              <volume>17</volume>
+              <fpage>229</fpage>
+              <lpage>32</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(39 year old woman developed liver injury 8 weeks after starting amoxicillin [2 g daily] for actinomycosis [bilirubin rising to 2.9 mg/dL, ALT 157-216 U/L, Alk P 100-199 U/L], liver biopsy showing bile duct damage and loss, and persistence of mild liver test abnormalities during follow up).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22102391</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.ruiz_rebollo.2011.474">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ruiz Rebollo</surname><given-names>ML</given-names></name>
+<name name-style="western"><surname>Aller De La Fuente</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Macho Conesa</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Salado Valdivieso</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Sainz Gil</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Carvajal</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Manuel Gonz&#x000e1;lez</surname><given-names>J</given-names></name>
+</person-group>
+              <comment>[Amoxicillin-induced cholestatic hepatitis]</comment>
+              <source>Gastroenterol Hepatol</source>
+              <year>2011</year>
+              <volume>34</volume>
+              <fpage>474</fpage>
+              <lpage>7</lpage>
+              <comment>Spanish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(87 year old man developed jaundice 2 weeks after a 10 day course of amoxicillin [bilirubin 15.5 mg/dL, ALT 292 U/L, Alk P 295 U/L], resolving within 2 months of presentation).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21783281</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.chaabane.2011.357">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chaabane</surname><given-names>NB</given-names></name>
+<name name-style="western"><surname>Safer</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Njim</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Zakhama</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Saffar</surname><given-names>H</given-names></name>
+</person-group>
+              <article-title>Cholestatic hepatitis related to amoxicillin.</article-title>
+              <source>Drug Chem Toxicol</source>
+              <year>2011</year>
+              <volume>34</volume>
+              <fpage>357</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(34 year old woman developed pruritis followed by jaundice 1 week after stopping a 10 day course of amoxicillin [bilirubin 30.5 mg/dL, ALT 56 U/L, Alk P 647 U/L], resolving within 8 weeks, but redeveloping jaundice after a 3 day course of amoxicillin 6 months later ).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21714770</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.oxlund.2011.1885">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Oxlund</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Ferguson</surname><given-names>AH</given-names></name>
+</person-group>
+              <comment>[Amoxicillin-induced hepatitis]</comment>
+              <source>Ugeskr Laeger</source>
+              <year>2011</year>
+              <volume>173</volume>
+              <fpage>1885</fpage>
+              <lpage>6</lpage>
+              <comment>Danish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(61 year old man developed jaundice 20 days after starting amoxicillin without clavulanate [bilirubin 5.6 mg/dL, ALT 709 U/L, Alk P 316 U/L], resolving within 4 weeks of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21712012</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.lucena.2011.338">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lucena</surname><given-names>MI</given-names></name>
+<name name-style="western"><surname>Molokhia</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Shen</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Urban</surname><given-names>TJ</given-names></name>
+<name name-style="western"><surname>Aithal</surname><given-names>GP</given-names></name>
+<name name-style="western"><surname>Andrade</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Day</surname><given-names>CP</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Spanish DILI Registry; EUDRAGENE; DILIN; DILIGEN; International SAEC. Susceptibility to amoxicillin-clavulanate-induced liver injury is influenced by multiple HLA class I and II alleles.</article-title>
+              <source>Gastroenterology</source>
+              <year>2011</year>
+              <volume>141</volume>
+              <fpage>338</fpage>
+              <lpage>47</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(A genome wide association study [GWAS] on 201 European and U.S. cases of amoxicillin-clavulanate hepatotoxicity and 532 population controls identified two strong HLA associations, one in the class II [DRB1*1501-DQB1*0602] and one in the class I region [A*0201]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21570397</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.bollaert.2012.15">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bollaert</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Jeulin</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Waton</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Gastin</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Tr&#x000e9;chot</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Rabaud</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Schmutz</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Barbaud</surname><given-names>A</given-names></name>
+</person-group>
+              <comment>[Six cases of spring DRESS]</comment>
+              <source>Ann Dermatol Venereol</source>
+              <year>2012</year>
+              <volume>139</volume>
+              <fpage>15</fpage>
+              <lpage>22</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 6 patients who developed DRESS syndrome and presented to a single medical center within a one month period, all had herpes virus in blood [EBV, HSV, or HHV-6] and had received medications starting within 3-6 weeks of onset including one case each attributed amoxicillin, allopurinol, carbamazepine and TMP/SMZ, and another 2 cases associated with multiple agents including vancomycin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22225738</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Bergmann</surname><given-names>OM</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Kvaran</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Olafsson</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, the most commonly implicated agent being amoxicillin with clavulanate [15 cases]; none were attributed to amoxicillin alone or ampicillin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.sistanizad.2013.115">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sistanizad</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Peterson</surname><given-names>GM</given-names></name>
+</person-group>
+              <article-title>Drug-induced liver injury in the Australian setting.</article-title>
+              <source>J Clin Pharm Ther</source>
+              <year>2013</year>
+              <volume>38</volume>
+              <fpage>115</fpage>
+              <lpage>20</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 17 cases of suspected drug induced liver injury seen at a single referral hospital in Tasmania over a 12 month period, 11 were due to antibiotics including flucloxacillin in 4, amoxicillin in 2, amoxicillin-clavulanate in 2, and rifampin, moxifloxacin and ciprofloxacin in 1 each).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23350857</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.girelli.2013.409152">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Girelli</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Bernardi</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Gardelli</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Bassi</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Parente</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Dubini</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Serra</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Nizzoli</surname><given-names>M.</given-names></name>
+</person-group>
+              <article-title>A new case of DRESS syndrome induced by sulfasalazine and triggered by amoxicillin.</article-title>
+              <source>Case Rep Rheumatol</source>
+              <year>2013</year>
+              <volume>2013</volume>
+              <elocation-id>409152</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(53 year old woman with uveitis developed sore throat, fever and lymphadenopathy 6 weeks after starting sulfasalazine which was treated with amoxicillin-clavulanate whereupon she developed worsening fever, rash and was found to have liver injury [bilirubin 2.7 mg/dL, ALT 350 U/L, Alk P 2959 U/L, INR normal], responding to methylprednisolone and stopping drugs; role of amoxicillin-clavulanate being uncertain in this onset of DRESS syndrome with sulfasalazine therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23936716</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.ferrajolo.2013.1007">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ferrajolo</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Verhamme</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>Trifir&#x000f2;</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>'t Jong</surname><given-names>GW</given-names></name>
+<name name-style="western"><surname>Giaquinto</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Picelli</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Oteri</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Idiopathic acute liver injury in paediatric outpatients: incidence and signal detection in two European countries.</article-title>
+              <source>Drug Saf</source>
+              <year>2013</year>
+              <volume>36</volume>
+              <fpage>1007</fpage>
+              <lpage>16</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of 3 electronic healthcare databases from Italy and the Netherlands from 2000-2008 identified 785 cases of unexplained acute liver injury in children, linked to 110 possible medications, with increased adjusted relative risk [RR] of recent exposure to amoxicillin-clavulanate [RR=18.6] and amoxicillin [RR=7.5]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23591830</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.kaye.2014.336">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kaye</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Castellsague</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Bui</surname><given-names>CL</given-names></name>
+<name name-style="western"><surname>Calingaert</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>McQuay</surname><given-names>LJ</given-names></name>
+<name name-style="western"><surname>Riera-Guardia</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Saltus</surname><given-names>CW</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Risk of acute liver injury associated with the use of moxifloxacin and other oral antimicrobials: a retrospective, population-based cohort study.</article-title>
+              <source>Pharmacotherapy</source>
+              <year>2014</year>
+              <volume>34</volume>
+              <fpage>336</fpage>
+              <lpage>49</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a US healthcare database with 1.3 million antimicrobial users, there were 607 cases of liver injury and 11 cases of liver failure, the highest relative risk for current single use being 3.2 for levofloxacin, 2.5 for amoxicillin-clavulanate, 2.5 for doxycycline, 2.3 for moxifloxacin and 2.3 for amoxicillin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24865821</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hern&#x000e1;ndez</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bessone</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>di Pace</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Brahm</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zapata</surname><given-names>R, A</given-names></name>
+<name name-style="western"><surname>Chirino</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of literature of drug induced liver injury from Latin American countries published between 1996 and 2012 identified 176 cases, of which 37 [19%] were attributed to antimicrobials, including one to benzathine penicillin and 3 to amoxicillin-clavulanate, but none to amoxicillin alone or to 2nd or 4th generation penicillins).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 323 [36%] were attributed to antibiotics of which 106 [12%] were due to penicillins including one to 1st, three to 2nd [all due to oxacillin], 97 to 3rd [91 to amoxicillin-clavulanate, and 6 to amoxicillin alone] and five to 4th generation penicillins [all 5 to piperacillin/tazobactam]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.gu_ant.2015.253">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gu&#x000e9;ant</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Romano</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Cornejo-Garcia</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Oussalah</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Chery</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Blanca-L&#x000f3;pez</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Gu&#x000e9;ant-Rodriguez</surname><given-names>RM</given-names></name>
+<etal/>
+</person-group>
+              <article-title>HLA-DRA variants predict penicillin allergy in genome-wide fine-mapping genotyping.</article-title>
+              <source>J Allergy Clin Immunol</source>
+              <year>2015</year>
+              <volume>135</volume>
+              <fpage>253</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a genome wide association study of 387 patients with immediate allergic reactions to beta-lactam antibiotics, several class 2 HLA associations [HLA-DRA regions] were found for penicillin responses, but they did not apply to cephalosporin cases).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25224099</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.bj_rnsson.2016.224">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity by drugs: the most common implicated agents.</article-title>
+              <source>Int J Mol Sci</source>
+              <year>2016</year>
+              <volume>17</volume>
+              <fpage>224</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the most common causes of drug induced liver injury based upon categorization from LiverTox, amoxicillin-clavulanate but not other forms of penicillin were in the top category of causes of liver injury [likelihood scores of A, with more than 100 cases published in the literature]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26861310</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.nicoletti.2017.1078">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Nicoletti</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Aithal</surname><given-names>GP</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Andrade</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Sawle</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Arrese</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Barnhart</surname><given-names>HX</given-names></name>
+<etal/>
+<collab>International Drug-Induced Liver Injury Consortium, Drug-Induced Liver Injury Network Investigators, and International Serious Adverse Events Consortium</collab>
+</person-group>
+              <article-title>Association of liver injury from specific drugs, or groups of drugs, with polymorphisms in HLA and other genes in a genome-wide association study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2017</year>
+              <volume>152</volume>
+              <fpage>1078</fpage>
+              <lpage>89</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(A genome wide association study done on 862 Caucasian patients with drug induced liver injury demonstrated a strong link with HLA-A*33:01 in those with cholestatic liver injury, particularly in cases attributed to terbinafine, fenofibrate and ticlopidine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28043905</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.blumenthal.2015.1288">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Blumenthal</surname><given-names>KG</given-names></name>
+<name name-style="western"><surname>Youngster</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Rabideau</surname><given-names>DJ</given-names></name>
+<name name-style="western"><surname>Parker</surname><given-names>RA</given-names></name>
+<name name-style="western"><surname>Manning</surname><given-names>KS</given-names></name>
+<name name-style="western"><surname>Walensky</surname><given-names>RP</given-names></name>
+<name name-style="western"><surname>Nelson</surname><given-names>SB</given-names></name>
+</person-group>
+              <article-title>Peripheral blood eosinophilia and hypersensitivity reactions among patients receiving outpatient parenteral antibiotics.</article-title>
+              <source>J Allergy Clin Immunol</source>
+              <year>2015</year>
+              <volume>136</volume>
+              <fpage>1288</fpage>
+              <lpage>94.e1</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 824 patients who underwent outpatient parenteral antibiotic therapy for at least 2 weeks, 210 [25%] developed eosinophilia including 58 of 207 [28%] who received &#x0201c;penicillins&#x0201d; of whom 3 developed signs of &#x0201c;possible&#x0201d; DRESS syndrome; specific penicillins accounting for the cases were not provided).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25981739</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.tailor.2015.1310">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Tailor</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Faulkner</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Naisbitt</surname><given-names>DJ</given-names></name>
+<name name-style="western"><surname>Park</surname><given-names>BK</given-names></name>
+</person-group>
+              <article-title>The chemical, genetic and immunological basis of idiosyncratic drug-induced liver injury.</article-title>
+              <source>Hum Exp Toxicol</source>
+              <year>2015</year>
+              <volume>34</volume>
+              <fpage>1310</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of mechanisms of idiosyncratic drug induced liver injury focusing upon chemically reactive drug metabolites and genetic associations, particularly those with HLA alleles that implicate the adaptive immune response).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26614821</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.munz.2017.367">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Munz</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Grummich</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Birkmann</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Wilhelm</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Holzgrabe</surname><given-names>U</given-names></name>
+<name name-style="western"><surname>S&#x000f6;rgel</surname><given-names>F.</given-names></name>
+</person-group>
+              <article-title>Severe drug-Induced liver injury as an adverse drug event of antibiotics: a case report and review of the literature.</article-title>
+              <source>Chemotherapy</source>
+              <year>2017</year>
+              <volume>62</volume>
+              <fpage>367</fpage>
+              <lpage>73</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(20 year old woman received 4 antibiotics [amoxicillin, ciprofloxacin, cefazolin and clindamycin] and acetaminophen within weeks of developing rash, fever and jaundice [bilirubin 3.7 mg/dL, ALT 1219 U/L, Alk P 143 U/L, GGT 201 U/L, INR 1.6], with worsening and signs of hepatic failure but subsequent spontaneous and complete resolution, the specific cause being obscure because of the many drug exposures).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28934748</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.takeuchi.2018.1071">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Takeuchi</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Shinozaki</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Kumamaru</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Hiramatsu</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Matsuyama</surname><given-names>Y</given-names></name>
+</person-group>
+              <article-title>Analyzing intent-to-treat and per-protocol effects on safety outcomes using a medical information database: an application to the risk assessment of antibiotic-induced liver injury.</article-title>
+              <source>Expert Opin Drug Saf</source>
+              <year>2018</year>
+              <volume>17</volume>
+              <fpage>1071</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Cohort matching of cases with vs without antibiotic therapy in a large electronic medical record database from the University of Tokyo Hospital from 2011 to 2015 with adjustments found rates of liver test abnormalities within 30 days of starting penicillins [25.2 per 1000] was higher than that of fluoroquinolones [11.4] and macrolide antibiotics [8.1] as well as controls [6.5 to 7.1]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30252549</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.cirulli.2019.1707">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cirulli</surname><given-names>ET</given-names></name>
+<name name-style="western"><surname>Nicoletti</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Abramson</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Andrade</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<etal/>
+<collab>Drug-Induced Liver Injury Network (DILIN) investigators</collab>
+</person-group>
+              <article-title>International DILI consortium (iDILIC). A missense variant in PTPN22 is a risk factor for drug-induced liver injury.</article-title>
+              <source>Gastroenterology</source>
+              <year>2019</year>
+              <volume>156</volume>
+              <fpage>1707</fpage>
+              <lpage>16.e2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Genome wide association studies on 2048 patients with drug induced liver injury and 12,439 controls identified a variant in PTPN22 which was highly associated with liver injury, allele frequency being 0.12 among cases and 0.08 among controls with highest association in Northern Europeans and in cases of amoxicillin clavulanate, PTPN22 being a cellular kinase involved in modulation of immune reactions).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30664875</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Amoxicillin.REF.li.2019.4537">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Li</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Zheng</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>Y</given-names></name>
+</person-group>
+              <article-title>Stevens-Johnson syndrome and acute vanishing bile duct syndrome after the use of amoxicillin and naproxen in a child.</article-title>
+              <source>J Int Med Res</source>
+              <year>2019</year>
+              <volume>47</volume>
+              <fpage>4537</fpage>
+              <lpage>43</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(6 year old boy developed rash and jaundice shortly after receiving amoxicillin and naproxen [bilirubin 3.1 mg/dL, ALT 942 U/L, Alk P 318 U/L, GGT 150 U/L, INR 1.1], with progression of rash to Stevens Johnson syndrome requiring high dose corticosteroid therapy and worsening of liver disease [peak bilirubin 20.4 mg/dL, peak GGT 981 U/L], which persisted for 4 months but eventually resolved although Alk P and GGT remained slightly abnormal at 6 months).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31448655</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Amoxicillin.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(amoxicillin/AE+NOT+clavulanic+acid)+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI+OR+hepatitis,+toxic%5BMH%5D)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Amoxicillin: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=amoxicillin">Trials on Amoxicillin: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

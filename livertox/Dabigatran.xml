@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Dabigatran" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Dabigatran</book-part-id>
+      <title-group>
+        <title>Dabigatran</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>5</day>
+          <month>11</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="CytotoxicAntibiotics" document-type="chapter">Cytotoxic Antibiotics</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Dabrafenib" document-type="chapter">Dabrafenib</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Dabigatran.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Dabigatran.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Dabigatran is a direct inhibitor of thrombin and anticoagulant which is used for prevention of stroke and venous embolism in patients with chronic atrial fibrillation. Dabigatran therapy has been associated with a low rate of serum enzyme elevations and rare instances of liver enzyme elevations and jaundice.</p>
+        </sec>
+        <sec id="Dabigatran.Background">
+          <title>Background</title>
+          <p>Dabigatran (da" bi gat' ran) is a potent direct inhibitor of thrombin, the final intermediate in blood coagulation. Dabigatran binds to the active site of thrombin and inactivates both fibrin-bound and unbound thrombin, unlike heparin that binds to the unbound thrombin only. Inhibiting thrombin prevents the conversion of fibrinogen to fibrin and subsequent cross linking of fibrin monomers, platelet activation and amplification of coagulation activation. Dabigatran itself is not absorbed from the gastrointestinal tract, but the prodrug dabigatran etexillate mesylate is absorbed and then converted to the active form by gut and plasma esterases. Dabigatran provides a reliable anticoagulant effect and monitoring of effect is not needed. Dabigatran etexilate was approved for use in the United States in 2010 and indications are for prevention of stroke and thromboembolic complications in patients with chronic atrial fibrillation not related to valvular heart disease. Thereafter, indications were extended to the treatment and prevention of deep venous thrombosis and pulmonary embolism. Dabigatran is available in capsules of 75 and 150 mg under the brand name Pradaxa and the recommended dose in adults is 75 to 150 mg twice daily. Dabigatran, like other anticoagulants, is associated with bleeding adverse events, but these are not common and no more frequent than with low molecular weight heparins or warfarin. Side effects not directly attributable to the anticoagulant activity are not common but can include nausea, abdominal discomfort, diarrhea, anorexia, fever, and skin rash. Rare, potentially severe adverse events include serious and fatal bleeding.</p>
+        </sec>
+        <sec id="Dabigatran.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Chronic therapy with dabigatran is associated with moderate ALT elevations (greater than 3 times the upper limit of normal) in 1.5% to 3% of patients, an overall rate which is slightly lower than with low molecular weight heparin and similar to the rates with warfarin. While case reports of clinically apparent liver injury due to dabigatran have not been published, several instances of ALT elevations with jaundice occurred during the large, prelicensure clinical trials of dabigatran. These cases were mild and self-limited, resolving completely once therapy was stopped. However, other causes of liver injury could not always be identified and the relationship of the injury to dabigatran therapy remains unclear. The clinical features of these cases were not described. In one large clinical trial, these unexplained cases of liver injury with bilirubin elevations occurred in approximately 1 in 2000 patients treated. In a subsequent case report, liver injury with jaundice and a mixed pattern of serum enzyme elevations arose within 4 weeks of starting dabigatran and resolved rapidly with its discontinuation. Immunoallergic and autoimmune features were not present. There have been multiple spontaneous reports of liver injury, some of which were fatal, made to WHO and FDA surveillance databases, but the relatedness of the episodes has not been clearly defined. Thus, clinically apparent liver injury with jaundice due to dabigatran occurs but is rare and typically mild and self-limited.</p>
+          <p>Likelihood score: D (possible rare cause of clinically apparent liver injury).</p>
+          <p>One reason why dabigatran was subjected to close scrutiny for evidence of hepatotoxicity was that the initial oral, direct thrombin inhibitor developed and evaluated in clinical trials was ximelagatran (zye" mel a gat' ran), which subsequently was found to be associated with rare but potentially severe cases of liver injury, typically arising after 1 to 6 months of treatment with a hepatocellular pattern of serum enzyme elevations and potentially severe and fatal course. Ximelagatran did not receive approval for use in the United States because of concerns about hepatotoxicity. After several further cases of clinically apparent hepatic injury were found in patients taking ximelagatran, it was also withdrawn from use in Europe. Risk of serum ALT elevations during ximelagatran therapy were later shown to be linked to HLA-DRB1*07 and DQA1*-02.</p>
+        </sec>
+        <sec id="Dabigatran.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of liver injury during dabigatran oral anticoagulant therapy is unknown but is likely to be idiosyncratic and perhaps immunologic. Dabigatran undergoes little hepatic metabolism and does not affect CYP 450 activity.</p>
+        </sec>
+        <sec id="Dabigatran.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Liver injury attributed to dabigatran varies from mild serum ALT elevations to liver injury with jaundice, but is usually mild and self-limited, resolving within 4 weeks of stopping. Recurrence of liver injury with rechallenge has not been described. There is no reason to suspect that there is cross sensitivity to hepatic injury among the different anticoagulants.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Anticoagulants">Antithrombotic Agents</related-object>, <related-object source-id="livertox" document-id="Anticoagulants">Anticoagulants</related-object></p>
+          <p>Other Drugs in the Subclass, Anticoagulants, Thrombin Inhibitors: <related-object source-id="livertox" document-id="Desirudin">Desirudin</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Dabigatran.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Dabigatran.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Dabigatran &#x02013; Pradaxa&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Antithrombotic Agents</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Dabigatran">COMPLETE LABELING</ext-link>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Dabigatran.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Dabigatran.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Dabigatran.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Dabigatran.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Dabigatran.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Dabigatran.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Dabigatran.T1_1_1_1_1" rowspan="1" colspan="1">Dabigatran Etexilate</td>
+                <td headers="hd_h_Dabigatran.T1_1_1_1_2" rowspan="1" colspan="1">211914-51-1</td>
+                <td headers="hd_h_Dabigatran.T1_1_1_1_3" rowspan="1" colspan="1">C25-H25-N7-O3</td>
+                <td headers="hd_h_Dabigatran.T1_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="DabigatranEtexilate_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Dabigatran Etexilate Chemical Structure</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Dabigatran.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 05 November 2017</p>
+        <ref-list id="Dabigatran.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Dabigatran.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Drugs used in cardiovascular disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 639-412.<annotation><p><italic toggle="yes">(Textbook of hepatotoxicity published in 1999 before the availability of dabigatran or ximelagatran).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Dabigatran.R2">
+            <mixed-citation publication-type="other">Weitz JI. Blood coagulation and anticoagulant, fibrinolytic, and antiplatelet drugs. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 849-76.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Dabigatran.R3">
+            <mixed-citation publication-type="journal">Albers GW, Diener HC, Frison L, Grind M, Nevinson M, Partridge S, Halperin JL, et al; SPORTIF Executive Steering Committee for the SPORTIF V Investigators. Ximelagatran vs warfarin for stroke prevention in patients with nonvalvular atrial fibrillation: a randomized trial. JAMA 2005; 293: 690-8. <annotation><p><italic toggle="yes"> (Controlled trial of ximelagatran versus warfarin for stroke prevention for an average of 20 months in 3922 patients with atrial fibrillation found ALT elevations above 3 times ULN in 0.8% of warfarin, but 6% of ximelagatran treated subjects; while these abnormalities often resolved even with continuing treatment, 8 subjects also had bilirubin elevations, one died of acute liver failure and one of gastrointestinal hemorrhage).</italic></p></annotation><pub-id pub-id-type="pmid">15701910</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dabigatran.R4">
+            <mixed-citation publication-type="journal">Lee WM, Larrey D, Olsson R, Lewis JH, Keisu M, Auclert L, Sheth S. Hepatic findings in long-term clinical trials of ximelagatran. Drug Saf 2005; 28: 351-70. <annotation><p><italic toggle="yes">(Retrospective, expert analysis of hepatotoxicity of ximelagatran based upon results from 6230 patients in clinical trials; elevations in ALT above 3 times ULN occurred in 7.9% of ximelagatran treated vs 1.2% in comparator arms, usually within 1 to 6 months of starting, resolving within a few weeks of stopping, and not usually recurring upon reexposure [6%]; 0.5% had elevations in both ALT and bilirubin, and one had severe hepatitis and died possibly of a complication of corticosteroid treatment).</italic></p></annotation><pub-id pub-id-type="pmid">15783243</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dabigatran.R5">
+            <mixed-citation publication-type="journal">Kindmark A, Jawaid A, Harbron CG, Barratt BJ, Bengtsson OF, Andersson TB, Carlsson S, et al. Genome-wide pharmacogenetic investigation of a hepatic adverse event without clinical signs of immunopathology suggests an underlying immune pathogenesis. Pharmacogenomics J 2008; 8: 186-95. <annotation><p><italic toggle="yes">(Genome-wide analysis of 74 patients who developed serum ALT elevations during ximelagatran therapy and 130 who did not in prelicensure clinical trials, found an association of liver injury with HLA-DRB1*07 [present in 26% of cases vs 8.5% of controls]).</italic></p></annotation><pub-id pub-id-type="pmid">17505501</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dabigatran.R6">
+            <mixed-citation publication-type="journal">Eriksson BI, Dahl OE, Rosencher N, Kurth AA, van Dijk CN, Frostick SP, Prins MH, et al.; RE-NOVATE Study Group. Dabigatran etexilate versus enoxaparin for prevention of venous thromboembolism after total hip replacement: a randomised, double-blind, non-inferiority trial. Lancet 2007; 370: 949-56. <annotation><p><italic toggle="yes">(Controlled trial of dabigatran vs enoxaparin in 3294 patients undergoing hip replacement found ALT elevations above 3 times ULN in 3% of dabigatran vs 5% of enoxaparin treated patients, all returning to baseline during follow up; 2 dabigatran treated patients had elevations in ALT and bilirubin, diagnosis being cholangitis in one and unknown in other, both resolving with discontinuation). </italic></p></annotation><pub-id pub-id-type="pmid">17869635</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dabigatran.R7">
+            <mixed-citation publication-type="journal">Eriksson BI, Dahl OE, Rosencher N, Kurth AA, van Dijk CN, Frostick SP, K&#x000e4;lebo P, et al.; RE-MODEL Study Group. Oral dabigatran etexilate vs. subcutaneous enoxaparin for the prevention of venous thromboembolism after total knee replacement: the RE-MODEL randomized trial. J Thromb Haemost 2007; 5: 2178-85. <annotation><p><italic toggle="yes">(Controlled trial of dabigatran vs enoxaparin in 2076 patients undergoing knee replacement surgery found ALT elevations above 3 times ULN in 2.8% to 3.7% of dabigatran vs 4.0% of enoxaparin treated subjects; one patient on dabigatran had a simultaneous elevation of bilirubin and ALT which was unexplained and resolved within 4 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">17764540</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dabigatran.R8">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver injury in the US collected from 2004 to 2008, none were attributed to warfarin or other anticoagulants).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dabigatran.R9">
+            <mixed-citation publication-type="journal">Schulman S, Kearon C, Kakkar AK, Mismetti P, Schellong S, Eriksson H, Baanstra D, et al.; RE-COVER Study Group. Dabigatran versus warfarin in the treatment of acute venous thromboembolism. N Engl J Med 2009; 361: 2342-52. <annotation><p><italic toggle="yes">(Controlled trial of dabigatran vs warfarin for 6 months in 1274 patients with venous thromboses; ALT levels &#x0003e;3 times ULN occurred in 3.4% of dabigatran vs 3.8% of warfarin treated patients, and 6 patients had both a bilirubin and ALT elevations, but all had another plausible reason for liver injury [cancer, cholangitis]).</italic></p></annotation><pub-id pub-id-type="pmid">19966341</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dabigatran.R10">
+            <mixed-citation publication-type="journal">Connolly SJ, Ezekowitz MD, Yusuf S, Eikelboom J, Oldgren J, Parekh A, Pogue J, et al.; RE-LY Steering Committee and Investigators. Dabigatran versus warfarin in patients with atrial fibrillation. N Engl J Med 2009; 361: 1139-51. <annotation><p><italic toggle="yes">(Controlled trial of dabigatran vs warfarin in 18,113 patients with atrial fibrillation for average of 2 years found ALT above 3 times ULN in 1.9-2.1% of dabigatran vs 2.2% of warfarin treated subjects; 0.2% in both groups had simultaneous bilirubin and ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">19717844</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dabigatran.R11">
+            <mixed-citation publication-type="journal">Dabigatran etexilate (Pradaxa)--a new oral anticoagulant. Med Lett Drugs Ther 2010; 52 (1351): 89-90. <annotation><p><italic toggle="yes">(Concise review of pharmacology, efficacy and safety of dabigatran shortly after its approval in the US; most common troublesome side effects are dyspepsia and gastritis; no mention of liver injury or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">21068702</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dabigatran.R12">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 [11%] were attributed to drug induced liver injury, but none were due to anticoagulants or platelet inhibitors).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dabigatran.R13">
+            <mixed-citation publication-type="journal">Friedman RJ, Dahl OE, Rosencher N, Caprini JA, Kurth AA, Francis CW, Clemens A, et al.; RE-MOBILIZE, RE-MODEL, RE-NOVATE Steering Committees. Dabigatran versus enoxaparin for prevention of venous thromboembolism after hip or knee arthroplasty: a pooled analysis of three trials. Thromb Res 2010; 126: 175-82. <annotation><p><italic toggle="yes">(Analysis of 3 trials of prevention of venous thrombosis after arthroplasty found ALT elevations &#x0003e;3 times ULN in 2.2 to 2.6% of dabigatran vs 3.6% of enoxaparin treated subjects, usually arising in first 10 days; 2 of 5270 [~1 per 2000] dabigatran treated patients had both jaundice and enzyme elevations without another obvious cause, both resolving on stopping dabigatran).</italic></p></annotation><pub-id pub-id-type="pmid">20434759</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dabigatran.R14">
+            <mixed-citation publication-type="journal">Tran A, Cheng-Lai A. Dabigatran etexilate: the first oral anticoagulant available in the United States since warfarin. Cardiol Rev 2011; 19: 154-61. <annotation><p><italic toggle="yes">(Review of pharmacology, safety and efficacy of dabigatran; "unlike ximelagatran, dabigatran does not appear to have any hepatotoxic effects," ALT elevations greater than 3 times ULN occurred in 3% of treated patients).</italic></p></annotation><pub-id pub-id-type="pmid">21464643</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dabigatran.R15">
+            <mixed-citation publication-type="journal">Hankey GJ, Eikelboom JW. Dabigatran etexilate: a new oral thrombin inhibitor. Circulation 2011; 123: 1436-50. <annotation><p><italic toggle="yes">(Review of the mechanism of action, pharmacokinetics, clinical efficacy and safety of dabigatran).</italic></p></annotation><pub-id pub-id-type="pmid">21464059</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dabigatran.R16">
+            <mixed-citation publication-type="journal">Nutescu E, Chuatrisorn I, Hellenbart E. Drug and dietary interactions of warfarin and novel oral anticoagulants: an update. J Thromb Thrombolysis 2011; 31: 326-43. <annotation><p><italic toggle="yes">(Extensive review of the drug-drug and drug-food interactions of the oral anticoagulants; unlike with warfarin, there are few significant drug and dietary interactions with dabigatran).</italic></p></annotation><pub-id pub-id-type="pmid">21359645</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dabigatran.R17">
+            <mixed-citation publication-type="journal">Ma TK, Yan BP, Lam YY. Dabigatran etexilate versus warfarin as the oral anticoagulant of choice? A review of clinical data. Pharmacol Ther 2011; 129: 185-94. <annotation><p><italic toggle="yes">(Review of trials of efficacy and safety of dabigatran mentions that ALT levels above 3 times ULN occurred in 1.5-3.1% of dabigatran vs 5-7.4% of enoxaparin treated patients).</italic></p></annotation><pub-id pub-id-type="pmid">20920530</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dabigatran.R18">
+            <mixed-citation publication-type="journal">Eriksson BI, Dahl OE, Huo MH, Kurth AA, Hantel S, Hermansson K, Schnee JM, et al.; RE-NOVATE II Study Group. Oral dabigatran versus enoxaparin for thromboprophylaxis after primary total hip arthroplasty (RE-NOVATE II*). A randomised, double-blind, non-inferiority trial. Thromb Haemost 2011; 105: 721-9. <annotation><p><italic toggle="yes">(Controlled trial of dabigatran vs enoxaparin in 2055 patients undergoing orthopedic surgery found similar efficacy and side effects of the 2 anticoagulants; ALT elevations above 3 times ULN occurred in 3.8% on dabigatran and 5.6% on enoxaparin, and there were no episodes of clinically apparent liver injury that could be linked to either).</italic></p></annotation><pub-id pub-id-type="pmid">21225098</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dabigatran.R19">
+            <mixed-citation publication-type="journal">Rochwerg B, Xenodemetropoulos T, Crowther M, Spyropoulos A. Dabigatran-induced acute hepatitis. Clin Appl Thromb Hemost 2012; 18: 549-50. <annotation><p><italic toggle="yes">(71 year old man with atrial fibrillation developed jaundice 2-4 weeks after starting dabigatran [bilirubin 6.0 mg/dL, ALT 667 U/L, Alk P 680 U/L], resolving within 2 weeks of stopping). </italic></p></annotation><pub-id pub-id-type="pmid">22962308</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dabigatran.R20">
+            <mixed-citation publication-type="journal">Fulcrand J, Lerooy A, Giraud J, Cailliau A, Delrot C, Petitpain N, Auffret M; le r&#x000e9;seau des Centres r&#x000e9;gionaux de Pharmacovigilance. [Cytolysis in an elderly patient treated with dabigatran etexilate]. Therapie 2013; 68: 332-4. <annotation><p><italic toggle="yes"> (86 year old woman with atrial fibrillation was taking dabigatran for 6 months when she presented with renal failure and ALT elevations [100 times ULN; bilirubin and Alk P not mentioned], which fell to normal within days of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">24225047</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dabigatran.R21">
+            <mixed-citation publication-type="journal">Caldeira D, Barra M, Santos AT, de Abreu D, Pinto FJ, Ferreira JJ, Costa J. Risk of drug-induced liver injury with the new oral anticoagulants: systematic review and meta-analysis. Heart 2014; 100: 550-6. <annotation><p><italic toggle="yes">(Systemic review of controlled trials of newer anticoagulants identified 29 trials in 152,116 patients followed for an average of 16 months and found no increase in risk of ALT elevations above 3 times ULN compared to low molecular weight heparin or placebo arms; 2.1% taking dabigatran vs 2.7% in control groups).</italic></p></annotation><pub-id pub-id-type="pmid">24476812</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dabigatran.R22">
+            <mixed-citation publication-type="journal">New oral anticoagulants for acute venous thromboembolism. Med Lett Drugs Ther 2014; 56 (1433): 3-4. <annotation><p><italic toggle="yes">(Brief comparison of warfarin, rivaroxaban, apixaban and dabigatran as anticoagulants as therapy for venous thromboembolism, all of which have similar efficacy, warfarin requiring regular monitoring of INR whereas the others not).</italic></p></annotation><pub-id pub-id-type="pmid">24419296</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dabigatran.R23">
+            <mixed-citation publication-type="journal">Raschi E, Poluzzi E, Koci A, Salvo F, Pariente A, Biselli M, Moretti U, et al. Liver injury with novel oral anticoagulants: assessing post-marketing reports in the US Food and Drug Administration adverse event reporting system. Br J Clin Pharmacol 2015; 80: 285-93. <annotation><p><italic toggle="yes">(Analysis of 17,097 reports to FDA on adverse events associated with newer oral anticoagulants identified 146 liver related events attributed to rivaroxaban [3.7% of total reports] with 25 resulting in acute liver failure, and 222 to dabigatran [1.7% of total] with 41 resulting in acute liver failure; case-by-case analysis was difficult "it should be acknowledged that this clinical event may not be necessarily related to the drug").</italic></p></annotation><pub-id pub-id-type="pmid">25689417</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dabigatran.R24">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients With drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. <italic toggle="yes">
+</italic><annotation><p><italic toggle="yes">(Among 899 patients with clinically apparent drug induced liver injury enrolled in a US prospective study over an 8 year period, 2 were attributed to antithrombotic agents including 1 to prasurgel [platelet inhibitor] and 1 to dalteparin [low molecular weight heparin], but none to dabigatran).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dabigatran.R25">
+            <mixed-citation publication-type="journal">Liakoni E, R&#x000e4;tz Bravo AE, Kr&#x000e4;henb&#x000fc;hl S. Hepatotoxicity of new oral anticoagulants (NOACs). Drug Saf 2015; 38: 711-20. <annotation><p><italic toggle="yes">(Systematic review of evidence of hepatotoxicity of new oral anticoagulants includiing rivaroxaban, apixaban, edoxaban and dabigatran found 22 cases of liver injury due to rivaroxaban, 2 dabigatran, 2 apixaban, but none to endoxaban). </italic></p></annotation><pub-id pub-id-type="pmid">26138527</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dabigatran.R26">
+            <mixed-citation publication-type="journal">Alonso A, MacLehose RF, Chen LY, Bengtson LG, Chamberlain AM, Norby FL, Lutsey PL. Prospective study of oral anticoagulants and risk of liver injury in patients with atrial fibrillation. Heart 2017; 103: 834-9. <annotation><p><italic toggle="yes"> (Analysis of a database on more than 1 million patients with nonvalvular atrial fibrillation on oral anticoagulants identified 960 hospitalizations with liver injury, rates being highest for warfarin, intermediate for rivaroxaban, and lowest for apixaban and dabigatran). </italic></p></annotation><pub-id pub-id-type="pmid">28057799</pub-id></mixed-citation>
+          </ref>
+          <ref id="Dabigatran.R27">
+            <mixed-citation publication-type="journal">Bunchorntavakul C, Reddy KR. Drug hepatotoxicity: newer agents. Clin Liver Dis 2017; 21: 115-34. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of recently approved medications including dabigatran which has been implicated in cases of clinically apparent liver injury in both FDA and WHO spontaneous reporting databases, including 41 instances of acute liver failure).</italic></p></annotation><pub-id pub-id-type="pmid">27842767</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Dabigatran.OTHER_REFERENCE_LINKS_Dabigat" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Dabigatran+Etexilate/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Dabigatran Etexilate: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Dabigatran+Etexilate">Trials on Dabigatran Etexilate: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

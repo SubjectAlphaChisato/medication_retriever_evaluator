@@ -1,0 +1,1271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Nefazodone" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Nefazodone</book-part-id>
+      <title-group>
+        <title>Nefazodone</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>6</day>
+          <month>3</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Nedosiran" document-type="chapter">Nedosiran</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Nelarabine" document-type="chapter">Nelarabine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Nefazodone.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Nefazodone.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Nefazodone is a serotoninergic modulating antidepressant that is used in therapy of depression, aggressive behavior and panic disorder. Nefazodone therapy has been associated with transient, usually asymptomatic elevations in serum aminotransferase levels and has been linked to several instances of clinically apparent acute liver injury some of which have been fatal.</p>
+        </sec>
+        <sec id="Nefazodone.Background">
+          <title>Background</title>
+          <p>Nefazodone (ne faz' oh done) is a phenylpiperazine derivative whose mechanism of action is believed to be inhibition of serotonin and norepinephrine reuptake, which results in increased levels and activity of these neurotransmitters. However, the actual mechanism of action is unknown and nefazodone also is a weak serotonin and alpha-1 adrenergic antagonist. Nefazodone was approved for use in moderate and severe depression in the United States in 1988, but was subsequently linked to many cases of acute liver injury, some of which were fatal, and is no longer in common use. Current indications are for major depression that has not responded to conventional antidepressants where the risks of liver failure are discussed fully with the patient and considered warranted. Nefazodone is available in tablets of 50, 100, 150, 200 and 250 mg in several generic forms and formerly under the brand name of Serzone. The recommended dosage for depression in adults is 200 mg daily that can be increased in 100 mg amounts to a maximum of 600 mg daily. Common side effects of nefazodone are drowsiness, dizziness, headache, dry mouth, blurred vision, nausea, constipation or diarrhea, decreased libido, abnormal dreams, increased appetite and weight gain. Uncommon but potentially severe adverse events include suicidal thoughts and behaviors, activation of mania, serotonin syndrome, seizures, priapism, angle closure glaucoma, and severe hypersensitivity reactions including angioedema and Stevens Johnson syndrome.</p>
+        </sec>
+        <sec id="Nefazodone.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Liver test abnormalities occur in a proportion of patients on nefazodone, but elevations are usually modest and usually do not require dose modification or discontinuation. Soon after its general availability, nefazodone was linked to several instances of acute, clinically apparent liver injury, some of which were fatal. The onset of injury varied from 6 weeks to 8 months and the pattern of serum enzyme elevations was typically hepatocellular. Autoimmune (autoantibodies) and immunoallergic features (rash, fever, eosinophilia) were uncommon. Liver biopsy usually demonstrated an acute hepatitis with cholestasis and variable degrees of centrolobular (zone 3) necrosis. Systematic reviews suggested that the incidence of hepatic failure due to nefazodone is 1 per 250,000 to 300,000 patient-years of exposure. Because of this complication, nefazodone was withdrawn from use in many countries. Nefazodone, however, can be effective in patients with otherwise resistant forms of severe depression. For this reason, it remains available in the United States with the recommendation that it be used only if other antidepressants have been found to be ineffective and after full disclosure and discussion of the risks. It has a &#x0201c;black box&#x0201d; warning for hepatotoxicity.</p>
+          <p>Likelihood score: A (well known cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Nefazodone.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which nefazodone causes liver injury is not known. Nefazodone is extensively metabolized by the liver, mainly via the cytochrome P450 system (CYP3A4), and hepatotoxicity may be mediated by toxic intermediates of its metabolism. Nefazodone is also susceptible to multiple drug-drug interactions and doses of concurrent medications should be carefully chosen.</p>
+        </sec>
+        <sec id="Nefazodone.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum aminotransferase elevations that occur on nefazodone therapy are usually self-limited, but require careful monitoring if they arise because of the risk of clinically apparent liver injury, which can be severe and even fatal. Several instances of acute liver failure have been attributed to nefazodone therapy and it is often mentioned in case series of acute liver failure due to medications. While routine monitoring of liver tests is not recommended with nefazodone therapy, monitoring for signs and symptoms of liver injury (and full explanation of the meaning of such symptoms to the patient) is strongly recommended. Persons with intolerance to nefazodone may have similar reactions to other antidepressants and careful monitoring is warranted if other such agents are used.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="Antidepressants" document-type="chapter">Antidepressant Agents</related-object>, Miscellaneous</p>
+          <p>Other Drugs in the Subclass: <related-object link-type="booklink" source-id="livertox" document-id="Trazodone" document-type="chapter">Trazodone</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Nefazodone.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Nefazodone.Case_1_Acute_liver_failure_du">
+          <title>Case 1. Acute liver failure due to nefazodone.(<xref ref-type="bibr" rid="Nefazodone.REF.1">1</xref>)</title>
+          <p>A 52 year old man developed fatigue and nausea 6 weeks after starting nefazodone (300 mg daily) for a long standing depression that had not responded adequately to conventional antidepressants. He had no previous history of liver disease, did not drink alcohol and had no risk factors for viral hepatitis. His liver enzymes were known to be normal in the past. Other medications included an herbal sleeping aid (valerian and passionflower) and ergotamines for occasional headaches. Laboratory test results included marked elevations in serum aminotransferase levels (ALT 1947 U/L, AST 836 U/L), with minimal increases in GGT (88 U/L) and normal bilirubin levels. All medications were stopped and he was observed. Over the next week, he became jaundiced and his prothrombin index (Quick) fell (from 53% of normal to 27%). He was transferred to a liver transplant center. Tests for hepatitis A, B and C were negative as were serologic tests for acute cytomegalovirus, herpes simplex and Ebstein Barr Virus infection. Abdominal imaging initially showed a normal appearing liver, but a slight amount of ascites. Two weeks later, magnetic resonance imaging demonstrated a shrunken liver and worsening ascites. A liver biopsy showed a cellular and canalicular cholestasis with marked portal inflammation and periportal necrosis and fibrosis with lobular collapse. He remained markedly jaundiced and developed marked ascites and hepatic encephalopathy. Fourteen weeks after starting nefazodone and 8 weeks after stopping it, he underwent liver transplantation. Despite this, he developed postoperative complications and died of disseminated aspergillosis 4 weeks later.</p>
+          <sec id="Nefazodone.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Nefazodone.Tc" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Nefazodone.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Nefazodone.Tc_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Nefazodone (300 mg daily)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Nefazodone.Tc_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Nefazodone.Tc_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Hepatocellular (R=26)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Nefazodone.Tc_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Nefazodone.Tc_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">5+ (liver transplantation, death)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Nefazodone.Tc_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Nefazodone.Tc_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">6 weeks</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Nefazodone.Tc_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Nefazodone.Tc_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">None</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Nefazodone.Tc_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Nefazodone.Tc_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">Passionflower, valerian, ergotamines</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Nefazodone.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Nefazodone.Td" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Nefazodone.Td_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Starting</th>
+                    <th id="hd_h_Nefazodone.Td_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Stopping</th>
+                    <th id="hd_h_Nefazodone.Td_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT<break/>(U/L)</th>
+                    <th id="hd_h_Nefazodone.Td_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">GGT<break/>(U/L)</th>
+                    <th id="hd_h_Nefazodone.Td_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                    <th id="hd_h_Nefazodone.Td_1_1_1_6" valign="top" align="center" scope="col" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">21</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">26</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">1947</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">88</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Admission</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">7 days</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">1031</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">89</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">13.9</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Transfer to transplant center</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">8 days</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">1108</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">85</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">18.9</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Prothrombin time: 30%</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">9 weeks</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">87</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">29</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">34.9</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">10 weeks</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">45</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">28</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">41.4</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">12 weeks</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">22</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">11</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">41.4</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Encephalopathy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">14 weeks</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">14</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">18</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">43.9</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Prothrombin time 25%</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_3 hd_h_Nefazodone.Td_1_1_1_4 hd_h_Nefazodone.Td_1_1_1_5 hd_h_Nefazodone.Td_1_1_1_6" colspan="4" valign="top" align="center" rowspan="1">Liver transplantation</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_1 hd_h_Nefazodone.Td_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;25</bold>
+</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;29</bold>
+</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Nefazodone.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Nefazodone.Comment">
+            <title>Comment</title>
+            <p>Nefazodone has been linked to many instances of severe acute hepatocellular injury arising 2 to 24 weeks after starting therapy. The injury is typically hepatocellular and can be severe. Autoimmune and immunoallergic features are not common. In the current instance, nefazodone was discontinued promptly, but the liver injury was severe enough that hepatic failure arose that did not resolve over the next 4 to 8 weeks, leading to a liver transplant but subsequent death from complications. The sleeping aid that was started at the same time as nefazodone is a commonly used herbal mixture that has not been specifically linked to liver injury.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Nefazodone.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Nefazodone &#x02013; Generic, Serzone&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antidepressant Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=NEFAZODONE+HYDROCHLORIDE">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Nefazodone.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Nefazodone.Te" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <tbody>
+              <tr>
+                <th id="hd_b_Nefazodone.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_b_Nefazodone.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_b_Nefazodone.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_b_Nefazodone.Te_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+              <tr>
+                <td headers="hd_b_Nefazodone.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Nefazodone</td>
+                <td headers="hd_b_Nefazodone.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135014183">82752-99-6</ext-link>
+</td>
+                <td headers="hd_b_Nefazodone.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C25-H32-Cl-N5-O2.Cl-H</td>
+                <td headers="hd_b_Nefazodone.Te_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135014183" document-id-type="sid" document-type="summary" object-id="135014183" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Nefazodone.CITED_REFERENCES">
+        <title>CITED REFERENCES</title>
+        <ref-list id="Nefazodone.CITED_REFERENCES.reflist0">
+          <ref id="Nefazodone.REF.1">
+            <label>1</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ehrentraut</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Rothenh&#x000e4;usler</surname><given-names>HB</given-names></name>
+<name name-style="western"><surname>Gerbes</surname><given-names>AL</given-names></name>
+<name name-style="western"><surname>Rau</surname><given-names>HG</given-names></name>
+<name name-style="western"><surname>Thiel</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Schirren</surname><given-names>CA</given-names></name>
+<name name-style="western"><surname>Kapfhammer</surname><given-names>HP</given-names></name>
+</person-group>
+              <comment>[Acute liver failure in nefazodone therapy? A case report]</comment>
+              <source>Nervenarzt</source>
+              <year>2002</year>
+              <volume>73</volume>
+              <fpage>686</fpage>
+              <lpage>9</lpage>
+              <pub-id pub-id-type="pmid">12212533</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Nefazodone.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 26 February 2020</p>
+        <ref-list id="Nefazodone.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Nefazodone.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Antidepressants. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 493-8.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; trazodone is discussed but not nefazodone which had been approved just the year before).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Nefazodone.REF.larrey.2013">
+            <mixed-citation publication-type="book">Larrey D, Ripault MP. Hepatotoxicity of psychotropic drugs and drugs of abuse. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 443-62.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of antidepressants mentions that 15 cases of liver injury due to nefazodone have been published including 3 of "subfulminant hepatitis").</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Nefazodone.REF.odonnell.2018">
+            <mixed-citation publication-type="book">O'Donnell JM, Bies RR, Shelton RC. Drug therapy of depression and anxiety disorders. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 267-78.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Nefazodone.REF.robinson.1996.31">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Robinson</surname><given-names>DS</given-names></name>
+<name name-style="western"><surname>Roberts</surname><given-names>DL</given-names></name>
+<name name-style="western"><surname>Smith</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Stringfellow</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Kaplita</surname><given-names>SB</given-names></name>
+<name name-style="western"><surname>Seminara</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Marcus</surname><given-names>RN</given-names></name>
+</person-group>
+              <article-title>The safety profile of nefazodone.</article-title>
+              <source>J Clin Psychiatry</source>
+              <year>1996</year>
+              <volume>97</volume>
+              <supplement>Suppl 2</supplement>
+              <fpage>31</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Pooled analysis of 3500 patients on nefazodone in clinical trials conducted in support of its approval for use in major depressive disorders; most common side effects were nausea, somnolence, dry mouth, dizziness, constipation and asthenia; 12% stopped drug for side effects vs 7.5% on placebo, 10.5% fluoxetine and 22% imipramine; no excess weight gain or abnormal laboratory tests vs placebo; of note, no deaths or severe side effects due to liver injury and no mention of ALT elevations).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.lucena.1999.2577">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lucena</surname><given-names>MI</given-names></name>
+<name name-style="western"><surname>Andrade</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Gomez-Outes</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Rubio</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Cabello</surname><given-names>MR</given-names></name>
+</person-group>
+              <article-title>Acute liver failure after treatment with nefazodone.</article-title>
+              <source>Dig Dis Sci</source>
+              <year>1999</year>
+              <volume>44</volume>
+              <fpage>2577</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(73 year old woman developed abdominal pain 7 weeks after starting nefazodone [bilirubin 17.1 mg/dL, ALT 834 U/L, Alk P 115 U/L, protime 15 sec], with progressive liver failure and death 4 weeks after presentation).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10630516</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.arandamichel.1999.285">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Aranda-Michel</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Koehler</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Bejarano</surname><given-names>PA</given-names></name>
+<name name-style="western"><surname>Poulos</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Luxon</surname><given-names>BA</given-names></name>
+<name name-style="western"><surname>Khan</surname><given-names>CM</given-names></name>
+<name name-style="western"><surname>Ee</surname><given-names>LC</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Nefazodone-induced liver failure: report of three cases.</article-title>
+              <source>Ann Intern Med</source>
+              <year>1999</year>
+              <volume>130</volume>
+              <fpage>285</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Three women, ages 54, 16 and 57 years, developed jaundice 8, 3 and 6 months after starting nefazodone [bilirubin 34.0, 22.5 and 11.8 mg/dL, ALT 2040, 1345 and 1625 U/L, Alk P 97, 206 and 273 U/L], biopsies showing massive and centrilobular necrosis; 1 died, 1 recovered and 1 was transplanted).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10068386</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.van_battum.2000.1964">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>van Battum</surname><given-names>PL</given-names></name>
+<name name-style="western"><surname>van de Vrie</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Metselaar</surname><given-names>HJ</given-names></name>
+<name name-style="western"><surname>Verstappen</surname><given-names>VM</given-names></name>
+<name name-style="western"><surname>Zondervan</surname><given-names>PE</given-names></name>
+<name name-style="western"><surname>de Man</surname><given-names>RA</given-names></name>
+</person-group>
+              <comment>[Acute liver failure ascribed to nefazodone: importance of 'postmarketing surveillance' for recently introduced drugs]</comment>
+              <source>Ned Tijdschr Geneeskd</source>
+              <year>2000</year>
+              <volume>144</volume>
+              <fpage>1964</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(50 year old man developed acute liver failure 7 months after starting nefazodone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11048561</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.schirren.2000.1596">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Schirren</surname><given-names>CA</given-names></name>
+<name name-style="western"><surname>Baretton</surname><given-names>G</given-names></name>
+</person-group>
+              <article-title>Nefazodone-induced acute liver failure.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>2000</year>
+              <volume>95</volume>
+              <fpage>1596</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(52 year old man developed jaundice 5-6 weeks after starting nefazodone, with ascites and liver failure requiring liver transplantation 6 weeks after presentation; explant showed massive hepatic necrosis).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.eloubeidi.2000.1036">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Eloubeidi</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Gaede</surname><given-names>JT</given-names></name>
+<name name-style="western"><surname>Swaim</surname><given-names>MW</given-names></name>
+</person-group>
+              <article-title>Reversible nefazodone-induced liver failure.</article-title>
+              <source>Dig Dis Sci</source>
+              <year>2000</year>
+              <volume>45</volume>
+              <fpage>1036</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(46 year old woman developed fatigue followed by jaundice ~4 months after starting nefazodone [bilirubin 14.5 mg/dL, ALT 456 U/L, Alk P 158 U/L], resolving within 4 months of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10795773</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.fernandes.2000.532">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fernandes</surname><given-names>NF</given-names></name>
+<name name-style="western"><surname>Martin</surname><given-names>RR</given-names></name>
+<name name-style="western"><surname>Schenker</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Trazodone-induced hepatotoxicity: a case report with comments on drug-induced hepatotoxicity.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>2000</year>
+              <volume>95</volume>
+              <fpage>532</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(39 year old woman developed jaundice 18 months after starting trazodone [bilirubin 11.0 mg/dL, ALT 1092 U/L and Alk P 206 U/L], improving rapidly upon stopping but recurring with inadvertent rechallenge).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10685763</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.ehrentraut.2002.686">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ehrentraut</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Rothenh&#x000e4;usler</surname><given-names>HB</given-names></name>
+<name name-style="western"><surname>Gerbes</surname><given-names>AL</given-names></name>
+<name name-style="western"><surname>Rau</surname><given-names>HG</given-names></name>
+<name name-style="western"><surname>Thiel</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Schirren</surname><given-names>CA</given-names></name>
+<name name-style="western"><surname>Kapfhammer</surname><given-names>HP</given-names></name>
+</person-group>
+              <comment>[Acute liver failure in nefazodone therapy? A case report]</comment>
+              <source>Nervenarzt</source>
+              <year>2002</year>
+              <volume>73</volume>
+              <fpage>686</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(52 year old man developed acute liver failure 6 weeks after starting nefazodone [bilirubin 13.9 mg/dL, ALT 1947 U/L, GGT 88 U/L], progressing to hepatic failure requiring liver transplantation, dying of subsequent complications: Case 1).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12212533</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.stewart.2002.375">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Stewart</surname><given-names>DE</given-names></name>
+</person-group>
+              <article-title>Hepatic adverse reactions associated with nefazodone.</article-title>
+              <source>Can J Psychiatry</source>
+              <year>2002</year>
+              <volume>47</volume>
+              <fpage>375</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of Canadian Adverse Drug Reaction database found 32 cases of liver injury associated with nefazodone with onset after 1 week to 2 years, mostly within 6 months, 3 with hepatic failure).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12025437</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.carvajal_garc_apando.2002.135">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Carvajal Garc&#x000ed;a-Pando</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Garc&#x000ed;a del Pozo</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez</surname><given-names>AS</given-names></name>
+<name name-style="western"><surname>Velasco</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Rueda de Castro</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Lucena</surname><given-names>MI</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity associated with the new antidepressants.</article-title>
+              <source>J Clin Psychiatry</source>
+              <year>2002</year>
+              <volume>63</volume>
+              <fpage>135</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of cases of hepatotoxicity from antidepressants in Spanish Pharmacovigilance System from 1989-1999 identified 99 cases; among SSRIs, 26 due to fluoxetine, 14 paroxetine, 6 fluvoxamine, 5 sertraline, 3 venlafaxine and 2 citalopram; among tricyclics, 16 clomipramine, 7 amitriptyline, 6 imipramine; among miscellaneous, 3 nefazodone and 1 trazodone; but all similar in rate ~1-3 per 100,000 patient-years of exposure, except for nefazodone=29/100,000).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11874214</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.lucena.2003.249">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lucena</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Carvajal</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Andrade</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Velasco</surname><given-names>A.</given-names></name>
+</person-group>
+              <article-title>Antidepressant-induced hepatotoxicity.</article-title>
+              <source>Expert Opin Drug Saf</source>
+              <year>2003</year>
+              <volume>2</volume>
+              <fpage>249</fpage>
+              <lpage>62</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of hepatotoxicity of antidepressants; antidepressant use has increased markedly between 1992 and 2002, accounting for 5% of cases of hepatotoxicity; nefazodone has the highest incidence of hepatotoxicity among antidepressants and the worst prognosis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12904104</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.choi.2003.1187">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Choi</surname><given-names>S.</given-names></name>
+</person-group>
+              <article-title>Nefazodone (Serzone) withdrawn because of hepatotoxicity.</article-title>
+              <source>CMAJ</source>
+              <year>2003</year>
+              <volume>169</volume>
+              <fpage>1187</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Editorial announcing withdrawal of nefazodone in Canada; 51 Canadian reports of adverse hepatic events, 2 requiring transplant).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14638657</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.tzimas.2003.1663">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Tzimas</surname><given-names>GN</given-names></name>
+<name name-style="western"><surname>Dion</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Desch&#x000ea;nes</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Early onset, nefazodone-induced fulminant hepatic failure.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>2003</year>
+              <volume>98</volume>
+              <fpage>1663</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Two cases of acute liver failure in 61 and 46 year olds, with onset of jaundice 3 and 4 weeks after starting nefazodone with liver failure and encephalopathy, one requiring liver transplant and one with spontaneous survival).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12873607</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.spigset.2003.157">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Spigset</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>H&#x000e4;gg</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Bate</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Hepatic injury and pancreatitis during treatment with serotonin reuptake inhibitors: data from the World Health Organization (WHO) database of adverse drug reactions.</article-title>
+              <source>Int Clin Psychopharmacol</source>
+              <year>2003</year>
+              <volume>18</volume>
+              <fpage>157</fpage>
+              <lpage>61</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 27,542 reports of hepatic injury in WHO database, 786 were related to SSRIs [3%], including citalopram 42, fluoxetine 222, fluvoxamine 54, paroxetine 191, sertraline 112, nefazodone 91 and venlafaxine 74, only nefazodone has an excess of hepatic reports in relationship to total reports).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12702895</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.conway.2004.353">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Conway</surname><given-names>CR</given-names></name>
+<name name-style="western"><surname>McGuire</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Baram</surname><given-names>VY</given-names></name>
+</person-group>
+              <article-title>Nefazodone-induced liver failure.</article-title>
+              <source>J Clin Psychopharmacol</source>
+              <year>2004</year>
+              <volume>24</volume>
+              <fpage>353</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(51 year old man developed jaundice and confusion 7 months after starting nefazodone and 1 week after a dose increase [bilirubin 1.7 mg/dL, ALT 1964 U/L, Alk P 96 U/L], resolving rapidly upon stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15118496</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.degner.2004.s39">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Degner</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Grohmann</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Kropp</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>R&#x000fc;ther</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Bender</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Engel</surname><given-names>RR</given-names></name>
+<name name-style="western"><surname>Schmidt</surname><given-names>LG</given-names></name>
+</person-group>
+              <article-title>Severe adverse drug reactions of antidepressants: results of the German multicenter drug surveillance program AMSP.</article-title>
+              <source>Pharmacopsychiatry</source>
+              <year>2004</year>
+              <volume>37</volume>
+              <supplement>Suppl 1</supplement>
+              <fpage>S39</fpage>
+              <lpage>45</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of adverse drug reactions reported from 1993-2000 in 35 psychiatric hospitals; 0.7% of SSRI recipients had a severe adverse event; hepatic in 0.05%).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15052513</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.russo.2004.1018">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Russo</surname><given-names>MW</given-names></name>
+<name name-style="western"><surname>Galanko</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Shrestha</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Fried</surname><given-names>MW</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>P</given-names></name>
+</person-group>
+              <article-title>Liver transplantation for acute liver failure from drug-induced liver injury in the United States.</article-title>
+              <source>Liver Transpl</source>
+              <year>2004</year>
+              <volume>10</volume>
+              <fpage>1018</fpage>
+              <lpage>23</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among ~50,000 liver transplants done in the US between 1990 and 2002, 270 [0.5%] were done for drug induced acute liver failure, only four being due to antidepressants: nefazodone [2], bupropion [1], and paroxetine [1]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15390328</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.andrade.2005.512">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Andrade</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Lucena</surname><given-names>MI</given-names></name>
+<name name-style="western"><surname>Fern&#x000e1;ndez</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Pelaez</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Pachkoria</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Garc&#x000ed;a-Ruiz</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Garc&#x000ed;a-Mu&#x000f1;oz</surname><given-names>B</given-names></name>
+<etal/>
+<collab>Spanish Group for the Study of Drug-Induced Liver Disease</collab>
+</person-group>
+              <article-title>Drug-induced liver injury: an analysis of 461 incidences submitted to the Spanish registry over a 10-year period.</article-title>
+              <source>Gastroenterology</source>
+              <year>2005</year>
+              <volume>129</volume>
+              <fpage>512</fpage>
+              <lpage>21</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Reports to a Spanish network found 461 cases of drug induced liver disease; antidepressants accounted for 23 cases [5%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16083708</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.bj_rnsson.2006.33">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Olsson</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Suspected drug-induced liver fatalities reported to the WHO database.</article-title>
+              <source>Dig Liver Dis</source>
+              <year>2006</year>
+              <volume>38</volume>
+              <fpage>33</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Survey of drug induced liver fatalities reported to WHO database between 1968-2003 revealed 4690 reports; no antidepressant ranked among the top 21 agents that were linked to at least 50 cases each).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16054882</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.kostrubsky.2006.451">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kostrubsky</surname><given-names>SE</given-names></name>
+<name name-style="western"><surname>Strom</surname><given-names>SC</given-names></name>
+<name name-style="western"><surname>Kalgutkar</surname><given-names>AS</given-names></name>
+<name name-style="western"><surname>Kulkarni</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Atherton</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Mireles</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Feng</surname><given-names>B</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Inhibition of hepatobiliary transport as a predictive method for clinical hepatotoxicity of nefazodone.</article-title>
+              <source>Toxicol Sci</source>
+              <year>2006</year>
+              <volume>90</volume>
+              <fpage>451</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Nefazodone, unlike trazodone, is a potent inhibitor of the bile salt export protein [BSEP] in cell culture).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16410371</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.desanty.2007.1201">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>DeSanty</surname><given-names>KP</given-names></name>
+<name name-style="western"><surname>Amabile</surname><given-names>CM</given-names></name>
+</person-group>
+              <article-title>Antidepressant-induced liver injury.</article-title>
+              <source>Ann Pharmacother</source>
+              <year>2007</year>
+              <volume>41</volume>
+              <fpage>1201</fpage>
+              <lpage>11</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of drug induced liver injury and reports of injury from MAO inhibitors, SSRIs, tricyclics and atypical agents).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17609231</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Davern</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Serrano</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rochon</surname><given-names>J</given-names></name>
+<collab>Drug Induced Liver Injury Network (DILIN)</collab>
+</person-group>
+              <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, antidepressants accounted for 12 cases [4%]: duloxetine [6], bupropion [2], fluoxetine [2], amitriptyline [1], sertraline [1]; no mention of trazodone or nefazodone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.detry.2009.3435">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Detry</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Delwaide</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>De Roover</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Hans</surname><given-names>MF</given-names></name>
+<name name-style="western"><surname>Delbouille</surname><given-names>MH</given-names></name>
+<name name-style="western"><surname>Monard</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Honore</surname><given-names>P</given-names></name>
+</person-group>
+              <article-title>Fulminant hepatic failure induced by venlafaxine and trazodone therapy: a case report.</article-title>
+              <source>Transplant Proc</source>
+              <year>2009</year>
+              <volume>41</volume>
+              <fpage>3435</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(48 year old woman developed jaundice and liver failure, and underwent liver transplantation, following combined therapy of venlafaxine and trazodone for 4 months).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19857765</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Reuben</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Koch</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>WM</given-names></name>
+<collab>Acute Liver Failure Study Group</collab>
+</person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, 3 of which were linked to antidepressants, one each for nefazodone, fluoxetine and venlafaxine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.sedky.2012.53">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sedky</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Nazir</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Joshi</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Kaur</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Lippmann</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Which psychotropic medications induce hepatotoxicity?</article-title>
+              <source>Gen Hosp Psychiatry</source>
+              <year>2012</year>
+              <volume>34</volume>
+              <fpage>53</fpage>
+              <lpage>61</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the hepatotoxicity of psychotropic drugs in common use, mentions that nefazodone has a "black box" warning and that liver failure occurs at a rate of 1:250,000-300,000 patient years of exposure).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22133982</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.park.2013.207">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Park</surname><given-names>SH</given-names></name>
+<name name-style="western"><surname>Ishino</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Liver injury associated with antidepressants.</article-title>
+              <source>Curr Drug Saf</source>
+              <year>2013</year>
+              <volume>8</volume>
+              <fpage>207</fpage>
+              <lpage>23</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of drug induced liver injury due to antidepressants, including trazodone and nefazodone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23914755</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Bergmann</surname><given-names>OM</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Kvaran</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Olafsson</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, none of which were attributed to nefazodone or trazodone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.montastruc.2014.327">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Montastruc</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Scotto</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Vaz</surname><given-names>IR</given-names></name>
+<name name-style="western"><surname>Guerra</surname><given-names>LN</given-names></name>
+<name name-style="western"><surname>Escudero</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>S&#x000e1;inz</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Falomir</surname><given-names>T</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Hepatotoxicity related to agomelatine and other new antidepressants: a case/noncase approach with information from the Portuguese, French, Spanish, and Italian pharmacovigilance systems.</article-title>
+              <source>J Clin Psychopharmacol</source>
+              <year>2014</year>
+              <volume>34</volume>
+              <fpage>327</fpage>
+              <lpage>30</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among adverse event reports attributed to antidepressants submitted to 4 European pharmacovigilance databases, 3300 [10%] were for hepatotoxicity, rates being highest for agomelatine [14.6%], but also being high for mirtazapine in some databases, 2.0-11.8%; nefazodone results were available only for Spain which reported 4 cases, but the drug was withdrawn in 2003 before the study was completed]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24561328</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.voican.2014.404">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Voican</surname><given-names>CS</given-names></name>
+<name name-style="western"><surname>Corruble</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Naveau</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Perlemuter</surname><given-names>G</given-names></name>
+</person-group>
+              <article-title>Antidepressant-induced liver injury: a review for clinicians.</article-title>
+              <source>Am J Psychiatry</source>
+              <year>2014</year>
+              <volume>171</volume>
+              <fpage>404</fpage>
+              <lpage>15</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the hepatotoxicity of antidepressants mentions that aminotransferase elevations arise in 0.5-3.0% of patients, being highest with MAO inhibitors and lower with SSRIs; all antidepressants have the potential to cause liver injury but is highest with nefazodone, imipramine, amitriptyline, duloxetine, bupropion, trazodone and agomelatine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24362450</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hern&#x000e1;ndez</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bessone</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>di Pace</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Brahm</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zapata</surname><given-names>R, A</given-names></name>
+<name name-style="western"><surname>Chirino</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America: an analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 176 reports of drug induced liver injury from Latin America published between 1996 and 2012, only one was due to an antidepressant [amitriptyline] and none to nefazodone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 20 cases [2.2%] were attributed to antidepressants, but only one was due to nefazodone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.gahr.2015.768">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gahr</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Zeiss</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lang</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Connemann</surname><given-names>BJ</given-names></name>
+<name name-style="western"><surname>Sch&#x000f6;nfeldt-Lecuona</surname><given-names>C</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity associated with agomelatine and other antidepressants: disproportionality analysis using pooled pharmacovigilance data from the Uppsala Monitoring Centre.</article-title>
+              <source>J Clin Pharmacol</source>
+              <year>2015</year>
+              <volume>55</volume>
+              <fpage>768</fpage>
+              <lpage>73</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Using data on adverse drug reaction reports from the Uppsala Monitoring Center of WHO, there were higher relative hepatotoxicity reports for nefazodone, agomelatine, many tricyclics and mirtazapine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25650773</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.gahr.2016.769">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gahr</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Zeiss</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lang</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Connemann</surname><given-names>BJ</given-names></name>
+<name name-style="western"><surname>Hiemke</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Sch&#x000f6;nfeldt-Lecuona</surname><given-names>C</given-names></name>
+</person-group>
+              <article-title>Drug-Induced Liver Injury Associated with antidepressive psychopharmacotherapy: an explorative assessment based on quantitative signal detection using different MedDRA terms.</article-title>
+              <source>J Clin Pharmacol</source>
+              <year>2016</year>
+              <volume>56</volume>
+              <fpage>769</fpage>
+              <lpage>78</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Using data on adverse drug reaction reports from the Uppsala Monitoring Center of WHO, there were higher relative hepatotoxicity reports for nefazodone, agomelatine, many tricyclics and mirtazapine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26470856</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.friedrich.2016.pyv126">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Friedrich</surname><given-names>ME</given-names></name>
+<name name-style="western"><surname>Akimova</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Huf</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Konstantinidis</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Papageorgiou</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Winkler</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Toto</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Drug-induced liver injury during antidepressant treatment: results of AMSP, a drug surveillance program.</article-title>
+              <source>Int J Neuropsychopharmacol</source>
+              <year>2016</year>
+              <volume>19</volume>
+              <comment>pii</comment>
+              <elocation-id>pyv126</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 184,234 psychiatric inpatients from 80 hospitals in German-speaking European countries, 149 cases [0.08%] of drug induced liver injury were reported including 104 that imputed a single agent, the type of agent being tri- or tetra-cyclics in 50, SSNRs in 25, and SSRIs in 8, the most common single agent being mirtazapine [39 among 43,902 patients exposed: 0.09%]; nefazodone not included in the analysis as it was no longer being used).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26721950</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.chen.2017.30464">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chen</surname><given-names>VC</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>CF</given-names></name>
+<name name-style="western"><surname>Hsieh</surname><given-names>YH</given-names></name>
+<name name-style="western"><surname>Liang</surname><given-names>HY</given-names></name>
+<name name-style="western"><surname>Huang</surname><given-names>KY</given-names></name>
+<name name-style="western"><surname>Chiu</surname><given-names>WC</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>McIntyre</surname><given-names>RS</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Hepatocellular carcinoma and antidepressants: a nationwide population-based study.</article-title>
+              <source>Oncotarget</source>
+              <year>2017</year>
+              <volume>8</volume>
+              <fpage>30464</fpage>
+              <lpage>70</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among almost 50,000 cases of hepatocellular carcinoma registered in the Taiwan National Health Insurance Research Database, the rate of antidepressant use was lower than in approximately 250,000 matched controls from the database).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27783998</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.bunchorntavakul.2017.115">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bunchorntavakul</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+</person-group>
+              <article-title>Drug hepatotoxicity: newer agents.</article-title>
+              <source>Clin Liver Dis</source>
+              <year>2017</year>
+              <volume>21</volume>
+              <fpage>115</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of hepatotoxicity of recently approved medications mentions that liver injury in recently approved agents and only rare instances have been linked to antidepressant use, highest rates associated with duloxetine, although instances of severe hepatitis and acute liver failure have been reported with nefazodone and trazodone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27842767</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.ferrajolo.2018.95">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ferrajolo</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Scavone</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Donati</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Bortolami</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Stoppa</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Motola</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Vannacci</surname><given-names>A</given-names></name>
+<etal/>
+<collab>DILI-IT Study Group</collab>
+</person-group>
+              <article-title>Antidepressant-induced acute liver injury: a case-control study in an Italian inpatient population.</article-title>
+              <source>Drug Saf</source>
+              <year>2018</year>
+              <volume>41</volume>
+              <fpage>95</fpage>
+              <lpage>102</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 179 cases of hospitalizations for unexplained acute liver injury enrolled in an Italian prospective study between 2010 and 2014, 17 had been exposed to antidepressants including citalopram [n=4], sertraline [n=3], amitriptyline [n=3] and paroxetine [n=2], and mirtazapine [n=1], and another was exposed to both trazodone and mirtazapine; none had received nefazodone which had been withdrawn in Italy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28770534</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.billioti_de_gage.2018.673">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Billioti de Gage</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Collin</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Le-Tri</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Pariente</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>B&#x000e9;gaud</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Verdoux</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Dray-Spira</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Antidepressants and hepatotoxicity: a cohort study among 5 million individuals registered in the French National Health Insurance Database.</article-title>
+              <source>CNS Drugs</source>
+              <year>2018</year>
+              <volume>32</volume>
+              <fpage>673</fpage>
+              <lpage>84</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Using the French National Health Insurance Database, 382 serious liver injuries were found in approximately 5 million persons initiating antidepressant therapy between 2010 and 2015, rates being 32.8 per 100,000 with mirtazapine, 22.2 with venlafaxine, 19.2 for SSRIs and 12.6 with duloxetine; nefazodone was not listed as it had been withdrawn from use before the period of analysis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29959758</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.pladevallvila.2019.383">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Pladevall-Vila</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Potteg&#x000e5;rd</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Schink</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Reutfors</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Morros</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Poblador-Plou</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Timmer</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Risk of acute liver injury in agomelatine and other antidepressant users in four European countries: a cohort and nested case-control study using automated health data sources.</article-title>
+              <source>CNS Drugs</source>
+              <year>2019</year>
+              <volume>33</volume>
+              <fpage>383</fpage>
+              <lpage>95</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of data sources from 4 European countries identified 3.2 million persons initiating antidepressant therapy among whom there was no increased risk for acute liver injury for agomelatine compared to citalopram, an SSRI with a low rate of hepatotoxicity; nefazodone not included in the analysis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30830574</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF.schwasingerschmidt.2019.325">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Schwasinger-Schmidt</surname><given-names>TE</given-names></name>
+<name name-style="western"><surname>Macaluso</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Other antidepressants.</article-title>
+              <source>Handb Exp Pharmacol</source>
+              <year>2019</year>
+              <volume>250</volume>
+              <fpage>325</fpage>
+              <lpage>55</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the pharmacology of antidepressants mentions that transient elevations in cholesterol and liver function tests can occur on mirtazapine therapy; nefazodone not discussed).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30194544</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Nefazodone.REF45">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for depression.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2020</year>
+              <volume>62</volume>
+              <issue>1592</issue>
+              <fpage>25</fpage>
+              <lpage>32</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety and costs of drugs for depression; hepatotoxicity is mentioned only for nefazodone [now rarely used because of severe hepatotoxicity] and duloxetine [in heavy drinkers]).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Nefazodone.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Nefazodone/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Nefazodone: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Nefazodone">Trials on Nefazodone: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

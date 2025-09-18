@@ -1,0 +1,2916 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Simvastatin" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Simvastatin</book-part-id>
+      <title-group>
+        <title>Simvastatin</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>1</day>
+          <month>12</month>
+          <year>2021</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Simeprevir" document-type="chapter">Simeprevir</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Siponimod" document-type="chapter">Siponimod</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Simvastatin.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Simvastatin.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Simvastatin is a commonly used cholesterol lowering agent (statin) that is associated with mild, asymptomatic and self-limited serum aminotransferase elevations during therapy, and rarely with clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Simvastatin.Background">
+          <title>Background</title>
+          <p>Simvastatin (sim" va stat' in) is an orally available inhibitor of hepatic 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase, the major rate-limiting enzyme in cholesterol synthesis. Like other members of its class (the &#x0201c;statins&#x0201d;), simvastatin lowers total serum cholesterol and particularly low density lipoprotein (LDL) cholesterol concentrations, thereby reducing the risk of atherosclerosis and its complications &#x02013; myocardial infarction and stroke. Simvastatin was approved for use in the United States in 1991 and is still widely used with more than 40 million prescriptions being filled yearly. Current indications for simvastatin are hypercholesterolemia and reduction in risk for death from coronary, cerebrovascular and peripheral artery disease in patients with these diseases. Simvastatin is available generic forms and under the commercial name of Zocor in tablets of 5, 10, 20, 40 and 80 mg. the recommended dose is 5 to 80 mg daily based upon tolerability and lipid levels. Simvastatin is also available as a fixed combination with ezetimibe under the brand name Vytorin. Common side effects include muscle cramps, joint aches, abdominal pain, nausea, headache and weakness, symptoms that occur with all of the currently available statins. Rare but potentially severe adverse events include liver injury, myopathy, rhabdomyolysis, and immune-mediated necrotizing myopathy.</p>
+        </sec>
+        <sec id="Simvastatin.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Up to 5% of patients taking simvastatin chronically may experience minor elevations in serum ALT levels during therapy, but confirmed elevations to above three times the upper limit of normal (ULN) occur in only 1% to 2% of patients. These abnormalities are usually asymptomatic and self-limited even if therapy is continued. ALT elevations are clearly more frequent in patients taking higher doses of simvastatin (40 and 80 mg daily). In several studies, ALT elevations were no more frequent in patients taking 10 and 20 mg of simvastatin daily than in placebo recipients. Clinically apparent liver injury due to simvastatin is rare. The usual latency to onset of symptoms of liver disease ranges from one week to as long as 3 years, but most cases have a latency of 1 to 6 months. The pattern of injury is variable, hepatocellular, cholestatic or mixed patterns have been described. Immunoallergic symptoms of fever and rash are uncommon. Isolated cases of an autoimmune hepatitis-like syndrome associated with simvastatin therapy have been reported, some of which did not reverse completely with discontinuation, resulting in a chronic hepatitis requiring long term immunosuppressive therapy. In most cases, however, recovery occurs within 1 to 3 months. Rare cases of acute liver failure and death have been attributed to simvastatin. But in view of the wide use of simvastatin, clinically apparent liver injury is exceeding rare and is estimated to occur in 1 per 100,000 patient years of exposure.</p>
+          <p>Likelihood score: A (well known but rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Simvastatin.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of hepatic injury from simvastatin is unknown. Simvastatin is metabolized to some extent in the liver (via CYP 3A4) and is excreted in bile. The mild, self-limited ALT elevations are likely due to a toxic intermediate of drug metabolism and the reversal of these elevations due to adaptation. Use of simvastatin is contraindicated in medications that are strong inhibitors of cytochrome P450 activity (such as cyclosporine, ketoconazole, diltiazem, ciprofloxacin or amiodarone), and dose adjustments are appropriate for its use with other agents that inhibit CYP 3A4. Coadministration with these agents may cause increases in simvastatin levels and potentiate its hepatic or muscle toxicity. Both the liver enzyme elevations and muscle effects of simvastatin appear to be the result of direct toxicity and are associated largely with use of higher doses, administration with drugs that interact with its metabolism and the presence of significant comorbidities. In contrast, the idiosyncratic, clinically apparent liver injury associated with simvastatin is idiosyncratic and is likely to be immunologically mediated and is not particularly dose-related.</p>
+        </sec>
+        <sec id="Simvastatin.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The product label for simvastatin recommends screening for liver test abnormalities before starting therapy and repeating tests as clinically indicated. The mild ALT elevations associated with simvastatin therapy are usually self-limited and do not require dose modification. Simvastatin should be stopped if ALT levels rise above 10-fold the upper limit of normal, or persist in being above 5-fold elevated or are associated with symptoms. In the clinically apparent liver injury attributed to simvastatin, recovery is usually complete within 1 to 2 months. Vanishing bile duct syndrome due to simvastatin has not been described. Rare instances of acute liver failure have been attributed to simvastatin, but in these cases the role of simvastatin was not completely clear. In view of the wide scale use of simvastatin, clinically apparent and severe liver injury is extraordinarily rare. Recurrence of injury with rechallenge has been reported and should be avoided. Switching therapy to another statin after simvastatin induced injury is apparently safe, but few instances have been reported, and it should be done with careful monitoring for recurrence.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="Lipid-LoweringAgents" document-type="chapter">Antilipemic Agents</related-object></p>
+          <p>Other Drugs in the Subclass, <related-object link-type="booklink" source-id="livertox" document-id="Statins" document-type="chapter">Statins</related-object>: <related-object link-type="booklink" source-id="livertox" document-id="Atorvastatin" document-type="chapter">Atorvastatin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ezetimibe" document-type="chapter">Ezetimibe [used in combination]</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Fluvastatin" document-type="chapter">Fluvastatin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Lovastatin" document-type="chapter">Lovastatin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Pitavastatin" document-type="chapter">Pitavastatin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Pravastatin" document-type="chapter">Pravastatin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Rosuvastatin" document-type="chapter">Rosuvastatin</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Simvastatin.CASE_REPORTS">
+        <title>CASE REPORTS</title>
+        <sec id="Simvastatin.Case_1_Cholestatic_hepatitis">
+          <title>Case 1. Cholestatic hepatitis due to simvastatin.(<xref ref-type="bibr" rid="Simvastatin.REF.1">1</xref>)</title>
+          <p>A 67 year old woman was admitted to the hospital with a 2 week history of jaundice, pruritus, right upper quadrant pain and fatigue that had arisen 10 months after starting simvastatin (10 mg daily for 8 months, 5 mg for 2) for hypercholesterolemia. She had suffered an ischemic stroke the year before and was taking nitroglycerin and aspirin chronically. She had no history of liver disease and drank little alcohol. On examination, she was jaundiced. Laboratory tests showed moderate elevations of aminotransferase and alkaline phosphatase levels (Table). Tests for hepatitis B and C were negative as were autoantibodies. Imaging of the abdomen showed no evidence of biliary obstruction. Simvastatin was stopped and she was treated with ursodiol, cholestyramine and prednisone (50 mg daily). She improved slowly and was discharged from the hospital 3 weeks later with no symptoms and minimal jaundice. In follow up 4 weeks later, her blood tests were normal.</p>
+          <sec id="Simvastatin.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Simvastatin.Tc" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Simvastatin.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Simvastatin.Tc_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Simvastatin (5-10 mg daily)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Simvastatin.Tc_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Simvastatin.Tc_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Cholestatic (R=0.6&#x02192;1.3)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Simvastatin.Tc_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Simvastatin.Tc_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">3+ (jaundice, hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Simvastatin.Tc_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Simvastatin.Tc_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">10 months</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Simvastatin.Tc_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Simvastatin.Tc_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">7 weeks</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Simvastatin.Tc_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Simvastatin.Tc_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">Nitroglycerin, aspirin</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Simvastatin.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Simvastatin.Td" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Simvastatin.Td_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Starting</th>
+                    <th id="hd_h_Simvastatin.Td_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Stopping</th>
+                    <th id="hd_h_Simvastatin.Td_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT*<break/>(U/L)</th>
+                    <th id="hd_h_Simvastatin.Td_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Alk P<break/>(U/L)</th>
+                    <th id="hd_h_Simvastatin.Td_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                    <th id="hd_h_Simvastatin.Td_1_1_1_6" valign="top" align="center" scope="col" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Simvastatin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">10 months</td>
+                    <td headers="hd_h_Simvastatin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Simvastatin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">85</td>
+                    <td headers="hd_h_Simvastatin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">420</td>
+                    <td headers="hd_h_Simvastatin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">8.2</td>
+                    <td headers="hd_h_Simvastatin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Admission</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Simvastatin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Simvastatin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Simvastatin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">165</td>
+                    <td headers="hd_h_Simvastatin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">360</td>
+                    <td headers="hd_h_Simvastatin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">11.3</td>
+                    <td headers="hd_h_Simvastatin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Simvastatin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">11 months</td>
+                    <td headers="hd_h_Simvastatin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Simvastatin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">85</td>
+                    <td headers="hd_h_Simvastatin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">240</td>
+                    <td headers="hd_h_Simvastatin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">3.0</td>
+                    <td headers="hd_h_Simvastatin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Simvastatin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">12 months</td>
+                    <td headers="hd_h_Simvastatin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Simvastatin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Simvastatin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Simvastatin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Simvastatin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Simvastatin.Td_1_1_1_1 hd_h_Simvastatin.Td_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Simvastatin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;42</bold>
+</td>
+                    <td headers="hd_h_Simvastatin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;120</bold>
+</td>
+                    <td headers="hd_h_Simvastatin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Simvastatin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+              <table-wrap-foot>
+                <fn id="Simvastatin.TF.d.1">
+                  <label>* </label>
+                  <p>Some values estimated from Table 1.</p>
+                </fn>
+              </table-wrap-foot>
+            </table-wrap>
+          </sec>
+          <sec id="Simvastatin.Comment">
+            <title>Comment</title>
+            <p>The latency to onset of liver injury due to simvastatin is quite variable, ranging from a few weeks to several years. Nevertheless, the acute cholestatic course, resolution with stopping simvastatin and lack of other diagnoses make it likely that the injury in this case was due to simvastatin. The role of prednisone in managing acute cholestatic injury due to medications is unclear. While therapy may appear to improve jaundice and symptoms promptly, it is doubtful whether the ultimate outcome of the hepatic injury is changed by therapy and the risks of using high doses of prednisone are not negligible.</p>
+          </sec>
+        </sec>
+        <sec id="Simvastatin.Case_2_Acute_liver_failure_a">
+          <title>Case 2. Acute liver failure attributed to simvastatin/ezetimibe therapy.(<xref ref-type="bibr" rid="Simvastatin.REF.2">2</xref>)</title>
+          <p>A 70 year old woman developed abnormal liver tests ten weeks after switching from simvastatin (40 mg) monotherapy to the combination of simvastatin (40 mg) and ezetimibe (10 mg) daily. She had a history of coronary artery disease, hypertension, depression and hypercholesterolemia and had been on simvastatin for one and a half years with normal serum enzymes (Table). Despite stopping both simvastatin and ezetimibe, she developed jaundice and progressive symptoms of liver failure. Tests for hepatitis A, B and C were negative as were autoimmune markers. A liver biopsy showed changes suggestive of drug induced liver injury and severe cholestasis. She developed progressive encephalopathy and worsening coagulation indices, and was listed and underwent successful liver transplantation approximately 4 weeks after stopping therapy. In follow up for two years after transplantation, liver enzymes were normal.</p>
+          <sec id="Simvastatin.Key_Points_1">
+            <title>Key Points</title>
+            <table-wrap id="Simvastatin.Te" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Simvastatin.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Simvastatin.Te_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Simvastatin and ezetimibe</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Simvastatin.Te_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Simvastatin.Te_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Hepatocellular (R=25)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Simvastatin.Te_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Simvastatin.Te_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">5+ (emergency liver transplantation)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Simvastatin.Te_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Simvastatin.Te_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">10 weeks to liver test abnormalities, 12 weeks to jaundice</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Simvastatin.Te_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Simvastatin.Te_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">None</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Simvastatin.Te_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Simvastatin.Te_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">Enalapril, escitalopram chronically</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Simvastatin.Laboratory_Values_1">
+            <title>Laboratory Values</title>
+            <table-wrap id="Simvastatin.Tf" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Simvastatin.Tf_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Weeks After<break/>Starting</th>
+                    <th id="hd_h_Simvastatin.Tf_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">Weeks After<break/>Stopping</th>
+                    <th id="hd_h_Simvastatin.Tf_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT<break/>(U/L)</th>
+                    <th id="hd_h_Simvastatin.Tf_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Alk P<break/>(U/L)</th>
+                    <th id="hd_h_Simvastatin.Tf_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                    <th id="hd_h_Simvastatin.Tf_1_1_1_6" valign="top" align="center" scope="col" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">19</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">65</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Before starting simvastatin</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">14</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">51</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.4</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">On simvastatin before ezetimibe</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">10</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">842</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.4</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Simvastatin and ezetimibe stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">12</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">2</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">2595</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">217</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">45.8</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Admitted</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">14</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">4</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">1951</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">116</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">21.6</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">INR=2.0</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_1 hd_h_Simvastatin.Tf_1_1_1_2 hd_h_Simvastatin.Tf_1_1_1_3 hd_h_Simvastatin.Tf_1_1_1_4 hd_h_Simvastatin.Tf_1_1_1_5 hd_h_Simvastatin.Tf_1_1_1_6" colspan="6" valign="top" align="center" scope="col" rowspan="1">Emergency liver transplantation performed</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_1 hd_h_Simvastatin.Tf_1_1_1_2" colspan="2" valign="top" align="left" scope="row" rowspan="1">Post-op day 1</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">209</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">83</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">8.4</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_1 hd_h_Simvastatin.Tf_1_1_1_2" colspan="2" valign="top" align="left" scope="row" rowspan="1">Post-op day 23</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">39</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">82</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.0</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_1 hd_h_Simvastatin.Tf_1_1_1_2" colspan="2" valign="top" align="left" scope="row" rowspan="1">2 years after transplant</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">18</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">79</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_1 hd_h_Simvastatin.Tf_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;56</bold>
+</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;126</bold>
+</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c; 1.2</bold>
+</td>
+                    <td headers="hd_h_Simvastatin.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Simvastatin.Comment_1">
+            <title>Comment</title>
+            <p>The onset of injury 10 weeks after starting ezetimibe suggests that it was the cause of the acute liver injury, but onset of hepatitis due to simvastatin can occur months to years after its initiation. This is one of the few case reports of acute liver failure due to a cholesterol lowering agent.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Simvastatin.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Simvastatin &#x02013; Generic, Zocor&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antilipemic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=simvastatin">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Simvastatin.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Simvastatin.Tg" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Simvastatin.Tg_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Simvastatin.Tg_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Simvastatin.Tg_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Simvastatin.Tg_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Simvastatin.Tg_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Simvastatin</td>
+                <td headers="hd_h_Simvastatin.Tg_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135014038">79902-63-9</ext-link>
+</td>
+                <td headers="hd_h_Simvastatin.Tg_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C25-H38-O5</td>
+                <td headers="hd_h_Simvastatin.Tg_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135014038" document-id-type="sid" document-type="summary" object-id="135014038" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Simvastatin.CITED_REFERENCES">
+        <title>CITED REFERENCES</title>
+        <ref-list id="Simvastatin.CITED_REFERENCES.reflist0">
+          <ref id="Simvastatin.REF.1">
+            <label>1</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lata</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Chudy</surname><given-names>B.</given-names></name>
+</person-group>
+              <comment>[Acute cholestatic hepatitis caused by simvastatin in a 67-year-old patient]</comment>
+              <source>Przegl Lek</source>
+              <year>2006</year>
+              <volume>63</volume>
+              <supplement>suppl 7</supplement>
+              <fpage>97</fpage>
+              <lpage>8</lpage>
+              <comment>Polish.</comment>
+              <pub-id pub-id-type="pmid">17806197</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.2">
+            <label>2</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Tuteja</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Pyrsopoulos</surname><given-names>NT</given-names></name>
+<name name-style="western"><surname>Wolowich</surname><given-names>WR</given-names></name>
+<name name-style="western"><surname>Khanmoradi</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Levi</surname><given-names>DM</given-names></name>
+<name name-style="western"><surname>Selvaggi</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Weisbaum</surname><given-names>G</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Simvastatin-ezetimibe-induced hepatic failure necessitating liver transplantation.</article-title>
+              <source>Pharmacotherapy</source>
+              <year>2008</year>
+              <volume>28</volume>
+              <fpage>1188</fpage>
+              <lpage>93</lpage>
+              <pub-id pub-id-type="pmid">18752389</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Simvastatin.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 01 December 2021</p>
+        <p>Abbreviations used: ANA, antinuclear antibody; HDL, high density lipoprotein; LDL, low density lipoprotein; OD, odds ratio.</p>
+        <ref-list id="Simvastatin.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Simvastatin.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Drugs used in the treatment of hypercholesterolemia and hyperlipidemia. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 660-2.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; the statins have dose related hepatic effects in guinea pigs and rabbits, and transient elevations in aminotransferases occur in 1-5% of humans treated; several cases of clinically apparent liver injury from lovastatin and simvastatin have been published).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Simvastatin.REF.de_marzio.2013">
+            <mixed-citation publication-type="book">De Marzio DH, Navarro VJ. Hepatotoxicity of cardiovascular and antidiabetic medications. Lipid lowering agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 519-40.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of lipid lowering agents; asymptomatic elevations in aminotransferases are common in patients receiving statins, but clinically significant hepatotoxicity is rare).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Simvastatin.REF.gurgle.2018">
+            <mixed-citation publication-type="book">Gurgle H, Blumenthal DK. Drug therapy for dyslipidemias. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 605-618.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics; &#x0201c;Serious hepatotoxicity is rare and unpredictable, with a rate of about 1 case per million person-years of use.&#x0201d; Multiple academic societies and the FDA recommend testing all patients for routine liver tests before starting statins but monitoring or retesting only if symptoms arise).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Simvastatin.REF.feydy.1991.94">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Feydy</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Bogomoletz</surname><given-names>WV</given-names></name>
+</person-group>
+              <comment>[A case of hepatitis caused by simvastatin] [French]</comment>
+              <source>Gastroenterol Clin Biol</source>
+              <year>1991</year>
+              <volume>15</volume>
+              <fpage>94</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(61 year old man developed abdominal pain 60 days after starting simvastatin [bilirubin 3.0 rising to 11.9 mg/dL, ALT 11.2 times ULN, Alk P normal], resolving completely with 6 months of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2010080</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.molgaard.1991.s21">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Molgaard</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Lundh</surname><given-names>BL</given-names></name>
+<name name-style="western"><surname>von Schenk</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Olsson</surname><given-names>AG</given-names></name>
+</person-group>
+              <article-title>Long-term efficacy and safety of simvastatin alone and in combination therapy in treatment of hypercholesterolemia.</article-title>
+              <source>Atherosclerosis</source>
+              <year>1991</year>
+              <volume>91</volume>
+              <fpage>S21</fpage>
+              <lpage>S28</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 51 patients with treated with simvastatin, ALT or AST elevations occurred in 52%, but all were &#x0003c;3 times ULN and all resolved).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1789813</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.boccuzzi.1991.1127">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Boccuzzi</surname><given-names>SJ</given-names></name>
+<name name-style="western"><surname>Bocanegra</surname><given-names>TS</given-names></name>
+<name name-style="western"><surname>Walker</surname><given-names>JF</given-names></name>
+<name name-style="western"><surname>Shapiro</surname><given-names>DS</given-names></name>
+<name name-style="western"><surname>Keggan</surname><given-names>ME</given-names></name>
+</person-group>
+              <article-title>Long-term safety and efficacy profile of simvastatin.</article-title>
+              <source>Am J Cardiol</source>
+              <year>1991</year>
+              <volume>68</volume>
+              <fpage>1127</fpage>
+              <lpage>31</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In prelicensure controlled trials, ALT elevations &#x0003e;3 times ULN occurred in 1.4% of simvastatin vs 2.7% placebo treated subjects, with similar rates of discontinuation [0.2% vs 0.3%] and no clinically apparent liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1951069</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.ballare.1991.233">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ballare</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Campanini</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Catania</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Bordin</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Zaccala</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Monteverde</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Acute cholestatic hepatitis during simvastatin administration.</article-title>
+              <source>Recento Prog Med</source>
+              <year>1991</year>
+              <volume>82</volume>
+              <fpage>233</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(60 year old woman developed jaundice after 1 month of simvastatin therapy [bilirubin 14.9 mg/dL, ALT 661 U/L, Alk P 487 U/L], resolving within 6 weeks of stopping drug).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1857844</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.england.1991.61">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>England</surname><given-names>JD</given-names></name>
+<name name-style="western"><surname>Viles</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Labib</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Liver side effects associated with simvastatin therapy.</article-title>
+              <source>Med J Aust</source>
+              <year>1991</year>
+              <volume>155</volume>
+              <fpage>61</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(58 year old developed malaise within 1 day of starting simvastatin [bilirubin twice normal, ALT 2490 U/L, Alk P 256 U/L], abnormalities resolving within 4 months after stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2067448</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.ballar_.1992.41">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ballar&#x000e8;</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Campanini</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Airoldi</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Zaccala</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Bertoncelli</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Cornaglia</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Porzio</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Hepatotoxicity of hydroxy-methyl-glutaryl-coenzyme A reductase inhibitors.</article-title>
+              <source>Minerva Gastroenterol Dietol</source>
+              <year>1992</year>
+              <volume>38</volume>
+              <fpage>41</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Prospective monitoring identified ALT elevations in 5% of 100 patients on simvastatin and 4.5% of 90 on pravastatin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1520752</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.roblin.1992.101">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Roblin</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Becot</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Piquemal</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Baziz</surname><given-names>A.</given-names></name>
+</person-group>
+              <comment>[Simvastatin-induced hepatitis]</comment>
+              <source>Gastroenterol Clin Biol</source>
+              <year>1992</year>
+              <volume>16</volume>
+              <fpage>101</fpage>
+              <comment>French.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(48 year old man developed abnormal ALT [99 U/L] and GGT [289 U/L] with normal bilirubin and Alk P levels and without symptoms 6 months after starting simvastatin, resolving within a month of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1537472</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.keech.1994.255">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Keech</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Collins</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>MacMahon</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Armitage</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Lawson</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Wallendszus</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Fatemian</surname><given-names>M</given-names></name>
+<etal/>
+<collab>Oxford Cholesterol Study Group</collab>
+</person-group>
+              <article-title>Three-year follow-up of the Oxford Cholesterol Study: assessment of the efficacy and safety of simvastatin in preparation for a large mortality study.</article-title>
+              <source>Eur Heart J</source>
+              <year>1994</year>
+              <volume>15</volume>
+              <fpage>255</fpage>
+              <lpage>69</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of two doses of simvastatin vs placebo in 621 patients with average duration of 3.4 years; ALT elevations were not uncommon, but elevations &#x0003e;3 times ULN occurred in only 2 patients, both on placebo).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8005129</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.koornstra.1996.846">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Koornstra</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Ottervanger</surname><given-names>JP</given-names></name>
+<name name-style="western"><surname>Fehmers</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Stricker</surname><given-names>BH</given-names></name>
+</person-group>
+              <comment>[Clinically manifest liver lesions during use of simvastatin]</comment>
+              <source>Ned Tijdschr Geneeskd</source>
+              <year>1996</year>
+              <volume>140</volume>
+              <fpage>846</fpage>
+              <lpage>8</lpage>
+              <comment>Dutch.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Six cases of hepatitis due to simvastatin from the Netherlands reporting system, 3 men and 3 women, ages 47 to 69 years, developed liver injury 3 months to 3 years after starting simvastatin [bilirubin rised in all, ALT 1.8 to 74 times ULN, Alk P 1.5 to 3.9 times ULN], 5 recovered in 1-3 months, one died, one had positive rechallenge).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8668280</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.pedersen.1996.2085">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Pedersen</surname><given-names>TR</given-names></name>
+<name name-style="western"><surname>Berg</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Cook</surname><given-names>TJ</given-names></name>
+<name name-style="western"><surname>Faergerman</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Haghfelt</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Kjekshus</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Mietinen</surname><given-names>T</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety and tolerability of cholesterol lowering with simvastatin during 5 years in the Scandinavian Simvastatin Survival Study.</article-title>
+              <source>Arch Intern Med</source>
+              <year>1996</year>
+              <volume>156</volume>
+              <fpage>2085</fpage>
+              <lpage>92</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of simvastatin vs placebo assessing morbidity and mortality in persons with cardiovascular disease; no significant difference in frequency of ALT levels &#x0003e;3x ULN between recipients of simvastatin vs placebo).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8862101</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.davidson.1997.38">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Davidson</surname><given-names>MH</given-names></name>
+<name name-style="western"><surname>Stein</surname><given-names>EA</given-names></name>
+<name name-style="western"><surname>Dujovne</surname><given-names>CA</given-names></name>
+<name name-style="western"><surname>Hunninghake</surname><given-names>DB</given-names></name>
+<name name-style="western"><surname>Weiss</surname><given-names>SR</given-names></name>
+<name name-style="western"><surname>Knopp</surname><given-names>RH</given-names></name>
+<name name-style="western"><surname>Illingworth</surname><given-names>DR</given-names></name>
+<etal/>
+</person-group>
+              <article-title>The efficacy and six-week tolerability of simvastatin 80 and 160 mg/day.</article-title>
+              <source>Am J Cardiol</source>
+              <year>1997</year>
+              <volume>79</volume>
+              <fpage>38</fpage>
+              <lpage>42</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 156 patients treated with simvastatin in doses of 40, 80 or 160 mg/day for 6 weeks, 1 [0.7%] taking 80 and 3 [2.1%] taking 160 developed ALT levels &#x0003e;3 times ULN).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9024733</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.dart.1997.39">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dart</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Jerums</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Nicholson</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>d&#x02019;Emden</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Hamilton-Craig</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Tallis</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Best</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A multicenter, double-blind, one-year study comparing safety and efficacy of atorvastatin versus simvastatin in patients with hypercholesterolemia.</article-title>
+              <source>Am J Cardiol</source>
+              <year>1997</year>
+              <volume>80</volume>
+              <fpage>39</fpage>
+              <lpage>44</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 177 patients treated with atorvastatin or simvastatin, there were no important elevations in ALT, AST or CPK).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9205017</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.m_rz.1999.7">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>M&#x000e4;rz</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Wollschl&#x000e4;ger</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Klein</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Neiss</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Wehling</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Safety of low-density lipoprotein cholestrol reduction with atorvastatin versus simvastatin in a coronary heart disease population (the TARGET TANGIBLE trial).</article-title>
+              <source>Am J Cardiol</source>
+              <year>1999</year>
+              <volume>84</volume>
+              <fpage>7</fpage>
+              <lpage>13</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of simvastatin vs atorvastatin [10 to 40 mg of either] for 14 weeks in 2856 patients; ALT elevations occurred in 2.4% of simvastatin and 2.5% of atorvastatin patients; few withdrawals and no mention of clinically apparent liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10404843</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.heuer.2000.642">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Heuer</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Gerards</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Pauw</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Gabbert</surname><given-names>HE</given-names></name>
+<name name-style="western"><surname>Reis</surname><given-names>HE</given-names></name>
+</person-group>
+              <comment>[Toxic liver damage caused by HMG-CoA reductase inhibitor]</comment>
+              <source>Med Klin (Munich)</source>
+              <year>2000</year>
+              <volume>95</volume>
+              <fpage>642</fpage>
+              <lpage>4</lpage>
+              <comment>German.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(4 patients with liver injury due to statins: 3 taking simvastatin and 1 pravastatin for 8-24 months presenting with jaundice [bilirubin 1.9 to 7.4 mg/dL, ALT 39 to 841 U/L, Alk P 266 to 353 U/L], resolving within 3 months of stopping in all).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11143546</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.kanathur.2001.339">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kanathur</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Mathai</surname><given-names>MG</given-names></name>
+<name name-style="western"><surname>Byrd</surname><given-names>RP</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Fields</surname><given-names>CL</given-names></name>
+<name name-style="western"><surname>Roy</surname><given-names>TM</given-names></name>
+</person-group>
+              <article-title>Simvastatin-diltiazem drug interaction resulting in rhabdomyolysis and hepatitis.</article-title>
+              <source>Tenn Med</source>
+              <year>2001</year>
+              <volume>94</volume>
+              <fpage>339</fpage>
+              <lpage>41</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(53 year old developed fatigue and nausea 3 years after starting simvastatin and 3 months after starting diltiazem [bilirubin 2.4 mg/dL, ALT 1707 U/L, Alk P 330 U/L, CPK 1390 U/L, protime 23 seconds], values returning to normal 10 days after stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11550401</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.punthakee.2001.294">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Punthakee</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Scully</surname><given-names>LJ</given-names></name>
+<name name-style="western"><surname>Guindi</surname><given-names>MM</given-names></name>
+</person-group>
+              <article-title>OOi TC. Liver fibrosis attributed to lipid lowering medications: two cases.</article-title>
+              <source>J Intern Med</source>
+              <year>2001</year>
+              <volume>250</volume>
+              <fpage>294</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(63 year old woman developed ALT elevations [443 U/L] without symptoms after 4 years of therapy with simvastatin, biopsy showed chronic hepatitis and fibrosis, laboratory tests improving 2 months after stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11555130</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.gagn_.2002.2469">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gagn&#x000e9;</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Gaudet</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Bruckert</surname><given-names>E</given-names></name>
+<collab>Ezetimibe Study Group</collab>
+</person-group>
+              <article-title>Efficacy and safety of ezetimibe coadministered with atorvastatin or simvastatin in patients with homozygous familial hypercholesterolemia.</article-title>
+              <source>Circulation</source>
+              <year>2002</year>
+              <volume>105</volume>
+              <fpage>2469</fpage>
+              <lpage>75</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Prospective trial comparing the combination of ezetimibe and either atorvastatin or simvastatin to the statin alone in 50 patients with homozygous familial hypercholesterolemia; side effects were similar, two patients on combination therapy had ALT elevations &#x0003e;3 times ULN, but both resolved).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12034651</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.heart_protection_study_collaborative_group.2002.7">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>Heart Protection Study Collaborative Group</collab>
+</person-group>
+              <article-title>MRC/BHF Heart Protection Study of cholesterol lowering with simvastatin in 20536 high-risk individuals: a randomized placebo-controlled trial.</article-title>
+              <source>Lancet</source>
+              <year>2002</year>
+              <volume>360</volume>
+              <fpage>7</fpage>
+              <lpage>22</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Large controlled trial of simvastatin vs placebo; ALT levels &#x0003e;2 times ULN occurred in 1.3% of patients on simvastatin vs 1.8% on placebo; ALT &#x0003e;4 times ULN in 0.42% vs 0.31%, not significantly different).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12114036</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.parra.2003.415">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Parra</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity of hypolipidemic drugs.</article-title>
+              <source>Clin Liver Dis</source>
+              <year>2003</year>
+              <volume>7</volume>
+              <fpage>415</fpage>
+              <lpage>33</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review and discussion of individual lipid lowering agents; rate of ALT elevations during simvastatin therapy similar to that with placebo; summarizes case reports and small case series of hepatic injury due to simvastatin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12879992</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.bays.2003.667">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bays</surname><given-names>HE</given-names></name>
+<name name-style="western"><surname>Dujovne</surname><given-names>CA</given-names></name>
+<name name-style="western"><surname>McGovern</surname><given-names>ME</given-names></name>
+<name name-style="western"><surname>White</surname><given-names>TE</given-names></name>
+<name name-style="western"><surname>Kashyap</surname><given-names>ML</given-names></name>
+<name name-style="western"><surname>Hutcheson</surname><given-names>AG</given-names></name>
+<name name-style="western"><surname>Crouse</surname><given-names>JR</given-names></name>
+<collab>Advicor Versus Other Cholesterol-Modulating Agents Trial Evaluation</collab>
+</person-group>
+              <article-title>Comparison of once-daily, niacin extended-release/lovastatin with standard doses of atorvastatin and simvastatin (the Advicor Versus Other Cholesterol-Modulating Agents Trial Evaluation [ADVOCATE]).</article-title>
+              <source>Am J Cardiol</source>
+              <year>2003</year>
+              <volume>91</volume>
+              <fpage>667</fpage>
+              <lpage>72</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial comparing lovastatin combined with niacin to atorvastatin or simvastatin alone in 315 patients for 16 weeks; no patient had confirmed ALT elevation &#x0003e;3 times ULN).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12633795</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.matsuzawa.2003.287">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Matsuzawa</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Kita</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Mabuchi</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Matsuzaki</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Nakaya</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Oikawa</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Saito</surname><given-names>Y</given-names></name>
+<etal/>
+</person-group>
+              <article-title>J-LIT Study Group. Sustained reduction of serum cholesterol in low-dose 6-year simvastatin treatment with minimum side effects in 51,321 Japanese hypercholesterolemic patients.</article-title>
+              <source>Circ J</source>
+              <year>2003</year>
+              <volume>67</volume>
+              <fpage>287</fpage>
+              <lpage>94</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Large open label study of simvastatin [5 to 10 mg/day] in 52,421 Japanese patients for up to 6 years; hepatic adverse events occurred in 1% and &#x0201c;hepatitis&#x0201d; [ALT or AST &#x0003e;120 U/L] in 0.16%; no deaths from liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12655157</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.ashar.2003.75">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ashar</surname><given-names>U</given-names></name>
+<name name-style="western"><surname>Desai</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Bhaduri</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Flutamide-induced hepatotoxicity with possible potentiation by simvastatin.</article-title>
+              <source>J Assoc Physicians India</source>
+              <year>2003</year>
+              <volume>51</volume>
+              <fpage>75</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(65 year old man developed jaundice 1 month after starting flutamide while on simvastatin [bilirubin 33.5 mg/dL, ALT 646 U/L, Alk P 290 U/L]; role of simvastatin uncertain).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12693464</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.russo.2004.1018">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Russo</surname><given-names>MW</given-names></name>
+<name name-style="western"><surname>Galanko</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Shrestha</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Fried</surname><given-names>MW</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>P</given-names></name>
+</person-group>
+              <article-title>Liver transplantation for acute liver failure from drug-induced liver injury in the United States.</article-title>
+              <source>Liver Transpl</source>
+              <year>2004</year>
+              <volume>10</volume>
+              <fpage>1018</fpage>
+              <lpage>23</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among ~50,000 liver transplants done in the US between 1990 and 2002, 270 [0.5%] were done for drug induced acute liver failure, 3 of which were attributed to statins including simvastatin in 1 and cerivastatin in 2).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15390328</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.chalasani.2004.1287">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Aljadhey</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Kesterson</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Murray</surname><given-names>MD</given-names></name>
+<name name-style="western"><surname>Hall</surname><given-names>SD</given-names></name>
+</person-group>
+              <article-title>Patients with elevated liver enzymes are not at higher risk for statin hepatotoxicity.</article-title>
+              <source>Gastroenterology</source>
+              <year>2004</year>
+              <volume>126</volume>
+              <fpage>1287</fpage>
+              <lpage>92</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Retrospective analysis of electronic records of patients with pre-existing aminotransferase elevations, found similar rates of severe ALT or AST elevations with or without statin [atorvastatin, simvastatin or fluvastatin] therapy [0.6% vs 0.4%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15131789</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.zhao.2004.307">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zhao</surname><given-names>XQ</given-names></name>
+<name name-style="western"><surname>Morse</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>Dowdy</surname><given-names>AA</given-names></name>
+<name name-style="western"><surname>Heise</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>DeAngelis</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Frohlich</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Chait</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety and tolerability of simvastatin plus niacin in patients with coronary artery disease and low high-density lipoprotein cholesterol (The HDL Atherosclerosis Treatment Study).</article-title>
+              <source>Am J Cardiol</source>
+              <year>2004</year>
+              <volume>93</volume>
+              <fpage>307</fpage>
+              <lpage>12</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of simvastatin and niacin vs placebo in 160 patients for up to 3 years; side effects were similar in the two groups, with AST elevations &#x0003e;3 times ULN in 2 patients on simvastatin/niacin and one on placebo).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14759379</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.de_denus.2004.584">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>de Denus</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Spinler</surname><given-names>SA</given-names></name>
+<name name-style="western"><surname>Miller</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Peterson</surname><given-names>AM</given-names></name>
+</person-group>
+              <article-title>Statins and liver toxicity: a meta-analysis.</article-title>
+              <source>Pharmacotherapy</source>
+              <year>2004</year>
+              <volume>24</volume>
+              <fpage>584</fpage>
+              <lpage>91</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of 13 large controlled trials of statins with at least 48 weeks of therapy in 43,390 patients; overall odds ratio for liver test abnormalities with statins versus placebo was 1.26; lovastatin 1.78; simvastatin 1.06; pravastatin 1.00, and fluvastatin, 3.54).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15162892</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.bays.2004.1758">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bays</surname><given-names>HE</given-names></name>
+<name name-style="western"><surname>Ose</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Fraser</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Tribble</surname><given-names>DL</given-names></name>
+<name name-style="western"><surname>Quinto</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Reyes</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Johnson-Levonas</surname><given-names>AO</given-names></name>
+<etal/>
+<collab>Ezetimibe Study Group</collab>
+</person-group>
+              <article-title>A multicenter, randomized, double-blind, placebo-controlled, factorial design study to evaluate the lipid-altering efficacy and safety profile of the ezetimibe/simvastatin tablet compared with ezetimibe and simvastatin monotherapy in patients with primary hypercholesterolemia.</article-title>
+              <source>Clin Ther</source>
+              <year>2004</year>
+              <volume>26</volume>
+              <fpage>1758</fpage>
+              <lpage>73</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of various doses of ezetimibe, simvastatin or the combination vs placebo for 12 weeks in 1528 patients with hypercholesterolemia; confirmed ALT elevations &#x0003e;3 times ULN occurred in 0.7% on placebo, 0.7% of ezetimibe, 1.1% on simvastatin and 1.5% on the combination).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15639688</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.jacobson.2004.1140">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Jacobson</surname><given-names>TA</given-names></name>
+</person-group>
+              <article-title>Comparative pharmacokinetic interaction profiles of pravastatin, simvastatin, and atorvastatin when coadministered with cytochrome P450 inhibitors.</article-title>
+              <source>Am J Cardiol</source>
+              <year>2004</year>
+              <volume>94</volume>
+              <fpage>1140</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Pharmacokinetic studies of drug-drug interactions demonstrated that drugs that inhibit CYP 3A4, the major P450 drug metabolizing enzyme [itraconazole, clarithromycin, verapamil], cause increases in blood levels of simvastatin and atorvastatin, but have little effect on pravastatin levels).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15518608</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.masana.2005.174">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Masana</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Mata</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Gagn&#x000e9;</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Sirah</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Cho</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Johnson-Levonas</surname><given-names>AO</given-names></name>
+<name name-style="western"><surname>Meehan</surname><given-names>A</given-names></name>
+<etal/>
+<collab>Ezetimibe Study Group</collab>
+</person-group>
+              <article-title>Long-term safety and, tolerability profiles and lipid-modifying efficacy of ezetimibe coadministered with ongoing simvastatin treatment: a multicenter, randomized, double-blind, placebo-controlled, 48-week extension study.</article-title>
+              <source>Clin Ther</source>
+              <year>2005</year>
+              <volume>27</volume>
+              <fpage>174</fpage>
+              <lpage>84</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Trial comparing addition of ezetimibe vs placebo to ongoing simvastatin therapy for hypercholesterolemia for up to 48 weeks; only one instance of ALT levels &#x0003e;3 times ULN and no case of clinically apparent liver injury in 355 patients on the combination).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15811480</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.alsheikhali.2005.95">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Alsheikh-Ali</surname><given-names>AA</given-names></name>
+<name name-style="western"><surname>Karas</surname><given-names>RH</given-names></name>
+</person-group>
+              <article-title>Adverse events with concomitant amiodarone and statin therapy.</article-title>
+              <source>Prev Cardiol</source>
+              <year>2005</year>
+              <volume>8</volume>
+              <fpage>95</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of MedWatch adverse event reports for proportion that included combination with amiodarone; 1.0% for simvastatin, 0.7% atorvastatin and 0.4% pravastatin; 77% muscle, 30% liver involvement).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15860984</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.cok_a.2005.543">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cok&#x000e7;a</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Ozkan</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Nergisoglu</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Memikoglu</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Azap</surname><given-names>A.</given-names></name>
+</person-group>
+              <article-title>Statin toxicity: a situation that mimics viral hepatitis.</article-title>
+              <source>Int J Clin Pharmacol Ther</source>
+              <year>2005</year>
+              <volume>43</volume>
+              <fpage>543</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(44 year old woman developed rhabdomyolysis 2 months after being switched from fluvastatin to simvastatin with clinical features suggesting viral hepatitis, but no jaundice [ALT 1,196 U/L, AST 1,200 U/L, CPK 119,300 U/L], myoglobin in serum resulting in renal failure requiring dialysis, but ultimate full recovery).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16300170</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.charles.2005.618">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Charles</surname><given-names>EC</given-names></name>
+<name name-style="western"><surname>Olson</surname><given-names>KL</given-names></name>
+<name name-style="western"><surname>Sandhoff</surname><given-names>BG</given-names></name>
+<name name-style="western"><surname>McClure</surname><given-names>DL</given-names></name>
+<name name-style="western"><surname>Merenich</surname><given-names>JA</given-names></name>
+</person-group>
+              <article-title>Evaluation of cases of severe statin-induced transaminitis within a large health maintenance organization.</article-title>
+              <source>Am J Med</source>
+              <year>2005</year>
+              <volume>118</volume>
+              <fpage>618</fpage>
+              <lpage>24</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 23,000 patients on statins in a health plan, 17 had ALT elevation &#x0003e;10 times ULN attributable to statin use; 10 on simvastatin, 5 lovastatin, and 2 atorvastatin; onset 2 days to 4 years after starting; 10 symptomatic; all resolved within 2-8 weeks, except one death; 3 of 7 recurred on rechallenge, 5 of 6 tolerated switching to another statin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15922693</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.andrade.2005.512">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Andrade</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Lucena</surname><given-names>MI</given-names></name>
+<name name-style="western"><surname>Fern&#x000e1;ndez</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Pelaez</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Pachkoria</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Garc&#x000ed;a-Ruiz</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Garc&#x000ed;a-Mu&#x000f1;oz</surname><given-names>B</given-names></name>
+<etal/>
+<collab>Spanish Group for the Study of Drug-Induced Liver Disease</collab>
+</person-group>
+              <article-title>Drug-induced liver injury: an analysis of 461 incidences submitted to the Spanish registry over a 10-year period.</article-title>
+              <source>Gastroenterology</source>
+              <year>2005</year>
+              <volume>129</volume>
+              <fpage>512</fpage>
+              <lpage>21</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of 461 cases of drug induced liver disease enrolled between 1984 to 2004 in a Spanish Registry; 11 cases were attributed to &#x0201c;statins&#x0201d;, but no specific agent caused more than 4 cases).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16083708</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.ballantyne.2005.464">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ballantyne</surname><given-names>CM</given-names></name>
+<name name-style="western"><surname>Abate</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Yuan</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>King</surname><given-names>TR</given-names></name>
+<name name-style="western"><surname>Palmisano</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Dose-comparison study of the combination of ezetimibe and simvastatin (Vytorin) versus atorvastatin in patients with hypercholesterolemia: the Vytorin Versus Atorvastatin (VYVA) study.</article-title>
+              <source>Am Heart J</source>
+              <year>2005</year>
+              <volume>149</volume>
+              <fpage>464</fpage>
+              <lpage>73</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of ezetimibe/simvastatin vs atorvastatin in 1902 patients with hypercholesterolemia, ALT elevations &#x0003e;3 times ULN occurred in 1.1% on atorvastatin and none on ezetimibe/simvastatin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15864235</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.khorashadi.2006.902">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Khorashadi</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Hasson</surname><given-names>NK</given-names></name>
+<name name-style="western"><surname>Cheung</surname><given-names>RC</given-names></name>
+</person-group>
+              <article-title>Incidence of statin hepatotoxicity in patients with hepatitis C.</article-title>
+              <source>Clin Gastroenterol Hepatol</source>
+              <year>2006</year>
+              <volume>4</volume>
+              <fpage>902</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Electronic record review of rate of ALT elevations in patients with hepatitis C with or without statin therapy and controls on statin therapy found no differences between the three groups [20%, 24% and 17%]; severe abnormalities most frequent in patients with chronic hepatitis C not on statin [6.6% vs 1.2%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16697272</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.law.2006.52c">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Law</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Rudnicka</surname><given-names>AR</given-names></name>
+</person-group>
+              <article-title>Statin safety: a systematic review.</article-title>
+              <source>Am J Cardiol</source>
+              <year>2006</year>
+              <volume>97</volume>
+              <issue>8A</issue>
+              <fpage>52C</fpage>
+              <lpage>60C</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of safety of statins; 38 cases of acute liver failure submitted to MedWatch by end of 1999, which gives an estimated rate of 1 per million person years of use; rate of confirmed ALT elevations &#x0003e;3 times ULN is 0.1% with statins and 0.04% with placebo).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16581329</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.ricaurte.2006.753">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ricaurte</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Guirguis</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Taylor</surname><given-names>HC</given-names></name>
+<name name-style="western"><surname>Zabriskie</surname><given-names>D</given-names></name>
+</person-group>
+              <article-title>Simvastatin-amiodarone interaction resulting in rhabdomyolysis, azotemia, and possible hepatotoxicity.</article-title>
+              <source>Ann Pharmacother</source>
+              <year>2006</year>
+              <volume>40</volume>
+              <fpage>753</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(72 year old developed muscle pain and dark urine after 10 weeks of amiodarone and 4 weeks of simvastatin therapy [ALT 748 U/L, CK 19,620 U/L; no mention of bilirubin or Alk P], resolving within 3 months of stopping both drugs; enzyme elevations likely due to rhabdomyolysis rather than hepatitis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16537817</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.conforti.2006.1163">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Conforti</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Magro</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Moretti</surname><given-names>U</given-names></name>
+<name name-style="western"><surname>Scotto</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Motola</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Salvo</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Ros</surname><given-names>B</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Fluvastatin and hepatic reactions: a signal from spontaneous reporting in Italy.</article-title>
+              <source>Drug Saf</source>
+              <year>2006</year>
+              <volume>29</volume>
+              <fpage>1163</fpage>
+              <lpage>72</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Italian Pharmacovigilance Group review of 35,757 adverse reaction reports; 1260 due to statins of which 178 were hepatic: 69 [36%] fluvastatin, 37 [21%] atorvastatin, 50 [28%] simvastatin, 16 [9%] pravastatin, 6 [3%] rosuvastatin; proportion reporting rate based on number of prescriptions was highest for fluvastatin [~9] compared to other agents [~2-3]; 26 fluvastatin cases described as &#x0201c;hepatitis&#x0201d;, but no details given except that most cases occurred within 90 days of starting).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17147462</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.goldberg.2006.1579">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Goldberg</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Guyton</surname><given-names>JR</given-names></name>
+<name name-style="western"><surname>Mazzone</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Weinstock</surname><given-names>RS</given-names></name>
+<name name-style="western"><surname>Polis</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Edwards</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Tomassini</surname><given-names>JE</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Ezetimibe/simvastatin vs atorvastatin in patients with type 2 diabetes mellitus and hypercholesterolemia: the VYTAL study.</article-title>
+              <source>Mayo Clin Proc.</source>
+              <year>2006</year>
+              <volume>81</volume>
+              <fpage>1579</fpage>
+              <lpage>88</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of atorvastatin vs simvastatin/ezetimibe in 1229 patients with diabetes and hypercholesterolemia; confirmed ALT elevations &#x0003e;3 times ULN occurred in 0.3% of atorvastatin vs no simvastatin/ezetimibe treated patient, and no clinically apparent liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17165637</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.bj_rnsson.2006.33">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Olsson</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Suspected drug-induced liver fatalities reported to the WHO database.</article-title>
+              <source>Dig Liver Dis</source>
+              <year>2006</year>
+              <volume>38</volume>
+              <fpage>33</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In WHO database of fatal adverse drug reactions from 1968-2003 included 4690 reports of deaths from liver disease due to medications: none of the statins were in the top 20 suspected causes of acute liver failure due to medications).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16054882</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.lata.2006.97">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lata</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Chudy</surname><given-names>B.</given-names></name>
+</person-group>
+              <comment>[Acute cholestatic hepatitis caused by simvastatin in a 67-year-old patient]</comment>
+              <source>Przegl Lek</source>
+              <year>2006</year>
+              <volume>63</volume>
+              <supplement>suppl 7</supplement>
+              <fpage>97</fpage>
+              <lpage>8</lpage>
+              <comment>Polish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(67 year old woman developed jaundice and pruritus 10 months after starting simvastatin [bilirubin 8.2 mg/dL, ALT 165 U/L, Alk P 502 U/L], resolving within 7 weeks of stopping: Case 1).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17806197</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.silva.2006.26">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Silva</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Swanson</surname><given-names>AC</given-names></name>
+<name name-style="western"><surname>Gandhi</surname><given-names>PJ</given-names></name>
+<name name-style="western"><surname>Tataronis</surname><given-names>GR</given-names></name>
+</person-group>
+              <article-title>Statin-related adverse events: a meta-analysis.</article-title>
+              <source>Clin Ther</source>
+              <year>2006</year>
+              <volume>28</volume>
+              <fpage>26</fpage>
+              <lpage>35</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Metaanalysis of adverse event rates in 18 placebo controlled trials of six statins in 71,108 patients; ALT elevations &#x0003e;3 times ULN occurred in 1.7% of statin vs 1.4% of placebo recipients; event rates highest with atorvastatin, lowest with fluvastatin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16490577</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.alla.2006.757">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Alla</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Abraham</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Siddiqui</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Raina</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>GY</given-names></name>
+<name name-style="western"><surname>Chalasani</surname><given-names>NP</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+</person-group>
+              <article-title>Autoimmune hepatitis triggered by statins.</article-title>
+              <source>J Clin Gastroenterol</source>
+              <year>2006</year>
+              <volume>40</volume>
+              <fpage>757</fpage>
+              <lpage>61</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Three cases of autoimmune hepatitis arising after simvastatin or atorvastatin therapy 6, 20 and 20 weeks after starting [bilirubin 11.3, 3.4 and 5.5 mg/dL, ALT 1749, 1170 and 155 U/L, Alk P of 228, 160, and 203 U/L, all being ANA or SMA positive in titers of 1:40 to 1:160], all responding to prednisone/azathioprine and requiring long term mono-therapy with azathioprine or mycophenolate).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16940892</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.dale.2007.706">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dale</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>White</surname><given-names>CM</given-names></name>
+<name name-style="western"><surname>Henyan</surname><given-names>NN</given-names></name>
+<name name-style="western"><surname>Kluger</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Coleman</surname><given-names>CI</given-names></name>
+</person-group>
+              <article-title>Impact of statin dosing intensity on transaminase and creatine kinase.</article-title>
+              <source>Am J Med</source>
+              <year>2007</year>
+              <volume>120</volume>
+              <fpage>706</fpage>
+              <lpage>12</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Metaanalysis of rates of ALT and CPK elevations in nine controlled studies comparing low vs high doses of statins; ALT elevations &#x0003e;3 times ULN occurred in 1.5% of high- and 0.4% of low-intensity statin groups, effect particularly seen with hydrophilic [pravastatin and atorvastatin] compared to lipophilic agents [simvastatin and lovastatin]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17679130</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.silva.2007.253">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Silva</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Matthews</surname><given-names>ML</given-names></name>
+<name name-style="western"><surname>Jarvis</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Nolan</surname><given-names>NM</given-names></name>
+<name name-style="western"><surname>Belliveau</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Malloy</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Gandhi</surname><given-names>P</given-names></name>
+</person-group>
+              <article-title>Meta-analysis of drug-induced adverse events associated with intensive-dose statin therapy.</article-title>
+              <source>Clin Ther</source>
+              <year>2007</year>
+              <volume>29</volume>
+              <fpage>253</fpage>
+              <lpage>60</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Metaanalysis of rates of adverse events in 4 controlled trials in 108,049 patient years comparing standard to intensive-dose statin therapy; increased risk of ALT elevations &#x0003e;3 times ULN with intensive therapy [odds ratio 4.5; absolute risk 1.2%], but no mention of clinically apparent liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17472818</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.alsheikhali.2007.379">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Alsheikh-Ali</surname><given-names>AA</given-names></name>
+<name name-style="western"><surname>Karas</surname><given-names>RH</given-names></name>
+</person-group>
+              <article-title>Safety of lovastatin/extended release niacin compared with lovastatin alone, atorvastatin alone, pravastatin alone, and simvastatin alone (from the United States Food and Drug Administration adverse event reporting system).</article-title>
+              <source>Am J Cardiol</source>
+              <year>2007</year>
+              <volume>99</volume>
+              <fpage>379</fpage>
+              <lpage>81</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of MedWatch reports of adverse events found no excess in liver related adverse event reports per million prescription due to lovastatin alone [2.3] vs niacin alone [2.5] vs the combination [3.2], but slightly higher rates with atorvastatin [4.5], simvastatin [5.7] and pravastatin [4.9], but data relied upon spontaneous reporting).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17261402</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.ose.2007.1469">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ose</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Johnson-Levonas</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Reyes</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Shah</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Tribble</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Musliner</surname><given-names>T</given-names></name>
+<collab>Vytorin Extension Study Group</collab>
+</person-group>
+              <article-title>A multi-centre, randomised, double-blind 14-week extension study examining the long-term safety and efficacy profile of the ezetimibe/simvastatin combination tablet.</article-title>
+              <source>Int J Clin Pract</source>
+              <year>2007</year>
+              <volume>61</volume>
+              <fpage>1469</fpage>
+              <lpage>80</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Continuation of trial [Bayes 2004] with 1104 patients continuing in extension study of simvastatin vs simvastatin/ezetimibe in various dosages; confirmed ALT elevations &#x0003e;3 times ULN occurred in 1.3% on simvastatin alone and 1.5% on the combination; no cases of clinically apparent liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17655686</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.bhardwah.2007.597">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bhardwah</surname><given-names>SS</given-names></name>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+</person-group>
+              <article-title>Lipid-lowering agents that cause drug-induced hepatotoxicity.</article-title>
+              <source>Clin Liver Dis</source>
+              <year>2007</year>
+              <volume>11</volume>
+              <fpage>597</fpage>
+              <lpage>613</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of hepatotoxicity of statins; reported rates of ALT or AST elevations &#x0003e;3 times ULN: atorvastatin 0.7%, fluvastatin 1.2%, lovastatin 0.6%, pravastatin 1.4%, rosuvastatin 0% and simvastatin 1.8%. Usually asymptomatic, individual case reports of autoimmune hepatitis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17723922</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.alsheikhali.2007.409">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Alsheikh-Ali</surname><given-names>AA</given-names></name>
+<name name-style="western"><surname>Maddukuri</surname><given-names>PV</given-names></name>
+<name name-style="western"><surname>Han</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Karas</surname><given-names>RH</given-names></name>
+</person-group>
+              <article-title>Effect of the magnitude of lipid lowering on risk of elevated liver enzymes, rhabdomyolysis, and cancer: insights from large randomized statin trials.</article-title>
+              <source>J Am Coll Cardiol</source>
+              <year>2007</year>
+              <volume>50</volume>
+              <fpage>409</fpage>
+              <lpage>18</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of relationship between LDL cholesterol lowering effects and adverse events in 23 statin treatment arms representing 309,506 person years of therapy; positive and graded relationship between statin dose [simvastatin, lovastatin and atorvastatin] and rates of ALT elevations, but no independent relationship to degree of LDL cholesterol decrease).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17662392</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.escobar.2008.525">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Escobar</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Echarri</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Barrios</surname><given-names>V</given-names></name>
+</person-group>
+              <article-title>Relative safety profiles of high dose statin regimens.</article-title>
+              <source>Vasc Health Risk Manag</source>
+              <year>2008</year>
+              <volume>4</volume>
+              <fpage>525</fpage>
+              <lpage>33</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of efficacy and safety of use of higher doses of statins to achieve lower LDL cholesterol levels; ALT elevations are more frequent [2-3%] with higher than lower [~1%] doses).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18827903</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.tuteja.2008.1188">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Tuteja</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Pyrsopoulos</surname><given-names>NT</given-names></name>
+<name name-style="western"><surname>Wolowich</surname><given-names>WR</given-names></name>
+<name name-style="western"><surname>Khanmoradi</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Levi</surname><given-names>DM</given-names></name>
+<name name-style="western"><surname>Selvaggi</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Weisbaum</surname><given-names>G</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Simvastatin-ezetimibe-induced hepatic failure necessitating liver transplantation.</article-title>
+              <source>Pharmacotherapy</source>
+              <year>2008</year>
+              <volume>28</volume>
+              <fpage>1188</fpage>
+              <lpage>93</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(70 year old woman developed acute liver failure 10 weeks after addition of ezetimibe to long term simvastatin therapy [1.5 years], with ALT 842&#x02192;2595 U/L, Alk P 217 U/L, bilirubin 0.4&#x02192;23.7 mg/dL, INR rising to 2.0 and emergency liver transplant: Case 2).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18752389</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Davern</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Serrano</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rochon</surname><given-names>J</given-names></name>
+<collab>Drug Induced Liver Injury Network (DILIN)</collab>
+</person-group>
+              <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, 3 cases were attributed to atorvastatin, 3 to simvastatin/ezetimibe, and one each to pravastatin, fluvastatin, and simvastatin, but most cases were mild or not clearly attributable to the statin therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.bays.2008.3b">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bays</surname><given-names>H.</given-names></name>
+</person-group>
+              <article-title>Safety of niacin and simvastatin combination therapy.</article-title>
+              <source>Am J Cardiol</source>
+              <year>2008</year>
+              <volume>101</volume>
+              <issue>8A</issue>
+              <fpage>3B</fpage>
+              <lpage>8B</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of safety of the combination of niacin and simvastatin; ALT elevations associated mostly with slow release [SR], rather than the extended [ER] or intermediate [IR] release formulations of niacin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18243856</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.guyton.2008.1564">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Guyton</surname><given-names>JR</given-names></name>
+<name name-style="western"><surname>Brown</surname><given-names>BG</given-names></name>
+<name name-style="western"><surname>Fazio</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Polis</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Tomassini</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Tershakovec</surname><given-names>AM</given-names></name>
+</person-group>
+              <article-title>Lipid-altering efficacy and safety of ezetimibe/simvastatin coadministered with extended-release niacin in patients with type IIa or type IIb hyperlipidemia.</article-title>
+              <source>J Am Coll Cardiol</source>
+              <year>2008</year>
+              <volume>51</volume>
+              <fpage>1564</fpage>
+              <lpage>72</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial comparing niacin alone vs simvastatin/ezetimibe vs the triple combination for 24 weeks in 1220 patients with hypercholesterolemia; confirmed ALT elevations &#x0003e;3 times ULN occurred in 0.4% on niacin, 0.4% on simvastatin/ezetimibe and 0.5% on all three).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18420099</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.martin.2008.113">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Martin</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Cavanaugh</surname><given-names>TM</given-names></name>
+<name name-style="western"><surname>Trumbull</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Bass</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Weber</surname><given-names>F</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Aranda-Michel</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Hanaway</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Incidence of adverse events with HMG-CoA reductase inhibitors in liver transplant patients.</article-title>
+              <source>Clin Transplant</source>
+              <year>2008</year>
+              <volume>22</volume>
+              <fpage>113</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Retrospective review of adverse events associated with statin and fibrate use in 69 patients with liver transplants; myalgias problematic in 5, myopathy in 1, but none had significant ALT elevations or hepatitis related to medication).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18217912</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.neuvonen.2008.463">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Neuvonen</surname><given-names>PJ</given-names></name>
+<name name-style="western"><surname>Backman</surname><given-names>JT</given-names></name>
+<name name-style="western"><surname>Niemi</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Pharmacokinetic comparison of the potential over-the-counter statins simvastatin, lovastatin, fluvastatin and pravastatin.</article-title>
+              <source>Clin Pharmacokinet</source>
+              <year>2008</year>
+              <volume>47</volume>
+              <fpage>463</fpage>
+              <lpage>74</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of literature on pharmacokinetics of statins; simvastatin and lovastatin are metabolized extensively by the P450 system and levels are affected by inhibitors or inducers of CYP 3A4 [itraconazole, erythromycin, verapamil, diltiazem, cyclosporine], whereas fluvastatin and pravastatin are minimally if at all affected).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18563955</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.mrcbhf_heart_protection_study_collaborative_group.2009.6">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>MRC/BHF Heart Protection Study Collaborative Group</collab>
+</person-group>
+              <article-title>Armitage J, Bowman L, Collins R, Parish S, Tobert J. Effects of simvastatin 40 mg daily on muscle and liver adverse effects in a 5-year randomized placebo-controlled trial in 20,536 high-risk people.</article-title>
+              <source>BMC Clin Pharmacol</source>
+              <year>2009</year>
+              <volume>9</volume>
+              <fpage>6</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of muscle and hepatic adverse events in controlled trial of simvastatin [40 mg] vs placebo daily for 5 years in 20,536 UK patients; hepatitis occurred in 1 patient on simvastatin [ALT 257 U/L] at 7 months, 9 months later presenting with acute hepatitis and jaundice] and 1 on placebo [later attributed to septicemia]; ALT elevations &#x0003e;3 times ULN occurred in 0.75% on simvastatin and 0.63% on placebo).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19442259</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.robinson.2009.1694">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Robinson</surname><given-names>JG</given-names></name>
+<name name-style="western"><surname>Ballantyne</surname><given-names>CM</given-names></name>
+<name name-style="western"><surname>Grundy</surname><given-names>SM</given-names></name>
+<name name-style="western"><surname>Hsueh</surname><given-names>WA</given-names></name>
+<name name-style="western"><surname>Parving</surname><given-names>HH</given-names></name>
+<name name-style="western"><surname>Rosen</surname><given-names>JB</given-names></name>
+<name name-style="western"><surname>Adewale</surname><given-names>AJ</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Lipid-altering efficacy and safety of ezetimibe/simvastatin versus atorvastatin in patients with hypercholesterolemia and the metabolic syndrome (from the VYMET study).</article-title>
+              <source>Am J Cardiol</source>
+              <year>2009</year>
+              <volume>103</volume>
+              <fpage>1694</fpage>
+              <lpage>702</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of ezetimibe/simvastatin versus atorvastatin alone in 1128 patients with metabolic syndrome and hypercholesterolemia; adverse event rates were similar in the two groups, but consecutive ALT or AST elevations &#x0003e;3 times ULN occurred in 0.3% of atorvastatin vs 1.4% of ezetimibe/simvastatin treated patients).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19539078</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.abraldes.2009.1651">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Abraldes</surname><given-names>JG</given-names></name>
+<name name-style="western"><surname>Albillos</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Ba&#x000f1;ares</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Turnes</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Gonz&#x000e1;lez</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Garc&#x000ed;a-Pag&#x000e1;n</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Bosch</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Simvastatin lowers portal pressure in patients with cirrhosis and portal hypertension: a randomized controlled trial.</article-title>
+              <source>Gastroenterology</source>
+              <year>2009</year>
+              <volume>136</volume>
+              <fpage>1651</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of simvastatin [20-40 mg/d] vs placebo for 30 days assessing effects on hepatic venous pressure gradient [HVPG] in 59 patients with portal hypertension found slight decrease in HVPG and improvement in indocyanine green clearance; no changes in ALT levels or evidence of liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19208350</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.russo.2009.412">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Russo</surname><given-names>MW</given-names></name>
+<name name-style="western"><surname>Scobey</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+</person-group>
+              <article-title>Drug-induced liver injury associated with statins.</article-title>
+              <source>Semin Liver Dis</source>
+              <year>2009</year>
+              <volume>29</volume>
+              <fpage>412</fpage>
+              <lpage>22</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of statin hepatotoxicity and the several forms of liver injury that they can cause, including silent aminotransferase elevations, cholestatic and hepatocellular hepatitis and autoimmune hepatitis-like syndromes, all of which are rare).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19826975</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.bj_rnsson.2012.374">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Jacobsen</surname><given-names>EI</given-names></name>
+<name name-style="western"><surname>Kalaitzakis</surname><given-names>E</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity associated with statins: reports of idiosyncratic liver injury post-marketing.</article-title>
+              <source>J Hepatol</source>
+              <year>2012</year>
+              <volume>56</volume>
+              <fpage>374</fpage>
+              <lpage>80</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Between 1988 and 2010, the Swedish registry received 217 adverse event reports possibly related to statins, 124 [57%] being liver related, 73 of which could be evaluated; 2 were fatal and one led to liver transplant; 3 had positive rechallenge; 43 [59%] were hepatocellular, 22 [30%] cholestatic and 8 [11%] mixed; 30 were due to atorvastatin, 28 simvastatin, 11 fluvastatin, 2 pravastatin and 2 rosuvastatin, arising after 30 to 248 days; simvastatin injury was hepatocellular in 75% of instances [one case was fatal, one led to transplant] and was estimated to occur in 0.9 per 100,000 person years of exposure).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21889469</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.devarbhavi.2010.2396">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Devarbhavi</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Dierkhising</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Kremers</surname><given-names>WK</given-names></name>
+<name name-style="western"><surname>Sandeep</surname><given-names>MS</given-names></name>
+<name name-style="western"><surname>Karanth</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Adarsh</surname><given-names>CK</given-names></name>
+</person-group>
+              <article-title>Single-center experience with drug-induced liver injury from India: causes, outcome, prognosis, and predictors of mortality.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>2010</year>
+              <volume>105</volume>
+              <fpage>2396</fpage>
+              <lpage>404</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 313 cases of drug induced liver injury seen over a 12 year period at a large hospital in Bangalore, India, 5 [2%] were attributed to atorvastatin, but no other statin listed].</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20648003</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.idilman.2010.e128">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Idilman</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Bektas</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Cinar</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Toruner</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Cerit</surname><given-names>ET</given-names></name>
+<name name-style="western"><surname>Doganay</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Erden</surname><given-names>E</given-names></name>
+<etal/>
+</person-group>
+              <article-title>The characteristics and clinical outcome of drug-induced liver injury: a single-center experience.</article-title>
+              <source>J Clin Gastroenterol</source>
+              <year>2010</year>
+              <volume>44</volume>
+              <fpage>e128</fpage>
+              <lpage>32</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 170 patients with drug induced liver injury seen at a single referral center in Turkey between 2001 and 2007, 14 were attributed to statins which were hepatocellular in 10 and cholestatic in 4; no details provided).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20551776</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Reuben</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Koch</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>WM</given-names></name>
+<collab>Acute Liver Failure Study Group</collab>
+</person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 [11%] were attributed to drug induced liver injury, of which 6 were attributed to statins: 2 atorvastatin, 2 simvastatin [one with ezetimibe] and 2 cerivastatin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.vaverkova.2012.61">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Vaverkova</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Farnier</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Averna</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Missault</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Viigimaa</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Dong</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Shah</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Lipid-altering efficacy of ezetimibe/simvastatin 10/20 mg compared to rosuvastatin 10 mg in high-risk patients with and without type 2 diabetes mellitus inadequately controlled despite prior statin monotherapy.</article-title>
+              <source>Cardiovasc Ther</source>
+              <year>2012</year>
+              <volume>30</volume>
+              <fpage>61</fpage>
+              <lpage>74</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a randomized trial in patients with hypercholesterolemia, ALT or AST elevations &#x0003e;3 times ULN occurred in none 303 patients receiving rosuvastatin versus 0.7% of 312 on the combination of simvastatin and ezetimibe).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20626402</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.xu.2012.2470">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Xu</surname><given-names>CF</given-names></name>
+<name name-style="western"><surname>Xue</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Bing</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>King</surname><given-names>KS</given-names></name>
+<name name-style="western"><surname>McCann</surname><given-names>LA</given-names></name>
+<name name-style="western"><surname>de Souza</surname><given-names>PL</given-names></name>
+<name name-style="western"><surname>Goodman</surname><given-names>VL</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Concomitant use of pazopanib and simvastatin increases the risk of transaminase elevations in patients with cancer.</article-title>
+              <source>Ann Oncol</source>
+              <year>2012</year>
+              <volume>23</volume>
+              <fpage>2470</fpage>
+              <lpage>1</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Retrospective analysis of ALT elevations in 895 patients with cancer enrolled in 22 studies of pazopanib; among those who were also receiving a statin, rates of ALT elevations above 3 times ULN were higher [17% to 21%] than in those not on a statin [14%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22918879</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.bergmann.2012.1959">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bergmann</surname><given-names>OM</given-names></name>
+<name name-style="western"><surname>Kristjansson</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Jonasson</surname><given-names>JG</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+</person-group>
+              <article-title>Jaundice due to suspected statin hepatotoxicity: a case series.</article-title>
+              <source>Dig Dis Sci</source>
+              <year>2012</year>
+              <volume>57</volume>
+              <fpage>1959</fpage>
+              <lpage>64</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(3 women and 1 man, ages 55 to 85 years, developed jaundice 3, 3, 11 and 30 months after starting atorvastatin [n=3] or simvastatin [n=1], with hepatocellular or mixed injury [peak bilirubin 4.0-7.4 mg/dL, ALT 446-2987 U/L, Alk P 174-716 U/L, ANA positive in 1], all resolving spontaneously in 1-3 months).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22075853</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.bj_rnsson.2012.374_1">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Jacobsen</surname><given-names>EI</given-names></name>
+<name name-style="western"><surname>Kalaitzakis</surname><given-names>E</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity associated with statins: reports of idiosyncratic liver injury post-marketing.</article-title>
+              <source>J Hepatol</source>
+              <year>2012</year>
+              <volume>56</volume>
+              <fpage>374</fpage>
+              <lpage>80</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Between 1988 and 2010, the Swedish registry received 217 adverse event reports possibly related to statins, 124 [57%] being liver related, 73 of which could be evaluated: 2 were fatal and one led to liver transplant; 3 had positive rechallenge; 43 [59%] were hepatocellular, 22 [30%] cholestatic and 8 [11%] mixed; 30 were due to atorvastatin, 28 simvastatin, 11 fluvastatin, 2 pravastatin and 2 rosuvastatin, arising after 30-248 days; atorvastatin injury was more likely to be cholestatic and was estimated to occur in 2.9 per 100,000 person years).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21889469</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Bergmann</surname><given-names>OM</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Kvaran</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Olafsson</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, including one case [without jaundice] attributed to simvastatin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hern&#x000e1;ndez</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bessone</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>di Pace</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Brahm</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zapata</surname><given-names>R, A</given-names></name>
+<name name-style="western"><surname>Chirino</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, none of which were attributed to statins or lipid lowering agents).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.russo.2014.679">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Russo</surname><given-names>MW</given-names></name>
+<name name-style="western"><surname>Hoofnagle</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Gu</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Barnhart</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Kleiner</surname><given-names>DE</given-names></name>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Spectrum of statin hepatotoxicity: Experience of the drug-induced liver injury network.</article-title>
+              <source>Hepatology</source>
+              <year>2014</year>
+              <volume>60</volume>
+              <fpage>679</fpage>
+              <lpage>86</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1,188 cases of drug induced liver disease collected in the US between 2004 to 2012, 22 [2%] were attributed to statins, including atorvastatin [8], simvastatin [5], rosuvastatin [4], fluvastatin [2], pravastatin [2] and lovastatin [1]; median age was 60 years and 68% were women; 9 cases were cholestatic and 12 hepatocellular [6 with autoimmune features]; the latency ranged widely, from 1 month to 10 years; only one case was fatal [a man with preexisting cirrhosis presenting with acute-on-chronic liver failure]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24700436</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.bays.2014.s47">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bays</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Cohen</surname><given-names>DE</given-names></name>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Harrison</surname><given-names>SA</given-names></name>
+</person-group>
+              <article-title>An assessment by the Statin Liver Safety Task Force: 2014 update.</article-title>
+              <source>J Clin Lipidol</source>
+              <year>2014</year>
+              <volume>8</volume>
+              <issue>3</issue>
+              <supplement>Suppl</supplement>
+              <fpage>S47</fpage>
+              <lpage>57</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the safety of statins including their use in patients with liver disease recommending that liver tests be obtained before therapy, but that routine monitoring is not necessary and that statins can be safety used in patients with nonalcoholic liver disease, and are probably safe in other forms of chronic liver disease and after liver transplantation).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24793441</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.ooba.2014.e96919">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ooba</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Sato</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Wakana</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Orii</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Kitamura</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kokan</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Kurata</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A prospective stratified case-cohort study on statins and multiple adverse events in Japan.</article-title>
+              <source>PLoS One</source>
+              <year>2014</year>
+              <volume>9</volume>
+              <elocation-id>e96919</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 6877 patients started on statins between 2008 and 2010, 139 developed an increase in ALT or AST deemed likely due to the drug with no significant differences among those treated with pra-, ator-, flu-, pita- or rosu-vastatin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24810427</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.macedo.2014.51">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Macedo</surname><given-names>AF</given-names></name>
+<name name-style="western"><surname>Taylor</surname><given-names>FC</given-names></name>
+<name name-style="western"><surname>Casas</surname><given-names>JP</given-names></name>
+<name name-style="western"><surname>Adler</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Prieto-Merino</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Ebrahim</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Unintended effects of statins from observational studies in the general population: systematic review and meta-analysis.</article-title>
+              <source>BMC Med</source>
+              <year>2014</year>
+              <volume>12</volume>
+              <fpage>51</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of 90 studies of 48 different "unintended effects" of statins with evidence of an increased risk of myopathy [Odds Ratio: OR=2.6] and raised liver enzymes [OR=1.5]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24655568</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF80">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for lipids.</article-title>
+              <source>Treat Guidel Med Lett</source>
+              <year>2014</year>
+              <volume>12</volume>
+              <issue>137</issue>
+              <fpage>1</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise recommendations on management of hyperlipidemia mentions that 1-2% of patients on high doses of statins develop ALT elevations [above 3 times ULN], but that there is not always cross sensitivity to this side effect and that patients with mild-to-moderate ALT elevations can tolerate statins; no discussion of clinically apparent liver).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24419209</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.bastida.2014.579">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bastida</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Also</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Pericas</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Letang</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Tuset</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Mir&#x000f3;</surname><given-names>JM</given-names></name>
+</person-group>
+              <comment>[Rhabdomyolysis and severe hepatotoxicity due to a drug-drug interaction between ritonavir and simvastatin. Could we use the most cost-effective statin in all human immunodeficiency virus-infected patients?]</comment>
+              <source>Enferm Infecc Microbiol Clin.</source>
+              <year>2014</year>
+              <volume>32</volume>
+              <issue>9</issue>
+              <fpage>579</fpage>
+              <lpage>82</lpage>
+              <comment>Spanish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(52 year old woman with HIV infection on darunavir/ritonavir, lamivudine and raltegravir was switched from atorvastatin [40 mg] to simvastatin [80 mg] daily and developed rhabdomyolysis 3 weeks later [bilirubin 0.5 mg/dL, ALT 787 U/L, CK 34,960 U/L], possibly due to drug-drug interactions between simvastatin and ritonavir).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24913991</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.perdices.2014.246">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Perdices</surname><given-names>EV</given-names></name>
+<name name-style="western"><surname>Medina-C&#x000e1;liz</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Hernando</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Ortega</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Mart&#x000ed;n-Oca&#x000f1;a</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Navarro</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Pel&#x000e1;ez</surname><given-names>G</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Hepatotoxicity associated with statin use: analysis of the cases included in the Spanish Hepatotoxicity Registry.</article-title>
+              <source>Rev Esp Enferm Dig</source>
+              <year>2014</year>
+              <volume>106</volume>
+              <fpage>246</fpage>
+              <lpage>54</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 858 cases of drug induced liver injury enrolled in a Spanish Registry between 1994 and 2012, 47 [5.5%] were attributed to statins [16 atorvastatin, 13 simvastatin, 12 fluvastatin, 4 lovastatin and 2 pravastatin] usually with a hepatocellular pattern of injury, 8.5% with autoimmune features, chronic injury in 19%, and no liver related deaths).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25075655</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.chen.2014.719">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chen</surname><given-names>GL</given-names></name>
+<name name-style="western"><surname>Hsiao</surname><given-names>FY</given-names></name>
+<name name-style="western"><surname>Dong</surname><given-names>YH</given-names></name>
+<name name-style="western"><surname>Shen</surname><given-names>LJ</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>FL</given-names></name>
+</person-group>
+              <article-title>Statins and the risk of liver injury: a population-based case-control study.</article-title>
+              <source>Pharmacoepidemiol Drug Saf</source>
+              <year>2014</year>
+              <volume>23</volume>
+              <fpage>719</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 2165 Taiwanese patients hospitalized for liver injury between 2002 and 2009, use of statins was not more frequent than among 16,600 hospitalized controls, except for use of high doses of rosuvastatin [adjusted odds ratio of 2.29]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24829162</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.pe_air_n.2015.189">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Pe&#x000f1;a-Ir&#x000fa;n</surname><given-names>&#x000c1;.</given-names></name>
+</person-group>
+              <comment>[Drug-induced liver injury caused by simvastatin associated with antinuclear antibodies]</comment>
+              <source>Med Clin (Barc)</source>
+              <year>2015</year>
+              <volume>144</volume>
+              <fpage>189</fpage>
+              <lpage>90</lpage>
+              <comment>Spanish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(66 year old woman was found to have asymptomatic elevations of ALT [92 U/L] and AST [55 U/L] with ANA positivity [1:320] 5 months after starting simvastatin, the abnormalities resolving 1 month after stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25052899</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 31 cases [3.4%] were attributed to statins, including 8 to atorvastatin, 8 simvastatin, 7 rosuvastatin, 4 pravastatin, 2 fluvastatin and 2 lovastatin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.chang.2015.155">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chang</surname><given-names>CH</given-names></name>
+<name name-style="western"><surname>Chang</surname><given-names>YC</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>YC</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>YC</given-names></name>
+<name name-style="western"><surname>Chuang</surname><given-names>LM</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>JW</given-names></name>
+</person-group>
+              <article-title>Severe hepatic injury associated with different statins in patients with chronic liver disease: a nationwide population-based cohort study.</article-title>
+              <source>J Gastroenterol Hepatol</source>
+              <year>2015</year>
+              <volume>30</volume>
+              <fpage>155</fpage>
+              <lpage>62</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 37,929 Taiwanese persons with chronic liver disease started on statin therapy for hyperlipidemia between 2005 and 2009, there were 912 incident cases of hospitalization for liver injury, rates being similar for the 6 different statins used [1.94-2.95 per 100,000 person-days], but higher in those on high doses of atorvastatin [40 or 80 mg daily]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25041076</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.dybro.2016.2016">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dybro</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Damkier</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Rasmussen</surname><given-names>TB</given-names></name>
+<name name-style="western"><surname>Hellfritzsch</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Statin-associated rhabdomyolysis triggered by drug-drug interaction with itraconazole.</article-title>
+              <source>BMJ Case Rep</source>
+              <fpage>2016</fpage>
+              <month>Sep</month>
+              <day>7</day>
+              <year>2016</year>
+              <annotation>
+                <p>
+<italic toggle="yes">(47 year old woman taking simvastatin [80 mg daily] for two years developed rhabdomyolysis 3 weeks after starting a ten day course of itraconazole [CK 30,855 U/L, myoglobin 5,046 &#x003bc;mol/L], resolving completely over the next month).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27605198</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.kim.2016.266">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kim</surname><given-names>HS</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>SH</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>SH</given-names></name>
+<name name-style="western"><surname>Cho</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Yim</surname><given-names>HW</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Statin-related aminotransferase elevation according to baseline aminotransferases level in real practice in Korea.</article-title>
+              <source>J Clin Pharm Ther</source>
+              <year>2016</year>
+              <volume>41</volume>
+              <fpage>266</fpage>
+              <lpage>72</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 21,233 Korean patients starting statin therapy between 2009 and 2013, abnormal ALT or AST values above 3 times ULN were more frequent among those with mild baseline elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27015878</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.clarke.2016.e0151587">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Clarke</surname><given-names>AT</given-names></name>
+<name name-style="western"><surname>Johnson</surname><given-names>PC</given-names></name>
+<name name-style="western"><surname>Hall</surname><given-names>GC</given-names></name>
+<name name-style="western"><surname>Ford</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Mills</surname><given-names>PR</given-names></name>
+</person-group>
+              <article-title>High dose atorvastatin associated with increased risk of significant hepatotoxicity in comparison to simvastatin in UK GPRD cohort.</article-title>
+              <source>PLoS One</source>
+              <year>2016</year>
+              <volume>11</volume>
+              <elocation-id>e0151587</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of the Clinical Practice Research Database of UK patients initiating statin treatment between 1997 and 2006 identified 71 of 76,411 developing liver dysfunction while on atorvastatin [0.09%] vs 101 of 164,407 on simvastatin [0.06%], rates being higher with higher [40 or 80 mg] vs lower [10 or 20 mg] doses of atorvastatin [0.44% vs 0.07%], but not with higher vs lower doses of simvastatin [0.09% vs 0.05%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26983033</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.wang.2016.823">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wang</surname><given-names>LY</given-names></name>
+<name name-style="western"><surname>Huang</surname><given-names>YS</given-names></name>
+<name name-style="western"><surname>Perng</surname><given-names>CL</given-names></name>
+<name name-style="western"><surname>Huang</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>HC</given-names></name>
+</person-group>
+              <article-title>Statin-induced liver injury in an area endemic for hepatitis B virus infection: risk factors and outcome analysis.</article-title>
+              <source>Br J Clin Pharmacol</source>
+              <year>2016</year>
+              <volume>82</volume>
+              <fpage>823</fpage>
+              <lpage>30</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of the Taipei Veterans Hospital database from 2008 to 2012 identified 108 patients with statin-associated liver injury [including 28 rosu-, 20 flu-, 17 sim-, 11 pra-, 8 lo-, and 8 pita-vastatin] most of which 75 [69%] were mild and only one fatal [80 year old on rosu-], and there were no differences in disease features or peak enzyme or bilirubin levels between HBsAg positive vs negative [n=16 vs 92]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27197051</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.goldie.2016.bcr2016216048">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Goldie</surname><given-names>FC</given-names></name>
+<name name-style="western"><surname>Brogan</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Boyle</surname><given-names>JG</given-names></name>
+</person-group>
+              <article-title>Ciprofloxacin and statin interaction: a cautionary tale of rhabdomyolysis.</article-title>
+              <source>BMJ Case Rep</source>
+              <year>2016</year>
+              <volume>2016</volume>
+              <comment>pii</comment>
+              <elocation-id>bcr2016216048</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(62 year old woman on simvastatin for 13 years developed rhabdomyolysis 4 days after starting ciprofloxacin [bilirubin not given, ALT 240 U/L, AST 870 U/L, CPK 24,514], which resolved upon stopping; no mention of myoglobin levels).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27469384</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.bj_rnsson.2017.173">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity of statins and other lipid-lowering agents.</article-title>
+              <source>Liver Int</source>
+              <year>2017</year>
+              <volume>37</volume>
+              <fpage>173</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the hepatotoxicity of statins mentions that atorvastatin has been the most frequently implicated statin [accounting for 30-40% of cases] in drug induced liver injury estimated to arise in 1 in 17,000 users, cholestatic in 56% and with autoimmune features in 10% and rarely fatal).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27860156</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.birmingham.2015.341">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Birmingham</surname><given-names>BK</given-names></name>
+<name name-style="western"><surname>Bujac</surname><given-names>SR</given-names></name>
+<name name-style="western"><surname>Elsby</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Azumaya</surname><given-names>CT</given-names></name>
+<name name-style="western"><surname>Wei</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Mosqueda-Garcia</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Impact of ABCG2 and SLCO1B1 polymorphisms on pharmacokinetics of rosuvastatin, atorvastatin and simvastatin acid in Caucasian and Asian subjects: a class effect?</article-title>
+              <source>Eur J Clin Pharmacol.</source>
+              <year>2015</year>
+              <volume>71</volume>
+              <fpage>341</fpage>
+              <lpage>55</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 96 subjects treated in an open-label, 3-way crossover study of a single oral dose of rosuvastatin [20 mg], atorvastatin [40 mg], or simvastatin [40%], Chinese and Japanese subjects had higher plasma levels than European subjects, and the differences could not be attributed entirely to hepatic transporter polymorphisms {SLCO1B1*1a and ABCG2c.421] known to be associated with higher statin levels).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25673568</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.giugliano.2017.547">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Giugliano</surname><given-names>RP</given-names></name>
+<name name-style="western"><surname>Wiviott</surname><given-names>SD</given-names></name>
+<name name-style="western"><surname>Blazing</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>De Ferrari</surname><given-names>GM</given-names></name>
+<name name-style="western"><surname>Park</surname><given-names>JG</given-names></name>
+<name name-style="western"><surname>Murphy</surname><given-names>SA</given-names></name>
+<name name-style="western"><surname>White</surname><given-names>JA</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Long-term safety and efficacy of achieving very low levels of low-density lipoprotein cholesterol: a prespecified analysis of the IMPROVE-IT Trial.</article-title>
+              <source>JAMA Cardiol.</source>
+              <year>2017</year>
+              <volume>2</volume>
+              <fpage>547</fpage>
+              <lpage>555</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 15,281 patients recovering from an acute cardiac syndrome treated with simvastatin [40 mg daily] with or without ezetimibe for up to 6 years, 6.4% achieved very low LDL-cholesterol levels [&#x0003c;30 mg/dL] and subsequently had low rates of cardiovascular events but also no increase in rates of adverse events from statins such including ALT elevations above 3 times ULN [2.2% vs 1.8-2.1%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28291866</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.bergland_ellingsen.2017.1179547617731375">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bergland Ellingsen</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Nordmo</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Lappeg&#x000e5;rd</surname><given-names>KT</given-names></name>
+</person-group>
+              <article-title>Recurrence and severe worsening of hepatotoxicity after reintroduction of atorvastatin in combination with ezetimibe.</article-title>
+              <source>Clin Med Insights Case Rep.</source>
+              <year>2017</year>
+              <volume>10</volume>
+              <elocation-id>1179547617731375</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(After an acute myocardial infarction, a 70 year old woman was treated with simvastatin in doses of 40 and 80 mg and then with atorvastatin [40 mg] but developed elevated ALT levels [69 to 123 U/L] and was switched to pravastatin, but then was switched to atorvastatin with ezetimibe and developed fatigue and weakness 2 months later [bilirubin 4.3 mg/dL, ALT 2003 U/L, Alk P 164 U/L], which resolved rapidly once atorvastatin was again discontinued).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28979175</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.hong.2018.226">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hong</surname><given-names>SJ</given-names></name>
+<name name-style="western"><surname>Jeong</surname><given-names>HS</given-names></name>
+<name name-style="western"><surname>Ahn</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Cha</surname><given-names>DH</given-names></name>
+<name name-style="western"><surname>Won</surname><given-names>KH</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Cho</surname><given-names>SK</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A phase III, multicenter, randomized, double-blind, active comparator clinical trial to compare the efficacy and safety of combination therapy with ezetimibe and rosuvastatin versus rosuvastatin monotherapy in patients with hypercholesterolemia: I-ROSETTE (Ildong Rosuvastatin &#x00026; Ezetimibe for Hypercholesterolemia) randomized controlled trial.</article-title>
+              <source>Clin Ther.</source>
+              <year>2018</year>
+              <volume>40</volume>
+              <fpage>226</fpage>
+              <lpage>241.e4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 396 Korean patients with hypercholesterolemia treated with rosuvastatin [5, 10 or 20 mg daily] with or without ezetimibe [10 mg daily] for 8 weeks, the percent decrease in LDL-cholesterol was higher at each dose of rosuvastatin combined with ezetimibe [overall -57% vs -44%] and the proportion of patients achieving a targeted goal of LDL-cholesterol was also higher [92% vs 80%], while there were similar rates of total adverse events [11.2% vs 11.3%], serious adverse events [0.5% vs 0.5%] as well as ALT elevations above 3 times the ULN [0.6% vs 0]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29402522</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.liang.2018.7092414">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Liang</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>He</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Zhao</surname><given-names>Q</given-names></name>
+</person-group>
+              <article-title>Effect of stains on LDL reduction and liver safety: a systematic review and meta-analysis.</article-title>
+              <source>Biomed Res Int.</source>
+              <year>2018</year>
+              <volume>2018</volume>
+              <elocation-id>7092414</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a systematic review of 16 controlled trials of statins in 74,078 patients, rates of liver test abnormalities were higher with statin therapy [odds ratio, OR=1.18] but this was significant only for fluvastatin [OR=3.5] and with higher doses [40-80 mg daily] [OD=3.6] and was not significant for statins used at low or moderate doses).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29693013</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.wu.2018.240s">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wu</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Gong</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Weinstock</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Cheng</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Hu</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Venners</surname><given-names>SA</given-names></name>
+<name name-style="western"><surname>Hsu</surname><given-names>YH</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Associations of the SLCO1B1 polymorphisms with hepatic function, baseline lipid levels, and lipid-lowering response to simvastatin in patients with hyperlipidemia.</article-title>
+              <source>Clin Appl Thromb Hemost.</source>
+              <year>2018</year>
+              <volume>24</volume>
+              <issue>9</issue>
+              <supplement>suppl</supplement>
+              <fpage>240S</fpage>
+              <lpage>247S</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 542 Chinese subjects with hyperlipidemia treated with simvastatin [20 mg daily] for 8 weeks, polymorphisms in the SCLO1B1 gene were associated with slight differences in ALT and AST levels but no data were provided on the effect of simvastatin on ALT or lipid levels or whether they changed on therapy: &#x0201c;Patients whose laboratory parameters were affected by the treatment were excluded during the study&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30336686</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.teschke.2018.1169">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Teschke</surname><given-names>R.</given-names></name>
+</person-group>
+              <article-title>Top-ranking drugs out of 3312 drug-induced liver injury cases evaluated by the Roussel Uclaf Causality Assessment Method.</article-title>
+              <source>Expert Opin Drug Metab Toxicol.</source>
+              <year>2018</year>
+              <volume>14</volume>
+              <fpage>1169</fpage>
+              <lpage>1187</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(A compilation of national and international databases on drug induced liver injury identified the ten top-ranking causes which included two statins, atorvastatin [ranking 3<sup>rd</sup>] and simvastatin [ranking 6<sup>th</sup>]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30354694</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.yebyo.2019.18">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Yebyo</surname><given-names>HG</given-names></name>
+<name name-style="western"><surname>Aschmann</surname><given-names>HE</given-names></name>
+<name name-style="western"><surname>Kaufmann</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Puhan</surname><given-names>MA</given-names></name>
+</person-group>
+              <article-title>Comparative effectiveness and safety of statins as a class and of specific statins for primary prevention of cardiovascular disease: A systematic review, meta-analysis, and network meta-analysis of randomized trials with 94,283 participants.</article-title>
+              <source>Am Heart J.</source>
+              <year>2019</year>
+              <volume>210</volume>
+              <fpage>18</fpage>
+              <lpage>28</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Metaanalyses of 40 trials of statins that enrolled 94,283 patients followed for a median of 1 year for efficacy and safety reported that statins as a class increased the risk of hepatic dysfunction by 6% with fluvastatin having the highest relative risk).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30716508</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.godinho.2019.69">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Godinho</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Bugnon</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Gracin</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Tataw</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Severe rhabdomyolysis-induced acute kidney injury following concomitant use of Genvoya&#x000ae; (EVG/COBI/FTC/TAF) and simvastatin; a case report.</article-title>
+              <source>BMC Nephrol</source>
+              <year>2019</year>
+              <volume>20</volume>
+              <fpage>69</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(54 year old man with HIV infection, chronic hepatitis C, acute hepatitis A and hypercholesterolemia on simvastatin developed myalgias, weakness and worsening jaundice 10 days after switching antiretroviral regimen to a fixed combination of elvitegravir, emtricitabine, tenofovir and cobicistat a potent inhibitor of CYP 3A4 [ALT 2081 U/L, AST 7017 U/L, GGT 198 U/L, bilirubin 7.6 mg/dL, CPK 185,190 U/L and creatinine 6.1 mg/dL], improving ultimately after stopping the antiretroviral combination regimen).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30808332</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF102">
+            <element-citation publication-type="journal">
+              <article-title>Lipid-lowering drugs.</article-title>
+              <source>Med Lett Drugs Ther.</source>
+              <year>2019</year>
+              <volume>61</volume>
+              <issue>1565</issue>
+              <fpage>17</fpage>
+              <lpage>24</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, relative efficacy, safety and costs of lipid lowering drugs including statins, ezetimibe, PCSK9 inhibitors, bile acid sequestrants, fibric acid derivatives niacin and fish oil, mentions that statin therapy is associated with ALT elevations above 3 times ULN in 1-3% of patients but &#x0201c;whether statins actually cause liver damage is unclear&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30845106</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.hung.2019.e0215839">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hung</surname><given-names>TH</given-names></name>
+<name name-style="western"><surname>Tsai</surname><given-names>CC</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>HF</given-names></name>
+</person-group>
+              <article-title>Statin use in cirrhotic patients with infectious diseases: A population-based study.</article-title>
+              <source>PLoS One.</source>
+              <year>2019</year>
+              <volume>14</volume>
+              <elocation-id>e0215839</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of the Taiwan National Health Insurance Database identified 816 patients with cirrhosis receiving statins [including simvastatin] who were hospitalized for bacterial infections and similar number of cirrhotic controls not on statins, found a lower 30-day mortality with statins: 5.3% vs 9.8%).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31017946</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.simon.2020.3">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Simon</surname><given-names>TG</given-names></name>
+</person-group>
+              <article-title>When less is more: dosing simvastatin in decompensated cirrhosis.</article-title>
+              <source>Lancet Gastroenterol Hepatol.</source>
+              <year>2020</year>
+              <volume>5</volume>
+              <fpage>3</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Editorial in response to Pose et al [2020] discusses the possible beneficial effects of statins in patients with cirrhosis and the issue of increased rate of muscle toxicity with 40 vs to 20 mg daily).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31607676</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.pose.2020.31">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Pose</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Napoleone</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Amin</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Campion</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Jimenez</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Piano</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Roux</surname><given-names>O</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety of two different doses of simvastatin plus rifaximin in decompensated cirrhosis (LIVERHOPE-SAFETY): a randomised, double-blind, placebo-controlled, phase 2 trial.</article-title>
+              <source>Lancet Gastroenterol Hepatol.</source>
+              <year>2020</year>
+              <volume>5</volume>
+              <fpage>31</fpage>
+              <lpage>41</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 50 patients with decompensated cirrhosis treated with simvastatin [20 or 40 mg daily] and rifaximin vs placebo for 12 weeks, 3 of 16 patients on 40 mg of simvastatin developed muscle pains and marked elevations in CPK, ALT and AST, whereas the 14 patients on 20 mg did not develop signs of either muscle or liver toxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31607677</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.wong.2020.399">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wong</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Podboy</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Lavezo</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Goel</surname><given-names>A.</given-names></name>
+</person-group>
+              <article-title>Dead meat: glecaprevir/pibrentasvir-induced statin myonecrosis.</article-title>
+              <source>Dig Dis Sci.</source>
+              <year>2020</year>
+              <volume>65</volume>
+              <fpage>399</fpage>
+              <lpage>400</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(60 year old man with compensated cirrhosis from HCV with coronary artery disease on simvastatin for many years developed myalgias, muscle weakness and jaundice 6 weeks after starting glecaprevir and pibrentasvir [bilirubin 6.1 mg/dL, ALT 512 U/L, AST 1646 U/L, CPK &#x0003e;16,800 U/L, INR 2.1, creatinine 2.0, myoglobin in urine], with improvement on stopping simvastatin but no follow up information given).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31894484</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.hopewell.2020.3336">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hopewell</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Offer</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Haynes</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Bowman</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Bulbulia</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Independent risk factors for simvastatin-related myopathy and relevance to different types of muscle symptom.</article-title>
+              <source>Eur Heart J</source>
+              <year>2020</year>
+              <volume>41</volume>
+              <fpage>3336</fpage>
+              <lpage>3342</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a combined analysis of 3 large clinical trials in patients with cardiovascular disease treated with simvastatin for a mean of 3.4 years, 171 of 58,390 participants [0.1%] developed myopathy [muscle pain and CK levels above 10 times ULN], and risk was higher with higher doses, in Asian subjects, women, and persons with higher BMI and multiple comorbidities as well as with SLCO1B1 genotype).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32702748</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.mu_oz.2021.3199">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mu&#x000f1;oz</surname><given-names>AE</given-names></name>
+<name name-style="western"><surname>Pollarsky</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Marino</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Cartier</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>M&#x000ed;guez</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>V&#x000e1;zquez</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>&#x000c1;lvarez</surname><given-names>D</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety of chronic simvastatin treatment in patients with decompensated cirrhosis: many adverse events but no liver injury.</article-title>
+              <source>Dig Dis Sci.</source>
+              <year>2021</year>
+              <volume>66</volume>
+              <fpage>3199</fpage>
+              <lpage>3208</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 30 patients with cirrhosis [Child&#x02019;s Class A in 6, B in 22, and C in 2] treated with simvastatin [40 mg daily] for up to one year, adverse events were frequent [53%], including myalgia in 23% and myonecrosis in 13% but all resolved with dose modification or interruption and no patient developed evidence of liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33033975</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.balasubramanian.2021.328">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Balasubramanian</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Maideen</surname><given-names>NMP</given-names></name>
+</person-group>
+              <article-title>HMG-CoA reductase inhibitors (statins) and their drug interactions involving CYP enzymes, P-glycoprotein and OATP transporters-an overview.</article-title>
+              <source>Curr Drug Metab.</source>
+              <year>2021</year>
+              <volume>22</volume>
+              <fpage>328</fpage>
+              <lpage>341</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of literature on drug-drug interactions with statins and their clinical significance mentions that toxicity can be enhanced by inhibitors of CYP3A4 [ator-, sim- and lo-vastatin] as well as by inhibitors of P glycoprotein and OATP1B1 [most statins including rosuvastatin] with specific recommendations for the most common inhibitors).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33459228</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.sung.2021.120">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sung</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Al-Karaghouli</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kalainy</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Cabrera Garcia</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Abraldes</surname><given-names>JG</given-names></name>
+</person-group>
+              <article-title>A systematic review on pharmacokinetics, cardiovascular outcomes and safety profiles of statins in cirrhosis.</article-title>
+              <source>BMC Gastroenterol.</source>
+              <year>2021</year>
+              <volume>21</volume>
+              <fpage>120</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of literature suggests that rosuvastatin and pitavastatin pharmacokinetics are unchanged in patients with Child&#x02019;s Class A cirrhosis as opposed to atorvastatin and pravastatin, although unlike rosuvastatin, simvastatin, atorvastatin and pravastatin have been assessed in clinical trials in cirrhotic patients).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33726685</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.onfiani.2021">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Onfiani</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Nascimbeni</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Carubbi</surname><given-names>F.</given-names></name>
+</person-group>
+              <article-title>A case of statin-induced liver injury with positive rechallenge with a second statin. Is there a class effect?</article-title>
+              <source>J Basic Clin Physiol Pharmacol.</source>
+              <year>2021</year>
+              <month>Apr</month>
+              <day>21</day>
+              <comment>Epub ahead of print</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(58 year old woman on long term simvastatin therapy developed ALT elevations 2 months after dose increase from 10 mg to 20 mg daily [ALT 314 U/L] without symptoms, Alk P or bilirubin elevations which was normal 2 months after stopping, but was elevated again without symptoms or jaundice 2 months after starting rosuvastatin in a dose of 5 mg daily [ALT 542 U/L], slowing falling to normal 5 months after stopping statins a second time).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33882199</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Simvastatin.REF.cai.2021">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cai</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Abel</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Langford</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Monaghan</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Aronson</surname><given-names>JK</given-names></name>
+<name name-style="western"><surname>Stevens</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Lay-Flurrie</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Associations between statins and adverse events in primary prevention of cardiovascular disease: systematic review with pairwise, network, and dose-response meta-analyses.</article-title>
+              <source>BMJ</source>
+              <year>2021</year>
+              <volume>374</volume>
+              <issue>n1537</issue>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of placebo controlled trials of statins for cardiovascular disease prevention identified 62 publications with 120,456 patients and found an increased risk of muscle symptoms, liver test abnormalities, renal insufficiency and eye conditions for all 7 statins, but not muscle disorders or diabetes; rosuvastatin having relatively high risk for muscle symptoms and renal abnormalities and also was also associated with eye conditions and diabetes while atorvastatin and lovastatin had highest risk for liver abnormalities).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34261627</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Simvastatin.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=simvastatin+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Simvastatin: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=simvastatin">Trials on Simvastatin: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

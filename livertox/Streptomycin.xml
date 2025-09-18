@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Streptomycin" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Streptomycin</book-part-id>
+      <title-group>
+        <title>Streptomycin</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>15</day>
+          <month>9</month>
+          <year>2021</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Stiripentol" document-type="chapter">Stiripentol</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Streptozocin" document-type="chapter">Streptozocin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Streptomycin.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Streptomycin.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Streptomycin is a broad spectrum aminoglycoside antibiotic typically used for treatment of active tuberculosis, always in combination with other antituberculosis agents. Streptomycin is usually used in combination with agents that are known to be hepatotoxic and the role of streptomycin in liver injury has been difficult to assess, but most information suggests that streptomycin is not hepatotoxic.</p>
+        </sec>
+        <sec id="Streptomycin.Background">
+          <title>Background</title>
+          <p>Streptomycin (strep" toe mye' sin), an aminoglycoside antibiotic, must be given by parenteral injection and is now considered a second line antituberculosis agent, used largely when toxicity has limited use of first line agents. Like other aminoglycosides, streptomycin is thought to act by binding to bacterial ribosomes and inhibiting protein synthesis. Nevertheless, streptomycin is considered bacteriocidal as well as bacteriostatic. Streptomycin was approved for use in the United States in 1956, but its use for most indications has been replaced by more modern aminoglycoside antibiotics. Streptomycin is available in vials and as lyophilized powder for injection in multiple generic formulations. The typical adult dose is 15 mg/kg per day (1 gram daily) intramuscularly or intravenously, usually for the first 2 to 4 months of antituberculosis therapy only. The dose must be modified based upon renal function. Streptomycin is also effective against several other bacterial infections but its use is generally limited to cases in which conventional, less toxic antibiotics have been ineffective. Common side effects are auditory and renal dysfunction, and routine monitoring with of kidney function and hearing is recommended. Less common but potentially severe adverse reactions include rash, fever, neurologic toxicity, C. difficile associated diarrhea, and acute hypersensitivity reactions.</p>
+        </sec>
+        <sec id="Streptomycin.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Intravenous and intramuscular therapy with streptomycin has been linked to mild and asymptomatic elevations in serum alkaline phosphatase, but therapy rarely affects aminotransferase levels or bilirubin and changes typically resolve rapidly once streptomycin is stopped. Only isolated case reports of acute liver injury with jaundice have been associated with streptomycin therapy and always in combination with other antituberculosis medications which are more clearly hepatotoxic, such as isoniazid, pyrazinamide and rifampin. Streptomycin and the aminoglycosides are not mentioned in large case series of drug induced liver disease and acute liver failure; thus, hepatic injury from streptomycin must be exceedingly rare, if it occurs at all.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Streptomycin.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Uptake of aminoglycosides into hepatocytes is limited and they are rapidly excreted in the urine; high concentrations are found in mainly in renal tubular cells and hair cells of the inner ear, perhaps explaining why they are more likely to cause nephro- or oto- rather than hepatotoxicity.</p>
+          <p>[First line medications used in the therapy of tuberculosis in the US include ethambutol, isoniazid, pyrazinamide, rifabutin, rifampin, and rifapentine. Second line medications include streptomycin, capreomycin, cycloserine, ethionamide, fluoroquinolones such as levofloxacin and moxifloxacin, aminoglycosides such as amikacin, and para-aminosalicylic acid (PAS).]</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntituberculosisAgen" document-type="chapter">Antituberculosis Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Aminoglycosides" document-type="chapter">Aminoglycosides</related-object></p>
+          <p>Other Drugs in the Class: <related-object link-type="booklink" source-id="livertox" document-id="Bedaquiline" document-type="chapter">Bedaquiline</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Capreomycin" document-type="chapter">Capreomycin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Cycloserine" document-type="chapter">Cycloserine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ethambutol" document-type="chapter">Ethambutol</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ethionamide" document-type="chapter">Ethionamide</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Isoniazid" document-type="chapter">Isoniazid</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Pyrazinamide" document-type="chapter">Pyrazinamide</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Rifabutin" document-type="chapter">Rifabutin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Rifampin" document-type="chapter">Rifampin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Rifapentine" document-type="chapter">Rifapentine</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Streptomycin.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Streptomycin &#x02013; Generic</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antituberculosis Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=streptomycin">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Streptomycin.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Streptomycin.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Streptomycin.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Streptomycin.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Streptomycin.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Streptomycin.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Streptomycin.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Streptomycin</td>
+                <td headers="hd_h_Streptomycin.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134971352">57-92-1</ext-link>
+</td>
+                <td headers="hd_h_Streptomycin.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C21-H39-N7-O12</td>
+                <td headers="hd_h_Streptomycin.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134971352" document-id-type="sid" document-type="summary" object-id="134971352" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Streptomycin.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 15 September 2021</p>
+        <ref-list id="Streptomycin.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Streptomycin.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Antituberculosis agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 611-21.<annotation><p><italic toggle="yes">(Extensive review of hepatotoxicity of antituberculosis medications published in 1999: &#x0201c;Nevertheless, use of streptomycin alone provided data that seem to exonerate it from a hepatotoxic role&#x0201d;).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Streptomycin.REF.verma.2013">
+            <mixed-citation publication-type="book">Verma S, Kaplowitz N. Hepatotoxicity of antituberculosis drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 483-504.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of antituberculosis drugs).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Streptomycin.REF.gumbo.2018">
+            <mixed-citation publication-type="book">Gumbo T. Chemotherapy of tuberculosis, mycobacterium avium complex disease and leprosy. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1067-86.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Streptomycin.REF.gillis.1960.99">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gillis</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Texler</surname><given-names>K</given-names></name>
+</person-group>
+              <article-title>Unusual reactions to anti-tuberculous chemotherapy.</article-title>
+              <source>Med J Aust</source>
+              <year>1960</year>
+              <volume>47</volume>
+              <fpage>99</fpage>
+              <lpage>101</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(36 year old woman treated for tuberculosis with PAS, isoniazid and streptomycin developed rash after 6 days, resolving with stopping PAS but subsequently developed fever and jaundice [bilirubin 5.0 mg/dL], resolving with stopping isoniazid; PAS rechallenge induced rash, but no liver test abnormalities).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Streptomycin.REF.smith.1966.245">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Smith</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Springett</surname><given-names>VH</given-names></name>
+</person-group>
+              <article-title>Serum transaminase levels during treatment with isoniazid.</article-title>
+              <source>Tubercle</source>
+              <year>1966</year>
+              <volume>47</volume>
+              <fpage>245</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 15 patients with drug rash attributed to PAS, 40% had ALT elevations compared to only 1 of 10 with rash attributed to streptomycin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">5971411</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Streptomycin.REF.osullivan.1966.221">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>O'Sullivan</surname><given-names>DC</given-names></name>
+</person-group>
+              <article-title>Isoniazid jaundice during the treatment of genitourinary tuberculosis.</article-title>
+              <source>Tubercle</source>
+              <year>1966</year>
+              <volume>47</volume>
+              <fpage>221</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(44 year old man developed fever and body aches 3 weeks after starting PAS, streptomycin and isoniazid, followed by rash and jaundice [bilirubin 3.0 mg/dL, AST 120 U/L]; restarting isoniazid led to fever, abdominal pain and rise in ALT, restarting PAS led to fever and rash).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">6007094</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Streptomycin.REF.mor.1990.135">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mor</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Leibovici</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Cohen</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Wysenbeek</surname><given-names>AJ</given-names></name>
+</person-group>
+              <article-title>Prospective evaluation of liver function tests in patients treated with aminoglycosides.</article-title>
+              <source>DICP</source>
+              <year>1990</year>
+              <volume>24</volume>
+              <fpage>135</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Prospective study in 104 patients given gentamicin and 10 given amikacin found no change in ALT, LDH or bilirubin levels, but mild increases in Alk P in 23% of patients; no symptomatic hepatitis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2309507</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Streptomycin.REF.lindblad.1994.201">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lindblad</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Hultcrantz</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Strandvik</surname><given-names>B</given-names></name>
+</person-group>
+              <article-title>High doses of aminoglycosides did not produce liver toxicity in patients with cystic fibrosis.</article-title>
+              <source>J Hepatol</source>
+              <year>1994</year>
+              <volume>20</volume>
+              <fpage>201</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Five patients with cystic fibrosis underwent yearly liver biopsies; those on intermittent aminoglycoside therapy showed no hepatic abnormalities and liver tests were normal in all).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8006400</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Streptomycin.REF.nassberger.1994.1156">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Nassberger</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>DePierre</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>High doses of aminoglycoside antibiotics do not induce liver toxicity because uptake is limited.</article-title>
+              <source>J Hepatol</source>
+              <year>1994</year>
+              <volume>21</volume>
+              <fpage>1156</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Letter in response to Lindblad [1994] postulating that lack of hepatic injury is due to limited uptake of aminoglycosides in the liver compared to kidney and inner ear).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Streptomycin.REF.ormerod.1996.37">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ormerod</surname><given-names>LP</given-names></name>
+<name name-style="western"><surname>Horsfield</surname><given-names>N</given-names></name>
+</person-group>
+              <article-title>Frequency and type of reactions to antituberculosis drugs: observations in routine treatment.</article-title>
+              <source>Tuber Lung Dis</source>
+              <year>1996</year>
+              <volume>77</volume>
+              <fpage>37</fpage>
+              <lpage>42</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1317 patients treated for active tuberculosis, hepatitis was attributed to rifampin in 1.4%, pyrazinamide in 1.2% and isoniazid in 0.3%, but none to ethambutol or streptomycin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8733412</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Streptomycin.REF.american_thoracic_society.2003.1">
+            <element-citation publication-type="journal">
+              <person-group>
+<collab>American Thoracic Society</collab>
+</person-group>
+              <article-title>CDC; Infectious Diseases Society of America. Treatment of tuberculosis.</article-title>
+              <source>MMWR Recomm Rep</source>
+              <year>2003</year>
+              <volume>52</volume>
+              <issue>RR-11</issue>
+              <fpage>1</fpage>
+              <lpage>77</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Recommendations for therapy of tuberculosis including details of drug regimens, side effects, monitoring and optimal approaches to follow up; streptomycin is considered a second line drug for treatment of tuberculosis, requiring parenteral injections and monitoring for renal and ototoxicity, given typically during first 2 months of therapy when drug resistant mycobacterial infection is suspected and now largely replaced by ethambutol).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Streptomycin.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Davern</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Serrano</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rochon</surname><given-names>J</given-names></name>
+<collab>Drug Induced Liver Injury Network (DILIN)</collab>
+</person-group>
+              <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, 1 case was attributed to gentamicin, but none to streptomycin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Streptomycin.REF.abubakar.2009.512">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Abubakar</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Moore</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Drobniewski</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Kruijshaar</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Brown</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Yates</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Anderson</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Extensively drug-resistant tuberculosis in the UK: 1995 to 2007.</article-title>
+              <source>Thorax</source>
+              <year>2009</year>
+              <volume>64</volume>
+              <fpage>512</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 678 extensively drug resistant isolates of tuberculosis reported in the UK between 2005 and 2008, 3.4% were also resistant to capreomycin and 51% to streptomycin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19318348</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Streptomycin.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Reuben</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Koch</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>WM</given-names></name>
+<collab>Acute Liver Failure Study Group</collab>
+</person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury and 25 to antituberculosis agents, including 15 to isoniazid alone [ranking first], 6 to isoniazid combined with other agents, 3 to rifampin and pyrazinamide and 1 to dapsone, but none to streptomycin or other aminoglycosides).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Streptomycin.REF.devarbhavi.2010.2396">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Devarbhavi</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Dierkhising</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Kremers</surname><given-names>WK</given-names></name>
+<name name-style="western"><surname>Sandeep</surname><given-names>MS</given-names></name>
+<name name-style="western"><surname>Karanth</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Adarsh</surname><given-names>CK</given-names></name>
+</person-group>
+              <article-title>Single-center experience with drug-induced liver injury from India: causes, outcome, prognosis, and predictors of mortality.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>2010</year>
+              <volume>105</volume>
+              <fpage>2396</fpage>
+              <lpage>404</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 313 cases of drug induced liver injury seen between 1997 and 2008 at a large hospital in Bangalore, India, 181 [58%] were attributed to antituberculosis agents, which accounted for 39 of 54 [72%] fatal cases; streptomycin and aminoglycosides were not specifically mentioned).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20648003</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Streptomycin.REF.arbex.2010.641">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Arbex</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Varella Mde</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Siqueira</surname><given-names>HR</given-names></name>
+<name name-style="western"><surname>Mello</surname><given-names>FA</given-names></name>
+</person-group>
+              <article-title>Antituberculosis drugs: drug interactions, adverse effects, and use in special situations. Part 2: second line drugs.</article-title>
+              <source>J Bras Pneumol</source>
+              <year>2010</year>
+              <volume>36</volume>
+              <fpage>641</fpage>
+              <lpage>56</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of adverse effects of second line drugs for tuberculosis; the aminoglycosides [streptomycin, amikacin and kanamycin] are second line agents for tuberculosis and side effects include ototoxicity, neurotoxicity, nephrotoxicity, neuormuscular blockade and hypersensitivity reactions; hepatotoxicity not mentioned).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21085831</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Streptomycin.REF.caminero.2010.621">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Caminero</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Sotgiu</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Zumla</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Migliori</surname><given-names>GB</given-names></name>
+</person-group>
+              <article-title>Best drug treatment for multidrug-resistant and extensively drug-resistant tuberculosis.</article-title>
+              <source>Lancet Infect Dis</source>
+              <year>2010</year>
+              <volume>10</volume>
+              <fpage>621</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Recommends that treatment of multidrug resistant tuberculosis should always include an injectable drug, the first choice being capreomycin, others being the aminoglycosides streptomycin, kanamycin and amikacin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20797644</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Streptomycin.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 53 [6%] implicated drugs for tuberculosis including 48 attributed to isoniazid, but none to streptomycin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Streptomycin.REF.li.2015.e1665">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Li</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Liu</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Zhang</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>He</surname><given-names>Q</given-names></name>
+<name name-style="western"><surname>Tang</surname><given-names>YB</given-names></name>
+</person-group>
+              <article-title>Liver transplantation in antituberculosis drugs-induced fulminant hepatic failure: a case report and review of the literature.</article-title>
+              <source>Medicine (Baltimore)</source>
+              <year>2015</year>
+              <volume>94</volume>
+              <elocation-id>e1665</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(39 year old woman developed jaundice 3 months after starting isoniazid, rifampin, and pyrazinamide for latent tuberculosis [bilirubin 9.6 rising to 31.2 mg/dL, ALT 388 U/L, Alk P not given, prothrombin time 74 sec], with progressive hepatic insufficiency leading to liver transplant 4 months later followed by steroid-resistant graft rejection, worsening hepatic function, infections and death from multiorgan failure one year later while being treated with ethambutol, moxifloxacin and streptomycin for tuberculosis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26656321</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Streptomycin.REF.garciaprats.2016.1491">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Garcia-Prats</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Schaaf</surname><given-names>HS</given-names></name>
+<name name-style="western"><surname>Hesseling</surname><given-names>AC</given-names></name>
+</person-group>
+              <article-title>The safety and tolerability of the second-line injectable antituberculosis drugs in children.</article-title>
+              <source>Expert Opin Drug Saf.</source>
+              <year>2016</year>
+              <volume>15</volume>
+              <fpage>1491</fpage>
+              <lpage>1500</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the second line injectable drugs for tuberculosis including capreomycin, discusses ototoxicity, nephrotoxicity, electrolyte disturbances, local injection site reactions, but not hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27548570</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Streptomycin.REF.nataprawira.2021.e930828">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Nataprawira</surname><given-names>HM</given-names></name>
+<name name-style="western"><surname>Aliyannissa</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Febrianti</surname><given-names>SA</given-names></name>
+</person-group>
+              <article-title>Unusual recurrence of antituberculosis drug-induced hepatotoxicity in children: a case series.</article-title>
+              <source>Am J Case Rep.</source>
+              <year>2021</year>
+              <volume>22</volume>
+              <elocation-id>e930828</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 6 children with recurred liver injury on therapy for tuberculosis, in 4 instances the children tolerated streptomycin and ethambutol after having an initial bout, and redeveloped acute injury with reintroduction of isoniazid).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34267172</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Streptomycin.REF.garciaprats.2016.1491_1">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Garcia-Prats</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Schaaf</surname><given-names>HS</given-names></name>
+<name name-style="western"><surname>Hesseling</surname><given-names>AC</given-names></name>
+</person-group>
+              <article-title>The safety and tolerability of the second-line injectable antituberculosis drugs in children.</article-title>
+              <source>Expert Opin Drug Saf.</source>
+              <year>2016</year>
+              <volume>15</volume>
+              <fpage>1491</fpage>
+              <lpage>1500</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the second line injectable drugs for tuberculosis including streptomycin, discusses ototoxicity, nephrotoxicity, electrolyte disturbances, local injection site reactions, but not hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27548570</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Streptomycin.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Streptomycin/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Streptomycin: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Streptomycin">Trials on Streptomycin: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

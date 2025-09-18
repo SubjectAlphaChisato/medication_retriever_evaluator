@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Itraconazole" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Itraconazole</book-part-id>
+      <title-group>
+        <title>Itraconazole</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>17</day>
+          <month>5</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Istradefylline" document-type="chapter">Istradefylline</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Ivabradine" document-type="chapter">Ivabradine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Itraconazole.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Itraconazole.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Itraconazole is a orally administered, triazole antifungal agent used in the treatment of systemic and superficial fungal infections. Itraconazole therapy is associated with transient, mild-to-moderate serum elevations and can lead to clinically apparent acute drug induced liver injury.</p>
+        </sec>
+        <sec id="Itraconazole.Background">
+          <title>Background</title>
+          <p>Itraconazole (it" ra kon' a zole) is a synthetic triazole fungicidal agent which acts by inhibition of fungal C14-a- ergosterol demethylase, which leads to a decrease in ergosterol synthesis, a necessary component of fungal cell membranes. Itraconazole is used in the therapy of a broad spectrum of fungal infections including blastomycosis, aspergillosis, histoplasmosis, candidiasis and various superficial mycoses. Itraconazole was approved for use in the United States in 1992 and continues to be widely used as an antifungal agent. Current indications include blastomycosis, histoplasmosis, aspergillosis and onychomycosis. Itraconazole is available in capsules of 100 mg, tablets of 200 mg and oral suspensions of 10 mg/mL in generic forms and under the brand name Sporanox. The typical dose is 100 to 400 mg daily based upon the type and severity of the fungal infection. Common side effects include nausea, vomiting, diarrhea, rash and hypokalemia.</p>
+        </sec>
+        <sec id="Itraconazole.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Transient, mild-to-moderate elevations in serum aminotransferase levels occur in 1% to 5% of patients on itraconazole. These elevations are largely asymptomatic and self-limited, resolving even with continuation of therapy. Clinically apparent hepatotoxicity is rare but has been well described and can be severe and even fatal. The liver injury from itraconazole typically presents 1 to 6 months after starting therapy with symptoms of fatigue and jaundice. The pattern of serum enzyme elevations is typically cholestatic (Case 1), but cases of severe hepatitis with acute liver failure typically have a hepatocellular enzyme pattern (Case 2). Immunoallergic features (rash, fever, eosinophilia) are uncommon as is autoantibody formation. Recovery upon stopping therapy can be delayed for several weeks and generally takes 4 to 10 weeks, although in some cases recovery may be prolonged.</p>
+          <p>Likelihood score: B (likely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Itraconazole.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of clinically apparent hepatotoxicity from itraconazole is unknown; however, it may have some correlation to the ability of itraconazole to alter sterol synthesis and inhibit P450 enzyme activity. Because it is a potent inhibitor of CYP 3A4, it has the potential of causing significant drug-drug interactions leading to increased or decreased plasma levels of other drugs, which can increase toxicity and alter efficacy.</p>
+        </sec>
+        <sec id="Itraconazole.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The severity of the liver injury ranges from mild and transient enzyme elevations to severe acute hepatitis requiring transplantation or death. At least one instance of chronic cholestasis compatible with vanishing bile duct syndrome due to itraconazole has been reported. More typically, improvements begin 1 to 3 weeks after stopping itraconazole and complete recovery is achieved in 6 to 12 weeks. Rechallenge may lead to recurrence and should be avoided. There is little information on cross reactivity of hepatic injury between itraconazole and other antifungal azoles, such as ketoconazole, voriconazole, fluconazole and posaconazole. While a few reports suggest that there is little cross reactivity, other azoles should be started with caution in patients who have suffered clinically apparent hepatotoxicity attributed to itraconazole.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntifungalAgents">Antifungal Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Itraconazole.CASE_REPORTS">
+        <title>CASE REPORTS</title>
+        <sec id="Itraconazole.Case_1._Cholestatic_hepatit">
+          <title>Case 1. Cholestatic hepatitis due to itraconazole.</title>
+          <p>[Modified from: Talwalkar JA, Soetikno RE, Carr-Locke DL, Berg CL. Severe cholestasis related to itraconazole for the treatment of onychomycosis. Am J Gastroenterol 1999; 94: 3632-3. [<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/10606333">PubMed Citation</ext-link>]</p>
+          <p>A 74 year old woman developed atrial fibrillation during the first week of a course of itraconazole for onychomycosis and was found to have mild elevations in serum ALT (111 U/L) and alkaline phosphatase (283 U/L), but normal serum bilirubin (0.5 mg/dL). The atrial fibrillation was treated with verapamil and she returned to normal sinus rhythm; itraconazole was continued. Three weeks later, she developed jaundice and pruritus and itraconazole was stopped. She was jaundiced, but had no fever or rash. At this point, serum bilirubin had risen to approximately 8.5 mg/dL, ALT 350 U/L and Alk P 750 U/L yielding an R ratio of 1.7 (cholestatic). Tests for hepatitis A, B and C were negative as were autoantibodies. Imaging of the liver showed no evidence of biliary obstruction. Serum bilirubin continued to rise for 3 weeks after stopping itraconazole, peaking at 32 mg/dL and then slowly fell into the normal range (Table). Pruritus persisted for two months. Laboratory results became normal 3 months after onset.</p>
+          <sec id="Itraconazole.Key_Points1">
+            <title>Key Points</title>
+            <table-wrap id="Itraconazole.T1" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Itraconazole (100 mg twice daily)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Cholestatic (R=1.7)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">3+ (jaundice and hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">1 week to ALT elevations, 4 weeks to symptoms and jaundice</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">3 months</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">Verapamil</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Itraconazole.Laboratory_Values1">
+            <title>Laboratory Values</title>
+            <table-wrap id="Itraconazole.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Itraconazole.T2_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Itraconazole.T2_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Itraconazole.T2_1_1_1_3" rowspan="1" colspan="1">ALT* (U/L)</th>
+                    <th id="hd_h_Itraconazole.T2_1_1_1_4" rowspan="1" colspan="1">Alk* P (U/L)</th>
+                    <th id="hd_h_Itraconazole.T2_1_1_1_5" rowspan="1" colspan="1">Bilirubin* (mg/dL)</th>
+                    <th id="hd_h_Itraconazole.T2_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_1" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_3" rowspan="1" colspan="1">111</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_4" rowspan="1" colspan="1">283</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_5" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_6" rowspan="1" colspan="1">Symptoms</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_1" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_3" rowspan="1" colspan="1">140</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_4" rowspan="1" colspan="1">350</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_5" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_1 hd_h_Itraconazole.T2_1_1_1_2 hd_h_Itraconazole.T2_1_1_1_3 hd_h_Itraconazole.T2_1_1_1_4 hd_h_Itraconazole.T2_1_1_1_5 hd_h_Itraconazole.T2_1_1_1_6" colspan="6" rowspan="1">Itraconazole therapy discontinued</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_1" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_2" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_3" rowspan="1" colspan="1">350</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_4" rowspan="1" colspan="1">750</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_5" rowspan="1" colspan="1">8.5</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_1" rowspan="1" colspan="1">6.5 weeks</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_2" rowspan="1" colspan="1">2.5 weeks</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_3" rowspan="1" colspan="1">500</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_4" rowspan="1" colspan="1">1050</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_5" rowspan="1" colspan="1">17.0</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_1" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_2" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_3" rowspan="1" colspan="1">725</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_4" rowspan="1" colspan="1">1519</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_5" rowspan="1" colspan="1">32.0</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_1" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_2" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_3" rowspan="1" colspan="1">500</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_4" rowspan="1" colspan="1">1425</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_5" rowspan="1" colspan="1">22.0</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_1" rowspan="1" colspan="1">9 weeks</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_2" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_3" rowspan="1" colspan="1">250</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_4" rowspan="1" colspan="1">800</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_5" rowspan="1" colspan="1">8.5</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_1" rowspan="1" colspan="1">11 weeks</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_2" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_3" rowspan="1" colspan="1">150</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_4" rowspan="1" colspan="1">50</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_5" rowspan="1" colspan="1">4.0</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_1" rowspan="1" colspan="1">14 weeks</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_2" rowspan="1" colspan="1">10 weeks</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_3" rowspan="1" colspan="1">30</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_4" rowspan="1" colspan="1">80</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_5" rowspan="1" colspan="1">1.0</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_1 hd_h_Itraconazole.T2_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;40</bold>
+</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;130</bold>
+</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Itraconazole.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <p>*Values estimated from Figure 1.</p>
+          </sec>
+          <sec id="Itraconazole.Comment1">
+            <title>Comment</title>
+            <p>Very typical case of cholestatic hepatitis due to itraconazole with onset 4 weeks after starting the medication, and persistence of jaundice and pruritus for two months. Serum enzymes and bilirubin levels continued to rise for at least 3 weeks after stopping itraconazole, but then gradually fell into the normal range.</p>
+          </sec>
+        </sec>
+        <sec id="Itraconazole.Case_2._Acute_liver_failure">
+          <title>Case 2. Acute liver failure due to itraconazole.</title>
+          <p>[Modified from: Srebrnik A, Levtov S, Ben-Ami R, Brenner S. Liver failure and transplantation after itraconazole treatment for toenail onychomycosis. J Eur Acad Dermatol Venereol 2005; 19: 205-7. [<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/15752292">PubMed Citation</ext-link>]</p>
+          <p>A 25 year old woman presented with fatigue, jaundice and progressive stupor 3 weeks after completing four 1-week pulse courses of itraconazole (400 mg/day for 1 week every month) for onychomycosis. Blood tests showed marked elevations in serum bilirubin and serum aminotransferase levels and prolongation of the prothrombin time (Table). She was hospitalized and managed in an intensive care unit. Tests for hepatitis A, B and C were negative as were autoantibodies and tests for Wilson disease. A liver biopsy showed massive necrosis and she was transferred to a liver transplant unit where she underwent successful liver transplantation. In follow up her liver tests were normal.</p>
+          <sec id="Itraconazole.Key_Points2">
+            <title>Key Points</title>
+            <table-wrap id="Itraconazole.T3" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Itraconazole (400 mg daily for one week once monthly for 4 months)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Hepatocellular (R=66)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">5+ (acute liver failure requiring emergency liver transplantation)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">3 weeks after completing 4 weekly courses</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">None</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">Thyroxine</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Itraconazole.Laboratory_Values2">
+            <title>Laboratory Values</title>
+            <table-wrap id="Itraconazole.T4" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Itraconazole.T4_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Itraconazole.T4_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Itraconazole.T4_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Itraconazole.T4_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Itraconazole.T4_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Itraconazole.T4_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Itraconazole.T4_1_1_1_1" rowspan="1" colspan="1">15 weeks</td>
+                    <td headers="hd_h_Itraconazole.T4_1_1_1_2" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Itraconazole.T4_1_1_1_3" rowspan="1" colspan="1">2500</td>
+                    <td headers="hd_h_Itraconazole.T4_1_1_1_4" rowspan="1" colspan="1">124</td>
+                    <td headers="hd_h_Itraconazole.T4_1_1_1_5" rowspan="1" colspan="1">15.4</td>
+                    <td headers="hd_h_Itraconazole.T4_1_1_1_6" rowspan="1" colspan="1">INR=1.8</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Itraconazole.T4_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Itraconazole.T4_1_1_1_2" rowspan="1" colspan="1">3.3 weeks</td>
+                    <td headers="hd_h_Itraconazole.T4_1_1_1_3" rowspan="1" colspan="1">2085</td>
+                    <td headers="hd_h_Itraconazole.T4_1_1_1_4" rowspan="1" colspan="1">107</td>
+                    <td headers="hd_h_Itraconazole.T4_1_1_1_5" rowspan="1" colspan="1">21.8</td>
+                    <td headers="hd_h_Itraconazole.T4_1_1_1_6" rowspan="1" colspan="1">INR=2.4</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Itraconazole.T4_1_1_1_1" rowspan="1" colspan="1">16 weeks</td>
+                    <td headers="hd_h_Itraconazole.T4_1_1_1_2" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Itraconazole.T4_1_1_1_3" rowspan="1" colspan="1">648</td>
+                    <td headers="hd_h_Itraconazole.T4_1_1_1_4" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Itraconazole.T4_1_1_1_5" rowspan="1" colspan="1">26.7</td>
+                    <td headers="hd_h_Itraconazole.T4_1_1_1_6" rowspan="1" colspan="1">Hepatic encephalopathy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Itraconazole.T4_1_1_1_1 hd_h_Itraconazole.T4_1_1_1_2 hd_h_Itraconazole.T4_1_1_1_3 hd_h_Itraconazole.T4_1_1_1_4 hd_h_Itraconazole.T4_1_1_1_5 hd_h_Itraconazole.T4_1_1_1_6" colspan="6" rowspan="1">Liver transplantation</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Itraconazole.T4_1_1_1_1 hd_h_Itraconazole.T4_1_1_1_2" colspan="2" rowspan="1">After transplantation</td>
+                    <td headers="hd_h_Itraconazole.T4_1_1_1_3" rowspan="1" colspan="1">59</td>
+                    <td headers="hd_h_Itraconazole.T4_1_1_1_4" rowspan="1" colspan="1">234</td>
+                    <td headers="hd_h_Itraconazole.T4_1_1_1_5" rowspan="1" colspan="1">1.2</td>
+                    <td headers="hd_h_Itraconazole.T4_1_1_1_6" rowspan="1" colspan="1">INR=1.2</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Itraconazole.T4_1_1_1_1 hd_h_Itraconazole.T4_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Itraconazole.T4_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;40</bold>
+</td>
+                    <td headers="hd_h_Itraconazole.T4_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;130</bold>
+</td>
+                    <td headers="hd_h_Itraconazole.T4_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Itraconazole.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Itraconazole.Comment2">
+            <title>Comment</title>
+            <p>The patient had been refused treatment with itraconazole twice before because of serum enzyme abnormalities but the nature of the abnormalities were not investigated. The appearance of liver injury after stopping itraconazole may merely reflect the intermittent dosing used. While intermittent or pulse itraconazole therapy is said to be safer than continuous therapy, there is little comparative data to support this; pulse therapy appears to be as effective and is less expensive and perhaps has improved adherence.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Itraconazole.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Itraconazole.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Itraconazole &#x02013; Generic, Sporanox&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Antifungal Agents</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=itraconazole">COMPLETE LABELING</ext-link>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Itraconazole.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Itraconazole.T5" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Itraconazole.T5_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Itraconazole.T5_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Itraconazole.T5_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Itraconazole.T5_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Itraconazole.T5_1_1_1_1" rowspan="1" colspan="1">Itraconazole</td>
+                <td headers="hd_h_Itraconazole.T5_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135013328">84625-61-6</ext-link>
+</td>
+                <td headers="hd_h_Itraconazole.T5_1_1_1_3" rowspan="1" colspan="1">C35-H38-Cl2-N8-O4</td>
+                <td headers="hd_h_Itraconazole.T5_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="itraconazole.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Image of Itraconazole Chemical Structure</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Itraconazole.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 17 May 2017</p>
+        <ref-list id="Itraconazole.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Itraconazole.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Antifungal agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 609-11.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of antifungal agents published in 1999; mentions that itraconazole has been implicated in 5 cases of clinically apparent liver injury; 3 were cholestatic).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R2">
+            <mixed-citation publication-type="other">Moseley RH. Hepatotoxicity of antimicrobials and antifungal agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 463-81.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of antifungal agents; reports that asymptomatic serum aminotransferase elevations occur in up to 7% of patients on itraconazole; reported cases of liver injury include at least 3 instances of vanishing bile duct syndrome).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R3">
+            <mixed-citation publication-type="other">Bennett JE. Antifungal agents. In, Brunton LL, Chabner KA, Knollman KC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1571-91.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics; itraconazole is a synthetic triazole that has largely replaced ketoconazole, but it is potent inhibitor of CYP 3A4 and has been linked to serious hepatotoxicity).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R4">
+            <mixed-citation publication-type="journal">Van Cauteren H, Lampo A, Vandenberghe J, Vanparys P, Coussement W, De Coster R, Marsboom R. Toxicological profile and safety evaluation of antifungal azole derivatives. Mycoses 1989; 32 Suppl 1: 60-6. <annotation><p><italic toggle="yes">(Review of toxicity of antifungal azoles from Janssen Research Foundation; itraconazole has less drug-drug interaction and effect on P450 activity in animal models than ketoconazole or fluconazole).</italic></p></annotation><pub-id pub-id-type="pmid">2561186</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R5">
+            <mixed-citation publication-type="journal">Tucker RM, Haq Y, Denning DW, Stevens DA. Adverse events associated with itraconazole in 189 patients on chronic therapy. J Antimicrob Chemother 1990; 26: 561-6. <annotation><p><italic toggle="yes">(Between 1984 and 1989, 189 patients were treated with itraconazole chronically with various fungal infections and monitored for side effects; most common were nausea [10%], serum aminotransferase elevations [5%, all &#x0003c;3 times normal and without jaundice], rash [2%] and diarrhea).</italic></p></annotation><pub-id pub-id-type="pmid">2174854</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R6">
+            <mixed-citation publication-type="journal">Lavrijsen AP, Balmus KJ, Nugteren-Huying WM, Roldaan AC, van't Wout JW, Stricker BH. Hepatic injury associated with itraconazole. Lancet 1992; 340: 251-2. <annotation><p><italic toggle="yes">(2 women and 1 man, ages 62, 75 and 57 years, developed fatigue, jaundice or fever after 5, 6 and 5 weeks of itraconazole therapy [bilirubin 2.1, 7.6 and normal, ALT 227, 106 and 272 U/L, Alk P 593, 716 and 280 U/L], all 3 resolving within 8-10 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">1353183</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R7">
+            <mixed-citation publication-type="journal">Hann SK, Kim JB, Im S, Han KH, Park YK. Itraconazole-induced acute hepatitis. Br J Dermatol 1993; 129: 500-1. <annotation><p><italic toggle="yes">(51 year old woman developed jaundice after 116 days of itraconazole therapy [bilirubin 13.1 mg/dL, ALT 844 U/L, Alk P 214 U/L], with slow recovery on discontinuation).</italic></p></annotation><pub-id pub-id-type="pmid">8217769</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R8">
+            <mixed-citation publication-type="journal">Hay RJ. Risk/benefit ratio of modern antifungal therapy: focus on hepatic reactions. J Am Acad Dermatol 1993; 29: S50-4. <annotation><p><italic toggle="yes">(Review article on hepatotoxicity of antifungal agents, griseofulvin, ketoconazole, fluconazole, itraconazole and terbinafine; does not recommend routine ALT monitoring, but stresses need to discontinue agent for hepatic injury with symptoms).</italic></p></annotation><pub-id pub-id-type="pmid">8315062</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R9">
+            <mixed-citation publication-type="journal">Jacobs AE. [Liver damage during administration of itraconazole(Trisporal)]. Ned Tijdschr Geneeskd 1993; 137: 97-8. Dutch. <pub-id pub-id-type="pmid">8380628</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R10">
+            <mixed-citation publication-type="journal">Lavrijsen AP, Balmus KJ, Nugteren-Huying WM, Roldaan AC, van 't Wout JW, Stricker BH. [Liver damage during administration of itraconazole (Trisporal)]. Ned Tijdschr Geneeskd 1993; 137: 38-41. Dutch. <pub-id pub-id-type="pmid">8380490</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R11">
+            <mixed-citation publication-type="journal">Gallardo-Quesada S, Luelmo-Aguilar J, Guanyabens-Calvet C. Hepatotoxicity associated with itraconazole. Int J Derm 1995; 34: 589. <annotation><p><italic toggle="yes">(Patient of unstated sex and age developed fatigue and fever 5 days after starting itraconazole [bilirubin 2.3 mg/dL, ALT 318 U/L, Alk P 430 U/L], symptoms resolving rapidly and laboratory tests normal 6 weeks later).</italic></p></annotation><pub-id pub-id-type="pmid">7591446</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R12">
+            <mixed-citation publication-type="journal">Haneke E, Abeck D, Ring J. Safety and efficacy of intermittent therapy with itraconazole in finger- and toenail onychomycosis: a multicentre trial. Mycoses. 1998; 41: 521-7. <annotation><p><italic toggle="yes">(Among 683 patients with onychomycosis given intermittent 1 week itraconazole courses monthly for 3 months, only one developed ALT elevations [91 U/L], which apparently resolved spontaneously).</italic></p></annotation><pub-id pub-id-type="pmid">9919897</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R13">
+            <mixed-citation publication-type="journal">Nolting SK, Gupta A, Doncker PD, Jacko ML, Moskovitz BL. Continuous itraconazole treatment for onchomycosis and dermatomycosis: an overview of safety. Eur J Dermatol 1999; 9: 540-3. <annotation><p><italic toggle="yes">(Itraconazole has been used to treat more than 34 million patients; ALT elevations occur in 1.5% of patients on itraconazole and 0.7% on placebo, but every 4 week monitoring is recommended; estimated frequency of symptomatic hepatitis is 1:500,000 patients; intermittent regimens are as effective and may have fewer side effects, but few data to support this).</italic></p></annotation><pub-id pub-id-type="pmid">10523732</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R14">
+            <mixed-citation publication-type="journal">Talwalkar JA, Soetikno RE, Carr-Locke DL, Berg CL. Severe cholestasis related to itraconazole for the treatment of onychomycosis. Am J Gastroenterol 1999; 94: 3632-3. <annotation><p><italic toggle="yes">(74 year old woman developed abnormal serum enzymes after 1 week and jaundice and pruritus after 4 weeks of itraconazole therapy, bilirubin rising to 32 mg/dL [peak ALT 725 U/L; Alk P 1519 U/L] and pruritus persisting for two months and resolving slowly: Case 1).</italic></p></annotation><pub-id pub-id-type="pmid">10606333</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R15">
+            <mixed-citation publication-type="journal">Persat F, Schwartzbrod PE, Troncy J, Timour Q, Maul A, Piens A, Picot S. Abnormalities in liver enzymes during simultaneous therapy with itraconazole and amphotericin B in leukaemic patients. J Antimicrob Chemother 2000; 45: 928-9. <annotation><p><italic toggle="yes">(Experience in treating 20 patients with itraconazole [12 also on amphotericin] for 44-495 days; ALT elevations occurred in 11 of 12 who received combination therapy, levels 2-10 times normal, all resolving, some with stopping amphotericin alone).</italic></p></annotation><pub-id pub-id-type="pmid">10837458</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R16">
+            <mixed-citation publication-type="journal">Adriaenssens B, Roskams T, Steger P, Van Steenbergen W. Hepatotoxicity related to itraconazole: report of three cases. Acta Clin Belg 2001; 56: 364-9. <annotation><p><italic toggle="yes">(2 women and 1 man, ages 75, 77 and 59 years, developed jaundice 2-6 months after starting itraconazole [bilirubin 10, 18, and 5 mg/dL, ALT 177, 99 and 257 U/L, Alk P 1211, 1440 and 1177 U/L], slow resolution upon stopping, one with chronic cholestasis and ductopenia).</italic></p></annotation><pub-id pub-id-type="pmid">11881322</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R17">
+            <mixed-citation publication-type="journal">Wolf R, Wolf D, Kuperman S. Focal nodular hyperplasia of the liver after itraconazole treatment. J Clin Gastroenterol 2001; 33: 418-20. <annotation><p><italic toggle="yes">(38 year old woman found to have 2.1 cm hepatic mass diagnosed as focal nodular hyperplasia 2 months after stopping a 4 month course of intraconazole; not present on ultrasound done one year earlier).</italic></p></annotation><pub-id pub-id-type="pmid">11606862</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R18">
+            <mixed-citation publication-type="journal">Gupta A, Lambert J, Revuz J, Shear N. Update on the safety of itraconazole pulse therapy in onychomycosis and dermatomycosis. Eur J Dermatol 2001; 11: 6-10. <annotation><p><italic toggle="yes">(Intraconazole has been used for 15 years in more than 50 million patients; serum enzyme elevations occur in 1-5% of patients on continuous itraconazole therapy and 1.7-2% on pulse therapy; symptomatic hepatotoxicity is rare; ALT monitoring recommended for continuous but not pulse therapy).</italic></p></annotation><pub-id pub-id-type="pmid">11174129</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R19">
+            <mixed-citation publication-type="journal">Gupta A, Chwetzoff E, Del Rosso J, Baran R. Hepatic safety of itraconazole. J Cutan Med Surg 2002; 6: 210-3. <annotation><p><italic toggle="yes">(Analysis of 24 clinical trials in more than 3000 patients from Janssen, 15 using continuous and 11 pulse regimens; ALT elevations greater than twice normal [2 occasions] developed in 1% on pulse and 1.5% on continuous itraconazole and 1% on placebo).</italic></p></annotation><pub-id pub-id-type="pmid">11951124</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R20">
+            <mixed-citation publication-type="journal">Bradbury BD, Jick SS. Itraconazole and fluconazole and certain rare, serious adverse events. Pharmacotherapy 2002; 22: 697-700. <annotation><p><italic toggle="yes">(Among 16,001 users of itraconazole and 34,220 users of fluconazole in UK general practice database, only two cases of liver injury were identified, both were anicteric and self-limited; &#x0201c;Itraconazole and fluconazole do not commonly cause rare, serious adverse events affecting the liver...&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">12066960</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R21">
+            <mixed-citation publication-type="journal">Legras A, Bergemer-Fouquet AM, Jonville-Bera AP. Fatal hepatitis with leflunomide and itraconazole. Am J Med 2002; 113: 352-3. <annotation><p><italic toggle="yes">(68 year old woman with rheumatoid arthritis on leflunomide for 6 and itraconazole for 2 months developed acute liver failure [bilirubin not given, ALT 1111 rising to 5940 U/L, Alk P 62 U/L, prothrombin index 43%] leading to death; itraconazole may have altered leflunomide plasma levels and heightened its toxicity).</italic></p></annotation><pub-id pub-id-type="pmid">12361833</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R22">
+            <mixed-citation publication-type="journal">Jim&#x000e9;nez-S&#x000e1;enz M, Villar-Rodr&#x000ed;guez JL, del Carmen Mart&#x000ed;nez-S&#x000e1;nchez M, Rebllo-Bernardez J, Carmona-Soria I, Herrerias-Esteban JM, Herrerias-Gutierrez JM. Itraconazole-induced acute hepatitis in an agricultural worker: susceptibility or drug interaction? J Clin Gastroenterol 2004; 38: 380-2. <annotation><p><italic toggle="yes">(39 year old man developed jaundice 8 weeks after a 3 day course of itraconazole and 4 weeks after exposure to herbicides [atrazine and simazine] [bilirubin 8.8 rising to 32.0 mg/dL, ALT 2426 U/L, Alk P 225 U/L], recovering with a course of prednisone).</italic></p></annotation><pub-id pub-id-type="pmid">15087702</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R23">
+            <mixed-citation publication-type="journal">Wingfield AB, Fernandez-Obregon AC, Wignall FS, Greer DL. Treatment of tinea imbricate: a randomized clinical trial using griseofulvin, terbinafine, itraconazole and fluconazole. Br J Dermatol 2004; 150: 119-26. <annotation><p><italic toggle="yes">(Randomized trial of four antifungals for 4 weeks for tinea imbricate in 86 patients in New Guinea; griseofulvin and terbinafine were effective; itraconazole and fluconazole were not; only one patient had ALT elevation [3 fold: terbinafine]).</italic></p></annotation><pub-id pub-id-type="pmid">14746625</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R24">
+            <mixed-citation publication-type="journal">Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl 2004; 10: 1018-23. <annotation><p><italic toggle="yes">(Among ~50,000 liver transplants done in the United States between 1990 and 2002, 137 [0.2%] were done for idiosyncratic drug induced acute liver failure, of which 6 were attributed to ketoconazole and 1 to itraconazole).</italic></p></annotation><pub-id pub-id-type="pmid">15390328</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R25">
+            <mixed-citation publication-type="journal">Fischer MA, Winkelmayer WC, Rubin RH, Avorn J. The hepatotoxicity of antifungal medications in bone marrow transplant recipients. Clin Infect Dis 2005; 41: 301-7. <annotation><p><italic toggle="yes">(Among 438 patients undergoing bone marrow transplantation, 123 developed ALT or AST above 3 times ULN; factors associated with significant increases were liposomal amphotericin [Odds Ratio=3.8] and fluconazole [2.6], but not standard amphotericin [2.0]).</italic></p></annotation><pub-id pub-id-type="pmid">16007524</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R26">
+            <mixed-citation publication-type="journal">Wingard J, Leather H. Hepatotoxicity associated with antifungal therapy after bone marrow transplantation. Clin Infect Dis 2005; 41: 308-10. <annotation><p><italic toggle="yes">(Editorial accompanying article by Fischer [2205] discussing difficulty of diagnosis of drug induced liver disease in patients after bone marrow transplant).</italic></p></annotation><pub-id pub-id-type="pmid">16007525</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R27">
+            <mixed-citation publication-type="journal">Song J, Deresinski S. Hepatotoxicity of antifungal agents. Curr Opin Investig Drugs 2005; 6: 170-7. <annotation><p><italic toggle="yes">(Extensive review of hepatotoxicity from antifungals; itraconazole causes ALT elevations in 2-3% of patients but clinically apparent liver injury is rare, although there have been at least 24 cases of liver failure due to itraconazole reported to the FDA).</italic></p></annotation><pub-id pub-id-type="pmid">15751740</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R28">
+            <mixed-citation publication-type="journal">Srebrnik A, Levtov S, Ben-Ami R, Brenner S. Liver failure and transplantation after itraconazole treatment for toenail onychomycosis. J Eur Acad Dermatol Venereol 2005; 19: 205-7. <annotation><p><italic toggle="yes">(Mentions that FDA has received reports of 24 cases of drug induced liver injury and 11 deaths due to itraconazole; Case of 25 year old who developed jaundice and stupor 3 weeks after stopping itraconazole [1 week every month for 4 months] with bilirubin 15.4 mg/L, ALT 2500 U/L and Alk P 124 U/L, and progressive hepatic failure, requiring liver transplantation: Case 2).</italic></p></annotation><pub-id pub-id-type="pmid">15752292</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R29">
+            <mixed-citation publication-type="journal">Cruciani M, Mengoli C, Malena M, Bosco O, Serpelloni G, Grossi P. Antifungal prophylaxis in liver transplant patients: a systematic review and meta-analysis. Liver Transpl 2006; 12: 850-8. <annotation><p><italic toggle="yes">(Meta analysis found 6 studies with total of 698 patients comparing fluconazole, itraconazole or amphotericin vs placebo for prevention of fungal infections after liver transplantation; side effects were more with prophylaxis, but liver toxicity was not discussed).</italic></p></annotation><pub-id pub-id-type="pmid">16628697</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R30">
+            <mixed-citation publication-type="journal">Girois SB, Chapuis F, Decullier E, Revol BG. Adverse effects of antifungal therapies in invasive fungal infections: review and meta-analysis. Eur J Clin Microbiol Infect Dis 2006; 25: 138-49. <annotation><p><italic toggle="yes">(Systematic review of adverse effects of antifungal therapy in 54 studies with 9228 patients; hepatotoxicity reported in 14.1-18.6% on amphotericin, 1.9% on fluconazole and 31.6% on itraconazole; but great variation in definitions and intensity of monitoring).</italic></p></annotation><pub-id pub-id-type="pmid">16622909</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R31">
+            <mixed-citation publication-type="journal">Wang A, Zhang Y, He L, Shen Z, Liao W, Han M, Ruoyu L, et al. Clinical study on the efficacy and safety of intravenous itraconazole infusion for the treatment of invasive fungal infection in China. Jpn J Infect Dis 2006; 59: 370-6. <annotation><p><italic toggle="yes">(Among 156 patients with severe fungal infections treated with itraconazole [intravenously for 2 weeks and orally for 4 weeks], liver enzymes were elevated in 10.9% and bilirubin in 8.3%).</italic></p></annotation><pub-id pub-id-type="pmid">17186955</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R32">
+            <mixed-citation publication-type="journal">Zhu LP, Yang FF, Weng XH, et al. [Hepatic safety of itraconazole intravenous solution in treatment of invasive fungal infection]. Zhonghua Yi Xue Za Zhi 2006; 86: 2028-32. <pub-id pub-id-type="pmid">17064545</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R33">
+            <mixed-citation publication-type="journal">Tuccori M, Bresci F, Guidi B, Blandizzi C, Del Tacca M, Di Paolo M. Fatal hepatitis after long-term pulse itraconazole treatment for onychomycosis. Ann Pharmacother 2008; 42: 1112-7. <annotation><p><italic toggle="yes">(61 year old woman developed jaundice 1 week after 6 pulse courses of itraconazole [bilirubin 21 mg/dL, ALT 3330 U/L, GGT 230 U/L] and progressed to acute liver failure, undergoing transplantation 17 days after presentation; graft showed massive necrosis; died of complications two months posttransplant).</italic></p></annotation><pub-id pub-id-type="pmid">18523232</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R34">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease collected from 2004 to 2008 in the US, two cases were attributed to fluconazole, one to ketoconazole, one to itraconazole, none to voriconazole).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R35">
+            <mixed-citation publication-type="journal">Cadena J, Levine DJ, Angel LF, Maxwell PR, Brady R, Sanchez JF, Michalek JE, et al. Antifungal prophylaxis with voriconazole or itraconazole in lung transplant recipients: hepatotoxicity and effectiveness. Am J Transpl 2009; 9: 2085-91. <annotation><p><italic toggle="yes">(Retrospective analysis of safety of prophylaxis with voriconazole and inhaled amphotericin B [35 patients] vs itraconazole [32] in lung transplant recipients; no itraconazole treated patient developed liver injury compared to 12 [34%] in the vorconazole group).</italic></p></annotation><pub-id pub-id-type="pmid">19645709</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R36">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E, Davidsdottir L. The long-term follow-up after idiosyncratic drug-induced liver injury with jaundice. J Hepatol 2009; 50: 511-7. <annotation><p><italic toggle="yes">(In long term follow up of 685 patients with drug induced liver injury in Sweden, 8 were found to have developed cirrhosis, 5 of whom died including a 34 year old man with fluconazole hepatotoxicity who died 4 years later of complications of cirrhosis, possibly alcoholic).</italic></p></annotation><pub-id pub-id-type="pmid">19155082</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R37">
+            <mixed-citation publication-type="journal">Antifungal drugs. Treat Guidel Med Lett 2009; 7: 95-102. (Concise summary of therapy of fungal infections with recommendations on agents, dosage and duration of treatment and safety; itraconazole has a broader spectrum of activity than fluconazole; Stevens-Johnson syndrome and serious hepatic toxicity can occur).<pub-id pub-id-type="pmid">19940816</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R38">
+            <mixed-citation publication-type="journal">Wang JL, Chang CH, Young-Xu Y, Chan KA. Systematic review and meta-analysis of the tolerability and hepatotoxicity of antifungals in empirical and definitive therapy for invasive fungal infection. Antimicrob Agents Chemother 2010; 54: 2409-19. <annotation><p><italic toggle="yes">(Systematic review of 39 controlled trials in more than 8000 patients, found liver enzyme elevations in 18.9% of patients on itraconazole, but only 1.5% stopped therapy for this reason; rate for voriconazole was 19.7%, fluconazole 10%).</italic></p></annotation><pub-id pub-id-type="pmid">20308378</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R39">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, of which 6 were attributed to antifungal agents, including 1 to itraconazole).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R40">
+            <mixed-citation publication-type="journal">Ferrajolo C, Capuano A, Verhamme KM, Schuemie M, Rossi F, Stricker BH, Sturkenboom MC. Drug-induced hepatic injury in children: a case/non-case study of suspected adverse drug reactions in VigiBase. Br J Clin Pharmacol 2010; 70: 721-8. <annotation><p><italic toggle="yes">(Worldwide pharmacovigilance database contained 9036 hepatic adverse drug reactions in children, voriconazole ranked 21st with 52 cases [odds ratio 10.7] and fluconazole 30th with 42 cases [odds ratio 8.6]; intraconazole was not listed in the top 41 causes).</italic></p></annotation><pub-id pub-id-type="pmid">21039766</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R41">
+            <mixed-citation publication-type="journal">Yoshikado T, Takada T, Yamamoto T, Yamaji H, Ito K, Santa T, Yokota H, et al. Itraconazole-induced cholestasis: involvement of the inhibition of bile canalicular phospholipid translocator MDR3/ABCB4. Mol Pharmacol 2011; 79: 241-50. <annotation><p><italic toggle="yes">(2 women and 1 man, ages 36 to 67 years, developed liver test abnormalities 2 to 62 days after starting itraconazole [bilirubin 0.8, 1.4 and 4.3</italic></p></annotation><annotation><p><italic toggle="yes">mg/dL, ALT 81, 874 and 269 U/L, Alk P 312, 539 and 178 U/L], resolving upon stopping and two with recurrence on restarting; two had high drug levels and in vitro results suggested inhibition of MDR3 function by itraconazole).</italic></p></annotation><pub-id pub-id-type="pmid">21056966</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R42">
+            <mixed-citation publication-type="journal">Lou HY, Fang CL, Fang SU, Tiong C, Cheng YC, Chang CC. Hepatic failure related to itraconazole use successfully treated by corticosteroids. Hepat Mon 2011; 11: 843-6. <annotation><p><italic toggle="yes">(46 year old woman developed jaundice 5 weeks after starting itraconazole for onychomycosis [bilirubin 4.4 rising to 12.8 mg/dL, ALT 3789 U/L, Alk P not given, INR 1.4 rising to 2.8], later developing erythema multiforme and clinical worsening, but eventually improving after initiation of corticosteroid therapy).</italic></p></annotation><pub-id pub-id-type="pmid">22224084</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R43">
+            <mixed-citation publication-type="journal">Antifungal drugs. Treat Guidel Med Lett 2012;10: 61-8. <annotation><p><italic toggle="yes">(Concise summary of therapy of fungal infections with recommendations on agents, dosage and duration of treatment and safety; the most common side effects of itraconazole include nausea, diarrhea, vomiting and rash. "Stevens-Johnson syndrome and serious hepatic toxicity can occur").</italic></p></annotation><pub-id pub-id-type="pmid">22825657</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R44">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the General population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none were attributed to itraconazole or other antifungal agents).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R45">
+            <mixed-citation publication-type="journal">Kao WY, Su CW, Huang YS, Chou YC, Chen YC, Chung WH, Hou MC, et al. Risk of oral anti-fungal agent-induced liver injury in Taiwanese. Br J Clin Pharmacol 2014; 77: 180-9. <annotation><p><italic toggle="yes">(Analysis of Taiwan National Health Insurance database from 2002-2008 identified 52 patients with drug induced liver injury among 90,847 users of oral antifungal agents, 3 of which [6%] were attributed to itraconazole [3.6 per 10,000 persons exposed], the rate increasing with increasing duration of therapy; none of 6 fatal cases were due to itraconazole).</italic></p></annotation><pub-id pub-id-type="pmid">23750489</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R46">
+            <mixed-citation publication-type="journal">Raschi E, Poluzzi E, Koci A, Caraceni P, Ponti FD. Assessing liver injury associated with antimycotics: Concise literature review and clues from data mining of the FAERS database. World J Hepatol 2014; 6: 601-12. <annotation><p><italic toggle="yes">(Analysis of the FDA database on adverse reactions [2004 to 2011] identified 68,115 reports of liver injury including 1964 due to antifungal agents, the most common being terbinafine [422], fluconazole [412], voriconazole [361], amphotericin B [265], itraconazole [182], ketaconazole [94] and posaconazole [70]; among 112 cases with acute liver failure causes included fluconazole [31], terbinafine [27], voriconazole [19], amphotericin [14], ketoconazole [6], posaconazole [5], and itraconazole [4]).</italic></p></annotation><pub-id pub-id-type="pmid">25232453</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R47">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 14 cases [1.6%] were attributed to antifungal agents including 6 triazoles [3 with jaundice and 2 hospitalized, no deaths], 4 due to fluconazole, 1 ketoconazole and 1 voriconazole but none were attributed to itraconazole).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R48">
+            <mixed-citation publication-type="journal">Pettit NN, Pisano J, Weber S, Ridgway J. Hepatic failure in a patient receiving itraconazole for pulmonary histoplasmosis - case report and literature review. Am J Ther 2016; 23: e1215-21. (65 year old woman developed acute liver failure with mental confusion 6 months after starting itraconazole for pulmonary histoplasmosis [bilirubin 1.9 rising to 3.5 mg/dL, ALT 683 to 3695 U/L, Alk P 69 U/L, CPK 7685 U/L, ammonia 118 <italic toggle="yes">&#x003bc;g</italic><annotation><p><italic toggle="yes">/dL, INR 2.0], resolving rapidly upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">26291595</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R49">
+            <mixed-citation publication-type="journal">Lo Re V 3rd, Carbonari DM, Lewis JD, Forde KA, Goldberg DS, Reddy KR, Haynes K, et al. Oral azole antifungal medications and risk of acute liver injury, overall and by chronic liver disease status. Am J Med 2016; 129: 283-91. <annotation><p><italic toggle="yes"> (Among 1653 persons treated with oral itraconazole analyzed from a Kaiser Permanente clinical database, the incidence of ALT or AST elevations above 200 U/L was 2.5% and severe acute liver injury 0%; rates that were similar to those for ketoconazole and fluconazole, but less than for posaconazole and vorconazole).</italic></p></annotation><pub-id pub-id-type="pmid">26597673</pub-id></mixed-citation>
+          </ref>
+          <ref id="Itraconazole.R50">
+            <mixed-citation publication-type="journal">Kyriakidis I, Tragiannidis A, Munchen S, Groll AH. Clinical hepatotoxicity associated with antifungal agents. Expert Opin Drug Saf 2017; 16: 149-65. <annotation><p><italic toggle="yes">(Review of the hepatotoxicity of antifungal agents states that all antifungal agents may cause hepatic toxicity and discusses fluconazole, itraconazole, voriconazole, posaconazole and isavuconazole, but not ketoconazole).</italic></p></annotation><pub-id pub-id-type="pmid">27927037</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Itraconazole.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(itraconazole)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%222010/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Itraconazole: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=itraconazole">Trials on Itraconazole: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

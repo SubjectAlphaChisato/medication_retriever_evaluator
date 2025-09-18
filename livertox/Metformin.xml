@@ -1,0 +1,1115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Metformin" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Metformin</book-part-id>
+      <title-group>
+        <title>Metformin</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>21</day>
+          <month>1</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Metaxalone" document-type="chapter">Metaxalone</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Methadone" document-type="chapter">Methadone</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Metformin.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Metformin.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Metformin is a first line agent for the treatment of type 2 diabetes that can be used alone or in combination with sulfonylureas, thiazolidinediones, incretin-based drugs, sodium glucose cotransporter-2 inhibitors, or other hypoglycemic agents. Metformin has not been linked to serum enzyme elevations during therapy and is an exceeding rare cause of idiosyncratic clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Metformin.Background">
+          <title>Background</title>
+          <p>Metformin (met for' min) is a biguanine and acts as an insulin sensitizing agent, probably through activation of adenosine monophosphate dependent (AMP) kinase in liver and muscle tissue. Metformin is often associated with weight loss making it a preferred, first line agent for management of overweight patients with type 2 diabetes. Initial concerns about the possibility that metformin (like the related biguanine phenformin) could induce lactic acidosis have been largely resolved, although the agent is contraindicated in patients with renal dysfunction because of this reason and should be used with caution in patients with significant liver disease. Metformin was approved for use in the United States in 1995 and is currently one of the most commonly used drugs for the therapy of diabetes, with more than 30 million prescriptions filled in the United States yearly. Metformin is available in many generic forms in tablets of 500, 850 or 1000 mg, the recommended regimen being to start with 500 or 850 mg once daily and increase based upon tolerance to 1000 to 2550 mg daily taken in two divided doses. Commercial formulations include Glucophage, Glumetza, Fortamet and Riomet. Metformin is also available in extended release formulations and in combinations with sulfonylureas such as glipizide (Metaglip) or glyburide (Glucovance), DDP-4 inhibitors such as alogliptin (Kazano), linagliptin (Jentadueto), saxagliptin (Kombiglyze) and sitagliptin (Janumet), as well as thiazolidinediones such as pioglitazone (Actoplus) and rosiglitazone (Avandamet). Metformin is generally well tolerated but side effects can include diarrhea, gastrointestinal upset, abdominal pain, nausea, metallic taste, weakness, headache, dizziness and rash. Rare but potentially severe adverse events include lactic acidosis, hypoglycemia, dehydration and hypersensitivity reactions.</p>
+        </sec>
+        <sec id="Metformin.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Minor enzyme elevations have been reported to occur during metformin therapy in less than 1% of patients. Indeed, metformin may actually lower elevated aminotransferase levels in patients with fatty liver disease. Clinically apparent liver injury from metformin is very rare, fewer than a dozen cases having been described in the literature despite widespread use of this agent for several decades. The liver injury usually appears after 1 to 8 weeks, typically with symptoms of weakness and fatigue followed by jaundice. Various combinations of hepatocellular and cholestatic injury have been described, and many have been mixed. Allergic manifestations are not typical but rash, fever and eosinophilia have been described. Autoantibody formation is also not typical. Because this agent is usually given in combination with other hypoglycemic agents, many of which also cause liver injury, it can be difficult to establish whether the injury is due to metformin or another agent. The timing of injury is perhaps most characteristic, the injury arising soon after the agent is started and not during long term therapy. Recovery is usually rapid after metformin is stopped.</p>
+          <p>Likelihood score: B (rare but well documented cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Metformin.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of liver injury due to metformin is unknown. Metformin may actually be beneficial for some forms of liver disease, such as nonalcoholic steatohepatitis and need not be avoided in patients with mild, preexisting serum enzyme abnormalities. Acute liver injury from metformin may have a metabolic basis, arising after weeks to months of therapy. Rechallenge can lead to recurrence, but also requires weeks to months of therapy before injury reappears.</p>
+        </sec>
+        <sec id="Metformin.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The liver injury from metformin usually resolves rapidly once the agent is stopped. Chronic injury has not been described. No convincing cases of fulminant hepatic failure from metformin have been reported. In cases in which multiple hypoglycemic agents were being used when the liver injury appears, rechallenge with the agent least likely associated with the injury is appropriate. There is no cross reactivity in hepatotoxicity with other antidiabetic medications.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="Antidiabetic" document-type="chapter">Antidiabetic Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Metformin.CASE_REPORTS">
+        <title>CASE REPORTS</title>
+        <sec id="Metformin.Case_1_Acute_hepatitis_due_to">
+          <title>Case 1. Acute hepatitis due to metformin.(<xref ref-type="bibr" rid="Metformin.REF.1">1</xref>)</title>
+          <p>A 67 year old woman with diabetes was started on metformin (500 mg twice daily) and developed fatigue, weakness and jaundice five weeks later. She had no history of liver disease or risk factors for viral hepatitis and did not drink alcohol. She had coronary artery disease and medications taken chronically included aspirin, isosorbide mononitrate, diltiazem and acarbose. On admission, 6 weeks after starting metformin, she had a total bilirubin of 4.8 mg/dL (Table). Tests for hepatitis A, B and C were negative. She had antinuclear antibodies (1:320). An abdominal ultrasound and CT scan were normal. Liver biopsy showed acute inflammation. Metformin and acarbose were withdrawn and gliclazide started. The jaundice slowly resolved over the next three months, but metformin was subsequently restarted, and jaundice reappeared 3 months later. Metformin was again withdrawn and her liver injury improved slowly.</p>
+          <sec id="Metformin.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Metformin.Tc" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Metformin.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Metformin.Tc_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Metformin (500 mg twice daily)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Metformin.Tc_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Metformin.Tc_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Hepatocellular (R=26)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Metformin.Tc_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Metformin.Tc_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">3+ (hospitalization for jaundice)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Metformin.Tc_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Metformin.Tc_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">5 weeks</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Metformin.Tc_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Metformin.Tc_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">Complete within 2 months</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Metformin.Tc_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Metformin.Tc_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">Acarbose, diltiazem, aspirin, isosorbide mononitrate</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Metformin.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Metformin.Td" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Metformin.Td_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Starting</th>
+                    <th id="hd_h_Metformin.Td_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Stopping</th>
+                    <th id="hd_h_Metformin.Td_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT*<break/>(U/L)</th>
+                    <th id="hd_h_Metformin.Td_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Alk P<break/>(U/L)</th>
+                    <th id="hd_h_Metformin.Td_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin*<break/>(mg/dL)</th>
+                    <th id="hd_h_Metformin.Td_1_1_1_6" valign="top" align="center" scope="col" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Metformin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">905</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">121</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">4.8</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">ANA: 1:320</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Metformin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">960</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Metformin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">4.5</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Liver biopsy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Metformin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">1160</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Metformin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">3.0</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Metformin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">9 weeks</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">1080</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Metformin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">3.0</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Metformin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">3 months</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">280</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Metformin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">4.0</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Metformin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">4 months</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">10 weeks</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">120</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Metformin.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Metformin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Metformin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Metformin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">12 weeks</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">40</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Metformin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.0</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Metformin.Td_1_1_1_1 hd_h_Metformin.Td_1_1_1_2 hd_h_Metformin.Td_1_1_1_3 hd_h_Metformin.Td_1_1_1_4 hd_h_Metformin.Td_1_1_1_5 hd_h_Metformin.Td_1_1_1_6" colspan="6" valign="top" align="center" scope="col" rowspan="1">Metformin restarted approximately 4 months later</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Metformin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">12 weeks</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">880</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Metformin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">3.0</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Metformin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">13 weeks</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">1240</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Metformin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">2.5</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">ANA still present</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Metformin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">14 weeks</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">2</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">1120</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Metformin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">2.2</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Metformin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">15 weeks</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">3</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">920</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Metformin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">2.1</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Metformin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">4 months</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">4</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">800</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Metformin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">2.5</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Metformin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">5 months</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">9</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">480</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Metformin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.0</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Metformin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">13</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">40</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Metformin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.0</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Metformin.Td_1_1_1_1 hd_h_Metformin.Td_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;40</bold>
+</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;130</bold>
+</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Metformin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+              <table-wrap-foot>
+                <fn id="Metformin.TF.d.1">
+                  <label>* </label>
+                  <p>Values of ALT and bilirubin were estimated from the figure and converted from times upper limit of normal to absolute values based upon normal values provided.</p>
+                </fn>
+              </table-wrap-foot>
+            </table-wrap>
+          </sec>
+          <sec id="Metformin.Comment">
+            <title>Comment</title>
+            <p>This patient developed an acute hepatitis-like illness with mild jaundice after 5 weeks of therapy with metformin which was somewhat slow to resolve. Upon rechallenge, there was a recurrence of the liver injury, but only after metformin had been given for several months. Nevertheless, the pattern and subsequent course of the liver injury was similar to the original episode making it likely that metformin was the cause of the injury. While most causes of liver injury were excluded (hepatitis A, B and C, cholecystitis), the presence of a strongly positive ANA raises the possibility that the patient had autoimmune hepatitis with an acute, fluctuating onset and course. The liver biopsy apparently did not suggest autoimmune hepatitis, but this possibility can be excluded only by further follow up. In assessing hepatotoxicity from commonly used medications such as metformin, the possibility of an unusual presentation of a common liver disease must always be considered.</p>
+          </sec>
+        </sec>
+        <sec id="Metformin.Case_2_Acute_hepatitislike_inj">
+          <title>Case 2. Acute hepatitis-like injury due to metformin.(<xref ref-type="bibr" rid="Metformin.REF.2">2</xref>)</title>
+          <p>A 73 year old Japanese woman with poorly controlled diabetes, despite therapy with a sulfonylurea and pioglitazone, was started on metformin (500 mg twice daily) and developed fatigue, weakness and jaundice 3 weeks later. She was known to have had normal liver tests before starting metformin. On admission, laboratory testing showed a total bilirubin of 6.5 mg/dL and a hepatocellular pattern of serum enzyme elevations (Table). All oral antidiabetic agents were stopped and she was managed on insulin. Tests for hepatitis B and C infection were negative as were autoantibodies. Ultrasound, CT and ERCP were unremarkable. Her serum enzymes improved rapidly once metformin was stopped and were normal 7 weeks later.</p>
+          <sec id="Metformin.Key_Points_1">
+            <title>Key Points</title>
+            <table-wrap id="Metformin.Te" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Metformin.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Metformin.Te_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Metformin (500 mg twice daily)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Metformin.Te_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Metformin.Te_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Hepatocellular (R=21)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Metformin.Te_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Metformin.Te_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">3+ (hospitalization for jaundice)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Metformin.Te_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Metformin.Te_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">3 weeks</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Metformin.Te_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Metformin.Te_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">Complete within 2 months</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Metformin.Te_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Metformin.Te_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">Nateglinide and pioglitazone for 6 months</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Metformin.Laboratory_Values_1">
+            <title>Laboratory Values</title>
+            <table-wrap id="Metformin.Tf" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Metformin.Tf_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Starting</th>
+                    <th id="hd_h_Metformin.Tf_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Stopping</th>
+                    <th id="hd_h_Metformin.Tf_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT<break/>(U/L)</th>
+                    <th id="hd_h_Metformin.Tf_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Alk P<break/>(U/L)</th>
+                    <th id="hd_h_Metformin.Tf_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                    <th id="hd_h_Metformin.Tf_1_1_1_6" valign="top" align="center" scope="col" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">16</td>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">337</td>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.7</td>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">772</td>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">635</td>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">6.5</td>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Admission</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">1 weeks</td>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">353</td>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">480</td>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">3.2</td>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">101</td>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">2.6</td>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Symptoms resolved</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">65</td>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.7</td>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">10 weeks</td>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">13</td>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.6</td>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_1 hd_h_Metformin.Tf_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;36</bold>
+</td>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;359</bold>
+</td>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Metformin.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Metformin.Comment_1">
+            <title>Comment</title>
+            <p>The patient developed an acute hepatitis-like illness with mild jaundice 3 weeks after metformin was added to a chronic regimen of a metiglinide analogue and thiazolidinedione for poorly controlled diabetes. Symptoms resolved within 2 weeks and all liver tests were normal 7 weeks after stopping the medications. No other cause for acute hepatitis was identified. Both nateglinide and pioglitazone have been reported to cause liver injury, but the timing of onset of the hepatitis most closely implicates metformin. Rechallenge with the other antidiabetic medications would have been appropriate.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Metformin.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Metformin &#x02013; Generic, Fortamet&#x000ae;, Glucophage&#x000ae;, Riomet&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antidiabetic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Metformin">
+<bold>COMPLETE LABELING</bold>
+</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Metformin.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Metformin.Tg" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <tbody>
+              <tr>
+                <th id="hd_b_Metformin.Tg_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_b_Metformin.Tg_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_b_Metformin.Tg_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_b_Metformin.Tg_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+              <tr>
+                <td headers="hd_b_Metformin.Tg_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Metformin</td>
+                <td headers="hd_b_Metformin.Tg_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134977327">657-24-9</ext-link>
+</td>
+                <td headers="hd_b_Metformin.Tg_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C4-H11-N5</td>
+                <td headers="hd_b_Metformin.Tg_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134977327" document-id-type="sid" document-type="summary" object-id="134977327" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Metformin.CITED_REFERENCES">
+        <title>CITED REFERENCES</title>
+        <ref-list id="Metformin.CITED_REFERENCES.reflist0">
+          <ref id="Metformin.REF.1">
+            <label>1</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Deutsch</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kountouras</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Dourakis</surname><given-names>SP</given-names></name>
+</person-group>
+              <article-title>Metformin hepatotoxicity.</article-title>
+              <source>Ann Intern Med</source>
+              <year>2004</year>
+              <volume>140</volume>
+              <fpage>W25</fpage>
+              <pub-id pub-id-type="pmid">14996697</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Metformin.REF.2">
+            <label>2</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kutoh</surname><given-names>E.</given-names></name>
+</person-group>
+              <article-title>Possible metformin-induced hepatotoxicity.</article-title>
+              <source>Am J Geriatr Pharmacother</source>
+              <year>2005</year>
+              <volume>3</volume>
+              <fpage>270</fpage>
+              <lpage>3</lpage>
+              <pub-id pub-id-type="pmid">16503324</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Metformin.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 21 January 2020</p>
+        <ref-list id="Metformin.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Metformin.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Oral hypoglycemic agents and other diabetes therapy. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999: pp. 578.<annotation><p><italic toggle="yes">(Expert review of biguanides and liver injury published in 1999 which mentions that metformin, despite use for several years, had not been implicated in causing hepatic injury).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Metformin.REF.de_marzio.2013">
+            <mixed-citation publication-type="book">De Marzio DH, Navarro VJ. Biguanides. Hepatotoxicity of cardiovascular and antidiabetic drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 531.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of drugs for diabetes metions that metformin can cause either a cholestatic or hepatocellular pattern of liver injury, with latency of 1 to 8 weeks, and which resolve rapidly when metformin is stopped, no fatal cases having been described).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Metformin.REF.powers.2018">
+            <mixed-citation publication-type="book">Powers AC, D'Alessio D. Therapy of diabetes. Endocrine pancreas and pharmacotherapy of diabetes mellitus and hypoglycemia. In, Brunton LL, Chabner BAHillal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 870-83.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Metformin.REF.cubukcu.1991.447">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cubukcu</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Yilmaz</surname><given-names>MT</given-names></name>
+<name name-style="western"><surname>Satman</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Buyukdevrim</surname><given-names>AS</given-names></name>
+</person-group>
+              <article-title>Metformin kullanimina bagli bir akut hepatiti vakasi (metformin-induced hepatitis).</article-title>
+              <source>Tip Fak Mecm</source>
+              <year>1991</year>
+              <volume>54</volume>
+              <fpage>447</fpage>
+              <lpage>52</lpage>
+              <comment>[Turkish]. [Not in PubMed]</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(57 year old woman developed jaundice 4 weeks after starting metformin [bilirubin 4.3 mg/dL, ALT 453, Alk P ~2x ULN], resolving within 4 weeks of stopping).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Metformin.REF.bailey.1996.574">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bailey</surname><given-names>CJ</given-names></name>
+<name name-style="western"><surname>Turner</surname><given-names>RC</given-names></name>
+</person-group>
+              <article-title>Metformin.</article-title>
+              <source>N Engl J Med</source>
+              <year>1996</year>
+              <volume>334</volume>
+              <fpage>574</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Clinical review of pharmacokinetics, mechanism of action, efficacy and safety of metformin as therapy of type 2 diabetes; no mention of hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8569826</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Metformin.REF.babich.1998.490">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Babich</surname><given-names>MM</given-names></name>
+<name name-style="western"><surname>Pike</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Shiffman</surname><given-names>ML</given-names></name>
+</person-group>
+              <article-title>Metformin-induced acute hepatitis.</article-title>
+              <source>Am J Med</source>
+              <year>1998</year>
+              <volume>104</volume>
+              <fpage>490</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(52 year old woman developed fatigue after 3 weeks of metformin therapy, followed by jaundice [bilirubin 14.4 mg/dL, ALT 651 U/L, Alk P 500 U/L], with resolution within a month of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9626034</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Metformin.REF.lin.1998.1860">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lin</surname><given-names>KD</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>JD</given-names></name>
+<name name-style="western"><surname>Juang</surname><given-names>JH</given-names></name>
+</person-group>
+              <article-title>Metformin-induced hemolysis with jaundice.</article-title>
+              <source>N Engl J Med</source>
+              <year>1998</year>
+              <volume>339</volume>
+              <fpage>1860</fpage>
+              <lpage>1</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(46 year old man became jaundiced within 2 weeks of starting metformin, with normal ALT and evidence of hemolysis; jaundice reappeared with rechallenge).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9867572</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Metformin.REF.swislocki.1998.677">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Swislocki</surname><given-names>AL</given-names></name>
+<name name-style="western"><surname>Noth</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Case report. Pseudohepatotoxicity of metformin.</article-title>
+              <source>Diabetes Care</source>
+              <year>1998</year>
+              <volume>21</volume>
+              <fpage>677</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(75 year old man with Paget's disease and diabetes developed elevations in serum ALT [33 to 413 U/L] and AST [36 to 322 U/L] and worsening Alk P [470 to 684 U/L], without symptoms or jaundice after 2 months of metformin therapy; rechallenge for 1 month was not followed by recurrence; authors concluded that this represented "pseudohepatotoxicity").</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9571371</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Metformin.REF.crespo_valad_s.1999">
+            <mixed-citation publication-type="other">Crespo Valad&#x000e9;s E, Ortega G&#x000f3;mez A, Alvarado Izquierdo MI, Magro Ledesma D. [Hepatotoxic reaction associated with metformin and chlorpropamide treatment] Rev Clin Esp 1999; 199: 118-9. Spanish. PMID: 10216414<annotation><p><italic toggle="yes">(68 year old mother developed an acute immunoallergic reaction 2 days after starting metformin with fever, eosinophilia, rash and lymphadenopathy accompanied by a mild cholestatic hepatitis [bilirubin 2.2 mg/dL, ALT 327 U/L, Alk P 2553 U/L], rapidly resolving upon stopping therapy).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Metformin.REF.chaudhry.2001.16">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chaudhry</surname><given-names>MU</given-names></name>
+<name name-style="western"><surname>Simmons</surname><given-names>DL</given-names></name>
+</person-group>
+              <article-title>Case of the month. Hepatic and renal failure in a patient taking troglitazone and metformin.</article-title>
+              <source>J Ark Med Soc</source>
+              <year>2001</year>
+              <volume>98</volume>
+              <fpage>16</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(54 year old man developed jaundice after 5 years of metformin and 2 years of troglitazone after episode of bloody diarrhea and hypotension [bilirubin 17 mg/dL, ALT 574 U/L, Alk P 125 U/L], resolving after stopping oral agents and stabilization of heart disease).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11452755</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Metformin.REF.desilets.2001.2257">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Desilets</surname><given-names>DJ</given-names></name>
+<name name-style="western"><surname>Shorr</surname><given-names>AF</given-names></name>
+<name name-style="western"><surname>Moran</surname><given-names>KA</given-names></name>
+<name name-style="western"><surname>Holtzmuller</surname><given-names>KC</given-names></name>
+</person-group>
+              <article-title>Cholestatic jaundice associated with the use of metformin.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>2001</year>
+              <volume>96</volume>
+              <fpage>2257</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(64 year old man developed fatigue and jaundice 2 weeks after starting metformin [bilirubin 21.3 mg/dL, ALT 289 U/L, Alk P 994 U/L], resolving within 3 months of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11467664</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Metformin.REF.lebovitz.2002.815">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lebovitz</surname><given-names>HE</given-names></name>
+<name name-style="western"><surname>Kreider</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Freed</surname><given-names>MI</given-names></name>
+</person-group>
+              <article-title>Evaluation of liver function in type 2 diabetic patients during clinical trials: evidence that rosiglitazone does not cause hepatic dysfunction.</article-title>
+              <source>Diabetes Care</source>
+              <year>2002</year>
+              <volume>25</volume>
+              <fpage>815</fpage>
+              <lpage>21</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of more than 6000 patients in industry sponsored clinical trials found ALT levels &#x0003e;3 times ULN in 1.9% of troglitazone, 0.32% of rosiglitazone, 0.26% of pioglitazone, 0.40% of sulfonylurea and metformin, vs 0.17% of placebo treated patients; no mention of severe liver toxicity or jaundice).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11978674</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Metformin.REF.nammour.2003.307">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Nammour</surname><given-names>FE</given-names></name>
+<name name-style="western"><surname>Fayad</surname><given-names>NF</given-names></name>
+<name name-style="western"><surname>Peikin</surname><given-names>SR</given-names></name>
+</person-group>
+              <article-title>Metformin-induced cholestatic hepatitis.</article-title>
+              <source>Endocr Pract</source>
+              <year>2003</year>
+              <volume>9</volume>
+              <fpage>307</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(68 year old man developed severe jaundice 4 weeks after starting metformin [bilirubin 15.7 mg/dL, ALT 109 U/L, Alk P 383 U/L], biopsy showed severe cholestasis, slow recovery and Alk P still elevated 3 months later).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14561576</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Metformin.REF.deutsch.2004.w25">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Deutsch</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kountouras</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Dourakis</surname><given-names>SP</given-names></name>
+</person-group>
+              <article-title>Metformin hepatotoxicity.</article-title>
+              <source>Ann Intern Med</source>
+              <year>2004</year>
+              <volume>140</volume>
+              <fpage>W25</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(67 year old woman developed jaundice 5 weeks after starting metformin [bilirubin 4.8 mg/dL; ALT 905 U/L; Alk P 121 U/L], resolving within 2 months of stopping and recurring 3 months after restarting: Case 1).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14996697</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Metformin.REF.barquero_romero.2005">
+            <mixed-citation publication-type="other">Barquero Romero J, P&#x000e9;rez Miranda M. [Metformin-induced cholestatic hepatitis] Gastroenterol Hepatol 2005; 28: 257-8. Spanish. PMID: 15811270<annotation><p><italic toggle="yes">(80 year old woman developed jaundice ~10 weeks after starting metformin [bilirubin 5.3 mg/dL, ALT 174 U/L, Alk P 199 U/L], resolving within 2 months of stopping).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Metformin.REF.kutoh.2005.270">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kutoh</surname><given-names>E.</given-names></name>
+</person-group>
+              <article-title>Possible metformin-induced hepatotoxicity.</article-title>
+              <source>Am J Geriatr Pharmacother</source>
+              <year>2005</year>
+              <volume>3</volume>
+              <fpage>270</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(73 year old woman developed jaundice 3 weeks after addition of metformin to chronic therapy with nateglinide and pioglitazone [bilirubin 6.5 mg/dL, ALT 772 U/L, Alk P 635 U/L], resolving within 7 weeks of stopping: Case 2).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16503324</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Metformin.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Davern</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Serrano</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rochon</surname><given-names>J</given-names></name>
+<collab>Drug Induced Liver Injury Network (DILIN)</collab>
+</person-group>
+              <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, no single agent case was attributed to metformin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Metformin.REF.de_la_poza_g_mez.2008">
+            <mixed-citation publication-type="other">de la Poza G&#x000f3;mez G, Rivero Fern&#x000e1;ndez M, V&#x000e1;zquez Romero M, Angueira Lape&#x000f1;a T, Arranz de la Mata G, Boixeda de Miquel D. [Constitutional syndrome associated to metformin induced hepatotoxicity]. Gastroenterol Hepatol 2008; 31: 643-5. Spanish. PMID: 19174081<annotation><p><italic toggle="yes">(83 year old man developed fatigue, weakness and weight loss several weeks after starting metformin [bilirubin 2.3 mg/dL, ALT 740 U/L, Alk P 586 U/L]; symptoms resolved within 2 weeks and liver tests fell to normal within 3 months of stopping).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Metformin.REF.seidowsky.2009.2191">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Seidowsky</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Nseir</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Houdret</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fourrier</surname><given-names>F.</given-names></name>
+</person-group>
+              <article-title>Metformin-associated lactic acidosis: a prognostic and therapeutic study.</article-title>
+              <source>Crit Care Med</source>
+              <year>2009</year>
+              <volume>37</volume>
+              <fpage>2191</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 42 patients with voluntary or inadvertent metformin overdose, most had lactic acidosis, 50% circulatory shock, 74% renal failure, 33% died; factors correlating with survival were lactate levels, pH, creatinine and prothrombin time).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19487945</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Metformin.REF.oliveragonz_lez.2010">
+            <mixed-citation publication-type="other">Olivera-Gonz&#x000e1;lez S, de Escalante-Yang&#x000fc;ela B, Velilla-Soriano C, Amores-Arriaga B, Mart&#x000ed;n-Fortea P, Navarro-Aguilar ME. [Metformin-associated hepatotoxicity.]. Med Intensiva 2010; 34: 483-7. Spanish. PMID: 20045581<annotation><p><italic toggle="yes">(73 year old woman with diabetes and heart disease developed weakness and abdominal pain 2 weeks after starting metformin [bilirubin 1.4 mg/dL, ALT 1294 U/L, Alk P 95 U/L, LDH 4957 U/L, lactate 6.9 mmol/L, INR 7.4] resolving within 2 weeks of stopping metformin).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Metformin.REF.cone.2010.1655">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cone</surname><given-names>CJ</given-names></name>
+<name name-style="western"><surname>Bachyrycz</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Murata</surname><given-names>GH</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity associated with metformin therapy in treatment of type 2 diabetes mellitus with nonalcoholic fatty liver disease.</article-title>
+              <source>Ann Pharmacother</source>
+              <year>2010</year>
+              <volume>44</volume>
+              <fpage>1655</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(61 year old man with diabetes and fatty liver developed jaundice within 2 weeks of starting metformin [bilirubin 1.8 mg/dL, ALT 571 U/L, Alk P 143 U/L], resolving within 2 months of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20647417</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Metformin.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Reuben</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Koch</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>WM</given-names></name>
+<collab>Acute Liver Failure Study Group</collab>
+</person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 [11%] were attributed to drug induced liver injury, of which 4 were due to troglitazone but none to other antidiabetic medications).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Metformin.REF.lavine.2011.1659">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lavine</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Schwimmer</surname><given-names>JB</given-names></name>
+<name name-style="western"><surname>Van Natta</surname><given-names>ML</given-names></name>
+<name name-style="western"><surname>Molleston</surname><given-names>JP</given-names></name>
+<name name-style="western"><surname>Murray</surname><given-names>KF</given-names></name>
+<name name-style="western"><surname>Rosenthal</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Abrams</surname><given-names>SH</given-names></name>
+<name name-style="western"><surname>Scheimann</surname><given-names>AO</given-names></name>
+<etal/>
+<collab>Nonalcoholic Steatohepatitis Clinical Research Network</collab>
+</person-group>
+              <article-title>Effect of vitamin E or metformin for treatment of nonalcoholic fatty liver disease in children and adolescents: the TONIC randomized controlled trial.</article-title>
+              <source>JAMA</source>
+              <year>2011</year>
+              <volume>305</volume>
+              <fpage>1659</fpage>
+              <lpage>68</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Randomized controlled trial of metformin vs vitamin E vs placebo in 173 children with nonalcoholic fatty liver disease; serum aminotransferase levels fell in all three groups and no patient developed jaundice or evidence of hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21521847</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Metformin.REF26">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for type 2 diabetes.</article-title>
+              <source>Treat Guidel Med Lett</source>
+              <year>2011</year>
+              <volume>9</volume>
+              <fpage>47</fpage>
+              <lpage>54</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the role of antidiabetic medications in management of type 2 diabetes).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21778966</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Metformin.REF.arroyo.2011.749653">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Arroyo</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Melero</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Panizo</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Goicoechea</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Rodr&#x000ed;guez-Ben&#x000ed;tez</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Vinuesa</surname><given-names>SG</given-names></name>
+<name name-style="western"><surname>Verde</surname><given-names>E</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Metformin-associated acute kidney injury and lactic acidosis.</article-title>
+              <source>Int J Nephrol</source>
+              <year>2011</year>
+              <volume>2011</volume>
+              <elocation-id>749653</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Between 2006 and 2010, 29 patients presented with lactic acidosis and acute renal injury on metformin [duration not given], 10 of whom had underlying liver disease, which appeared to be a risk factor).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21792389</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Metformin.REF.miralleslinares.2012.e21">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Miralles-Linares</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Puerta-Fernandez</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Bernal-Lopez</surname><given-names>MR</given-names></name>
+<name name-style="western"><surname>Tinahones</surname><given-names>FJ</given-names></name>
+<name name-style="western"><surname>Andrade</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Gomez-Huelgas</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Metformin-induced hepatotoxicity.</article-title>
+              <source>Diabetes Care</source>
+              <year>2012</year>
+              <volume>35</volume>
+              <issue>3</issue>
+              <elocation-id>e21</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(61 year old man developed jaundice 6 weeks after starting metformin [bilirubin 2.9 mg/dL, ALT 861 U/L, Alk P 622 U/L], resolving within 4 weeks of stopping and recurring within 24 hours of restarting [bilirubin 4.8 mg/dL, ALT 764 U/L, Alk P 622 U/L], resolving again within 4 weeks).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22355024</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Metformin.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Bergmann</surname><given-names>OM</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Kvaran</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Olafsson</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced lLiver injury in the General population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none were due to metformin or other antidiabetic medications).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Metformin.REF.zheng.2016.e315">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zheng</surname><given-names>L.</given-names></name>
+</person-group>
+              <article-title>Metformin as a rare cause of drug-induced liver injury, a case report and literature review.</article-title>
+              <source>Am J Ther.</source>
+              <year>2016</year>
+              <volume>23</volume>
+              <issue>1</issue>
+              <fpage>e315</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(70 year old woman developed nausea and abdominal pain 5 weeks after starting metformin [bilirubin 2.2 mg/dL, ALT 1093 U/L, Alk P 176 U/L], resolving within 14 days of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24263160</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Metformin.REF.saadi.2013.703">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Saadi</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Waterman</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Yassin</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Baruch</surname><given-names>Y</given-names></name>
+</person-group>
+              <article-title>Metformin-induced mixed hepatocellular and cholestatic hepatic injury: case report and literature review.</article-title>
+              <source>Int J Gen Med</source>
+              <year>2013</year>
+              <volume>6</volume>
+              <fpage>703</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(78 year old man developed fatigue within a week of starting metformin, followed by jaundice [bilirubin 22.2 mg/dL, ALT 1050 U/L, Alk P 1001 U/L], resolving within 2 months of stopping; also received amoxicillin/clavulanate).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23983487</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Metformin.REF32">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for type 2 diabetes.</article-title>
+              <source>Treat Guidel Med Lett</source>
+              <year>2014</year>
+              <volume>12</volume>
+              <issue>139</issue>
+              <fpage>17</fpage>
+              <lpage>24</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise recommendations on drugs for type 2 diabetes mentions that metformin is generally the preferred first line agent; side effects include metabllic taste, nausea, diarrhea, abdominal pain, and [in patients with impaired renal function] lactic acidosis; no mention of hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24566424</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Metformin.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hern&#x000e1;ndez</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bessone</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>di Pace</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Brahm</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zapata</surname><given-names>R, A</given-names></name>
+<name name-style="western"><surname>Chirino</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America: an analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 176 reports of drug induced liver injury from Latin America published between 1996 and 2012, none were attributed to metformin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Metformin.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 4 were attributed to antidiabetic medications, including 2 to metformin, one to sitagliptin and one to glibenclamide).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Metformin.REF35">
+            <element-citation publication-type="journal">
+              <article-title>Metformin for prediabetes.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2016</year>
+              <volume>58</volume>
+              <issue>1507</issue>
+              <fpage>141</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise discussion of use of long term metformin to prevent diabetes in patients with elevated fasting and postprandial plasma glucose, discusses common adverse events but does not mention ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27805573</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Metformin.REF.thalha.2018.242">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Thalha</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Mahadeva</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Boon Tan</surname><given-names>AT</given-names></name>
+<name name-style="western"><surname>Mun</surname><given-names>KS</given-names></name>
+</person-group>
+              <article-title>Kombiglyze (metformin and saxagliptin)-induced hepatotoxicity in a patient with non-alcoholic fatty liver disease.</article-title>
+              <source>JGH Open</source>
+              <year>2018</year>
+              <volume>2</volume>
+              <fpage>242</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(33 year old man with diabetes developed pruritus 1 week after starting the combination of metformin and saxagliptin [bilirubin 0.7 mg/dL, ALT 307 U/L, GGT 808 U/L], resolving within 2 months of stopping the combination agent and later tolerating, without worsening liver tests, the re-introduction of metformin suggesting that saxagliptin was the cause).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30483596</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Metformin.REF37">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for type 2 diabetes.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2019</year>
+              <volume>61</volume>
+              <issue>1584</issue>
+              <fpage>169</fpage>
+              <lpage>78</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise recommendations on drugs for type 2 diabetes mentions that metformin is generally the drug of choice for initial treatment; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31770362</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Metformin.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(metformin/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%222009/12/01%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Metformin: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=metformin">Trials on Metformin: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

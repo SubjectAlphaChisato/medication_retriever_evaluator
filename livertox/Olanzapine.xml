@@ -1,0 +1,1598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Olanzapine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Olanzapine</book-part-id>
+      <title-group>
+        <title>Olanzapine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>5</day>
+          <month>6</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Ofloxacin" document-type="chapter">Ofloxacin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Olaparib" document-type="chapter">Olaparib</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Olanzapine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Olanzapine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Olanzapine is an atypical antipsychotic that is used currently in the treatment of schizophrenia and bipolar illness. Olanzapine is not infrequently associated with serum aminotransferase elevations during therapy and there have been rare instances of clinically apparent acute liver injury linked to its use.</p>
+        </sec>
+        <sec id="Olanzapine.Background">
+          <title>Background</title>
+          <p>Olanzapine (oh lan' za peen) is a thienobenzodiazepine derivative which appears to act as a dopamine (D1-4) and serotonic (5-HT2A/2C and 5-HT6) receptor antagonist. Olanzapine was approved for use in schizophrenia in the United States in 1996 and continues to be used for this indication. Olanzapine is also used in mood disturbances of bipolar I disorder and in combination with other agents for treatment of resistant depression in adults. Olanzapine is available as tablets of 2.5, 5, 7.5, 10, 15, and 20 mg generically and under the brand name Zyprexa; formulations for parenteral use and orally disintegrating tablets are also available, as are fixed combinations with antidepressants such as fluoxetine (Symbyax and generics). A typical dose regimen is 5 to 20 mg daily, starting with a low dose and increasing cautiously. Common side effects include sedation, increased appetite, weight gain, constipation, orthostatic hypotension, dizziness, dry mouth, weakness and akathisia (restlessness). Uncommon but potentially severe adverse reactions include excess mortality in the elderly with dementia, suicidal ideation and behaviors, neuroleptic malignant syndrome, hypersensitivity reactions including drug-rash, eosinophilia and systemic symptoms (DRESS) syndrome, metabolic abnormalities including hyperglycemia and dyslipidemia, seizures, leukopenia and neutropenia, and hyperprolactinemia. Like many antipsychotic medications, olanzapine has a boxed warning for increased risk of death in elderly patients with dementia-related psychosis.</p>
+        </sec>
+        <sec id="Olanzapine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Liver test abnormalities have been reported to occur in 10% to 50% of patients on long term therapy with olanzapine. These abnormalities are usually mild, asymptomatic and transient, and can reverse even with continuation of medication. In addition, instances of more marked elevations in serum aminotransferase levels and clinically apparent hepatitis with jaundice have been reported in patients taking olanzapine. Among atypical antipsychotic agents, olanzapine has most often been linked to cases of clinically apparent liver injury, the incidence being estimated to be 1:1200 treated patients. The time to onset of liver injury with olanzapine therapy in generally within 1 to 4 weeks of starting therapy or achieving optimal daily dose. However, cases with onset a year after starting have also been reported. The pattern of serum enzyme elevations is most often mixed (Case) but can range from hepatocellular to cholestatic. Fatal cases of olanzapine induced liver injury have been reported, but most cases resolve rapidly once olanzapine is stopped. Allergic manifestations (rash, fever, eosinophilia) and autoimmune markers are uncommon. Cases with a long latency and accompanied by significant weight gain may represent nonalcoholic fatty liver disease, rather than olanzapine hepatotoxicity.</p>
+          <p>Likelihood score: A (well known cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Olanzapine.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which olanzapine causes serum aminotransferase elevations is not known. Some instances of ALT elevations occurring on olanzapine therapy may be due to nonalcoholic fatty liver disease caused by weight gain that occurs in at least one-quarter of treated patients generally during the first 1 to 2 years of therapy. Weight gain averages 1 kg/month and can be extreme (20 to 30 kg). Olanzapine has extensive hepatic metabolism, partially via the cytochrome P450 system, and some cases of clinically apparent hepatotoxicity may be due to production of a toxic intermediate of metabolism.</p>
+        </sec>
+        <sec id="Olanzapine.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum aminotransferase elevations that occur on olanzapine therapy are usually self-limited and rarely require dose modification or discontinuation of therapy. No instances of chronic liver disease or vanishing bile duct syndrome have been attributed to olanzapine. Switching to other atypical antipsychotics is occasionally, but usually not associated with recurrence of hepatic injury.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntipsychoticAgents" document-type="chapter">Antipsychotic Agents</related-object>, Atypicals</p>
+        </sec>
+      </sec>
+      <sec id="Olanzapine.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Olanzapine.Case_1_Acute_liver_injury_due">
+          <title>Case 1. Acute liver injury due to olanzapine.(<xref ref-type="bibr" rid="Olanzapine.REF.1">1</xref>)</title>
+          <p>A 47 year old patient with a history of paranoid schizophrenia developed jaundice 11 months after starting olanzapine (10 mg daily). She had a vague history of alcoholic liver disease. Laboratory test results showed a total bilirubin of 7.5 mg/dL, ALT 173 U/L and alkaline phosphatase of 178 U/L (Table). Olanzapine was stopped and haloperidol started in its place. Tests for viral hepatitis and autoantibodies were negative. Within 2 weeks, serum bilirubin levels had fallen and all test results returned to normal when she was seen 3 months later.</p>
+          <sec id="Olanzapine.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Olanzapine.Tc" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Olanzapine.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Olanzapine.Tc_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Olanzapine</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Olanzapine.Tc_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Olanzapine.Tc_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Mixed (R=3.0)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Olanzapine.Tc_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Olanzapine.Tc_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">3+ (jaundice and hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Olanzapine.Tc_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Olanzapine.Tc_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">3 months</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Olanzapine.Tc_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Olanzapine.Tc_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">None mentioned</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Olanzapine.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Olanzapine.Td" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Olanzapine.Td_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Starting</th>
+                    <th id="hd_h_Olanzapine.Td_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Stopping</th>
+                    <th id="hd_h_Olanzapine.Td_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT<break/>(U/L)</th>
+                    <th id="hd_h_Olanzapine.Td_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Alk P<break/>(U/L)</th>
+                    <th id="hd_h_Olanzapine.Td_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">GGT<break/>(U/L)</th>
+                    <th id="hd_h_Olanzapine.Td_1_1_1_6" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                    <th id="hd_h_Olanzapine.Td_1_1_1_7" valign="top" align="center" scope="col" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">11 months</td>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">173</td>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">178</td>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">568</td>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">7.5</td>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_7" valign="top" align="left" rowspan="1" colspan="1">Admission</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">775</td>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">181</td>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">650</td>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">2.7</td>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_7" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">12 months</td>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">79</td>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">161</td>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">606</td>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">0.6</td>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_7" valign="top" align="left" rowspan="1" colspan="1">Haloperidol</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">14 months</td>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">14 weeks</td>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">9</td>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">80</td>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">162</td>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">0.4</td>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_7" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_1 hd_h_Olanzapine.Td_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;42</bold>
+</td>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;130</bold>
+</td>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;62</bold>
+</td>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Olanzapine.Td_1_1_1_7" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Olanzapine.Comment">
+            <title>Comment</title>
+            <p>A brief case report with missing information but somewhat typical presentation of drug induced liver injury with a mixed hepatocellular-cholestatic pattern. Olanzapine is a common cause of transient serum aminotransferase elevations, but has rarely been implicated in cases of clinically apparent liver injury with jaundice.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Olanzapine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Olanzapine &#x02013; Generic, Zyprexa&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antipsychotic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Olanzapine">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Olanzapine.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Olanzapine.Te" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Olanzapine.Te_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Olanzapine.Te_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Olanzapine.Te_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Olanzapine.Te_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Olanzapine.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Olanzapine</td>
+                <td headers="hd_h_Olanzapine.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135017274">132539-06-1</ext-link>
+</td>
+                <td headers="hd_h_Olanzapine.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C17-H20-N4-S</td>
+                <td headers="hd_h_Olanzapine.Te_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135017274" document-id-type="sid" document-type="summary" object-id="135017274" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Olanzapine.CITED_REFERENCE">
+        <title>CITED REFERENCE</title>
+        <ref-list id="Olanzapine.CITED_REFERENCE.reflist0">
+          <ref id="Olanzapine.REF.1">
+            <label>1</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dom&#x000ed;nguez-Jim&#x000e9;nez</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Puente-Guti&#x000e9;rrez</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Pelado-Garc&#x000ed;a</surname><given-names>EM</given-names></name>
+<name name-style="western"><surname>Cuesta-Cubillas</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Garc&#x000ed;a-Moreno</surname><given-names>AM</given-names></name>
+</person-group>
+              <article-title>Liver toxicity due to olanzapine.</article-title>
+              <source>Rev Esp Enferm Dig</source>
+              <year>2012</year>
+              <volume>104</volume>
+              <fpage>617</fpage>
+              <lpage>8</lpage>
+              <pub-id pub-id-type="pmid">23368661</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Olanzapine.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 06 June 2023</p>
+        <ref-list id="Olanzapine.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Olanzapine.REF.meyer.2018">
+            <mixed-citation publication-type="book">Meyer JM. Pharmacotherapy of psychosis and mania. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 279-302.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Olanzapine.REF.larry.2013">
+            <mixed-citation publication-type="book">Larry D, Ripault MP. Hepatotoxicity of psychotropic drugs and drugs of abuse. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 443-62.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of psychiatric agents mentions that olanzapine has rarely been implicated in causing clinically apparent hepatic toxicity).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Olanzapine.REF.beasley.1997.13">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Beasley</surname><given-names>CM</given-names></name>
+<name name-style="western"><surname>Tollefoson</surname><given-names>GD</given-names></name>
+<name name-style="western"><surname>Tran</surname><given-names>PV</given-names></name>
+</person-group>
+              <article-title>Safety of olanzapine.</article-title>
+              <source>J Clin Psychiatry</source>
+              <year>1997</year>
+              <volume>58</volume>
+              <supplement>Suppl 10</supplement>
+              <fpage>13</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Retrospective analysis of registration trials of olanzapine as therapy of schizophrenia; weight gain of at least 7% in 40.5% of patients treated with olanzapine, 12.4% with haloperidol and 3.1% with placebo; ALT elevations occurred in 9.4% of olanzapine treated patients, usually within 1-2 weeks of starting and rising above 200 U/L in 2.1%; no cases of clinically apparent hepatitis).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.mcelroy.1998.119">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>McElroy</surname><given-names>SL</given-names></name>
+<name name-style="western"><surname>Frye</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Denicoff</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Altshuler</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Nolen</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Kupka</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Suppes</surname><given-names>T</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Olanzapine in treatment-resistant bipolar disorder.</article-title>
+              <source>J Affect Disord</source>
+              <year>1998</year>
+              <volume>49</volume>
+              <fpage>119</fpage>
+              <lpage>22</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Open label study of olanzapine in 14 patients, no information on liver test abnormalities).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9609675</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.allison.1999.1686">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Allison</surname><given-names>DB</given-names></name>
+<name name-style="western"><surname>Mentore</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Heo</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Chandler</surname><given-names>LP</given-names></name>
+<name name-style="western"><surname>Cappelleri</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Infante</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Weiden</surname><given-names>PJ</given-names></name>
+</person-group>
+              <article-title>Antipsychotic-induced weight gain: a comprehensive research synthesis.</article-title>
+              <source>Am J Psychiatry</source>
+              <year>1999</year>
+              <volume>156</volume>
+              <fpage>1686</fpage>
+              <lpage>96</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of 81 articles on weight change with antipsychotics, using change after 10 weeks to compare agents: clozapine +5.7, olanzapine +4.2, chlorpromazine +4.2, quetiapine +2.5, risperidone +1.7, loxapine +0.6, haloperidol +0.5, ziprasidone +0.3, molindone -0.1, and pimozide -2.7 kg).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10553730</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.marcus.1999.697">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Marcus</surname><given-names>EL</given-names></name>
+<name name-style="western"><surname>Vass</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Zislin</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Marked elevation of serum creatinine kinase associated with olanzapine therapy.</article-title>
+              <source>Ann Pharmacother</source>
+              <year>1999</year>
+              <volume>33</volume>
+              <fpage>697</fpage>
+              <lpage>700</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(39 year old man was found to have CPK 2252 U/L without symptoms 3 days after starting olanzapine [bilirubin not reported, AST 65 U/L], resolving within a week of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10410183</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.conley.2000.26">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Conley</surname><given-names>RR</given-names></name>
+<name name-style="western"><surname>Meltzer</surname><given-names>HY</given-names></name>
+</person-group>
+              <article-title>Adverse events related to olanzapine.</article-title>
+              <source>J Clin Psychiatry</source>
+              <year>2000</year>
+              <volume>61</volume>
+              <supplement>Suppl 8</supplement>
+              <fpage>26</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of side effects of olanzapine from large registration trials; weight gain averaged 2-3 kg, but was dose dependent and averaged 12 kg with high dose at one year; &#x0201c;Transient, non-dose-dependent, asymptomatic elevations in liver enzymes have also been noted in olanzapine-treated patients&#x0201d;).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.balestrieri.2000.499">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Balestrieri</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Vampini</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Bellantuono</surname><given-names>C</given-names></name>
+</person-group>
+              <article-title>Efficacy and safety of novel antipsychotics: a critical review.</article-title>
+              <source>Hum Psychopharmacol</source>
+              <year>2000</year>
+              <volume>15</volume>
+              <fpage>499</fpage>
+              <lpage>512</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review on efficacy and safety of antipsychotic agents; transient elevations in ALT in 9.4% of olanzapine treated patients, but no clinical symptoms or jaundice reported).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12404619</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.gerber.2000.249">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gerber</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Cawthon</surname><given-names>B</given-names></name>
+</person-group>
+              <article-title>Overdose and death with olanzapine: two case reports.</article-title>
+              <source>Am J Forensic Med Pathol</source>
+              <year>2000</year>
+              <volume>21</volume>
+              <fpage>249</fpage>
+              <lpage>51</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Two patients found dead after olanzapine overdose with high serum levels; no evidence of hepatic toxicity mentioned).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10990286</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.cadario.2000.85">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cadario</surname><given-names>B.</given-names></name>
+</person-group>
+              <article-title>Olanzapine (Zyprexa): suspected serious reactions.</article-title>
+              <source>CMAJ</source>
+              <year>2000</year>
+              <volume>163</volume>
+              <fpage>85</fpage>
+              <lpage>6, 89-90</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 153 adverse event reports due to olanzapine, there were 22 deaths but none attributed to liver injury; 9 cases of ALT elevation, only 2 above twice normal and one with jaundice [bilirubin not given, ALT 527 U/L, alkaline phosphatase 211 U/L] after 5 months of treatment, without further details or follow up information).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10920744</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.raz.2001.156">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Raz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Bergman</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Eilam</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Yungerman</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Hayek</surname><given-names>T.</given-names></name>
+</person-group>
+              <article-title>A case report of olanzapine-induced hypersensitivity syndrome.</article-title>
+              <source>Am J Med Sci</source>
+              <year>2001</year>
+              <volume>321</volume>
+              <fpage>156</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(34 year old man developed rash, fever, and eosinophilia 2 months after starting olanzapine [bilirubin 1.1 mg/dL, ALT 518 U/L, Alk P 68 U/L], resolving upon stopping olanzapine, but with confounding history of amoxicillin exposure; tolerated risperidone in follow up).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11217818</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.dumortier.2002.542">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dumortier</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Cabaret</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stamatiadis</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Saba</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Benadhira</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Rocamora</surname><given-names>JF</given-names></name>
+<name name-style="western"><surname>Aubriot-Delmas</surname><given-names>B</given-names></name>
+<etal/>
+</person-group>
+              <comment>[Hepatic tolerance of atypical antipsychotic drugs]</comment>
+              <source>Encephale</source>
+              <year>2002</year>
+              <volume>28</volume>
+              <fpage>542</fpage>
+              <lpage>51</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of reports of liver injury due to atypical antipsychotics).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12506267</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.mouradianstamatiadis.2002.1409">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mouradian-Stamatiadis</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Dumortier</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Januel</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Delmas</surname><given-names>BA</given-names></name>
+<name name-style="western"><surname>Cabaret</surname><given-names>W</given-names></name>
+</person-group>
+              <article-title>Liver function tests during treatment with antipsychotic drugs: a case series of 23 patients.</article-title>
+              <source>Prog Neuropsychopharmacol Biol Psychiatry</source>
+              <year>2002</year>
+              <volume>26</volume>
+              <fpage>1409</fpage>
+              <lpage>11</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(23 hospitalized patients on atypical antipsychotics, 6 had ALT or AST elevations by day 14, ALT 48-158 U/L, 2 on risperidone, 2 olanzapine and one amisulpride; 1 on risperidone required discontinuation).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12502031</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.kelly.2003.181">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kelly</surname><given-names>DL</given-names></name>
+<name name-style="western"><surname>Conley</surname><given-names>RR</given-names></name>
+<name name-style="western"><surname>Richardson</surname><given-names>CM</given-names></name>
+<name name-style="western"><surname>Tamminga</surname><given-names>CA</given-names></name>
+<name name-style="western"><surname>Carpenter</surname><given-names>WT</given-names><suffix>Jr</suffix></name>
+</person-group>
+              <article-title>Adverse effects and laboratory parameters of high-dose olanzapine vs. clozapine in treatment-resistant schizophrenia.</article-title>
+              <source>Ann Clin Psychiatry</source>
+              <year>2003</year>
+              <volume>15</volume>
+              <fpage>181</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Crossover study of 8 weeks of olanzapine vs clozapine in 13 patients; ALT elevations occurred in 66% of clozapine, but no olanzapine treated patient; weight gain was greater with olanzapine [~3.4 kg] than clozapine [~1.4 kg]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14971863</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF16">
+            <element-citation publication-type="journal">
+              <article-title>Choice of an antipsychotic.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2003</year>
+              <volume>45</volume>
+              <fpage>102</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Despite a similar chemical structure to clozapine, olanzapine does not appear to cause agranulocytosis; weight gain is common and can be marked; &#x0201c;Increases in hepatic transaminase activity have been reported&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14679353</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.gonzalezheydrich.2003.1227">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gonzalez-Heydrich</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Raches</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Wilens</surname><given-names>TE</given-names></name>
+<name name-style="western"><surname>Leichtner</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Mezzacappa</surname><given-names>E</given-names></name>
+</person-group>
+              <article-title>Retrospective study of hepatic enzyme elevations in children treated with olanzapine, divalproex, and their combination.</article-title>
+              <source>J Am Acad Child Adolesc Psychiatry</source>
+              <year>2003</year>
+              <volume>42</volume>
+              <fpage>1227</fpage>
+              <lpage>33</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(52 children receiving olanzapine and/or valproate; ALT elevations occurred in all 12 on combination, 59% on olanzapine alone and 26% on valproate alone; only 2 had ALT &#x0003e;3 times ULN, one with pancreatitis and one with steatohepatitis, resolving with stopping olanzapine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14560173</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.haberfellner.2003.851">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Haberfellner</surname><given-names>EM</given-names></name>
+<name name-style="western"><surname>Honsig</surname><given-names>T</given-names></name>
+</person-group>
+              <article-title>Nonalcoholic steatohepatitis: a possible side effect of atypical antipsychotics.</article-title>
+              <source>J Clin Psychiatry</source>
+              <year>2003</year>
+              <volume>64</volume>
+              <fpage>851</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Three men, ages 24 to 31 years with weight gain [24-26 kg] on olanzapine or risperidone for ~4 years had ALT elevations [47-91 U/L]; ultrasound showed evidence of fatty liver).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.kolpe.2003.210">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kolpe</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ravasia</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Effect of olanzapine on the liver transaminases.</article-title>
+              <source>Can J Psychiatry.</source>
+              <year>2003</year>
+              <volume>48</volume>
+              <fpage>210</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Two women, ages 37 and 62 years, developed ALT elevations [237 and 179 U/L] after ~1 month of olanzapine therapy, resolving rapidly with discontinuation; no symptoms and bilirubin normal).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12728748</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.prior.2003.99">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Prior</surname><given-names>TI</given-names></name>
+<name name-style="western"><surname>Baker</surname><given-names>GB</given-names></name>
+</person-group>
+              <article-title>Interactions between the cytochrome P450 system and the second-generation antipsychotics.</article-title>
+              <source>J Psychiatry Neurosci</source>
+              <year>2003</year>
+              <volume>28</volume>
+              <fpage>99</fpage>
+              <lpage>112</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the interactions of the atypical antipsychotics with the P450 system; clozapine metabolized by CYP1A2 and 3A4 and possibly 2C9 and 2D6; risperidone by CYP2D6 and possibly 3A4; olanzapine by CYP1A2 and possibly 2D6; quetiapine and ziprasidone by CYP3A4).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12670127</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.jadallah.2003.357">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Jadallah</surname><given-names>KA</given-names></name>
+<name name-style="western"><surname>Limauro</surname><given-names>DL</given-names></name>
+<name name-style="western"><surname>Colatrella</surname><given-names>AM</given-names></name>
+</person-group>
+              <article-title>Acute hepatocellular-cholestatic liver injury after olanzapine therapy.</article-title>
+              <source>Ann Intern Med</source>
+              <year>2003</year>
+              <volume>138</volume>
+              <fpage>357</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(78 year old woman developed fever, nausea and abdominal pain 13 days after starting olanzapine [bilirubin 1.3 rising to 9.1 mg/dL, ALT 204 to 965 U/L, Alk P 189 to 488 U/L], resolving within 4 weeks of stopping).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.tchernichovsky.2004.173">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Tchernichovsky</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Sirota</surname><given-names>P</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity, leucopenia and neutropenia associated with olanzapine therapy.</article-title>
+              <source>Int J Psychiatry Clin Pract</source>
+              <year>2004</year>
+              <volume>8</volume>
+              <fpage>173</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(37 year old woman with severe schizophrenia developed abnormal liver tests [bilirubin 1.5 mg/dL, ALT 102 U/L, Alk P 461 U/L] 19 days after starting olanzapine, which was not stopped until 11 weeks later when she had pancytopenia; recurrence on restarting olanzapine one year later [bilirubin 1.6 mg/dL, AST 110, Alk P 270 U/L, neutropenia and fever], resolving in several weeks of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24941207</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.bender.2004.s46">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bender</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Grohmann</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Engel</surname><given-names>RR</given-names></name>
+<name name-style="western"><surname>Degner</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Dittmann-Balcar</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Ruther</surname><given-names>E</given-names></name>
+</person-group>
+              <article-title>Severe adverse drug reactions in psychiatric inpatients treated with neuroleptics.</article-title>
+              <source>Pharmacopsychiatry</source>
+              <year>2004</year>
+              <volume>37</volume>
+              <supplement>Suppl 1</supplement>
+              <fpage>S46</fpage>
+              <lpage>53</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of severe adverse drug reactions among 35,293 inpatients reported to AMSP; side effects were more common with atypicals [0.5-0.9%] than typical antipsychotics [0.02-0.2%]; increased liver enzymes was the most common adverse reaction to olanzapine, 4th in frequency to clozapine, 6th to haloperidol, 7th to risperidone; no mention of hepatitis or acute liver failure).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15052514</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.pae.2005.173">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Pae</surname><given-names>CU</given-names></name>
+<name name-style="western"><surname>Lim</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>TS</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>CU</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>SJ</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Naturalistic observation on the hepatic enzyme changes in patients treated with either risperidone or olanzapine alone.</article-title>
+              <source>Int Clin Psychopharmacol</source>
+              <year>2005</year>
+              <volume>20</volume>
+              <fpage>173</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Retrospective analysis found ALT elevations more common among 145 patients on olanzapine [25%] than 298 on risperidone [13%] and particularly &#x0003e;3 times ULN [7.6% vs 2.8%]; no instances of jaundice or hepatitis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15812269</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.perlis.2006.1747">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Perlis</surname><given-names>RH</given-names></name>
+<name name-style="western"><surname>Baker</surname><given-names>RW</given-names></name>
+<name name-style="western"><surname>Zarate</surname><given-names>CA</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Brown</surname><given-names>EB</given-names></name>
+<name name-style="western"><surname>Schuh</surname><given-names>LM</given-names></name>
+<name name-style="western"><surname>Jamal</surname><given-names>HH</given-names></name>
+<name name-style="western"><surname>Tohen</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Olanzapine versus risperidone in the treatment of manic or mixed States in bipolar I disorder: a randomized, double-blind trial.</article-title>
+              <source>J Clin Psychiatry</source>
+              <year>2006</year>
+              <volume>67</volume>
+              <fpage>1747</fpage>
+              <lpage>53</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(3 week trial of olanzapine [n=165] vs risperidone [n=164] for bipolar illness; greater weight gain [16% vs 4%] and ALT elevations [by mean of 15.7 U/L vs 1 U/L] with olanzapine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17196055</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.green.2006.234">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Green</surname><given-names>AI</given-names></name>
+<name name-style="western"><surname>Lieberman</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Hamer</surname><given-names>RM</given-names></name>
+<name name-style="western"><surname>Glick</surname><given-names>ID</given-names></name>
+<name name-style="western"><surname>Gur</surname><given-names>RE</given-names></name>
+<name name-style="western"><surname>Kahn</surname><given-names>RS</given-names></name>
+<name name-style="western"><surname>McEvoy</surname><given-names>JP</given-names></name>
+<etal/>
+<collab>HGDH Study Group</collab>
+</person-group>
+              <article-title>Olanzapine and haloperidol in first episode psychosis: two-year data.</article-title>
+              <source>Schizophr Res</source>
+              <year>2006</year>
+              <volume>86</volume>
+              <fpage>234</fpage>
+              <lpage>43</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Trial of olanzapine vs haloperidol for 2 years in 263 patients with psychosis; olanzapine more often led to weight gain [15.4 vs 7.5 kg] and ALT elevations [63% vs 29%], but no mention of clinically apparent liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16887334</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.rettenbacher.2006.500">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rettenbacher</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Baumgartner</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Eder-Ischia</surname><given-names>U</given-names></name>
+<name name-style="western"><surname>Edlinger</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Graziadei</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Hofer</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Huber</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Association between antipsychotic-induced elevation of liver enzymes and weight gain: a prospective study.</article-title>
+              <source>J Clin Psychopharmacol</source>
+              <year>2006</year>
+              <volume>26</volume>
+              <fpage>500</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Prospective study of 67 patients [21 on olanzapine] started on atypical antipsychotics; ALT elevations were more frequent [and higher] in 14 patients who gained &#x0003e;7% of body weight than in 53 who did not [50% vs 19%]; all elevations were transient, asymptomatic and not associated with bilirubin elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16974192</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.ozcanli.2006.1163">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ozcanli</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Erdogan</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Ozdemir</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Onen</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Ozmen</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Doksat</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Sonsuz</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Severe liver enzyme elevations after three years of olanzapine treatment: a case report and review of olanzapine associated hepatotoxicity.</article-title>
+              <source>Prog Neuropsychopharmacol Biol Psychiatry</source>
+              <year>2006</year>
+              <volume>30</volume>
+              <fpage>1163</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(44 year old woman with bipolar illness treated with olanzapine for 3 years developed anorexia and abdominal pain [normal bilirubin, ALT 710 U/L, GGT 56 U/L], resolving 3 weeks after stopping; ALT had been normal previously).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16632162</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.wright.2007.1518">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wright</surname><given-names>TM</given-names></name>
+<name name-style="western"><surname>Vandenberg</surname><given-names>AM</given-names></name>
+</person-group>
+              <article-title>Risperidone- and quetiapine-induced cholestasis.</article-title>
+              <source>Ann Pharmacother</source>
+              <year>2007</year>
+              <volume>41</volume>
+              <fpage>1518</fpage>
+              <lpage>23</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(30 year old man developed jaundice after taking risperidone and lithium for 8 years [bilirubin 4.7 mg/dL, ALT 99 U/L, Alk P 267 U/L], resolving upon switching to ziprasidone, but recurrent jaundice 1 year later 3 weeks after starting quetiapine, having tolerated olanzapine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17666578</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.atasoy.2007.1255">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Atasoy</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Erdogan</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Yalug</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Ozturk</surname><given-names>U</given-names></name>
+<name name-style="western"><surname>Konuk</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Atik</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Ustundag</surname><given-names>Y.</given-names></name>
+</person-group>
+              <article-title>A review of liver function tests during treatment with atypical antipsychotic drugs: a chart review study.</article-title>
+              <source>Prog Neuropsychopharmacol Biol Psychiatry</source>
+              <year>2007</year>
+              <volume>31</volume>
+              <fpage>1255</fpage>
+              <lpage>60</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Retrospective analysis of 194 patients receiving atypical antipsychotic agents; ALT &#x0003e;3 times normal occurred in 27% often in 1st month; among 33 receiving olanzapine, 30% had ALT elevation, 18% at 6 months, and 2 stopped drug for ALT elevations of 3 times &#x0201c;basal level&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17600607</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.johnsen.2008.31">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Johnsen</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>J&#x000f8;rgensen</surname><given-names>HA</given-names></name>
+</person-group>
+              <article-title>Effectiveness of second generation antipsychotics: a systematic review of randomized trials.</article-title>
+              <source>BMC Psychiatry</source>
+              <year>2008</year>
+              <volume>8</volume>
+              <fpage>31</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of 16 reports of 10 randomized trials of antipsychotic agents; more weight gain with olanzapine, no mention of ALT elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18439263</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.torrent.2008.4">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Torrent</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Amann</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Sanchez-Moreno</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Colom</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Feinares</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Comes</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Rosa</surname><given-names>AR</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Weight gain in bipolar disorder: pharmacological treatment as a contributing factor.</article-title>
+              <source>Acta Psychiatr Scand</source>
+              <year>2008</year>
+              <volume>118</volume>
+              <fpage>4</fpage>
+              <lpage>18</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of frequency of weight gain in patients treated for bipolar disorders, most weight gain occurred with clozapine and olanzapine, but some weight gain also with quetiapine, risperidone, lithium, valproate and gabapentin; not with aripiprazole, ziprasidone, carbamazepine or lamotrigine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18498432</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.sikich.2008.1420">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sikich</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Frazier</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>McClellan</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Findling</surname><given-names>RL</given-names></name>
+<name name-style="western"><surname>Vitiello</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Ritz</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Ambler</surname><given-names>D</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Double-blind comparison of first- and second-generation antipsychotics in early-onset schizophrenia and schizo-affective disorder: findings from the treatment of early-onset schizophrenia spectrum disorders (TEOSS) study.</article-title>
+              <source>Am J Psychiatry</source>
+              <year>2008</year>
+              <volume>165</volume>
+              <fpage>1420</fpage>
+              <lpage>31</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Prospective trial of molindone [1st generation] vs olanzapine or risperidone [2nd generation antipsychotic agents] for schizophrenia in 199 youths found similar rates of efficacy [34-50%], but more weight gain [mean 6.1 kg] and ALT elevations with olanzapine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18794207</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Davern</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Serrano</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rochon</surname><given-names>J</given-names></name>
+<collab>Drug Induced Liver Injury Network (DILIN)</collab>
+</person-group>
+              <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008; severe antidepressants [duloxetine, sertraline, fluoxetine, amitriptyline], but none of the atypical antipsychotic agents, were implicated).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.kantrowitz.2008.761">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kantrowitz</surname><given-names>JT</given-names></name>
+<name name-style="western"><surname>Citrome</surname><given-names>L</given-names></name>
+</person-group>
+              <article-title>Olanzapine: review of safety 2008.</article-title>
+              <source>Expert Opin Drug Saf</source>
+              <year>2008</year>
+              <volume>7</volume>
+              <fpage>761</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of side effects of olanzapine mentions that weight gain averages 1 kg/month at least for the first year and that ALT elevations occur in 2%).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18983222</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.kane.2009.572">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kane</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Osuntokun</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Kryzhanovskaya</surname><given-names>LA</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stauffer</surname><given-names>VL</given-names></name>
+<name name-style="western"><surname>Watson</surname><given-names>SB</given-names></name>
+<name name-style="western"><surname>Breier</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>A 28-week, randomized, double-blind study of olanzapine versus aripiprazole in the treatment of schizophrenia.</article-title>
+              <source>J Clin Psychiatry</source>
+              <year>2009</year>
+              <volume>70</volume>
+              <fpage>572</fpage>
+              <lpage>81</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of olanzapine [n=281] vs aripiprazole [n=285] for 28 weeks at 60 centers; no mention of ALT values).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19323965</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.parsons.2009.103">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Parsons</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Allison</surname><given-names>DB</given-names></name>
+<name name-style="western"><surname>Loebel</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Williams</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Giller</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Romano</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Siu</surname><given-names>C</given-names></name>
+</person-group>
+              <article-title>Weight effects associated with antipsychotics: A comprehensive database analysis.</article-title>
+              <source>Schizophr Res</source>
+              <year>2009</year>
+              <volume>110</volume>
+              <fpage>103</fpage>
+              <lpage>10</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of weight gain in 21 placebo controlled trials [~3300 patients]; average monthly weight gain in pounds was +0.1 with placebo, +0.8 olanzapine, +0.6 risperidone, -0.3 ziprasidone. A 5% increase in weight occurred after one year in 13% of placebo, 39% haloperidol, 20% ziprasidone, 45% risperidone and 60% olanzapine treated subjects).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19321312</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.flanagan.2008.43">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Flanagan</surname><given-names>RJ</given-names></name>
+</person-group>
+              <article-title>Fatal toxicity of drugs used in psychiatry.</article-title>
+              <source>Hum Psychopharmacol</source>
+              <year>2008</year>
+              <volume>23</volume>
+              <supplement>Suppl 1</supplement>
+              <fpage>43</fpage>
+              <lpage>51</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Deaths from fatal poisonings decreased in England and Wales between 1993-2004, antipsychotic overdose fatalities higher for phenothiazines than atypicals; deaths/million prescriptions being 29 for chlorpromazine, 15.5 thioridazine, 3.9 trifluoperazine, 13.3 olanzapine, 21 clozapine and 31.3 quetiapine).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.lui.2009.394">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lui</surname><given-names>SY</given-names></name>
+<name name-style="western"><surname>Tso</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Lam</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Cheung</surname><given-names>EF</given-names></name>
+</person-group>
+              <article-title>Possible olanzapine-induced hepatotoxicity in a young Chinese patient.</article-title>
+              <source>Hong Kong Med J</source>
+              <year>2009</year>
+              <volume>15</volume>
+              <fpage>394</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(17 year old man developed jaundice 8 days after starting olanzapine for schizophrenia [bilirubin 7.2 mg/dL, ALT 120 U/L, Alk P 250 rising to 440 U/L], resolving within 2 months of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19801701</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.g_mez_esp_n.2010.150">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>G&#x000f3;mez Esp&#x000ed;n</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez Quiles</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Hallal</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Plaza</surname><given-names>J.</given-names></name>
+</person-group>
+              <comment>[Acute hepatocellular lesion after successive exposure to clozapine and olanzapine in a patient with chronic hepatitis C infection]</comment>
+              <source>Gastroenterol Hepatol</source>
+              <year>2010</year>
+              <volume>33</volume>
+              <fpage>150</fpage>
+              <lpage>2</lpage>
+              <comment>Spanish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(35 year old man with chronic hepatitis C developed asymptomatic rise in ALT [188 to 721 U/L] and GGT [134 to 648 U/L] 2 months after starting clozapine, improving on stopping and recurring one month after starting olanzapine [ALT 166 to 714 U/L], resolving upon stopping again).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19914745</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.devarbhavi.2010.2396">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Devarbhavi</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Dierkhising</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Kremers</surname><given-names>WK</given-names></name>
+<name name-style="western"><surname>Sandeep</surname><given-names>MS</given-names></name>
+<name name-style="western"><surname>Karanth</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Adarsh</surname><given-names>CK</given-names></name>
+</person-group>
+              <article-title>Single-center experience with drug-induced liver injury from India: causes, outcome, prognosis, and predictors of mortality.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>2010</year>
+              <volume>105</volume>
+              <fpage>2396</fpage>
+              <lpage>404</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(313 cases of drug induced liver injury were seen over a 12 year period at a large hospital in Bangalore, India; leading causes were antituberculosis agents [58%], anticonvulsants [11%], and NSAIDs [2%]; 17 cases [5%] were due to olanzapine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20648003</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.mccormack.2010.443">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>McCormack</surname><given-names>PL</given-names></name>
+</person-group>
+              <article-title>Olanzapine: in adolescents with schizophrenia or bipolar I disorder.</article-title>
+              <source>CNS Drugs</source>
+              <year>2010</year>
+              <volume>24</volume>
+              <fpage>443</fpage>
+              <lpage>52</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of indications, clinical efficacy and safety of olanzapine in adolescents; 3-6 weeks of olanzapine therapy was associated with weight gain in 42% of adolescents and ALT elevations in 23%; average ALT increase was 20 U/L vs -3 U/L with placebo).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20369908</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.ferrajolo.2010.721">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ferrajolo</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Capuano</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Verhamme</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>Schuemie</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Rossi</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Stricker</surname><given-names>BH</given-names></name>
+<name name-style="western"><surname>Sturkenboom</surname><given-names>MC</given-names></name>
+</person-group>
+              <article-title>Drug-induced hepatic injury in children: a case/non-case study of suspected adverse drug reactions in VigiBase.</article-title>
+              <source>Br J Clin Pharmacol</source>
+              <year>2010</year>
+              <volume>70</volume>
+              <fpage>721</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Worldwide pharmacovigilance database contained 9036 hepatic adverse drug reactions in children, olanzapine ranked 16th with 62 reports [adjusted reporting odds ratio of 3.1], and clozapine ranked 38th with 36 cases [0.8]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21039766</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Reuben</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Koch</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>WM</given-names></name>
+<collab>Acute Liver Failure Study Group</collab>
+</person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, none were attributed to olanzapine or other atypical antipsychotic medications).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.manceaux.2011.s15">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Manceaux</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Constant</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Zdanowicz</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Jacques</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Reynaert</surname><given-names>C</given-names></name>
+</person-group>
+              <article-title>Management of marked liver enzyme increase during olanzapine treatment: a case report and review of the literature.</article-title>
+              <source>Psychiatr Danub</source>
+              <year>2011</year>
+              <volume>23</volume>
+              <supplement>Suppl 1</supplement>
+              <fpage>S15</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(45 year old woman with intermittent mild elevations of ALT during therapy with olanzapine and clozapine [ALT 16-92 U/L, AST 16-46 U/L, GGT 26-269 U/L, bilirubin not given]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21894094</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.dom_nguezjim_nez.2012.617">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dom&#x000ed;nguez-Jim&#x000e9;nez</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Puente-Guti&#x000e9;rrez</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Pelado-Garc&#x000ed;a</surname><given-names>EM</given-names></name>
+<name name-style="western"><surname>Cuesta-Cubillas</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Garc&#x000ed;a-Moreno</surname><given-names>AM</given-names></name>
+</person-group>
+              <article-title>Liver toxicity due to olanzapine.</article-title>
+              <source>Rev Esp Enferm Dig</source>
+              <year>2012</year>
+              <volume>104</volume>
+              <fpage>617</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(47 year old developed jaundice 11 months after starting olanzapine [bilirubin 7.5 mg/dL, ALT 173 U/L, Alk P 178 U/L], resolving within 3 months of stopping: Case 1).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23368661</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.marwick.2012.244">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Marwick</surname><given-names>KF</given-names></name>
+<name name-style="western"><surname>Taylor</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Walker</surname><given-names>SW</given-names></name>
+</person-group>
+              <article-title>Antipsychotics and abnormal liver function tests: systematic review.</article-title>
+              <source>Clin Neuropharmacol</source>
+              <year>2012</year>
+              <volume>35</volume>
+              <fpage>244</fpage>
+              <lpage>53</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of the literature found rates of any serum enzyme elevation during antipsychotic therapy to range from 5-78% and "clinically significant' elevations in 0-15%; lists).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22986798</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hern&#x000e1;ndez</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bessone</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>di Pace</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Brahm</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zapata</surname><given-names>R, A</given-names></name>
+<name name-style="western"><surname>Chirino</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, only one of which was attributed to chlorpromazine, the only antipsychotic medication listed).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 5 cases [0.6%] were attributed to antipsychotic agents, including 3 due to quetiapine and 2 to olanzapine]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.musil.2015.73">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Musil</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Obermeier</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Russ</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Hamerle</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Weight gain and antipsychotics: a drug safety review.</article-title>
+              <source>Expert Opin Drug Saf</source>
+              <year>2015</year>
+              <volume>14</volume>
+              <fpage>73</fpage>
+              <lpage>96</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Extensive systematic review of the literature on the problem of weight gain during therapy with antipsychotic agents mentions that weight gain of 7% or more occurs in 18-40% of patients on olanzapine and averages +2.0 to + 4.3 kg, rates being higher than any other atypical antipsychotics, the majority of weight gain occurring during the first 6-12 months but not leveling off thereafter even with long term use).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25400109</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF51">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for psychotic disorders.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2016</year>
+              <volume>58</volume>
+              <issue>1510</issue>
+              <fpage>160</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of medications available in the US for therapy of psychotic disorders; mentions that olanzapine can cause aminotransferase elevations, and that olanzapine and ziprasidone can cause DRESS syndrome, but does not mention ALT elevations or hepatotoxicity for any of agents discussed, including aripiprazole, brexpiprazole, cariprazine, clozapine, quetiapine, risperidone, asenapine, iloperidone, paliperidone and lurasidone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27960194</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.morl_ncoarasa.2016.3947">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Morl&#x000e1;n-Coarasa</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Arias-Loste</surname><given-names>MT</given-names></name>
+<name name-style="western"><surname>Ortiz-Garc&#x000ed;a de la Foz</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Mart&#x000ed;nez-Garc&#x000ed;a</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Alonso-Mart&#x000ed;n</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Crespo</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Romero-G&#x000f3;mez</surname><given-names>M</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Incidence of non-alcoholic fatty liver disease and metabolic dysfunction in first episode schizophrenia and related psychotic disorders: a 3-year prospective randomized interventional study.</article-title>
+              <source>Psychopharmacology (Berl)</source>
+              <year>2016</year>
+              <volume>233</volume>
+              <fpage>3947</fpage>
+              <lpage>52</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 205 patients started on atypical antipsychotic agents between 2005 and 2012 followed using surrogate markers for fatty liver disease and for fibrosis [Fib-4], 48 [25%] patients developed evidence of fatty liver disease as assessed by a fatty liver index score, driven largely by weight gain [91%] and increases in waist circumference [69%] and triglycerides [54%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27620899</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.d_nmez.2017.293">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>D&#x000f6;nmez</surname><given-names>YE</given-names></name>
+<name name-style="western"><surname>&#x000d6;zcan</surname><given-names>&#x000d6;</given-names></name>
+<name name-style="western"><surname>Soylu</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Sar&#x00131;o&#x0011f;lu</surname><given-names>FK</given-names></name>
+<name name-style="western"><surname>Selimo&#x0011f;lu</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Management of hepatotoxicity Induced by the use of olanzapine.</article-title>
+              <source>J Child Adolesc Psychopharmacol</source>
+              <year>2017</year>
+              <volume>27</volume>
+              <fpage>293</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(15 year old male with new onset schizophrenia was started on olanzapine and developed abnormal ALT levels [84 U/L] within 2-8 weeks, which resolved with starting ursodiol and vitamin E allowing for continuation of olanzapine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28398814</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.baeza.2018.463">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Baeza</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>de la Serna</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Calvo-Escalona</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Merch&#x000e1;n-Naranjo</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Rodr&#x000ed;guez-Latorre</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Mart&#x000ed;nez-Cantarero</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Andr&#x000e9;s</surname><given-names>P</given-names></name>
+<etal/>
+</person-group>
+              <article-title>One-year prospective study of liver function tests in children and adolescents on second-generation antipsychotics: is there a link with metabolic syndrome?</article-title>
+              <source>J Child Adolesc Psychopharmacol</source>
+              <year>2018</year>
+              <volume>28</volume>
+              <fpage>463</fpage>
+              <lpage>73</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 216 children and adolescents starting atypical antipsychotics, mean weight gain at 6 months was 6.5 kg and mean ALT levels increased by 8.6 U/L, while among 37 taking olanzapine mean weight gain was 10.3 kg and ALT increase 2.6 U/L; increases in ALT associated most closely with development of the metabolic syndrome, mean ALT increasing by 27.8 U/L at 6 months).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29975563</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.g_mezlumbreras.2018.e601">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>G&#x000f3;mez-Lumbreras</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Marcos-Fosch</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Aguilera</surname><given-names>C</given-names></name>
+</person-group>
+              <article-title>Psychotropic drugs and liver toxicity.</article-title>
+              <source>Am J Ther</source>
+              <year>2018</year>
+              <volume>25</volume>
+              <fpage>e601</fpage>
+              <lpage>e602</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Woman developed jaundice 4 months after starting paroxetine [40 mg daily] and olanzapine [2.5 mg daily] [bilirubin 7.3 mg/dL, ALT 984 U/L, Alk P 174 U/L], resolving within 3 weeks of stopping both).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30188878</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.dusi.2019.175">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dusi</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Comacchio</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Lasalvia</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Late-onset cholestatic liver injury during combination treatment with chlorpromazine and olanzapine: a case report.</article-title>
+              <source>J Clin Psychopharmacol</source>
+              <year>2019</year>
+              <volume>39</volume>
+              <fpage>175</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(40 year old man develop jaundice 10 days after increasing the dose of olanzapine [from 10 to 15 mg daily] which he had taken for 8 years and while also receiving chlorpromazine for 15 months [bilirubin 26.6 rising to 33.3 mg/dL, ALT 51 U/L, Alk P 285 U/L], biopsy showing cholestatic hepatitis and jaundice persisting for 3 months).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30640795</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.patel.2020">
+            <mixed-citation publication-type="book">Patel H, Shirk D, Lowery J. Letter to the Editor: Role of vitamin E in olanzapine-induced hepatotoxicity. J Child Adolesc Psychopharmacol. 2020;30:576.<annotation><p><italic toggle="yes">(15 year old with disruptive mood disorder developed ALT elevations [17 rising to 110 U/L] on olanzapine, which was treated with vitamin E [100 mg daily] with prompt fall of ALT [43 U/L] and subsequent rise again when vitamin E was stopped [62 U/L], and improvement again with restarting [24 U/L]).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Olanzapine.REF.druschky.2021.373">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Druschky</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Toto</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Bleich</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Baumg&#x000e4;rtner</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Engel</surname><given-names>RR</given-names></name>
+<name name-style="western"><surname>Grohmann</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Maier</surname><given-names>HB</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Severe drug-induced liver injury in patients under treatment with antipsychotic drugs: data from the AMSP study.</article-title>
+              <source>World J Biol Psychiatry.</source>
+              <year>2021</year>
+              <volume>22</volume>
+              <fpage>373</fpage>
+              <lpage>386</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 246 cases of severe liver injury due to antipsychotic medications identified in a prospective registry of German psychiatric hospitals between 1993 and 2016, 46 arose in 38,349 patients [0.12%] who received clozapine [34 as a single antipsychotic agent]; other commonly implicated agents being olanzapine [n=90 of 54,822: 0.16%], quetiapine [34 of 66,209: 0.05%] and risperidone [27 of 51,683: 0.05%]; two fatal cases occurred in olanzapine treated patients).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32892689</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.zeiss.2022.440">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zeiss</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Hafner</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Sch&#x000f6;nfeldt-Lecuona</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Connemann</surname><given-names>BJ</given-names></name>
+<name name-style="western"><surname>Gahr</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Drug-associated liver injury related to antipsychotics: exploratory analysis of pharmacovigilance data.</article-title>
+              <source>J Clin Psychopharmacol.</source>
+              <year>2022</year>
+              <volume>42</volume>
+              <fpage>440</fpage>
+              <lpage>444</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the VigiBase data base of individual case safety reports on antipsychotics and liver injury found positive hepatic safety signals for olanzapine and clozapine, but none for risperidone, quetiapine, ziprasidone, asenapine, aripiprazole, brexpiprazole, and cariprazine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35730552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.brelje.2022.210">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Brelje</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Fay</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Mariouw</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>VandenBerg</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Identifying olanzapine induced liver injury in the setting of acute hepatitis C: A case report.</article-title>
+              <source>Ment Health Clin.</source>
+              <year>2022</year>
+              <volume>12</volume>
+              <fpage>210</fpage>
+              <lpage>213</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(27 year old woman with drug use and acute psychosis was found to have ALT elevations [482 U/L] and HCV RNA in serum on hospitalization, ALT levels worsening [to 1456 U/L] after starting olanzapine which improved when it was stopped, follow up on HCV status not provided).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35801165</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.echater.2022.80">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Echater</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Hasnaoui</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>El Bouchali</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Elghazouani</surname><given-names>F</given-names></name>
+</person-group>
+              <article-title>Cas clinique du mois. H&#x000e9;patite cholestatique aigu&#x000eb; associ&#x000e9;e &#x000e0; l&#x02019;olanzapine chez une patiente bipolaire</article-title>
+              <comment>[Acute cholestatic hepatitis associated with olanzapine in a patient with bipolar disorder]</comment>
+              <source>Rev Med Liege.</source>
+              <year>2022</year>
+              <volume>77</volume>
+              <fpage>80</fpage>
+              <lpage>84</lpage>
+              <comment>French.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(43 year old woman with bipolar disorder type 1 with an acute manic episode despite valproate developed jaundice, vomiting and pruritus 2 weeks after starting olanzapine and 3 days after dose increase to 20 mg/day [bilirubin 14.6 mg/dL, ALT 370 U/L, Alk P 782 U/L], with improvement on stopping and resolution within 1 month).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35143126</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Olanzapine.REF.gunther.2023.73">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gunther</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Dopheide</surname><given-names>JA</given-names></name>
+</person-group>
+              <article-title>Antipsychotic safety in liver disease: a narrative review and practical guide for the clinician.</article-title>
+              <source>J Acad Consult Liaison Psychiatry.</source>
+              <year>2023</year>
+              <volume>64</volume>
+              <fpage>73</fpage>
+              <lpage>82</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the literature on hepatotoxicity of antipsychotic medications and guidance on their use in patients with liver disease characterizes chlorpromazine, clozapine, and olanzapine as having the greatest risk for causing liver injury, quetiapine and risperidone as having moderate risk, haloperidol as having low risk and paliperidone, aripiprazole, lurasidone, and loxapine as having low risk).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">36180017</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Olanzapine.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Olanzapine/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Olanzapine: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Olanzapine">Trials on Olanzapine: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

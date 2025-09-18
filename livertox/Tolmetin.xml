@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Tolmetin" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Tolmetin</book-part-id>
+      <title-group>
+        <title>Tolmetin</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>20</day>
+          <month>3</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Tolcapone" document-type="chapter">Tolcapone</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Tolterodine" document-type="chapter">Tolterodine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Tolmetin.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Tolmetin.Introduction">
+          <title>Introduction</title>
+          <p content-type="pubmed-excerpt">Tolmetin is a nonsteroidal antiinflammatory drug (NSAID) that is available by prescription only and used for therapy of chronic arthritis. Tolmetin is associated with low rates of serum aminotransferase elevations during therapy and has been linked to rare instances of clinically apparent drug induced liver injury.</p>
+        </sec>
+        <sec id="Tolmetin.Background">
+          <title>Background</title>
+          <p>Tolmetin (tol' met in) belongs to the acetic acid derivative class of NSAIDs similar to diclofenac, sulindac and indomethacin. Like other NSAIDs, tolmetin is a cyclo-oxygenase (Cox-1 and Cox-2) inhibitor which blocks the formation of prostaglandins that are important in pain and inflammatory pathways. Tolmetin has analgesic as well as antipyretic and antiinflammatory activities. Tolmetin is one of the oldest NSAIDs in clinical use having been approved in the United States in 1976. It is currently not commonly used, having been replaced by NSAIDs with longer half-lives and better tolerance. The current indications for tolmetin include osteoarthritis, rheumatoid arthritis, ankylosing spondylitis and juvenile rheumatoid arthritis. Tolmetin is available only by prescription and in several generic forms of 200, 400 and 600 mg tablets or capsules and formerly under the brand name Tolectin. The usual dose in adults is 1200 to 1800 mg per day in divided doses. As with other NSAIDs, tolmetin is generally well tolerated, but side effects can include headache, dizziness, somnolence, dyspepsia, abdominal discomfort, diarrhea, peripheral edema and hypersensitivity reactions. Rare but serious adverse events from NSAIDs include gastrointestinal ulceration and bleeding, increased risk for cardiovascular disease, renal dysfunction and hypersensitivity reactions including anaphylaxis, exfoliative dermatitis and Stevens Johnson syndrome.</p>
+        </sec>
+        <sec id="Tolmetin.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Up to 5% of patients taking tolmetin chronically experience at least transient serum aminotransferase elevations. These may resolve even with drug continuation. Marked aminotransferase elevations (&#x0003e;3 fold elevated) occur in &#x0003c;1% of patients. There have been no convincing cases of tolmetin induced liver injury published in the literature and tolmetin is not mentioned as an etiologic agent in large case series on drug induced liver injury or acute liver failure. Reports of liver injury including hepatitis and acute liver failure attributed to tolmetin have been received by the Food and Drug Administration. Thus, liver injury from tolmetin may occur, but is rare. The latency, clinical features and outcome of tolmetin induced liver injury have not been described.</p>
+          <p>Likelihood score: D (possible, rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Tolmetin.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Tolmetin has a short half-life and is extensively metabolized by the liver. The mechanism of tolmetin hepatotoxicity is not known.</p>
+        </sec>
+        <sec id="Tolmetin.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The asymptomatic elevations in serum aminotransferase levels are usually self-limited and resolve even with continuing tolmetin. Convincing instances of fatal and chronic cases have not been described in the literature, but tolmetin like most drugs in the acetic acid class of NSAIDs (diclofenac, indomethacin) should be considered capable of causing clinically apparent acute liver injury.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="NonsteroidalAntiinfl" document-type="chapter">Nonsteroidal Antiinflammatory Drugs</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Tolmetin.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Tolmetin &#x02013; Generic, Tolectin&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Nonsteroidal Antiinflammatory Drugs</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=TOLMETIN+SODIUM&#x00026;pagesize=20&#x00026;page=1">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Tolmetin.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Tolmetin.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <tbody>
+              <tr>
+                <th id="hd_b_Tolmetin.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_b_Tolmetin.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_b_Tolmetin.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_b_Tolmetin.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+              <tr>
+                <td headers="hd_b_Tolmetin.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Tolmetin</td>
+                <td headers="hd_b_Tolmetin.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134998269">26171-23-3</ext-link>
+</td>
+                <td headers="hd_b_Tolmetin.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C15-H15-N-O3</td>
+                <td headers="hd_b_Tolmetin.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134998269" document-id-type="sid" document-type="summary" object-id="134998269" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Tolmetin.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 20 March 2020</p>
+        <p>Abbreviations: NSAIDs, nonsteroidal antiinflammatory drugs.</p>
+        <ref-list id="Tolmetin.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Tolmetin.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Drugs used to treat rheumatic and musculospastic disease. The NSAIDS. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 517-41.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of NSAIDs published in 1999; although there are no case reports in the literature, several instances of heptocellular injury attributed to tolmetin have been reported to the FDA).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tolmetin.REF.lewis.2013">
+            <mixed-citation publication-type="book">Lewis JH, Stine JG. Nonsteroidal anti-inflammatory drugs and leukotriene receptor antagonists: pathology and clinical presentation of hepatotoxicity. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd. Amsterdam: Elsevier, 2013, pp. 369-401.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of NSAIDs mentions that about 5% of recipients develop minor elevations in aminotransferase levels, but that clinically apparent liver injury from tolmetin is very rare).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tolmetin.REF.grossner.2018">
+            <mixed-citation publication-type="book">Grossner T, Smyth EM, Fitzgerald GA. Pharmacotherapy of inflammation, fever, pain, and gout. In, Brunton LL, Hilal-Dandan R, Knollman BC. Goodman &#x00026; Gilman&#x02019;s The pharmacological basis of therapeutics, 13th ed. New York: McGraw-Hill, 2018. pp. 685-709.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Tolmetin.REF.obrien.1983.309">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>O'Brien</surname><given-names>WM</given-names></name>
+</person-group>
+              <article-title>Long-term efficacy and safety of tolmetin sodium in treatment of geriatric patients with rheumatoid arthritis and osteoarthritis: a retrospective study.</article-title>
+              <source>J Clin Pharmacol</source>
+              <year>1983</year>
+              <volume>23</volume>
+              <fpage>309</fpage>
+              <lpage>23</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Retrospective review of 847 geriatric patients with rheumatoid arthritis or osteoarthritis treated with tolmetin, AST levels usually decreased on treatment, but minor elevations found in 19 patients [2%]; no mention of hepatitis or jaundice).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">6350377</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolmetin.REF.jick.1989.91">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Jick</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Jick</surname><given-names>SS</given-names></name>
+<name name-style="western"><surname>Hunter</surname><given-names>JR</given-names></name>
+<name name-style="western"><surname>Walker</surname><given-names>AM</given-names></name>
+</person-group>
+              <article-title>Follow-up study of tolmetin users.</article-title>
+              <source>Pharmacotherapy</source>
+              <year>1989</year>
+              <volume>9</volume>
+              <fpage>91</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Follow up of 7 years of 8370 tolmetin users for reports of hospitalization possibly caused by drug: 692 hospitalized within 90 days of prescription, but only 17 were possibly related, 11 for peptic ulcer, 1 for hepatitis, but arose &#x0003e;30 days after stopping and was considered unlikely to be related).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2726592</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolmetin.REF.zimmerman.1990.322">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zimmerman</surname><given-names>HJ</given-names></name>
+</person-group>
+              <article-title>Update of hepatotoxicity due to classes of drugs in common clinical use: non-steroid drugs, anti-inflammatory drugs, antibiotics, antihypertensives, and cardiac and psychotropic agents.</article-title>
+              <source>Semin Liver Dis</source>
+              <year>1990</year>
+              <volume>10</volume>
+              <fpage>322</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Extensive and excellent review article on liver injury due to NSAIDs; tolmetin mentioned as having led to little or no liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2281340</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolmetin.REF.shaw.1991.818">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Shaw</surname><given-names>GR</given-names></name>
+<name name-style="western"><surname>Anderson</surname><given-names>WR</given-names></name>
+</person-group>
+              <article-title>Multisystem failure and hepatic microvesicular fatty metamorphosis associated with tolmetin ingestion.</article-title>
+              <source>Arch Pathol Lab Med</source>
+              <year>1991</year>
+              <volume>115</volume>
+              <fpage>818</fpage>
+              <lpage>21</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(15 year old girl with juvenile rheumatoid arthritis developed fatigue within 10 days of starting tolmetin and was admitted with seizures, acidosis and progressive renal and pulmonary failure; ALT 440 U/L, AST 4378 U/L, LDH 7073 U/L, Alk P 212 U/L and bilirubin 1.2 mg/dL dying after 3 days; microvesicular fat on autopsy. High tolmetin levels detected suggestive of an overdose leading to shock and lactic acidosis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1863194</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolmetin.REF.rostom.2005.489">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rostom</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Goldkind</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Laine</surname><given-names>L</given-names></name>
+</person-group>
+              <article-title>Nonsteroidal anti-inflammatory drugs and hepatic toxicity: a systematic review of randomized controlled trials in arthritis patients.</article-title>
+              <source>Clin Gastroenterol Hepatol</source>
+              <year>2005</year>
+              <volume>3</volume>
+              <fpage>489</fpage>
+              <lpage>98</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of randomized clinical trials of NSAIDS for frequency of adverse events; ALT &#x0003e;3 fold ULN in 0.43% of ibuprofen, 0.43% naproxen, 0.42% celecoxib, 1.8% rofecoxib, 3.55% diclofenac and 0.29% of placebo recipients, rare liver related severe adverse events or deaths with any; no mention on tolmetin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15880319</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolmetin.REF.bj_rnsson.2005.1095">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Jerlstad</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Bergqvist</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Olsson</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Fulminant drug-induced hepatic failure leading to death or liver transplantation in Sweden.</article-title>
+              <source>Scand J Gastroenterol</source>
+              <year>2005</year>
+              <volume>40</volume>
+              <fpage>1095</fpage>
+              <lpage>101</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Survey of all cases of drug induced liver injury with fatal outcome from Swedish Adverse Drug Reporting system from 1966-2002; among 103 cases, 3 attributed to naproxen, but none to tolmetin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16165719</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolmetin.REF.lapeyremestre.2006.391">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lapeyre-Mestre</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>de Castro</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Bareille</surname><given-names>MP</given-names></name>
+<name name-style="western"><surname>Del Pozo</surname><given-names>JG</given-names></name>
+<name name-style="western"><surname>Requejo</surname><given-names>AA</given-names></name>
+<name name-style="western"><surname>Arias</surname><given-names>LM</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Non-steroidal anti-inflammatory drug-related hepatic damage in France and Spain: analysis from national spontaneous reporting systems.</article-title>
+              <source>Fundam Clin Pharmacol</source>
+              <year>2006</year>
+              <volume>20</volume>
+              <fpage>391</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of reports of liver injury from NSAIDs from France and Spain from 1982-2001; tolmetin was not listed among more than 29,000 NSAID related liver adverse event reports).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16867024</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolmetin.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Davern</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Serrano</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rochon</surname><given-names>J</given-names></name>
+<collab>Drug Induced Liver Injury Network (DILIN)</collab>
+</person-group>
+              <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, NSAIDs were implicated as a sole agent in 8 cases [4 diclofenac, 2 celecoxib, 1 meloxicam and 1 oxaprozin] and as one of several agents in 3 cases [1 diclofenac, 1 celecoxib, 1 ibuprofen]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolmetin.REF.bessone.2010.5651">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bessone</surname><given-names>F.</given-names></name>
+</person-group>
+              <article-title>Non-steroidal anti-inflammatory drugs: What is the actual risk of liver damage?</article-title>
+              <source>World J Gastroenterol</source>
+              <year>2010</year>
+              <volume>16</volume>
+              <fpage>5651</fpage>
+              <lpage>61</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of estimated frequency of drug induced liver injury due to NSAIDs from large published epidemiological studies; no mention or discussion of tolmetin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21128314</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolmetin.REF.lapeyremestre.2013.223">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lapeyre-Mestre</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Grolleau</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Montastruc</surname><given-names>JL</given-names></name>
+<collab>Adsociation Fran&#x000e7;aise des Centres R&#x000e9;gionaux de Pharmacovigilance (CRPV)</collab>
+</person-group>
+              <article-title>Adverse drug reactions associated with the use of NSAIDs: a case/noncase analysis of spontaneous reports from the French pharmacovigilance database 2002-2006.</article-title>
+              <source>Fundam Clin Pharmacol</source>
+              <year>2013</year>
+              <volume>27</volume>
+              <fpage>223</fpage>
+              <lpage>30</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of 42,389 spontaneous serious adverse event reports to the French Pharmacovigilance database on 8 NSAIDs between 2002 and 2006; liver adverse events were most frequent with nimesulide [0.15 per million daily doses] compared to diclofenac [0.09], ketoprofen [0.09] piroxicam [0.06], naproxen [0.04], meloxicam [0.03], and tenoxicam [0.03]; tolmetin not discussed).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21929527</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolmetin.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Bergmann</surname><given-names>OM</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Kvaran</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Olafsson</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, including 6 attributed to diclofenac [ranking 2nd], but none due to tolmetin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolmetin.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hern&#x000e1;ndez</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bessone</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>di Pace</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Brahm</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zapata</surname><given-names>R, A</given-names></name>
+<name name-style="western"><surname>Chirino</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, the most common class of implicated agents being NSAIDs [n=62, 32%], and specific agents were nimesulide [n=53], piroxicam [5], diclofenac [2], gold salts [1], and naproxen [1]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolmetin.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 28 were attributed to NSAIDs [Schmeltzer 2016]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolmetin.REF.schmeltzer.2016.603">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Schmeltzer</surname><given-names>PA</given-names></name>
+<name name-style="western"><surname>Kosinski</surname><given-names>AS</given-names></name>
+<name name-style="western"><surname>Kleiner</surname><given-names>DE</given-names></name>
+<name name-style="western"><surname>Hoofnagle</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Russo</surname><given-names>MW</given-names></name>
+<collab>Drug-Induced Liver Injury Network (DILIN)</collab>
+</person-group>
+              <article-title>Liver injury from nonsteroidal anti-inflammatory drugs in the United States.</article-title>
+              <source>Liver Int</source>
+              <year>2016</year>
+              <volume>36</volume>
+              <fpage>603</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1221 cases of drug induced liver injury enrolled in a prospective, US database between 2004 and 2014, 30 cases [2.5%] were attributed to NSAIDs, most commonly diclofenac [n=16], but also celecoxib [3], meloxicam [3], etodolac [2], ibuprofen [2], oxaprozin [2], valdecoxib [1] and sulindac [1], but none due to tolmetin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26601797</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolmetin.REF.donati.2016.238">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Donati</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Conforti</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Lenti</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Capuano</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Bortolami</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Motola</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Moretti</surname><given-names>U</given-names></name>
+<etal/>
+<collab>DILI-IT Study Group</collab>
+</person-group>
+              <article-title>Risk of acute and serious liver injury associated to nimesulide and other NSAIDs: data from drug-induced liver injury case-control study in Italy.</article-title>
+              <source>Br J Clin Pharmacol</source>
+              <year>2016</year>
+              <volume>82</volume>
+              <fpage>238</fpage>
+              <lpage>48</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 179 cases of acute liver injury and 1770 controls admitted to 9 Italian hospitals between 2010 and 2014, NSAIDs used more frequently in cases compared to controls included nimesulide [17% vs 10%: odds ratio 1.88] and ibuprofen [14% vs 10%: odds ratio 1.59] and risk was higher in those taking higher doses).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26991794</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Tolmetin.REF.meunier.2018.187">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Meunier</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Larrey</surname><given-names>D</given-names></name>
+</person-group>
+              <article-title>Recent advances in hepatotoxicity of non-steroidal anti-inflammatory drugs.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2018</year>
+              <volume>17</volume>
+              <fpage>187</fpage>
+              <lpage>91</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the hepatotoxicity of NSAIDS mentions the most commonly implicated are diclofenac, nimesulide, sulindac, ibuprofen, piroxicam, naproxen and aspirin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29469052</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Tolmetin.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(tolmetin/AE+NOT+clavulanic+acid)+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Tolmetin: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=tolmetin">Trials on Tolmetin: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

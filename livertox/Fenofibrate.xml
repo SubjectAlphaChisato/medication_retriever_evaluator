@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Fenofibrate" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Fenofibrate</book-part-id>
+      <title-group>
+        <title>Fenofibrate</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>24</day>
+          <month>1</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Felodipine" document-type="chapter">Felodipine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Fenoprofen" document-type="chapter">Fenoprofen</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Fenofibrate.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Fenofibrate.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Fenofibrate is a fibric acid derivative used in the therapy of hypertriglyceridemia and dyslipidemia. Fenofibrate therapy is associated with mild and transient serum aminotransferase elevations and with rare instances of acute liver injury, which can be severe and prolonged and lead to significant hepatic fibrosis.</p>
+        </sec>
+        <sec id="Fenofibrate.Background">
+          <title>Background</title>
+          <p>Fenofibrate (fen" oh fye' brate) is a fibric acid derivative. Its lipid lowering activity is probably mediated by its interactions with the peroxisome proliferator activated receptor alpha (PPAR&#x003b1;), which regulates gene expression of enzymes involved in fatty acid oxidation. These fenofibrate induced changes cause an increase in lipoprotein lipase levels which enhance clearance of triglyceride-rich lipoproteins. Fenofibrate is recommended for therapy of hypertriglyceridemia (Fredrickson types IV and V hyperlipidemia) and hypercholesterolemia (Fredrickson types IIa and IIb). Fenofibrate was approved for use in Europe in 1975 and in the United States in 1993. Fenofibrate is available in multiple generic forms and under the brand names of Antara, Lipofen, Lofibra, TriCor and Triglide as capsules and tablets of multiple concentrations, ranging from 43 to 200 mg each. The recommended initial dosage in adults is 43 to 130 mg daily with adjustment to as high as 200 mg daily (depending upon the formulation). Common side effects of fenofibrate include nausea, gastrointestinal upset, headache, muscle cramps and rash. Fibrates have multiple drug interactions requiring careful review and use.</p>
+        </sec>
+        <sec id="Fenofibrate.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Mild, transient serum aminotransferase elevations develop in up to 20% of patients receiving fenofibrate, but values above 3 times normal in only 3% to 5%. These abnormalities are usually asymptomatic and transient, resolving even with continuation of fenofibrate, but they occasionally may require drug discontinuation. Monitoring of aminotransferase levels is recommended for patients receiving fenofibrate and discontinuation if enzymes persist above 3 times the upper limit of normal (ULN).</p>
+          <p>There have also been multiple reports of clinically apparent liver injury in patients on fenofibrate. Onset of injury is variable; cases resembling acute hepatitis usually arise within a few weeks or months of starting therapy (Case 2), whereas cases resembling chronic hepatitis and cirrhosis typically arise after more than 6 months or even years of treatment (Case 1). The pattern of serum enzyme elevations is typically hepatocellular, but both mixed and cholestatic patterns have also been described. Some instances of acute injury with a short latency (2 to 8 weeks) are associated with fever, rash and eosinophilia, suggesting immunoallergic hepatitis. Cases with a longer latency typically present with nonspecific symptoms of weakness and fatigue, have autoimmune features with hyperglobulinemia, smooth muscle or antinuclear antibody, and a chronic hepatitis-like clinical and histological picture that is sometimes prolonged and associated with significant fibrosis or cirrhosis.</p>
+          <p>Likelihood score: B (very likely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Fenofibrate.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of hepatotoxicity of fenofibrate is not known but appears to be immunologic. Cases of autoimmune-like hepatitis due to fenofibrate suggest that there is induction of immune reactivity to altered metabolites or fenofibrate-protein haptens in the liver.</p>
+        </sec>
+        <sec id="Fenofibrate.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Several instances of chronic liver injury and fibrosis have been reported with fenofibrate use, typically in patients who were continued on therapy despite evidence of liver injury. However, in most cases, serum aminotransferase levels eventually fall to normal within 2 to as long as 12 months after stopping. Rechallenge is usually followed by recurrence of liver injury and should be avoided. While many cases of fenofibrate associated liver injury have been prolonged and severe, there have been no instances of acute liver failure due to the fibrates. Chronic injury with vanishing bile duct syndrome may underlie many of the instances of chronic liver disease due to fenofibrate. In other instances, features of autoimmune hepatitis are present (ANA, SMA or high immunoglobulin levels). Corticosteroids have been used with apparent effect on serum enzyme levels, but their efficacy in altering the outcome of injury is less clear. If corticosteroids are used, the dose and duration of therapy should be kept to a minimum. Although not proven, there may be some degree of cross reactivity to hepatic injury among the different fibrates.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Lipid-LoweringAgents">Antilipemic Agents</related-object>, <related-object source-id="livertox" document-id="Fibrates">Fibrates</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Fenofibrate.CASE_REPORTS">
+        <title>CASE REPORTS</title>
+        <sec id="Fenofibrate.Case_1._Acute_hepatitis_due_">
+          <title>Case 1. Acute hepatitis due to fenofibrate therapy.</title>
+          <p>[Modified from: Rigal J, Furet Y, Autret E, Breteau M. [Severe mixed hepatitis caused by fenofibrate? A review of the literature apropos of a case]. Rev Med Interne 1989; 10: 65-7. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/2655052">PubMed Citation</ext-link>]</p>
+          <p>A 74 year old woman developed jaundice having been on oral therapy with fenofibrate (200 mg daily) for two years. She was not taking other medications and had no history of liver disease, alcohol use, or exposures to hepatitis. On hospital admission, physical examination revealed jaundice but no fever or rash. Laboratory findings included marked elevations in serum aminotransferase levels (Table) and bilirubin of 4.7 mg/dL. Tests for hepatitis A and B were negative, as were autoantibodies. Abdominal ultrasound and endoscopic retrograde cholangiopancreatography showed no evidence of biliary obstruction. During the first week in the hospital, serum bilirubin rose to 13.3 mg/dL and prothrombin time decreased to 46% of normal. At this point, fenofibrate was stopped and she then began to improve, with rapid regression of jaundice, allowing her to be discharged after 25 days in the hospital. In follow up over the next year, all abnormal liver tests returned to normal.</p>
+          <sec id="Fenofibrate.Key_Points1">
+            <title>Key Points</title>
+            <table-wrap id="Fenofibrate.T1" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Fenofibrate.T1_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Fenofibrate (200 mg daily)</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Fenofibrate.T1_1_1_1_1" id="hd_b_Fenofibrate.T1_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Fenofibrate.T1_1_1_1_1" rowspan="1" colspan="1">Hepatocellular (R=12)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Fenofibrate.T1_1_1_1_1" id="hd_b_Fenofibrate.T1_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Fenofibrate.T1_1_1_2_1" rowspan="1" colspan="1">3+ (jaundice, hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Fenofibrate.T1_1_1_1_1" id="hd_b_Fenofibrate.T1_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Fenofibrate.T1_1_1_3_1" rowspan="1" colspan="1">2 years</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Fenofibrate.T1_1_1_1_1" id="hd_b_Fenofibrate.T1_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Fenofibrate.T1_1_1_4_1" rowspan="1" colspan="1">2 months</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Fenofibrate.T1_1_1_1_1" id="hd_b_Fenofibrate.T1_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Fenofibrate.T1_1_1_5_1" rowspan="1" colspan="1">None mentioned</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Fenofibrate.Laboratory_Values1">
+            <title>Laboratory Values</title>
+            <table-wrap id="Fenofibrate.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Fenofibrate.T2_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Fenofibrate.T2_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Fenofibrate.T2_1_1_1_3" rowspan="1" colspan="1">AST (U/L)</th>
+                    <th id="hd_h_Fenofibrate.T2_1_1_1_4" rowspan="1" colspan="1">GGT (U/L)</th>
+                    <th id="hd_h_Fenofibrate.T2_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Fenofibrate.T2_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_1 hd_h_Fenofibrate.T2_1_1_1_2 hd_h_Fenofibrate.T2_1_1_1_3 hd_h_Fenofibrate.T2_1_1_1_4 hd_h_Fenofibrate.T2_1_1_1_5 hd_h_Fenofibrate.T2_1_1_1_6" colspan="6" rowspan="1">Started on fenofibrate for hyperlipidemia</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_1" rowspan="1" colspan="1">2 years</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_3" rowspan="1" colspan="1">1430</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_4" rowspan="1" colspan="1">142</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_5" rowspan="1" colspan="1">4.6</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_6" rowspan="1" colspan="1">Alk P=315 (6-fold elevated)</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_1" rowspan="1" colspan="1">+7 days</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_3" rowspan="1" colspan="1">900</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_4" rowspan="1" colspan="1">160</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_5" rowspan="1" colspan="1">12.5</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_1" rowspan="1" colspan="1">+10 days</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_3" rowspan="1" colspan="1">800</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_4" rowspan="1" colspan="1">160</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_5" rowspan="1" colspan="1">13.3</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_6" rowspan="1" colspan="1">Fenofibrate stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_2" rowspan="1" colspan="1">4 days</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_3" rowspan="1" colspan="1">540</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_4" rowspan="1" colspan="1">200</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_5" rowspan="1" colspan="1">12.8</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_2" rowspan="1" colspan="1">8 days</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_3" rowspan="1" colspan="1">400</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_5" rowspan="1" colspan="1">11.3</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_2" rowspan="1" colspan="1">12 days</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_3" rowspan="1" colspan="1">440</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_5" rowspan="1" colspan="1">8.8</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_2" rowspan="1" colspan="1">1 month</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_3" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_4" rowspan="1" colspan="1">23</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_5" rowspan="1" colspan="1">4.3</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_2" rowspan="1" colspan="1">2 months</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_3" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_4" rowspan="1" colspan="1">30</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_5" rowspan="1" colspan="1">0.7</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_1 hd_h_Fenofibrate.T2_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;20</bold>
+</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;25</bold>
+</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Fenofibrate.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Fenofibrate.Comment1">
+            <title>Comment</title>
+            <p>This elderly woman developed a moderately severe, acute hepatocellular injury years after starting fenofibrate therapy, a distinctly unusual latency for drug-induced liver injury, but not inconsistent with other reports of fenofibrate hepatotoxicity. The hepatic injury was severe and associated with prolongation of prothrombin time and worsening liver function tests. Liver biopsy was not performed, but most cases of fenofibrate induced liver injury with a prolonged time to onset have been associated with hepatic fibrosis and, in some cases, cirrhosis. Ultimate recovery and return of serum enzyme levels into the normal range is typical even in cases with chronic hepatitis and cirrhosis.</p>
+          </sec>
+        </sec>
+        <sec id="Fenofibrate.Case_2._Acute_hepatitis_due_">
+          <title>Case 2. Acute hepatitis due to fenofibrate.</title>
+          <p>[Modified from: Ho CY, Kuo TH, Chen TS, Tsay SH, Chang FY, Lee SD. Fenofibrate-induced acute cholestatic hepatitis. J Chin Med Assoc 2004; 67: 245-7. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/15357112">PubMed Citation</ext-link>]</p>
+          <p>A 61 year old man with diabetes, hyperlipidemia and hypertension was started on fenofibrate (300 mg daily) and developed dark urine and fatigue two weeks later. After another two weeks, he presented to his physician and was found to be jaundiced. Fenofibrate was stopped, and he was admitted for evaluation. Serum aminotransferase and alkaline phosphatase levels were elevated, and total bilirubin was 9.3 mg/dL (Table). Tests for markers of acute hepatitis A, B and C were negative. Serum autoantibodies were not detected. An abdominal ultrasound and endoscopic retrograde cholangiography showed no evidence of biliary obstruction. A liver biopsy showed intrahepatic cholestasis, mild degrees of steatosis, and inflammatory cells and mild fibrosis in portal areas. His liver tests improved slowly and were normal two months later.</p>
+          <sec id="Fenofibrate.Key_Points2">
+            <title>Key Points</title>
+            <table-wrap id="Fenofibrate.T3" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Fenofibrate.T3_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Fenofibrate (300 mg daily)</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Fenofibrate.T3_1_1_1_1" id="hd_b_Fenofibrate.T3_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Fenofibrate.T3_1_1_1_1" rowspan="1" colspan="1">Mixed (R=2.4&#x02192;1.4)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Fenofibrate.T3_1_1_1_1" id="hd_b_Fenofibrate.T3_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Fenofibrate.T3_1_1_2_1" rowspan="1" colspan="1">3+ (jaundice, hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Fenofibrate.T3_1_1_1_1" id="hd_b_Fenofibrate.T3_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Fenofibrate.T3_1_1_3_1" rowspan="1" colspan="1">2 weeks</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Fenofibrate.T3_1_1_1_1" id="hd_b_Fenofibrate.T3_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Fenofibrate.T3_1_1_4_1" rowspan="1" colspan="1">2 months</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Fenofibrate.T3_1_1_1_1" id="hd_b_Fenofibrate.T3_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Fenofibrate.T3_1_1_5_1" rowspan="1" colspan="1">Aspirin, glibenclamide, metformin, pravastatin, nifedipine and dipyridamole for several years.</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Fenofibrate.Laboratory_Values2">
+            <title>Laboratory Values</title>
+            <table-wrap id="Fenofibrate.T4" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Fenofibrate.T4_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Fenofibrate.T4_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Fenofibrate.T4_1_1_1_3" rowspan="1" colspan="1">ALT* (U/L)</th>
+                    <th id="hd_h_Fenofibrate.T4_1_1_1_4" rowspan="1" colspan="1">Alk P* (U/L)</th>
+                    <th id="hd_h_Fenofibrate.T4_1_1_1_5" rowspan="1" colspan="1">Bilirubin* (mg/dL)</th>
+                    <th id="hd_h_Fenofibrate.T4_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_1 hd_h_Fenofibrate.T4_1_1_1_2 hd_h_Fenofibrate.T4_1_1_1_3 hd_h_Fenofibrate.T4_1_1_1_4 hd_h_Fenofibrate.T4_1_1_1_5 hd_h_Fenofibrate.T4_1_1_1_6" colspan="6" rowspan="1">Started on fenofibrate for hyperlipidemia</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_1" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_3" rowspan="1" colspan="1">249</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_4" rowspan="1" colspan="1">259</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_5" rowspan="1" colspan="1">9.3</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_6" rowspan="1" colspan="1">GGT=1014 U/L</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_1" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_2" rowspan="1" colspan="1">5 days</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_3" rowspan="1" colspan="1">200</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_4" rowspan="1" colspan="1">360</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_5" rowspan="1" colspan="1">8.0</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_6" rowspan="1" colspan="1">Given ursodiol</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_2" rowspan="1" colspan="1">8 days</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_3" rowspan="1" colspan="1">115</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_4" rowspan="1" colspan="1">300</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_5" rowspan="1" colspan="1">4.9</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_1" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_2" rowspan="1" colspan="1">12 days</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_3" rowspan="1" colspan="1">55</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_5" rowspan="1" colspan="1">3.4</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_2" rowspan="1" colspan="1">15 days</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_3" rowspan="1" colspan="1">30</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_4" rowspan="1" colspan="1">260</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_5" rowspan="1" colspan="1">3.0</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_1" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_2" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_3" rowspan="1" colspan="1">20</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_4" rowspan="1" colspan="1">160</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_5" rowspan="1" colspan="1">2.0</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_1" rowspan="1" colspan="1">12 weeks</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_2" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_3" rowspan="1" colspan="1">25</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_4" rowspan="1" colspan="1">125</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_5" rowspan="1" colspan="1">1.3</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_1 hd_h_Fenofibrate.T4_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;40</bold>
+</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;100</bold>
+</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Fenofibrate.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <p>* Estimated from Figure 1.</p>
+          </sec>
+          <sec id="Fenofibrate.Comment2">
+            <title>Comment</title>
+            <p>This patient developed symptoms of acute hepatitis within 2 weeks of starting fenofibrate and was found to be jaundice when seen two weeks later. The serum enzyme elevations were initially "mixed" but then evolved into a cholestatic pattern. Testing closer to the time of onset (2 weeks before presentation) may have shown a more hepatocellular pattern. Recovery is usually prompt and complete in cases of acute injury due to fenofibrate with a short latency period. This patient was treated with ursodiol which is frequently used in cholestatic liver disease, although its efficacy has not been proven.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Fenofibrate.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Fenofibrate.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Fenofibrate &#x02013; Antara&#x000ae;, Lipofen&#x000ae;, Lofibra&#x000ae;, Tricor&#x000ae;, Triglide&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Antilipemic Agents</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=fenofibrate">COMPLETE LABELING</ext-link>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Fenofibrate.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Fenofibrate.T5" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Fenofibrate.T5_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Fenofibrate.T5_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Fenofibrate.T5_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Fenofibrate.T5_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Fenofibrate.T5_1_1_1_1" rowspan="1" colspan="1">Fenofibrate</td>
+                <td headers="hd_h_Fenofibrate.T5_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135000744">49562-28-9</ext-link>
+</td>
+                <td headers="hd_h_Fenofibrate.T5_1_1_1_3" rowspan="1" colspan="1">C20-H21-Cl-O4</td>
+                <td headers="hd_h_Fenofibrate.T5_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Fenofibrate.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Image of Chemical Structure</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Fenofibrate.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 24 January 2017</p>
+        <ref-list id="Fenofibrate.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Fenofibrate.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Drugs used in the treatment of hypercholesterolemia and hyperlipidemia. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 660-2.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of lipid lowering agents including clofibrate, fenofibrate and gemfibrozil, all three of which can lead to mild-to-moderate serum aminotransferase elevations, and which have been associated with hepatic injury).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R2">
+            <mixed-citation publication-type="other">De Marzio DH, Navarro VJ. Fibrates. Hepatotoxicity of cardiovascular and antidiabetic drugs: fibrates. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 527.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of fibrates; fenofibrate is the most commonly implicated fibrate in causing liver injury, which can be severe and prolonged with autoimmune features and the potential for chronicity).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R3">
+            <mixed-citation publication-type="other">Bersot TP. Drug therapy for hypercholesterolemia and dyslipidemia. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 877-908.<annotation><p><italic toggle="yes"> (Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R4">
+            <mixed-citation publication-type="journal">de Gennes JL, Truffert J. [Elevation of glutamic-pyruvic transaminases under procetofene treatment of idiopathic hyperlipemia: incidence and significance in 443 treated cases]. Nouv Presse Med 1978; 7: 2398-9. French. <annotation><p><italic toggle="yes">(Report of 443 patients treated with fenofibrate in a dose of 300-400 mg daily for an average of 1 year, found ALT elevations in 19%, &#x0003e;100 U/L in 3%, and persistence in 4%).</italic></p></annotation><pub-id pub-id-type="pmid">673817</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R5">
+            <mixed-citation publication-type="journal">Aron E, Metman EH, Bougnoux P. [Hepatitis due to procetofene? 1 case]. Nouv Presse Med 1979; 8: 783. French. <annotation><p><italic toggle="yes">(77 year old man developed fatigue shortly after starting fenofibrate; after 3 months, bilirubin was 1.2 mg/dL, ALT 205 U/L, Alk P normal; also on amiodarone, but biopsy showed little fat; resolution in 2 months after stopping).</italic></p></annotation><pub-id pub-id-type="pmid">461126</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R6">
+            <mixed-citation publication-type="journal">Couzigou P, Boutillier P, Boisseau C, Faucher P, De Mascarel A, Amouretti M, Beraud C, et al. [Drug-induced hepatitis due to fenofibrate] Therapie 1980; 35: 403. <annotation><p><italic toggle="yes">(74 year old woman developed fatigue after 2 years of therapy with fenofibrate [bilirubin 2.9 mg/dL, ALT 75 U/L], with no improvement over following 6 months; no further follow up available).</italic></p></annotation><pub-id pub-id-type="pmid">7423433</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R7">
+            <mixed-citation publication-type="journal">Vachon JM. [Hepatitis caused by procetofen]. Nouv Presse Med 1980; 9: 2740. French. <annotation><p><italic toggle="yes">(63 year old woman developed fatigue 6 months after starting fenofibrate [bilirubin 1.5 mg/dL, ALT 110 U/L, Alk P 30 U/L], resolving in 7 weeks, recurrence with rechallenge with 1.5 month latency [ALT rising to 207 U/L]).</italic></p></annotation><pub-id pub-id-type="pmid">6107896</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R8">
+            <mixed-citation publication-type="journal">Fromantin M, Gautier D, Quatre JM, Bon R. Efficacite et tolerance due fenofibrate au cours de traitements a long terme. [Efficacy and tolerance of longterm treatment with fenofibrate]. Therapie 1982; 36: 473-6. <annotation><p><italic toggle="yes">(Among 121 patients treated with fenofibrate for 3 years, 10 [9%] had ALT elevations usually arising within 3-4 months of starting, largely mild, transient and asymptomatic).</italic></p></annotation><pub-id pub-id-type="pmid">7292431</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R9">
+            <mixed-citation publication-type="journal">Homberg JC, Abuaf N, Helmy-Khalil S, Biour M, Poupon R, Islam S, Darnis F, et al. Drug-induced hepatitis associated with anticytoplasmic organelle autoantibodies. Hepatology 1985; 5: 722-7. <annotation><p><italic toggle="yes">(Among 157 patients with drug induced liver disease who were tested for ANA and anti-cytoplasmic autoantibodies, 11% had ANA [methyldopa, papaverine, clometacin and oxyphenisatin], none had AMA, 5 anti-LKM [halothane and ticrynafen], and 21% had SMA [mostly clometacin, fenofibrate, oxyphenisatin and papaverine]; most antibodies decreased in titer and/or disappeared within 6 months of stopping; all 4 fenofibrate cases were SMA positive).</italic></p></annotation><pub-id pub-id-type="pmid">4029887</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R10">
+            <mixed-citation publication-type="journal">Migneco G, Mascarella A, La Ferla A, Attianese R. [Clofibrate hepatitis. A case report] Minerva Med 1986; 77: 799-800. <annotation><p><italic toggle="yes">(51 year old woman developed abdominal pain and fatigue 3 months after starting clofibrate [bilirubin normal, ALT 210 U/L], rapid resolution on stopping; 4 months later presented again having taken fenofibrate for 1 month [ALT 76 U/L, Alk P normal], and rapid resolution again on stopping).</italic></p></annotation><pub-id pub-id-type="pmid">3714094</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R11">
+            <mixed-citation publication-type="journal">Massen H, Furet Y. [Hepatitis caused by fenofibrate] Cah Anesthesiol 1986; 34: 249-50. <annotation><p><italic toggle="yes">(77 year old developed jaundice within 2 weeks of starting fenofibrate and allopurinol [bilirubin 5.3 mg/dL, ALT 159 U/L, Alk P 239 U/L], resolution within 7 days of stopping both).</italic></p></annotation><pub-id pub-id-type="pmid">3742311</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R12">
+            <mixed-citation publication-type="journal">Roberts WC. Safety of fenofibrate: US and worldwide experience. Cardiol 1989; 76: 169-79. <annotation><p><italic toggle="yes">(Review of structure, mechanism of action, preclinical toxicology showing peroxisome proliferation in rodents, and safety in clinical trials; in US trials [n=383] ALT elevations in 4.2% with fenofibrate and 1.6% placebo; rarely required discontinuation; postmarketing surveillance showed 13 cases of hepatitis; no evidence of peroxisome proliferation in human liver biopsies).</italic></p></annotation><pub-id pub-id-type="pmid">2673510</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R13">
+            <mixed-citation publication-type="journal">Rigal J, Furet Y, Autret E, Breteau M. [Severe mixed hepatitis caused by fenofibrate? A review of the literature apropos of a case] Rev Med Interne 1989; 10: 65-7. <annotation><p><italic toggle="yes">(74 year old developed jaundice 2 years after starting fenofibrate [bilirubin 4.7 mg/dL, ALT 1430 U/L, Alk P 315 U/L], with worsening [bilirubin 8.2 mg/dL] until fenofibrate stopped, and then resolving in 2 months).</italic></p></annotation><pub-id pub-id-type="pmid">2655052</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R14">
+            <mixed-citation publication-type="journal">Balfour JA, McTavish D, Heel RC. Fenofibrate. A review of its pharmacodynamic and pharmacokinetic properties and therapeutic use in dyslipidaemia. Drugs 1990; 40: 260-90. <annotation><p><italic toggle="yes">(Review of pharmacology, efficacy and safety of fenofibrate).</italic></p></annotation><pub-id pub-id-type="pmid">2226216</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R15">
+            <mixed-citation publication-type="journal">Bravo ML, Azagra R, Aguy&#x000e9; A, Freixas M. [Acute hepatitis: an adverse reaction to fenofibrate treatment] Aten Primaria 1992; 10: 697-8. <annotation><p><italic toggle="yes">(34 year old man developed asymptomatic elevations in ALT [104 U/L] 6 months after starting fenofibrate; remained elevated 6 and 12 months later before becoming normal, but unclear whether and when fenofibrate was stopped).</italic></p></annotation><pub-id pub-id-type="pmid">1420784</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R16">
+            <mixed-citation publication-type="journal">Lelouch S, Pelletier G, Sinico M, Ducreux M, Etienne JP. [Fenofibrate-induced acute hepatitis with pseudo-cholangitis] Gastroenterol Clin Biol 1992; 16: 597-9. <annotation><p><italic toggle="yes">(65 year old man developed abdominal pain and fever 1 week after restarting fenofibrate and oxacillin, resolving rapidly on stopping both; pain and fever recurred 2 days after restarting fenofibrate alone [bilirubin ~1.8 mg/dL, ALT 12 times ULN, Alk P near normal], resolving within 1 month of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">1526421</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R17">
+            <mixed-citation publication-type="journal">Chatrenet P, Regimbeau C, Ramain JP, Penot J, Bruandet P. [Chronic active cirrhogenic hepatitis induced by fenofibrate] Gastroenterol Clin Biol 1993; 17: 612-3. <annotation><p><italic toggle="yes">(59 year old woman developed jaundice 14 months after starting fenofibrate [bilirubin 19.5 mg/mL, ALT 34 times and Alk P 1.5 times ULN, IgG high, ANA negative], resolution over 9 months after stopping; biopsy showed chronic hepatitis and fibrosis).</italic></p></annotation><pub-id pub-id-type="pmid">8253329</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R18">
+            <mixed-citation publication-type="journal">Bernard PH, Lamouliatte H, Le Bail B, Bioulac-Sage P, Quinton A, Balabaud C. [Chronic active hepatitis associated with antinuclear antibodies induced by fenofibrate] Gastroenterol Clin Biol 1994; 18: 1048-9. <annotation><p><italic toggle="yes">(60 year old woman developed asymptomatic rises in ALT [10.9 times ULN], with normal Alk P and bilirubin 22 months after starting fenofibrate; ANA 1:32,000 and biopsy showing chronic active hepatitis and bridging fibrosis, resolution in 2 months with slow and incomplete decline in ANA).</italic></p></annotation><pub-id pub-id-type="pmid">7705574</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R19">
+            <mixed-citation publication-type="journal">Lepicard A, Mallat A, Zafrani ES, Dhumeaux D. Atteinte chronique des canaux biliares interlobulaires induite par le fenofibrate. Gastroenterol Clin Biol 1994; 18: 1033-5. <annotation><p><italic toggle="yes">(56 year old woman had asymptomatic rise in GGT [16 times ULN], Alk P [1.5 times ULN], ALT [4.5 times ULN] 5 months after starting fenofibrate, with persistent GGT elevations and biopsy showing mild loss of bile ducts).</italic></p></annotation><pub-id pub-id-type="pmid">7705563</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R20">
+            <mixed-citation publication-type="journal">Rouhier ML, Rifflet H, Rifflet I, Oberti F, Vuillemin E, Chevailler A, Cal&#x000e8;s P. [Painful acute liver involvement related to ingestion of fenofibrate] Gastroenterol Clin Biol 1996; 20: 1137-8. <annotation><p><italic toggle="yes">(53 year old female developed severe abdominal pain 36 hours after restarting fenofibrate; rechallenge caused the same pain with elevations in ALT [8 times ULN], Alk P [1.5 times ULN], normal bilirubin levels; rapid resolution; persistent ANA of 1:500).</italic></p></annotation><pub-id pub-id-type="pmid">9033862</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R21">
+            <mixed-citation publication-type="journal">Athyros VG, Athyros VG, Papageorgiou AA, Hatzikonstandinou HA, Didangelos TP, Carina MV, Kranitsas DF, et al. Safety and efficacy of long-term statin-fibrate combinations in patients with refractory familial combined hyperlipidemia. Am J Cardiol 1997; 80: 608-13. <annotation><p><italic toggle="yes">(389 patients treated with statin and fibrate combination for average of 2.5 years; 1.3% stopped because of ALT &#x0003e;3 times normal, all resolving within 4 weeks; no hepatitis or jaundice reported).</italic></p></annotation><pub-id pub-id-type="pmid">9294990</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R22">
+            <mixed-citation publication-type="journal">Ganne-Carri&#x000e9; N, de Leusse A, Guettier C, Castera L, Levecq H, Bertrand HJ, Plumet Y, et al. [Autoimmune hepatitis induced by fibrates] Gastroenterol Clin Biol 1998; 22: 525-9. <annotation><p><italic toggle="yes">(Retrospective analysis of 5 patients [4 men, 1 woman] with chronic hepatitis due to fibrates identified between 1989-1996; ages 56-73 years, on fenofibrate [n=3] or ciprofibrate [n=2] for 5-36 months; 2 asymptomatic; none with immunoallergic features or eosinophilia, with bilirubin 0.6-36 mg/dL, ALT 4-26 times ULN; all had ANA 1:200-1:2560; liver biopsy showed active cirrhosis in 3 and chronic hepatitis with fibrosis in 2; hepatitis resolved spontaneously in 2, and 3 required corticosteroid therapy in 2 of whom they could be stopped without relapse).</italic></p></annotation><pub-id pub-id-type="pmid">9762291</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R23">
+            <mixed-citation publication-type="journal">Dumortier J, Slim R, Chevallier M, Boillot O, Thaunat J-L, Vaillant E, Vial T, et al. Hepatite aigue severe cirrhogene apres preise de ciprofibrate. Gastroenterol Clin Biol 1999; 23: 1399-1400. <annotation><p><italic toggle="yes">(72 year old woman developed fatigue after 3 weeks of ciprofibrate [bilirubin 2.9 mg/dL, ALT 25 times ULN, Alk P 2 times ULN, ANA 1:40]; no improvement after 2 months, liver biopsy showed chronic active hepatitis with fibrosis; corticosteroids caused decrease in ALT, but repeat biopsy showed cirrhosis, slow but ultimate resolution).</italic></p></annotation><pub-id pub-id-type="pmid">10642628</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R24">
+            <mixed-citation publication-type="journal">Krempf M, Rohmer V, Farnier M, Issa-Sayegh M, Corda C, Sirugue I, Gerlinger C, et al. Efficacy and safety of micronized fenofibrate in a randomized double-blind study comparing four doses from 200 mg to 400 mg daily with placebo in patients with hypercholesterolemia. Diabet Metabol 2000; 26: 184-91. <annotation><p><italic toggle="yes">(Controlled trial of 4 doses of micronized fenofibrate vs placebo for 3 months in 340 patients; decreased triglycerides by 27-41%, ALT elevations above 3 times ULN occurred in 3% on fenofibrate vs 1% on placebo).</italic></p></annotation><pub-id pub-id-type="pmid">10880891</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R25">
+            <mixed-citation publication-type="journal">Fartoux-Heymann L, Narcy-Lambare B, Labayle D, Fischer D. [Acute hepatitis and drug dermatitis due to fenofibrate (Secalip)] Ann Med Interne (Paris) 2001; 152: 353-4. <annotation><p><italic toggle="yes">(43 year old man developed jaundice, rash and fever 2 weeks after starting fenofibrate [300 mg/day] [bilirubin 7.7 mg/dL, ALT 3.2 times ULN, Alk P 2.6 times ULN, atypical lymphocytes without eosinophilia], with rapid recovery and desquamation after stopping fenofibrate).</italic></p></annotation><pub-id pub-id-type="pmid">11593148</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R26">
+            <mixed-citation publication-type="journal">Punthakee Z, Scully LJ, Cuindi MM, Ooi TC. Liver fibrosis attributed to lipid lowering medications: two cases. J Intern Med 2001; 150: 249-54. <annotation><p><italic toggle="yes">(63 year old woman developed mild fatigue and abnormal ALT [443 U/L]) 2 years after starting fenofibrate, having been on statins and having normal enzymes for years [Ig G 2.2 g/dL, ANA 1:40, SMA negative], biopsy showed chronic hepatitis and bridging fibrosis; resolved within 2 months of stopping, IgG and ANA falling to normal).</italic></p></annotation><pub-id pub-id-type="pmid">11555130</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R27">
+            <mixed-citation publication-type="journal">Sgro C, Clinard F, Ouazir K, Chanay H, Allard C, Guilleminet C, Lenoir C, et al. Incidence of drug-induced hepatic injuries: a French population-based study. Hepatology 2002; 36: 451-5. <annotation><p><italic toggle="yes">(Over a 3 year period, 34 cases of drug induced liver injury were identified in a population of 81,301 in France [~14 per 100,000], one case being due to fenofibrate).</italic></p></annotation><pub-id pub-id-type="pmid">12143055</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R28">
+            <mixed-citation publication-type="journal">Pichon N, Vincensini JF, Rozi&#x000e8;re A, Labrousse F, Sautereau D, Pillegand B. [Acute cytolytic and cholestatic hepatitis induced by fenofibrate] Gastroenterol Clin Biol 2003; 27: 947-9. <annotation><p><italic toggle="yes">(59 year old man developed jaundice 2 months after starting fenofibrate [bilirubin 6.9 rising to 12.3 mg/dL, AST 5.5 times ULN, Alk P 3 times ULN], resolving within 3 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">14631314</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R29">
+            <mixed-citation publication-type="journal">Parra JL, Reddy KR. Hepatotoxicity of hypolipidemic drugs. Clin Liver Dis 2003; 7: 415-33. <annotation><p><italic toggle="yes">(Review and discussion of individual lipid lowering agents; fenofibrate has been associated with both acute and chronic liver injury including cirrhosis; chronic injury often being accompanied by features of autoimmune hepatitis).</italic></p></annotation><pub-id pub-id-type="pmid">12879992</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R30">
+            <mixed-citation publication-type="journal">Alsheikh-Ali AA, Kuvin JT, Karas RH. Risk of adverse events with fibrates. Am J Cardiol 2004; 94: 935-8. <annotation><p><italic toggle="yes">(Review of adverse event reports to FDA for gemfibrozil and fenofibrate from 1999-2003; hepatotoxicity report rates were 13 per million for gemfibrozil vs 14.6 per million for fenofibrate).</italic></p></annotation><pub-id pub-id-type="pmid">15464682</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R31">
+            <mixed-citation publication-type="journal">Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl 2004; 10: 1018-23. <annotation><p><italic toggle="yes">(Among ~50,000 liver transplants done in the US between 1990 and 2002, 270 [0.5%] were done for drug induced acute liver failure, but no case was attributed to fenofibrate or other fibrates).</italic></p></annotation><pub-id pub-id-type="pmid">15390328</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R32">
+            <mixed-citation publication-type="journal">Ho CY, Kuo TH, Chen TS, Tsay SH, Chang FY, Lee SD. Fenofibrate-induced acute cholestatic hepatitis. J Chin Med Assoc 2004; 67: 245-7. <annotation><p><italic toggle="yes">(61 year old man developed jaundice 2 months after starting fenofibrate [bilirubin 9.3 mg/dL, ALT 249 U/L, Alk P 259 U/L], resolving within 2 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">15357112</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R33">
+            <mixed-citation publication-type="journal">Ahmed F, Petrovic L, Rosen E, Gonzalez R, Jacobson IM. Fenofibrate-induced cirrhosis. Dig Dis Sci 2005; 50: 312-3. <annotation><p><italic toggle="yes">(62 year old man had abnormal liver tests without symptoms 11 months after starting fenofibrate [bilirubin 2.8 mg/dL, ALT 662 U/L, Alk P 57 U/L], resolving slowly upon stopping and biopsy showing cirrhosis with mild activity).</italic></p></annotation><pub-id pub-id-type="pmid">15745090</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R34">
+            <mixed-citation publication-type="journal">K<annotation><p><italic toggle="yes">eech A, Simes RJ, Barter P, Best J, Scott R, Taskinen MR, Forder P, et al.; FIELD study investigators. Effects of long-term fenofibrate therapy on cardiovascular events in 9795 people with type 2 diabetes mellitus (the FIELD study): randomised controlled trial. Lancet 2005; 366 (9500): 1849-61. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/16310551">PubMed Citation</ext-link> (Among 9795 patients with diabetes treated with fenofibrate or placebo for an average of 5 years, ALT levels &#x0003e;3 times ULN occurred in 0.4% on fenofibrate vs 0.8% on placebo; clinically apparent hepatitis in 6 [0.1%] of both groups).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R35">
+            <mixed-citation publication-type="journal">Dohmen K, Wen CY, Nagaoka S, Yano K, Abiru S, Ueki T, Komori A, et al. Fenofibrate-induced liver injury. World J Gastroenterol 2005; 11: 7702-3. <annotation><p><italic toggle="yes">(66 year old woman with primary biliary cirrhosis developed fever and rise in ALT [40 to 216 U/L] and Alk P [367 to 537 U/L] with eosinophilia [14%], 11 days after starting fenofibrate, liver enzymes falling to baseline 2 weeks after stopping).</italic></p></annotation><pub-id pub-id-type="pmid">16437706</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R36">
+            <mixed-citation publication-type="journal">Andrade RJ, Lucena MI, Fern&#x000e1;ndez MC, Pelaez G, Pachkoria K, Garc&#x000ed;a-Ruiz E, Garc&#x000ed;a-Mu&#x000f1;oz B, et al.; Spanish Group for the Study of Drug-Induced Liver Disease. Drug-induced liver injury: an analysis of 461 incidences submitted to the Spanish registry over a 10-year period. Gastroenterology 2005; 129: 512-21. <annotation><p><italic toggle="yes">(Analysis of 461 cases of drug induced liver disease 1984 to 2004 in Spanish Registry; 4 cases were attributed to fibrates, but no specific information given).</italic></p></annotation><pub-id pub-id-type="pmid">16083708</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R37">
+            <mixed-citation publication-type="journal">Lucena MI, Andrade RJ, Vicioso L, Gonzalez FJ, Pachkoria K, Garcia-Munoz B. Prolonged cholestasis after raloxifene and fenofibrate interaction: a case report. World J Gastroenterol 2006; 12: 5244-6. <annotation><p><italic toggle="yes">(60 year old woman developed dark urine 2 weeks after starting fenofibrate [bilirubin 9.6 mg/dL, ALT 241 U/L, Alk P 174 U/L], developing rash and prolonged jaundice [4 months] and persistence of Alk P elevations, with biopsy showing decrease in bile ducts; concurrent therapy with estrogen receptor modulator may have altered course).</italic></p></annotation><pub-id pub-id-type="pmid">16937543</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R38">
+            <mixed-citation publication-type="journal">Andrade RJ, Lucena MI, Kaplowitz N, Garc&#x000ed;a-Mu&#x00146;oz B, Borraz Y, Pachkoria K, Garc&#x000ed;a-Cort&#x000e9;s M, et al. Outcome of acute idiosyncratic drug-induced liver injury: Long-term follow-up in a hepatotoxicity registry. Hepatology 2006; 44: 1581-8. <annotation><p><italic toggle="yes">(28 of 493 [5.7%] cases of drug induced liver disease were found to have evidence of chronic injury; 2 chronic cholestatic cases were attributed to combinations of fibrates with other agents; gemfibrozil/lovastatin and fenofibrate/raloxifen).</italic></p></annotation><pub-id pub-id-type="pmid">17133470</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R39">
+            <mixed-citation publication-type="journal">Tudesq N, Bentournes M. [Hepatitis induced by fibrates] Ann Biol Clin (Paris) 2006; 64: 515-6. French. <annotation><p><italic toggle="yes"> (79 year old treated with fenofibrate for 4 years developed jaundice and ascites [bilirubin 2.7 mg/dL, ALT 36 U/L, AST 111 U/L, Alk P 639 U/L, IgG 2.4 g/mL, ANA 1:1,280], improving after stopping fenofibrate with jaundice, ascites and enzyme elevations resolving over next few months and ANA titer decreasing to 1:160).</italic></p></annotation><pub-id pub-id-type="pmid">17124754</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R40">
+            <mixed-citation publication-type="journal">Davidson MH, Armani A, McKenney JM, Jacobson TA. Safety considerations with fibrate therapy. Am J Cardiol 2007; 99 (suppl): 3C-18C. <italic toggle="yes">
+</italic><annotation><p><italic toggle="yes">(Review of several safety issues with fibrates; fibrates increase cholesterol levels in bile thus increasing cholesterol saturation; in epidemiologic studies there is a 1.7 increase in relative risk of cholelithiasis in patients on long term fibrates, most clearly shown for clofibrate; no discussion of hepatic injury).</italic></p></annotation><pub-id pub-id-type="pmid">17368275</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R41">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes"> (Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, 1 case was attributed to fenofibrate, but none to clofibrate or gemfibrozil).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R42">
+            <mixed-citation publication-type="journal">Hajdu D, Aiglov&#x000e1; K, Vinklerov&#x000e1; I, Urb&#x000e1;nek K. Acute cholestatic hepatitis induced by fenofibrate. J Clin Pharm Ther 2009; 34: 599-602. <annotation><p><italic toggle="yes">(50 year old woman developed jaundice 2 weeks after adding fenofibrate to a chronic regimen of atorvastatin and citalopram [bilirubin 31.2 mg/dL, ALT 156 U/L, Alk P 525 U/L, ANA and SMA negative], resolving within one month of stopping fenofibrate).</italic></p></annotation><pub-id pub-id-type="pmid">19744016</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R43">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, none of which were attributed to fibrates).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R44">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E, Talwalkar J, Treeprasertsuk S, Kamath PS, Takahashi N, Sanderson S, Neuhauser M, et al. Drug-induced autoimmune hepatitis: clinical characteristics and prognosis. Hepatology 2010; 51: 2040-8. <annotation><p><italic toggle="yes">(Retrospective analysis of 261 cases of autoimmune hepatitis, 24 [9%] of which were due to a medication; 11 nitrofurantoin, 11 minocylcine, but none attributed to fibrates).</italic></p></annotation><pub-id pub-id-type="pmid">20512992</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R45">
+            <mixed-citation publication-type="journal">Liberopoulos EN, Florentin M, Elisaf MS, Mikhailidis DP, Tsianos E. Fenofibrate in primary biliary cirrhosis: a pilot study. Open Cardiovasc Med J 2010; 4: 120-6. <annotation><p><italic toggle="yes"> (10 patients with primary biliary cirrhosis were treated either with fenofibrate [n=6] or continued on ursodiol [n=4] for 8 weeks; serum ALT and Alk P improved with fenofibrate therapy and no patient had worsening of disease).</italic></p></annotation><pub-id pub-id-type="pmid">20556204</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R46">
+            <mixed-citation publication-type="journal">Roth EM, McKenney JM, Kelly MT, Setze CM, Carlson DM, Gold A, Stolzenbach JC, et al. Efficacy and safety of rosuvastatin and fenofibric acid combination therapy versus simvastatin monotherapy in patients with hypercholesterolemia and hypertriglyceridemia: a randomized, double-blind study. Am J Cardiovasc Drugs 2010; 10: 175-86. (Controlled trial<annotation><p><italic toggle="yes">of several doses of fenofibrate combined with rosuvastatin vs simvastatin alone in 474 patients with hypercholesterolemia; 1% of fenofibrate/rosuvastatin vs 0% of simvastatin treated patients had an ALT elevation &#x0003e;5 times ULN, but none had clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">20524719</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R47">
+            <mixed-citation publication-type="journal">Levy C, Peter JA, Nelson DR, Keach J, Petz J, Cabrera R, Clark V, et al. Pilot study: fenofibrate for patients with primary biliary cirrhosis and an incomplete response to ursodeoxycholic acid. Aliment Pharmacol Ther 2011; 33: 235-42. <annotation><p><italic toggle="yes">(20 patients with primary biliary cirrhosis with an incomplete response to ursodiol were treated with fenofibrate for 48 weeks; none had worsening of liver disease and mean serum AST and Alk P levels improved).</italic></p></annotation><pub-id pub-id-type="pmid">21083674</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R48">
+            <mixed-citation publication-type="journal">Czaja AJ. Drug-induced autoimmune-like hepatitis. Dig Dis Sci 2011; 56: 958-76. <annotation><p><italic toggle="yes">(Review of drug induced autoimmune hepatitis, the principal causes being minocycline and nitrofurantoin; other caues being methyldopa, hydralazine, statins, fibrates, diclofenac, anti-TNF agents, interferons, propylthiouracil and isoniazid).</italic></p></annotation><pub-id pub-id-type="pmid">21327704</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R49">
+            <mixed-citation publication-type="journal">Farnier M, Marcereuil D, De Niet S, Ducobu J, Steinmetz A, Retterst&#x000f8;l K, Bryniarski L, et al. Safety of a fixed-dose combination of fenofibrate/pravastatin 160 mg/40 mg in patients with mixed hyperlipidaemia: a pooled analysis from a database of clinical trials. Clin Drug Investig 2012; 32: 281-91. <annotation><p><italic toggle="yes">(Pooled analysis of 5 large trials of fenofibrate vs a statin vs the combination for 12-64 weeks found ALT &#x0003e;3 times ULN in 1.6% of subjects on fenofibrate and 0.4% on the combination; one patient had "hepatic insufficiency of moderate intensity", but the event was considered "non-serious" because it did not lead to "patient withdrawal").</italic></p></annotation><pub-id pub-id-type="pmid">22350498</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R50">
+            <mixed-citation publication-type="journal">Geng Q, Ren J, Chen H, Lee C, Liang W. Adverse events following statin-fenofibrate therapy versus statin alone: a meta-analysis of randomized controlled trials. Clin Exp Pharmacol Physiol 2013; 40: 219-26. <annotation><p><italic toggle="yes">(Systematic review of the safety of the combination of fenofibrate and statins found higher rates of ALT and AST elevations with the combination than with statins alone).</italic></p></annotation><pub-id pub-id-type="pmid">23324122</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R51">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, of which 2 were attributed to atorvastatin and 1 to simvastatin, but none to fibrates).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R52">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, but none were attributed to a fibrates).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fenofibrate.R53">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 4 cases [0.5%] were attributed to fenofibrate).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Fenofibrate.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=fenofibrate+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Fenofibrate: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=fenofibrate">Trials on Fenofibrate: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

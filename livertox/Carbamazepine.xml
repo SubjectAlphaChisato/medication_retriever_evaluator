@@ -1,0 +1,1119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Carbamazepine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Carbamazepine</book-part-id>
+      <title-group>
+        <title>Carbamazepine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>15</day>
+          <month>1</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Captopril" document-type="chapter">Captopril</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Carbapenems" document-type="chapter">Carbapenems</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Carbamazepine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Carbamazepine.Introduction">
+          <title>Introduction</title>
+          <p content-type="pubmed-excerpt">Carbamazepine is an aromatic anticonvulsant that is widely used in therapy of epilepsy and trigeminal neuralgia and is a well established cause of clinically apparent liver injury which can be severe and even fatal.</p>
+        </sec>
+        <sec id="Carbamazepine.Background">
+          <title>Background</title>
+          <p>Carbamazepine (kar" ba maz' e peen) is an iminostilbene that is chemically related to tricyclic antidepressants and unrelated in structure to other anticonvulsants. Carbamazepine suppresses spread of seizure activity by reduction in the post-tetanic potentiation of synaptic transmission. Carbamazepine was approved for use in epilepsy in the United States in 1968 and it is still in common use with more than 2 million prescriptions being written yearly. Current indications include prevention and management of partial, complex, mixed and generalized seizures. It is used alone or in combination with other anticonvulsants. Carbamazepine is also effective in trigeminal neuralgia and peripheral neuropathies, but the mechanisms of its analgesic actions are not known. Carbamazepine is used off label for behavioral disorders and depression. Tablets of 100 mg and 200 mg and extended release capsules of 100, 200 and 400 mg are available, as are liquid formations and chewable forms for use in pediatrics. Carbamazepine is available in multiple generic forms and under the commercial names as Tegretol, Carbatrol, Equetro and Epitol. The recommended starting dose in adults for seizures is 200 mg twice daily or 100 mg four times daily, with increase in dose by 100 to 200 mg at weekly intervals based upon clinical response, but generally not exceeding 1200 mg daily. Doses in children are based upon body weight. Typically, lower doses are used for trigeminal neuralgia and other less established indications (restless leg syndrome, bipolar disorders, chorea). Frequent side effects include drowsiness, sedation, ataxia, blurred vision, nausea, vomiting, and skin rash.</p>
+        </sec>
+        <sec id="Carbamazepine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Prospective studies indicate that a sizeable proportion of patients taking carbamazepine have transient serum aminotransferase elevations (ranging from 1% to 22%). These elevations are usually benign, not associated with liver histological abnormalities and usually resolve even with drug continuation. In addition, most patients on carbamazepine develop mild-to-moderate elevations in gamma glutamyltranspeptidase (GGT) levels, probably indicative of hepatic enzyme induction rather than liver injury. Marked aminotransferase elevations (more than 5 fold elevated) occur less frequently.</p>
+          <p>Clinically apparent hepatotoxicity from carbamazepine is uncommon but well described, there being several hundred cases reported in the literature. Carbamazepine hepatotoxicity most often occurs in the setting of anticonvulsant hypersensitivity syndrome with onset of fever, followed by rash, facial edema, lymphadenopathy, elevations in white count and eosinophilia or atypical lymphocytosis, 1 to 8 weeks after starting therapy (Case 1 and 2). This syndrome is usually referred to as Drug Rash with Eosinophilia and Systemic Symptoms [DRESS]. The most frequent form of systemic involvement in DRESS syndrome is liver injury. The liver involvement ranges from mild and transient elevations in serum enzymes to abrupt onset of an acute hepatitis-like syndrome that can be severe and even fatal. However, the most common pattern of enzyme elevations in carbamazepine related DRESS syndrome is a mixed or cholestatic injury. Liver biopsy shows the cholestatic injury with focal hepatocellular necrosis, prominence of eosinophils and occasionally granulomas. In fatal cases, liver histology also shows bridging, submassive or massive necrosis. Other systemic involvement in carbamazepine induced DRESS syndrome includes myositis, nephritis and pneumonitis. Carbamazepine induced DRESS syndrome has also been linked to several cases of vanishing bile duct syndrome in which a severe cholestatic hepatitis with immunoallergic features is followed by persistence of cholestasis with itching, jaundice and prominent elevations in alkaline phosphatase levels. In most instances, vanishing bile duct syndrome gradually improves with time, but some instances are severe and unremitting, leading eventually to end stage liver disease and death or need for liver transplantation several months or even years fter onset (Case 3).</p>
+          <p>Carbamazepine hepatotoxicity can also occur without immunoallergic features in which case the latency to onset can be as long as 6 to 12 months after starting. The cases of carbamazepine liver injury without immunoallergic features tend to be hepatocellular rather than cholestatic or mixed and are more likely to be severe (Case 4). Carbamazepine is a commonly listed agent in case series of acute liver failure.</p>
+          <p>Likelihood score: A (Well established cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Carbamazepine.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of carbamazepine hepatotoxicity appears to be hypersensitivity or an immunological response to a metabolically generated drug-protein complex. Carbamzapine associated severe cutaneous adverse events (Stevens Johnson syndrome and toxic epidermal necrosis) have been linked to HLA-B*1502 in Southeast Asian populations. In European, Korean and Japanese populations this association is not found, but in whom there is a less stong association with HLA-A*3101 and carbamazepine induced hypersensitivity reactions. The association of liver injury with these HLA haplotypes has been less well demonstrated. Carbamazepine, like other aromatic anticonvulsants, can also trigger acute porphyria by inducing delta aminolevulinic acid (ALA) synthetase activity.</p>
+        </sec>
+        <sec id="Carbamazepine.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Carbamazepine hepatotoxicity is usually rapidly reversible with stopping therapy, improvements beginning within 5 to 7 days. In cases of severe injury, progression to acute liver failure and death can occur, particularly in patients presenting with a hepatocellular pattern of serum enzyme elevations (Case 4). Corticosteroids have been used but with uncertain effectiveness for the hepatic components of the hypersensitivity syndrome. Rechallenge with carbamazepine is associated with rapid and more severe recurrence and should be avoided. Cross reactivity with other aromatic anticonvulsants (phenytoin, phenobarbital, primidone, oxcarbazepine and lamotrigine) is common, but not invariable. Patients with severe hypersensitivity to carbamazepine should avoid exposure to other aromatic anticonvulsants and be switched instead to agents such as a benzodiazepine, valproate, levetiracetam, gabapentin or pregabalin.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Anticonvulsants">Anticonvulsants</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Carbamazepine.CASE_REPORTS">
+        <title>CASE REPORTS</title>
+        <sec id="Carbamazepine.Case_1._Immunoallergic_hep">
+          <title>Case 1. Immunoallergic hepatitis caused by carbamazepine.</title>
+          <p>[Modified from: Dertinger S, Dirschmid K, Vogel W, Drexel H. Immunosuppressive therapy for carbamazepine-induced hypersensitivity syndrome and hepatitis. J Hepatol 1998; 28: 356-7. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/9514552">PubMed Citation</ext-link>]</p>
+          <p>A 50 year old man with epilepsy was switched from valproate to carbamazepine and one month later presented with high fevers and fatigue. He was treated with amoxicillin and developed a diffuse maculopapular rash, adenopathy and jaundice within a few days. Laboratory testing showed eosinophilia (8%) and elevations in serum enzymes with mild jaundice (Table). Tests for viral hepatitis, autoimmune liver disease and liver imaging were negative or nonrevealing. Carbamazepine was continued for another 5 days when a liver biopsy showed evidence of drug induced liver disease. Because of worsening rash and hemorrhagic bullae, a single intravenous injection of prednisolone (250 mg) was given. He improved rapidly and was discharged after 12 days in the hospital, but returned a few days later with relapse in fever, rash and fatigue. Serum enzymes had risen as well. He was started on oral prednisone (~40 mg/day) and improved. The dose of prednisone was gradually decreased and was stopped 12 weeks later. In follow up, he was asymptomatic and had normal liver tests on chronic valproate therapy.</p>
+          <sec id="Carbamazepine.Key_Points1">
+            <title>Key Points</title>
+            <table-wrap id="Carbamazepine.T1" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Carbamazepine.T1_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Carbamazepine (600 mg/day)</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Carbamazepine.T1_1_1_1_1" id="hd_b_Carbamazepine.T1_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Carbamazepine.T1_1_1_1_1" rowspan="1" colspan="1">Mixed (R=4.6)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Carbamazepine.T1_1_1_1_1" id="hd_b_Carbamazepine.T1_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Carbamazepine.T1_1_1_2_1" rowspan="1" colspan="1">3+ (jaundice and hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Carbamazepine.T1_1_1_1_1" id="hd_b_Carbamazepine.T1_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Carbamazepine.T1_1_1_3_1" rowspan="1" colspan="1">4 weeks</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Carbamazepine.T1_1_1_1_1" id="hd_b_Carbamazepine.T1_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Carbamazepine.T1_1_1_4_1" rowspan="1" colspan="1">Complete in 6 weeks</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Carbamazepine.T1_1_1_1_1" id="hd_b_Carbamazepine.T1_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Carbamazepine.T1_1_1_5_1" rowspan="1" colspan="1">Amoxicillin after onset of fever (valproate in the past)</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Carbamazepine.Laboratory_Values1">
+            <title>Laboratory Values</title>
+            <table-wrap id="Carbamazepine.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Carbamazepine.T2_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Carbamazepine.T2_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Carbamazepine.T2_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Carbamazepine.T2_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Carbamazepine.T2_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Carbamazepine.T2_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_1" align="center" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_2" align="center" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_3" align="center" rowspan="1" colspan="1">166</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_4" align="center" rowspan="1" colspan="1">365</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_5" align="center" rowspan="1" colspan="1">3.9</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_6" align="center" rowspan="1" colspan="1">8% eosinophils</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_2" align="center" rowspan="1" colspan="1">1 day</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_3" align="center" rowspan="1" colspan="1">334</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_4" align="center" rowspan="1" colspan="1">311</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_5" align="center" rowspan="1" colspan="1">5.2</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_6" align="center" rowspan="1" colspan="1">Given iv prednisolone once</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_1 hd_h_Carbamazepine.T2_1_1_1_2 hd_h_Carbamazepine.T2_1_1_1_3 hd_h_Carbamazepine.T2_1_1_1_4 hd_h_Carbamazepine.T2_1_1_1_5 hd_h_Carbamazepine.T2_1_1_1_6" colspan="6" align="center" rowspan="1">Discharged after 12 days in hospital and readmitted 4 days later</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_1" align="center" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_2" align="center" rowspan="1" colspan="1">12 days</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_3" align="center" rowspan="1" colspan="1">324</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_4" align="center" rowspan="1" colspan="1">452</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_5" align="center" rowspan="1" colspan="1">2.2</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_6" align="center" rowspan="1" colspan="1">Worsening rash and fever</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_1" align="center" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_2" align="center" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_3" align="center" rowspan="1" colspan="1">221</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_4" align="center" rowspan="1" colspan="1">356</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_5" align="center" rowspan="1" colspan="1">1.6</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_6" align="center" rowspan="1" colspan="1">Prednisone 1 mg/kg/day</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_1" align="center" rowspan="1" colspan="1">2 months</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_2" align="center" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_3" align="center" rowspan="1" colspan="1">85</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_4" align="center" rowspan="1" colspan="1">240</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_5" align="center" rowspan="1" colspan="1">1.3</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_6" align="center" rowspan="1" colspan="1">Prednisone tapered</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_1" align="center" rowspan="1" colspan="1">3 months</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_2" align="center" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_3" align="center" rowspan="1" colspan="1">15</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_4" align="center" rowspan="1" colspan="1">82</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_1" rowspan="1" colspan="1">4 months</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_2" align="center" rowspan="1" colspan="1">3 months</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_3" align="center" rowspan="1" colspan="1">14</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_4" align="center" rowspan="1" colspan="1">64</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_5" align="center" rowspan="1" colspan="1">0.3</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_6" align="center" rowspan="1" colspan="1">Prednisone stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_1" align="center" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_2" align="center" rowspan="1" colspan="1">5 months</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_3" align="center" rowspan="1" colspan="1">15</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_4" align="center" rowspan="1" colspan="1">76</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_5" align="center" rowspan="1" colspan="1">0.3</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_1 hd_h_Carbamazepine.T2_1_1_1_2" colspan="2" align="center" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_3" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;42</bold>
+</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_4" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;115</bold>
+</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Carbamazepine.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Carbamazepine.Comment1">
+            <title>Comment</title>
+            <p>A typical case of drug related rash with eosinophilia and systemic symptoms (DRESS), also referred to as anticonvulsant hypersensitivity syndrome or immunoallergic hepatitis due to carbamazepine. The presentation and course were typical with onset of fever, rash, lymphadenopathy, eosinophilia and a mixed-hepatocellular-cholestatic form of liver injury within 4 weeks of starting carbamazepine. The course of the liver disease was relatively mild and dominated by the systemic symptoms of fever and rash. While corticosteroids have not been proven to be beneficial in drug induced liver injury, this case demonstrates that they appear to rapidly ameliorate symptoms and signs of hypersensitivity, as evidenced in this patient by the rapid response in rash and fever to a single infusion of prednisone and the relapse in symptoms when corticosteroids were not continued. While corticosteroids may shorten the period of symptoms, they have not been shown to alter the ultimate outcome which is usually complete recovery. For this reason, corticosteroids should be used cautiously, limiting the dose and duration of therapy and, as in this case, documenting sustained recovery after withdrawal.</p>
+          </sec>
+        </sec>
+        <sec id="Carbamazepine.Case_2._Cholestatic_hepati">
+          <title>Case 2. Cholestatic hepatitis caused by carbamazepine.</title>
+          <p>[Modified from: Larrey D, Hadengue A, Pessayre D, Choudat L, Degott C, Benhamou J-P. Carbamazepine-induced acute cholangitis. Dig Dis Sci 1987; 32: 554-7. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/3568943">PubMed Citation</ext-link>]</p>
+          <p>A 79 year old woman with facial neuralgia was treated with carbamazepine and clobezepam and developed itching one month later. She continued the medications for another 3 weeks when she noted worsening fatigue and jaundice. She had no history of liver disease or alcohol abuse and was on no other medications except vincamine (a vasodilator and indole alkaloid). On examination she was jaundiced and had a low-grade fever, but had no features of chronic liver disease or hepatic failure. Laboratory testing showed eosinophilia (54%) and elevations in serum enzymes with mild jaundice (Table). Test for hepatitis A and B were negative; autoantibody testing revealed an ANA of 1:100. Ultrasonography showed no evidence of biliary obstruction. A liver biopsy demonstrated marked cholestasis, bile duct injury and mild lobular inflammation compatible with drug induced liver injury. There were no granulomas. All medications were stopped and she improved rapidly, liver tests returning to normal within 3 months. Clobazepam and vincamine were restarted and all tests remained normal.</p>
+          <sec id="Carbamazepine.Key_Points2">
+            <title>Key Points</title>
+            <table-wrap id="Carbamazepine.T3" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Carbamazepine.T3_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Carbamazepine (200 mg/day)</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Carbamazepine.T3_1_1_1_1" id="hd_b_Carbamazepine.T3_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Carbamazepine.T3_1_1_1_1" rowspan="1" colspan="1">Cholestatic (R=0.4)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Carbamazepine.T3_1_1_1_1" id="hd_b_Carbamazepine.T3_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Carbamazepine.T3_1_1_2_1" rowspan="1" colspan="1">3+ (jaundice and hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Carbamazepine.T3_1_1_1_1" id="hd_b_Carbamazepine.T3_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Carbamazepine.T3_1_1_3_1" rowspan="1" colspan="1">4 weeks to symptoms, 7 weeks to jaundice</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Carbamazepine.T3_1_1_1_1" id="hd_b_Carbamazepine.T3_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Carbamazepine.T3_1_1_4_1" rowspan="1" colspan="1">Complete in 3 months</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Carbamazepine.T3_1_1_1_1" id="hd_b_Carbamazepine.T3_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Carbamazepine.T3_1_1_5_1" rowspan="1" colspan="1">Clobazepam and vincamine</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Carbamazepine.Laboratory_Values2">
+            <title>Laboratory Values</title>
+            <table-wrap id="Carbamazepine.T4" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Carbamazepine.T4_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Carbamazepine.T4_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Carbamazepine.T4_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Carbamazepine.T4_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Carbamazepine.T4_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Carbamazepine.T4_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_1" align="center" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_2" align="center" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_3" align="center" rowspan="1" colspan="1">91</td>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_4" align="center" rowspan="1" colspan="1">25</td>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_5" align="center" rowspan="1" colspan="1">6.6</td>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_6" align="center" rowspan="1" colspan="1">54% eosinophils</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_1" align="center" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_2" align="center" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_3" align="center" rowspan="1" colspan="1">89</td>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_4" align="center" rowspan="1" colspan="1">22</td>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_5" align="center" rowspan="1" colspan="1">2.2</td>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_6" align="center" rowspan="1" colspan="1">Liver biopsy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_1" align="center" rowspan="1" colspan="1">9 weeks</td>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_2" align="center" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_3" align="center" rowspan="1" colspan="1">48</td>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_4" align="center" rowspan="1" colspan="1">11</td>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_5" align="center" rowspan="1" colspan="1">1.1</td>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_1" align="center" rowspan="1" colspan="1">13 weeks</td>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_2" align="center" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_3" align="center" rowspan="1" colspan="1">52</td>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_4" align="center" rowspan="1" colspan="1">4</td>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_5" align="center" rowspan="1" colspan="1">0.8</td>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_6" align="center" rowspan="1" colspan="1">Clobazepam restarted</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_1" align="center" rowspan="1" colspan="1">19 weeks</td>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_2" align="center" rowspan="1" colspan="1">12 weeks</td>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_3" align="center" rowspan="1" colspan="1">30</td>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_4" align="center" rowspan="1" colspan="1">3</td>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_1 hd_h_Carbamazepine.T4_1_1_1_2" colspan="2" align="center" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_3" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;45</bold>
+</td>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_4" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;5</bold>
+</td>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_5" rowspan="1" colspan="1">
+<bold> &#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Carbamazepine.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <p>Some values estimated from Figure 3. Serum bilirubin levels converted from <italic toggle="yes">&#x003bc;</italic>mol to mg/dL.</p>
+          </sec>
+          <sec id="Carbamazepine.Comment2">
+            <title>Comment</title>
+            <p>This patient developed a cholestatic hepatitis with mild fever and marked eosinophilia but no rash and therefore not really drug related rash with eosinophilia and systemic symptoms (DRESS), although clearly liver injury with immunoallergic features. Recovery was rapid once carbamazepine was stopped, which had been delayed for 3 weeks despite symptoms of fatigue and itching. The roles of clobazepam (a benzodiazepine) and vincamine (a drug derived from vinca that is used to improve blood flow to the brain, but not available in the United States) were excluded by the absence of recurrence once they were restarted.</p>
+          </sec>
+        </sec>
+        <sec id="Carbamazepine.Case_3._Vanishing_bile_duc">
+          <title>Case 3. Vanishing bile duct syndrome caused by carbamazepine.</title>
+          <p>[Modified from: Forbes GM, Jeffrey GP, Shilkin KB, Reed WD. Carbamazepine hepatotoxicity: another cause of the vanishing bile duct syndrome. Gastroenterology 1992; 102: 1385-8. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/1551543">PubMed Citation</ext-link>]</p>
+          <p>A 59 year old man developed fever, rash, abdominal pain and jaundice 2 months after starting carbamazepine for glossopharyngeal neuralgia. He had no history of liver disease, drank alcohol regularly but in moderation and had no risk factors for viral hepatitis. His other medical conditions included chronic obstructive airway disease and hypertension for which he had been taking nebulized salbutamol and oral captopril for more than a year. On initial examination he was febrile (39.7 <sup>o</sup>C) and deeply jaundiced. He had a generalized erythematous, macular rash but with no mucosal involvement. There were no signs of chronic liver disease. Laboratory testing showed eosinophilia (20%) and elevations in serum enzymes with jaundice (Table). The INR was 2.06, but it corrected rapidly with vitamin K. Tests for autoantibodies were negative. Abdominal ultrasound and endoscopic retrograde cholangiography demonstrated no evidence of biliary obstruction. A liver biopsy demonstrated marked bile duct injury and portal inflammation. Carbamazepine was stopped and he was treated with oral prednisolone. The rash and fever improved rapidly and corticosteroids were tapered and stopped after 7 weeks. However, at the same time, jaundice deepened and he developed persistent pruritus. A repeat liver biopsy two months later showed lack of bile ducts and fibrotic septa extending from portal areas. Symptoms and jaundice gradually resolved over the next 10 months, but serum enzymes remained abnormal.</p>
+          <sec id="Carbamazepine.Key_Points3">
+            <title>Key Points</title>
+            <table-wrap id="Carbamazepine.T5" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Carbamazepine.T5_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Carbamazepine (dose not given)</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Carbamazepine.T5_1_1_1_1" id="hd_b_Carbamazepine.T5_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Carbamazepine.T5_1_1_1_1" rowspan="1" colspan="1">Cholestatic (R=0.4)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Carbamazepine.T5_1_1_1_1" id="hd_b_Carbamazepine.T5_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Carbamazepine.T5_1_1_2_1" rowspan="1" colspan="1">4+ (jaundice, hospitalization, abnormal INR)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Carbamazepine.T5_1_1_1_1" id="hd_b_Carbamazepine.T5_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Carbamazepine.T5_1_1_3_1" rowspan="1" colspan="1">2 months</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Carbamazepine.T5_1_1_1_1" id="hd_b_Carbamazepine.T5_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Carbamazepine.T5_1_1_4_1" rowspan="1" colspan="1">Incomplete after 16 months</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Carbamazepine.T5_1_1_1_1" id="hd_b_Carbamazepine.T5_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Carbamazepine.T5_1_1_5_1" rowspan="1" colspan="1">Captopril and salbutamol</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Carbamazepine.Laboratory_Values3">
+            <title>Laboratory Values</title>
+            <table-wrap id="Carbamazepine.T6" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Carbamazepine.T6_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Carbamazepine.T6_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Carbamazepine.T6_1_1_1_3" rowspan="1" colspan="1">AST (U/L)</th>
+                    <th id="hd_h_Carbamazepine.T6_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Carbamazepine.T6_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Carbamazepine.T6_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Carbamazepine.T6_1_1_1_1" align="center" rowspan="1" colspan="1">2 months</td>
+                    <td headers="hd_h_Carbamazepine.T6_1_1_1_2" align="center" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Carbamazepine.T6_1_1_1_3" align="center" rowspan="1" colspan="1">90</td>
+                    <td headers="hd_h_Carbamazepine.T6_1_1_1_4" align="center" rowspan="1" colspan="1">1030</td>
+                    <td headers="hd_h_Carbamazepine.T6_1_1_1_5" align="center" rowspan="1" colspan="1">12.4</td>
+                    <td headers="hd_h_Carbamazepine.T6_1_1_1_6" align="center" rowspan="1" colspan="1">20% eosinophils</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Carbamazepine.T6_1_1_1_1" rowspan="1" colspan="1">4 months</td>
+                    <td headers="hd_h_Carbamazepine.T6_1_1_1_2" rowspan="1" colspan="1">2 months</td>
+                    <td headers="hd_h_Carbamazepine.T6_1_1_1_3" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Carbamazepine.T6_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Carbamazepine.T6_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Carbamazepine.T6_1_1_1_6" rowspan="1" colspan="1">Liver biopsy: ductopenia</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Carbamazepine.T6_1_1_1_1" align="center" rowspan="1" colspan="1">12 months</td>
+                    <td headers="hd_h_Carbamazepine.T6_1_1_1_2" align="center" rowspan="1" colspan="1">10 months</td>
+                    <td headers="hd_h_Carbamazepine.T6_1_1_1_3" align="center" rowspan="1" colspan="1">56</td>
+                    <td headers="hd_h_Carbamazepine.T6_1_1_1_4" align="center" rowspan="1" colspan="1">420</td>
+                    <td headers="hd_h_Carbamazepine.T6_1_1_1_5" align="center" rowspan="1" colspan="1">1.6</td>
+                    <td headers="hd_h_Carbamazepine.T6_1_1_1_6" align="center" rowspan="1" colspan="1">Liver biopsy: fibrosis</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Carbamazepine.T6_1_1_1_1" align="center" rowspan="1" colspan="1">18 months</td>
+                    <td headers="hd_h_Carbamazepine.T6_1_1_1_2" align="center" rowspan="1" colspan="1">16 months</td>
+                    <td headers="hd_h_Carbamazepine.T6_1_1_1_3" align="center" rowspan="1" colspan="1">67</td>
+                    <td headers="hd_h_Carbamazepine.T6_1_1_1_4" align="center" rowspan="1" colspan="1">955</td>
+                    <td headers="hd_h_Carbamazepine.T6_1_1_1_5" align="center" rowspan="1" colspan="1">1.4</td>
+                    <td headers="hd_h_Carbamazepine.T6_1_1_1_6" rowspan="1" colspan="1">Asymptomatic</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Carbamazepine.T6_1_1_1_1 hd_h_Carbamazepine.T6_1_1_1_2" colspan="2" align="center" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Carbamazepine.T6_1_1_1_3" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;42</bold>
+</td>
+                    <td headers="hd_h_Carbamazepine.T6_1_1_1_4" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;135</bold>
+</td>
+                    <td headers="hd_h_Carbamazepine.T6_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Carbamazepine.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <p>Serum bilirubin levels converted from <italic toggle="yes">&#x003bc;mol/L</italic> to mg/dL.</p>
+          </sec>
+          <sec id="Carbamazepine.Comment3">
+            <title>Comment</title>
+            <p>This patient developed a drug rash, fever, eosinophilia and cholestatic hepatitis (DRESS) two months after starting carbamazepine. The cholestatic hepatitis was severe and prolonged and associated with vanishing bile ducts as shown by repeat liver biopsies. However, he eventually improved and the jaundice resolved. The ultimate prognosis, however, is uncertain. Vanishing bile ducts syndrome typically arises after an acute, severe cholestatic hepatitis with immunoallergic features.</p>
+          </sec>
+        </sec>
+        <sec id="Carbamazepine.Case_4._Acute_liver_failur">
+          <title>Case 4. Acute liver failure caused by carbamazepine.</title>
+          <p>[Modified from: Morales-Diaz M, Pinilla-Roa E, Ruiz I. Suspected carbamazepine-induced hepatotoxicity. Pharmacotherapy 1999; 19: 252-5. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/10030780">PubMed Citation</ext-link>]</p>
+          <p>A 9 year old girl developed vomiting and diarrhea five months after starting carbamazepine (500 mg daily) for chronic seizure disorder. She was found to have marked elevations in serum enzymes but carbamazepine was continued as the diagnosis was thought to be acute viral hepatitis. Four days later she was admitted to the hospital because of worsening symptoms and jaundice. Serum bilirubin was 31 mg/dL, ALT 570 U/L, AST 550 U/L and alkaline phosphatase 1332 U/L and prothrombin index 35% of normal (Table). Over the next few days she remained deeply jaundice and developed lethargy and mild asterixis. Serum ammonia levels reached 138 &#x003bc;g/dL (normal &#x0003c;83). Tests for acute hepatitis A, B and C were negative and imaging of the liver showed no evidence of biliary obstruction. A liver biopsy showed changes suggestive of drug induced liver injury. Carbamazepine was stopped and corticosteroids were started. One week later she began to improve. Seizures were controlled with phenobarbital. She was discharged on tapering doses of corticosteroids. Two months after stopping carbamazepine, her liver tests were in the normal range and one year later she was without clinical or laboratory evidence of liver damage and was seizure free.</p>
+          <sec id="Carbamazepine.Key_Points4">
+            <title>Key Points</title>
+            <table-wrap id="Carbamazepine.T7" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Carbamazepine.T7_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Carbamazepine (500 mg/day)</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Carbamazepine.T7_1_1_1_1" id="hd_b_Carbamazepine.T7_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Carbamazepine.T7_1_1_1_1" rowspan="1" colspan="1">Hepatocellular (R=14.3)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Carbamazepine.T7_1_1_1_1" id="hd_b_Carbamazepine.T7_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Carbamazepine.T7_1_1_2_1" rowspan="1" colspan="1">4+ (hepatic failure)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Carbamazepine.T7_1_1_1_1" id="hd_b_Carbamazepine.T7_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Carbamazepine.T7_1_1_3_1" rowspan="1" colspan="1">5 months</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Carbamazepine.T7_1_1_1_1" id="hd_b_Carbamazepine.T7_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Carbamazepine.T7_1_1_4_1" rowspan="1" colspan="1">2 months</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Carbamazepine.T7_1_1_1_1" id="hd_b_Carbamazepine.T7_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Carbamazepine.T7_1_1_5_1" rowspan="1" colspan="1">None mentioned</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Carbamazepine.Laboratory_Values4">
+            <title>Laboratory Values</title>
+            <table-wrap id="Carbamazepine.T8" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Carbamazepine.T8_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Carbamazepine.T8_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Carbamazepine.T8_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Carbamazepine.T8_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Carbamazepine.T8_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Carbamazepine.T8_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_1" align="center" rowspan="1" colspan="1">5 months</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_2" align="center" rowspan="1" colspan="1">pre</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_3" rowspan="1" colspan="1">570</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_4" rowspan="1" colspan="1">1332</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_5" rowspan="1" colspan="1">31</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_6" rowspan="1" colspan="1">Emergency room</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_1" align="center" rowspan="1" colspan="1">[+4 days]</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_2" align="center" rowspan="1" colspan="1">pre</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_3" rowspan="1" colspan="1">385</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_4" rowspan="1" colspan="1">385</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_5" rowspan="1" colspan="1">22</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_6" rowspan="1" colspan="1">Admission, PT index 35%</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_1" rowspan="1" colspan="1">[+8 days]</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_2" rowspan="1" colspan="1">4 days</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_3" rowspan="1" colspan="1">227</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_4" rowspan="1" colspan="1">646</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_5" rowspan="1" colspan="1">13</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_2" rowspan="1" colspan="1">8 days</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_3" rowspan="1" colspan="1">130</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_4" rowspan="1" colspan="1">687</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_5" rowspan="1" colspan="1">9.5</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_6" rowspan="1" colspan="1">PT index = 21%</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_2" rowspan="1" colspan="1">18 days</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_3" rowspan="1" colspan="1">72</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_5" rowspan="1" colspan="1">7.0</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_2" align="center" rowspan="1" colspan="1">25 days</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_3" rowspan="1" colspan="1">91</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_5" rowspan="1" colspan="1">5.0</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_6" rowspan="1" colspan="1">PT index = 100%</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_1" rowspan="1" colspan="1">7 months</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_2" rowspan="1" colspan="1">1 month</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_3" rowspan="1" colspan="1">72</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_5" rowspan="1" colspan="1">1.5</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_1" rowspan="1" colspan="1">8 months</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_2" rowspan="1" colspan="1">2 months</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_3" rowspan="1" colspan="1">16</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_4" rowspan="1" colspan="1">546</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_5" rowspan="1" colspan="1">0.7</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_1 hd_h_Carbamazepine.T8_1_1_1_2" colspan="2" align="center" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_3" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;18</bold>
+</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_4" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;600</bold>
+</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_5" rowspan="1" colspan="1">
+<bold> &#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Carbamazepine.T8_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <p>Serum bilirubin levels estimated from Figure 1. PT index, prothrombin index</p>
+          </sec>
+          <sec id="Carbamazepine.Comment4">
+            <title>Comment</title>
+            <p>This child developed an acute hepatitis 5 months after starting carbamazepine. Immunoallergic features were not present and the course was severe, marked by signs and symptoms of hepatic failure and deep jaundice. She ultimately recovered, however, improving rapidly once carbamazepine was stopped. Clearly, the most serious error that can be made in managing drug induced liver injury is to continue the medication in the face of significant injury.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Carbamazepine.CASE_REPORTS_SUBMITTED_TO_">
+        <title>CASE REPORTS SUBMITTED TO LIVERTOX</title>
+        <p>Clinical cases of drug-induced liver injury that have been submitted to LiverTox (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://livertox.niddk.nih.gov/">"Submit a Case Report"</ext-link>) are available for review. Most of these reference cases are from the Drug-Induced Liver Injury Network, but others are from users of LiverTox who have submitted data from an actual clinical case. All cases have been reviewed and cleared of personal identifiers and a brief comment added by the LiverTox editors. Click on the following link to view the submitted case reports that have been made publically available.</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://livertox.niddk.nih.gov/Home/ReferenceCases/allopurinol">
+<underline>Submitted Cases on Carbamazepine</underline>
+</ext-link>
+</p>
+      </sec>
+      <sec id="Carbamazepine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Carbamazepine.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Carbamazepine &#x02013; Tegretol&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Anticonvulsants</p>
+          <p>
+<bold>COMPLETE LABELING</bold>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Carbamazepine.CHEMICAL_FORMULA_AND_STRUC">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Carbamazepine.T9" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Carbamazepine.T9_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Carbamazepine.T9_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Carbamazepine.T9_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Carbamazepine.T9_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Carbamazepine.T9_1_1_1_1" rowspan="1" colspan="1">Carbamazepine</td>
+                <td headers="hd_h_Carbamazepine.T9_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135269948">298-46-4</ext-link>
+</td>
+                <td headers="hd_h_Carbamazepine.T9_1_1_1_3" rowspan="1" colspan="1">C15-H12-N2-O</td>
+                <td headers="hd_h_Carbamazepine.T9_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Carbamazpepine_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Carbamazepine chemical structure</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Carbamazepine.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 15 January 2017</p>
+        <ref-list id="Carbamazepine.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Carbamazepine.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Anticonvulsants. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott,1999: pp. 498-516.<annotation><p><italic toggle="yes">(Expert review of anticonvulsants and liver injury published in 1999; mentions that carbamazepine has been linked to more than 250 cases of clinically apparent liver injury including 18 deaths).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R2">
+            <mixed-citation publication-type="other">Pirmohamed M, Leeder SJ. Anticonvulsant agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013: pp 423-41.<annotation><p><italic toggle="yes">(Review of anticonvulsant induced liver injury; liver injury due to carbamazepine can be a component of a generalized hypersensitivity reaction and result in a prominent and severe hepatitis which can be fatal).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R3">
+            <mixed-citation publication-type="other">McNamara JO. Pharmacology of the epilepsies. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 583-608.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R4">
+            <mixed-citation publication-type="journal">Brukker AB, Joustra UH. [Liver damage caused by carbamazepine] Ned Tijdschr Geneeskd 1966; 110: 1181-3. Dutch. <annotation><p><italic toggle="yes">(30 year old man with difficult to control epilepsy on trimethadione, phenobarbital, ethosuximide and carbamazepine for 3 months developed vomiting and abnormal liver tests [bilirubin 1.9 mg/dL, ALT 85 U/L, Alk P 1.5 times ULN, no eosinophilia], which continued to worsen despite stopping trimethadione and ethosuximide; mild improvement on stopping carbamazepine; restarting led rapidly to abdominal pain and worsening jaundice [bilirubin 3.3 mg/dL, ALT 450 U/L, Alk P 2 times ULN], resolving within a month of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">5947216</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R5">
+            <mixed-citation publication-type="journal">Ramsay ID. Carbamazepine-induced jaundice. Br Med J 1967; 4: 155. <annotation><p><italic toggle="yes">(65 year old man developed dark urine without fever or rash 3 weeks after starting carbamazepine [bilirubin 5.8 mg/dL, ALT 120 U/L, Alk P 4 times ULN, no eosinophilia], improving on stopping and recurring within 4 days of rechallenge [bilirubin 2.2 mg/dL, ALT 210 U/L, Alk P 4 times ULN], recovery requiring 4 months).</italic></p></annotation><pub-id pub-id-type="pmid">6053983</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R6">
+            <mixed-citation publication-type="journal">Fellows WR. A case of aplastic anemia and pancytopenia with tegretol therapy. Headache 1969; 9: 92-5. <annotation><p><italic toggle="yes">(59 year old man developed aplastic anemia and incarcerated hernia 6 weeks after restarting carbamazepine, became jaundiced and had a complicated course resulting in death; autopsy showed &#x0201c;toxic hepatitis&#x0201d;, but difficult to attribute course to carbamazepine hepatotoxicity vs ischemic injury and jaundice of sepsis).</italic></p></annotation><pub-id pub-id-type="pmid">5804525</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R7">
+            <mixed-citation publication-type="journal">Zucker P, Daum F, Cohen MI. Fatal carbamazepine hepatitis. J Pediatr 1977; 91: 667-8. <annotation><p><italic toggle="yes">(14 year old girl developed fatigue and jaundice without fever or rash 6 months after starting carbamazepine and phenobarbital [bilirubin 10.8 mg/dL, ALT 1360 U/L, Alk P 2 times ULN], progressing to liver failure and death after 43 days despite stopping both drugs).</italic></p></annotation><pub-id pub-id-type="pmid">908993</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R8">
+            <mixed-citation publication-type="journal">Huf RL, Schain RJ. Liver functions in children receiving carbamazepine. J Pediatr 1978; 93: 884. <annotation><p><italic toggle="yes">(Letter in response to Zucker et al [1977]; testing 19 children on carbamazepine for 6 months-5 years found none with elevations in ALT, AST or Alk P).</italic></p></annotation><pub-id pub-id-type="pmid">712504</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R9">
+            <mixed-citation publication-type="journal">Knudsen L, Jensen KB. [Drug-induced hepatitis. Review and report of a case caused by carbamazepine (Tegretol)] Ugeskr Laeger 1979; 141: 3160-3. Danish. <pub-id pub-id-type="pmid">524492</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R10">
+            <mixed-citation publication-type="journal">Levander HG. Granulomatous hepatitis in a patient receiving carbamazepine. Acta Med Scand 1980; 208: 333-5. <italic toggle="yes">(60 year old woman developed fever, right upper quadrant pain and fatigue 3 weeks after starting carbamazepine [bilirubin 1.0 mg/dL, ALT 270 U/L, Alk P 2 times ULN, eosinophils 650/</italic>&#x000b5;<annotation><p><italic toggle="yes">L]; liver biopsy showed granulomatous inflammation; positive rechallenge documented by repeat liver biopsy, resolving within a month of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">7446211</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R11">
+            <mixed-citation publication-type="journal">Mitchell MC, Boitnott JK, Arregui A, Maddrey WC. Granulomatous hepatitis associated with carbamazepine therapy. Am J Med 1981; 71: 733-5. <annotation><p><italic toggle="yes">(Two men, ages 52 and 54 years, developed dark urine 3 weeks after starting carbamazepine, both with fever but no rash or eosinophilia [bilirubin 1.5 and 3.4 mg/dL, ALT 61 and 145 U/L, Alk P 80 and 236 U/L], biopsies showed granulomatous inflammation; both recovered within 4 weeks).</italic></p></annotation><pub-id pub-id-type="pmid">7282758</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R12">
+            <mixed-citation publication-type="journal">Levy M, Goodman MW, Van Dyne BJ, Sumner HW. Granulomatous hepatitis secondary to carbamazepine. Ann Intern Med 1981; 95: 64-5. <annotation><p><italic toggle="yes">(Three patients who developed fever, fatigue and abdominal pain 3-4 weeks after starting carbamazepine [bilirubin normal to 3.2 mg/dL, AST 20, 95 and 38 U/L, Alk P 1.5-2 times ULN, no eosinophilia]; biopsies showed granulomas; rechallenge in one led to immediate appearance of fever and rash; rapid recovery).</italic></p></annotation><pub-id pub-id-type="pmid">7247130</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R13">
+            <mixed-citation publication-type="journal">Hopen G, Nesthus I, Laerum OD. Fatal carbamazepine-associated hepatitis. Report of two cases. Acta Med Scand 1981; 210: 333-5. <annotation><p><italic toggle="yes">(Two women, ages 23 and 37 years, developed rash and fever followed by jaundice 8 days after starting carbamazepine [peak bilirubin 7.9 and 14.0 mg/dL GGT 5350 and 205 U/L, ALT unknown and 1325 U/L], both had progressive liver failure and died; autopsies showed massive necrosis).</italic></p></annotation><pub-id pub-id-type="pmid">7315533</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R14">
+            <mixed-citation publication-type="journal">Ponte CD. Carbamazepine-induced thrombocytopenia, rash, and hepatic dysfunction. Drug Intell Clin Pharm 1983; 17: 642-4. <italic toggle="yes">(33 year old woman developed fever and rash without eosinophilia 3 weeks after starting carbamazepine [bilirubin not given, AST 127 U/L, Alk P 304 U/L, platelets 55,000/</italic>&#x000b5;L<annotation><p><italic toggle="yes">], began to improve when switched to phenobarbital, but full recovery not documented).</italic></p></annotation><pub-id pub-id-type="pmid">6225634</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R15">
+            <mixed-citation publication-type="journal">Soffer EE, Taylor RJ, Bertram PD, Haggitt RC, Levinson MJ. Carbamazepine-induced liver injury. South Med J 1983; 76: 681-3. <annotation><p><italic toggle="yes">(2 women, ages 28 and 22 years, developed jaundice 2 and 5 weeks after starting carbamazepine, one with fever, neither had rash [bilirubin 3.2 and 7.3 mg/dL, AST 1130 and 174 U/L, Alk P 211 and 870 U/L, 4% and 13% eosinophilia], resolving within 6 and 3 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">6844981</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R16">
+            <mixed-citation publication-type="journal">Ker&#x000e4;nen T, Sivenius J. Side effects of carbamazepine, valproate and clonazepam during long-term treatment of epilepsy. Acta Neurol Scand Suppl 1983; 97: 69-80. <annotation><p><italic toggle="yes">(Review of side effects mentioning that carbamazepine and valproate have rare hepatic side effects, but clonazepam does not).</italic></p></annotation><pub-id pub-id-type="pmid">6424398</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R17">
+            <mixed-citation publication-type="journal">Yeung Laiwah AC, Rapeport WG, Thompson GG, MacPhee GJA, Philip MF, Moore MR, Brodie MJ, et al. Carbamazepine-induced non-hereditary acute porphyria. Lancet 1983; 1: 790-2. <annotation><p><italic toggle="yes">(Two patients on high doses of carbamazepine had decreased uroporhpyrinogen I synthase [URO-S] and elevated delta aminolevulinic acid levels and 1 developed symptoms of acute intermittent porphyria; cohort of patients on carbamazepine had slightly reduced levels of URO-S).</italic></p></annotation><pub-id pub-id-type="pmid">6132132</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R18">
+            <mixed-citation publication-type="journal">Perucca E, Hedges A, Makki KA, Ruprah M, Wilson JF, Richens A. A comparative study on the relative enzyme inducing properties of anticonvulsant drugs in epileptic patients. Br J Clin Pharmac 1984; 18: 401-10. <annotation><p><italic toggle="yes">(Cross sectional study of antipyrine clearance in 122 patients with epilepsy, found dose dependent increase in clearance in those on phenytoin, phenobarbital and carbamazepine, but not on valproate).</italic></p></annotation><pub-id pub-id-type="pmid">6435654</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R19">
+            <mixed-citation publication-type="journal">Rigau Ca&#x000f1;ardo J, Bruguera M, Sese J, Morlans G. [Acute cholestatic hepatitis due to carbamazepine]. Gastroenterol Clin Biol 1984; 8: 769-70. French. <annotation><p><italic toggle="yes">(54 year old woman developed fatigue 1 month after starting carbamazepine [bilirubin 2.4 mg/dL, A110 90 U/L, Alk P 242 U/L], resolving within 1 month of stopping and recurrence of rash and fatigue after reexposure to a single dose 6 months later).</italic></p></annotation><pub-id pub-id-type="pmid">6526232</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R20">
+            <mixed-citation publication-type="journal">Diaz-Torres MA, Caraballo R, Ollero M, Lissen E. [Hepatitis caused by carbamazepine] Med Clin (Barc) 1984; 83: 823. Spanish. <annotation><p><italic toggle="yes">(64 year old woman developed rash and fever 1 week after starting carbamazepine, followed by dark urine, lymphadenopathy, and pleuritic pain [bilirubin 1.9 mg/dL, ALT 205 U/L, Alk P 1622 U/L, 14% eosinophilia], resolving within 3 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">6527581</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R21">
+            <mixed-citation publication-type="journal">Bast&#x000fa;s JB. [Hepatitis caused by carbamazepine] Med Clin (Barc) 1985; 84: 543. Spanish. <annotation><p><italic toggle="yes">(Patient developed fever and anorexia 1 month after starting carbamazepine [bilirubin 2.3 mg/dL, ALT 90 U/L, GGT 696 U/L], biopsy showed cholestatic hepatitis without granulomas; rapid recovery on stopping).</italic></p></annotation><pub-id pub-id-type="pmid">3999827</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R22">
+            <mixed-citation publication-type="journal">Okada Y, Watanabe T, Kajiwara E, Tsuji H, Murai K, Akagi K, Onoyama K, Omae T. [Two cases of carbamazepine induced hepatitis] Nippon Naika Gakkai Zasshi 1984; 73: 1189-94. Japanese. <pub-id pub-id-type="pmid">6512351</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R23">
+            <mixed-citation publication-type="journal">Paladini G, Marinig L. [Immuno-allergic side effects induced by the administration of carbamazepine. Case contribution] Minerva Med 1984; 75: 1651-5. Italian. <pub-id pub-id-type="pmid">6462508</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R24">
+            <mixed-citation publication-type="journal">Davion T, Capron JP, Andrejak M, Geoffroy P, Capron-Chivrac D, Qu&#x000e9;num C. [Acute hepatitis due to carbamazepine (Tegretol). Study of a case and review of the literature]. Gastroenterol Clin Biol 1984; 8: 52-6. French. <annotation><p><italic toggle="yes">(28 year old woman developed fever, rash and eosinophilia 2 months after starting carbamazepine [bilirubin 3.8 mg/dL, ALT 250 U/L, Alk P 1080 U/L]; rechallenge led to fever and jaundice within 2 days).</italic></p></annotation><pub-id pub-id-type="pmid">6698343</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R25">
+            <mixed-citation publication-type="journal">Moore NC, Lerer B, Meyendorff E, Gershon S. Three cases of carbamazepine toxicity. Am J Psychiatry 1985; 142: 974-5. <annotation><p><italic toggle="yes">(44 year old woman developed nausea, fever and jaundice 4 weeks after starting carbamazepine [bilirubin 5.7 mg/dL, ALT 384 U/L, Alk P 623 U/L], resolving in 6 weeks; 2 other cases of rash and one of &#x0201c;aplastic anemia&#x0201d; [no hemoglobin levels given]).</italic></p></annotation><pub-id pub-id-type="pmid">3161347</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R26">
+            <mixed-citation publication-type="journal">Canterbury RJ. The side effects of carbamazepine. Am J Psychiatry 1986; 143: 395. <annotation><p><italic toggle="yes">(Letter in response to Moore et al [1985] without new information).</italic></p></annotation><pub-id pub-id-type="pmid">3953883</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R27">
+            <mixed-citation publication-type="journal">Davion T, Capron-Chivrac D, Andrejak M, Capron JP. [Hepatitis due to antiepileptic agents] Gastroenterol Clin Biol 1985; 9: 117-26. French. <annotation><p><italic toggle="yes">(Review of 15 cases of carbamazepine hepatotoxicity in the literature; onset in 3-4 weeks in most cases, but occasionally longer; granulomatous hepatitis in 8 of 14 cases with biopsy, these granulomatous cases being benign; three reports of acute liver failure).</italic></p></annotation><pub-id pub-id-type="pmid">3920108</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R28">
+            <mixed-citation publication-type="journal">Galeone D, Lamontanara G, Torelli D. Acute hepatitis in a patient treated with carbamazepine. J Neurol 1985; 232: 301-3. <annotation><p><italic toggle="yes">(Child switched from phenobarbital to carbamazepine developed worsening seizures and coma [normal bilirubin, ALT 2138 U/L, GGT 92 U/L, renal failure], resolving rapidly on dialysis: injury may have been due to ischemia rather than carbamazepine injury).</italic></p></annotation><pub-id pub-id-type="pmid">4056837</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R29">
+            <mixed-citation publication-type="journal">Costa JF, Sramek JJ, Herrera JM. Hepatic reaction to carbamazepine. J Clin Psychopharmacol 1986; 6: 251-2. <annotation><p><italic toggle="yes">(26 year old man developed malaise and vomiting 6 weeks after starting carbamazepine [bilirubin not mentioned, ALT 75 U/L, Alk P 75 U/L], resolving rapidly upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">3734150</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R30">
+            <mixed-citation publication-type="journal">Luke DR, Rocci ML Jr, Schaible DH, Gerguson RK. Acute hepatotoxicity after excessively high doses of carbamazepine on two occasions. Pharmacother 1986; 6: 108-11. <annotation><p><italic toggle="yes">(2 year old girl on carbamazepine and phenytoin developed coma and hypotension and marked ALT elevations [5220 and 4020 U/L] with minimal bilirubin elevations [1.6 and 1.4 mg/dL] on two occasions when carbamazepine levels were high; also associated with hypotension and stupor so that ischemic damage may also have played a role).</italic></p></annotation><pub-id pub-id-type="pmid">3737441</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R31">
+            <mixed-citation publication-type="journal">Swinburn BA, Croxson MS, Miller MV, Crawford KB. Carbamazepine induced granulomatous hepatitis. N Z Med J 1986; 99: 167. <annotation><p><italic toggle="yes">(59 year old man developed fever and jaundice 3 weeks after starting carbamazepine [bilirubin 4.5 mg/dL, AST 117 U/L, Alk P 376 U/L], liver biopsy showed granulomas; improvement with dose reduction and resolution with stopping and switching to phenytoin).</italic></p></annotation><pub-id pub-id-type="pmid">3457299</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R32">
+            <mixed-citation publication-type="journal">Larrey D, Hadengue A, Pessayre D, Choudat L, Degott C, Benhamou J-P. Carbamazepine-induced acute cholangitis. Dig Dis Sci 1987; 32: 554-7. <annotation><p><italic toggle="yes">(79 year old woman developed itching 4 weeks and fever and jaundice [no rash] 7 weeks after starting clonazepam and carbamazepine [bilirubin 6.6 mg/dL, ALT 91 U/L, Alk P 5 times ULN, 54% eosinophils]; liver biopsy showed cholestasis and &#x0201c;cholangitis&#x0201d;, resolving within 3 months of stopping carbamazepine, clonazepam being restarted: Case 2).</italic></p></annotation><pub-id pub-id-type="pmid">3568943</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R33">
+            <mixed-citation publication-type="journal">Reinikainen KJ, Keranen T, Halonen T, Komulainen H, Riekkinen PJ. Comparison of oxcarbazepine and carbamazepine: a double-blind study. Epilepsy Research 1987; 1: 284-9. <annotation><p><italic toggle="yes">(Among 18 patients on carbamazepine and 16 on oxcarbazepine, 2 developed transient ALT and AST elevations neither requiring dose adjustment).</italic></p></annotation><pub-id pub-id-type="pmid">3504404</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R34">
+            <mixed-citation publication-type="journal">Noguerado A, Isasia T, Mart&#x000ed;nez MC, Garc&#x000ed;a-S&#x000e1;nchez A. [Granulomatous hepatitis caused by carbamazepine] Rev Clin Esp 1987; 181:116. Spanish. <annotation><p><italic toggle="yes">(53 year old woman developed fever, rash and anorexia 4 weeks after starting carbamazepine with eosinophilia and elevated Alk P [1002 U/L], liver biopsy showed granulomas, eosinophils, and spotty necrosis and inflammation; repeat biopsy 3 months later was normal).</italic></p></annotation><pub-id pub-id-type="pmid">3628894</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R35">
+            <mixed-citation publication-type="journal">Pellock JM. Carbamazepine side effects in children and adults. Epilepsia 1987; 28 Suppl 3: S64-70. <annotation><p><italic toggle="yes">(Analysis of side effects among 220 children on carbamazepine; skin rash in 5% and elevated liver tests in 6% but none &#x0201c;were of clinical significance.&#x0201d; Reports to Ciba-Geigy from 1975-86 included 45 cases of hepatitis and estimate that 5% to 10% of patients had serum enzyme elevations).</italic></p></annotation><pub-id pub-id-type="pmid">2961558</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R36">
+            <mixed-citation publication-type="journal">Shear NH, Spielberg SP. Anticonvulsant hypersensitivity syndrome: in vitro assessment of risk. J Clin Invest 1988; 82: 1826-32. <annotation><p><italic toggle="yes">(PBMC cytotoxicity in response to drug metabolites was common among 53 patients with hypersensitivity to anticonvulsants including 35/36 to phenytoin, 22/27 to phenobarbital and 25/27 to carbamazepine; 51% had hepatitis).</italic></p></annotation><pub-id pub-id-type="pmid">3198757</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R37">
+            <mixed-citation publication-type="journal">Robbie MJ, Scurry JP, Stevenson P. Carbamazepine-induced severe systemic hypersensitivity reaction with eosinophilia. Drug Intell Clin Pharm 1988; 22: 783-4. <annotation><p><italic toggle="yes">(35 year old woman developed rash 3 weeks after starting carbamazepine, followed by fever and dyspnea with eosinophilia, respiratory and renal failure, responding to prednisone but then relapsing, developing jaundice late [bilirubin 8.8 mg/dL, AST 120 U/L, Alk P 2220 U/L], death from multiorgan failure 12 weeks later).</italic></p></annotation><pub-id pub-id-type="pmid">3229345</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R38">
+            <mixed-citation publication-type="journal">Matsukura H, Suzuki Y. A case of hepatitis associated with carbamazepine therapy. Eur J Pediatr 1988; 147: 666. <annotation><p><italic toggle="yes">(9 year old girl developed fever and rash 4 weeks after starting carbamazepine [bilirubin normal, ALT 385 U/L, Alk P 4x ULN], worsening transiently with jaundice, but resolving within 2 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">3181214</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R39">
+            <mixed-citation publication-type="journal">Horowitz S, Patwardhan R, Marcus E. Hepatotoxic reactions associated with carbamazepine therapy. Epilepsia 1988; 29: 149-54. <annotation><p><italic toggle="yes">(2 women, ages 71 and 75 years, developed fatigue and jaundice 2 and 4 weeks after starting carbamazepine [bilirubin 11.4 mg/dL and normal, AST 134 and ALT 1430 U /L, Alk P 356 and 970 U/L], resolving within 4 and 6 months of stopping; no eosinophilia, fever or rash: literature review).</italic></p></annotation><pub-id pub-id-type="pmid">3280305</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R40">
+            <mixed-citation publication-type="journal">Sillanp&#x000e4;&#x000e4; M, Pihlaja T. Oxcarbazepine (GP 47 680) in the treatment of intractable seizures. Acta Paediatr Hung 1988-1989; 29: 359-64. <pub-id pub-id-type="pmid">3269269</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R41">
+            <mixed-citation publication-type="journal">Aldenh&#x000f6;vel HG. The influence of long-term anticonvulsant therapy with diphenylhydantoin and carbamazepine on serum gamma-glutamyltransferase, aspartate aminotransferase, alanine aminotransferase and alkaline phosphatase. Eur Arch Psychiatry Neurol Sci 1988; 237: 312-6. <annotation><p><italic toggle="yes">(Among 54 patients on phenytoin and 56 on carbamazepine: elevations in GGT [14-283 U/L] were present in 91% and 64%, ALT [5-81 U/L] in 28% and 9%, and Alk P [71-216 U/L] in 39% vs 14%, most elevations were modest; GGT elevations were dose related, but not the others).</italic></p></annotation><pub-id pub-id-type="pmid">2901959</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R42">
+            <mixed-citation publication-type="journal">Rodr&#x000ed;guez Hern&#x000e1;ndez H, Dehesa Violante M, Vega Ramos B, M&#x000e9;ndez Guti&#x000e9;rrez TH. [Granulomatous hepatitis secondary to ingestion of carbamazepine. Report of a case] Rev Gastroenterol Mex 1989; 54: 239-41. Spanish. <pub-id pub-id-type="pmid">2694294</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R43">
+            <mixed-citation publication-type="journal">Durelli L, Massazza U, Cavallo R. Carbamazepine toxicity and poisoning. Incidence, clinical features and management. Med Toxicol Adverse Drug Exp 1989; 4: 95-107. <annotation><p><italic toggle="yes">(Review of pharmacology and toxicity of carbamazepine; symptoms of overdose are largely neurological).</italic></p></annotation><pub-id pub-id-type="pmid">2654545</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R44">
+            <mixed-citation publication-type="journal">Gillis S, Dann EJ. [Carbamazepine-associated hepatitis] Harefuah 1990; 119: 430-1. Hebrew. <pub-id pub-id-type="pmid">2074067</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R45">
+            <mixed-citation publication-type="journal">Askmark H, Wiholm B. Epidemiology of adverse reactions to carbamazepine as seen in a spontaneous reporting system. Acta Neurol Scand 1990; 81: 131-40. <annotation><p><italic toggle="yes">(Analysis of 505 reports of adverse reaction to carbamazepine during 92 million dose-days from 1965-1987 in Sweden; 71 were liver related [16/100,000 treatment years], 21 with isolated ALT elevation after 4-46 days, 18 with ALT and Alk P elevations after 16-60 days, and 25 with jaundice after 6 days to 2 years).</italic></p></annotation><pub-id pub-id-type="pmid">2327233</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R46">
+            <mixed-citation publication-type="journal">Frey B, Schubiger G, Musy JP. Transient cholestatic hepatitis in a neonate associated with carbamazepine exposure during pregnancy and breast-feeding. Eur J Pediatr 1990; 150: 136-8. <annotation><p><italic toggle="yes">(Persistent jaundice at 3 weeks in male infant being breastfed by mother on carbamazepine [direct/total bilirubin 2.4/13.0 mg/dL, ALT 31 U/L, Alk P 402 U/L], liver biopsy showed cholestatic hepatitis, with rapid recovery on stopping).</italic></p></annotation><pub-id pub-id-type="pmid">2279511</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R47">
+            <mixed-citation publication-type="journal">Rivey MP, Stone JD. Carbamazepine hypersensitivity reaction. Brain Inj 1991; 5: 57-62. <annotation><p><italic toggle="yes">(30 year old man developed fatigue and itching 3 weeks after starting carbamazepine [bilirubin 2.7 mg/dL, ALT 228 U/L, Alk P 1466 U/L, 23% eosinophils and atypical lymphocytosis], with rash and Stevens-Johnson syndrome requiring corticosteroids, resolving within 6 weeks).</italic></p></annotation><pub-id pub-id-type="pmid">1828383</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R48">
+            <mixed-citation publication-type="journal">Kleier RS, Breneman DL, Boiko S. Generalized pustulation as a manifestation of the anticonvulsant hypersensitivity syndrome. Arch Dermatol 1991; 127: 1361-4. <annotation><p><italic toggle="yes">(2 men, ages 21 and 49 years, developed rash after 3-4 weeks of phenytoin evolving into sterile pustules; eosinophilia and fever [bilirubin normal, ALT 57 and 660 U/L, Alk P 85 and 117 U/L], worsening on switching to carbamazepine and phenobarbital, resolving after switching to clonazepam).</italic></p></annotation><pub-id pub-id-type="pmid">1832535</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R49">
+            <mixed-citation publication-type="journal">Wyllie E, Wyllie R. Routine laboratory monitoring for serious adverse effects of antiepileptic medications: the controversy. Epilepsia 1991; 32 (Suppl 5): S74-9. <annotation><p><italic toggle="yes">(The effectiveness of monitoring serum enzyme levels in patients starting anticonvulsant therapy in preventing acute liver failure is controversial and of unproven benefit).</italic></p></annotation><pub-id pub-id-type="pmid">1743173</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R50">
+            <mixed-citation publication-type="journal">Merlob P, Mor N, Litwin A. Transient hepatic dysfunction in an infant of an epileptic mother treated with carbamazepine during pregnancy and breastfeeding. Ann Pharmacother 1992; 26: 1563-5. <annotation><p><italic toggle="yes">(Newborn girl being breast fed by a mother taking carbamazepine had persisting jaundice in first 2 weeks of life [direct/total bilirubin 1.4/3.4 mg/dL, ALT 32 U/L, Alk P 293 U/L on day 5], resolving rapidly with stopping breastfeeding).</italic></p></annotation><pub-id pub-id-type="pmid">1362364</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R51">
+            <mixed-citation publication-type="journal">Forbes GM, Jeffrey GP, Shilkin KB, Reed WD. Carbamazepine hepatotoxicity: another cause of the vanishing bile duct syndrome. Gastroenterology 1992; 102: 1385-8. <annotation><p><italic toggle="yes">(59 year old man developed fever, rash and jaundice 2 months after starting carbamazepine [bilirubin 12.4 mg/dL, AST 99 U/L, Alk P 1030 U/L], evolving into chronic cholestasis and vanishing bile duct syndrome, which improved clinically, but liver tests were still abnormal 1 year later: Case 3).</italic></p></annotation><pub-id pub-id-type="pmid">1551543</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R52">
+            <mixed-citation publication-type="journal">Pirmohamed M, Kitteringham NR, Breckenridge AM, Park BK. Detection of an autoantibody directed against human liver microsomal protein in a patient with carbamazepine hypersensitivity. Br J Clin Pharmacol 1992; 33: 183-6. <annotation><p><italic toggle="yes">(16 year old boy developed fever, rash, and jaundice 6 weeks after starting carbamazepine [bilirubin 2.6 mg/dL, ALT 328 U/L, Alk P 617 U/L, 39% eosinophils], resolving within 6 weeks of stopping, cytotoxicity assays positive to drug treated microsomes and autoantibody to an unknown microsomal protein found).</italic></p></annotation><pub-id pub-id-type="pmid">1550698</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R53">
+            <mixed-citation publication-type="journal">Mondragon R, Mieli-Vergani G, Heaton ND, Mowat AP, Vougas V, Williams R, Tam KC. Liver transplantation for fulminant liver failure in children. Transpl Int 1992; 5 (Suppl 1): S206-8. <annotation><p><italic toggle="yes">(Among 7 children undergoing emergency liver transplantation for acute liver failure between 1988 and 1991, 2 were attributed to carbamazepine hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">14621778</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R54">
+            <mixed-citation publication-type="journal">Friis ML, Kristensen O, Boas J, Dalby M, Deth SH, Gram L, Mikkelsen M, et al. Therapeutic experiences with 947 epileptic out-patients in oxcarbazepine treatment. Acta Neurol Scand 1993; 87: 224-7. <annotation><p><italic toggle="yes">(Retrospective study of 947 patients treated with oxcarbazepine in 8 centers from 1981-90: adverse events in 33%, rash in 6%, elevations in laboratory results [ALT, AST, GGT or WBC] in &#x0003c;2%).</italic></p></annotation><pub-id pub-id-type="pmid">8475694</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R55">
+            <mixed-citation publication-type="journal">Handfield-Jones SE, Jenkins RE, Whittaker SJ, Besse CP, McGibbon DH. The anticonvulsant hypersensitivity syndrome. Br J Dermatol 1993; 129: 175-7. <annotation><p><italic toggle="yes">(3 patients developed fever and rash 3, 4 and 10 weeks after starting phenytoin or carbamazepine; two required corticosteroids; only 1 had hepatitis; 1 died of multiorgan failure, others switched to valproate or clobazam without recurrence).</italic></p></annotation><pub-id pub-id-type="pmid">7654579</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R56">
+            <mixed-citation publication-type="journal">Froomes PR, Stewart MR. A reversible parkinsonian syndrome and hepatotoxicity following addition of carbamazepine to sodium valproate. Aust N Z J Med 1994; 24: 413-4. <annotation><p><italic toggle="yes">(67 year old woman developed ataxia 1 month after starting carbamazepine followed by lethargy and jaundice [bilirubin 2.5 mg/dL, AST 164 U/L, Alk P 455 U/L], resolving rapidly on stopping and recurring rapidly on rechallenge).</italic></p></annotation><pub-id pub-id-type="pmid">7980246</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R57">
+            <mixed-citation publication-type="journal">Gall H, Merk H, Scherb W, Sterry W. [Anticonvulsant hypersensitivity syndrome to carbamazepine] Hautarzt 1994; 45: 494-8. German. <pub-id pub-id-type="pmid">7928347</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R58">
+            <mixed-citation publication-type="journal">Baischer W, Wagner A, Seidler D, Musalek M, Laggner A. [Carbamazepine poisoning: protracted course with development of intestinal atony and hepatic toxicity] Wien Klin Wochenschr 1994; 106: 27-9. German. <pub-id pub-id-type="pmid">8135028</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R59">
+            <mixed-citation publication-type="journal">Green VJ, Pirmohamed M, Kitteringham NR, Gaedisk A, Grant DM, Boxer M, Burchell B, Park BK. Genetic analysis of microsomal epoxide hydrolase in patients with carbamazepine hypersensitivity. Biochem Pharmacol 1995; 50:1353-9. <annotation><p><italic toggle="yes">(Analysis of the microsomal epoxide hydrolase gene in 10 patients with carbamazepine hypersensitivity syndrome found many mutations, but no consistent single mutation).</italic></p></annotation><pub-id pub-id-type="pmid">7503783</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R60">
+            <mixed-citation publication-type="journal">Mauri-Hellweg D, Bettens F, Mauri D, Brander C, Hunziker T, Pichler WJ. Activation of drug-specific CD4+ and CD8+ T cells in individuals allergic to sulfonamides, phenytoin, and carbamazepine. J Immunol 1995; 155: 462-72. <annotation><p><italic toggle="yes">(In vitro lymphocyte studies on 20 patients with drug allergy, found proliferation in response to specific drug, including carbamazepine, with proliferation of both CD4 and CD8 T cells and increase in CD-25 and HLA-DR expression and production of IL5 and IFN&#x003b3;).</italic></p></annotation><pub-id pub-id-type="pmid">7602118</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R61">
+            <mixed-citation publication-type="journal">Kong KH. Carbamazepine-induced hepatitis in a patient with cervical myelopathy. Arch Phys Med Rehabil 1996; 77: 305-6. <annotation><p><italic toggle="yes">(66 year old man developed fever and jaundice 5 weeks after starting carbamazepine [bilirubin 8.8 mg/dL, ALT 155 U/L, Alk P 413 U/L, 27% eosinophils], resolving within a month of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">8600877</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R62">
+            <mixed-citation publication-type="journal">Hintsche-Kilger BB, Fengler JD, Baumgarten R. [Mononucleosis syndrome with hypersensitivity hepatitis following carbamazepine administration] Z Arztl fortbild(Jena) 1990; 85: 551-3. <pub-id pub-id-type="pmid">2144387</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R63">
+            <mixed-citation publication-type="journal">Mart&#x000ed;nez P, Gonz&#x000e1;lez de Etxabarri S, Ere&#x000f1;o C, L&#x000f3;pez G, Hinojal C, Teira R. [Acute severe hepatic insufficiency caused by carbamazepine]. Rev Esp Enferm Dig 1993; 84: 124-6. Spanish. <annotation><p><italic toggle="yes">(61 year old man developed acute hepatitis 2 weeks after starting carbamazepine [bilirubin 3.6 mg/dL, ALT 7610 U/L, Alk P 580 U/L] with encephalopathy and prolongation of protime, resolving 2 months after stopping).</italic></p></annotation><pub-id pub-id-type="pmid">8398372</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R64">
+            <mixed-citation publication-type="journal">Wallace SJ. A comparative review of the adverse effects of anticonvulsants in children with epilepsy. Drug Saf 1996; 15: 378-93. <annotation><p><italic toggle="yes">(Systematic review; ALT elevations occur in 4% of children on phenytoin, 6% on valproate, 1% on carbamazepine and none on tiagabine or gabapentin).</italic></p></annotation><pub-id pub-id-type="pmid">8968693</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R65">
+            <mixed-citation publication-type="journal">Dertinger S, Dirschmid K, Vogel W, Drexel H. Immunosuppressive therapy for carbamazepine-induced hypersensitivity syndrome and hepatitis. J Hepatol 1998; 28: 356-7. <annotation><p><italic toggle="yes">(50 year old man developed fever, headaches, rash, and lymphadenopathy followed by jaundice 1 month after starting carbamazepine [bilirubin 3.9 mg/dL, ALT 166, Alk P 365 U/L], responding to single dose of prednisone and then transiently relapsing: Case 1).</italic></p></annotation><pub-id pub-id-type="pmid">9514552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R66">
+            <mixed-citation publication-type="journal">Nathan DL, Belsito DV. Carbamazepine-induced pseudolymphoma with CD-30 positive cells. J Am Acad Dermatol 1998; 38: 806-9. <annotation><p><italic toggle="yes">(44 year old woman with a history of phenytoin sensitivity developed fever, lymphadenopathy, pneumonitis, and rash one month after starting carbamazepine [bilirubin not given, AST 282 U/L, Alk P 44 U/L] and atypical CD-30+ T cells in blood, resolution in 3 weeks on stopping).</italic></p></annotation><pub-id pub-id-type="pmid">9591791</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R67">
+            <mixed-citation publication-type="journal">Schlienger RG, Shear NH. Antiepileptic drug hypersensitivity syndrome. Epilepsia 1998; 39 (Suppl 7): S3-7. <annotation><p><italic toggle="yes">(Review of clinical features of anticonvulsant hypersensitivity syndrome).</italic></p></annotation><pub-id pub-id-type="pmid">9798755</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R68">
+            <mixed-citation publication-type="journal">Kaufman KR. Carbamazepine, hepatotoxicity, organic solvents, and paints. Seizure 1999; 8: 250-2. <annotation><p><italic toggle="yes">(48 year old man with mania developed transient ALT elevations [peak 234 U/L, elevated for one month] without allergic features ~4 months after starting carbamazepine, with normal values for 8 years thereafter: adaptation vs incidental toxicity of concurrent organic solvent exposure).</italic></p></annotation><pub-id pub-id-type="pmid">10452926</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R69">
+            <mixed-citation publication-type="journal">Hamer HM, Morris HH. Hypersensitivity syndrome to antiepileptic drugs: a review including new anticonvulsants. Clevel Clin J Med 1999; 66: 239-45. <annotation><p><italic toggle="yes">(Anticonvulsant hypersensitivity syndrome occurs in 1-5/10,000 users, higher risk in African Americans and affected siblings; liver involvement common, but most cases anicteric; other manifestations include facial edema, lymphadenopathy, bone marrow aplasia, pseudolymphoma, thyroiditis, interstitial nephritis).</italic></p></annotation><pub-id pub-id-type="pmid">10199060</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R70">
+            <mixed-citation publication-type="journal">Morales-Diaz M, Pinilla-Roa E, Ruiz I. Suspected carbamazepine-induced hepatotoxicity. Pharmacotherapy 1999; 19: 252-5. <annotation><p><italic toggle="yes">(9 year old girl developed hepatitis 5 months after starting carbamazepine evolving to acute liver failure [bilirubin ~12 mg/dL, ALT 570 U/L, Alk P 1332 U/L, protime 35%], ultimately resolving after 2-3 months despite delay in stopping drug: Case 4).</italic></p></annotation><pub-id pub-id-type="pmid">10030780</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R71">
+            <mixed-citation publication-type="journal">Petter G, Haustein UF. [Stevens-Johnson syndrome with transition to toxic epidermal necrolysis after carbamazepine administration, heroin and alcohol abuse] Hautarzt 1999; 50: 884-8. German. <pub-id pub-id-type="pmid">10663024</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R72">
+            <mixed-citation publication-type="journal">Knowles SR, Shapiro LE, Shear NH. Anticonvulsant hypersensitivity syndrome: incidence, prevention and management. Drug Saf 1999; 21: 489&#x02013;501. <annotation><p><italic toggle="yes">(Review of anticonvulsant hypersensitivity syndrome: triad of fever, rash and internal organ injury occurring 1-8 weeks after exposure to anticonvulsant, liver being most common internal organ involved. Occurs in 1:1000-1:10,000 initial exposures to phenytoin, carbamazepine, phenobarbital or lamotrigine, unrelated to dose, perhaps predisposed by valproate; liver injury arises 1-4 weeks after onset of rash and ranges in severity from asymptomatic ALT elevations to icteric hepatitis to acute liver failure. High mortality rate with jaundice; other organs include muscle, kidney, brain, heart and lung. Pseudolymphoma syndrome and serum sickness like syndrome are separate complications of anticonvulsants. Role of corticosteroids uncertain; cross reactivity among the agents should be assumed).</italic></p></annotation><pub-id pub-id-type="pmid">10612272</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R73">
+            <mixed-citation publication-type="journal">Nari G. [Carbamazepine-induced hepatitis. A case report] Acta Gastroenterol Latinoam 1999; 29: 277-8. Spanish. <pub-id pub-id-type="pmid">10599404</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R74">
+            <mixed-citation publication-type="journal">Hamer HM, Morris HH. Successful treatment with gabapentin in the presence of hypersensitivity syndrome to phenytoin and carbamazepine: a report of three cases. Seizure 1999; 8: 190-2. <annotation><p><italic toggle="yes">(3 patients developed rash, fever, lymphadenopathy and eosinophilia 4-6 weeks after starting either phenytoin or carbamazepine [bilirubin 0.5-1.8 mg/dL, ALT 866-1402 U/L, Alk P 69-364 U/L], resolving after stopping and not recurring during gabapentin therapy).</italic></p></annotation><pub-id pub-id-type="pmid">10356381</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R75">
+            <mixed-citation publication-type="journal">Haukeland JW, Jahnsen J, Raknerud N. [Carbamazepine-induced hepatitis] Tidsskr Nor Laegeforen 2000; 120: 2875-7. Norwegian. <pub-id pub-id-type="pmid">11143408</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R76">
+            <mixed-citation publication-type="journal">Descamps V, Valance A, Edlinger C, Fillet A-M, Grossin M, Lebrun-Vignes B, Belaich S, Crickx B. Association of human herpesvirus 6 infection with drug reaction with eosinophilia and systemic symptoms. Arch Dermatol 2001; 137: 301-4. <annotation><p><italic toggle="yes">(Among 7 patients with DRESS syndrome, all had antibody to HHV-6, 2 in rising titers, 4 with IgM, none had HHV-6 DNA: 5 cases were due to carbamazepine, 1 sulfasalazine and 1 ibuprofen).</italic></p></annotation><pub-id pub-id-type="pmid">11255328</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R77">
+            <mixed-citation publication-type="journal">Sullivan JR, Shear NH. The drug hypersensitivity syndrome. What is the pathogenesis? Arch Dermatol 2001; 137: 357-64. <annotation><p><italic toggle="yes">(Review of clinical features, major causes and suspected pathogenesis of DRESS: major causes are aromatic anticonvulsants, abacavir, azathioprine, and sulfonamides).</italic></p></annotation><pub-id pub-id-type="pmid">11255340</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R78">
+            <mixed-citation publication-type="journal">Grieco A, Alfei B, Di Rocco P, Miele L, Biolcati G, Griso D, Vecchio FM, et al. Non-alcoholic steatohepatitis induced by carbamazepine and variegate porphyria. Eur J Gastroenterol Hepatol 2001; 13: 973-5. <annotation><p><italic toggle="yes">(42 year old woman developed diffuse bullous lesions 3 months after starting carbamazepine with elevated porphyrins and proteinuria [bilirubin normal, ALT 92 U/L, Alk P 406 U/L], liver biopsy showed fat, cholestasis and mild inflammation).</italic></p></annotation><pub-id pub-id-type="pmid">11507366</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R79">
+            <mixed-citation publication-type="journal">Queyrel V, Catteau B, Michon-Pasturel U, et al. [DRESS syndrome after sulfasalazine and carmazepine: report of two cases]. Rev Med Interne 2001; 22: 582-6. French. <annotation><p><italic toggle="yes">(21 year old man developed rash, fever and lymphadenopathy 3 weeks after starting carbamazepine [bilirubin not mentioned, ALT 7 times ULN, Alk P 311 U/L, eosinophils 500/&#x003bc;L], responding clinically to prednisone, full recovery in 2 months).</italic></p></annotation><pub-id pub-id-type="pmid">11433569</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R80">
+            <mixed-citation publication-type="journal">Yamaki M, Yoshida I. [A case of acute renal failure and liver dysfunction induced by carbamazepine (CBZ)] Nippon Jinzo Gakkai Shi 2001; 43: 357-61. Japanese. <pub-id pub-id-type="pmid">11431905</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R81">
+            <mixed-citation publication-type="journal">Nashed MH, Liao L. Possible atypical cross-sensitivity between phenytoin and carbamazepine in the anticonvulsant hypersensitivity syndrome. Pharmacother 2001; 21: 502-5. <annotation><p><italic toggle="yes">(73 year old woman developed rash, fever and confusion 3-4 weeks after starting phenytoin and failed to improve when switched to carbamazepine [peak bilirubin 0.7 mg/dL, ALT 77 U/L, Alk P 521 U/L, 19% eosinophils], resolving rapidly upon stopping both).</italic></p></annotation><pub-id pub-id-type="pmid">11310525</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R82">
+            <mixed-citation publication-type="journal">Garcia M, Mhanna MJ, Chung-Park MJ, Davis PH, Srivastava MD. Efficacy of early immunosuppressive therapy in a child with carbamazepine-associated vanishing bile duct and Stevens-Johnson syndromes. Dig Dis Sci 2002; 47: 177-82. <annotation><p><italic toggle="yes">(4 year old developed necrotizing rash and fever 4 months after starting carbamazepine [bilirubin 4.0 mg/dL, ALT 673 U/L, Alk P 481 U/L, GGT 613 U/L], Stevens-Johnson syndrome; biopsy showing &#x0201c;early&#x0201d; vanishing bile duct syndrome, treated with corticosteroids with rapid response, but slow decline in GGT and cholesterol at the time of 6 week follow up).</italic></p></annotation><pub-id pub-id-type="pmid">11837721</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R83">
+            <mixed-citation publication-type="journal">Kalapos M. Carbamazepine-provoked hepatotoxicity and possible aetiopathological role of glutathione in the events: retrospective review of old data and call for new investigation. Adverse Drug React Toxicol Rev 2002; 21: 123-41. <annotation><p><italic toggle="yes">(Extensive review of metabolism of carbamazepine: it is partially metabolized to epoxide by CYP 3A4 which then may be conjugated to glutathione; phenolic metabolites of uncertain source; analysis of case reports of hepatotoxicity indicates high fatality rate in children, and fatal cases often lacked signs of hypersensitivity and received multiple anticonvulsants).</italic></p></annotation><pub-id pub-id-type="pmid">12298421</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R84">
+            <mixed-citation publication-type="journal">Ramos AMO, Gayotto LCC, Clemente CM, Mello EA, Luz KG, Freitas ML. Reversible vanishing bile duct syndrome induced by carbamazepine. Eur J Gastroenterol Hepatol 2002; 14: 1019-22. <annotation><p><italic toggle="yes">(26 year old man on carbamazepine for 4 years was found to have an elevated GGT [384 U/L] with normal bilirubin, ALT, and Alk P; GGT remained high and liver biopsy showed ductopenia with minimal inflammation; withdrawal of carbamazepine was followed by minimal improvement).</italic></p></annotation><pub-id pub-id-type="pmid">12352223</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R85">
+            <mixed-citation publication-type="journal">Frey B, Braegger CP, Ghelfi D. Neonatal cholestatic hepatitis from carbamazepine exposure during pregnancy and breast feeding. Ann Pharmacother 2002; 36: 644-7. <annotation><p><italic toggle="yes">(Newborn boy developed jaundice and mild elevations in GGT, Alk P and ALT 3 to 4 weeks after difficult birth to mother on carbamazepine who breastfed; two previous cases discussed).</italic></p></annotation><pub-id pub-id-type="pmid">11918515</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R86">
+            <mixed-citation publication-type="journal">Bin-Nakhi HA, Sadeq S, Pinto RG, Habeeb Y. Anticonvulsant hypersensitivity syndrome: report of 2 cases from Kuwait. Med Princ Pract 2003; 12: 197-9. <annotation><p><italic toggle="yes">(7 year old girl developed rash and fever 1 month after starting carbamazepine with lymphadenopathy, facial edema, strawberry tongue followed by jaundice [bilirubin 5.2 mg/dL, ALT 230, Alk P 369 U/L], resolving within 7 weeks of swtiching to valproate).</italic></p></annotation><pub-id pub-id-type="pmid">12766341</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R87">
+            <mixed-citation publication-type="journal">Choi TS, Doh KS, Kim SH, Jang MS, Suh KS, Kim ST. Clinicopathological and genotypic aspects of anticonvulsant-induced pseudolymphoma syndrome. Brit J Dermatol 2003; 148: 730-6. <annotation><p><italic toggle="yes">(8 cases of pseudolymphoma syndrome from Korea with maculopapular rash, fever, lymphadenopathy and facial edema arising 3-24 [mean=7] weeks after starting anticonvulsant, elevated liver tests in 5).</italic></p></annotation><pub-id pub-id-type="pmid">12752131</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R88">
+            <mixed-citation publication-type="journal">Penela V&#x000e9;lez de Guevara MT, Puente S&#x000e1;nchez MC, Jim&#x000e9;nez Moya AI, Herrera Mart&#x000ed;n M, Romero Esc&#x000f3;s MD. [Erythroderma and hepatitis]. An Pediatr (Barc) 2004; 61: 353-4. Spanish. <annotation><p><italic toggle="yes">(11 year old girl developed high fever, sore throat and rash followed by adenopathy, desquamation and severe hepatitis 40 days after starting oxcarbazepine [peak bilirubin 20.6 mg/dL, ALT 25 times ULN], ultimately resolving completely).</italic></p></annotation><pub-id pub-id-type="pmid">15456599</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R89">
+            <mixed-citation publication-type="journal">Parikh S, Dillon LC, Scharf SL. Hepatotoxicity possibly due to paracetamol with carbamazepine. Intern Med J 2004; 34: 441-2. <annotation><p><italic toggle="yes">(80 year old woman developed liver injury while in hospital on multiple medications including carbamazepine and 4 g of acetaminophen daily [bilirubin 0.7 mg/dL, ALT 974 U/L, Alk P 161 U/L, INR 1.4], given NAC and gradually improved).</italic></p></annotation><pub-id pub-id-type="pmid">15271182</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R90">
+            <mixed-citation publication-type="journal">Chung WH, Hung SI, Hong HS, Hsih MS, Yang LC, Ho HC, Wu JY, et al. Medical genetics: a marker for Stevens-Johnson syndrome. Nature 2004; 428 (6982): 486. <annotation><p><italic toggle="yes">(Initial description of association of HLA-B*1502 with SJS due to carbamazepine, the allele being present in 100% of subjects with SJS vs 3% of carbamazepine tolerant and 8.6% of the normal [Chinese] population).</italic></p></annotation><pub-id pub-id-type="pmid">15057820</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R91">
+            <mixed-citation publication-type="journal">Dur&#x000e1;n-Ferreras E, Mir-Mercader J, Morales-Mart&#x000ed;nez MD, Mart&#x000ed;nez-Parra C. [Anticonvulsant hypersensitivity syndrome with severe repercussions in the skin and kidneys due to carbamazepine] Rev Neurol 2004; 38: 1136-8. Spanish. <annotation><p><italic toggle="yes">(26 year old woman developed rash, fever and facial edema, 4 weeks after starting carbamazepine with eosinophilia [7%], ALT elevations, and renal insufficiency requiring dialysis; later had fever, rash and ALT elevations in response to phenytoin).</italic></p></annotation><pub-id pub-id-type="pmid">15229826</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R92">
+            <mixed-citation publication-type="journal">Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl 2004; 10: 1018-23. <annotation><p><italic toggle="yes">(Among ~50,000 liver transplants done in the US between 1990 and 2002, 137 [0.2%] were done for idiosyncratic drug induced acute liver failure, of which 10 were attributed to phenytoin, 10 to valproate and 1 to carbamazepine, but none to other anticonvulsants).</italic></p></annotation><pub-id pub-id-type="pmid">15390328</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R93">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E, Jerlstad P, Bergqvist A, Olsson R. Fulminant drug-induced hepatic failure leading to death or liver transplantation in Sweden. Scand J Gastroenterol 2005; 40: 1095-101. <annotation><p><italic toggle="yes">(36 years of reporting to Swedish registry identified 103 cases of acute liver failure due to drugs, of which 1 was attributed to phenytoin, 1 to valproate and 1 to carbamazepine, but none to other anticonvulsants).</italic></p></annotation><pub-id pub-id-type="pmid">16165719</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R94">
+            <mixed-citation publication-type="journal">Wadhawan M, Tyagi P, Malhotra V, Sakhuja P, Puri AS. Reversible cholestatic hepatitis due to carbamazepine in an adolescent. Indian J Gastroenterol 2005; 24: 172-3. <annotation><p><italic toggle="yes">(13 year old boy developed rash and fever 10 weeks after starting carbamazepine, [bilirubin 14 mg/dL, ALT 156 U/L, Alk P 1414 U/L], resolving within 12 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">16204911</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R95">
+            <mixed-citation publication-type="journal">Syn WK, Naisbitt DJ, Holt AP, Pirmohamed M, Mutimer DJ. Carbamazepine-induced acute liver failure as part of the DRESS syndrome. Int J Clin Pract 2005; 59: 988-91. <annotation><p><italic toggle="yes">(21 year old woman developed fever and rash 2 months after starting carbamazepine [bilirubin 2.4 mg/dL, ALT 1001 U/L, Alk P 148 U/L, protime 31 seconds, eosinophils 900/uL], with subsequent worsening, hepatic failure and death).</italic></p></annotation><pub-id pub-id-type="pmid">16033627</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R96">
+            <mixed-citation publication-type="journal">Mu&#x000f1;oz-Cer&#x000f3;n JF, Nari&#x000f1;o-Gonz&#x000e1;lez D, Uribe-Granja M. [Carbamazepine-associated pseudolymphoma] Rev Neurol 2006; 43: 700-2. Spanish. <pub-id pub-id-type="pmid">17133333</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R97">
+            <mixed-citation publication-type="journal">Skopp G, Schmitt HP, Pedal I. [Fulminant liver failure in a patient on carbamazepine and levetiracetam treatment associated with status epilepticus]. Arch Kriminol 2006; 217: 161-75. German. <annotation><p><italic toggle="yes">(22 year old woman on long term carbamazepine developed acute liver failure after a period of status epilepticus and mild but prolonged hypotension; autopsy was more compatible with ischemic hepatitis than drug induced liver injury, and no routine liver tests [bilirubin, ALT, Alk P, LDH, CPK, protime] provided).</italic></p></annotation><pub-id pub-id-type="pmid">16910300</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R98">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E, Olsson R. Suspected drug-induced liver fatalities reported to the WHO database. Dig Liver Dis 2006; 38: 33-8. <annotation><p><italic toggle="yes">(In WHO database of fatal adverse drug reactions from 1968-2003, 4690 reports of drug induced liver fatality: phenytoin was the only anticonvulsant within the 19 most common causes, ranking 12th [57 cases]).</italic></p></annotation><pub-id pub-id-type="pmid">16054882</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R99">
+            <mixed-citation publication-type="journal">Lonjou C, Thomas L, Borot N, Ledger N, de Toma C, LeLouet H, Graf E, et al; RegiSCAR Group. A marker for Stevens-Johnson syndrome ...: ethnicity matters. Pharmacogenomics J 2006; 6: 265-8. <annotation><p><italic toggle="yes">(Preliminary results of testing 12 European patients with Stevens Johnson syndrome due to carbamazepine among whom only 4 [25%] had HLA-B*1502, all of whom were of Asian background suggesting that the association may not apply to European subjects).</italic></p></annotation><pub-id pub-id-type="pmid">16415921</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R100">
+            <mixed-citation publication-type="journal">Man CB, Kwan P, Baum L, Yu E, Lau KM, Cheng AS, Ng MH. Association between HLA-B*1502 allele and antiepileptic drug-induced cutaneous reactions in Han Chinese. Epilepsia 2007; 48: 1015-8. <annotation><p><italic toggle="yes">(Study of 24 patients with cutaneous reactions to anticonvulsant medications from Hong Kong found that 4 of 4 with carbamazepine induced Stevens Johnson syndrome or toxic epidermal necrolysis had HLA-B*1502, but none of 4 with macular papular dermatitis from the same drug).</italic></p></annotation><pub-id pub-id-type="pmid">17509004</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R101">
+            <mixed-citation publication-type="journal">Tohyama M, Hashimoto K, Yasukawa M, Kimura H, Horikawa T, Nakajima K, Urano Y, et al. Association of human herpesvirus 6 reactivation with the flaring and severity of drug-induced hypersensitivity syndrome. Br J Dermatol 2007; 157: 934-40. <annotation><p><italic toggle="yes">(Anti-HHV-6 testing of 100 patients with drug induced hypersensitivity syndrome [34% with hepatitis] found rise in IgG levels in 62 patients, largely in more severe cases; HHV-6 DNA detected in 18; drugs implicated included carbamazepine, phenobarbital, phenytoin, allopurinol, sulfasalazine and mexiletine).</italic></p></annotation><pub-id pub-id-type="pmid">17854362</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R102">
+            <mixed-citation publication-type="journal">Gawlikowski T, Hydzik P. [Carbamazepine hepatoxicity&#x02014;a case report] Przegl Lek 2007; 64: 318-9. Polish. <pub-id pub-id-type="pmid">17724898</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R103">
+            <mixed-citation publication-type="journal">Ueda K, Ishitsu T, Seo T, Ueda N, Murata T, Hori M, Nakagawa K. Glutathione S-transferase M1 null genotype as a risk factor for carbamazepine-induced mild hepatotoxicity. Pharmacogenomics 2007; 8: 435-42. <annotation><p><italic toggle="yes">(Genetic polymorphisms of glutathione S-transferase [GST] tested in 192 Japanese patients with epilepsy found correlations of GSTM1 with ALT levels; not with hypersensitivity syndrome or clinically apparent cases of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">17465707</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R104">
+            <mixed-citation publication-type="journal">R&#x000e9;aud S, Oberti F, Leclech C, Cal&#x000e8;s P. [Hepatotoxicity of carbamazepine: a case of "DRESS syndrome"]. Gastroenterol Clin Biol 2007; 31: 205-6. French. <annotation><p><italic toggle="yes">(42 year old man developed rash 4 weeks after starting carbamazepine with desquamation, pruritis, adenopathy, fever and facial edema [bilirubin 0.7 mg/dL, ALT 9 times ULN, Alk P 3 times ULN, no eosinophilia], resolving within 2 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">17347634</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R105">
+            <mixed-citation publication-type="journal">Fsadni C, Fsadni P, Piscopo T, Mallia Azzopardi C. Carbamazepine-induced drug reaction with eosinophilia and systemic symptoms syndrome in a 35-year-old man with epilepsy. Clin Neuropharmacol 2008; 31: 295-8. <annotation><p><italic toggle="yes">(35 year old man developed fever, rash and jaundice 2 months after adding carbamazepine to phenytoin therapy [bilirubin 15.4 mg/dL, ALT 252 U/L, Alk P 374 U/L, no eosinophilia], worsening for 2 weeks while carbamazepine continued before starting recovery on corticosteroids).</italic></p></annotation><pub-id pub-id-type="pmid">18836349</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R106">
+            <mixed-citation publication-type="journal">Ganeva M, Gancheva T, Lazarova R, Troeva J, Baldaranov I, Vassilev I, Hristakieva E, Tzaneva V. Carbamazepine-induced drug reaction with eosinophilia and systemic symptoms (DRESS) syndrome: report of four cases and brief review. Int J Dermatol 2008; 47: 853-60. <annotation><p><italic toggle="yes">(Review of carbamazepine induced hypersensitivity syndromes and 4 case reports; onset after 3-4 weeks of starting carbamazepine with rash, fever and eosinophilia, 2 with liver involvement and 1 with jaundice, all treated with corticosteroids and all resolved without recurrence, 3 taking valproate).</italic></p></annotation><pub-id pub-id-type="pmid">18717872</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R107">
+            <mixed-citation publication-type="journal">Lonjou C, Borot N, Sekula P, Ledger N, Thomas L, Halevy S, Naldi L, et al; RegiSCAR study group. A European study of HLA-B in Stevens-Johnson syndrome and toxic epidermal necrolysis related to five high-risk drugs. Pharmacogenet Genomics 2008; 18: 99-107. <annotation><p><italic toggle="yes">(HLA-B genotyping of a cohort of patients with Stevens Johnson syndrome [SJS] and toxic epidermal necrolysis [TEN] due to medications found an association of B*5801 with SJS/TEN due to allopurinol in all 4 non-Europeans [100%], but a lower proportion of 27 Europeans [55%], whereas B*1502 was linked to SJS/TEN due to carbamazepine only in non-Europeans).</italic></p></annotation><pub-id pub-id-type="pmid">18192896</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R108">
+            <mixed-citation publication-type="journal">Locharernkul C, Loplumlert J, Limotai C, Korkij W, Desudchit T, Tongkobpetch S, Kangwanshiratada O, et al. Carbamazepine and phenytoin induced Stevens-Johnson syndrome is associated with HLA-B*1502 allele in Thai population. Epilepsia 2008; 49: 2087-91. <annotation><p><italic toggle="yes">(Testing for HLA-B*1502 in 81 Thai patients on anticonvulsants found a 100% association of this allele with SJS due to carbamazepine [6 of 6 patients] and phenytoin [4 of 4], with a rate of ~18% among tolerant patients and a similar rate in those with macular papular rashes).</italic></p></annotation><pub-id pub-id-type="pmid">18637831</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R109">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, carbamazepine was implicated in only one case).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R110">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E. Hepatotoxicity associated with antiepileptic drugs. Acta Neurol Scan 2008; 118: 281-90. <annotation><p><italic toggle="yes">(Review of all anticonvulsant induced liver injury including discussion of 60 cases of carbamazepine hepatotoxicity which is usually a part of hypersensitivity syndrome, typically mixed enzyme pattern, 27% with eosinophilia, mean onset at 5 weeks, 17% mortality which is more common in children and with hepatocellular pattern of enzymes and with longer latency to onset).</italic></p></annotation><pub-id pub-id-type="pmid">18341684</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R111">
+            <mixed-citation publication-type="journal">Crespo P&#x000e9;rez L, Moreira Vicente V, Cano Ruiz A, Gobernado Serrano JM, Cobo Iba&#x000f1;ez N, Milicua Salamero JM. [Anticonvulsant hypersensitivity syndrome: an entity to be remembered]. Gastroenterol Hepatol 2009; 32: 687-92. Spanish. <annotation><p><italic toggle="yes">(15 year old girl developed developed fever and rash several weeks after starting carbamazepine).</italic></p></annotation><pub-id pub-id-type="pmid">19732994</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R112">
+            <mixed-citation publication-type="journal">Adams EN, Marks A, Lizer MH. Carbamazepine-induced hyperammonemia. Am J Health Syst Pharm 2009; 66: 1468-70. <annotation><p><italic toggle="yes">(26 year old man with traumatic brain disorder developed aggressive behavior 3 weeks after starting carbamazepine [ammonia 127 &#x000b5;g/dL, liver tests normal], which resolved with stopping the drug and use of lactulose, later found to have a history of similar hyperammonemia from a previous therapy with carbamazepine and another episode after valproate).</italic></p></annotation><pub-id pub-id-type="pmid">19667003</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R113">
+            <mixed-citation publication-type="journal">Eshki M, Allanore L, Musette P, Milpied B, Grange A, Guillaume JC, Chosidow O, et al. Twelve-year analysis of severe cases of drug reaction with eosinophilia and systemic symptoms: a cause of unpredictable multiorgan failure. Arch Dermatol 2009; 145: 67-72. <annotation><p><italic toggle="yes"> (Among 15 patients with severe DRESS from France, average onset was within 18 days, 2/3rds were women and causes included allopurinol [4], minocycline [3], sulfonamides [3] and anticonvulsants [3]; one each for phenobarbital, phenytoin and lamotrigine; about half had liver involvement).</italic></p></annotation><pub-id pub-id-type="pmid">19153346</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R114">
+            <mixed-citation publication-type="journal">Aouam K, Ben Romdhane F, Loussaief C, Salem R, Toumi A, Belhadjali H, Chaabane A, et al. Hypersensitivity syndrome induced by anticonvulsants: possible cross-reactivity between carbamazepine and lamotrigine. J Clin Pharmacol 2009; 49: 1488-91. <annotation><p><italic toggle="yes">(14 year old boy developed facial edema and fever 6 weeks after starting carbamazepine [bilirubin not given, ALT 193 U/L, eosinophils 15%], which resolved with stopping, and months later he developed fever, rash and pneumonitis 7 weeks after starting lamotrigine [ALT 154 U/L, eosinophils 12%], resolving upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">19723672</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R115">
+            <mixed-citation publication-type="journal">Franciotta D, Kwan P, Perucca E. Genetic basis for idiosyncratic reactions to antiepileptic drugs. Curr Opin Neurol 2009; 22: 144-9. <annotation><p><italic toggle="yes">(Review of the genetic associations with hypersensitivity reactions to anticonvulsant medications; closest association has been with HLA-B*1502 and Stevens Johnson syndrome after aromatic anticonvulsants).</italic></p></annotation><pub-id pub-id-type="pmid">19262378</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R116">
+            <mixed-citation publication-type="journal">Ferrajolo C, Capuano A, Verhamme KM, Schuemie M, Rossi F, Stricker BH, Sturkenboom MC. Drug-induced hepatic injury in children: a case/non-case study of suspected adverse drug reactions in VigiBase. Br J Clin Pharmacol 2010; 70: 721-8. (Worldwide pharmacovigilance database contains 9036 hepatic adverse drug reactions in children, carbamazepine accounting for 140 cases [1.5% of total] for an adjusted odds ratio of 3.6).<pub-id pub-id-type="pmid">21039766</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R117">
+            <mixed-citation publication-type="journal">Tassaneeyakul W, Tiamkao S, Jantararoungtong T, Chen P, Lin SY, Chen WH, Konyoung P, et al. Association between HLA-B*1502 and carbamazepine-induced severe cutaneous adverse drug reactions in a Thai population. Epilepsia 2010; 51: 926-30. <annotation><p><italic toggle="yes">(Among 42 Thai patients with carbamazepine induced SJS/TEN, 37 [88%] had the HLA-B*1502 allele compared to 12% of tolerant controls, yielding and a positive predictive value of 1.9% and negative value of 99.9%).</italic></p></annotation><pub-id pub-id-type="pmid">20345939</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R118">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, including 3 attributed to carbamazepine).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R119">
+            <mixed-citation publication-type="journal">Devarbhavi H, Dierkhising R, Kremers WK, Sandeep MS, Karanth D, Adarsh CK. Single-center experience with drug-induced liver injury from India: causes, outcome, prognosis, and predictors of mortality. Am J Gastroenterol 2010; 105: 2396-404. <annotation><p><italic toggle="yes">(313 cases of drug induced liver injury were seen over a 12 year period at a large hospital in Bangalore, India: 9 [2.9%] were attributed to carbamazepine).</italic></p></annotation><pub-id pub-id-type="pmid">20648003</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R120">
+            <mixed-citation publication-type="journal">Kaniwa N, Saito Y, Aihara M, Matsunaga K, Tohkin M, Kurose K, Furuya H, et al; JSAR research group. HLA-B*1511 is a risk factor for carbamazepine-induced Stevens-Johnson syndrome and toxic epidermal necrolysis in Japanese patients. Epilepsia 2010; 51: 2461-5. <annotation><p><italic toggle="yes">(Among 14 Japanese patients with SJS/TEN due to carbamazepine, none had the HLA-B*1502 allele but 4 [29%] had B*1511, a member of the same superfamily).</italic></p></annotation><pub-id pub-id-type="pmid">21204807</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R121">
+            <mixed-citation publication-type="journal">Molleston JP, Fontana RJ, Lopez MJ, Kleiner DE, Gu J, Chalasani N; for the Drug-Induced Liver Injury Network. Characteristics of idiosyncratic drug-induced liver injury in children: results from the DILIN Prospective Study. J Pediatr Gastroenterol Nutr 2011; 53: 182-9. <annotation><p><italic toggle="yes">(Among 30 children with drug induced liver injury enrolled in a prospective US database between 2004 and 2008, 8 were due to anticonvulsants [lamotrigine in 3, valproate in 3, phenytoin in 1 and carbamazepine in 1], none of which were fatal or led to chronic injury).</italic></p></annotation><pub-id pub-id-type="pmid">21788760</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R122">
+            <mixed-citation publication-type="journal">Gerull R, Nelle M, Schaible T. Toxic epidermal necrolysis and Stevens-Johnson syndrome: a review. Crit Care Med 2011; 39: 1521-32. <annotation><p><italic toggle="yes">(Review of SJS and TEN which represent a spectrum of severe inflammatory skin reactions often due to medications including NSAIDs, carbamazepine, phenytoin, allpurinol, phenobarbital and valproate; no specific therapy has been shown to be beneficial).</italic></p></annotation><pub-id pub-id-type="pmid">21358399</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R123">
+            <mixed-citation publication-type="journal">McCormack M, Alfirevic A, Bourgeois S, Farrell JJ, Kasperavi&#x0010d;i&#x0016b;t&#x00117; D, Carrington M, Sills GJ, et al. HLA-A*3101 and carbamazepine-induced hypersensitivity reactions in Europeans. N Engl J Med 2011; 364: 1134-43. <annotation><p><italic toggle="yes">(Genome wide association study on 43 Europeans with carbamazepine hypersensitivity syndromes identified HLA A*3101 in 27% of cases compared to 4% of controls).</italic></p></annotation><pub-id pub-id-type="pmid">21428769</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R124">
+            <mixed-citation publication-type="journal">Chen P, Lin JJ, Lu CS, Ong CT, Hsieh PF, Yang CC, Tai CT, et al; Taiwan SJS Consortium. Carbamazepine-induced toxic effects and HLA-B*1502 screening in Taiwan. N Engl J Med 2011; 364: 1126-33. <annotation><p><italic toggle="yes">(Prospective assessment of effects of HLA screening among 4855 Taiwanese adults about to start carbamazepine; those with B*1502 were advised to take another agent; in follow up, there were no cases of SJS/TEN, whereas 10 [0.23%] were expected).</italic></p></annotation><pub-id pub-id-type="pmid">21428768</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R125">
+            <mixed-citation publication-type="journal">Harr T, French LE. Stevens-Johnson syndrome and toxic epidermal necrolysis. Chem Immunol Allergy 2012; 97: 149-66. <annotation><p><italic toggle="yes">(Review of clinical features, pathogenesis, genetics, scoring systems, management and outcome of SJS/TEN).</italic></p></annotation><pub-id pub-id-type="pmid">22613860</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R126">
+            <mixed-citation publication-type="journal">Chung WH, Hung SI. Recent advances in the genetics and immunology of Stevens-Johnson syndrome and toxic epidermal necrosis. J Dermatol Sci 2012; 66: 190-6. <annotation><p><italic toggle="yes">(Review of genetics and immunology of SJS/TEN discusses the association of carbamazepine induced SJS with HLA-B*1502 in Asians and HLA-A*3101 in Europeans and the interactions of drug, peptide, HLA alleles and T cell receptors).</italic></p></annotation><pub-id pub-id-type="pmid">22541332</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R127">
+            <mixed-citation publication-type="journal">Yip VL, Marson AG, Jorgensen AL, Pirmohamed M, Alfirevic A. HLA genotype and carbamazepine-induced cutaneous adverse drug reactions: a systematic review. Clin Pharmacol Ther 2012; 92: 757-65. <annotation><p><italic toggle="yes">(Systematic review of literature on HLA genotypes and cutaneous adverse reactions to carbamazepine found 23 studies on a total of 690 patients and 1585 "tolerant" controls which reported that 96% of Southeast Asian SJS/TEN cases vs 11% of controls had HLA-B*1502 allele, but association not found in Japan, Korea or Europe where A*3101 which linked to all hypersensitivity reactions in Koreans, Japanese and Europeans).</italic></p></annotation><pub-id pub-id-type="pmid">23132554</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R128">
+            <mixed-citation publication-type="journal">McCormack M, Urban TJ, Shianna KV, Walley N, Pandolfo M, Depondt C, Chaila E, et al. Genome-wide mapping for clinically relevant predictors of lamotrigine- and phenytoin-induced hypersensitivity reactions. Pharmacogenomics 2012; 13: 399-405. <annotation><p><italic toggle="yes">(Genome wide association studies failed to identify any significant variation [including HLA-A*3101, previously associated with carbamazepine reactions in Europeans: McCormack 2011] associated with hypersensitivity to lamotrigine [n=46] or phenytoin [n=44]).</italic></p></annotation><pub-id pub-id-type="pmid">22379998</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R129">
+            <mixed-citation publication-type="journal">Patel PP, Gandhi AM, Desai CK, Desai MK, Dikshit RK. An analysis of drug induced Stevens-Johnson syndrome. Indian J Med Res 2012; 136: 1051-3. <annotation><p><italic toggle="yes">(59 cases of drug induced Stevens Johnson syndrome were seen at a single referral center in India between 2005-2010, 25% in children, arising 1-39 days after starting drug, major causes being phenytoin [18] and nevirapine [13], 4 were attributed to carbamazepine).</italic></p></annotation><pub-id pub-id-type="pmid">23391805</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R130">
+            <mixed-citation publication-type="journal">Knowles SR, Dewhurst N, Shear NH. Anticonvulsant hypersensitivity syndrome: an update. Expert Opin Drug Saf 2012; 11: 767-78. <annotation><p><italic toggle="yes">(DRESS syndrome is marked by triad of fever, rash and internal organ involvement, usually liver; carbamazepine is a well known cause).</italic></p></annotation><pub-id pub-id-type="pmid">2794330</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R131">
+            <mixed-citation publication-type="journal">Neuman MG, Cohen L, Nanau RM, Hwang PA. Genetic and immune predictors for hypersensitivity syndrome to antiepileptic drugs. Transl Res 2012; 159: 397-406. <annotation><p><italic toggle="yes"> (Review of hypersensitivity reactions to antiepileptic agents including carbamazepine and lymphotycte toxicity assays).</italic></p></annotation><pub-id pub-id-type="pmid">22500513</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R132">
+            <mixed-citation publication-type="journal">Kim HI, Kim SW, Park GY, Kwon EG, Kim HH, Jeong JY, Chang HH, Lee JM, Kim NS. Causes and treatment outcomes of Stevens-Johnson syndrome and toxic epidermal necrolysis in 82 adult patients. Korean J Intern Med 2012; 27(2): 203-10. <annotation><p><italic toggle="yes">(Analysis of 82 patients with SJS/TEN seen between 2001 and 2011 at a Korean referral center found 52% due to drugs, 7 due to carbamazepine [8%], the single most common agent; mortality was 10%).</italic></p></annotation><pub-id pub-id-type="pmid">22707893</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R133">
+            <mixed-citation publication-type="journal">Sethuraman G, Sharma VK, Pahwa P, Khetan P. Causative Drugs and Clinical Outcome in Stevens Johnson Syndrome (SJS), Toxic Epidermal Necrolysis (TEN), and SJS-TEN Overlap in Children. Indian J Dermatol 2012; 57: 199-200. <annotation><p><italic toggle="yes">(Analysis of 20 children with SJS/TEN seen at an Indian referral center between 2007 and 2010; 15 were attributed to medications including 3 to carbamazepine: mortality rate 15%).</italic></p></annotation><pub-id pub-id-type="pmid">22707771</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R134">
+            <mixed-citation publication-type="journal">Kannenberg SM, Jordaan HF, Koegelenberg CF, Von Groote-Bidlingmaier F, Visser WI. Toxic epidermal necrolysis and Stevens-Johnson syndrome in South Africa: a 3-year prospective study. QJM 2012; 105: 839-46. <annotation><p><italic toggle="yes">(Analysis of 75 adults patients with SJS/TEN seen between 2008 and 2011 at a referral center in South Africa, 59 [79%] were HIV positive and the major causes were drugs [96%] including TMP/SMZ 24%, nevirapine [30%], tuberculosis medications [20%] and anticonvulsants [16%]; one fatal case was due to carbamazepine).</italic></p></annotation><pub-id pub-id-type="pmid">22543685</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R135">
+            <mixed-citation publication-type="journal">Kwon H, Lee SH, Kim SE, Lee JH, Jee YK, Kang HR, Park BJ, Park JW, Hong CS. Spontaneously reported hepatic adverse drug events in Korea: multicenter study. J Korean Med Sci 2012; 27: 268-73. <annotation><p><italic toggle="yes">(Summary of 2 years of adverse event reporting in Korea; of 9360 reports, 567 were liver related, including 6 [1.1%] attributed to carbamazepine).</italic></p></annotation><pub-id pub-id-type="pmid">22379337</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R136">
+            <mixed-citation publication-type="journal">Wei CY, Chung WH, Huang HW, Chen YT, Hung SI. Direct interaction between HLA-B and carbamazepine activates T cells in patients with Stevens-Johnson syndrome. J Allergy Clin Immunol 2012; 129: 1562-9. <annotation><p><italic toggle="yes">(Cytotoxic T cells responding to carbamazepine were found in all 20 patients with a history of carbamazepine related SJS/TEN but in none of 4 tolerant controls, the HLA-B*1502 binding requiring endogenous peptides, but without processing of carbamazepine).</italic></p></annotation><pub-id pub-id-type="pmid">22322005</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R137">
+            <mixed-citation publication-type="journal">Sawicki J, Ellis AK. Stevens-Johnson syndrome: a review of 14 adult cases with one fatal outcome. Ann Allergy Asthma Immunol 2013; 110: 207-9. <annotation><p><italic toggle="yes">(Review of 14 cases of SJS seen at a single Canadian hospital between 2002 and 2010, 2 had minor enyzme elevations, but none were jaundiced; causes included phenytoin, carbamazepine, lamotrigine, sulfonamides and allopurinol).</italic></p></annotation><pub-id pub-id-type="pmid">23548536</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R138">
+            <mixed-citation publication-type="journal">Cheung YK, Cheng SH, Chan EJ, Lo SV, Ng MH, Kwan P. HLA-B alleles associated with severe cutaneous reactions to antiepileptic drugs in Han Chinese. Epilepsia 2013 May 20. [Epub ahead of print] <annotation><p><italic toggle="yes">(HLA-B*1502 was found in 24 of 26 [92%] Chinese patients with carbamazepine related, but only 2 of 6 [33%] with lamotrigine related SJS versus 12% of controls).</italic></p></annotation><pub-id pub-id-type="pmid">23692434</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R139">
+            <mixed-citation publication-type="journal">Kaniwa N, Saito Y. Pharmacogenomics of severe cutaneous adverse reactions and drug-induced liver injury. J Hum Genet. 2013 May 2. [Epub ahead of print] <annotation><p><italic toggle="yes">(Review of genetic associations with severe skin and liver injury from drugs, focusing upon allopinol [B*5801], abacavir and flucloxacillin [B*5701] an dlapatinib [DQA1*02:01]; the association of B*1502 with carbamazepine induced SJS has not been extended to carbamazepine induced liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">23635947</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R140">
+            <mixed-citation publication-type="journal">Sekula P, Dunant A, Mockenhaupt M, Naldi L, Bouwes Bavinck JN, Halevy S, Kardaun S, Sidoroff A, Liss Y, Schumacher M, Roujeau JC. Comprehensive survival analysis of a cohort of patients with Stevens-Johnson syndrome and toxic epidermal necrolysis. J Invest Dermatol. 2013; 133: 1197-204. <annotation><p><italic toggle="yes">(Analysis of mortality rates in 460 patients with SJS/TEN [67% due to drugs] in a European observational database found that age, severity, underlying malignancy and renal or hepatic involvement correlated with poor survival; overall mortality at one year being 24% for SJS, 43% for overlap and 49% for TEN cases).</italic></p></annotation><pub-id pub-id-type="pmid">23389396</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R141">
+            <mixed-citation publication-type="journal">Lee T, Lee YS, Yoon SY, Kim S, Bae YJ, Kwon HS, Cho YS, Moon HB, Kim TB. Characteristics of liver injury in drug-induced systemic hypersensitivity reactions. J Am Acad Dermatol 2013 Apr 27. [Epub ahead of print] <annotation><p><italic toggle="yes">(Analysis of 136 patients with hypersensitivity reactions to drugs seen at a single referral center in Korea found liver involvement in 61 [45%], including 11 with SJS/TEN, 29 with DRESS and 17 with rash only; 20 cases were attributed to anticonvulsants).</italic></p></annotation><pub-id pub-id-type="pmid">23632341</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R142">
+            <mixed-citation publication-type="journal">Drugs for epilepsy. Treat Guidel Med Lett 2013; 11: 9-18. <annotation><p><italic toggle="yes">(Concise review of drugs of choice for epilepsy; mentions that the adverse effects of carbamazepine include acute hepatitis and Stevens Johnson syndrome).</italic></p></annotation><pub-id pub-id-type="pmid">23348233</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R143">
+            <mixed-citation publication-type="journal">Teng P, Tan B. Carbamazepine-induced DRESS syndrome in a child: rapid response to pulsed corticosteroids. Dermatol Online J 2013; 19: 18170. <annotation><p><italic toggle="yes">(14 year old boy developed fever and rash 2 weeks after starting carbamazepine [peak bilirubin ~17 mg/dL, ALT 1420 U/L, Alk P 610 U/L], resolving with corticosteroid therapy within 3 weeks of stopping). </italic></p></annotation><pub-id pub-id-type="pmid">24011271</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R144">
+            <mixed-citation publication-type="journal">Planjar-Prvan M, Bielen A, Sruk A, Marusi&#x00107; M, Bielen I. Acute oxcarbazepine-induced hepatotoxicity in a patient susceptible to developing drug-induced liver injury. Coll Antropol 2013; 37: 281-4. <annotation><p><italic toggle="yes">(Ordered). </italic></p></annotation><pub-id pub-id-type="pmid">23697284</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R145">
+            <mixed-citation publication-type="journal">Tangamornsuksan W, Chaiyakunapruk N, Somkrua R, Lohitnavy M, Tassaneeyakul W. Relationship between the HLA-B*1502 allele and carbamazepine-induced Stevens-Johnson syndrome and toxic epidermal necrolysis: a systematic review and meta-analysis. JAMA Dermatol 2013; 149: 1025-32. <annotation><p><italic toggle="yes"> (Systematic review of the literature on the association of carbamazepine related SJS/TEN with HLA-B*1502 found a strong correlation across 16 studies with 227 cases [87% with the allele] and 602 tolerant controls [9%], with association in Han Chinese, Malaysian, Thai and Indian populations but not in Japanese or Europeans).</italic></p></annotation><pub-id pub-id-type="pmid">23884208</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R146">
+            <mixed-citation publication-type="journal">He XJ, Jian LY, He XL, Wu Y, Xu YY, Sun XJ, Miao LY, Zhao LM. Association between the HLA-B*15:02 allele and carbamazepine-induced Stevens-Johnson syndrome/toxic epidermal necrolysis in Han individuals of northeastern China. Pharmacol Rep 2013; 65: 1256-62. <annotation><p><italic toggle="yes">(HLA-B*1502 was found in 8 of 35 [23%] Northern Chinese patients with carbamazepine related SJS/TEN compared to 2 of 125 [1.6%] of controls, a lower association than found in Southern China [Taiwan]).</italic></p></annotation><pub-id pub-id-type="pmid">24399721</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R147">
+            <mixed-citation publication-type="journal">Aggarwal R, Sharma M, Modi M, Garg VK, Salaria M. HLA-B&#x02217; 1502 is associated with carbamazepine induced Stevens-Johnson syndrome in North Indian population. Hum Immunol 2014; 75: 1120-2. <annotation><p><italic toggle="yes"> (HLA-B*1502 alleles were identified in 2 of 9 Indian patients with carbamazepine associated SJS, but in none of 8 with phenytoin associated SJS and none of 50 tolerant controls).</italic></p></annotation><pub-id pub-id-type="pmid">25305458</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R148">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes"> (Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, the most common implicated agents being nimesulide [n=53: 30%], cyproterone [n=18], nitrofurantoin [n=17], antituberculosis drugs [n=13] and flutamide [n=12: 7%]).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R149">
+            <mixed-citation publication-type="journal">Mehta M, Shah J, Khakhkhar T, Shah R, Hemavathi KG. Anticonvulsant hypersensitivity syndrome associated with carbamazepine administration: Case series. J Pharmacol Pharmacother 2014; 5: 59-62. <annotation><p><italic toggle="yes"> (Three Indian men, ages 30, 41 and 50 years, developed rash, fever and serum enzyme elevations 7-10 days after starting carbamazepine [ALT 50-66 U/L, bilirubin normal], resolving on stopping drug).</italic></p></annotation><pub-id pub-id-type="pmid">24554914</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R150">
+            <mixed-citation publication-type="journal">Yip VL, Alfirevic A, Pirmohamed M. Genetics of immune-mediated adverse drug reactions: a comprehensive and clinical review. Clin Rev Allergy Immunol 2015; 48: 165-75. <annotation><p><italic toggle="yes"> (Review of the genetics of immune mediated drug reactions focusing upon skin injury from abacavir [HLA-B*57:01], carbamazepine [B*15:02, A*31:01], and allopurinol [B*58:01] and hepatotoxicity from amoxicillin/ clavulanate [several], flucloxacillin [B*57:01], ximelagatran, lumiracoxib, lapatinib, ticlopidine and nevirapine).</italic></p></annotation><pub-id pub-id-type="pmid">24777842</pub-id></mixed-citation>
+          </ref>
+          <ref id="Carbamazepine.R151">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 4 cases [0.5%] were attributed to carbamazepine).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Carbamazepine.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(carbamazepine/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%222009/11/01%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Carbamazepine: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=carbamazepine">Trials on Carbamazepine: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

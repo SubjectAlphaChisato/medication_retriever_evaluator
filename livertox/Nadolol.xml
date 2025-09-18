@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Nadolol" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Nadolol</book-part-id>
+      <title-group>
+        <title>Nadolol</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>15</day>
+          <month>1</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Nabumetone" document-type="chapter">Nabumetone</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Nafcillin" document-type="chapter">Nafcillin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Nadolol.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Nadolol.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Nadolol is a nonselective beta-adrenergic receptor blocker that is widely used for the therapy of hypertension, angina pectoris and vascular headaches. Nadolol has yet to be convincingly associated with clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Nadolol.Background">
+          <title>Background</title>
+          <p>Nadolol (nay' doe lol) was the second beta-blocker developed for therapy of hypertension and is considered nonselective, acting on both the beta-1 and beta-2 adrenergic receptors. Beta-1 adrenergic blockade reduces the heart rate and myocardial contractility by slowing the atrioventricular (AV) conduction and suppressing automaticity. Beta-2 blockade affects peripheral vascular resistance and can cause bronchospasm and hypoglycemia. The beta-2 blockade is responsible for the majority of adverse effects associated with nadolol. Nadolol was approved for use in the United States in 1979 and is still commonly used, with more than 1 million prescriptions filled yearly. Nadolol is indicated for the management of hypertension and angina pectoris, and is used off label for prophylaxis against migraine and vascular headaches. Nadolol is available in multiple generic forms and under the trade name of Corgard in tablets of 20, 40, 80, 120 and 160 mg. Fixed combinations with diuretics are also available (nadolol and bendroflumethiazide: Corzide). The typical dose of nadolol in adults is 40 to 80 mg once daily. Common side effects of nadolol include bradycardia, hypotension, fatigue, dizziness, depression, memory loss, impotence, cold limbs and, less commonly, severe hypotension, heart failure and bronchospasm. Sudden withdrawal can trigger rebound hypertension. Beta-blockers are contraindicated in patients with asthma, bradycardia and heart failure, and should be used cautiously in the elderly and in patients with diabetes.</p>
+        </sec>
+        <sec id="Nadolol.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Mild-to-moderate elevations in serum aminotransferase levels occur in less than 1% of patients on nadolol and are usually transient and asymptomatic, resolving even with continuation of therapy. Despite its widespread use, nadolol has not been convincingly linked to instances of clinically apparent liver injury; the few cases reported have generally occurred in patients who were receiving other well known hepatotoxic agents or were associated with serum enzyme elevations only. Other beta-blockers have been implicated in causing rare instances of acute liver injury, with latency to onset ranging from 4 to 24 weeks, a hepatocellular pattern of serum enzyme elevations, and a mild, self-limiting course without evidence of hypersensitivity or autoimmune reactions.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Nadolol.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Nadolol undergoes rapid first pass metabolism by the liver, but has little or no effect on P450 activity. The reason why it rarely causes liver injury is unknown; other beta-blockers with similar chemical structures have been linked to cases of clinically apparent, idiosyncratic liver injury.</p>
+          <p>References to the safety and potential hepatotoxicity of nadolol are provided in the overview on Beta-Adrenergic Receptor Antagonists, last updated in June 2019.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Betablockers">Beta-Adrenergic Receptor Antagonists</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Nadolol.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Nadolol.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Nadolol &#x02013; Generic, Corgard&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Beta-Adrenergic Receptor Antagonists</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Nadolol">COMPLETE LABELING</ext-link>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Nadolol.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Nadolol.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Nadolol.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Nadolol.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Nadolol.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Nadolol.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Nadolol.T1_1_1_1_1" rowspan="1" colspan="1">Nadolol</td>
+                <td headers="hd_h_Nadolol.T1_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135002393">42200-33-9</ext-link>
+</td>
+                <td headers="hd_h_Nadolol.T1_1_1_1_3" rowspan="1" colspan="1">C17-H27-N-O4</td>
+                <td headers="hd_h_Nadolol.T1_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Nadolol_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Nadolol Chemical Structure</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Nadolol.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(nadolol/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Nadolol: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=nadolol">Trials on Nadolol: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

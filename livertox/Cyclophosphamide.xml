@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Cyclophosphamide" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Cyclophosphamide</book-part-id>
+      <title-group>
+        <title>Cyclophosphamide</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>5</day>
+          <month>11</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Cyclobenzaprine" document-type="chapter">Cyclobenzaprine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Cycloserine" document-type="chapter">Cycloserine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Cyclophosphamide.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Cyclophosphamide.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Cyclophosphamide is an alkylating agent used in the treatment of several forms of cancer including leukemias, lymphomas and breast cancer. Cyclophosphamide therapy is associated with minor transient serum enzyme elevations and has been linked to rare cases of acute liver injury. In addition, when given in high doses as a part of a myeloablative therapy, cyclophosphamide can cause acute sinusoidal obstruction syndrome.</p>
+        </sec>
+        <sec id="Cyclophosphamide.Background">
+          <title>Background</title>
+          <p>Cyclophosphamide (sye" kloe fos' fa mide) is a synthetic, nitrogen mustard-like alkylating agent that is widely used in the therapy of cancer and in severe forms of autoimmune disease. It requires activation in the liver to form its active intermediaries which act by modifying and cross linking purine bases in DNA, thus inhibiting DNA, RNA and protein synthesis and causing cell death in rapidly dividing cells. Cyclophosphamide was approved for use in the United States in 1959 and its current indications include treatment of breast, head, neck, lung, cervix, testis and ovarian cancer, acute and chronic lymphocytic leukemia, Hodgkin's and non-Hodgkin&#x02019;s lymphoma, malignant histiocytosis, multiple myeloma, soft tissue sarcoma, mycosis fungoides, neuroblastoma, and retinoblastoma. Cyclophosphamide is also used in severe autoimmune disorders including minimal change nephrotic syndrome not responsive to conventional therapy. Cyclophosphamide is also occasionally used in the prevention of rejection after organ transplantation. Cyclophosphamide is available as tablets or capsules of 25 and 50 mg and as a powder or in liquid solution for intravenous use in generic forms and under the trade name Cytoxan. The recommended dosage varies from 1 to 5 mg/kg per day with the patient age, body weight, mode of administration and disease entity. Common side effects of include alopecia, nausea, vomiting, diarrhea, gastrointestinal upset, cystitis, oral ulcers and bone marrow suppression. Rare, but potentially severe adverse events include severe neutropenia, sepsis, cardiotoxicity, hemorrhagic cystitis, embryo-fetal toxicity and secondary malignancies.</p>
+        </sec>
+        <sec id="Cyclophosphamide.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Mild and transient elevations in serum aminotransferase levels are found in up to 43% of patients with cancer who are treated with cyclophosphamide. The abnormalities are generally asymptomatic and transient and do not require dose modification. Enzyme elevations are more common with higher doses and with intravenous therapy. In some instances, marked elevations arise warranting dose modification or discontinuation of cyclophosphamide (Case 3).</p>
+          <p>Clinically apparent liver injury from standard doses of cyclophosphamide is uncommon, but several case reports of acute liver injury with jaundice have been published (Cases 1 and 2). The onset is within 2 to 8 weeks of starting cyclophosphamide and the pattern of serum enzyme elevations is hepatocellular. Immunoallergic and autoimmune features are uncommon. The injury in most cases is self-limited and resolves within 1 to 3 months of stopping; however, fatal instances have been reported. Recurrence on reexposure has been described.</p>
+          <p>High doses of cyclophosphamide given as chemotherapy of cancer or as myeloablative therapy in combination of total body irradiation or busulfan in preparation for hematopoietic cell transplantation can induce sinusoidal obstruction syndrome (veno-occlusive disease), which can be severe leading to acute liver failure and death. The onset of injury is usually within 10 to 20 days of the myeloablation and is characterized by a sudden onset of abdominal pain, weight gain, ascites, marked increase in serum aminotransferase levels (and lactic dehydrogenase), and subsequent jaundice and hepatic dysfunction. The severity of sinusoidal obstruction syndrome varies from a transient, self limited injury to acute liver failure. The diagnosis is usually based on clinical features of tenderness and enlargement of the liver, weight gain, ascites and jaundice. Liver biopsy is diagnostic but often contraindicated, because of severe thrombocytopenia after hematopoietic cell transplantation.</p>
+          <p>Likelihood score: B (highly likely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Cyclophosphamide.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of idiosyncratic hepatotoxicity from cyclophosphamide is not known. The sinusoidal obstruction syndrome induced by cyclophosphamide is probably related to the direct toxic effect of cyclophosphamide on sinusoidal cells in the liver, causing their necrosis and release into the sinusoids, obstruction and obliteration of hepatic veins. Cyclophosphamide is extensively metabolized by hepatic cytochrome P450 system and more than 150 metabolites have been identified, but their pharmacokinetics and toxicities are not well defined.</p>
+        </sec>
+        <sec id="Cyclophosphamide.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The severity of liver injury attributed to cyclophosphamide ranges from mild elevations in liver enzymes to acute liver injury or to massive, fatal hepatic necrosis due to sinusoidal obstruction syndrome. There is currently no specific therapy for the idiosyncratic liver injury due to cyclophosphamide or for veno-occlusive disease other than supportive management and avoidance of further damage. Defibrotide is currently approved for use in treating severe sinusoidal obstruction syndrome accompanied by renal or pulmonary failure occurring after myeloablative therapy in preparation for hematopoietic cell transplantation, but its efficacy has not been well documented. Rechallenge after recovery from clinically apparent liver injury attributed to cyclophosphamide should be avoided. Whether there is cross reactivity to the hepatic injury with other alkylating agents is not known.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, <related-object source-id="livertox" document-id="AlkylatingAgents">Alkylating Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Cyclophosphamide.CASE_REPORTS">
+        <title>CASE REPORTS</title>
+        <sec id="Cyclophosphamide.Case_1._Acute_liver_inj">
+          <title>Case 1. Acute liver injury with jaundice during cyclophosphamide therapy.</title>
+          <p>[Modified from: Akay H, Akay T, Secilmis S, Kocak Z, Donderici O. Hepatotoxicity after low-dose cyclophosphamide therapy. South Med J 2006; 99: 1399-400. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/17233202">PubMed Citation</ext-link>]</p>
+          <p>A 40 year old male with scleroderma developed jaundice 6 weeks after starting oral cyclophosphamide (100 mg daily) and low doses of corticosteroids. He had no history of liver disease, alcohol abuse of risk factors for viral hepatitis. He was taking no other medications. He had been treated with d-penicillamine for his scleroderma without complications several years earlier. Laboratory findings included serum bilirubin of 10.5 mg/dL (direct 6.3 mg/dL) with markedly elevated ALT (2407 U/L) and AST (1806 U/L) levels and modest increases in alkaline phosphatase (206 U/L) and GGT (202 U/L) levels. Tests for hepatitis A, B and C were negative as were autoantibodies. Ultrasound of the abdomen showed no evidence of biliary obstruction. Cyclophosphamide was discontinued and his symptoms and laboratory tests improved. All liver tests were normal when tested 3 months later.</p>
+          <sec id="Cyclophosphamide.Key_Points1">
+            <title>Key Points</title>
+            <table-wrap id="Cyclophosphamide.T1" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Cyclophosphamide.T1_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Cyclophosphamide (100 mg daily)</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Cyclophosphamide.T1_1_1_1_1" id="hd_b_Cyclophosphamide.T1_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Cyclophosphamide.T1_1_1_1_1" rowspan="1" colspan="1">Hepatocellular (R=33)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Cyclophosphamide.T1_1_1_1_1" id="hd_b_Cyclophosphamide.T1_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Cyclophosphamide.T1_1_1_2_1" rowspan="1" colspan="1">3+ (jaundice, hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Cyclophosphamide.T1_1_1_1_1" id="hd_b_Cyclophosphamide.T1_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Cyclophosphamide.T1_1_1_3_1" rowspan="1" colspan="1">6 weeks</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Cyclophosphamide.T1_1_1_1_1" id="hd_b_Cyclophosphamide.T1_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Cyclophosphamide.T1_1_1_4_1" rowspan="1" colspan="1">11 weeks</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Cyclophosphamide.T1_1_1_1_1" id="hd_b_Cyclophosphamide.T1_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Cyclophosphamide.T1_1_1_5_1" rowspan="1" colspan="1">Corticosteroids</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Cyclophosphamide.Comment1">
+            <title>Comment</title>
+            <p>This patient developed an acute viral hepatitis-like syndrome 6 weeks after starting cyclophosphamide for an autoimmune condition. The relationship to cyclophosphamide therapy is suggestive but not proven, particularly because of the possibility of viral hepatitis with unusual serology such as hepatitis C with delay in production of anti-HCV or an unusual form of hepatitis, such as hepatitis E. Nevertheless, cyclophosphamide induced idiosyncratic liver disease typically arises within 2 to 8 weeks of starting therapy and usually has a hepatocellular pattern of serum enzyme elevations.</p>
+          </sec>
+        </sec>
+        <sec id="Cyclophosphamide.Case_2._Acute_liver_inj">
+          <title>Case 2. Acute liver injury with jaundice during cyclophosphamide therapy.</title>
+          <p>[Modified from: Cleland BD, Pokorny CS. Cyclophosphamide related hepatotoxicity. Aust N Z J Med 1993; 23: 408. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/8240157">PubMed Citation</ext-link>]</p>
+          <p>A 67 year old woman developed nausea and dark urine 8 weeks after starting oral cyclophosphamide (100 mg daily) for nephrotic syndrome thought to be due to lupus erythematosus. She had a history of acute hepatitis as a child and had received a blood transfusion one year previously. However, she had no known chronic liver disease or alcohol abuse and liver tests had been normal before cyclophosphamide was started. Her other medications included prednisone 10 mg daily, insulin and thyroxine. On examination, she was jaundiced but had no hepatosplenomegaly or abdominal tenderness, rash or fever. Laboratory tests showed serum bilirubin of 9.2 mg/dL, ALT 2515 U/L, GGT 525 U/L, and alkaline phosphatase 456 U/L, with blood counts showing 14% eosinophils. The prothrombin time was normal. Tests for hepatitis A and C were negative and she had serological evidence of previous hepatitis B (anti-HBs and anti-HBc, but no HBsAg). Cyclophosphamide was discontinued and her liver test abnormalities improved rapidly. Four weeks later, serum bilirubin was 0.6 mg/dL, ALT 24 U/L and alkaline phosphatase 63 U/L. She did not undergo liver biopsy or rechallenge with cyclophosphamide.</p>
+          <sec id="Cyclophosphamide.Key_Points2">
+            <title>Key Points</title>
+            <table-wrap id="Cyclophosphamide.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Cyclophosphamide.T2_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Cyclophosphamide (100 mg daily)</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Cyclophosphamide.T2_1_1_1_1" id="hd_b_Cyclophosphamide.T2_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Cyclophosphamide.T2_1_1_1_1" rowspan="1" colspan="1">Hepatocellular (R=16.5)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Cyclophosphamide.T2_1_1_1_1" id="hd_b_Cyclophosphamide.T2_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Cyclophosphamide.T2_1_1_2_1" rowspan="1" colspan="1">3+ (jaundice, hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Cyclophosphamide.T2_1_1_1_1" id="hd_b_Cyclophosphamide.T2_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Cyclophosphamide.T2_1_1_3_1" rowspan="1" colspan="1">8 weeks</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Cyclophosphamide.T2_1_1_1_1" id="hd_b_Cyclophosphamide.T2_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Cyclophosphamide.T2_1_1_4_1" rowspan="1" colspan="1">4 weeks</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Cyclophosphamide.T2_1_1_1_1" id="hd_b_Cyclophosphamide.T2_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Cyclophosphamide.T2_1_1_5_1" rowspan="1" colspan="1">Corticosteroids, insulin, thyroxine</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Cyclophosphamide.Comment2">
+            <title>Comment</title>
+            <p>This patient developed an acute liver injury with jaundice 8 weeks after starting cyclophosphamide for an autoimmune condition. The pattern of serum enzyme elevations was hepatocellular, but the alkaline phosphatase and GGT levels were somewhat more elevated than typically occurs in viral hepatitis. The presence of eosinophilia also suggested a drug reaction. Without rechallenge, the role of cyclophosphamide in this hepatic injury cannot be considered definitely proven. Another possibility is that she had a relapsing autoimmune hepatitis associated with her lupus nephritis. However, the timing of onset and hepatocellular pattern of serum enzyme elevations fits well with other reports of idiosyncratic, cyclophosphamide induced liver injury.</p>
+          </sec>
+        </sec>
+        <sec id="Cyclophosphamide.Case_3._Acute_anicteric">
+          <title>Case 3. Acute anicteric liver injury during cyclophosphamide therapy.</title>
+          <p>[Modified from: Snyder LS, Heigh RI, Anderson ML. Cyclophosphamide induced hepatotoxicity in a patient with Wegener&#x02019;s granulomatosis. Mayo Clin Proc 1993; 68: 1203-4. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/8246624">PubMed Citation</ext-link>]</p>
+          <p>A 67 year old woman was found to have abnormal liver test results 5 weeks after starting cyclophosphamide for Wegener&#x02019;s granulomatosis. She was asymptomatic and denied a history of liver disease, alcohol abuse or risk factors for viral hepatitis. Her only other medication was prednisone (30 mg every other day). Her serum enzymes had been normal in the past, before cyclophosphamide therapy. Laboratory tests showed marked elevations in both serum aminotransferase and alkaline phosphatase levels, but normal serum bilirubin and prothrombin time (Table). Cyclophosphamide was stopped and she rapidly improved. All tests were normal 7 weeks after the medication was stopped.</p>
+          <sec id="Cyclophosphamide.Key_Points3">
+            <title>Key Points</title>
+            <table-wrap id="Cyclophosphamide.T3" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Cyclophosphamide.T3_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Cyclophosphamide (100 mg daily)</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Cyclophosphamide.T3_1_1_1_1" id="hd_b_Cyclophosphamide.T3_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Cyclophosphamide.T3_1_1_1_1" rowspan="1" colspan="1">Hepatocellular-mixed (R=5.2)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Cyclophosphamide.T3_1_1_1_1" id="hd_b_Cyclophosphamide.T3_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Cyclophosphamide.T3_1_1_2_1" rowspan="1" colspan="1">1+ (liver enzyme elevations without jaundice or symptoms)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Cyclophosphamide.T3_1_1_1_1" id="hd_b_Cyclophosphamide.T3_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Cyclophosphamide.T3_1_1_3_1" rowspan="1" colspan="1">5 weeks</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Cyclophosphamide.T3_1_1_1_1" id="hd_b_Cyclophosphamide.T3_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Cyclophosphamide.T3_1_1_4_1" rowspan="1" colspan="1">7 weeks</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Cyclophosphamide.T3_1_1_1_1" id="hd_b_Cyclophosphamide.T3_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Cyclophosphamide.T3_1_1_5_1" rowspan="1" colspan="1">Corticosteroids, insulin, thyroxine</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Cyclophosphamide.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Cyclophosphamide.T4" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Cyclophosphamide.T4_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Cyclophosphamide.T4_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Cyclophosphamide.T4_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Cyclophosphamide.T4_1_1_1_4" rowspan="1" colspan="1">AST<break/> (U/L)</th>
+                    <th id="hd_h_Cyclophosphamide.T4_1_1_1_5" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Cyclophosphamide.T4_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_3 hd_h_Cyclophosphamide.T4_1_1_1_4 hd_h_Cyclophosphamide.T4_1_1_1_5 hd_h_Cyclophosphamide.T4_1_1_1_6" colspan="4" rowspan="1">Cyclophosphamide 100 mg daily for 5 weeks</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_1" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_3" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_4" rowspan="1" colspan="1">20</td>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_5" rowspan="1" colspan="1">180</td>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_1" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_3" rowspan="1" colspan="1">1000</td>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_4" rowspan="1" colspan="1">550</td>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_5" rowspan="1" colspan="1">720</td>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_1" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_2" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_3" rowspan="1" colspan="1">730</td>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_4" rowspan="1" colspan="1">300</td>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_5" rowspan="1" colspan="1">610</td>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_6" rowspan="1" colspan="1">R = 4.4</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_1" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_2" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_3" rowspan="1" colspan="1">300</td>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_4" rowspan="1" colspan="1">90</td>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_5" rowspan="1" colspan="1">200</td>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_1" rowspan="1" colspan="1">12 weeks</td>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_2" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_3" rowspan="1" colspan="1">30</td>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_4" rowspan="1" colspan="1">20</td>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_5" rowspan="1" colspan="1">110</td>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_1 hd_h_Cyclophosphamide.T4_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;35</bold>
+</td>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;30</bold>
+</td>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;130</bold>
+</td>
+                    <td headers="hd_h_Cyclophosphamide.T4_1_1_1_6" rowspan="1" colspan="1">Bilirubin levels remained normal</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Cyclophosphamide.Comment3">
+            <title>Comment</title>
+            <p>This patient developed liver test abnormalities without symptoms 5 weeks after starting oral cyclophosphamide. The pattern of serum enzyme elevations was just within the range of hepatocellular injury, but the alkaline phosphatase and GGT levels were somewhat more elevated than typically occurs in viral hepatitis. The timing of onset, hepatocellular pattern of injury and prompt improvement in liver tests upon stopping the medication were all supportive of the diagnosis of idiosyncratic drug induced liver injury due to cyclophosphamide.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Cyclophosphamide.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Cyclophosphamide.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Cyclophosphamide &#x02013; Cytoxan&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Antineoplastic Agents, Alkylating Agents</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Cyclophosphamide">COMPLETE LABELING</ext-link>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Cyclophosphamide.CHEMICAL_FORMULA_AND_ST">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Cyclophosphamide.T5" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Cyclophosphamide.T5_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Cyclophosphamide.T5_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Cyclophosphamide.T5_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Cyclophosphamide.T5_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Cyclophosphamide.T5_1_1_1_1" rowspan="1" colspan="1">Cyclophosphamide</td>
+                <td headers="hd_h_Cyclophosphamide.T5_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134988075">6055-19-2</ext-link>
+</td>
+                <td headers="hd_h_Cyclophosphamide.T5_1_1_1_3" rowspan="1" colspan="1">C7-H15-Cl2-N2-O2-P.H2-O</td>
+                <td headers="hd_h_Cyclophosphamide.T5_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Cyclophosphamide_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Cyclophosphamide Chemical Structure</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Cyclophosphamide.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 05 November 2017</p>
+        <ref-list id="Cyclophosphamide.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Cyclophosphamide.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Oncotherapeutic and immunosuppressive agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 673-708.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of cancer chemotherapeutic agents published in 1999; mentions that cyclophosphamide can cause veno-occlusive disease [sinusoidal obstruction syndrome, SOS] with massive necrosis and marked aminotransferase elevations).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R2">
+            <mixed-citation publication-type="other">DeLeve LD. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, p. 551.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents mentions that cyclophosphamide is an uncommon cause of liver toxicity, but in high doses, often in combination with busulfan or irradiation, can cause sinusoidal obstruction syndrome [SOS]).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R3">
+            <mixed-citation publication-type="other">Chabner BA, Bertino J, Clearly J, Ortiz T, Lane A, Supko JG, Ryan DP. Cytotoxic agents. Chemotherapy of neoplastic diseases. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1677-730.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R4">
+            <mixed-citation publication-type="journal">Aubrey DA. Massive hepatic necrosis after cyclophosphamide. Br Med J 1970; 16: 588. <annotation><p><italic toggle="yes">(61 year old woman with breast cancer developed jaundice 2 months after starting cyclophosphamide [50 mg daily], with progressive hepatic failure and death; autopsy showed massive necrosis; few clinical details given).</italic></p></annotation><pub-id pub-id-type="pmid">5454367</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R5">
+            <mixed-citation publication-type="journal">Starzl TE, Putnam CW, Halgrimson CG, Schroter GT, Martineau G, Launois B, Corman JL, et al. Cyclophosphamide and whole organ transplantation in human beings. Surg Gynecol Obstet 1971; 133: 981-91. <annotation><p><italic toggle="yes">(Experience in using cyclophosphamide instead of azathioprine as an immunosuppressive agent after renal transplantation; equivalent in efficacy and toxicity).</italic></p></annotation><pub-id pub-id-type="pmid">4940540</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R6">
+            <mixed-citation publication-type="journal">Wiggelinkhuizen J, McDonald R, Kaschula RO. Cyclophosphamide in the treatment of childhood nephrotic syndrome. S Afr Med J 1972; 46: 1417-23. <annotation><p><italic toggle="yes">(Among 34 children with nephrotic syndrome treated with cyclophosphamide, one developed jaundice but then tolerated restarting therapy; may have been acute hepatitis A instead of drug induced liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">4642675</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R7">
+            <mixed-citation publication-type="journal">Walters D, Robinson RG, Dick-Smith JB, Corrigan AB, Webb J. Poor response in two cases of juvenile rheumatoid arthritis to treatment with cyclophosphamide. Med J Aust 1972; 2: 1070. <annotation><p><italic toggle="yes">(Two children with juvenile rheumatoid arthritis had no clinical response to cyclophosphamide [3 mg/kg/day for 8-12 months], one developed marked ALT elevations that resolved on stopping and the other hemorrhagic cystitis).</italic></p></annotation><pub-id pub-id-type="pmid">4642424</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R8">
+            <mixed-citation publication-type="journal">Gravanis MB, Majmudar BN. Clinicopathologic conference: a case of multiple myeloma followed up for 15 years. South Med J 1976; 69: 233-8. <annotation><p><italic toggle="yes">(55 year old man with multiple myeloma treated with cyclophosphamide for 15 years developed ascites and jaundice [bilirubin 4.3 mg/dL, AST 344 U/L, Alk P 5 times ULN], autopsy showing massive replacement of liver by malignant hemangioendothelioma).</italic></p></annotation><pub-id pub-id-type="pmid">1251251</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R9">
+            <mixed-citation publication-type="journal">Shulman HM, McDonald GB, Matthews D, Doney KC, Kopecky KJ, Gauvreau JM, Thomas ED. An analysis of hepatic venocclusive disease and centrilobular hepatic degeneration following bone marrow transplantation. Gastroenterology 1980; 79: 1178-91. <annotation><p><italic toggle="yes">(Analysis of liver biopsies from 204 patients who had undergone hematopoietic cell transplantation [HCT] for various malignancies, finding SOS in 27 patients, early lesions being centrilobular congestion, hepatocyte degeneration and subintimal edema within small central venules and later lesions fibrous obliteration of central venule lunima and fibrosis; correlated with more aggressive conditioning regimens including those with busulfan).</italic></p></annotation><pub-id pub-id-type="pmid">7002704</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R10">
+            <mixed-citation publication-type="journal">Jick H, Walker AM, Porter J. Drug-induced liver disease. J Clin Pharmacol 1981; 21: 359-64. <annotation><p><italic toggle="yes">(Among 559 medical inpatients receiving cyclophosphamide, one [77 year old man with sarcoma] developed drug induced liver injury after 3 days of use; patient died of the underlying disease before full recovery).</italic></p></annotation><pub-id pub-id-type="pmid">7276230</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R11">
+            <mixed-citation publication-type="journal">Bacon AM, Rosenberg SA. Cyclophosphamide hepatotoxicity in a patient with systemic lupus erythematosus. Ann Intern Med 1982; 97: 62-3. <annotation><p><italic toggle="yes">(23 year old woman with systemic lupus developed fever and jaundice 6 weeks after starting cyclophosphamide [bilirubin ~13 mg/dL, AST ~3000 U/L, Alk P ~135 U/L], resolving within 3 months of stopping and recurring 2 weeks after restarting [ALT ~700 U/L]).</italic></p></annotation><pub-id pub-id-type="pmid">7092009</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R12">
+            <mixed-citation publication-type="journal">Santos GW, Tutschka PJ, Brookmeyer R, Saral R, Beschorner WE, Bias WB, Braine HG, et al. Marrow transplantation for acute nonlymphocytic leukemia after treatment with busulfan and cyclophosphamide. N Engl J Med 1983; 309: 1347-53. <annotation><p><italic toggle="yes">(Pilot study of HCT for nonlymphocytic leukemia using conditioning regimen of cyclophosphamide and busulfan; SOS occurred in only 3 patients which was considered lower than occurs with busulfan alone or with total body irradiation combined with cyclophosphamide).</italic></p></annotation><pub-id pub-id-type="pmid">6355849</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R13">
+            <mixed-citation publication-type="journal">McDonald GB, Tirumali N. Intestinal and liver toxicity of antineoplastic drugs. West J Med 1984; 140: 250-9. <annotation><p><italic toggle="yes">(Review of liver toxicity of anticancer agents; cyclophosphamide has been associated with SOS and with rare cases of acute hepatocellular injury).</italic></p></annotation><pub-id pub-id-type="pmid">6375139</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R14">
+            <mixed-citation publication-type="journal">McDonald GB, Sharma P, Matthews DE, Shulman HM, Thomas ED. Venocclusive disease of the liver after bone marrow transplantation: diagnosis, incidence, and predisposing factors. Hepatology 1984; 4: 116-22. <annotation><p><italic toggle="yes">(Among 255 patients undergoing hematopoietic cell transplantation [HCT], 53 [21%] met criteria for SOS; risk factors were older age, prior liver disease and AST levels and diagnosis).</italic></p></annotation><pub-id pub-id-type="pmid">6363247</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R15">
+            <mixed-citation publication-type="journal">McDonald GB, Sharma P, Matthews DE, Shulman HM, Thomas ED. The clinical course of 53 patients with venocclusive disease of the liver after marrow transplantation. Transplantation 1985; 39: 603-8. <annotation><p><italic toggle="yes">(Among 255 patients undergoing HCT for malignant disease, 53 [21%] developed SOS, marked by weight gain [93%] starting ~6 days after transplant followed by jaundice [98%: bilirubin 3.6-29.4 mg/dL], abdominal pain [75%], liver enlargement [68%]; 24 [45%] had serious progressive disease with ascites and hepatic encephalopathy and 17 [32%] died).</italic></p></annotation><pub-id pub-id-type="pmid">3890288</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R16">
+            <mixed-citation publication-type="journal">Goldberg JW, Lidsky MD. Cyclophosphamide-associated hepatotoxicity. South Med J. 1985; 78: 222-3. <annotation><p><italic toggle="yes">(Case reports of two episodes of hepatic dysfunction associated with oral cyclophosphamide administration in patients with systemic rheumatic diseases).</italic></p></annotation><pub-id pub-id-type="pmid">3975725</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R17">
+            <mixed-citation publication-type="journal">Jones RJ, Lee KS, Beschorner WE, Vogel VG, Grochow LB, Braine HG, Vogelsang GB, et al. Veno-occlusive disease of the liver following bone marrow transplantation. Transplantation 1987; 4: 778-83. <annotation><p><italic toggle="yes">(Among 235 patients undergoing HCT between 1982 and 1985, SOS developed in 52 [22%] half of whom died, making SOS the third most common cause of death in this population; rare with cyclophosphamide without total body irradiation).</italic></p></annotation><pub-id pub-id-type="pmid">3321587</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R18">
+            <mixed-citation publication-type="journal">Shaunak S, Munro JM, Weinbren K, Walport MJ, Cox TM. Cyclophosphamide induced liver necrosis: A possible interaction with azathioprine. Q J Med 1988; 67: 309-17. <annotation><p><italic toggle="yes">(4 patients who developed liver injury 2-5 weeks after starting cyclophosphamide [bilirubin 0.8, 1.0, 17.1 and 64 mg/dL, ALT 1842, &#x0003e;600, 556 and &#x0003e;600 U/L, Alk P 303, &#x0003e;450, &#x0003e;414 and 750 U/L], resolving within 1-3 months of stopping; all cases received azathioprine immediately before cyclophosphamide).</italic></p></annotation><pub-id pub-id-type="pmid">3060893</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R19">
+            <mixed-citation publication-type="journal">Brodsky R, Topolsky D, Crilley P, Bulova S, Brodsky I. Frequency of veno-occlusive disease of the liver in bone marrow transplantation with a modified busulfan/ cyclophosphamide preparative regimen. Am J Clin Oncol 1990; 13: 221-5. <annotation><p><italic toggle="yes">(Among 74 patients undergoing HCT after busulfan and cyclophosphamide conditioning, only 7 [9%] developed SOS, occurrence appeared to correlate with total cyclophosphamide dose).</italic></p></annotation><pub-id pub-id-type="pmid">2346127</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R20">
+            <mixed-citation publication-type="journal">Fraiser LH, Kanekal S, Kehrer JP. Cyclophosphamide toxicity: characterizing and avoiding the problem. Drugs 1991; 42: 781-95. <annotation><p><italic toggle="yes">(Review of side effects of cyclophosphamide and their prevention and management; no discussion of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">1723374</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R21">
+            <mixed-citation publication-type="journal">Arai N, Kaneko H, Umeda M, Tsukahara T, Shirai T. [Non-Hodgkin's lymphoma in an elderly patient complicated by cyclophosphamide-induced allergic hepatic dysfunction]. Nippon Ronen Igakkai Zasshi 1992; 29: 681-5. Japanese. <annotation><p><italic toggle="yes">(77 year old man developed acute hepatic failure after 3 courses of chemotherapy for lymphoma; lymphocyte stimulation tests suggested that cyclophosphamide was the cause, but multiple agents were used).</italic></p></annotation><pub-id pub-id-type="pmid">1434065</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R22">
+            <mixed-citation publication-type="journal">Cleland BD, Pokorny CS. Cyclophosphamide related hepatotoxicity. Aust N Z J Med 1993; 23: 408. <annotation><p><italic toggle="yes">(36 year old woman with systemic lupus developed jaundice 2 months after starting 100 mg of cyclophosphamide daily [bilirubin 9.2 mg/dL, ALT 2515 U/L, Alk P 456 U/L, INR normal, eosinophils 14%], resolving in 4 weeks upon stopping: Case 2).</italic></p></annotation><pub-id pub-id-type="pmid">8240157</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R23">
+            <mixed-citation publication-type="journal">Snyder LS, Heigh RI, Anderson ML. Cyclophosphamide induced hepatotoxicity in a patient with Wegener's granulomatosis. Mayo Clin Proc 1993; 68: 1203-4. <annotation><p><italic toggle="yes">(67 year old woman with Wegener's granulomatosis developed asymptomatic serum enzyme elevations 5 weeks after starting 100 mg of cyclophosphamide daily [normal bilirubin, ALT ~1000 U/L, and Alk P 725 U/L], resolving within 7 weeks of stopping: Case 3).</italic></p></annotation><pub-id pub-id-type="pmid">8246624</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R24">
+            <mixed-citation publication-type="journal">Du LT, Rigaud D, Papo T, Godeau P. Cyclophosphamide-induced hepatitis in Wegener's granulomatosis. Mayo Clin Proc 1994; 69: 912-3. <annotation><p><italic toggle="yes">(Among 65 patients with Wegener's granulomatosis treated with cyclophosphamide, 1 developed ALT elevations 5 weeks after starting treatment [bilirubin normal; peak ALT 32 times ULN], returning to normal within 2 weeks of stopping and not recurring on azathioprine).</italic></p></annotation><pub-id pub-id-type="pmid">8065199</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R25">
+            <mixed-citation publication-type="journal">Modzelewski JR Jr, Daeschner C, Joshi VV, Mullick FG, Ishak KG. Veno-occlusive disease of the liver induced by low-dose cyclophosphamide. Mod Pathol 1994; 7: 967-72. <annotation><p><italic toggle="yes">(2 year old female with idiopathic pulmonary hemosiderosis developed progressive liver disease 16 months after starting cyclophosphamide, autopsy showing nodular regeneration and SOS).</italic></p></annotation><pub-id pub-id-type="pmid">7892168</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R26">
+            <mixed-citation publication-type="journal">Bearman SI. The syndrome of hepatic veno-occlusive disease after marrow transplantation. Blood 1995; 85: 3005-20. <annotation><p><italic toggle="yes">(Review of hepatic SOS after HCT; usually presents with painful hepatomegaly, weight gain [fluid and ascites] and jaundice within 3 weeks of myeloablation with occlusion of central veins and sinusoids and extensive zone 3 [centrolobular] injury).</italic></p></annotation><pub-id pub-id-type="pmid">7756636</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R27">
+            <mixed-citation publication-type="journal">Takkal M, Kestens PJ, No&#x000eb;l H, Delos M, Haot J. Hepatic angiosarcoma developed 5 years following treatment for subacute glomerulonephritis. Acta Gastroenterol Belg 1995; 58: 245-51. <annotation><p><italic toggle="yes">(Case of liver angiosarcoma which developed following long term treatment with cyclophosphamide).</italic></p></annotation><pub-id pub-id-type="pmid">7571987</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R28">
+            <mixed-citation publication-type="journal">Gustafsson LL, Eriksson LS, Dahl ML, Eleborg L, Ericzon BG, Nyberg AN. Cyclophosphamide-induced acute liver failure requiring transplantation in a patient with genetically deficient debrisoquine metabolism: a causal relationship? J Intern Med 1996; 240: 311-4. <annotation><p><italic toggle="yes">(58 year old man with rheumatoid arthritis developed acute liver failure 3 months after starting cyclophosphamide and 2 weeks after increasing the dose to 100 mg twice daily [bilirubin 28.6 mg/dL, ALT 2400 U/L, Alk P 1020 U/L, prothrombin index 10%], subsequently developing hepatic failure and undergoing successful liver transplantation; found to be homozygous for poor metabolizing variant of CYP 2D6B).</italic></p></annotation><pub-id pub-id-type="pmid">8946814</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R29">
+            <mixed-citation publication-type="journal">Locatelli M, Colleoni M, Noberasco C, Nol&#x000e9; F, Orlando L, Munzone E, Peruzzotti G, et al. Hepatic toxicity from cyclophosphamide, methotrexate, fluorouracil (CMF regimen). Ann Oncol 1999; 10: 1394-5. <annotation><p><italic toggle="yes">(Retrospective analysis of liver toxicity of combination anticancer regimen of cyclophosphamide, methotrexate and fluorouracil in 264 patients with breast cancer, 39% had ALT elevations, but all resolved within 30 days, peak bilirubin 1.5 mg/dL; attributed most of injury to methotrexate).</italic></p></annotation><pub-id pub-id-type="pmid">10631475</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R30">
+            <mixed-citation publication-type="journal">Mok CC, Wong WM, Shek TW, Ho CT-K, Lau C-S, Lai C-L. Cumulative hepatotoxicity induced by continuous low-dose cyclophosphamide therapy. Am J Gastroenterol 2000; 95: 845-6. <annotation><p><italic toggle="yes">(67 year old man with Sj&#x000f6;gren syndrome developed jaundice 2 years after starting cyclophosphamide [bilirubin 29.6 mg/dL, ALT 269 U/L, Alk P 213 U/L, no eosinophilia], with biopsy showing cholestatic hepatitis and resolving within 6 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">10710110</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R31">
+            <mixed-citation publication-type="journal">Rosenthal AK, Klausmeier M, Cronin ME, McLaughlin JK. Hepatic angiosarcoma occurring after cyclophosphamide therapy: case report and review of the literature. Am J Clin Oncol 2000; 23: 581-3. <annotation><p><italic toggle="yes">(54 year old man with polyarteritis nodosa on oral cyclophosphamide for 13 years developed hepatic angiosarcoma).</italic></p></annotation><pub-id pub-id-type="pmid">11202801</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R32">
+            <mixed-citation publication-type="journal">McDonald GB, Slattery JT, Bouvier ME, Ren S, Batchelder AL, Kalhorn TF, Schoch HG, et al. Cyclophosphamide metabolism, liver toxicity, and mortality following hematopoietic stem cell transplantation. Blood 2003; 101: 2043-8. <annotation><p><italic toggle="yes">(Among 147 patients who received cyclophosphamide and total body irradiation in preparation of HCT, 23 [16%] developed moderate or severe SOS; rates correlated with higher levels of drug metabolite suggesting that it was the toxic metabolite responsible).</italic></p></annotation><pub-id pub-id-type="pmid">12406916</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R33">
+            <mixed-citation publication-type="journal">Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl 2004; 10: 1018-23. <annotation><p><italic toggle="yes">(Among ~50,000 liver transplants done in the United States between 1990 and 2002, 270 [0.5%] were done for drug induced acute liver failure, but no case was attributed to an antineoplastic agent, perhaps because patients with cancer requiring therapy would rarely be eligible for liver transplantation).</italic></p></annotation><pub-id pub-id-type="pmid">15390328</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R34">
+            <mixed-citation publication-type="journal">Muratori L, Ferrari R, Muratori P, Granito A, Bianchi FB. Acute icteric hepatitis induced by a short course of low-dose cyclophosphamide in a patient with lupus nephritis. Dig Dis Sci 2005; 50: 2364-5. <annotation><p><italic toggle="yes">(48 year old woman with lupus nephritis developed jaundice 10 days after starting 100 mg of cyclophosphamide daily [bilirubin 11.3 mg/dL, ALT 4222 U/L, Alk P 364 U/L], resolving within 2 months of stopping; gave a history of similar episode after cyclophosphamide therapy in the past).</italic></p></annotation><pub-id pub-id-type="pmid">16416192</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R35">
+            <mixed-citation publication-type="journal">McDonald GB, McCune JS, Batchelder A, Cole S, Phillips B, Ren AG, Vicini P, et al. Metabolism-based cyclophosphamide dosing for hematopoietic cell transplant. Clin Pharmacol Ther 2005; 78: 298-308. <annotation><p><italic toggle="yes">(Analysis of drug levels of cyclophosphamide during dosing in 20 patients undergoing conditioning for HCT focusing on achieving a target level and adjusting dosage to avoid toxicity and SOS).</italic></p></annotation><pub-id pub-id-type="pmid">16153400</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R36">
+            <mixed-citation publication-type="journal">Akay H, Akay T, Secilmis S, Kocak Z, Donderici O. Hepatotoxicity after low-dose cyclophosphamide therapy. South Med J 2006; 99: 1399-400. <annotation><p><italic toggle="yes">(40 year old man with scleroderma developed jaundice 6 weeks after starting cyclophosphamide [bilirubin 10.5 mg/dL, ALT 2407 U/L, Alk P 206 U/L], resolving within 11 weeks of stopping: Case 1).</italic></p></annotation><pub-id pub-id-type="pmid">17233202</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R37">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E, Olsson R. Suspected drug-induced liver fatalities reported to the WHO database. Dig Liver Dis 2006; 38: 33-8. (Survey of drug induced liver fatalities reported to WHO database between 1968-2003 revealed 4690 reports; among 21 drugs with more than 50 cases, four antineoplastic agents were listed: flutamide [59], cyclophosphamide [56], methotrexate [55] and cytarabine [53])<annotation><p><italic toggle="yes">.</italic></p></annotation><pub-id pub-id-type="pmid">16054882</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R38">
+            <mixed-citation publication-type="journal">McCune JS, Batchelder A, Deeg HJ, Gooley T, Cole S, Phillips B, Schoch HG, et al. Cyclophosphamide following targeted oral busulfan as conditioning for hematopoietic cell transplantation: pharmacokinetics, liver toxicity, and mortality. Biol Blood Marrow Transplant 2007; 13: 853-62. <annotation><p><italic toggle="yes">(Cyclophosphamide pharmacokinetics were determined in 222 patients receiving cyclophosphamide and either busulfan or total body irradiation in preparation of HCT; there was considerable variability in cyclophosphamide levels, being higher in busulfan regimens with modest correlation with SOS).</italic></p></annotation><pub-id pub-id-type="pmid">17580264</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R39">
+            <mixed-citation publication-type="journal">Gekkurt E, Stoehlmacher J, Stueber C, Wolschke C, Eiermann T, Iacobelli S, Zander AR, et al. Pharmacogenetic analysis of liver toxicity after busulfan/cyclophosphamide-based allogeneic hematopoietic stem cell transplantation. Anticancer Res 2007; 27: 4377-80. <annotation><p><italic toggle="yes">(Retrospective analysis of methylene-tetrahydrofolate-reductase [MTHFR] and glutathione S-transferase [GST] polymorphisms among 84 adults receiving busulfan and cyclophosphamide in preparation for HCT found weak association between a MTHFR polymorphism and SOS [86% rate in those who were homozygous compared to 39% of those who were heterozygous or wild type]).</italic></p></annotation><pub-id pub-id-type="pmid">18214047</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R40">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes"> (Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, antineoplastic agents were rarely implicated: 3 were considered due to mercaptopurine and 1 each due to bortezombin, cyclophosphamide, docetaxel, and temozolomide).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R41">
+            <mixed-citation publication-type="journal">Ulrickson M, Aldridge J, Kim HT, Hochberg EP, Hammerman P, Dube C, Attar E, Ballen KK, Dey BR, McAfee SL, Spitzer TR, Chen YB. Busulfan and cyclophosphamide (Bu/Cy) as a preparative regimen for autologous stem cell transplantation in patients with non-Hodgkin lymphoma: a single-institution experience. Biol Blood Marrow Transplant 2009; 15: 1447-54. <annotation><p><italic toggle="yes">(Among 78 patients with non-Hodgkin&#x02019;s lymphoma undergoing autologous HCT after conditioning with busulfan and cyclosphosphamide, 3 [4%] developed SOS, none fatal).</italic></p></annotation><pub-id pub-id-type="pmid">19822305</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R42">
+            <mixed-citation publication-type="journal">Patel A, Patel A, Patel S, Jalandhara P, Thakor P. Cyclophosphamide therapy in granulomatous hepatitis: cure or culprit? Am J Ther 2009; 16: 367-70. <annotation><p><italic toggle="yes">(84 year old woman developed fatigue and anorexia 7 weeks after starting oral cyclophosphamide for suspected Wegener's granulomatosis [peak ALT 1002 U/L, Alk P 330 U/L, bilirubin not given], which decreased on stopping cyclophosphamide but recurred on restarting [peak ALT 2025, Alk P 345 U/L], leading to hepatic failure and death).</italic></p></annotation><pub-id pub-id-type="pmid">19262358</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R43">
+            <mixed-citation publication-type="journal">McDonald GB. Hepatobiliary complications of hematopoietic cell transplantation, 40 years on. Hepatology 2010; 51: 1450-60. <annotation><p><italic toggle="yes">(Review of liver complications of HCT, which have become less frequent with better understanding of their cause and means of prevention; the rate of SOS has decreased because of avoidance of more aggressive ablative therapies [total body irradiation and high dose cyclophosphamide] and better understanding of pharmacokinetics of cyclophosphamide).</italic></p></annotation><pub-id pub-id-type="pmid">20373370</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R44">
+            <mixed-citation publication-type="journal">Mart&#x000ed;nez-Gabarr&#x000f3;n M, Enr&#x000ed;quez R, Sirvent AE, Garc&#x000ed;a-Sepulcre M, Mill&#x000e1;n I, Amor&#x000f3;s F. Hepatotoxicity following cyclophosphamide treatment in a patient with MPO-ANCA vasculitis. Nefrologia 2011; 31: 496-8. <annotation><p><italic toggle="yes">(57 year old man with new onset of Wegener granulomatosis developed abdominal pain and ALT elevations within 1 to 4 days of starting each of three courses of cyclophosphamide [ALT 76, 358 and 281 U/L], resolving rapidly but remaining elevated for more than a month after the third episode).</italic></p></annotation><pub-id pub-id-type="pmid">21738257</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R45">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but few anticancer drugs were implicated [1 case each for melphalan and gemtuzumab]).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R46">
+            <mixed-citation publication-type="journal">Cantoni N, Gerull S, Heim D, Halter J, Bucher C, Buser A, Tsakiris DA, et al. Order of application and liver toxicity in patients given BU and CY containing conditioning regimens for allogeneic hematopoietic SCT. Bone Marrow Transplant 2011; 46: 344-9. <annotation><p><italic toggle="yes">(Retrospective analysis of liver toxicity after conditioning regimens of busulfan followed by cyclosphospamde versus the reverse order found higher rate of SOS when busulfan was given first [12.5%: 2 of 16 patients] than when it was given after cyclosphosphamide [0 of 59 patients]).</italic></p></annotation><pub-id pub-id-type="pmid">20548339</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R47">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, including 1 case attributed to cyclophosphamide).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R48">
+            <mixed-citation publication-type="journal">Subramaniam SR, Cader RA, Mohd R, Yen KW, Ghafor HA. Low-dose cyclophosphamide-induced acute hepatotoxicity. Am J Case Rep 2013; 14: 345-9. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/24023976">PubMed Citation</ext-link><annotation><p><italic toggle="yes">(48 year old man with rapidly progressive glomerulonephritis developed marked ALT elevations after intravenous infusions of cyclophosphamide [ALT 41 rising to 568 U/L in 4 days] and higher after a second infusion [1253 U/L], and died of complications of pneumonia shortly thereafter).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R49">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/24552865">PubMed Citation</ext-link> (Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, one of which was attributed to cyclophosphamide).</mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R50">
+            <mixed-citation publication-type="journal">Douros A, Bronder E, Andersohn F, Klimpel A, Thomae M, Sarganas G, Kreutz R, et al. Drug-induced liver injury: results from the hospital-based Berlin Case-Control Surveillance Study. Br J Clin Pharmacol 2015; 79: 988-99. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/25444550">PubMed Citation</ext-link><annotation><p><italic toggle="yes">(Among 198 patients with suspected drug induced liver injury enrolled in a case control surveillance study involving 51 hospitals in Berlin between 2002 and 2011, one case was considered probably due to cyclophosphamide).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Cyclophosphamide.R51">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/25754159">PubMed Citation</ext-link><annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 49 cases [6%] were attributed to antineoplastic agents, 2 of which were due to cyclophosphamide).</italic></p></annotation></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Cyclophosphamide.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Cyclophosphamide/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Cyclophosphamide: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Cyclophosphamide">Trials on Cyclophosphamide: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

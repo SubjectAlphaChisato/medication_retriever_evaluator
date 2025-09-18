@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Nifedipine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Nifedipine</book-part-id>
+      <title-group>
+        <title>Nifedipine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>11</day>
+          <month>1</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Nicotine" document-type="chapter">Nicotine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Nifurtimox" document-type="chapter">Nifurtimox</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Nifedipine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Nifedipine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Nifedipine is a first generation calcium channel blocker used to treat hypertension and angina pectoris. Nifedipine therapy is associated with a low rate of serum enzyme elevations and has been linked to several instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Nifedipine.Background">
+          <title>Background</title>
+          <p>Nifedipine (nye fed' i peen) belongs to the dihydropyridine class of calcium channel blockers (first in its class and similar to amlodipine, felodipine and nicardipine) and is used for the treatment of hypertension and angina pectoris. Like other calcium channel blockers, nifedipine acts by inhibiting the transmembrane influx of calcium into cardiac and smooth muscle cells during depolarization. The inhibition of calcium influx causes arterial vasodilation and decreases cardiac work and oxygen consumption. Nifedipine was approved in the United States in 1982 and currently several million prescriptions are filled yearly. Current indications include hypertension and chronic stable and Prinzmetal's variant angina pectoris. It is also used off label to treat Raynaud phenomenon. Nifedipine is available in capsules of 10 and 20 mg and as extended release tablets of 30, 60 and 90 mg in several generic formulations as well as under brand names including Procardia, Adala, Afeditab, Nifediac, and Nifedical. The typical dose in adults is 30 to 60 mg daily, usually starting with lower doses. Nifedipine is generally well tolerated and side effects are largely due to its vasodilating activities and can include dizziness, flushing, headache, fatigue, nausea, diarrhea, palpitations, bradycardia, peripheral edema and skin rash.</p>
+        </sec>
+        <sec id="Nifedipine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Mild and transient elevations in serum aminotransferase levels may occur during nifedipine therapy, but often resolve even with continuation of therapy. Clinically apparent acute liver injury with jaundice due to nifedipine is rare and described only in isolated case reports. The time to onset of injury is typically 1 to 2 months and the pattern of serum enzyme elevations is usually hepatocellular or mixed. Rash, arthralgias, fever and eosinophilia can occur, but are not prominent. Chronic aminotransferase elevations during continued therapy with nifedipine have been described sometimes with histological features of alcoholic liver disease (steatosis and Mallory bodies), but chronic liver injury after withdrawal has not. Nifedipine has not been implicated in cases of vanishing bile duct syndrome or acute liver failure in the published literature.</p>
+          <p>Likelihood score: B (likely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Nifedipine.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of nifedipine hepatotoxicity is not known, but is likely to be due to production of a toxic or immunogenic intermediate during its metabolism by the liver.</p>
+        </sec>
+        <sec id="Nifedipine.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The severity of liver injury from nifedipine ranges from mild and transient serum enzyme elevations to self-limited jaundice to an alcoholic hepatitis-like syndrome. Complete recovery is expected after stopping the drug and recovery is usually rapid (3 to 8 weeks). There is little information on cross sensitivity to liver injury among the various calcium channel blockers, but related medications should be started with caution in patients with clinically apparent liver injury from nifedipine.</p>
+          <p>Drug Class: Cardiovascular Agents, <related-object source-id="livertox" document-id="CalciumChannelBlocke">Calcium Channel Blockers</related-object></p>
+          <p>Other Drugs in the Subclass, Calcium Channel Blockers: <related-object source-id="livertox" document-id="Amlodipine">Amlodipine</related-object>, <related-object source-id="livertox" document-id="Diltiazem">Diltiazem</related-object>, <related-object source-id="livertox" document-id="Felodipine">Felodipine</related-object>, <related-object source-id="livertox" document-id="Isradipine">Isradipine</related-object>, <related-object source-id="livertox" document-id="Nicardipine">Nicardipine</related-object>, <related-object source-id="livertox" document-id="Nimodipine">Nimodipine</related-object>, <related-object source-id="livertox" document-id="Nisoldipine">Nisoldipine</related-object>, <related-object source-id="livertox" document-id="Verapamil">Verapamil</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Nifedipine.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Nifedipine.Case_1._Acute_hepatitis-like_">
+          <title>Case 1. Acute hepatitis-like syndrome attributed to amlopidine.</title>
+          <p>[Modified from: Basile C, Mascia E. Dihydropyridine calcium channel blockers: a rare and reversible cause of hepatotoxicity with cholestasis in a CAPD patient. Nephrol Dial Transplant 1999; 14: 2776-7. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/10534534">PubMed Citation</ext-link>]</p>
+          <p>A 76 year old man with diabetes and end stage renal disease developed jaundice while on long term nifedipine therapy (60 mg daily for ~3 years) for hypertension. He was taking insulin, but no other medications. He had no risk factors for viral hepatitis and did not drink alcohol. Serum bilirubin was 2.5 mg/dL and rose over the next few months to 6.2 mg/dL. Tests for acute hepatitis A, B and C were negative and abdominal ultrasonography showed a normal liver and gallbladder. Nifedipine was stopped and he recovered rapidly. Several months later, amlodipine was started (10 mg daily) and within 6 weeks, he developed jaundice and a cholestatic pattern of serum enzyme elevations. Once amlodipine was stopped, liver tests improved and were normal three weeks later.</p>
+          <sec id="Nifedipine.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Nifedipine.T1" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">
+<bold>Medication:</bold>
+</td>
+                    <td rowspan="1" colspan="1">Nifedipine (60 mg daily) and then amlodipine (10 mg daily)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">
+<bold>Pattern:</bold>
+</td>
+                    <td rowspan="1" colspan="1">Cholestatic (R=0.3 and 0.8 during recurrence)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">
+<bold>Severity:</bold>
+</td>
+                    <td rowspan="1" colspan="1">2+ (jaundiced, but not hospitalized for liver injury)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">
+<bold>Latency:</bold>
+</td>
+                    <td rowspan="1" colspan="1">3 years for nifedipine, 2 months for amlodipine</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">
+<bold>Recovery:</bold>
+</td>
+                    <td rowspan="1" colspan="1">3 to 4 weeks</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">
+<bold>Other medications:</bold>
+</td>
+                    <td rowspan="1" colspan="1">Insulin</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Nifedipine.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Nifedipine.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Nifedipine.T2_1_1_1_1" rowspan="1" colspan="1">Date</th>
+                    <th id="hd_h_Nifedipine.T2_1_1_1_2" rowspan="1" colspan="1">Duration Therapy</th>
+                    <th id="hd_h_Nifedipine.T2_1_1_1_3" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Nifedipine.T2_1_1_1_4" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Nifedipine.T2_1_1_1_5" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Nifedipine.T2_1_1_1_6" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Nifedipine.T2_1_1_1_7" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_1 hd_h_Nifedipine.T2_1_1_1_2 hd_h_Nifedipine.T2_1_1_1_3 hd_h_Nifedipine.T2_1_1_1_4 hd_h_Nifedipine.T2_1_1_1_5 hd_h_Nifedipine.T2_1_1_1_6 hd_h_Nifedipine.T2_1_1_1_7" colspan="7" rowspan="1">Long term therapy with nifedipine (60 mg daily)</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_1" rowspan="1" colspan="1">May 12, 1998</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_2" rowspan="1" colspan="1">3 years</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_3" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_4" rowspan="1" colspan="1">13</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_5" rowspan="1" colspan="1">144</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_6" rowspan="1" colspan="1">0.3</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_7" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_1" rowspan="1" colspan="1">Sep 9, 1998</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_3" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_4" rowspan="1" colspan="1">47</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_5" rowspan="1" colspan="1">783</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_6" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_7" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_1" rowspan="1" colspan="1">Dec 9, 1998</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_3" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_4" rowspan="1" colspan="1">40</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_5" rowspan="1" colspan="1">955</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_6" rowspan="1" colspan="1">2.5</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_7" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_1" rowspan="1" colspan="1">Jan 11, 1999</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_2" rowspan="1" colspan="1">3.5 years</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_3" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_4" rowspan="1" colspan="1">79</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_5" rowspan="1" colspan="1">...</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_6" rowspan="1" colspan="1">6.2</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_7" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_1 hd_h_Nifedipine.T2_1_1_1_2 hd_h_Nifedipine.T2_1_1_1_3 hd_h_Nifedipine.T2_1_1_1_4 hd_h_Nifedipine.T2_1_1_1_5 hd_h_Nifedipine.T2_1_1_1_6 hd_h_Nifedipine.T2_1_1_1_7" colspan="7" rowspan="1">Nifepidine stopped January 11, 1999</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_1" rowspan="1" colspan="1">Jan 16, 1999</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_3" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_4" rowspan="1" colspan="1">46</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_5" rowspan="1" colspan="1">531</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_6" rowspan="1" colspan="1">4.0</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_7" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_1" rowspan="1" colspan="1">Jan 23, 1999</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_3" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_4" rowspan="1" colspan="1">45</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_5" rowspan="1" colspan="1">419</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_6" rowspan="1" colspan="1">1.8</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_7" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_1" rowspan="1" colspan="1">Feb 11, 1999</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_3" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_4" rowspan="1" colspan="1">17</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_5" rowspan="1" colspan="1">185</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_6" rowspan="1" colspan="1">0.9</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_7" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_1 hd_h_Nifedipine.T2_1_1_1_2 hd_h_Nifedipine.T2_1_1_1_3 hd_h_Nifedipine.T2_1_1_1_4 hd_h_Nifedipine.T2_1_1_1_5 hd_h_Nifedipine.T2_1_1_1_6 hd_h_Nifedipine.T2_1_1_1_7" colspan="7" rowspan="1">Amlodipine (10 mg daily) started in late March, 1999</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_1" rowspan="1" colspan="1">Apr 10, 1999</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_2" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_3" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_4" rowspan="1" colspan="1">43</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_5" rowspan="1" colspan="1">398</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_6" rowspan="1" colspan="1">0.6</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_7" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_1" rowspan="1" colspan="1">May 5, 1999</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_2" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_3" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_4" rowspan="1" colspan="1">74</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_5" rowspan="1" colspan="1">398</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_6" rowspan="1" colspan="1">6.3</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_7" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_1 hd_h_Nifedipine.T2_1_1_1_2 hd_h_Nifedipine.T2_1_1_1_3 hd_h_Nifedipine.T2_1_1_1_4 hd_h_Nifedipine.T2_1_1_1_5 hd_h_Nifedipine.T2_1_1_1_6 hd_h_Nifedipine.T2_1_1_1_7" colspan="7" rowspan="1">Amlodipine stopped May 7, 1999</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_1" rowspan="1" colspan="1">May 11, 1999</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_3" rowspan="1" colspan="1">4 days</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_4" rowspan="1" colspan="1">70</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_5" rowspan="1" colspan="1">399</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_6" rowspan="1" colspan="1">5.4</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_7" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_1" rowspan="1" colspan="1">May 13, 1999</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_3" rowspan="1" colspan="1">6 days</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_4" rowspan="1" colspan="1">54</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_5" rowspan="1" colspan="1">314</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_6" rowspan="1" colspan="1">4.1</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_7" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_1" rowspan="1" colspan="1">May 28, 1999</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_3" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_4" rowspan="1" colspan="1">19</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_5" rowspan="1" colspan="1">181</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_6" rowspan="1" colspan="1">1.3</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_7" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_1 hd_h_Nifedipine.T2_1_1_1_2 hd_h_Nifedipine.T2_1_1_1_3" colspan="3" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;55</bold>
+</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;250</bold>
+</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_6" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Nifedipine.T2_1_1_1_7" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Nifedipine.Comment">
+            <title>Comment</title>
+            <p>One of the few reports of acute liver injury with jaundice attributed to calcium channel blockers. The patient initially developed a cholestatic hepatitis while on long term nifepidine therapy. Liver tests because steadily worse and nifepidine was ultimately withdrawn, whereupon liver tests fell to normal within 4 weeks. There was a recurrence of liver injury within 2 to 6 weeks of restarting another calcium channel blocker, with a similar pattern of liver test abnormalities and a similar rapid improvement upon stopping. Both nifedipine and amlodipine are dihydropyridines, but there structures are dissimilar.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Nifedipine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Nifedipine.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Nifedipine &#x02013; Generic, Adalat&#x000ae;, Procardia&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Cardiovascular Agents</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=nifedipine">COMPLETE LABELING</ext-link>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Nifedipine.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Nifedipine.T3" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Nifedipine.T3_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Nifedipine.T3_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Nifedipine.T3_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Nifedipine.T3_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Nifedipine.T3_1_1_1_1" rowspan="1" colspan="1">Nifedipine</td>
+                <td headers="hd_h_Nifedipine.T3_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134994994">21829-25-4</ext-link>
+</td>
+                <td headers="hd_h_Nifedipine.T3_1_1_1_3" rowspan="1" colspan="1">C17-H18-N2-O6</td>
+                <td headers="hd_h_Nifedipine.T3_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Nifedipine_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Nifedipine chemical structure</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Nifedipine.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 11 January 2017</p>
+        <ref-list id="Nifedipine.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Nifedipine.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Calcium channel blockers. Drugs used in cardiovascular disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 646-7.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; among calcium channel blockers, diltiazem, nifedipine, bepridil and verapamil have been incriminated in instances of hepatic injury).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Nifedipine.R2">
+            <mixed-citation publication-type="other">De Marzio DH, Navarro VJ. Calcium channel blockers. Hepatotoxicity of cardiovascular and antidiabetic drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 524.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of calcium channel blockers mentions that diliazem, nefidipine and verapamil have been implicated in causing cholestatic liver injury in a small number of patients).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Nifedipine.R3">
+            <mixed-citation publication-type="other">Michel T, Hoffman BB. Calcium channel antagonists. Treatment of myocardial ischemia. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 755-60.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Nifedipine.R4">
+            <mixed-citation publication-type="journal">Rotmensch HH, Roth A, Liron M, Rubinstein A, Gefel A, Livni E. Lymphocyte sensitization in nifedipine-induced hepatitis. Br Med J 1980; 281; 976-7. <annotation><p><italic toggle="yes">(69 year old man developed fever and jaundice 10 days after starting nifedipine [bilirubin 3.0 mg/dL, AST 56 U/L, Alk P 420 U/L, ESR 95 mm/hr], with rapid resolution and recurrence of fever and Alk P elevations after rechallenge with a single dose).</italic></p></annotation><pub-id pub-id-type="pmid">7000285</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nifedipine.R5">
+            <mixed-citation publication-type="journal">Davidson AR. Lymphocyte sensitization to nifedipine-induced hepatitis. Br Med J 1980; 281: 1354. <annotation><p><italic toggle="yes">(Letter in response to Rotmensch [1980] with a similar case: 59 year old man developed fatigue 2 weeks after starting nifedipine [bilirubin 3.0 mg/dL, ALT 49 U/L, Alk P 1.5 times ULN], resolving rapidly upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">7437797</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nifedipine.R6">
+            <mixed-citation publication-type="journal">Abramson M, Littlejohn GO. Hepatic reactions to nifedipine. Med J Aust 1985; 142: 47-8. <annotation><p><italic toggle="yes">(Two cases: 65 year old man developed jaundice 6 weeks after starting nifedipine [bilirubin 1.8 mg/dL, ALT 1220 U/L, Alk P 1094 U/L], resolving within 1 month and later tolerating verapamil; 72 year old man developed fever and arthralgias 6 weeks after starting verapamil [bilirubin normal; ALT 100 U.L, Alk P 457 U/L], resolving in a few weeks).</italic></p></annotation><pub-id pub-id-type="pmid">3965874</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nifedipine.R7">
+            <mixed-citation publication-type="journal">Welch HG, Lazar B, Gresser J, McMahon BJ. Nifedipine-induced hepatitis. Alaska Med 1986; 28:11-2. <annotation><p><italic toggle="yes">(50 year old woman with myocardial ischemia developed AST elevations [31 rising to 361 U/L] within 4 days of starting nefidipine, with no change in bilirubin [1.0 mg/dL] and rapid resolution when it was stopped).</italic></p></annotation><pub-id pub-id-type="pmid">3717520</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nifedipine.R8">
+            <mixed-citation publication-type="journal">Kiire CF, Rutherford D. Nifedipine-associated jaundice: a second case. East Afr Med J 1986; 63: 560-1. <annotation><p><italic toggle="yes">(75 year old man developed jaundice and abdominal pain 2 weeks after starting nifedipine [bilirubin 3.5 mg/dL, AST 53 U/L, Alk P 139 U/L], resolving within 2 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">3792245</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nifedipine.R9">
+            <mixed-citation publication-type="journal">Richter WO, Schwandt P. Serious side effects of nifedipine. Arch Intern Med 1987; 147: 1852. <annotation><p><italic toggle="yes">(69 year old woman developed marked Alk P elevations [943 U/L] with normal bilirubin [1.5 mg/dL], with no change after stopping prazosin and allopurinol, but prompt decrease after stopping nifedipine and recurrence on inadvertent rechallenge [Alk P 529 U/L]).</italic></p></annotation><pub-id pub-id-type="pmid">3662717</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nifedipine.R10">
+            <mixed-citation publication-type="journal">Shaw DR, Misan GM, Johnson RD. Nifedipine hepatitis. Aust N Z J Med 1987; 17: 447-8. <annotation><p><italic toggle="yes">(80 year old woman developed nausea and abdominal pain 4 days after starting nifedipine and having an episode of shock [bilirubin 2.0 mg/dL, AST 1065 U/L, LDH 1190 U/L, Alk P 352 U/L], resolving within 8 weeks).</italic></p></annotation><pub-id pub-id-type="pmid">3435325</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nifedipine.R11">
+            <mixed-citation publication-type="journal">Biour M, Grange JD, Barbare JC, et al. [Hepatic involvement due to nifedipine. Description of a case and review of the literature] Therapie 1987; 42: 301-3 [French]. <annotation><p><italic toggle="yes">(60 year old man developed jaundice 10 days after starting nifedipine [bilirubin 16.1 mg/dL, ALT 36 times ULN, Alk P 2.3 times ULN], resolving within one month of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">3660324</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nifedipine.R12">
+            <mixed-citation publication-type="journal">Babany G, Uzzan F, Larrey D, et al. Alcohol-like liver lesions induced by nifedipine. J Hepatol 1989; 9: 252-5. <annotation><p><italic toggle="yes">(78 year old woman taking nifedipine developed mild elevations of Alk P [1.5 times ULN] and GGT [5.3 times ULN] and underwent liver biopsy that showed steatohepatitis and Mallory bodies, and had ascites 6 months later despite normal enzymes; repeat biopsy showed fibrosis and fat without Mallory bodies; no follow up after stopping nefidine was given).</italic></p></annotation><pub-id pub-id-type="pmid">2809167</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nifedipine.R13">
+            <mixed-citation publication-type="journal">Sawaya GF, Robertson PA. Hepatotoxicity with the administration of nifedipine for treatment of preterm labor. Am J Obstet Gynecol 1992; 167: 512-3. <annotation><p><italic toggle="yes">(25 year old pregnant woman developed early uterine contractions and was treated with terbutaline and nifedipine whereupon ALT rose to as high as 845 U/L with no symptoms or jaundice, falling to normal 2 weeks after delivery and stopping nifedipine).</italic></p></annotation><pub-id pub-id-type="pmid">1497061</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nifedipine.R14">
+            <mixed-citation publication-type="journal">Basile C, Mascia E. Dihydropyridine calcium channel blockers: a rare and reversible cause of hepatotoxicity with cholestasis in a CAPD patient. Nephrol Dial Transplant 1999; 14: 2776-7. <annotation><p><italic toggle="yes">(76 year old man developed jaundice 3 years after starting nifedipine [bilirubin 6.2 mg/dL, ALT 79 U/L, Alk P 955 U/L], resolving within 1 month of stopping and recurring within 6 weeks of starting amlodipine [bilirubin 6.3 mg/dL, ALT 74 U/L, Alk P 398 U/L] resolving in 3 weeks: Case 1).</italic></p></annotation><pub-id pub-id-type="pmid">10534534</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nifedipine.R15">
+            <mixed-citation publication-type="journal">Brown MJ, Palmer CR, Castaigne A, de Leeuw PW, Mancia G, Rosenthal T, Ruilope LM. Morbidity and mortality in patients randomised to double-blind treatment with a long-acting calcium-channel blocker or diuretic in the International Nifedipine GITS study: Intervention as a Goal in Hypertension Treatment (INSIGHT). Lancet 2000; 356: 366-72. <annotation><p><italic toggle="yes">(Randomized clinical trial of nifedipine versus diuretics for an average of 3 years in 6321 patients reported similar outcomes and no differences in adverse events; liver toxicity not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">10972368</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nifedipine.R16">
+            <mixed-citation publication-type="journal">Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl 2004; 10: 1018-23. <annotation><p><italic toggle="yes">(Among ~50,000 liver transplants reported to UNOS between 1990 and 2002, 270 [0.5%] were done for drug induced acute liver failure, but none were attributed to calcium channel blockers).</italic></p></annotation><pub-id pub-id-type="pmid">15390328</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nifedipine.R17">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E, Jerlstad P, Bergqvist A, Olsson R. Fulminant drug-induced hepatic failure leading to death or liver transplantation in Sweden. Scand J Gastroenterol 2005; 40: 1095-101. <annotation><p><italic toggle="yes"> (Summary of 25 years of adverse drug reaction reporting in Sweden identified 103 cases of drug induced acute liver failure; only one case was possibly linked to a calcium channel blocker: felodipine).</italic></p></annotation><pub-id pub-id-type="pmid">16165719</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nifedipine.R18">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, calcium channel blockers were implicated as a sole agent in 2 cases [1 amlodipine, 1 verapamil] and as one of several agents in 2 cases [both amlodipine]).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nifedipine.R19">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were linked to calcium channel blockers). </italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nifedipine.R20">
+            <mixed-citation publication-type="journal">
+<annotation><p>
+<italic toggle="yes">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 114: 1419-25. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/23419359">Pub</ext-link><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/23419359">Med Citation</ext-link> (In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but no cases were attributed to calcium channel blockers).</italic>
+</p></annotation>
+</mixed-citation>
+          </ref>
+          <ref id="Nifedipine.R21">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes"> (Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases; one case was attributed to verapamil, but none were linked to diltiazem or other calcium channel blockers).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nifedipine.R22">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 39 [4%] were due to antihypertensive agents including 4 due to calcium channel blockers [amlodipine in 1 and verapamil in 3 instances], but none to diltiazem).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Nifedipine.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=nifedipine/AE+AND+Human%5BMH%5D+AND+(drug-induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%222000/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Nifedipine: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=nifedipine">Trials on Nifedipine: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

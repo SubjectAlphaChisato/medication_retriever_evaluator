@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Troglitazone" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Troglitazone</book-part-id>
+      <title-group>
+        <title>Troglitazone</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>6</day>
+          <month>6</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Trisalicylate" document-type="chapter">Trisalicylate</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Trospium" document-type="chapter">Trospium</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Troglitazone.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Troglitazone.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Troglitazone was the first thiazolidinedione approved for use in the United States and was licensed for use in type 2 diabetes in 1997, but withdrawn 3 years later because of the frequency of liver injury including acute liver failure associated with its use.</p>
+        </sec>
+        <sec id="Troglitazone.Background">
+          <title>Background</title>
+          <p>Troglitazone (troe gli' ta zone) is an insulin sensitizing agent thought to act by engagement of PPAR-&#x003b3; receptors which induce multiple genes involved in glucose and fatty acid metabolism. In clinical trials, troglitazone was found to lower blood glucose and HbA1c levels and had additive effects with the sulfonylureas and metformin. Troglitazone was approved for use in the United States in 1997 to be used alone or in combination with other antidiabetic medications. However, reports of severe liver injury and death from acute liver failure began to arise soon after its general availability, and it was withdrawn from use in 2000. Troglitazone was sold under the brand name Rezulin and was available in 400 mg tablets. The recommended dosage was 400 to 800 mg once daily. Troglitazone was used as monotherapy as well as in combination with metformin, sulfonylureas or insulin.</p>
+        </sec>
+        <sec id="Troglitazone.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Large prospective studies showed that significant elevations in serum aminotransferase levels (equal to or greater than 3 times the upper limit of the normal range [ULN]) occurred in 1.9% of patients with diabetes treated with troglitazone for 24 to 48 weeks, compared to only 0.6% in placebo recipients. These enzyme elevations were usually asymptomatic and often resolved despite continuation of therapy. Nevertheless, elevations &#x0003e;10 times ULN occurred in 0.5% of patients (but in no placebo recipient) and a proportion of these developed symptoms of liver injury and jaundice. Soon after the approval of troglitazone as therapy for type 2 diabetes in the United States, cases of severe acute liver injury began to be reported, and dramatic case reports as well as small case series documented that clinically significant injury was occurring in 1:1000 to 1:10,000 recipients. The latency to onset of injury was typically 1 to 6 months and the onset was marked by fatigue, weakness, dark urine and jaundice, and an acute hepatitis-like elevation in serum enzymes (hepatocellular pattern). Allergic phenomena (rash, fever, eosinophilia) were uncommon and serum autoantibodies were not usually present. Liver biopsies showed acute inflammatory changes and variable degrees of necrosis, ranging from rare spotty necrosis to bridging hepatic necrosis and submassive or massive necrosis. At least two dozen cases of acute liver failure and death or need for liver transplantation were reported to the FDA before troglitazone was withdrawn from use in 2000.</p>
+          <p>Likelihood score: A (well recognized cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Troglitazone.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of liver injury due to troglitazone is unknown. Signs and symptoms of allergic and immune reactivity are rare and a metabolic defect in its metabolism is suspected to be the cause. Troglitazone is a potent inducer of CYP 3A4 and has a distinctive alpha tocopherol (vitamin E-like) side chain which can be metabolized to a highly active quinolone-like metabolite, which may account for its occasional aberrant metabolism and hepatotoxicity.</p>
+        </sec>
+        <sec id="Troglitazone.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The liver injury from troglitazone can be severe and even fatal. In several cases there was incomplete recovery at the time of the last follow up evaluation, suggesting that the injury can become chronic in some instances. Prednisone has been reported to have a beneficial effect, but only in anecdotal reports. While several patients with mild troglitazone liver injury were later treated with other thiazolidinediones without recurrence of injury, other patients have developed worsening liver injury; switching therapy to other thiazolidinediones is inadvisable and, if done, should be with careful monitoring of serum aminotransferase levels.</p>
+          <p>References to safety and hepatotoxicity of troglitazone are given together with references to the related agents in the Overview section on the Thiazolidinediones (updated June 2018).</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Antidiabetic">Antidiabetic Agents</related-object></p>
+          <p>Other Drugs in the Subclass, <related-object source-id="livertox" document-id="Thiazolidinediones">Thiazolidinediones</related-object>: <related-object source-id="livertox" document-id="Pioglitazone">Pioglitazone</related-object>, <related-object source-id="livertox" document-id="Rosiglitazone">Rosiglitazone</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Troglitazone.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Troglitazone.Case_1._Acute_hepatitis_ari">
+          <title>Case 1. Acute hepatitis arising after 4 months of troglitazone therapy.</title>
+          <p>[Modified from: Shiano T, Dolehide K, Hart J, Baker AL. Severe but reversible hepatitis induced by troglitazone. Dig Dis Sci 2000; 45: 1039-42. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/10795774">PubMed Citation</ext-link>]</p>
+          <p>A 63 year old man with diabetes was started on troglitazone (20 mg daily) and was hospitalized 18 weeks later with marked jaundice. Other medical problems included a distant history of alcohol use, type 2 diabetes for 4 years for which he took glipizide, a history of abdominal aortic aneurysm, and hypercholesterolemia for which he took pravastatin. On admission, he was markedly jaundiced and complained of pruritus and fatigue, but had no signs of liver failure (Table). Tests for hepatitis A, B and C were negative as were serum autoantibodies. A liver biopsy showed changes of acute hepatitis consistent with drug induced liver injury. Ultrasound and CT scans showed no evidence of gallstones or biliary obstruction. Troglitazone was stopped and he recovered slowly.</p>
+          <sec id="Troglitazone.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Troglitazone.T1" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Troglitazone (20 mg/day for 18 weeks)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Hepatocellular (R=17)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">3+ (jaundice and hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">4-5 months</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">3-5 months</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">Aspirin (81 mg daily), vitamin E (5000 U/day), pravastatin (20 mg/day), glipizide (5 mg/day)</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Troglitazone.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Troglitazone.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Troglitazone.T2_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Troglitazone.T2_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Troglitazone.T2_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Troglitazone.T2_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Troglitazone.T2_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Troglitazone.T2_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Troglitazone.T2_1_1_1_1" rowspan="1" colspan="1">18 weeks</td>
+                    <td headers="hd_h_Troglitazone.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Troglitazone.T2_1_1_1_3" rowspan="1" colspan="1">1961</td>
+                    <td headers="hd_h_Troglitazone.T2_1_1_1_4" rowspan="1" colspan="1">213</td>
+                    <td headers="hd_h_Troglitazone.T2_1_1_1_5" rowspan="1" colspan="1">13.2</td>
+                    <td headers="hd_h_Troglitazone.T2_1_1_1_6" rowspan="1" colspan="1">GGT 168 U/L; protime normal</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Troglitazone.T2_1_1_1_1" rowspan="1" colspan="1">20 weeks</td>
+                    <td headers="hd_h_Troglitazone.T2_1_1_1_2" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Troglitazone.T2_1_1_1_3" rowspan="1" colspan="1">358</td>
+                    <td headers="hd_h_Troglitazone.T2_1_1_1_4" rowspan="1" colspan="1">168</td>
+                    <td headers="hd_h_Troglitazone.T2_1_1_1_5" rowspan="1" colspan="1">36.9</td>
+                    <td headers="hd_h_Troglitazone.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Troglitazone.T2_1_1_1_1" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Troglitazone.T2_1_1_1_2" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Troglitazone.T2_1_1_1_3" rowspan="1" colspan="1">218</td>
+                    <td headers="hd_h_Troglitazone.T2_1_1_1_4" rowspan="1" colspan="1">146</td>
+                    <td headers="hd_h_Troglitazone.T2_1_1_1_5" rowspan="1" colspan="1">13.9</td>
+                    <td headers="hd_h_Troglitazone.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Troglitazone.T2_1_1_1_1" rowspan="1" colspan="1">10 months</td>
+                    <td headers="hd_h_Troglitazone.T2_1_1_1_2" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Troglitazone.T2_1_1_1_3" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Troglitazone.T2_1_1_1_4" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Troglitazone.T2_1_1_1_5" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Troglitazone.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Troglitazone.T2_1_1_1_1 hd_h_Troglitazone.T2_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Troglitazone.T2_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;66</bold>
+</td>
+                    <td headers="hd_h_Troglitazone.T2_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;126</bold>
+</td>
+                    <td headers="hd_h_Troglitazone.T2_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Troglitazone.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Troglitazone.Comment">
+            <title>Comment</title>
+            <p>Acute hepatocellular injury without signs of allergy (fever, eosinophilia and rash) developed between 4 and 5 months after starting troglitazone. No other cause of acute liver injury was identified and a liver biopsy was consistent with drug induced hepatitis. The patient became markedly jaundiced and was severely symptomatic with pruritus, fatigue and weight loss, but he did not develop evidence of hepatic failure and eventually recovered fully. The difference between a reversible and irreversible severe liver injury may well depend upon how rapidly therapy is withdrawn after onset.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Troglitazone.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Troglitazone.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Troglitazone &#x02013; Rezulin&#x000ae; (Withdrawn from U.S. Market)</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Hypoglycemic Agents</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=troglitazone">COMPLETE LABELING</ext-link>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Troglitazone.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Troglitazone.T3" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Troglitazone.T3_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Troglitazone.T3_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Troglitazone.T3_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Troglitazone.T3_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Troglitazone.T3_1_1_1_1" rowspan="1" colspan="1">Troglitazone</td>
+                <td headers="hd_h_Troglitazone.T3_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135016808">97322-87-7</ext-link>
+</td>
+                <td headers="hd_h_Troglitazone.T3_1_1_1_3" rowspan="1" colspan="1">C24-H27-N-O5-S</td>
+                <td headers="hd_h_Troglitazone.T3_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Troglitazone_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Troglitazone chemical structure</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Troglitazone.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(troglitazone/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Troglitazone: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=troglitazone">Trials on Troglitazone: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

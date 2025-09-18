@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Pimozide" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Pimozide</book-part-id>
+      <title-group>
+        <title>Pimozide</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>1</day>
+          <month>7</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Pimavanserin" document-type="chapter">Pimavanserin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Pindolol" document-type="chapter">Pindolol</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Pimozide.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Pimozide.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Pimozide is a conventional antipsychotic used largely in the therapy of Tourette syndrome. Pimozide therapy has not been associated with serum aminotransferase elevations nor with cases of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Pimozide.Background">
+          <title>Background</title>
+          <p>Pimozide (pim' oh zide) is a diphenylbutylpiperidine derivative that differs structurally from the phenothiazines and appears to act by blocking dopamine type 2 (D2) receptors. Pimozide has other central and peripheral effects including anticholinergeric and alpha adrenergic blockade. Pimozide is indicated for the therapy of severe motor and verbal tics in patients with Tourette syndrome. It has also been used in therapy of schizophrenia. Pimozide was approved for use in the United States in 1984. As therapy of schizophrenia, pimozide has been replaced in large part by the atypical antipsychotics, which have fewer extrapyramidal side effects. Pimozide continues to be used in patients with motor or verbal tics due to Tourette syndrome. Pimozide is available as tablets of 1 and 2 mg in generic forms and under the brand name Orap. Typical doses are 1 to 2 mg daily in divided doses, increasing to a maximum of 10 mg daily. Pimozide can prolong the QT interval and, in rare instances, has caused sudden death for which reason the dose should be carefully chosen and drug levels monitored. Common side effects include drowsiness, dizziness, headache, blurred vision, dry mouth, and constipation. Uncommon but potentially severe adverse reactions include tardive dyskinesia, neuroleptic malignant syndrome and sudden death.</p>
+        </sec>
+        <sec id="Pimozide.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Liver test abnormalities have not been reported to occur in of patients on pimozide, but the degree and duration of monitoring done in initial studies were not clear. Instances of clinically apparent acute liver injury have not been reported due to pimozide, and thus must be rare if they occur at all.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Pimozide.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Pimozide is extensively metabolized by the liver partially via the cytochrome P450 system (predominantly CYP 2D6) and levels can be seriously elevated in patients who concurrently receive CYP 2D6 inhibitors, particularly in persons who are poor metabolizers of CYP 2D6 substrates. The lack of hepatotoxicity may relate in part to the low dosage used (less than 10 mg daily).</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntipsychoticAgents" document-type="chapter">Antipsychotic Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Pimozide.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Pimozide &#x02013; Generic, Orap&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antipsychotic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Pimozide">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Pimozide.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Pimozide.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Pimozide.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Pimozide.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Pimozide.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Pimozide.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Pimozide.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pimozide</td>
+                <td headers="hd_h_Pimozide.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134983783">2062-78-4</ext-link>
+</td>
+                <td headers="hd_h_Pimozide.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C28-H29-F2-N3-O</td>
+                <td headers="hd_h_Pimozide.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134983783" document-id-type="sid" document-type="summary" object-id="134983783" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Pimozide.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 01 July 2020</p>
+        <ref-list id="Pimozide.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Pimozide.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Neuroleptic drugs. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 483-91.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of neuroleptic drugs published in 1999; mentions a single case of cholestatic jaundice due to pimozide).</italic></p><p>Larry D, Ripault MP. Hepatotoxicity of psychotropic drugs and drugs of abuse. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 443-62.</p><p><italic toggle="yes">(Review of hepatotoxicity of psychiatric agents does not discuss pimozide).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Pimozide.REF.meyer.2018">
+            <mixed-citation publication-type="book">Meyer JM. Pharmacotherapy of psychosis and mania. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 279-302.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Pimozide.REF.claghorn.1974.1005">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Claghorn</surname><given-names>JL</given-names></name>
+</person-group>
+              <article-title>A double-blind comparison of pimozide vs. trifluoperazine in schizophrenic outpatients.</article-title>
+              <source>Curr Ther Res Clin Exp</source>
+              <year>1974</year>
+              <volume>16</volume>
+              <fpage>1005</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Small trial of 6 months of pimozide vs trifluoperazine therapy in 87 subjects with monitoring of serum tests; 3 on pimozide and 6 on trifluoperazine had &#x0201c;some transient laboratory alterations&#x0201d;, but which tests, by how much and when was not defined).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">4214658</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pimozide.REF.kolivakis.1974.998">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kolivakis</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Azim</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Kingstone</surname><given-names>E.</given-names></name>
+</person-group>
+              <article-title>A double-blind comparison of pimozide and chlorpromazine in the maintenance care of chronic schizophrenic outpatients.</article-title>
+              <source>Curr Ther Res Clin Exp</source>
+              <year>1974</year>
+              <volume>16</volume>
+              <fpage>998</fpage>
+              <lpage>1004</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Trial of pimozide vs chlorpromazine for 6 months with laboratory monitoring, no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">4214674</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pimozide.REF.pinder.1976.1">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Pinder</surname><given-names>RM</given-names></name>
+<name name-style="western"><surname>Brogden</surname><given-names>RN</given-names></name>
+<name name-style="western"><surname>Swayer</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Speight</surname><given-names>TM</given-names></name>
+<name name-style="western"><surname>Spencer</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Avery</surname><given-names>GS</given-names></name>
+</person-group>
+              <article-title>Pimozide: a review of its pharmacological properties and therapeutic uses in psychiatry.</article-title>
+              <source>Drugs</source>
+              <year>1976</year>
+              <volume>12</volume>
+              <fpage>1</fpage>
+              <lpage>40</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Short review of pharmacology, indications and side effects of pimozide; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">824116</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pimozide.REF.colvin.1985.421">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Colvin</surname><given-names>CL</given-names></name>
+<name name-style="western"><surname>Tankanow</surname><given-names>RM</given-names></name>
+</person-group>
+              <article-title>Pimozide: use in Tourette's syndrome.</article-title>
+              <source>Drug Intell Clin Pharm</source>
+              <year>1985</year>
+              <volume>19</volume>
+              <fpage>421</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of structure, pharmacology and efficacy of pimozide in short term studies in Tourette syndrome; no mention of hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3891283</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pimozide.REF.allison.1999.1686">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Allison</surname><given-names>DB</given-names></name>
+<name name-style="western"><surname>Mentore</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Heo</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Chandler</surname><given-names>LP</given-names></name>
+<name name-style="western"><surname>Cappelleri</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Infante</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Weiden</surname><given-names>PJ</given-names></name>
+</person-group>
+              <article-title>Antipsychotic-induced weight gain: a comprehensive research synthesis.</article-title>
+              <source>Am J Psychiatry</source>
+              <year>1999</year>
+              <volume>156</volume>
+              <fpage>1686</fpage>
+              <lpage>96</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of 81 articles on weight change with antipsychotics, using change after 10 weeks to compare agents: clozapine +5.7, olanzapine +4.2, chlorpromazine +4.2, risperidone +1.7, loxapine +0.6, haloperidol +0.5, ziprasidone +0.3, molindone -0.1, and pimozide -2.7 kg).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10553730</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pimozide.REF.rogers.2012.1187">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rogers</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Bhattaram</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Zineh</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Gobburu</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Mathis</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Laughren</surname><given-names>TP</given-names></name>
+<name name-style="western"><surname>Pacanowski</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>CYP2D6 genotype information to guide pimozide treatment in adult and pediatric patients: basis for the U.S. Food and Drug Administration's new dosing recommendations.</article-title>
+              <source>J Clin Psychiatry</source>
+              <year>2012</year>
+              <volume>73</volume>
+              <fpage>1187</fpage>
+              <lpage>90</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the pharmacogenetics of pimozide and the role of CYP 2D6 and CYP 2D6 inhibitors in its metabolism and adverse events).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23059146</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pimozide.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hern&#x000e1;ndez</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bessone</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>di Pace</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Brahm</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zapata</surname><given-names>R, A</given-names></name>
+<name name-style="western"><surname>Chirino</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, only one of which was attributed to chlorpromazine, the only antipsychotic medication listed).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Pimozide.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 5 cases [0.6%] were attributed to antipsychotic agents, including 3 due to quetiapine and 2 to olanzapine, but none to pimozide]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Pimozide.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Pimozide/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Pimozide: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Pimozide">Trials on Pimozide: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

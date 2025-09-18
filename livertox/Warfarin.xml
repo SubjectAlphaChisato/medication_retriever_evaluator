@@ -1,0 +1,1241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Warfarin" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Warfarin</book-part-id>
+      <title-group>
+        <title>Warfarin</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>25</day>
+          <month>10</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Vutrisiran" document-type="chapter">Vutrisiran</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="WeightLossAgents" document-type="chapter">Weight Loss Agents</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Warfarin.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Warfarin.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Warfarin is a commonly used oral anticoagulant with anti-vitamin K activity. Warfarin therapy is associated with rare instances of idiosyncratic, clinically apparent liver injury that are usually mild and rapidly reversible on stopping.</p>
+        </sec>
+        <sec id="Warfarin.Background">
+          <title>Background</title>
+          <p>Warfarin (war' far in) was discovered after identification of the hemorrhagic activity that caused toxicity and bleeding in cattle after eating spoiled, sweet clover silage. Once the active component was shown to be bis-hydroxycoumarin, synthetic derivatives were developed and found to be effective rodenticides. Only thereafter were coumarin derivatives shown to be useful as anticoagulants in humans, and only with careful monitoring. Importantly, coumarin itself does not have anticoagulant activity but is used as an antineoplastic agent, and has different effects and side effects than its derivatives. Coumarin derivatives include warfarin, dicumarol, phenprocoumon and acenocoumarol. These compounds act by blocking the enzymatic reduction of vitamin K to its active form, which is responsible for the final steps of synthesis of several clotting factors (Factors II, VII, IX and X). The coumarin derivatives cause a prolongation of the prothrombin time which is beneficial in preventing progression or recurrence of deep vein thrombosis and pulmonary embolism. Oral anticoagulation is also used to prevent arterial or venous embolization after acute myocardial infarction, atrial fibrillation and prosthetic heart value placement. Warfarin was approved for use in the United States in 1961 and remains in wide use with more than 30 million prescriptions filled yearly. The typical dose is 5 mg daily for 2 to 4 days followed by 2 to 10 mg daily, based upon measurements of prothrombin time aiming at an international normalized ratio (INR) value of 2 to 3. Monitoring of the INR is essential during warfarin therapy, because bleeding is a common side effect and can be life-threatening and fatal. Side effects not directly attributable to the anticoagulant activity of warfarin are not common, but can include nausea, abdominal discomfort, diarrhea, anorexia, fever, alopecia, skin necrosis and bluish discoloration. Finally, warfarin is very sensitive to drug-drug interactions involving its metabolism or function and great care must be given to starting or stopping concurrent medications in patients on warfarin therapy. Severe bleeding episodes can be caused by administration of another medication that prolongs its half-life or activity. The availability of oral, non-vitamin K based anticoagulants that provide similar protection against thrombosis but have fewer adverse side effects and do not require regular monitoring of INR has decreased the use of warfarin, particularly in the elderly who are most prone to bleeding complications.</p>
+        </sec>
+        <sec id="Warfarin.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Liver injury due to warfarin therapy is rare, but clinically apparent acute liver injury attributable to it has been reported. Liver injury is more common with other coumarin derivatives such as phenprocoumon and acenocoumarol, which are available in other countries but not in the United States. The typical case of acute liver injury arises within 3 to 8 weeks of starting warfarin, although rare instances of liver injury arising after months or years of therapy have been reported (and these long latencies are common with phenprocoumon hepatotoxicity). The pattern of liver enzyme elevations is typically cholestatic, but hepatocellular and mixed patterns have also been reported. Eosinophilia can occur, but other immunoallergic manifestations are not common nor are autoantibodies. Recovery can be prolonged, particularly with cholestatic injury. Recurrence upon reexposure has been described and can be more severe and result in death.</p>
+          <p>Overdose with warfarin can result in excessive bleeding and hepatic failure. In addition, chronic warfarin therapy has been associated with spontaneous bleeding including hepatic rupture and life-threatening intraperitoneal bleeding, even without trauma and with INR in the appropriate range.</p>
+          <p>Coumarin (as opposed to coumarin derivatives) is a benzopyrone, which is found in many plants and has a sweet, vanilla-like flavor. Coumarin itself does not have anticoagulant activity, which is only found in its derivatives. Coumarin inhibits macrophage function and has been used as an antineoplastic agent and to treat protein rich lymphedema, such as occurs in the arm after breast cancer therapy. Coumarin has been implicated in several cases of idiosyncratic, clinically apparent liver injury which is estimated to occur in 2 per 1000 patient years of use. Coumarin is not commercially available in the United States.</p>
+          <p>Likelihood score: C (probable rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Warfarin.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of liver injury during oral anticoagulant therapy is unknown but it is clearly idiosyncratic with many instances of more rapid recurrence of more severe injury with reexposure, suggesting an immunologic basis.</p>
+        </sec>
+        <sec id="Warfarin.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Most cases of liver injury due to warfarin are mild-to-moderate in severity and are self-limited, resolving once therapy is stopped. Recurrence of liver injury usually occurs with rechallenge, which should be avoided. There appears to be cross sensitivity to hepatic injury between warfarin and phenprocoumon, but not with acenocoumarol for uncertain reasons. However, these other coumarin derivatives are not available in the United States.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="Anticoagulants" document-type="chapter">Antithrombotic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Anticoagulants" document-type="chapter">Anticoagulants</related-object></p>
+          <p>Other Drugs in the Subclass, Anticoagulants: <related-object link-type="booklink" source-id="livertox" document-id="Dabigatran" document-type="chapter">Dabigatran</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Desirudin" document-type="chapter">Desirudin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Apixaban" document-type="chapter">Apixaban</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Fondaparinux" document-type="chapter">Fondaparinux</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Rivaroxaban" document-type="chapter">Rivaroxaban</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Heparins" document-type="chapter">Heparins</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Warfarin.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Warfarin &#x02013; Generic, Coumadin&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antithrombotic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=warfarin">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Warfarin.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Warfarin.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Warfarin.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Warfarin.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Warfarin.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Warfarin.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Warfarin.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Warfarin</td>
+                <td headers="hd_h_Warfarin.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134972971">81-81-2</ext-link>
+</td>
+                <td headers="hd_h_Warfarin.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C19-H16-O4</td>
+                <td headers="hd_h_Warfarin.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134972971" document-id-type="sid" document-type="summary" object-id="134972971" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Warfarin.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 25 October 2020</p>
+        <ref-list id="Warfarin.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Warfarin.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Heparin. Drugs used in cardiovascular disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 639-412.<annotation><p><italic toggle="yes">(Textbook of hepatotoxicity published in 1999; mentions that warfarin rarely produces hepatic injury, which when present is usually cholestatic, mild and presumably immunologically mediated).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Warfarin.REF.bhardwaj.2007">
+            <mixed-citation publication-type="book">Bhardwaj SS, Chalasani NP. Anticoagulants. Cardiovascular and antidiabetic medications. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 2nd ed. New York: Informa Healthcare USA, 2007, pp. 608-11.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of coumarin derived anticoagulants published in 2007; the typical injury from warfarin is cholestatic often with an allergic-type hypersensitivity reaction arising as long as five years after starting).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Warfarin.REF.hogg.2018">
+            <mixed-citation publication-type="book">Hogg K, Weitz JI. Blood coagulation and anticoagulant, fibrinolytic, and antiplatelet drugs. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 849-76.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Warfarin.REF.kreiter.1967.12">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kreiter</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Fink</surname><given-names>U.</given-names></name>
+</person-group>
+              <comment>[A case of liver damage following coumarin medication]</comment>
+              <source>Med Klin</source>
+              <year>1967</year>
+              <volume>62</volume>
+              <fpage>12</fpage>
+              <lpage>5</lpage>
+              <comment>German.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(56 year old man developed anoxia, malaise and weight loss 5 years after starting acenocoumarol, with mild liver tests abnormalities which recurred 6 weeks after starting phenprocoumon [bilirubin 0.45 rising to 1.3 mg/dL, ALT 5 to 34 WE, Alk P 64 to 160 WE, 10% eosinophils], resolving within weeks of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">6032217</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.mogilner.1974.1117">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mogilner</surname><given-names>BM</given-names></name>
+<name name-style="western"><surname>Freeman</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>Blashar</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Pincus</surname><given-names>FE</given-names></name>
+</person-group>
+              <article-title>Reye's syndrome in three Israeli children. Possible relationship to warfarin toxicity.</article-title>
+              <source>Isr J Med Sci</source>
+              <year>1974</year>
+              <volume>10</volume>
+              <fpage>1117</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Description of 3 children presenting with Reye syndrome-like symptoms with fatal outcome; one after a warfarin [rat poison] overdose, one having warfarin detected in urine after eating grass, and one with history of respiratory infection; all had microvesicular fat on autopsy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">4436035</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.roberts.1975.1152">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Roberts</surname><given-names>MH</given-names></name>
+<name name-style="western"><surname>Johnston</surname><given-names>FR</given-names></name>
+</person-group>
+              <article-title>Hepatic rupture from anticoagulant therapy.</article-title>
+              <source>Arch Surg</source>
+              <year>1975</year>
+              <volume>110</volume>
+              <fpage>1152</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(69 year old woman taking warfarin for 6 years had sudden hepatic rupture [protime 21.5 sec] requiring surgery and ultimately recovering).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">808198</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.den_boer.1976.912">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>den Boer</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Loeliger</surname><given-names>EA</given-names></name>
+</person-group>
+              <article-title>Phenprocoumon-induced jaundice.</article-title>
+              <source>Lancet</source>
+              <year>1976</year>
+              <volume>1</volume>
+              <fpage>912</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(43 year old woman who tolerated acenocoumarol developed jaundice 6 months after switching to phenprocoumon [bilirubin 42 mg/dL], resolving with prednisone therapy and recurring 3 weeks after restarting [bilirubin 30 mg/dL, ALT 540 U/L, Alk P 206 U/L], and resolving again upon stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">58178</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.rehnqvist.1978.335">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rehnqvist</surname><given-names>N.</given-names></name>
+</person-group>
+              <article-title>Intrahepatic jaundice due to warfarin therapy.</article-title>
+              <source>Acta Med Scand</source>
+              <year>1978</year>
+              <volume>204</volume>
+              <fpage>335</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(2 cases: 56 year old man developed ALT elevations within 8 days of starting warfarin and heparin, remaining elevated for 30 days until warfarin stopped; 57 year old man took overdose of warfarin [50 mg] in suicide attempt and developed jaundice [bilirubin not given; ALT and Alk P 3-4 times ULN] which lasted even when anticoagulant was changed to bishydroxycoumarin, resolving only when it was stopped).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">696433</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.dizadji.1979.734">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dizadji</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Hammer</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Strzyz</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Weisenberger</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Spontaneous rupture of the liver. A complication of oral anticoagulant therapy.</article-title>
+              <source>Arch Surg</source>
+              <year>1979</year>
+              <volume>114</volume>
+              <fpage>734</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(73 year old woman on warfarin [duration not mentioned] developed rupture of the liver [protime 21.3 seconds, no trauma] requiring right lobectomy with subsequent liver failure and death 15 days later).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">454157</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.jones.1980.671">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Jones</surname><given-names>DB</given-names></name>
+<name name-style="western"><surname>Makepeace</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Smith</surname><given-names>PM</given-names></name>
+</person-group>
+              <article-title>Jaundice following warfarin therapy.</article-title>
+              <source>Postgrad Med J</source>
+              <year>1980</year>
+              <volume>56</volume>
+              <fpage>671</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(59 year old man developed jaundice and pruritus 6 months after starting warfarin [bilirubin 11.1 rising to 48 mg/dL, AST 50 U/L, Alk P 190 rising to 820 U/L], resolving 15 weeks after stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7465480</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.slagboom.1980.1028">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Slagboom</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Loeliger</surname><given-names>EA</given-names></name>
+</person-group>
+              <article-title>Coumarin-associated hepatitis. Report of two cases.</article-title>
+              <source>Arch Intern Med</source>
+              <year>1980</year>
+              <volume>140</volume>
+              <fpage>1028</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Two patients of unstated gender and age developed jaundice 6 months and many years after starting phenprocoumon [bilirubin 9.6 and 2.3 mg/dL, ALT 116 and 41 U/L, Alk P 100 and 112 U/L], resolving upon stopping and recurring 3 and 11 weeks after restarting, and treated with prednisone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7396606</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.adler.1986.1837">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Adler</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Benjamin</surname><given-names>SB</given-names></name>
+<name name-style="western"><surname>Zimmerman</surname><given-names>HJ</given-names></name>
+</person-group>
+              <article-title>Cholestatic hepatic injury related to warfarin exposure.</article-title>
+              <source>Arch Intern Med</source>
+              <year>1986</year>
+              <volume>146</volume>
+              <fpage>1837</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(70 year old man developed jaundice 10 days after starting warfarin [bilirubin 11.4 rising to 47 mg/dL, AST 69 U/L, Alk P 588 U/L], resolving slowly upon stopping; history revealed similar cholestatic episode with eosinophilia arising 2 weeks after starting warfarin several years in the past).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3753126</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.herrmann.1988.639">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Herrmann</surname><given-names>KS</given-names></name>
+<name name-style="western"><surname>Kreuzer</surname><given-names>H</given-names></name>
+</person-group>
+              <comment>[Observations concerning acenocoumarol induced granulocytosis]</comment>
+              <source>Klin Wochenschr</source>
+              <year>1988</year>
+              <volume>66</volume>
+              <fpage>639</fpage>
+              <lpage>42</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(28 year old man developed serum enzyme elevations shortly after starting phenprocoumon [bilirubin not given, ALT 420 U/L, GGT 96 U/L], which improved on stopping and recurred on restarting; subsequently switched to acenocoumarol which he tolerated without liver abnormalities, but developed agranulocytosis without liver enzyme elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3210659</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.cox.1989.501">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cox</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>O'Kennedy</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Thornes</surname><given-names>RD</given-names></name>
+</person-group>
+              <article-title>The rarity of liver toxicity in patients treated with coumarin (1, 2-benzopyrone).</article-title>
+              <source>Hum Toxicol</source>
+              <year>1989</year>
+              <volume>8</volume>
+              <fpage>501</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Coumarin is without anticoagulant activity, but is antineoplastic; among 2173 patients treated with coumarin, 17 [0.8%] developed hepatotoxicity, but only 8 were considered due to coumarin with onset 1-6 months after starting, jaundice in 1 [bilirubin 13.3 mg/dL] with enzyme elevations [ALT 115-960 U/L, Alk P usually normal], resolving with stopping but recurring with re-exposure in 6 patients).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2591993</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.de_man.1990.318">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>de Man</surname><given-names>RA</given-names></name>
+<name name-style="western"><surname>Wilson</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Schalm</surname><given-names>SW</given-names></name>
+<name name-style="western"><surname>ten Kate</surname><given-names>FJ</given-names></name>
+<name name-style="western"><surname>van Leer</surname><given-names>E</given-names></name>
+</person-group>
+              <article-title>Phenprocoumon-induced hepatitis mimicking non-A, non-B hepatitis.</article-title>
+              <source>J Hepatol</source>
+              <year>1990</year>
+              <volume>11</volume>
+              <fpage>318</fpage>
+              <lpage>21</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(58 year old man developed jaundice 7 months after starting phenprocoumon, which improved upon stopping but recurred within 4 weeks of restarting [bilirubin 8.1 mg/dL, ALT 589 U/L, Alk P 208 U/L, 5% eosinophils], which resolved within 3 months of switching to heparin; the initial episode had been mistakenly attributed to non-A, non-B hepatitis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1963177</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.erichsen.1993.402">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Erichsen</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>S&#x000f8;ndenaa</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>S&#x000f6;reide</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Andersen</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Tysvoer</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Sndenaa</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Sreide</surname><given-names>JA</given-names></name>
+</person-group>
+              <article-title>Spontaneous liver hematomas induced by anti-coagulation therapy. A case report and review of the literature.</article-title>
+              <source>Hepatogastroenterology</source>
+              <year>1993</year>
+              <volume>40</volume>
+              <fpage>402</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(55 year old woman on warfarin therapy developed several intrahepatic hematomas 4 days after starting trimethoprim-sulfamethoxazole for bronchitis, perhaps caused by drug-drug interactions and intrahepatic bleeding).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8406314</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.de_man.1993.91">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>de Man</surname><given-names>RA</given-names></name>
+</person-group>
+              <article-title>Phenprocoumon-induced liver failure.</article-title>
+              <source>Neth J Med</source>
+              <year>1993</year>
+              <volume>43</volume>
+              <fpage>91</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(52 year old woman developed jaundice 6 months after starting phenprocoumon with prolonged course, later tolerating acenocoumarol but redeveloping severe liver injury 3 weeks after restarting phenprocoumon [bilirubin 12.2 mg/dL, ALT 1865 U/L, Alk P 159 U/L], progressing to hepatic failure and death 4 weeks later).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8232701</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.scott.1991.503">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Scott</surname><given-names>DA</given-names></name>
+<name name-style="western"><surname>Netchvolodoff</surname><given-names>CV</given-names></name>
+<name name-style="western"><surname>Bacon</surname><given-names>BR</given-names></name>
+</person-group>
+              <article-title>Delayed subcapsular hematoma after percutaneous liver biopsy as a manifestation of warfarin toxicity.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>1991</year>
+              <volume>86</volume>
+              <fpage>503</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(61 year old man on warfarin underwent liver biopsy after correction of protime, but had subcapsular bleed 5 days after restarting warfarin [2 days after biopsy]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1849346</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.matsukawa.1994.413">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Matsukawa</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Uemura</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Fukuchi</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Tsuruta</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Murakami</surname><given-names>S.</given-names></name>
+</person-group>
+              <comment>[Thrombosed St. Jude Medical prosthesis with drug induced hepatitis due to warfarin potassium--a case report]</comment>
+              <source>Nippon Kyobu Geka Gakkai Zasshi</source>
+              <year>1994</year>
+              <volume>42</volume>
+              <fpage>413</fpage>
+              <lpage>5</lpage>
+              <comment>Japanese.</comment>
+              <pub-id pub-id-type="pmid">8176302</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.h_hler.1994.447">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>H&#x000f6;hler</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Schn&#x000fc;tgen</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Helmreich-Becker</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Mayet</surname><given-names>WJ</given-names></name>
+<name name-style="western"><surname>Mayer zum B&#x000fc;schenfelde</surname><given-names>KH</given-names></name>
+</person-group>
+              <article-title>Drug-induced hepatitis: a rare complication of oral anticoagulants.</article-title>
+              <source>J Hepatol</source>
+              <year>1994</year>
+              <volume>21</volume>
+              <fpage>447</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(56 year old woman developed jaundice 8 months after starting phenprocoumon [bilirubin 4.2 mg/dL, ALT 377 U/L, Alk P 190 U/L], improving when switched to heparin but recurring with restarting phenprocoumon as well as with warfarin [Alk P and GGT rising within 7 days]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7836716</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.beinssen.1994.725">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Beinssen</surname><given-names>AP</given-names></name>
+</person-group>
+              <article-title>Possible coumarin hepatotoxicity.</article-title>
+              <source>Med J Aust</source>
+              <year>1994</year>
+              <volume>161</volume>
+              <fpage>725</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(50 year old woman with lymphedema after breast cancer surgery developed jaundice 7 weeks after starting coumarin [bilirubin 10.2 mg/dL, ALT 1335 U/L], but was continued on therapy until 10 weeks and suffered a protracted course of liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7794322</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.casleysmith.1995.391">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Casley-Smith</surname><given-names>JR</given-names></name>
+<name name-style="western"><surname>Casley-Smith</surname><given-names>JR</given-names></name>
+</person-group>
+              <article-title>Frequency of coumarin hepatotoxicity.</article-title>
+              <source>Med J Aust</source>
+              <year>1995</year>
+              <volume>162</volume>
+              <fpage>391</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Summary of hepatotoxicity from coumarin by members of the Lymphoedema Association of Australia; among 1106 patients in 7 clinical trials of coumarin for an average of 14.6 months, 2 developed jaundice, one of whom required liver transplantation; since licensure, 4 of an estimated 1750 exposed patients were reported with hepatotoxicity suggesting a rate of ~0.2%).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7715532</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.ehrenforth.1995.1529">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ehrenforth</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Scharrer</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Herrmann</surname><given-names>G.</given-names></name>
+</person-group>
+              <comment>[Phenprocoumon-induced necrotizing hepatitis]</comment>
+              <source>Dtsch Med Wochenschr</source>
+              <year>1995</year>
+              <volume>120</volume>
+              <fpage>1529</fpage>
+              <lpage>30</lpage>
+              <comment>German.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(55 year old woman developed jaundice 6 months after starting phenprocoumon [bilirubin 4.2 mg/dL, ALT 377 U/L, Alk P 184 U/L], resolving once switched to acenocoumarol).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7588026</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.woolley.1995.1507">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Woolley</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Burger</surname><given-names>HR</given-names></name>
+<name name-style="western"><surname>Zellweger</surname><given-names>U</given-names></name>
+</person-group>
+              <comment>[Phenprocoumon-induced cholestatic hepatitis]</comment>
+              <source>Dtsch Med Wochenschr</source>
+              <year>1995</year>
+              <volume>120</volume>
+              <fpage>1507</fpage>
+              <lpage>10</lpage>
+              <comment>German.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(78 year old woman developed jaundice 10 weeks after starting phenprocoumon that ultimately resolved, but recurred 6 weeks after restarting [bilirubin 11.5 rising to 25.6 mg/dL, ALT 714 U/L, Alk P 424 U/L], resolving upon again stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7588020</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.hautekeete.1995.223">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hautekeete</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Holvoet</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Hubens</surname><given-names>H</given-names></name>
+</person-group>
+              <article-title>Cytolytic hepatitis related to the oral anticoagulant phenprocoumon.</article-title>
+              <source>Gastroenterol Clin Biol</source>
+              <year>1995</year>
+              <volume>19</volume>
+              <fpage>223</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(32 year old man developed jaundice 6 months after starting phenprocoumon [bilirubin 7.8 rising to 40.5, ALT 71 times ULN, Alk P 1.3 times ULN], resolving with stopping, but recurring within 5 weeks of restarting and resolving upon switching to low molecular weight heparin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7750715</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.ciorciaro.1996.2109">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ciorciaro</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Hartmann</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Stoller</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Kuhn</surname><given-names>M.</given-names></name>
+</person-group>
+              <comment>[Liver injury caused by coumarin anticoagulants: experience of the IKS (Intercanton Monitoring Station) and the SANZ (Swiss Center for Drug Monitoring)]</comment>
+              <source>Schweiz Med Wochenschr</source>
+              <year>1996</year>
+              <volume>126</volume>
+              <fpage>2109</fpage>
+              <lpage>13</lpage>
+              <comment>German.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of all cases of hepatic injury reported to Swiss registry between 1981 and 1995, 11 [1.5%] of 674 cases were due to anticoagulants; 10 cases could be analyzed, 7 due to phenprocoumon and 3 to acenocoumarol; 4 with enzyme elevations only [latency 2-6 days], 6 with jaundice and hospitalization [latency 10 days to 6 years]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8999497</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.wuillemin.1997.437">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wuillemin</surname><given-names>WA</given-names></name>
+<name name-style="western"><surname>Zenh&#x000e4;ern</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Bernhard</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>L&#x000e4;le</surname><given-names>B</given-names></name>
+</person-group>
+              <article-title>Phenprocoumon-induced hepatitis delaying precise diagnosis in a thrombophilic patient with activated protein C resistance due to factor V R506Q mutation.</article-title>
+              <source>Am J Med</source>
+              <year>1997</year>
+              <volume>103</volume>
+              <fpage>437</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(38 year old woman developed jaundice 4 months after starting phenprocoumon [bilirubin 30.8 mg/dL, ALT 3330 U/L, Alk P 272 U/L], resolving in 3 months, but recurring 5 years later when phenprocoumon was restarted for 5 weeks [bilirubin 7.5 mg/dL, ALT 1724 U/L, Alk P 200], resolving in 3-5 months).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9375713</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.loprinzi.1997.3167">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Loprinzi</surname><given-names>CL</given-names></name>
+<name name-style="western"><surname>Sloan</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Kugler</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Coumarin-induced hepatotoxicity.</article-title>
+              <source>J Clin Oncol</source>
+              <year>1997</year>
+              <volume>15</volume>
+              <fpage>3167</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 138 patients enrolled in a controlled trial of coumarin [5,6-benzo-a-pyrone, not an anticoagulant] for breast cancer, 6 developed hepatotoxicity [9% on active drug], 5 with asymptomatic AST elevations and one with clinically apparent liver injury and jaundice [bilirubin 19.5 mg/dL, AST 2315 U/L, Alk P 214 U/L], 2 months after starting and resolving within 3 months of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9294482</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.ghosh.1997.348">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ghosh</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Markin</surname><given-names>RS</given-names></name>
+<name name-style="western"><surname>Sorrell</surname><given-names>MF</given-names></name>
+</person-group>
+              <article-title>Coumarin-induced hepatic necrosis.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>1997</year>
+              <volume>92</volume>
+              <fpage>348</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(66 year old man developed jaundice 3 months after starting experimental therapy with coumarin for prostate cancer [bilirubin 4.6 mg/dL, ALT 1094 U/L], but it was continued until 15 weeks when he was deeply jaundiced [bilirubin 13.9 mg/dL, ALT 936 UL, Alk P 292 U/L], resolving within 9 weeks of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9040223</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.koch.1997.223">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Koch</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Beurton</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Bresson-Hadni</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Monnot</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Hrusovsky</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Becker</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Vanlemmens</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>
+              <comment>[Acute cytolytic hepatitis caused by coumarin. 2 cases]</comment>
+              <source>Gastroenterol Clin Biol</source>
+              <year>1997</year>
+              <volume>21</volume>
+              <fpage>223</fpage>
+              <lpage>5</lpage>
+              <comment>French.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Two women, ages 40 and 45 years, developed jaundice and pruritus 5 months after starting coumarin for lymphedema [bilirubin 5.8 and 25.1 mg/dL, ALT 30 and 100 times ULN, Alk P normal], resolving within 2 months of stopping; one was restarted on coumarin and redeveloped jaundice within 3 weeks).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9161499</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.kremer_hovinga.1999.513">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kremer Hovinga</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Wuillemin</surname><given-names>WA</given-names></name>
+</person-group>
+              <comment>[Recurrent hepatitis in oral anticoagulation: coumarin-induced hepatitis]</comment>
+              <source>Ther Umsch</source>
+              <year>1999</year>
+              <volume>56</volume>
+              <fpage>513</fpage>
+              <lpage>5</lpage>
+              <comment>German.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Same case as described in English by Wuillemin with other authors [1997]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10517122</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.ehrenforth.1999.79">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ehrenforth</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Schenk</surname><given-names>JF</given-names></name>
+<name name-style="western"><surname>Scharrer</surname><given-names>I</given-names></name>
+</person-group>
+              <article-title>Liver damage induced by coumarin anticoagulants.</article-title>
+              <source>Semin Thromb Hemost</source>
+              <year>1999</year>
+              <volume>25</volume>
+              <fpage>79</fpage>
+              <lpage>83</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Two cases: first is same as described by H&#x000f6;hler [1994] with further follow up: patient could not tolerate low molecular weight heparins and was treated with acenocoumarol without recurrence; second case was 46 year old woman who had mildly raised enzymes 7 months after starting phenprocoumon [ALT 86 U/L, Alk P 171 U/L], resolving within 2 months of switching to low molecular weight heparin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10327225</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.capoferri.2000.929">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Capoferri</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Realini</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Balestra</surname><given-names>B.</given-names></name>
+</person-group>
+              <comment>[Acute necrotizing hepatitis: an unusual side effect of oral anticoagulants]</comment>
+              <source>Praxis.</source>
+              <year>2000</year>
+              <volume>89</volume>
+              <fpage>929</fpage>
+              <lpage>32</lpage>
+              <comment>German.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(76 year old woman was treated with acenocoumarol and then phenprocoumon, developing jaundice 8 months later and 2 months after starting verapamil [bilirubin 8.8 mg/dL, ALT 503 U/L, Alk P 276 U/L], resolving in 5 weeks and recurring 1 month after phenprocoumon [but not verapamil] was restarted [bilirubin 5.9 mg/dL, ALT 563 U/L, Alk P 248 U/L], resolving in 3 months and then tolerating acenocoumarol).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10859983</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.buxgewehr.2000.799">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bux-Gewehr</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Zotz</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Scharf</surname><given-names>RE</given-names></name>
+</person-group>
+              <article-title>Phenprocoumon-induced hepatitis in a patient with a combined hereditary hemostatic disorder.</article-title>
+              <source>Thromb Haemost</source>
+              <year>2000</year>
+              <volume>83</volume>
+              <fpage>799</fpage>
+              <lpage>800</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(51 year old woman developed jaundice 3 weeks after starting a second course of phenprocoumon [bilirubin 3.0 mg/dL, ALT 801 U/L, Alk P 376 U/L], resolving upon stopping and not recurring when later treated with warfarin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10823289</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.hinrichsen.2001.780">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hinrichsen</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>L&#x000fc;ttges</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Kl&#x000f6;ppel</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>F&#x000f6;lsch</surname><given-names>UR</given-names></name>
+<name name-style="western"><surname>Schmidt</surname><given-names>WE</given-names></name>
+</person-group>
+              <article-title>Idiosyncratic drug allergic phenprocoumon-induced hepatitis with subacute liver failure initially misdiagnosed as autoimmune hepatitis.</article-title>
+              <source>Scand J Gastroenterol</source>
+              <year>2001</year>
+              <volume>36</volume>
+              <fpage>780</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(46 year old woman developed jaundice 5 months after starting phenprocoumon [bilirubin 26.2 mg/dL, ALT 644 U/L, GGT 135 U/L, ANA 1:640], resolving over 4 months with prednisone therapy and recurrence of enzyme elevations 1 month after restarting [ALT 127 U/L] while still on prednisone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11444480</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.schneider.2001.457">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Schneider</surname><given-names>AR</given-names></name>
+<name name-style="western"><surname>Hartmann</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Arnold</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Bohrer</surname><given-names>MH</given-names></name>
+<name name-style="western"><surname>Riemann</surname><given-names>JF</given-names></name>
+</person-group>
+              <comment>[Phenprocoumon-induced necrotizing hepatitis]</comment>
+              <source>Dtsch Med Wochenschr</source>
+              <year>2001</year>
+              <volume>126</volume>
+              <fpage>457</fpage>
+              <lpage>9</lpage>
+              <comment>German.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(52 year old woman developed abdominal pain 7 months after starting phenprocoumon [bilirubin 1.7 mg/dL, ALT 657 U/L, GGT 117 U/L], which resolved upon stopping but recurred within 3 weeks of restarting [bilirubin 7.6 mg/dL, ALT 1170 U/L, GGT 152], resolving with prednisone therapy over next 4 months).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11360450</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.weber.2001.1060">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Weber</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Hinterreiter</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Knoflach</surname><given-names>P.</given-names></name>
+</person-group>
+              <comment>[Phenprocoumon-associated necrotizing hepatitis]</comment>
+              <source>Dtsch Med Wochenschr</source>
+              <year>2001</year>
+              <volume>126</volume>
+              <fpage>1060</fpage>
+              <comment>German.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Patient developed jaundice 2 months after starting phenprocoumon and then related having similar episode 10 years before, 7 months after starting phenprocoumon; few details given).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11565062</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.bamanikar.2002.1456">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bamanikar</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Hiremath</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Hepatotoxic reaction to warfarin in a recovering hepatitis patient with hypoalbuminenia.</article-title>
+              <source>J Assoc Physicians India</source>
+              <year>2002</year>
+              <volume>50</volume>
+              <fpage>1456</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(65 year old man developed jaundice 2 years after starting warfarin [bilirubin 11.8 mg/dL, ALT 4765 U/L, Alk P 102 U/L], resolving slowly but with worsening of jaundice when warfarin was given).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12583490</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.cordes.2003.1884">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cordes</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Vogt</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Dahm</surname><given-names>HH</given-names></name>
+<name name-style="western"><surname>Maier</surname><given-names>KP</given-names></name>
+</person-group>
+              <comment>[Phenprocoumon-induced liver failure]</comment>
+              <source>Dtsch Med Wochenschr</source>
+              <year>2003</year>
+              <volume>128</volume>
+              <fpage>1884</fpage>
+              <lpage>6</lpage>
+              <comment>German.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(61 year old woman developed jaundice 2 years after starting phenprocoumon [bilirubin 18.5 mg/dL, ALT 263 U/L, Alk P normal], with slow recovery 2-3 months after stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12970822</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.schimanski.2004.67">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Schimanski</surname><given-names>CC</given-names></name>
+<name name-style="western"><surname>Burg</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>M&#x000f6;hler</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>H&#x000f6;hler</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Kanzler</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Otto</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Galle</surname><given-names>PR</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Phenprocoumon-induced liver disease ranges from mild acute hepatitis to(sub-) acute liver failure.</article-title>
+              <source>J Hepatol</source>
+              <year>2004</year>
+              <volume>41</volume>
+              <fpage>67</fpage>
+              <lpage>74</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Between 1992 and 2002, 8 patients were seen with phenprocoumon hepatotoxicity, including 3 men and 5 women, ages 30 to 64 years, latency 3-64 months, 4 with jaundice, 2 cholestatic, 3 liver failure [1 died, 2 liver transplantation], 2 had recurrence when switched to warfarin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15246210</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.kapan.2005.252">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kapan</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kapan</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Karabicak</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Bavunoglu</surname><given-names>I</given-names></name>
+</person-group>
+              <article-title>Simultaneous rupture of the liver and spleen in a patient on warfarin therapy: report of a case.</article-title>
+              <source>Surg Today</source>
+              <year>2005</year>
+              <volume>35</volume>
+              <fpage>252</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(32 year old man developed rupture of liver and spleen 2 weeks after starting warfarin [INR 1.65, hematocrit 23%], leading to splenectomy and segmental hepatic resection).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15772800</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Davern</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Serrano</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rochon</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 300 cases of drug induced liver injury in the US collected from 2004 to 2008, none were attributed to warfarin or other anticoagulants).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Reuben</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Koch</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>WM</given-names></name>
+<collab>Acute Liver Failure Study Group</collab>
+</person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 [11%] were attributed to drug induced liver injury, but none were attributed to warfarin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.park.2013.6494">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Park</surname><given-names>IC</given-names></name>
+<name name-style="western"><surname>Baek</surname><given-names>YH</given-names></name>
+<name name-style="western"><surname>Han</surname><given-names>SY</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>SW</given-names></name>
+<name name-style="western"><surname>Chung</surname><given-names>WT</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>SW</given-names></name>
+<name name-style="western"><surname>Kang</surname><given-names>SH</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Simultaneous intrahepatic and subgaleal hemorrhage in antiphospholipid syndrome following anticoagulation therapy.</article-title>
+              <source>World J Gastroenterol</source>
+              <year>2013</year>
+              <volume>19</volume>
+              <fpage>6494</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(18 year old woman with antiphospholipid syndrome developed spontaneous intrahepatic hemorrhage after 6 years of warfarin therapy [INR 1.8, bilirubin and ALT not given, Alk P 214 U/L], recurring on restarting warfarin, but not when switched to clopidogrel and hydroxychloroquine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24151371</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Bergmann</surname><given-names>OM</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Kvaran</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Olafsson</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, none were attributed to warfarin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hern&#x000e1;ndez</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bessone</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>di Pace</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Brahm</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zapata</surname><given-names>R, A</given-names></name>
+<name name-style="western"><surname>Chirino</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, none of which were attributed to warfarin or other anticoagulants).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+</person-group>
+              <article-title>United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: the DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, no cases were attributed to warfarin, but single cases were linked to dabigatran and prasugrel).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.liakoni.2015.711">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Liakoni</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>R&#x000e4;tz Bravo</surname><given-names>AE</given-names></name>
+<name name-style="western"><surname>Kr&#x000e4;henb&#x000fc;hl</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity of new oral anticoagulants (NOACs).</article-title>
+              <source>Drug Saf</source>
+              <year>2015</year>
+              <volume>38</volume>
+              <fpage>711</fpage>
+              <lpage>20</lpage>
+              <annotation>
+                <p><italic toggle="yes">(Systematic review of evidence of hepatotoxicity of new oral anticoagulants including rivaroxaban,</italic>&#x000a0;<italic toggle="yes">apixaban</italic><italic toggle="yes">, edoxaban and dabigatran found 22 cases of liver injury due to rivaroxaban, 2 dabigatran, 2</italic>&#x000a0;<italic toggle="yes">apixaban</italic><italic toggle="yes">, but none to edoxaban).</italic></p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26138527</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.li.2015.868">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Li</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>XG</given-names></name>
+<name name-style="western"><surname>Pei</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Xu</surname><given-names>J</given-names></name>
+</person-group>
+              <comment>[Warfarin-induced autoimmune hepatitis: a case report]</comment>
+              <source>Zhonghua Gan Zang Bing Za Zhi</source>
+              <year>2015</year>
+              <volume>23</volume>
+              <fpage>868</fpage>
+              <lpage>9</lpage>
+              <comment>Chinese.</comment>
+              <pub-id pub-id-type="pmid">26743250</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.alonso.2017.834">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Alonso</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>MacLehose</surname><given-names>RF</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>LY</given-names></name>
+<name name-style="western"><surname>Bengtson</surname><given-names>LG</given-names></name>
+<name name-style="western"><surname>Chamberlain</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Norby</surname><given-names>FL</given-names></name>
+<name name-style="western"><surname>Lutsey</surname><given-names>PL</given-names></name>
+</person-group>
+              <article-title>Prospective study of oral anticoagulants and risk of liver injury in patients with atrial fibrillation.</article-title>
+              <source>Heart</source>
+              <year>2017</year>
+              <volume>103</volume>
+              <fpage>834</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p><italic toggle="yes">(Analysis of a database on more than 1 million patients with nonvalvular atrial fibrillation on anticoagulants identified 960 hospitalizations with liver injury, rates being highest for warfarin [9 per 1000 patient years], intermediate for rivaroxaban [6.6], and lowest for</italic>&#x000a0;<italic toggle="yes">apixaban [5.6]</italic>
+<italic toggle="yes">and dabigatran [4.0]).</italic></p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28057799</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.casale.2018.213">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Casale</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Picariello</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Corvino</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Cerasari</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Scianguetta</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Rossi</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Persico</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Perrotta</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Life-threatening drug-induced liver injury in a patient with &#x003b2;-thalassemia major and severe iron overload on polypharmacy.</article-title>
+              <source>Hemoglobin</source>
+              <year>2018</year>
+              <volume>42</volume>
+              <fpage>213</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(20 year old man with beta-thalassemia developed progressive weakness and jaundice 4 months after starting warfarin, carvedilol and both intravenous deferoxamine and oral deferiprone for atrial fibrillation, heart failure and iron overload [bilirubin ~11 mg/dL, ALT 146 U/L, Alk P not provided, GGT 57, INR ~16], improving slowly after stopping all medications and eventually tolerating reinstitution of deferiprone; the authors attributed the liver injury to warfarin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30251901</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.zhao.2020.1513">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zhao</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Blais</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Chui</surname><given-names>CSL</given-names></name>
+<name name-style="western"><surname>Suh</surname><given-names>IH</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>EYH</given-names></name>
+<name name-style="western"><surname>Seto</surname><given-names>WK</given-names></name>
+<name name-style="western"><surname>Mok</surname><given-names>MT</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Association between nonvitamin K antagonist oral anticoagulants or warfarin and liver injury: a cohort study.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>2020</year>
+              <volume>115</volume>
+              <fpage>1513</fpage>
+              <lpage>24</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of patients with newly diagnosed atrial fibrillation and initiation of anticoagulant therapy identified in an electronic health record database in Hong Kong over an 8 year period, identified 6849 patients treated with warfarin and a propensity matched cohort of 6849 patients treated with oral agents among who 373 [2.7%] subsequently developed evidence of liver injury, rates being higher with warfarin [3.4%] than with newer oral anticoagulants [2.1%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32467502</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Warfarin.REF.bj_rnsson.2020">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Gudmundsson</surname><given-names>DO</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+</person-group>
+              <article-title>Liver injury caused by oral anticoagulants: A population-based retrospective cohort study.</article-title>
+              <source>Liver Int</source>
+              <year>2020</year>
+              <month>Jun</month>
+              <day>8</day>
+              <comment>Epub ahead of print</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Population based analysis of persons starting anticoagulants over a 10 year period based upon national Icelandic prescription and healthcare databases, identified 3 cases of drug induced liver injury, all in elderly women, all hepatocellular, 2 with jaundice, and all due to rivaroxaban [among 3446 persons exposed: 1:1,100], but none due to warfarin [9101 exposed], apixaban [1903], dabigatran [1335], or edoxaban [34]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32511827</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Warfarin.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(warfarin/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Warfarin: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=warfarin">Trials on Warfarin: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

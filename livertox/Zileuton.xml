@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Zileuton" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Zileuton</book-part-id>
+      <title-group>
+        <title>Zileuton</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>18</day>
+          <month>7</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Zidovudine" document-type="chapter">Zidovudine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Zinc" document-type="chapter">Zinc</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Zileuton.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Zileuton.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Zileuton is an antiinflammatory leukotriene pathway inhibitor classified as an inhibitor of the enzyme 5-lipoxygenase that is used in the treatment of asthma and allergic rhinitis. Zileuton has been linked to rare cases of drug induced liver disease and is considered to be contraindicated in patients with active liver disease.</p>
+        </sec>
+        <sec id="Zileuton.Background">
+          <title>Background</title>
+          <p>Zileuton (zye loo' ton) is an inhibitor of the enzyme 5-lipoxygenase which is responsible for the conversion of arachidonic acid into leukotriene A4, a potent mediator of the inflammatory cascade that plays a central role in asthma and allergic rhinitis. Zileuton has been shown to ameliorate the symptoms of asthma and allergic rhinitis and was approved for use in the United States in 1996. Current indications include the prophylaxis and chronic treatment of asthma in adults and children 12 years of age and older. Zileuton is available in 600 mg tablets under the commercial name Zyflo. An extended release form is also available. The recommended dosage is 2400 mg daily. Common side effects include indigestion, nausea, abdominal discomfort, diarrhea, headache, insomnia and urticaria.</p>
+        </sec>
+        <sec id="Zileuton.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In premarketing studies, zileuton therapy was found to be associated with mild-to-moderate serum aminotransferase elevations. In large prospective studies, ALT elevations above 3 times the upper limit of the normal range occurred in 1.9% of patients treated with zileuton for at least one year, compared to 0.2% of placebo recipients. These elevations were usually transient, asymptomatic and rapidly reversible. However, some patients with ALT elevations reported symptoms suggestive of hepatic injury (fatigue, nausea, abdominal pain) and individual cases of clinically apparent, frank liver injury with jaundice were seen. The typical onset of liver enzyme elevations was within 4 to 8 weeks of starting zileuton, but cases arising after 6 months were also reported. In cases with jaundice, the pattern of serum enzyme elevations was hepatocellular. Immunoallergic and autoimmune features were not prominent. Recovery was rapid, usually within 1 to 2 months. Overall, however, only isolated cases of zileuton related liver injury with jaundice have been reported, and clinically apparent hepatotoxicity from it must be very rare. Results of rechallenge have not been reported. Because of the frequency of serum enzyme elevations during zileuton therapy, monitoring of serum aminotransferase levels is recommended and its use is considered contraindicated in patients with active liver disease. The lack of published reports of zileuton hepatotoxicity may be due to active monitoring for liver test abnormalities and prompt discontinuation if they persist or continue to rise. In addition, zileuton has not been as widely used clinically as montelukast or zafirlukast.</p>
+          <p>Likelihood score: D (possible rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Zileuton.Mechanism_of_Liver_Injury">
+          <title>Mechanism of Liver Injury</title>
+          <p>The mechanism of liver injury due to zileuton is unclear, however in vitro studies suggest that reactive metabolites of zileuton can covalently bind to intracellular proteins and interfere with cellular functions. Thus, the most likely mechanism of liver injury is via reactive intermediates of metabolism.</p>
+        </sec>
+        <sec id="Zileuton.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum elevations in serum aminotransferase levels which occur during zileuton therapy usually resolve rapidly (1 to 4 weeks) once therapy is stopped. Cases of clinical apparent liver injury resolve more slowly. Most instances of hepatic injury due to zileuton have been self-limited, but the potential for severe injury and hepatic failure must be considered particularly if the medication is not stopped promptly. Rechallenge may lead to recurrence and should be avoided.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="Anti-AsthmaDrugs" document-type="chapter">Antiasthmatic Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Zileuton.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Zileuton.Case_1_28_year_old_woman_with_s">
+          <title>Case 1. 28 year old woman with severe symptomatic liver injury during zileuton therapy.(<xref ref-type="bibr" rid="Zileuton.REF.1">1</xref>)</title>
+          <p>A 28 year old woman participating in a randomized controlled trial of zileuton (400 mg four times daily) versus placebo developed elevations in aminotransferase levels after 6 weeks of therapy. She reported symptoms of nausea and right upper quadrant pain. Serum bilirubin was 6.6 mg/dL, ALT 33 times the upper limit of normal (ULN), with minimal elevations in alkaline phosphatase (1.3 x ULN). Tests for viral hepatitis were negative and search for other causes of liver disease was unrevealing. The study drug was stopped, but serum bilirubin rose to 12.8 mg/dL before eventually falling to normal. Symptoms and laboratory abnormalities resolved within 35 days of stopping treatment.</p>
+          <sec id="Zileuton.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Zileuton.Tc" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Zileuton.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Zileuton.Tc_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Zileuton (400 mg four times daily)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Zileuton.Tc_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Zileuton.Tc_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Hepatocellular (R=25)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Zileuton.Tc_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Zileuton.Tc_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">2+ (jaundice without hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Zileuton.Tc_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Zileuton.Tc_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">6 weeks (jaundice, increased enzymes)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Zileuton.Tc_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Zileuton.Tc_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">35-70 days</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Zileuton.Tc_1_1_6_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Zileuton.Tc_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Zileuton.Laboratory_Values">
+            <title>Laboratory Values</title>
+          </sec>
+          <sec id="Zileuton.Comment">
+            <title>Comment</title>
+            <p>Despite being associated with a high rate of moderate-to-severe serum aminotransferase elevations, zileuton has rarely been reported to cause clinically apparent liver injury, outside of this analysis of premarketing studies of the drug. In that study, more than 2000 patients were treated with the drug, suggesting that the rate of clinically apparent liver injury with jaundice is less than 0.1%. During zileuton therapy, ALT elevations typically occurred during the first 1 to 3 months of therapy and were usually asymptomatic and self-limited. At least 15% of these elevations, however, were associated with nonspecific symptoms that might be considered liver related. The current case was the most dramatic example of injury found in the premarketing studies. The pattern of enzyme elevations was hepatocellular. Recovery was rapid with drug discontinuation.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Zileuton.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Zileuton &#x02013; Zyflo CR&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antiasthmatic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=zileuton">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Zileuton.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Zileuton.Td" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Zileuton.Td_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Zileuton.Td_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Zileuton.Td_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Zileuton.Td_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Zileuton.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Zileuton</td>
+                <td headers="hd_h_Zileuton.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135016842">111406-87-2</ext-link>
+</td>
+                <td headers="hd_h_Zileuton.Td_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C11-H12-N2-O2-S</td>
+                <td headers="hd_h_Zileuton.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135016842" document-id-type="sid" document-type="summary" object-id="135016842" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Zileuton.CITED_REFERENCE">
+        <title>CITED REFERENCE</title>
+        <ref-list id="Zileuton.CITED_REFERENCE.reflist0">
+          <ref id="Zileuton.REF.1">
+            <label>1</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Dube</surname><given-names>LM</given-names></name>
+<name name-style="western"><surname>Walton-Bowen</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Cameron</surname><given-names>CM</given-names></name>
+<name name-style="western"><surname>Kasten</surname><given-names>LE</given-names></name>
+</person-group>
+              <article-title>Clinical pattern of zileuton-associated liver injury: results of a 12-month study in patients with chronic asthma.</article-title>
+              <source>Drug Saf</source>
+              <year>2007</year>
+              <volume>30</volume>
+              <fpage>805</fpage>
+              <lpage>15</lpage>
+              <pub-id pub-id-type="pmid">17722971</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Zileuton.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 18 July 2020</p>
+        <ref-list id="Zileuton.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Zileuton.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Respiratory supportive drugs. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, p. 717.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; mentions that theophylline has been incriminated in hepatic injury rarely; no mention of montelukast, zafirlukast or zileuton).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Zileuton.REF.lewis.2013">
+            <mixed-citation publication-type="book">Lewis JH. Nonsteroidal anti-inflammatory drugs and leukotriene receptor antagonists. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013. pp. 389-90.<annotation><p><italic toggle="yes">(Expert review of liver injury caused by leukotriene receptor antagonists mentions that premarketing trials found elevations of ALT in 1.9% of zileuton- vs 0.2% of placebo-recipients and that a postmarketing study found such elevations in 4.6% vs 1.1%; yet no case reports of clinically apparent liver injury due to zileuton have been published since that time).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Zileuton.REF.barnes.2018">
+            <mixed-citation publication-type="book">Barnes PJ. Pulmonary pharmacology. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 727-49.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Zileuton.REF.israel.1996.931">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Israel</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Cohn</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Dub&#x000e9;</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Drazen</surname><given-names>JM</given-names></name>
+</person-group>
+              <article-title>Effect of treatment with zileuton, a 5-lipoxygenase inhibitor, in patients with asthma. A randomized controlled trial. Zileuton Clinical Trial Group.</article-title>
+              <source>JAMA</source>
+              <year>1996</year>
+              <volume>275</volume>
+              <fpage>931</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of zileuton vs placebo for 13 weeks in 401 patients; ALT elevations &#x0003e;3x ULN in 4% on 600 mg, 2% on 400 mg and 0% on placebo, but no patient had clinically apparent hepatitis or jaundice and peak ALT values were only 110-386 U/L).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8598621</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zileuton.REF.lazarus.1998.841">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lazarus</surname><given-names>SC</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Kemp</surname><given-names>JP</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Safety and clinical efficacy of zileuton in patients with chronic asthma.</article-title>
+              <source>Am J Manag Care</source>
+              <year>1998</year>
+              <volume>4</volume>
+              <fpage>841</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a prospective study among 2947 patients, ALT elevations &#x0003e;3x ULN occurred in 4.6% of zileuton treated compared to 1.1% placebo recipients, usually arising in the first 2-3 months; no cases of jaundice or hepatitis were reported).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10181070</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zileuton.REF.drazen.1999.197">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Drazen</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Israel</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>O&#x02019;Byrne</surname><given-names>PM</given-names></name>
+</person-group>
+              <article-title>Treatment of asthma with drugs modifying the leukotriene pathway.</article-title>
+              <source>N Engl J Med</source>
+              <year>1999</year>
+              <volume>340</volume>
+              <fpage>197</fpage>
+              <lpage>206</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review article on leukotriene pathway in asthma and rhinitis and efficacy and safety of montelukast, zafirlukast and zileuton mentions that abnormal ALT elevations can occur).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9895400</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zileuton.REF.spector.2001.18">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Spector</surname><given-names>SL</given-names></name>
+<collab>Antileukotriene Working Group</collab>
+</person-group>
+              <article-title>Safety of antileukotriene agents in asthma management.</article-title>
+              <source>Ann Allergy Asthma Immunol</source>
+              <year>2001</year>
+              <volume>86</volume>
+              <issue>6</issue>
+              <supplement>Suppl 1</supplement>
+              <fpage>18</fpage>
+              <lpage>23</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of side effects of antileukotrienes in premarketing studies mentions that ALT elevations [3 times ULN] occurred 1.4% of zafirlukast vs 1.1% of placebo recipients; in 2.1% on montelukast vs 2.0% of placebo recipients; and in 4.6% of zileuton recipients treated for a year [3 had hyperbilirubinemia] vs 1.1% of controls; but most were asymptomatic and all resolved when the medication was stopped).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11426912</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zileuton.REF.davern.2003.501">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Davern</surname><given-names>TJ</given-names></name>
+<name name-style="western"><surname>Bass</surname><given-names>NM</given-names></name>
+</person-group>
+              <article-title>Leukotriene antagonists.</article-title>
+              <source>Clin Liver Dis</source>
+              <year>2003</year>
+              <volume>7</volume>
+              <fpage>501</fpage>
+              <lpage>12</lpage>
+              <comment>viii.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of literature on hepatotoxicity of leukotriene inhibitors; in premarketing studies, 1.5% of 4058 of zafirlukast vs 1.1% of placebo recipients had ALT elevations, none serious and all transient; review of literature identified 9 cases of zafirlukast hepatotoxicity, 7 with jaundice, 3 with rash and eosinophilia, arising after 1.5 to 13 months, with liver transplantation required in two).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12879996</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zileuton.REF.russo.2004.1018">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Russo</surname><given-names>MW</given-names></name>
+<name name-style="western"><surname>Galanko</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Shrestha</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Fried</surname><given-names>MW</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>P</given-names></name>
+</person-group>
+              <article-title>Liver transplantation for acute liver failure from drug-induced liver injury in the United States.</article-title>
+              <source>Liver Transpl</source>
+              <year>2004</year>
+              <volume>10</volume>
+              <fpage>1018</fpage>
+              <lpage>23</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among ~50,000 liver transplants done in the US between 1990 and 2002, 137 [0.2%] were done for idiosyncratic drug induced acute liver failure; one case was attributed to zafirlukast, but no other antiasthma medications were mentioned).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15390328</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zileuton.REF.joshi.2004.137">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Joshi</surname><given-names>EM</given-names></name>
+<name name-style="western"><surname>Heasley</surname><given-names>BH</given-names></name>
+<name name-style="western"><surname>Chordia</surname><given-names>MD</given-names></name>
+<name name-style="western"><surname>Macdonald</surname><given-names>TL</given-names></name>
+</person-group>
+              <article-title>In vitro metabolism of 2-acetylbenzothiophene: relevance to zileuton hepatotoxicity.</article-title>
+              <source>Chem Res Toxicol</source>
+              <year>2004</year>
+              <volume>17</volume>
+              <fpage>137</fpage>
+              <lpage>43</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In vitro studies revealed potential toxic intermediate of zileuton metabolism by liver microsomes: oxidative bioactivation of 2-ABT).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14967000</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zileuton.REF.watkins.2007.805">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Dube</surname><given-names>LM</given-names></name>
+<name name-style="western"><surname>Walton-Bowen</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Cameron</surname><given-names>CM</given-names></name>
+<name name-style="western"><surname>Kasten</surname><given-names>LE</given-names></name>
+</person-group>
+              <article-title>Clinical pattern of zileuton-associated liver injury: results of a 12-month study in patients with chronic asthma.</article-title>
+              <source>Drug Saf</source>
+              <year>2007</year>
+              <volume>30</volume>
+              <fpage>805</fpage>
+              <lpage>15</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Further analysis of liver test results from study reported by Lazarus et al. [Am J Managed Care 1998]; ALT elevations of &#x0003e;3 times ULN occurred in 4.2% of zileuton vs 1.1% of placebo recipients; were &#x0003e;8 times ULN in 1.3% vs 0.2%; and &#x0003e;15 times ULN in 0.4% vs 0%; 70 of 109 episodes of ALT elevation began in the first 3 months of therapy, 16% were symptomatic, 2% were associated with bilirubin elevations &#x0003e;1.5 mg/dL).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17722971</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zileuton.REF.wenzel.2007.305">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wenzel</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Busse</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Calhoun</surname><given-names>W</given-names></name>
+<etal/>
+</person-group>
+              <article-title>The safety and efficacy of zileuton controlled-release tablets as adjunctive therapy to usual care in the treatment of moderate persistent asthma: a 6-month randomized controlled study.</article-title>
+              <source>J Asthma</source>
+              <year>2007</year>
+              <volume>44</volume>
+              <fpage>305</fpage>
+              <lpage>10</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Prospective trial of controlled release zileuton [n=619] vs placebo [n=307] for 6 months in patients with asthma found ALT elevations [&#x0003e;3x ULN] in 11 zileuton [1.8%] vs 2 on placebo [0.7%]; most ALT elevations within first 3 months, one had increased bilirubin; all evidently resolved).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17530530</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zileuton.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Davern</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Serrano</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rochon</surname><given-names>J</given-names></name>
+<collab>Drug Induced Liver Injury Network (DILIN)</collab>
+</person-group>
+              <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, none were attributed to an antiasthma medication).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zileuton.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Reuben</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Koch</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>WM</given-names></name>
+<collab>Acute Liver Failure Study Group</collab>
+</person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury including 1 due to zafirlukast, but none were due to montelukast or zileuton).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zileuton.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Bergmann</surname><given-names>OM</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Kvaran</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Olafsson</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none were attributed to zileuton or other antiasthma medications).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zileuton.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hern&#x000e1;ndez</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bessone</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>di Pace</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Brahm</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zapata</surname><given-names>R, A</given-names></name>
+<name name-style="western"><surname>Chirino</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, none of which were attributed to zileuton or any other medications for asthma).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zileuton.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 4 cases [&#x0003c;1%] were attributed to medications for asthma, all due to montelukast and none to xanthine derivatives, zafirlukast or zileuton).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Zileuton.REF19">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for asthma.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2017</year>
+              <volume>59</volume>
+              <issue>1528</issue>
+              <fpage>139</fpage>
+              <lpage>46</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of medications used for asthma including the leukotriene modifiers; mentions that&#x000a0;zileuton and zafirlukast have been reported to cause life-threatening hepatic injury and that monitoring of liver tests during therapy is recommended).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28880849</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Zileuton.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Zileuton/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Zileuton: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Zileuton">Trials on Zileuton: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

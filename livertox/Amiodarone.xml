@@ -1,0 +1,1389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Amiodarone" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Amiodarone</book-part-id>
+      <title-group>
+        <title>Amiodarone</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>1</day>
+          <month>3</month>
+          <year>2016</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Aminoglycosides" document-type="chapter">Aminoglycosides</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Amisulpride" document-type="chapter">Amisulpride: Short Chapter</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Amiodarone.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Amiodarone.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Amiodarone is a potent arrhythmia suppressing agent that has been clearly linked to several distinct forms of drug induced liver disease.</p>
+        </sec>
+        <sec id="Amiodarone.Background">
+          <title>Background</title>
+          <p>Amiodarone (a" mee oh' da rone) is an iodinated benzofuran derivative that is a structural analogue of thyroid hormone. Amiodarone may interact with thyroid nuclear receptors, but its antiarrhythmic effects are believed to be mediated by its action in blocking membrane ion channels via perturbation of the lipid environment in the membrane bilayer. Amiodarone is highly lipophilic and is concentrated in many tissues and cells, including hepatocytes in the liver. It has a slow onset of action and a long but variable elimination half life (up to 6 months) and can accumulate in tissues including hepatocytes. Amiodarone is highly effective in suppressing ventricular arrhythmias and in maintaining sinus rhythm in patients with atrial fibrillation. Amiodarone was first approved for use in the United States in 1985 and it is still widely used with several million prescriptions written yearly. Approved indications are limited to recurrent ventricular arrhythmias which have not responded to other available antiarrhythmics. Amiodarone is also used off-label for suppression of atrial fibrillation and maintenance of normal sinus rhythm after cardioversion. Amiodarone is available in tablets of 200 and 400 mg in generic forms and under the brand names of Cordarone and Pacerone. It is also available in solution for intravenous administration. Amiodarone is typically given in high loading doses of 800 to 1600 mg daily, either intravenously or orally until the arrhythmia is controlled, and as maintenance oral doses for long term therapy of 200 to 600 mg daily. Liver toxicity appears to be more common with higher doses. Amiodarone has multiple adverse side effects including fatigue, tremor, involuntary movements, poor coordination, peripheral neuropathy, nausea, vomiting, constipation, anorexia, visual disturbances, corneal deposits, skin discoloration and rash, photosensitivity, bradycardia, and worsening of arrhythmias. Uncommon side effects include pneumonitis, pulmonary fibrosis, optic neuropathy, blindness, thyroid dysfunction and liver injury.</p>
+        </sec>
+        <sec id="Amiodarone.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>While liver injury from amiodarone is uncommon but not rare. Serum enzyme elevations are reported to occur in 15% to 50% of patients on long term therapy, but with lower doses (200 to 300 mg daily), ALT elevations are less common. Often these elevations resolve despite continuation of amiodarone, and liver biopsy may reveal minimal changes, or accumulation of granular material in macrophages without other evidence of injury. Patients taking amiodarone are recommended to have ALT and AST values taken at baseline and then every six months, and to discontinue therapy if levels are persistently greater than twice the upper limit of the normal range. The efficacy of this approach, even if followed, in preventing serious liver injury from amiodarone is unclear.</p>
+          <p>Clinically apparent liver disease arises in up to 1% of amiodarone treated patients annually. The liver injury occurs more frequently with higher doses and prolonged therapy, and total cumulative dosage may be important as amiodarone can accumulate and can persist in liver tissue, even long after therapy is stopped. Typically, patients develop symptoms of fatigue, nausea and weight loss without jaundice and are found to have hepatomegaly and mild-to-moderate elevations in serum aminotransferase and alkaline phosphatase levels. Jaundice can occur but is mild; however, with severe injury, jaundice can progress and there may be prolongation of the prothrombin time and fall in serum albumin levels, and development of signs and symptoms of end stage liver disease with progressive weakness, weight loss, ascites, and hepatic encephalopathy (Cases 1 and 2). The injury resembles alcoholic liver disease clinically and histologically, although serum ALT and AST are usually elevated to a similar degree in amiodarone toxicity in contrast to alcoholic liver injury. Like in alcoholic liver disease, the ALT elevations are generally modest with normal or minimally elevated alkaline phosphatase levels. However, the pattern of enzyme elevations can vary from marked ALT elevations in a hepatocellular injury pattern, to minimal ALT increases with more prominent alkaline phosphatase elevations in a cholestatic pattern. The injury resolves slowly after stopping therapy and in some cases progresses for a period despite discontinuation. Liver biopsy shows variable findings; early there is micro- and macrovesicular fat, ballooning degeneration, and mild inflammation, whereas later there is moderate inflammation (sometimes granulomatous) and variable amounts of fibrosis and Mallory bodies but little steatosis. Electron microscopy reveals characteristic abnormal mitochondria and phospholipid laden lysosomes (seen on light microscopy as granular cells), but these changes can be observed even in the absence of significant liver injury. The liver is often bright on CT scan without contrast, due to accumulation of the iodinated drug and not necessarily indicating liver injury. Amiodarone and its derivatives can be detected in plasma and in hepatic tissue, and these levels may remain high for months if not years after stopping.</p>
+          <p>Amiodarone has also been associated with rare cases of Reye Syndrome, usually arising in a child on chronic amiodarone therapy who develops an acute viral syndrome suggesting influenza. Amiodarone, like aspirin, has been shown to interfere with mitochondrial function, which may be the basis for the acute injury resembling Reye syndrome in susceptible children.</p>
+          <p>Finally, amiodarone is capable of causing a distinctly different form of liver injury when it is given intravenously, particularly if given in high doses to elderly or frail patients (Cases 3 and 4). Serum ALT and AST can be markedly elevated (10 to 100 fold) within a day of the infusion, with minimal increases in alkaline phosphatase. Renal insufficiency can also occur. Usually, the liver injury reverses quickly with stopping the infusion, with ALT and AST falling into the normal range within days. In rare instances, jaundice and even acute liver failure have occurred shortly after initiating intravenous amiodarone therapy. Importantly, the mechanism of injury in this acute situation is probably different than in chronic exposure, and patients with acute hepatic injury following intravenous infusions of amiodarone can usually tolerate oral therapy without complications. However, reexposure to intravenous amiodarone is usually followed by reappearance of the acute injury.</p>
+          <p>Likelihood score: A (well established cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Amiodarone.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of amiodarone hepatotoxicity appears to be direct damage to lipid bilayers and disturbance of lysosomal and/or mitochondrial function. Amiodarone appears to be potent inhibitor of phospholipase A accounting for the accumulation of lipid-rich material in lysosomes. The pattern of injury also suggests mitochondrial injury and dysfunction with resulting microvesicular fat and ballooning degeneration, which leads to fibrosis and Mallory body formation. The acute liver injury from intravenous amiodarone has been variously attributed to idiosyncratic toxicity, hypersensitivity and toxicity of the vehicle (polysorbate 80). Autopsy material from patients with the acute hepatic injury after intravenous amiodarone shows centrolobular necrosis and collapse with minimal inflammation and no appreciable fat, changes that are suggestive of ischemic hepatitis. Because amiodarone is often used in patients with advanced heart disease, the cause of the acute liver injury may be hypotension caused by the infusion rather than a direct effect of the drug.</p>
+        </sec>
+        <sec id="Amiodarone.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The liver injury caused by amiodarone can be severe and lead to liver failure and death. The acute injury with intravenous infusions can cause an acute liver failure, but is usually transient and reverses rapidly. In contrast, the chronic injury that occurs with long term oral amiodarone therapy typically is prolonged and resolves slowly over months. Indeed, some patients are left with permanent injury, with findings of hepatomegaly and inactive cirrhosis. Amiodarone therapy should be discontinued if there is any clinical evidence of hepatic injury or symptoms (hepatomegaly, weakness, ascites, jaundice) or if serum aminotransferase activities are consistently elevated more than five times the upper limit of normal. In situations in which amiodarone is considered life sustaining, liver biopsy can guide whether the medication should be discontinued or not. There are no specific therapies or antidotes for amiodarone toxicity.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntiarrhythmicAgents">Antiarrhythmic Agents</related-object></p>
+          <p>See also: <related-object source-id="livertox" document-id="Dronedarone">Dronedarone</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Amiodarone.CASE_REPORTS">
+        <title>CASE REPORTS</title>
+        <sec id="Amiodarone.Case_1._Cirrhosis_and_end_sta">
+          <title>Case 1. Cirrhosis and end stage liver disease from long term therapy with amiodarone.</title>
+          <p>[Modified from a case in the database of the Drug-Induced Liver Injury Network]</p>
+          <p>A 62 year old man with chronic heart disease and a history of ventricular arrhythmias had been treated with amiodarone for almost 9 years, when he presented with progressive weakness, abdominal discomfort and jaundice. He had had several episodes of raised serum aminotransferase levels while on long term amiodarone, but had never been jaundiced. He had no risk factors for viral hepatitis and did not drink alcohol. His weight was normal with a body mass index of 23. He had multiple serious medication problems including coronary artery disease, hypertension, congestive heart failure, emphysema, pulmonary hypertension, hypercholesterolemia, mild renal insufficiency, migraine headaches, cholelithiasis and ulcerative colitis for which he received multiple medications listed below. The dose of amiodarone had varied from 150 to 1000 mg daily, but averaged 400 mg daily for the previous several years. On presentation, his total serum bilirubin was 3.0 with direct 2.0 mg/dL, ALT 781 U/L, AST 734 U/L and alkaline phosphatase 119 U/L. The prothrombin time was initially normal but serum albumin was low at 2.9 g/dL. Tests for hepatitis A, B and C were negative; he had a high titer of antinuclear antibody (1:640) but no mitochondrial antibody. Ultrasound showed hepatosplenomegaly and a small amount of ascites. A liver biopsy showed micronodular cirrhosis with ballooning degeneration of hepatocytes and Mallory bodies, but little steatosis. Amiodarone was stopped and his aminotransferase levels fell rapidly. Nevertheless, he continued to deteriorate over the next month with bilirubin rising to 7.6 mg/dL, albumin falling to 2.2 g/dL and prothrombin time rising to 23.3 seconds. He developed progressive obtundation and died approximately 8 weeks after stopping amiodarone.</p>
+          <sec id="Amiodarone.Key_Points1">
+            <title>Key Points</title>
+            <table-wrap id="Amiodarone.T1" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Amiodarone (averaging 400 mg daily)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Amiodarone.T1_1_1_2_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Amiodarone.T1_1_1_2_1" rowspan="1" colspan="1">Hepatocellular (R=13.1)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Amiodarone.T1_1_1_3_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Amiodarone.T1_1_1_3_1" rowspan="1" colspan="1">5+ (liver failure and death within 6 months of diagnosis)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Amiodarone.T1_1_1_4_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Amiodarone.T1_1_1_4_1" rowspan="1" colspan="1">9 years</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Amiodarone.T1_1_1_5_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Amiodarone.T1_1_1_5_1" rowspan="1" colspan="1">Died of progressive hepatic insufficiency</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Amiodarone.T1_1_1_6_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Amiodarone.T1_1_1_6_1" rowspan="1" colspan="1">Carvedilol, enalopril, spironolactone, pravastatin, esomeprazole, azathioprine, mesalamine, temazepam, iron, epoetin, thiamine, and multivitamins</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Amiodarone.Laboratory_Values1">
+            <title>Laboratory Values</title>
+            <table-wrap id="Amiodarone.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Amiodarone.T2_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Amiodarone.T2_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Amiodarone.T2_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Amiodarone.T2_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Amiodarone.T2_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Amiodarone.T2_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_1" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_3" rowspan="1" colspan="1">49</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_4" rowspan="1" colspan="1">80</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_5" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_1" rowspan="1" colspan="1">1 year</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_3" rowspan="1" colspan="1">67</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_4" rowspan="1" colspan="1">114</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_5" rowspan="1" colspan="1">0.6</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_1" rowspan="1" colspan="1">5 years</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_3" rowspan="1" colspan="1">40</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_4" rowspan="1" colspan="1">80</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_5" rowspan="1" colspan="1">1.0</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_1" rowspan="1" colspan="1">6 years</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_3" rowspan="1" colspan="1">48</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_4" rowspan="1" colspan="1">96</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_5" rowspan="1" colspan="1">1.2</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_1" rowspan="1" colspan="1">7 years</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_3" rowspan="1" colspan="1">123</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_4" rowspan="1" colspan="1">111</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_5" rowspan="1" colspan="1">0.8</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_1" rowspan="1" colspan="1">8 years</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_3" rowspan="1" colspan="1">42</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_4" rowspan="1" colspan="1">89</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_5" rowspan="1" colspan="1">1.3</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_6" rowspan="1" colspan="1">Protime normal</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_1" rowspan="1" colspan="1">8.5 years</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_3" rowspan="1" colspan="1">781</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_4" rowspan="1" colspan="1">119</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_5" rowspan="1" colspan="1">3.0</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_6" rowspan="1" colspan="1">Albumin 2.9 g/dL</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_1 hd_h_Amiodarone.T2_1_1_1_2 hd_h_Amiodarone.T2_1_1_1_3 hd_h_Amiodarone.T2_1_1_1_4 hd_h_Amiodarone.T2_1_1_1_5 hd_h_Amiodarone.T2_1_1_1_6" colspan="6" rowspan="1">Amiodarone stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_2" rowspan="1" colspan="1">3 days</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_3" rowspan="1" colspan="1">477</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_4" rowspan="1" colspan="1">111</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_5" rowspan="1" colspan="1">2.8</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_6" rowspan="1" colspan="1">Liver biopsy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_2" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_3" rowspan="1" colspan="1">281</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_4" rowspan="1" colspan="1">110</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_5" rowspan="1" colspan="1">2.1</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_6" rowspan="1" colspan="1">ANA 1:640</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_2" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_3" rowspan="1" colspan="1">100</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_4" rowspan="1" colspan="1">167</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_5" rowspan="1" colspan="1">5.6</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_2" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_3" rowspan="1" colspan="1">74</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_4" rowspan="1" colspan="1">156</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_5" rowspan="1" colspan="1">7.6</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_6" rowspan="1" colspan="1">Protime 23.3 sec</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_2" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_3 hd_h_Amiodarone.T2_1_1_1_4 hd_h_Amiodarone.T2_1_1_1_5 hd_h_Amiodarone.T2_1_1_1_6" colspan="4" rowspan="1">Died of hepatic failure</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_1 hd_h_Amiodarone.T2_1_1_1_2" colspan="2" rowspan="1"><bold>Normal</bold>
+<bold>Values</bold></td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;42</bold>
+</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;115</bold>
+</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Amiodarone.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Amiodarone.Comment1">
+            <title>Comment</title>
+            <p>The history and clinical presentation were typical of chronic liver disease and cirrhosis due to long term amiodarone therapy. Also typical was the complexity of the underlying illness and multitude of other medical problems and drug exposures. During therapy the patient had mild elevations in serum aminotransferase levels with occasional periods of marked activity and mild jaundice, but these were self limited and did not result in interruption of therapy. Indeed, a liver biopsy had been done at the time of a cholecystectomy after 6 years of amiodarone therapy that showed mild degrees of zone 3 (centrolobular) necrosis with minimal sinusoidal fibrosis, which was attributed to hypotension and congestive heart failure. There was no evidence of cirrhosis, inflammation or fat. Two years later he developed progressive weakness and jaundice and had marked elevations in ALT and AST. A liver biopsy showed changes that were typical of amiodarone hepatotoxicity: micronodular cirrhosis with ballooning degeneration of hepatocytes and Mallory bodies. Despite stopping amiodarone once the liver injury was identified, this patient suffered from progressive hepatic failure and died approximately 8 weeks later. Recovery from amiodarone hepatotoxicity is slow and patients such as this one may have a period of worsening after stopping therapy. While chronic alcoholism and obesity are mentioned as risk factors for developing amiodarone toxicity, many patients, such as in the case above, develop severe liver injury without either of these risk factors for fatty liver disease and cirrhosis. The periodic marked elevations in serum aminotransferase levels may represent periodic worsening of amiodarone hepatotoxicity or intermittent episodes of ischemic hepatic injury due to acute on chronic heart failure.</p>
+          </sec>
+        </sec>
+        <sec id="Amiodarone.Case_2._Cirrhosis_with_decomp">
+          <title>Case 2. Cirrhosis with decompensation but ultimate recovery from long term therapy with amiodarone.</title>
+          <p>[Modified from a case from the National Institutes of Health Clinical Center]</p>
+          <p>A 73 year old man who was treated with amiodarone for atrial fibrillation developed fatigue and was found to have liver disease and cirrhosis. He had a long history of moderate social alcohol intake and obesity and was known to have minor elevations in serum aminotransferase levels, which were attributed to alcohol. During a period of stress, he developed atrial fibrillation without other signs of heart disease. After unsuccessful cardioversion, he was placed on amiodarone (300 mg daily). Within six months he noted the onset of worsening fatigue, weakness, weight loss, and increased need for sleep. On examination, he had an enlarged and firm liver with mild hepatic encephalopathy, asterixis and fetor hepaticus. Serum aminotransferase levels were minimally abnormal and bilirubin remained less than 2.0 mg/dL. Serum ammonia levels were high. A liver biopsy was initially intrepreted as showing alcoholic cirrhosis, but on review by expert hepatic pathologists the presence of granulomas, the frequency of Mallory bodies and the minimal fatty change suggested amiodarone hepatotoxicity. Both alcohol intake and amiodarone were stopped and he recovered. Mild episodes of hepatic encephalopathy were treated with lactulose, but three years later he was without symptoms, working full time and liver tests were normal.</p>
+          <sec id="Amiodarone.Key_Points2">
+            <title>Key Points</title>
+            <table-wrap id="Amiodarone.T3" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Amiodarone.T3_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Amiodarone</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Amiodarone.T3_1_1_1_1" id="hd_b_Amiodarone.T3_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Amiodarone.T3_1_1_1_1" rowspan="1" colspan="1">Hepatocellular (minimal elevations)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Amiodarone.T3_1_1_1_1" id="hd_b_Amiodarone.T3_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Amiodarone.T3_1_1_2_1" rowspan="1" colspan="1">4+ (cirrhosis and hepatic decompensation)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Amiodarone.T3_1_1_1_1" id="hd_b_Amiodarone.T3_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Amiodarone.T3_1_1_3_1" rowspan="1" colspan="1">6 months</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Amiodarone.T3_1_1_1_1" id="hd_b_Amiodarone.T3_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Amiodarone.T3_1_1_4_1" rowspan="1" colspan="1">Months</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Amiodarone.T3_1_1_1_1" id="hd_b_Amiodarone.T3_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Amiodarone.T3_1_1_5_1" rowspan="1" colspan="1">Multivitamins</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Amiodarone.Laboratory_Values2">
+            <title>Laboratory Values</title>
+            <table-wrap id="Amiodarone.T4" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Amiodarone.T4_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Amiodarone.T4_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Amiodarone.T4_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Amiodarone.T4_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Amiodarone.T4_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Amiodarone.T4_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_1" rowspan="1" colspan="1">-3 months</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_3" rowspan="1" colspan="1">56</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_5" rowspan="1" colspan="1">0.9</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_1" rowspan="1" colspan="1">-1 month</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_3" rowspan="1" colspan="1">34</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_4" rowspan="1" colspan="1">102</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_5" rowspan="1" colspan="1">0.6</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_1 hd_h_Amiodarone.T4_1_1_1_2 hd_h_Amiodarone.T4_1_1_1_3 hd_h_Amiodarone.T4_1_1_1_4 hd_h_Amiodarone.T4_1_1_1_5 hd_h_Amiodarone.T4_1_1_1_6" colspan="6" rowspan="1">Amiodarone started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_1" rowspan="1" colspan="1">2 months</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_3" rowspan="1" colspan="1">96</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_4" rowspan="1" colspan="1">98</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_5" rowspan="1" colspan="1">0.9</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_1" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_3" rowspan="1" colspan="1">67</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_4" rowspan="1" colspan="1">115</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_5" rowspan="1" colspan="1">1.7</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_6" rowspan="1" colspan="1">Liver biopsy: cirrhosis</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_1 hd_h_Amiodarone.T4_1_1_1_2 hd_h_Amiodarone.T4_1_1_1_3 hd_h_Amiodarone.T4_1_1_1_4 hd_h_Amiodarone.T4_1_1_1_5 hd_h_Amiodarone.T4_1_1_1_6" colspan="6" rowspan="1">Amiodarone stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_2" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_3" rowspan="1" colspan="1">37</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_4" rowspan="1" colspan="1">114</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_5" rowspan="1" colspan="1">1.3</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_6" rowspan="1" colspan="1">Protime 14.5 sec</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_2" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_3" rowspan="1" colspan="1">39</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_4" rowspan="1" colspan="1">102</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_5" rowspan="1" colspan="1">1.7</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_2" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_3" rowspan="1" colspan="1">26</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_4" rowspan="1" colspan="1">78</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_5" rowspan="1" colspan="1">1.6</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_6" rowspan="1" colspan="1">Ammonia=96 &#x000b5;mol</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_2" rowspan="1" colspan="1">12 weeks</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_3" rowspan="1" colspan="1">20</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_4" rowspan="1" colspan="1">80</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_5" rowspan="1" colspan="1">1.3</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_2" rowspan="1" colspan="1">3 years</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_3" rowspan="1" colspan="1">15</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_4" rowspan="1" colspan="1">81</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_5" rowspan="1" colspan="1">1.3</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_1 hd_h_Amiodarone.T4_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;42</bold>
+</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;115</bold>
+</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Amiodarone.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Amiodarone.Comment2">
+            <title>Comment</title>
+            <p>The history and presentation were typical of liver injury from long term amiodarone therapy, but the history of moderate alcohol intake (2 to 5 drinks per day) and obesity made the diagnosis difficult. The quality of the inflammation, relative lack of steatosis and frequency of Mallory bodies on liver biopsy suggested amiodarone induced liver disease and led to its discontinuation. Also typical were the minimal abnormalities in laboratory tests (ALT, AST, and alkaline phosphatase). Laboratory tests improved rapidly but signs of underlying cirrhosis persisted as did mild hepatic encephalopathy. Amiodarone should probably be avoided in patients with heavy alcohol intake or with any evidence of underlying fatty liver disease.</p>
+          </sec>
+        </sec>
+        <sec id="Amiodarone.Case_3._Acute_hepatocellular_">
+          <title>Case 3. Acute hepatocellular injury from high dose intravenous amiodarone therapy.</title>
+          <p>[Modified from Case 1, from: Pye E, Northcote RJ, Cobbe SM. Acute hepatitis after parenteral amiodarone administration. Br Heart J 1988; 59: 690-1.]</p>
+          <p>A 48 year old woman with valvular heart disease and atrial fibrillation was treated with intravenous amiodarone and developed acute elevations in serum aminotransferase levels and mild jaundice that reversed rapidly. She had undergone both mitral and aortic valve replacement in the past and had chronic congestive heart failure that was worsened by the onset of rapid atrial fibrillation. After several days of monitoring she was given amiodarone using a bolus dose of 300 mg and then 900 mg daily. Discontinuation of amiodarone was followed by rapid fall of serum aminotransferase levels to pretreatment values.</p>
+          <sec id="Amiodarone.Key_Points3">
+            <title>Key Points</title>
+            <table-wrap id="Amiodarone.T5" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Amiodarone.T5_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Amiodarone (iv: total dose 2100 mg over two days)</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Amiodarone.T5_1_1_1_1" id="hd_b_Amiodarone.T5_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Amiodarone.T5_1_1_1_1" rowspan="1" colspan="1">Hepatocellular (R=13.1)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Amiodarone.T5_1_1_1_1" id="hd_b_Amiodarone.T5_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Amiodarone.T5_1_1_2_1" rowspan="1" colspan="1">3+ (ALT elevations with jaundice and prolongation of hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Amiodarone.T5_1_1_1_1" id="hd_b_Amiodarone.T5_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Amiodarone.T5_1_1_3_1" rowspan="1" colspan="1">1 day</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Amiodarone.T5_1_1_1_1" id="hd_b_Amiodarone.T5_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Amiodarone.T5_1_1_4_1" rowspan="1" colspan="1">One to two weeks</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Amiodarone.T5_1_1_1_1" id="hd_b_Amiodarone.T5_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Amiodarone.T5_1_1_5_1" rowspan="1" colspan="1">Digoxin, verapamil, others not given</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Amiodarone.Laboratory_Values3">
+            <title>Laboratory Values</title>
+            <table-wrap id="Amiodarone.T6" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Amiodarone.T6_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Amiodarone.T6_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Amiodarone.T6_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Amiodarone.T6_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Amiodarone.T6_1_1_1_5" rowspan="1" colspan="1">Bilirubin* (mg/dL)</th>
+                    <th id="hd_h_Amiodarone.T6_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_1" rowspan="1" colspan="1">-3 days</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_3" rowspan="1" colspan="1">45</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_4" rowspan="1" colspan="1">145</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_5" rowspan="1" colspan="1">2.0</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_1" rowspan="1" colspan="1">-1 days</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_3" rowspan="1" colspan="1">22</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_4" rowspan="1" colspan="1">150</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_5" rowspan="1" colspan="1">1.8</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_1" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_3" rowspan="1" colspan="1">28</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_4" rowspan="1" colspan="1">185</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_5" rowspan="1" colspan="1">1.8</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_6" rowspan="1" colspan="1">Amiodarone started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_1" rowspan="1" colspan="1">1 day</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_3" rowspan="1" colspan="1">580</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_4" rowspan="1" colspan="1">150</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_5" rowspan="1" colspan="1">3.8</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_1" rowspan="1" colspan="1">2 day</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_3" rowspan="1" colspan="1">1770</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_4" rowspan="1" colspan="1">140</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_5" rowspan="1" colspan="1">9.1</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_6" rowspan="1" colspan="1">Amiodarone stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_2" rowspan="1" colspan="1">1 days</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_3" rowspan="1" colspan="1">1450</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_4" rowspan="1" colspan="1">140</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_5" rowspan="1" colspan="1">8.5</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_6" rowspan="1" colspan="1">Viral markers negative</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_2" rowspan="1" colspan="1">2 days</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_3" rowspan="1" colspan="1">740</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_4" rowspan="1" colspan="1">160</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_5" rowspan="1" colspan="1">5.9</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_6" rowspan="1" colspan="1">Autoantibodies negative</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_2" rowspan="1" colspan="1">3 days</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_3" rowspan="1" colspan="1">700</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_4" rowspan="1" colspan="1">156</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_5" rowspan="1" colspan="1">4.7</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_2" rowspan="1" colspan="1">5 days</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_3" rowspan="1" colspan="1">320</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_4" rowspan="1" colspan="1">170</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_5" rowspan="1" colspan="1">3.2</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_1" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_2" rowspan="1" colspan="1">10 days</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_3" rowspan="1" colspan="1">50</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_4" rowspan="1" colspan="1">120</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_5" rowspan="1" colspan="1">1.5</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_1 hd_h_Amiodarone.T6_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;55</bold>
+</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;280</bold>
+</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Amiodarone.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <p>* Converted from &#x000b5;mol.</p>
+          </sec>
+          <sec id="Amiodarone.Comment3">
+            <title>Comment</title>
+            <p>The patient experienced a marked rise in serum aminotransferase levels and appearance of jaundice within a day of starting intravenous amiodarone for atrial fibrillation. This patient probably had underlying chronic liver disease from chronic right heart failure as shown by the slight elevations in bilirubin and ALT levels before amiodarone therapy. Thus, amiodarone acute hepatic injury may occur predominantly in patients with an underlying degree of liver injury from heart failure and ischemia.</p>
+          </sec>
+        </sec>
+        <sec id="Amiodarone.Case_4._Acute_hepatocellular_">
+          <title>Case 4. Acute hepatocellular injury from high dose intravenous amiodarone therapy.</title>
+          <p>[Modified from: Rhodes A, Eastwood JB, Smith SA. Early acute hepatitis with parenteral amiodarone: a toxic effect of the vehicle? Gut 1993; 34: 565-6]</p>
+          <p>A 72 year old man with ischemic heart disease and multiple ventricular tachyarrhythmias developed acute hepatic injury within hours of receiving intravenous amiodarone. He had chronic congestive heart failure and suffered three sustained episodes of ventricular tachycardia and hypotension while in the hospital. He was given 1200 mg of intravenous amiodarone over a 24 hour period. Within 12 hours of starting amiodarone, ALT levels rose. Stopping therapy led to rapid improvements in blood test results, and treatment with oral amiodarone was tolerated without further injury.</p>
+          <sec id="Amiodarone.Key_Points4">
+            <title>Key Points</title>
+            <table-wrap id="Amiodarone.T7" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Amiodarone (iv: total dose 1200 mg)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Amiodarone.T7_1_1_2_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Amiodarone.T7_1_1_2_1" rowspan="1" colspan="1">Hepatocellular (R=13.1)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Amiodarone.T7_1_1_3_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Amiodarone.T7_1_1_3_1" rowspan="1" colspan="1">1+ (ALT elevations without jaundice)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Amiodarone.T7_1_1_4_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Amiodarone.T7_1_1_4_1" rowspan="1" colspan="1">1 day</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Amiodarone.T7_1_1_5_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Amiodarone.T7_1_1_5_1" rowspan="1" colspan="1">Several weeks</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Amiodarone.T7_1_1_6_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Amiodarone.T7_1_1_6_1" rowspan="1" colspan="1">Not given</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Amiodarone.Laboratory_Values4">
+            <title>Laboratory Values</title>
+            <table-wrap id="Amiodarone.T8" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Amiodarone.T8_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Amiodarone.T8_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Amiodarone.T8_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Amiodarone.T8_1_1_1_4" rowspan="1" colspan="1">LDH (U/L)</th>
+                    <th id="hd_h_Amiodarone.T8_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Amiodarone.T8_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_1" rowspan="1" colspan="1">-1 day</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_3" rowspan="1" colspan="1">69</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_4" rowspan="1" colspan="1">167</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_5" rowspan="1" colspan="1">1.2</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_1" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_3" rowspan="1" colspan="1">84</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_4" rowspan="1" colspan="1">192</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_5" rowspan="1" colspan="1">1.6</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_1" rowspan="1" colspan="1">1 day</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_3" rowspan="1" colspan="1">4642</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_4" rowspan="1" colspan="1">9262</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_5" rowspan="1" colspan="1">4.2</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_6" rowspan="1" colspan="1">LDH 9262, protime 34 sec</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_1" rowspan="1" colspan="1">2 days</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_2" rowspan="1" colspan="1">1 day</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_3" rowspan="1" colspan="1">7238</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_4" rowspan="1" colspan="1">6204</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_5" rowspan="1" colspan="1">3.7</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_1" rowspan="1" colspan="1">4 days</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_2" rowspan="1" colspan="1">3 days</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_3" rowspan="1" colspan="1">2695</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_4" rowspan="1" colspan="1">337</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_5" rowspan="1" colspan="1">3.8</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_1" rowspan="1" colspan="1">6 days</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_2" rowspan="1" colspan="1">5 days</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_3" rowspan="1" colspan="1">1360</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_4" rowspan="1" colspan="1">196</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_5" rowspan="1" colspan="1">2.1</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_1" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_2" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_3" rowspan="1" colspan="1">289</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_5" rowspan="1" colspan="1">1.2</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_6" rowspan="1" colspan="1">Taking oral amiodarone</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_1 hd_h_Amiodarone.T8_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;46</bold>
+</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;225</bold>
+</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Amiodarone.T8_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Amiodarone.Comment4">
+            <title>Comment</title>
+            <p>The patient experienced a marked rise in serum aminotransferase and lactic dehydrogenase levels within a day of starting intravenous amiodarone for ventricular tachyarrhythmias. The major difficulty in making the diagnosis of a drug induced liver injury from high dose amiodarone is that he also had multiple episodes of hypotension just before the abnormalities were identified, and the pattern of serum enzyme elevations with immediate worsening of prothrombin time and mild jaundice is also very typical of ischemic hepatitis. Most reported cases of acute hepatic injury from intravenous amiodarone have occurred in patients with the potential of ischemic liver injury (chronic heart failure and recent acute worsening due to tachyarrhythmias). Furthermore, the few liver biopsy specimens from such patients usually show centrolobular (zone 3) necrosis with minimal inflammation, suggestive of ischemic rather than an inflammatory injury. This patient later tolerated taking oral doses of amiodarone [600 mg daily] without recurrence of liver injury.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Amiodarone.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Amiodarone.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Amiodarone &#x02013; Generic, Cordarone&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Antiarrhythmic Agents</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=amiodarone">COMPLETE LABELING</ext-link>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Amiodarone.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Amiodarone.T9" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Amiodarone.T9_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Amiodarone.T9_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Amiodarone.T9_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Amiodarone.T9_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Amiodarone.T9_1_1_1_1" rowspan="1" colspan="1">Amdiodarone</td>
+                <td headers="hd_h_Amiodarone.T9_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134981709">1951-25-3</ext-link>
+</td>
+                <td headers="hd_h_Amiodarone.T9_1_1_1_3" rowspan="1" colspan="1">C25-H29-12-N-O3</td>
+                <td headers="hd_h_Amiodarone.T9_1_1_1_4" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134981709">
+<inline-graphic xlink:href="Amiodarone_Structure.jpg" mime-subtype="jpeg"><alt-text>Amiodarone chemical structure</alt-text></inline-graphic>
+</ext-link>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Amiodarone.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 01 March 2016</p>
+        <ref-list id="Amiodarone.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Amiodarone.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Amiodarone. Drugs used in cardiovascular disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 648-52.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; patterns of liver injury associated with amiodarone include frequent minor serum enzyme elevations [14% to 83%] and less commonly chronic liver disease resembling alcoholic hepatitis and cirrhosis, acute hepatitis with jaundice, phospholipidosis, Reye syndrome and cholestasis; amiodarone also interferes with the metabolism of other drugs). </italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R2">
+            <mixed-citation publication-type="other">De Marzio DH, Navarro VJ. Amiodarone. Hepatotoxicity of cardiovascular and antidiabetic drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 520-1.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of amiodarone; mentions several patterns of injury including acute injury during intravenous use and both acute and chronic liver injury associated with long-term oral use).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R3">
+            <mixed-citation publication-type="other">Sampson KJ, Kass RS. Antiarrhythmic drugs. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 815-48.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R4">
+            <mixed-citation publication-type="journal">Waxman HL, Groh WC, Marchlinski FE, Buxton AE, Sadowski LM, Horowitz LN, Josephson ME, Kastor JA. Amiodarone for control of sustained ventricular tachyarrhythmia: clinical and electrophysiologic effects in 51 patients. Am J Cardiol 1982; 50: 1066-74. <annotation><p><italic toggle="yes">(Experience with amiodarone [600-800 mg/day] in 51 patients with arrhythmias; 55% had at least one adverse reaction, 22% required stopping, 41% had ALT elevations [1.5-3 times ULN] and 2 [4%] developed hepatitis, one progressing to cirrhosis: first prominent description of hepatic side effects of amiodarone).</italic></p></annotation><pub-id pub-id-type="pmid">6291368</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R5">
+            <mixed-citation publication-type="journal">Fogoros RN, Anderson KP, Winkle RA, Swerdlow CD, Mason JW. Amiodarone: clinical efficacy and toxicity in 96 patients with recurrent, drug-refractory arrhythmias. Circulation 1983; 68: 88-94. <annotation><p><italic toggle="yes">(96 patients treated with amiodarone [600-1200 mg/day] for up to 27 months, 73% developed side effects, 15% required discontinuation; one had ALT elevations of 3000-5000 U/L during first month, levels rapidly falling to normal upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">6851057</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R6">
+            <mixed-citation publication-type="journal">Harris L, McKenna WJ, Rowland E, Holt DW, Storey GC, Krikler DM. Side effects of long-term amiodarone therapy. Circulation 1983; 67: 45-51. <annotation><p><italic toggle="yes">(Retrospective analysis of side effects in 140 patients taking amiodarone for 1-5 years, average doses from 100-400 mg/day, 6% had thyroid and 1% pulmonary toxicity: 15% had ALT increases of 1.5 to 4 fold but none had overt liver injury; correlation found between amiodarone concentration in liver and increased ALT levels).</italic></p></annotation><pub-id pub-id-type="pmid">6291807</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R7">
+            <mixed-citation publication-type="journal">McGovern B, Garan H, Kelly E, Ruskin JN. Adverse reactions during treatment with amiodarone hydrochloride. Br Med J (Clin Res Ed). 1983; 287: 175-80. <annotation><p><italic toggle="yes">(Side effects among 80 patients treated with amioradone for up to 51 months; 88% had an adverse reaction, 18% required stopping, 40% had ALT elevations; one had hepatitis).</italic></p></annotation><pub-id pub-id-type="pmid">6409240</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R8">
+            <mixed-citation publication-type="journal">Lim PK, Trewby PN, Storey GC, Hole DW. Neuropathy and fatal hepatitis in a patient receiving amiodarone. Br Med J (Clin Res Ed) 1984; 288: 1638-9. <annotation><p><italic toggle="yes">(68 year old man presented with cirrhosis after 19 months of amiodarone therapy [400 mg/day]; stopping drug led to decrease in ALT and alkaline phosphatase levels, but clinical progression with ascites followed by death 5 months later).</italic></p></annotation><pub-id pub-id-type="pmid">6326931</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R9">
+            <mixed-citation publication-type="journal">Poucell S, Ireton J, Valencia-Mayoral P, Downar E, Larratt L, Patterson J, Blendis L, Phillips MJ. Amiodarone-associated phospholipidosis and fibrosis of the liver. Light, immunohistochemical, and electron microscopic studies. Gastroenterology 1984; 86: 926-36. <annotation><p><italic toggle="yes">(Two women and one man, ages 61 to 64 years, presented with fatigue or hepatomegaly after 1-2 years of amiodarone therapy [bilirubin 0.6, 0.5 and 1.3 mg/dL, ALT 80, 82 and 680 U/L, Alk P 80, 98, and 188 U/L, albumin 0.8-3.7 g/dL]; liver histology showed Mallory bodies, ballooning, micro- and macrosteatosis, fibrosis and inflammation, 2 had cirrhosis; electron microscopy showed lysosomal inclusions and pleomorphic mitochondria).</italic></p></annotation><pub-id pub-id-type="pmid">6706074</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R10">
+            <mixed-citation publication-type="journal">Simon JB, Manley PN, Brien JF, Armstrong PW. Amiodarone hepatotoxicity simulating alcoholic liver disease. N Engl J Med 1984; 311: 167-72. <annotation><p><italic toggle="yes">(Clinical and histological description of amiodarone hepatotoxicity in a 30 year old man treated with amiodarone [400 mg/day] for 6 months, injury persisting for over a year after stopping).</italic></p></annotation><pub-id pub-id-type="pmid">6738602</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R11">
+            <mixed-citation publication-type="journal">Goldman IS, Winkler ML, Raper SE, Barker ME, Keung E, Goldberg HI, Boyer TD. Increased hepatic density and phospholipidosis due to amiodarone. Am J Roentgenol 1985; 144: 541-6. <annotation><p><italic toggle="yes">(Increased density of liver on CT found in all 7 patients on amiodarone for 10-60 months, liver biopsies were normal but electron microscopy showed phospholipidosis).</italic></p></annotation><pub-id pub-id-type="pmid">3871563</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R12">
+            <mixed-citation publication-type="journal">Jones WP, Shin MS, Stanley RJ, Duncan-Myers J. Dense liver in a 72-year-old woman with congestive heart failure. Invest Radiol 1985; 20: 911-5. <annotation><p><italic toggle="yes">(70 year old woman developed pulmonary toxicity after a 1 year course of amiodarone with CT showing dense liver, normal liver tests and no attentuation in the spleen).</italic></p></annotation><pub-id pub-id-type="pmid">4077446</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R13">
+            <mixed-citation publication-type="journal">Tordjman K, Katz I, Bursztyn M, Rosenthal T. Amiodarone and the liver. Ann Intern Med 1985; 102: 411-2. <annotation><p><italic toggle="yes">(76 year old woman developed cirrhosis after 2.5 years of amiodarone therapy [200 mg/day] [bilirubin normal, AST 225 U/L, Alk P 317 U/L, albumin 2.9 g/dL], with encephalopathy and death from liver failure 2 weeks later).</italic></p></annotation><pub-id pub-id-type="pmid">3970484</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R14">
+            <mixed-citation publication-type="journal">Varma RR, Troup PJ, Komorowski RA, Sarna T. Clinical and morphologic effects of amiodarone on the liver. Gastroenterology 1985; 88: 1091-3. <annotation><p><italic toggle="yes">(2 men, ages 24 and 58 years, on amiodarone for several years had fluctuating but mild serum ALT elevations and normal liver histology, but phospholipidosis by electron microscopy).</italic></p></annotation><pub-id pub-id-type="pmid">3972228</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R15">
+            <mixed-citation publication-type="journal">Yagupsky P, Gazala E, Sofer S, Maor E, Abarbanel J. Fatal hepatic failure and encephalopathy associated with amiodarone therapy. J Pediatr 1985; 107: 967-70. <annotation><p><italic toggle="yes">(8 year old girl developed Reyes-like syndrome 2 months after starting amiodarone [bilirubin 1.5 mg/dL, ALT 5610 U/L, high ammonia], dying within 2 days of admission; biopsy showed ballooning degeneration without fat or Mallory bodies).</italic></p></annotation><pub-id pub-id-type="pmid">4067758</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R16">
+            <mixed-citation publication-type="journal">Dake MD, Madison JM, Montgomery CK, Shellito JD, Hinchcliffe WA, Winkler ML, Bainton DF. Electron microscopic demonstration of lysosomal inclusion bodies in lung, liver, lymph nodes, and blood leukocytes of patients with amiodarone pulmonary toxicity. Am J Med 1985; 78: 506-12. <annotation><p><italic toggle="yes">(Two cases of pulmonary toxicity from amiodarone after 15 and 22 months of 500-600 mg daily; electron microcscopy showed lysosomal inclusions in multiple tissues including lymph nodes, neutrophils, lymphocytes and with liver showing normal light microscopic findings).</italic></p></annotation><pub-id pub-id-type="pmid">2983550</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R17">
+            <mixed-citation publication-type="journal">Adams PC, Bennett MK, Holt DW. Hepatic effects of amiodarone. Br J Clin Pract Suppl 1986; 44: 81-95. <annotation><p><italic toggle="yes">(Review of hepatic distribution of amiodarone, CT attenuation and liver effects in 10 patients).</italic></p></annotation><pub-id pub-id-type="pmid">3089267</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R18">
+            <mixed-citation publication-type="journal">Babany G, Mallat A, Zafrani ES, Saint-Marc Girardin MF, Carcone B, Dhumeaux D. Chronic liver disease after low daily doses of amiodarone. Report of three cases. J Hepatol 1986; 3: 228-32. <annotation><p><italic toggle="yes">(3 women, ages 56-83 years, developed hepatomegaly with mild or no ALT [60-139 U/L], and alkaline phosphatase [73-139 U/L] elevations and no jaundice after 3-5 years of amioradone therapy, with slow resolution over 6-10 months; biopsies showed fat, Mallory bodies, inflammation and fibrosis).</italic></p></annotation><pub-id pub-id-type="pmid">3794303</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R19">
+            <mixed-citation publication-type="journal">Lupon-Roses J, Simo-Canonge R, Lu-Cortez L, Permanyer-Miralda G, Allende-Monclus H. Probable early acute hepatitis with parenteral amiodarone. Clin Cardiol 1986; 9: 223-5. <annotation><p><italic toggle="yes">(77 year old man with congestive heart failure developed mild jaundice after 3 days of iv amiodarone [bilirubin 6.3 mg/dL, ALT 1571 U/L], resolving rapidly upon stopping; liver biopsy showing centrolobular necrosis).</italic></p></annotation><pub-id pub-id-type="pmid">3708949</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R20">
+            <mixed-citation publication-type="journal">Rigas B, Rosenfeld LE, Barwick KW, Enriquez R, Helzberg J, Batsford WP, Josephson ME, Riely CA. Amiodarone hepatotoxicity. A clinicopathologic study of five patients. Ann Intern Med 1986; 104: 348-51. <annotation><p><italic toggle="yes">(5 cases of amiodarone hepatotoxicity with variability in presentation, all were symptomatic but none were icteric [ALT 64-1320 U/L, Alk P 70-336 U/L] arising 2-18 months after starting; liver histology given but little information in follow up).</italic></p></annotation><pub-id pub-id-type="pmid">3946978</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R21">
+            <mixed-citation publication-type="journal">Rinder HM, Love JC, Wexler R. Amiodarone hepatotoxicity. N Engl J Med 1986; 314: 318-9. <italic toggle="yes">(68 year old man</italic><annotation><p><italic toggle="yes">developed ascites 22 months after starting amiodarone [initial bilirubin normal, ALT 180 U/L, Alk P 422 U/L] who subsequently developed progressive encephalopathy and died).</italic></p></annotation><pub-id pub-id-type="pmid">3941726</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R22">
+            <mixed-citation publication-type="journal">Rumessen JJ. Hepatotoxicity of amiodarone. Acta Med Scand 1986; 219: 235-9. <annotation><p><italic toggle="yes">(72 year old man developed jaundice 7 weeks after starting amiodarone [400 mg/day] [bilirubin 2.4 mg/dL, ALT 1.5 times ULN, Alk P 805 U/L], with exposure to several other potential hepatotoxins: ajmaline, methyldopa and chlorpromazine, resolving within a few weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">3962737</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R23">
+            <mixed-citation publication-type="journal">Mason JW. Amiodarone. N Engl J Med 1987; 316: 455-66. <annotation><p><italic toggle="yes">(Thorough review of pharmacology, efficacy and safety of amiodarone including adverse reactions; hepatitis occurred in 1-4% of patients treated in large case series).</italic></p></annotation><pub-id pub-id-type="pmid">3543680</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R24">
+            <mixed-citation publication-type="journal">Shepherd NA, Dawson AM, Crocker PR, Levison DA. Granular cells as a marker of early amiodarone hepatotoxicity: a pathological and analytical study. J Clin Pathol 1987; 40: 418-23. <annotation><p><italic toggle="yes">(1 man and 1 woman, both 64 years old, developed symptomatic hepatomegaly 8 months and 7 years after starting amiodarone, one resolved and one developed liver failure; biopsies showed cells with lysosomal whorls and granular cytoplasm which harbored amiodarone).</italic></p></annotation><pub-id pub-id-type="pmid">3584485</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R25">
+            <mixed-citation publication-type="journal">Gilinsky NH, Briscoe GW, Kuo CS. Fatal amiodarone hepatoxicity. Am J Gastroenterol 1988; 83: 161-3. <annotation><p><italic toggle="yes">(74 year old man developed ascites 28 months after starting amiodarone [bilirubin 7.8 mg/dL, ALT 110 U/L, Alk P 275 U/L, albumin 1.6 g/dL], with subsequent progression and death despite stopping therapy).</italic></p></annotation><pub-id pub-id-type="pmid">3341340</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R26">
+            <mixed-citation publication-type="journal">Giordano G, Franciosini MF, Zuanetti G, Latini R. [Digitalis intoxication in the presence of amiodarone-induced acute hepatitis] G Ital Cardiol 1988; 18: 862-4. Italian. <pub-id pub-id-type="pmid">3246320</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R27">
+            <mixed-citation publication-type="journal">Guigui B, Perrot S, Berry JP, Fleury-Feith J, Martin N, Metreau JM, Dhumeaux D, Zafrani ES. Amiodarone-induced hepatic phospholipidosis: a morphological alteration independent of pseudoalcoholic liver disease. Hepatology 1988; 8: 1063-8. <annotation><p><italic toggle="yes">(Biopsies from 13 patients on amiodarone for 4 months to 15 years; all cases showed iodine rich intralysosomal myelin figures, various degrees of injury from steatohepatitis to normal; follow up of Babany et al.).</italic></p></annotation><pub-id pub-id-type="pmid">3417226</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R28">
+            <mixed-citation publication-type="journal">Kowey PR, Friehling TD, Marinchak RA, Sulpizi AM, Stohler JL. Safety and efficacy of amiodarone. The low-dose perspective. Chest 1988; 93: 54-9. <annotation><p><italic toggle="yes">(Among 68 patients treated iwth amiodarone for 4 to 58 months [200-600 mg/day], ~10% had ALT elevations, but none developed clinically apparent liver disease).</italic></p></annotation><pub-id pub-id-type="pmid">3335168</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R29">
+            <mixed-citation publication-type="journal">Morse RM, Valenzuela GA, Greenwald TP, Eulie PJ, Wesley RC, McCallum RW. Amiodarone-induced liver toxicity. Ann Intern Med 1988; 109: 838-40. <annotation><p><italic toggle="yes">(67 year old woman developed jaundice 7 months after starting amiodarone [400 to 200 mg/day] [bilirubin 2.4 rising to 16.4 mg/dL, ALT 41 U/L, Alk P 508 U/L], resolving slowly once drug was stopped).</italic></p></annotation><pub-id pub-id-type="pmid">3190031</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R30">
+            <mixed-citation publication-type="journal">Pye M, Northcote RJ, Cobbe SM. Acute hepatitis after parenteral amiodarone administration. Br Heart J 1988; 59: 690-1. <annotation><p><italic toggle="yes">(Two cases of acute ALT elevations [1860 and 2400 U/L] with jaundice [peak bilirubin 9.1 and 3.5 mg/dL] after 2 days of iv amiodarone, resolving rapidly: Case 3).</italic></p></annotation><pub-id pub-id-type="pmid">3395527</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R31">
+            <mixed-citation publication-type="journal">Jones DB, Mullick FG, Hoofnagle JH, Baranski B. Reye's syndrome-like illness in a patient receiving amiodarone. Am J Gastroenterol 1988; 83: 967-9. <annotation><p><italic toggle="yes">(16 year old boy taking amiodarone developed Reye syndrome after influenza-like illness, biopsy showing microvesicular fat, rapid recovery despite continuing amiodarone).</italic></p></annotation><pub-id pub-id-type="pmid">3414648</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R32">
+            <mixed-citation publication-type="journal">Bach N, Schultz BL, Cohen LB, Squire A, Gordon R, Thung SN, Schaffner F. Amiodarone hepatotoxicity: progression from steatosis to cirrhosis. Mt Sinai J Med 1989; 56: 293-6. <annotation><p><italic toggle="yes">(75 year old woman developed fever and hepatomegaly 7 months after starting amiodarone therapy [800 mg/day] [bilirubin not given, AST 140 U/L, Alk P 850 U/L]; despite reduction in dose, she developed cirrhosis over the next 20 months: initial biopsy showed micro- and macrovesicular fat and ballooning; later biopsy showed cirrhosis, inflammation, granular cells and Mallory bodies but no steatosis).</italic></p></annotation><pub-id pub-id-type="pmid">2797021</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R33">
+            <mixed-citation publication-type="journal">Flaharty KK, Chase SL, Yaghsezian HM, Rubin R. Hepatotoxicity associated with amiodarone therapy. Pharmacotherapy 1989; 9: 39-44. <annotation><p><italic toggle="yes">(77 year old man presented with cirrhosis after 1 year of 400-600 mg amiodarone daily [bilirubin 2.7 mg/dL, ALT 124 U/L, Alk P 459 U/L, albumin 3.0 g/dL], with progression despite stopping drug and death 21 days later).</italic></p></annotation><pub-id pub-id-type="pmid">2646621</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R34">
+            <mixed-citation publication-type="journal">Kerin NZ, Aragon E, Faitel K, Frumin H, Rubenfire M. Long-term efficacy and toxicity of high- and low-dose amiodarone regimens. J Clin Pharmacol 1989; 29: 418-23. <annotation><p><italic toggle="yes">(Review of low vs high dose long term efficacy and safety of amiodarone; hepatitis said to occur in 1.6% of patients).</italic></p></annotation><pub-id pub-id-type="pmid">2661600</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R35">
+            <mixed-citation publication-type="journal">Lewis JH, Ranard RC, Caruso A, Jackson LK, Mullick F, Ishak KG, Seeff LB, Zimmerman HJ. Amiodarone hepatotoxicity: prevalence and clinicopathologic correlations among 104 patients. Hepatology 1989; 9: 679-85. <annotation><p><italic toggle="yes">(Analysis of 104 patients taking amiodarone and followed prospectively, 25% developed ALT elevations [&#x0003e;2 times ULN] after 1-28 months, but only 3 developed clinically apparent liver injury: symptoms and ALT abnormalities resolved in 2 to 8 weeks; in 9 autopsies, 5 had liver abnormalities).</italic></p></annotation><pub-id pub-id-type="pmid">2785079</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R36">
+            <mixed-citation publication-type="journal">Robinson K, Mulrow JP, Rowland E, McKenna WJ. Long-term effects of amiodarone on hepatic function. Am J Cardiol 1989; 64: 95-6. <annotation><p><italic toggle="yes">(Brief summary of experience using amiodarone in 426 patients followed for 2 months to 13 years; 10% developed liver test abnormalities, but were largely mild and self limiting, none resulting in clinical hepatitis or cirrhosis).</italic></p></annotation><pub-id pub-id-type="pmid">2741820</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R37">
+            <mixed-citation publication-type="journal">Roche JF, Netter P, Gay G. [Amiodarone-induced hepatitis: biological, histological diagnosis, development and role of associated factors. Review of the literature. Report of 2 cases] Rev Med Interne 1989; 10: 497-501. French. <pub-id pub-id-type="pmid">2488499</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R38">
+            <mixed-citation publication-type="journal">Stevenson RN, Nayani TH, Davies JR. Acute hepatic dysfunction following parenteral amiodarone administration. Postgrad Med J 1989; 65: 707-8. <annotation><p><italic toggle="yes">(59 year old man developed worsening jaundice during amiodarone therapy [bilirubin peak 20.7 mg/dL, ALT 440 U/L, Alk P 255 U/L], resolving with few weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">2608608</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R39">
+            <mixed-citation publication-type="journal">Fromenty B, Fisch C, Labbe G, Defott C, Deschamps D, Berson A, Letteron P, Pessayre D. Amiodarone inhibits the mitochondrial beta-oxidation of fatty acids and produces microvesicular steatosis of the liver in mice. J Pharmacol Exp Ther 1990; 255: 1371-6. <annotation><p><italic toggle="yes">(In mice, amiodarone decreases beta oxidation of palmitic acid in mitochondrial preparations and in vivo, with increase in triglycerides and microvesicular fat 24 hours after intraperitoneal administration of 600 mg/kg).</italic></p></annotation><pub-id pub-id-type="pmid">2124623</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R40">
+            <mixed-citation publication-type="journal">Lwakatare JM, Morris-Jones S, Knight EJ. Fatal fulminating liver failure possibly related to amiodarone treatment. Br J Hosp Med 1990; 44: 60-1. <annotation><p><italic toggle="yes">(64 year old woman developed acute liver failure 3 weeks after starting amiodarone [bilirubin 25.6 mg/dL, ALT 2350 U/L, Alk P 444 U/L], dying within 3 days of admission, autopsy showing extensive centrolobular necrosis without inflammation).</italic></p></annotation><pub-id pub-id-type="pmid">2397338</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R41">
+            <mixed-citation publication-type="journal">Lewis JH, Mullick F, Ishak KG, Ranard RC, Ragsdale B, Perse RM, Rusnock EJ, et al. Histopathologic analysis of suspected amiodarone hepatotoxicity. Hum Pathol 1990; 21: 59-67. <annotation><p><italic toggle="yes">(Summary of 19 cases of amiodarone hepatotoxicity from files of Armed Forces Institute of Pathology and review of literature: mean age 62 years [range 8 to 83 years], mostly men, mean dose 400 mg/day [200-800], duration of therapy 0.5-3.6 years; patients usually present with mild or no jaundice, hepatomegaly, mild ALT elevations and AST:ALT ratio &#x0003c;1.0, histology shows micro- and macrovescicular fat, Mallory bodies, fibrosis, foam cells, ductular proliferation, lipogramulomas, and inflammation).</italic></p></annotation><pub-id pub-id-type="pmid">2403975</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R42">
+            <mixed-citation publication-type="journal">Pollak PT, Sharma AD, Carruthers SG. Relation of amiodarone hepatic and pulmonary toxicity to serum drug concentrations and superoxide dismutase activity. Am J Cardiol 1990; 65: 1185-91. <annotation><p><italic toggle="yes">(Prospective study of 30 patients treated with amiodarone for 12 months, 5 had ALT elevations, which were associated with higher doses and levels in serum and possibly drug accumulation).</italic></p></annotation><pub-id pub-id-type="pmid">2337027</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R43">
+            <mixed-citation publication-type="journal">Simon JP, Zannad F, Trechot P, Thisse JY, Houplon M, Aliot E. Acute hepatitis after a loading dose of intravenous amiodarone. Cardiovasc Drugs Ther 1990; 4: 1467-8. <italic toggle="yes">(59 year old man developed marked elevations in ALT [peak 3270 U/L] within a day of starting intravenous amiodarone</italic><annotation><p><italic toggle="yes">with mild jaundice [peak bilirubin 2.4 mg/dL], rapid resolution [2 weeks] and recurrence on reexposure). </italic></p></annotation><pub-id pub-id-type="pmid">2081138</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R44">
+            <mixed-citation publication-type="journal">Benbassat C, Shahar A. [Acute fulminant hepatic failure after short-term amiodarone] Harefuah 1991; 121: 378-80. Hebrew. <pub-id pub-id-type="pmid">1752554</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R45">
+            <mixed-citation publication-type="journal">Kalantzis N, Gabriel P, Mouzas J, Tiniakos D, Tsigas D, Tiniakos G. Acute amiodarone-induced hepatitis. Hepatogastroenterology 1991; 38: 71-4. <annotation><p><italic toggle="yes">(2 cases of severe ALT elevations [20360 U/L and 570 U/L] and jaundice [bilirubin 6.8 and 5.6 mg/dL] within 1 day of iv amiodarone, followed by acute liver and renal failure, and death: autopsies showed confluent necrosis, compatible with shock liver).</italic></p></annotation><pub-id pub-id-type="pmid">2026392</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R46">
+            <mixed-citation publication-type="journal">Morelli S, Guido V, De Marzio P, Aguglia F, Balsano F. Early hepatitis during intravenous amiodarone administration. Cardiology 1991; 78: 291-4. <annotation><p><italic toggle="yes">(Two cases of prompt increases in ALT [251 and 128 U/L], Alk P [505 and 482 U/L] and bilirubin levels [3.4 and 3.3 mg/dL] within 2-3 days of starting iv amiodarone, resolving in one week despite use of oral formulations of the drug).</italic></p></annotation><pub-id pub-id-type="pmid">1868505</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R47">
+            <mixed-citation publication-type="journal">Fornaciari G, Monducci I, Barone A, Bassi C, Beltrami M, Tomasi C. Amiodarone-induced acute hepatitis: case report. J Clin Gastroenterol 1992; 15: 271-3. <annotation><p><italic toggle="yes">(52 year old woman developed confusion and jaundice [bilirubin 3.5 mg/dL, ALT 2500 U/L], 36 hours after an amiodarone infusion and cardiac arrest, which resolved rapidly with stopping amiodarone).</italic></p></annotation><pub-id pub-id-type="pmid">1479182</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R48">
+            <mixed-citation publication-type="journal">Friis H, Andreasen PB. Drug-induced hepatic injury: an analysis of 1100 cases reported to the Danish Committee on Adverse Drug Reactions between 1978 and 1987. J Intern Med 1992; 232: 133-8. <annotation><p><italic toggle="yes">(Adverse drug reaction reports in Denmark from 1978 to 1987; 10 of the 1188 reported cases [none fatal] were attributed to amiodarone).</italic></p></annotation><pub-id pub-id-type="pmid">1506809</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R49">
+            <mixed-citation publication-type="journal">Harrison RF, Elias E. Amiodarone-associated cirrhosis with hepatic and lymph node granulomas. Histopathology 1993; 22: 80-2. <annotation><p><italic toggle="yes">(57 year old man developed signs of cirrhosis after 4.5 years of amiodarone therapy [400 mg/day] and underwent liver transplant: graft showed micronodular cirrhosis, Mallory bodies, granular cells, and granulomas surrounding ballooned cells; granulomas were present in lymph nodes as well).</italic></p></annotation><pub-id pub-id-type="pmid">8436346</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R50">
+            <mixed-citation publication-type="journal">Rhodes A, Eastwood JB, Smith SA. Early acute hepatitis with parenteral amiodarone: a toxic effect of the vehicle? Gut 1993; 34: 565-6. <italic toggle="yes">(72 year old man developed elevations in ALT [peak 4642 U/L] and LDH [peak 9262 U/L] within 2 days of iv amiodarone but tolerated oral drug later; authors suggested that the vehicle--polys</italic><annotation><p><italic toggle="yes">orbate--was the cause: later considered unlikely: Case 4).</italic></p></annotation><pub-id pub-id-type="pmid">8491409</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R51">
+            <mixed-citation publication-type="journal">Macarri G, Feliciangeli G, Berdini V, Jezequel AM, Benedetti A. Canalicular cholestasis due to amiodarone toxicity. A definite diagnosis obtained by electron microscopy. Ital J Gastroenterol 1995; 27: 436-8. <pub-id pub-id-type="pmid">8775470</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R52">
+            <mixed-citation publication-type="journal">Rene JM, Buenestado J, Pais B, Pinol MC. [Cirrhosis caused by amiodarone] Rev Esp Enferm Dig 1995; 87: 399-402. Spanish. <pub-id pub-id-type="pmid">7626301</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R53">
+            <mixed-citation publication-type="journal">Richer M, Robert S. Fatal hepatotoxicity following oral administration of amiodarone. Ann Pharmacother 1995; 29: 582-6. <annotation><p><italic toggle="yes">(64 year old man presented with cirrhosis 14 months after starting amiodarone [400-600 mg/day] [bilirubin 0.7 mg/dL, ALT 112 U/L, Alk P 176 U/L, INR 2.4] and despite stopping had subsequent progression to end stage liver disease and death 10 weeks later).</italic></p></annotation><pub-id pub-id-type="pmid">7663029</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R54">
+            <mixed-citation publication-type="journal">Snir Y, Pick N, Riesenberg K, Yanai-Inbar I, Zirkin H, Schlaeffer F. Fatal hepatic failure due to prolonged amiodarone treatment. J Clin Gastroenterol 1995; 20: 265-6. <annotation><p><italic toggle="yes">(62 year old woman developed weakness and jaundice one year after starting amiodarone [bilirubin 5.4 mg/dL, ALT 131 U/L, Alk P 329 U/L] and died of end stage liver disease 3 weeks after stopping: postmortem showed cirrhosis).</italic></p></annotation><pub-id pub-id-type="pmid">7797846</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R55">
+            <mixed-citation publication-type="journal">Tosetti C, Ongari M, Evangelisti A, Lolli R, Napoli A. [Acute hepatotoxicity from amiodarone] Minerva Med 1995; 86: 387-90. Italian. <pub-id pub-id-type="pmid">7501229</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R56">
+            <mixed-citation publication-type="journal">Paniagua Clusells J, Arcusa Gavalda R, Goma Masip F, Pons Masanes S, Soler Masana JM. [Acute hepatitis caused by intravenous amiodarone.] Rev Esp Cardiol 1996; 49: 384-5. Spanish. <pub-id pub-id-type="pmid">8744394</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R57">
+            <mixed-citation publication-type="journal">Pillans PI. Drug associated hepatic reactions in New Zealand: 21 years&#x02019; experience. N Z Med J 1996; 109: 315-9. <annotation><p><italic toggle="yes">(Adverse drug reaction reports identified 943 liver injuries over 21 years in New Zealand; amiodarone accounted for 14 cases [1.5%, ranking 16th]).</italic></p></annotation><pub-id pub-id-type="pmid">8816722</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R58">
+            <mixed-citation publication-type="journal">Effect of prophylactic amiodarone on mortality after acute myocardial infarction and in congestive heart failure: metaanalysis of individual data from 6500 patients in randomised trials. Amiodarone Trials Meta-Analysis Investigators. Lancet 1997; 350: 1417-24. <annotation><p><italic toggle="yes">(Meta analysis using individual data from 13 trials of amiodarone in 6553 patients showed reduction in cardiac mortality of 13%; liver dysfunction more common with amiodarone than placebo [1% vs 0.4%], but no description of abnormalities).</italic></p></annotation><pub-id pub-id-type="pmid">9371164</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R59">
+            <mixed-citation publication-type="journal">James PR, Hardman SM. Acute hepatitis complicating parenteral amiodarone does not preclude subsequent oral therapy. Heart 1997; 77: 583-4. <annotation><p><italic toggle="yes">(50 year old man had acute ALT [peak 8220 U/L day 2] and bilirubin elevations [peak 3.0 mg/dL, day 4] within a day of iv amiodarone therapy, but later tolerated long term low dose oral drug without injury).</italic></p></annotation><pub-id pub-id-type="pmid">9227310</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R60">
+            <mixed-citation publication-type="journal">Josephson SA, Kessel ER. Amiodarone hepatotoxicity. Dig Dis 1997; 15: 312. <annotation><p><italic toggle="yes">(69 year old man developed pain and hepatomegaly after 18 months of amiodarone, biopsy showed toxic hepatitis and lamellar whorls in damaged lysosomes).</italic></p></annotation><pub-id pub-id-type="pmid">9359019</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R61">
+            <mixed-citation publication-type="other">Pierce DR, Skaehill, PA. Case of fatal amiodarone hepatotoxicity. Hosp Pharm 1997; 32: 1133-5. Not in PubMed</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R62">
+            <mixed-citation publication-type="journal">Tagliamonte E, Cice G, Ducceschi V, Mayer MS, Iacono A. [Acute hepatitis following amiodarone administration] Minerva Cardioangiol 1997; 45: 451-6. Italian. <pub-id pub-id-type="pmid">9446068</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R63">
+            <mixed-citation publication-type="journal">Vorperian VR, Havighurst TC, Miller S, January CT. Adverse effects of low dose amiodarone: a meta-analysis. J Am Coll Cardiol 1997; 30: 791-8. <annotation><p><italic toggle="yes">(Meta analysis of 4 controlled trials of amiodarone [n=738] vs placebo [n=727] found no differences in rates of ALT elevations &#x0003e;2-3 fold [1.2% vs 0.8%]).</italic></p></annotation><pub-id pub-id-type="pmid">9283542</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R64">
+            <mixed-citation publication-type="journal">Breuer HW, Bossek W, Haferland C, Schmidt M, Neumann H, Gruszka J. Amiodarone-induced severe hepatitis mediated by immunological mechanisms. Int J Clin Pharmacol Ther 1998; 36: 350-2. <annotation><p><italic toggle="yes">(64 year old developed ALT elevations [3780 U/L] and mild jaundice [bilirubin 1.8 mg/dL] 2 days after starting intravenous amiodarone, with resolution within 3 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">9660045</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R65">
+            <mixed-citation publication-type="journal">Chang CC, Petrelli M, Tomashefski JF Jr, McCullough AJ. Severe intrahepatic cholestasis caused by amiodarone toxicity after withdrawal of the drug: a case report and review of the literature. Arch Pathol Lab Med 1999; 123: 251-6. <annotation><p><italic toggle="yes">(84 year old woman developed cirrhosis after 5 years of amiodarone therapy [400 mg/day] [bilirubin normal, ALT 154 U/L, Alk P 316 U/L]; despite stopping drug, patient developed liver decompensation, worsening jaundice and died 4 months later).</italic></p></annotation><pub-id pub-id-type="pmid">10086516</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R66">
+            <mixed-citation publication-type="journal">Iliopoulou A, Giannakopoulos G, Mayrikakis M, Zafiris E, Stamatelopoulos S. Reversible fulminant hepatitis following intravenous amiodarone loading. Amiodarone hepatotoxicity. Int J Clin Pharmacol Ther 1999; 37: 312-3. <annotation><p><italic toggle="yes">(69 year old man developed marked ALT elevations [50 times ULN] and jaundice within 1 day of starting iv amiodarone with full recovery within 2 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">10395125</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R67">
+            <mixed-citation publication-type="journal">Latorre G, Lucas I, Herrero JI, Sangro B, Quiroga J, Sola JJ, D&#x000ed;az L, Prieto J. [Severe hepatotoxicity caused by amiodarone: description of a case] Rev Med Univ Navarra 1999; 43: 86-91. Spanish. <pub-id pub-id-type="pmid">11256009</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R68">
+            <mixed-citation publication-type="journal">Lopez-Gomez D, Nicolas J, Frigola JM, Manito N, Esplugas E. [The use of oral amiodarone as a chronic treatment in a patient with prior fulminant hepatitis due to intravenous amiodarone] Rev Esp Cardiol 1999; 52: 201-3. Spanish. <pub-id pub-id-type="pmid">10193175</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R69">
+            <mixed-citation publication-type="journal">Jain D, Bowlus CL, Anderson JM, Robert ME. Granular cells as a marker of early amiodarone hepatotoxicity. J Clin Gastroenterol 2000; 31: 241-3. <annotation><p><italic toggle="yes">(40 year old man developed nausea 6 weeks after starting amiodarone [bilirubin 0.8 mg/dL, ALT 2250 U/L, Alk P 81 U/L], resolving rapidly with stopping and with mild ALT elevations on restarting; liver biopsy showing near normal histology except for granular cells suspected to be phospholipid containing macrophages).</italic></p></annotation><pub-id pub-id-type="pmid">11034006</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R70">
+            <mixed-citation publication-type="journal">Jmelnitzky AC, Guidi M, Bologna A, Viola M, Soccini C, Barbero R, Belloni P, Apraiz M. [Clinic-epidemiological significance of drug hepatotoxicity in liver disease consultation] Acta Gastroenterol Latinoam 2000; 30: 77-84. Spanish. <pub-id pub-id-type="pmid">10925723</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R71">
+            <mixed-citation publication-type="journal">Luengo O, Montero J, Alegre J, Fernandez Sevilla T. [Toxic hepatitis caused by intravenous amiodarone] Med Clin (Barc). 2000; 115: 798-9. Spanish. <pub-id pub-id-type="pmid">11171458</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R72">
+            <mixed-citation publication-type="journal">James PR, Barrera Groba C. Intravenous amiodarone in intensive care: time for a reappraisal? Intensive Care Med 2001; 27: 1433. <annotation><p><italic toggle="yes">(Letter stressing the adrupt ALT elevations after intravenous amiodarone therapy that may be due to the polysorbate carrier).</italic></p></annotation><pub-id pub-id-type="pmid">11511965</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R73">
+            <mixed-citation publication-type="journal">Agozzino F, Picca M, Pelosi G. Acute hepatitis complicating intravenous amiodarone treatment. Ital Heart J 2002; 3: 686-8. <annotation><p><italic toggle="yes">(83 year old man developed marked ALT elevations 24 hours after intravenous amiodarone [bilirubin 2.83 mg/dL, ALT 7440 U/L, INR 3.8, creatinine 2.3 mg/dL], resolving within 2 weeks).</italic></p></annotation><pub-id pub-id-type="pmid">12506529</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R74">
+            <mixed-citation publication-type="journal">Giannattasio F, Salvio A, Varriale M, Picciotto FP, Di Costanzo GG, Visconti M. Three cases of severe acute hepatitis after parenteral administration of amiodarone: the active ingredient is not the only agent responsible for hepatotoxicity. Ann Ital Med Int 2002; 17: 180-4. <pub-id pub-id-type="pmid">12402666</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R75">
+            <mixed-citation publication-type="journal">Gonzalez Galilea A, Garcia Sanchez MV, la Mata Garcia M, Mino Fugarolas G. [Early-onset acute toxic hepatitis induced by intravenous amiodarone administration] Gastroenterol Hepatol 2002; 25: 392-4. Spanish. <pub-id pub-id-type="pmid">12069701</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R76">
+            <mixed-citation publication-type="journal">Gregory SA, Webster JB, Chapman GD. Acute hepatitis induced by parenteral amiodarone. Am J Med 2002; 113: 254-5. <annotation><p><italic toggle="yes">(74 year old woman developed marked ALT elevations [1099 U/L] within few days of starting daily infusions of amiodarone, and levels subsequently fell to normal despite use of oral drug).</italic></p></annotation><pub-id pub-id-type="pmid">12208392</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R77">
+            <mixed-citation publication-type="journal">Burri S, Hug MI, Bauersfeld U. Efficacy and safety of intravenous amiodarone for incessant tachycardias in infants. Eur J Pediatr 2003; 162: 880-4. <annotation><p><italic toggle="yes">(Prospective study of 23 infants given iv amiodarone; one child developed marked liver enzyme elevations, but no details were given).</italic></p></annotation><pub-id pub-id-type="pmid">14508682</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R78">
+            <mixed-citation publication-type="journal">MacFadyen RJ, Palmer TJ, Hisamuddin K. Rapidly fatal acute amiodarone hepatitis occurring in the context of multiple organ failure. Int J Cardiol 2003; 91: 245-7. <annotation><p><italic toggle="yes">(64 year old man developed severe ALT elevations and multiorgan failure soon after starting amiodarone for atrial fibrillation and heart failure; autopsy showed centrozonal necrosis).</italic></p></annotation><pub-id pub-id-type="pmid">14559139</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R79">
+            <mixed-citation publication-type="journal">Olsson R. Acute hepatitis after parenteral amiodarone. Ital Heart J 2003; 4: 355-6; Author reply 356-7. <pub-id pub-id-type="pmid">12848097</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R80">
+            <mixed-citation publication-type="journal">Singhal A , Ghosh P, Khan SA. Low Dose amiodarone causing pseudo-alcoholic cirrhosis. Age Ageing 2003; 32: 224-5. <annotation><p><italic toggle="yes">(79 year old man developed ascites and cirrhosis after 33 months of amiodarone therapy [200 mg/day] [bilirubin 0.8 mg/dL, ALT 67 U/L, Alk P 216 U/L], with relentless progression to hepatic failure and death 3 months after stopping amiodarone).</italic></p></annotation><pub-id pub-id-type="pmid">12615569</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R81">
+            <mixed-citation publication-type="journal">Stravitz RT, Sanyal AJ. Drug-induced steatohepatitis. Clin Liver Dis 2003; 7: 435-51. <annotation><p><italic toggle="yes">(Review article includes discussion of amiodarone and mechanisms of hepatic injury).</italic></p></annotation><pub-id pub-id-type="pmid">12879993</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R82">
+            <mixed-citation publication-type="journal">Iba-Ba J, Tilea M, Balligand JL, Lefebvre C. [Amiodarone liver toxicity about two cases and review of literature] Rev Med Interne 2004; 25: 386-9. French. <annotation><p><italic toggle="yes">(80 year old woman and 83 year old man taking amiodarone for 5-6 years developed liver injury [bilirubin not given, ALT 5.6 times ULN and normal, Alk P 1.7 and 1.6 times ULN], liver histology showing steatosis, inflammation, fibrosis and Mallory bodies, one patient died of esophageal variceal hemorrhage and the other improved after stopping). </italic></p></annotation><pub-id pub-id-type="pmid">15110957</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R83">
+            <mixed-citation publication-type="journal">Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl 2004; 10: 1018-23. <annotation><p><italic toggle="yes">(Among ~50,000 liver transplants done in the United States between 1990 and 2002, 270 [0.5%] were done for drug induced acute liver failure, none were attributed to amiodarone).</italic></p></annotation><pub-id pub-id-type="pmid">15390328</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R84">
+            <mixed-citation publication-type="journal">Andrade RJ, Lucena MI, Fern&#x000e1;ndez MC, Pelaez G, Pachkoria K, Garcia-Ruis E, Garcia-Munoz G, et al.; Spanish Group for the Study of Drug-Induced Liver Disease. Drug-induced liver injury: an analysis of 461 incidences submitted to the Spanish registry over a 10-year period. Gastroenterology 2005; 129: 512-21. (Reports to a Spanish network found 461 cases of drug induced liver disease,<annotation><p><italic toggle="yes">amiodarone was not listed among the 20 most common causes).</italic></p></annotation><pub-id pub-id-type="pmid">16083708</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R85">
+            <mixed-citation publication-type="journal">Robinson E, Bissett J, Smith ES 3rd. Amiodarone toxicity and surveillance. J Ark Med Soc 2005; 101: 308-9. <pub-id pub-id-type="pmid">15839319</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R86">
+            <mixed-citation publication-type="journal">Mitchell LB, Exner DV, Wyse DG, Connolly CJ, Prystai GD, Bayes AJ, Kidd WT, et al. Prophylactic Oral Amiodarone for the Prevention of Arrhythmias that Begin Early After Revascularization, Valve Replacement, or Repair: PAPABEAR: a randomized controlled trial. JAMA 2005; 294: 3093-100. <annotation><p><italic toggle="yes">(299 patients received amiodarone for 6 days before and 6 days after coronary artery bypass surgery; no liver toxicity mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">16380589</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R87">
+            <mixed-citation publication-type="journal">Grieco A, Forgione A, Miele L, Vero V, Greco AV, Gasbarrini A, Gasbarrini G. Fatty liver and drugs. Eur Rev Med Pharmacol Sci 2005; 9: 261-3. <annotation><p><italic toggle="yes">(Review of different causes of drug induced fatty liver, separating drugs into those that cause steatosis and steatohepatitis from those that exacerbate nonalcoholic fatty liver and those that cause steatotis sporadically).</italic></p></annotation><pub-id pub-id-type="pmid">16237810</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R88">
+            <mixed-citation publication-type="journal">Maker AV, Orgill DP. Rapid acute amiodarone-induced hepatotoxicity in a burn patient. J Burn Care Rehabil 2005; 26: 341-3. <annotation><p><italic toggle="yes">(54 year old man with severe burns developed marked ALT elevations [1303 U/L] with no jaundice after 5 days of iv amiodarone therapy, resolving rapidly on stopping).</italic></p></annotation><pub-id pub-id-type="pmid">16006841</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R89">
+            <mixed-citation publication-type="journal">Oikawa H, Maesawa C, Sato R, Oikawa K, Yamada H, Oriso S, Ono S, et al. Liver cirrhosis induced by long-term administration of a daily low dose of amiodarone: a case report. World J Gastroenterol 2005; 11: 5394-7. <annotation><p><italic toggle="yes">(85 year old man on amiodarone [200 mg/day] for 7 years presented with cirrhosis [bilirubin 1.2 mg/dL, ALT 35 U/L, Alk P 452 U/L]; despite stopping drug, he developed worsening hepatic decompensation and died 4 months later).</italic></p></annotation><pub-id pub-id-type="pmid">16149155</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R90">
+            <mixed-citation publication-type="journal">Puli SR, Fraley MA, Puli V, Kuperman AB, Alpert MA. Hepatic cirrhosis caused by low-dose oral amiodarone therapy. Am J Med Sci 2005; 330: 257-61. <annotation><p><italic toggle="yes">(63 year old man developed ascites 22 months after starting amiodarone therapy [200 mg/day] [bilirubin 1.4 mg/dL, ALT 82 U/L], biopsy showed cirrhosis and microvesicular fat).</italic></p></annotation><pub-id pub-id-type="pmid">16284489</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R91">
+            <mixed-citation publication-type="journal">R&#x000e4;tz Bravo AE, Drewe J, Schlienger RG, Kr&#x000e4;henb&#x000fc;hl S, Pargger H, Ummenhofer W. Hepatotoxicity during rapid intravenous loading with amiodarone: Description of three cases and review of the literature. Crit Care Med 2005; 33: 128-34; discussion 245-6. <annotation><p><italic toggle="yes">(3 case reports and review of 25 cases of hepatotoxicity from intravenous amiodarone in the literature; all 3 cases had periods of instability during or after surgery, ALT and AST rose to &#x0003e;50 times ULN with increases in INR and mild jaundice, findings that may represent acute heart failure; recommend monitoring during intravenous use of amiodarone and stopping for marked ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">15644659</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R92">
+            <mixed-citation publication-type="journal">Galan MV, Potts JA, Silverman AL, Gordon SC. The burden of acute nonfulminant drug-induced hepatitis in a United States tertiary referral center [corrected]. J Clin Gastroenterol 2005; 39: 64-7. Erratum in: J Clin Gastroenterol 2005; 39: 176. <annotation><p><italic toggle="yes">(Among 32 cases of drug induced liver disease identified between 1993-2002, amiodarone was the most common cause [21%]).</italic></p></annotation><pub-id pub-id-type="pmid">15599214</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R93">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E, Olsson R. Suspected drug-induced liver fatalities reported to the WHO database. Dig Liver Dis 2006; 38: 33-8. <annotation><p><italic toggle="yes">(Survey of drug induced liver fatalities reported to WHO database between 1968-2003 revealed 4690 reports [89% from the US]; 21 drugs were associated with more than 50 cases: amiodarone ranked 8th with ~70 cases).</italic></p></annotation><pub-id pub-id-type="pmid">16054882</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R94">
+            <mixed-citation publication-type="journal">Connolly SJ, Dorian P, Roberts RS, Gent M, Bailin S, Fain ES, Thorpe K, et al.; Optimal Pharmacological Therapy in Cardioverter Defibrillator Patients (OPTIC) Investigators. Comparison of beta-blockers, amiodarone plus beta-blockers, or sotalol for prevention of shocks from implantable cardioverter defibrillators: the OPTIC Study: a randomized trial. JAMA 2006; 295: 165-71. <annotation><p><italic toggle="yes">(140 patients received amiodarone for one year of whom 5.7% developed thyroid and 5% pulmonary dysfunction; no mention of liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">16403928</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R95">
+            <mixed-citation publication-type="journal">Da Costa A, Thevenin J, Roche F, Romeyer-Bouchard C, Abdellaoui L, Messier M, et al.; Loire-Ardeche-Drome-Isere-Puy-de-Dome Trial of Atrial Flutter Investigators. Results from the Loire-Ardeche-Drome-Isere-Puy-de-Dome (LADIP) trial on atrial flutter, a multicentric prospective randomized study comparing amiodarone and radiofrequency ablation after the first episode of symptomatic atrial flutter. Circulation 2006; 114: 1676-81. <annotation><p><italic toggle="yes">(Prospective trial of 104 elderly patients given amiodarone or radiofrequency ablation for atrial flutter; no mention of hepatic toxicity during an average of 13 months of therapy).</italic></p></annotation><pub-id pub-id-type="pmid">17030680</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R96">
+            <mixed-citation publication-type="journal">Waldhauser KM, T&#x000f6;r&#x000f6;k M, Ha HR, Thomet U, Konrad D, Brecht K, Follath F, et al. Hepatocellular toxicity and pharmacological effect of amiodarone and amiodarone derivatives. J Pharmacol Exp Ther 2006; 319: 1413-23. <annotation><p><italic toggle="yes">(In vitro study of amiodarone and its derivatives for effects on hepatocytes and mitochondria).</italic></p></annotation><pub-id pub-id-type="pmid">16971508</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R97">
+            <mixed-citation publication-type="journal">Kum LC, Chan WW, Hui HH, Wong GW, Ho SS, Sanderson JE, Yu CM, Fung JW. Prevalence of amiodarone-related hepatotoxicity in 720 Chinese patients with or without baseline liver dysfunction. Clin Cardiol 2006; 29: 295-9. <annotation><p><italic toggle="yes">(Retrospective chart review on 720 patients receiving 100-300 mg/day amiodarone for an average of 2 years, only 4 patients [.6%] stopped therapy because of liver test abnormalites, but ~4% developed abnormal ALT [2 times ULN]).</italic></p></annotation><pub-id pub-id-type="pmid">16881537</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R98">
+            <mixed-citation publication-type="journal">Kochiadakis GE, Igoumenidis NE, Hamilos ME, Marketou ME, Chlouverakis GI, Vardas PE. A comparative study of the efficacy and safety of procainamide versus propafenone versus amiodarone for the conversion of recent-onset atrial fibrillation. Am J Cardiol 2007; 99: 1721-5. <annotation><p><italic toggle="yes">(In a prospective clinical trial, 92 patients received intravenous amiodarone for conversion of atrial fibrillation, no hepatic dysfunction mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">17560882</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R99">
+            <mixed-citation publication-type="journal">Singh BN, Connolly SJ, Crijns HJ, Roy D, Kowey PR, Capucci A, Radzik D, et al.; EURIDIS and ADONIS Investigators. Dronedarone for maintenance of sinus rhythm in atrial fibrillation or flutter. N Engl J Med 2007; 357: 987-99. <annotation><p><italic toggle="yes">(Prospective study of a benzofuran derivative of amiodarone given to 828 patients for up to one year, abnormalities in liver tests were reported in 12.2% of dronedarone and 13.6% of placebo recipients).</italic></p></annotation><pub-id pub-id-type="pmid">17804843</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R100">
+            <mixed-citation publication-type="journal">Sabat&#x000e9; M, Ib&#x000e1;&#x000f1;ez L, P&#x000e9;rez E, Vidal X, Buti M, Xiol X, Mas A, Guarner C, et al. Risk of acute liver injury associated with the use of drugs: a multicentre population survey. Aliment Pharmacol Ther 2007; 25:1401-9. <annotation><p><italic toggle="yes">(Population based survey of 126 cases of acute drug induced liver injury in Spain between 1993-1999 calculated relative risk of injury compared to the general population as 12.3 for amiodarone [but, n=3] with estimated incidence of 7.0 per 100,000 patient years).</italic></p></annotation><pub-id pub-id-type="pmid">17539979</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R101">
+            <mixed-citation publication-type="journal">Zimetbaum P. Amiodarone for atrial fibrillation. N Engl J Med 2007; 356: 935-41. <annotation><p><italic toggle="yes">(Clinical therapeutics article about use of amiodarone in atria fibrillation, a non-FDA approved but clearly effective therapy; recommends that amiodarone be used carefully with regular monitoring for side effects).</italic></p></annotation><pub-id pub-id-type="pmid">17329700</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R102">
+            <mixed-citation publication-type="journal">Rizzioli E, Incasa E, Gamberini S, Savelli S, Zangirolami A, Tampieri M, Manfredini R. Acute toxic hepatitis after amiodarone intravenous loading. Am J Emerg Med 2007; 25: 1082.e1-4. <annotation><p><italic toggle="yes">(79 year old woman developed marked ALT elevations [3387 U/L] starting within a few hours of iv amiodarone infusions followed by mild jaundice [bilirubin 2.2 mg/dL], with rapid resolution; possibly due to ischemic hepatitis from acute heart failure).</italic></p></annotation><pub-id pub-id-type="pmid">18022508</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R103">
+            <mixed-citation publication-type="journal">Sharma JR, Sathanandam S, Rao SP, Acharya S, Flood V. Ventricular tachycardia in acute fulminant myocarditis: medical management and follow-up. Pediatr Cardiol 2007; <annotation><p><italic toggle="yes">(17 month old girl with ventricular tachycardia, developed marked elevations of ALT [5073 U/L] and LDH after iv amiodarone, resolving rapidly with stopping).</italic></p></annotation><pub-id pub-id-type="pmid">17876653</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R104">
+            <mixed-citation publication-type="journal">Vassallo P, Trohman RG. Prescribing amiodarone: an evidence-based review of clinical indications. JAMA 2007; 298: 1312-22. <annotation><p><italic toggle="yes">(Review of use of amiodarone with summary of side effects: elevated enzymes in 15 to 30% of patients on long term therapy; hepatitis or cirrhosis in &#x0003c;3%, 0.6% annually).</italic></p></annotation><pub-id pub-id-type="pmid">17878423</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R105">
+            <mixed-citation publication-type="journal">Chen YY, Chen CY, Leung KK. Acute pancreatitis and amiodarone: a case report. World J Gastroenterol 2007; 13: 975-7. <annotation><p><italic toggle="yes">(66 year old woman developed mild pancreatitis without liver injury 3 months after starting amiodarone [100-200 mg/day]).</italic></p></annotation><pub-id pub-id-type="pmid">17352036</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R106">
+            <mixed-citation publication-type="journal">Collins AM, Winter DC, McCormick AP, Cottell DC, Geoghegan JG. Amiodarone hepatotoxicity complicating obstructive jaundice due to ampullary cancer. Hepatobiliary Pancreat Dis Int 2007; 6: 435-7. <annotation><p><italic toggle="yes">(65 year old man developed jaundice which was attributed to ampullary cancer, but liver biopsy showed amiodarone-like changes in addition; patient had received 200 mg/day for 5 years).</italic></p></annotation><pub-id pub-id-type="pmid">17690045</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R107">
+            <mixed-citation publication-type="journal">Kang HM, Kang YS, Kim SH, Seong JK, Kang DY, Lee HY, Lee BS. Amiodarone-induced hepatitis and polyneuropathy. Korean J Intern Med 2007; 22: 225-9. <annotation><p><italic toggle="yes">(75 year old man developed polyneuropathy and liver disease after 1.5 years of therapy with amiodarone).</italic></p></annotation><pub-id pub-id-type="pmid">17939344</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R108">
+            <mixed-citation publication-type="journal">Dedhia V, Munsi SC. Acute amiodarone hepatotoxicity. Indian Heart J 2007; 59: 491-3. <pub-id pub-id-type="pmid">19151464</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R109">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, 3 cases [~1%] were attributed to amiodarone: Case 1).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R110">
+            <mixed-citation publication-type="journal">Cataldi A, Gonella D, Robutti N, Siri M, Buonocore S, Odetti P. Hepatotoxicity after intravenous amiodarone. Aging Clin Exp Res 2008; 20: 593-6. <annotation><p><italic toggle="yes">(77 year old with atrial fibrillation and heart failure, given one day of iv amiodarone and found to have marked increase in ALT levels peaking at 4200 U/L on day 5 (bilirubin 1.9 mg/dL), resolving 2 weeks after stopping).</italic></p></annotation><pub-id pub-id-type="pmid">19179845</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R111">
+            <mixed-citation publication-type="journal">Babatin M, Lee SS, Pollak PT. Amiodarone hepatotoxicity. Curr Vasc Pharmacol 2008; 6: 228-36. <italic toggle="yes">(Review of hepatotoxicity of am</italic>iodarone; ALT elevations occur in 7-24% of patients, depending upon definition and frequency of testing; clinically apparent liver injury in 1-3%, but variable latency and presentation; no clear guidelines on reliability of monitoring).<pub-id pub-id-type="pmid">18673162</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R112">
+            <mixed-citation publication-type="journal">Chan AL, Hsieh HJ, Hsieh YA, Lin SJ. Fatal amiodarone-induced hepatotoxicity: a case report and literature review. Int J Clin Pharmacol Ther 2008; 46: 96-101. <annotation><p><italic toggle="yes">(72 year old developed acute liver failure starting one day after second dose of iv amiodarone for rapid atrial fibrillation with ALT rising from 44 to 1316 U/L, followed by hepatic and renal failure and death 3 weeks later).</italic></p></annotation><pub-id pub-id-type="pmid">18218290</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R113">
+            <mixed-citation publication-type="journal">Hoteit MA, Sanchez W. A bright liver. Clin Gastroenterol Hepatol 2008; 6:xxii. <annotation><p><italic toggle="yes">(CT image in 72 year old woman on amiodarone for several years with mild enzyme elevations but prolonged prothrombin time showed bright liver indicative of iodine accumulation).</italic></p></annotation><pub-id pub-id-type="pmid">18514037</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R114">
+            <mixed-citation publication-type="journal">Li L, Yang J, Ding JW. [Acute amiodarone-induced hepatotoxicity in a patient]. Zhonghua Xin Xue Guan Bing Za Zhi 2008; 36: 464. Chinese. <pub-id pub-id-type="pmid">19100047</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R115">
+            <mixed-citation publication-type="journal">Huang X, Yang Y, Zhu J, Gao X, Wang G, Tan H, Liang Y, Li J. Clinical applications and acute hepatotoxicity of intravenous amiodarone. J Int Med Res 2009; 37: 1928-36. <annotation><p><italic toggle="yes">(Retrospective chart review of 1214 patients who received intravenous amiodarone; 12% had liver test abnormalities, but most were mild; 1.1% were severe [ALT &#x0003e;10 times ULN: 446-2554 U/L], all recovered within 5 to 18 days).</italic></p></annotation><pub-id pub-id-type="pmid">20146893</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R116">
+            <mixed-citation publication-type="journal">Mattar W, Juliar B, Gradus-Pizlo I, Kwo PY. Amiodarone hepatotoxicity in the context of the metabolic syndrome and right-sided heart failure. J Gastrointestin Liver Dis 2009; 18: 419-23. <annotation><p><italic toggle="yes">(Among 409 patients treated with amiodarone for 60 days or more, 8 developed hepatotoxicity [ALT elevations] but none died or developed cirrhosis; all recovered, 5 after stopping and 3 with dose modification).</italic></p></annotation><pub-id pub-id-type="pmid">20076813</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R117">
+            <mixed-citation publication-type="journal">Hug BL, Lipsitz SR, Seger DL, Karson AS, Wright SC, Bates DW. Mortality and drug exposure in a 5-year cohort of patients with chronic liver disease. Swiss Med Wkly 2009; 139: 737-46. <annotation><p><italic toggle="yes">(Retrospective cohort study of all hospital outpatients seen at two Boston hospitals between 2002-7 using ICD9 codes; 1.1 million patients, 20,158 [1.7%] with chronic liver disease, mean age 52 years, 55% men, chronic hepatitis C in 30%, B in 7.5% and alcohol in 8.4%, 5 drugs were associated with a higher mortality rate, one being amiodarone).</italic></p></annotation><pub-id pub-id-type="pmid">19924579</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R118">
+            <mixed-citation publication-type="journal">Raja K, Thung SN, Fiel MI, Chang C. Drug-induced steatohepatitis leading to cirrhosis: long-term toxicity of amiodarone use. Semin Liver Dis 2009; 29: 423-8. <annotation><p><italic toggle="yes">(77 year old woman developed ascites 3 years after starting amiodarone [200 g/day] [bilirubin 0.6 mg/dL, ALT 32 U/L, Alk P 216 U/L, albumin 3.9 g/dL, INR 1.2, ANA 1:640], biopsy showing fibrosis and Mallory bodies, moderate steatosis).</italic></p></annotation><pub-id pub-id-type="pmid">19826976</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R119">
+            <mixed-citation publication-type="journal">Llanos L, Moreu R, Peir&#x000f3; AM, Pascual S, Franc&#x000e9;s R, Such J, Horga JF, et al. Causality assessment of liver injury after chronic oral amiodarone intake. Pharmacoepidemiol Drug Saf 2009; 18: 291-300. <annotation><p><italic toggle="yes">(Analysis of 39 cases of amiodarone hepatotoxicity from literature; mean age 69 years, latency 2-3 years [ALT 188 U/L, Alk P 265 U/L], 19 [48%] had cirrhosis, 15 [38%] died; Bayesian analysis suggests that amiodarone is cause of ALT elevations in only 50% of cases, ALT &#x0003e;3 times ULN occurring in 1.7% of treated patients, 0.8% of controls).</italic></p></annotation><pub-id pub-id-type="pmid">19165760</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R120">
+            <mixed-citation publication-type="journal">Atiq M, Davis JC, Lamps LW, Beland SS, Rose JE. Amiodarone induced liver cirrhosis. Report of two cases. J Gastrointestin Liver Dis 2009; 18: 233-5. <annotation><p><italic toggle="yes">(Review of literature on amiodarone hepatotoxicity using Bayesian approach to assess likelihood of injury; modeling indicates that 2.3% of treated patients will develop liver test abnormalities [but only half related to amiodarone] and 0.5% clinically significant injury).</italic></p></annotation><pub-id pub-id-type="pmid">19565059</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R121">
+            <mixed-citation publication-type="journal">Kraus MS, Thomason JD, Fallaw TL, Calvert CA. Toxicity in Doberman Pinchers with ventricular arrhythmias treated with amiodarone (1996-2005). J Vet Intern Med 2009; 23: 1-6. <annotation><p><italic toggle="yes">(Among 22 dogs with dilated cardiomyopathy receiving amiodarone, 3 developed toxicity acutely with ALT 841-1128 U/L resolving rapidly; 43% developed toxicity during maintenance therapy with ALT 427-2306 U/L, bilirubin 1.8-2.7 mg/dL; no hepatic histology).</italic></p></annotation><pub-id pub-id-type="pmid">19175714</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R122">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug-induced liver injury, none of which were attributed to amiodarone).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R123">
+            <mixed-citation publication-type="journal">Arkun A, Van Deusen SK, Grau T, Birkhahn RH. Hepatic dysfunction and neurotoxicity in a patient receiving long-term low-dose amiodarone therapy. J Emerg Med 2010; 38: 337-9. <annotation><p><italic toggle="yes">(90 year old man developed nausea and confusion 18 months after starting amiodarone [200 mg/day] [bilirubin 1.7 mg/dL, ALT 32 U/L, Alk P 189 U/L, ammonia 127 umol/L], rapid resolution of symptoms on stopping).</italic></p></annotation><pub-id pub-id-type="pmid">18757154</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R124">
+            <mixed-citation publication-type="journal">Gassanov N, Caglayan E, Erdmann E, Er F. [Amiodarone-induced liver dysfunctions]. Dtsch Med Wochenschr 2010; 135: 1372-4. German. <annotation><p><italic toggle="yes">(64 year old woman developed fatigue and abdominal pain 17 months after starting amiodarone [200 mg/day] [bilirubin normal, ALT 263 U/L, GGT 71 U/L], resolving upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">20589584</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R125">
+            <mixed-citation publication-type="journal">Pollak PT. How toxic is amiodarone to the liver? J Gastrointestin Liver Dis 2010; 19: 11-3. <annotation><p><italic toggle="yes">(Commentary on liver injury from amiodarone: "amiodarone appears to be as safe or safer than alcohol").</italic></p></annotation><pub-id pub-id-type="pmid">20361068</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R126">
+            <mixed-citation publication-type="journal">Ishida S, Sugino M, Hosokawa T, Sato T, Furutama D, Fukuda A, Kimura F, Kuwabara H, Shibayama Y, Hanafusa T. Amiodarone-induced liver cirrhosis and parkinsonism: a case report. Clin Neuropathol 2010; 29: 84-8. <annotation><p><italic toggle="yes">(67 year old man developed hand tremor, confusion and liver test abnormalities 2 years after starting amiodarone [200 mg daily] [bilirubin 1.9 mg/dL, ALT 167 U/L, Alk P 463 U/L, ammonia 161 &#x003bc;g/dL], dying within days of presentation and autopsy showing cirrhosis with steatosis and Mallory bodies and brain changes of Parkinson disease).</italic></p></annotation><pub-id pub-id-type="pmid">20175957</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R127">
+            <mixed-citation publication-type="journal">Verhovez A, Elia F, Riva A, Ferrari G, Apr&#x000e0; F. Acute liver injury after intravenous amiodarone: a case report. Am J Emerg Med 2011; 29: 843.e5-6. <annotation><p><italic toggle="yes"> (82 year old woman with heart failure and rapid atrial fibrillation developed serum enzyme elevations with in 24 hours of starting intravenous amiodarone [ALT 1614 U/L], which fell to normal within 9 days of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">20870371</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R128">
+            <mixed-citation publication-type="journal">von Vital JM, Karachristos A, Singhal A, Thomas R, Jain A. Acute amiodarone hepatotoxicity after liver transplantation. Transplantation 2011; 91: e62-4. <annotation><p><italic toggle="yes">(64 year old man with end stage liver disease from NASH and liver cancer developed ALT elevations [bilirubin 13.4 mg/dL, ALT 2028 U/L, Alk P 104 U/L] 7 days after liver transplantation while receiving intravenous amiodarone, resolving rapidly when it was stopped and with no other cause found).</italic></p></annotation><pub-id pub-id-type="pmid">21475067</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R129">
+            <mixed-citation publication-type="journal">In brief: FDA warning on dronedarone (Multaq). Med Lett Drugs Ther 2011; 53(1359): 17. <annotation><p><italic toggle="yes">(Warning from FDA of several cases of severe liver injury and liver failure, two requiring transplantation, during dronedarone therapy [after 4.5 and 6 months]).</italic></p></annotation><pub-id pub-id-type="pmid">21383666</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R130">
+            <mixed-citation publication-type="journal">Gluck N, Fried M, Porat R. Acute amiodarone liver toxicity likely due to ischemic hepatitis. Isr Med Assoc J 2011; 13: 748-52. <annotation><p><italic toggle="yes">(Comparison of clinical and biochemical features of 25 cases of acute liver injury due to intravenous amiodarone, with 25 cases of acute ischemic hepatitis showing similarities in risk factors, associated conditions, ALT and LDH elevations and time to resolution, suggesting ischemic hepatitis as the actual cause of reported acute amiodarone injury). </italic></p></annotation><pub-id pub-id-type="pmid">22332445</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R131">
+            <mixed-citation publication-type="journal">Joghetaei N, Weirich G, Huber W, B&#x000fc;chler P, Estner H. Acute liver failure associated with dronedarone. Circ Arrhythm Electrophysiol 2011; 4: 592-3. <annotation><p><italic toggle="yes">(70 year old woman developed jaundice 6 months after starting dronedarone for atrial fibrillation [peak bilirubin 30.3 mg/dL, ALT and Alk P not provided], with progressive hepatic failure leading to emergency liver transplantation 20 days after presentation).</italic></p></annotation><pub-id pub-id-type="pmid">21846890</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R132">
+            <mixed-citation publication-type="journal">Sung PS, Yoon SK. Amiodarone hepatotoxicity. Hepatology 2012; 55: 325-6. <annotation><p><italic toggle="yes">(72 year old man developed ascites 5 years after starting amiodarone [200 mg daily] for atrial fibrillation [bilirubin 2.3 mg/dL, ALT 237 U/L, Alk P 137 U/L, INR 1.32], CT scan showing hyperdense liver and biopsy showing cirrhosis).</italic></p></annotation><pub-id pub-id-type="pmid">21898482</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R133">
+            <mixed-citation publication-type="journal">Grecian R, Ainslie M. Acute hepatic failure following intravenous amiodarone. BMJ Case Rep 2012; 2012. <annotation><p><italic toggle="yes"> (73 year old man with ventricular arrhythmias developed liver injury within 24 hours of switching from oral to iv amiodarone [bilirubin 5.6 mg/dL, ALT 2421 U/L, Alk P 115 U/L], with rapid improvement on stopping).</italic></p></annotation><pub-id pub-id-type="pmid">23257638</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R134">
+            <mixed-citation publication-type="journal">Kicker JS, Haizlip JA, Buck ML. Hepatotoxicity after continuous amiodarone infusion in a postoperative cardiac infant. J Pediatr Pharmacol Ther 2012; 17: 189-95. <annotation><p><italic toggle="yes"> (8 month old girl developed liver injury within 4 days of starting iv amiodarone infusions [bilirubin 3.8 mg/dL, ALT 922 U/L, INR 4.3], resolving within 2-3 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">23118673</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R135">
+            <mixed-citation publication-type="journal">Kwon H, Lee SH, Kim SE, Lee JH, Jee YK, Kang HR, Park BJ, Park JW, Hong CS. Spontaneously reported hepatic adverse drug events in Korea: multicenter study. J Korean Med Sci 2012; 27: 268-73. (Summary of 2 years of adverse event reporting in Korea; of 9360 reports, 567 were liver related, but none were attributed to amiodarone).<pub-id pub-id-type="pmid">22379337</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R136">
+            <mixed-citation publication-type="journal">Lahbabi M, Aqodad N, Ibrahimi A, Lahlou M, Aqodad H. Acute hepatitis secondary to parenteral amiodarone does not preclude subsequent oral therapy. World J Hepatol 2012; 4: 196-8. <annotation><p><italic toggle="yes"> (29 year old woman developed liver test abnormalities within 24 hours of starting iv amiodarone [bilirubin normal, ALT 1050 U/L, Alk P 200 U/L], resolving within 1-2 weeks despite continuing amiodarone orally).</italic></p></annotation><pub-id pub-id-type="pmid">22761971</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R137">
+            <mixed-citation publication-type="journal">Ben Chaabane N, Hellara O, Safer L, Melki W, Bdioui F, Zakhama A, Saffar H. Cirrhosis with increased density of the liver: amiodarone-induced hepatotoxicity. Tunis Med 2012; 90: 487-8. <annotation><p><italic toggle="yes">(70 year old woman developed weight loss and hepatomegaly having taken amiodarone [200 mg daily] for 15 years [bilirubin not given, ALT 100 U/L, Alk P 347 U/L], liver biopsy showing cirrhosis and steatosis, lab tests improving upon stopping amiodarone).</italic></p></annotation><pub-id pub-id-type="pmid">22693093</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R138">
+            <mixed-citation publication-type="journal">Thiele RH, Williams J, Moylan CA, Rao SV, Bennett-Guerrero E. CASE 6--2012: suspected amiodarone hepatotoxicity after cardiac surgery. J Cardiothorac Vasc Anesth 2012; 26: 729-32. <annotation><p><italic toggle="yes">(57 year old man developed rapid atrial fibrillation 3 days after coronary artery bypass surgery and had liver injury within 24 hours of starting amiodarone [bilirubin not given, peak ALT 8197 U/L, INR 2.3, CK 4787], eventually resolving rapidly once amiodarone was stopped).</italic></p></annotation><pub-id pub-id-type="pmid">22516469</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R139">
+            <mixed-citation publication-type="journal">Rao U, Agarwal A. Amiodarone-induced acute hepatotoxicity. Eur J Clin Pharmacol 2012; 68: 449-50. <annotation><p><italic toggle="yes">(44 year old man with heart failure and rapid atrial fibrillation developed hypotension and liver injury within 24 hours of starting intravenous amiodarone [bilirubin 2.6 mg/dL, ALT 4428 U/L, Alk P 109 U/L], resolving within 10 days of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">21989920</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R140">
+            <mixed-citation publication-type="journal">Akbal E, Batgi H, Ko&#x000e7;ak E, Canatan T, K&#x000f6;kl&#x000fc; S. Low-dose amiodarone-induced fatal liver failure. Drug Chem Toxicol 2012 Epub. <annotation><p><italic toggle="yes">(80 year old man developed jaundice one month after starting amiodarone in a dose of 400 mg daily [bilirubin 3.6 mg/dL, ALT 1240 U/L, LDH 3170 U/L, Alk P 99 U/L] and died one day later after a cardiopulmonary arrest).</italic></p></annotation><pub-id pub-id-type="pmid">22356138</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R141">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, including 1 case attributed to amiodarone).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R142">
+            <mixed-citation publication-type="journal">Cimic A, Sirintrapun J. Amiodarone hepatotoxicity with absent phospholipidosis and steatosis: a case report and review of amiodarone toxicity in various organs. Case Rep Pathol 2013; 2013: 201095. <annotation><p><italic toggle="yes"> (33 year old woman with congenital heart disease developed liver test abnormalities after several years of therapy with amiodarone [bilirubin normal, ALT 188 U/L, Alk P normal], liver biopsy showing ballooning degeneration, Mallory bodies, inflammation and fibrosis, but no steatosis; after stopping, enzymes fell to normal).</italic></p></annotation><pub-id pub-id-type="pmid">23762711</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R143">
+            <mixed-citation publication-type="journal">Nasser M, Larsen TR, Waanbah B, Sidiqi I, McCullough PA. Hyperacute drug-induced hepatitis with intravenous amiodarone: case report and review of the literature. Drug Healthc Patient Saf 2013; 5: 191-8. <annotation><p><italic toggle="yes">(88 year old man with atrial fibrillation developed liver test abnormalities after receiving 960 mg of amiodarone intravenously over 10 hours [bilirubin 0.9 mg/dL, ALT 1048 U/L], resolving within 7 days of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">24109195</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R144">
+            <mixed-citation publication-type="journal">Cho YS, Han JH, Chae HB, Kim JS, Kang KM, Park SM, Lim JC. [A case of simultaneously occurred amiodarone-induced hepatitis and hypothyroidism]. Korean J Gastroenterol 2013; 62: 59-63. <annotation><p><italic toggle="yes"> (65 year old woman with atrial fibrillation developed liver and thyroid test abnormalities 9 months after starting amiodarone [bilirubin 0.6 mg/dL, ALT 399 U/L, GGT 68 U/L, TSH 17.3 mU/L], resolving once amiodarone was stopped).</italic></p></annotation><pub-id pub-id-type="pmid">23954962</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R145">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. (Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, but none were attributed to amiodarone).<pub-id pub-id-type="pmid">24552865</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R146">
+            <mixed-citation publication-type="journal">Kim HL, Seo JB, Chung WY, Kim SH, Kim MA, Zo JH. The incidence and predictors of overall adverse effects caused by low dose amiodarone in real-world clinical practice. Korean J Intern Med 2014; 29: 588-96. <annotation><p><italic toggle="yes">(Among 930 patients with arrhythmias treated with low doses of amiodarone, 154 [17%] had advrse events which were liver related in 20 [2.2%] but no details provided).</italic></p></annotation><pub-id pub-id-type="pmid">25228834</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R147">
+            <mixed-citation publication-type="journal">Amacher DE, Chalasani N. Drug-induced hepatic steatosis. Semin Liver Dis 2014; 34: 205-14. <annotation><p><italic toggle="yes"> (Review of the drugs that cause hepatic steatosis including amiodarone, valproate, methotrexate, tamoxifen, cancer chemotherapies and antiretroviral agents).</italic></p></annotation><pub-id pub-id-type="pmid">24879984</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R148">
+            <mixed-citation publication-type="journal">Kim BB, Kim DM, Choi DH, Chung JW, Koh YY, Chang KS, Hong SP. Amiodarone toxicity showing high liver density on CT scan with normal liver function and plasma amiodarone levels in a long-term amiodarone user. Int J Cardiol 2014; 172: 494-5. <annotation><p><italic toggle="yes"> (75 year old woman with recurrent atrial fibrillation developed tremor, nausea and vomiting 26 months after starting amiodarone [400 mg daily] and routine CT scan showed high density of the liver despite normal liver tests [ALT 32, AST 28 U/L], the symptoms resolving with stopping amiodarone).</italic></p></annotation><pub-id pub-id-type="pmid">24485640</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R149">
+            <mixed-citation publication-type="journal">Rabinowich L, Shibolet O. Drug induced steatohepatitis: an uncommon culprit of a common disease. Biomed Res Int 2015; 2015: 168905. <annotation><p><italic toggle="yes"> ((Review of the drugs that cause hepatic steatosis including amiodarone, valproate, methotrexate, tamoxifen, cancer chemotherapies and antiretroviral agents).</italic></p></annotation><pub-id pub-id-type="pmid">26273591</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R150">
+            <mixed-citation publication-type="journal">Buggey J, Kappus M, Lagoo AS, Brady CW. Amiodarone-induced liver injury and cirrhosis. ACG Case Rep J 2015; 2: 116-8. <annotation><p><italic toggle="yes">(80 year old woman developed fatigue 3.5 years after starting amiodarone and was found to have cirrhosis [bilirubin 1.9 mg/dL, ALT 54 U/L, AST 94 U/L, Alk P 200 U/L], with hepatic decompensation and death within 2 days).</italic></p></annotation><pub-id pub-id-type="pmid">26157932</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R151">
+            <mixed-citation publication-type="journal">Stratton A, Fenderson J, Kenny P, Helman DL. Severe acute hepatitis following intravenous amiodarone: a case report and review of the literature. Acta Gastroenterol Belg 2015; 78: 233-9. <annotation><p><italic toggle="yes">(80 year old man developed marked increases in ALT levels within 24 hours of starting intravenous amiodarone [bilirubiin rising from 0.5 to 1.6 mg/dL, ALT 44 to 3969 U/L, Alk P 127 U/L] resolving rapidly with stopping infusions).</italic></p></annotation><pub-id pub-id-type="pmid">26151694</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R152">
+            <mixed-citation publication-type="journal">Mudalel ML, Dave KP, Hummel JP, Solga SF. N-acetylcysteine treats intravenous amiodarone induced liver injury. World J Gastroenterol 2015; 21: 2816-9. <annotation><p><italic toggle="yes">(65 year old woman with cardiogenic shock and atrial fibrillation developed marked ALT elevations after receiving intravenous amiodarone [ALT 1541 U/L], which decreased rapidly with infusions of N-acetylcysteine).</italic></p></annotation><pub-id pub-id-type="pmid">25759554</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R153">
+            <mixed-citation publication-type="journal">Douros A, Bronder E, Andersohn F, Klimpel A, Thomae M, Sarganas G, Kreutz R, et al. Drug-induced liver injury: results from the hospital-based Berlin Case-Control Surveillance Study. Br J Clin Pharmacol 2015; 79: 988-99. <annotation><p><italic toggle="yes"> (Among 76 inpatients with hepatitis of uniknown cause enrolled in a prospective case-cohort surveillance study between 2002 and 2011, 7 [9%] were attributed to amiodarone, which was being taken by only 10 of 377 controls [2.7%] yielding an odds ratio of 5.5).</italic></p></annotation><pub-id pub-id-type="pmid">25444550</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R154">
+            <mixed-citation publication-type="journal">Li JG, Yang TC, Yu DM, Ren TH. Fatal acute liver failure after intravenous amiodarone administration. J Formos Med Assoc 2015; 114: 294-6. <annotation><p><italic toggle="yes">(Authors report two cases of acute liver failure in patients given intravenous amiodarone without specific details and summarize 5 fatal instances from the published literature).</italic></p></annotation><pub-id pub-id-type="pmid">23953514</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R155">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 5 cases were attributed to amiodarone).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R156">
+            <mixed-citation publication-type="journal">Chen CC, Wu CC. Acute Hepatotoxicity of Intravenous Amiodarone: Case Report and Review of the Literature. Am J Ther 2016; 23: e260-3. <annotation><p><italic toggle="yes">(57 year old man with coronary artery disease, diabetes and hepatitis B developed marked increases in AST levels within 2 days of starting amiodarone infusions [bilirubin 0.8 mg/dL, AST 4374 U/L, Alk P 108 U/L] falling into the normal range within 3 weeks of stopping the infusions and despite continuing oral amiodarone).</italic></p></annotation><pub-id pub-id-type="pmid">25259952</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R157">
+            <mixed-citation publication-type="journal">Bucco S, Arazzi M, Giunta F, Grabocka X, Longo MO, Silvestri S, Spetrino N, et al. [Acute hepatotoxicity from intravenous amiodarone in a patient on hemodialysis]. G Ital Nefrol 2016; 33. pii: 26913742<annotation><p><italic toggle="yes">(74 year old woman on chronic hemodialysis developed rapid atrial fibrillation and was found to have marked liver test elevations within 24 hours of starting intravenous amiodarone [bilirubin 0.7 mg/dL, ALT 1139, LDH 3079 U/L, Alk P 120 U/L] which fell rapidly to normal within 7 days of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">26913742</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amiodarone.R158">
+            <mixed-citation publication-type="journal">Hashmi A, Keswani NR, Kim S, Graham DY. Hepatic dysfunction in patients receiving intravenous amiodarone. South Med J 2016; 109: 83-6. <annotation><p><italic toggle="yes"> (Among 1510 patients treated with intravenous amiodarone over a 7 year period in a retrospective chart review, 77 [5%] developed ALT elevations of varying severity [peak 37 to 10,006 U/L] and 17 [22%] died within 30 days, but none died of the liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">26840961</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Amiodarone.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=amiodarone/AE+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI+OR+hepatitis,+toxic%5BMH%5D)+AND+(%222008/1/30%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Amiodarone: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=amiodarone">Trials on Amiodarone: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

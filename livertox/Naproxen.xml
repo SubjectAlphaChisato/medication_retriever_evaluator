@@ -1,0 +1,1490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Naproxen" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Naproxen</book-part-id>
+      <title-group>
+        <title>Naproxen</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>20</day>
+          <month>3</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="NaltrexoneBupropion" document-type="chapter">Naltrexone-Bupropion</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Natalizumab" document-type="chapter">Natalizumab</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Naproxen.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Naproxen.Introduction">
+          <title>Introduction</title>
+          <p content-type="pubmed-excerpt">Naproxen is a popular over-the-counter nonsteroidal antiinflammatory drug (NSAID) that is widely used for therapy of mild-to-moderate pain and arthritis. Naproxen has been associated with rare cases of clinically apparent drug induced liver injury.</p>
+        </sec>
+        <sec id="Naproxen.Background">
+          <title>Background</title>
+          <p>Naproxen (na prox' en) belongs to the propionic acid class of NSAIDs similar to fenoprofen, ibuprofen, ketoprofen and oxaprozin. The antiinflammatory and analgesic properties of NSAIDs such as naproxen are mediated by inhibition of tissue cyclo-oxygenases (Cox-1 and -2), which results in a decrease in pro-inflammatory prostaglandins, important mediators in inflammatory and pain pathways. Naproxen has analgesic as well as antipyretic and antiinflammatory activity. It has a longer half-life than other commonly used NSAIDs, making a twice daily regimen feasible. Naproxen was approved for use by prescription in the United States in 1976 and for over-the-counter use in 1994. Currently more than 10 million prescriptions for naproxen are filled yearly and these numbers do not capture the wide scale over-the-counter sales. Naproxen is indicated for mild-to-moderate pain from various causes including trauma, tendonitis, headache, dysmenorrhea, and various forms of arthritis including osteoarthritis, rheumatoid arthritis, gout and ankylosing spondylitis. Generic and over-the-counter formulations are available as tablets, capsules and oral suspensions in multiple doses (125, 250, 225, 375, 500, 550 mg) under multiple commercial names including: Aleve, Anaprox, Naprosyn, Naxen, Naxodol, Neo-Prox, Nu-Naprox, Nycopren, Proxen, Synflex. Over-the-counter combinations with antihistamines are also available. The typical dose is 250 to 500 mg taken orally twice daily. As with other NSAIDs, naproxen is generally well tolerated, but side effects can include headache, dizziness, somnolence, dyspepsia, nausea, abdominal discomfort, heartburn, peripheral edema and hypersensitivity reactions. Rare but serious adverse events from NSAIDs include gastrointestinal ulceration and bleeding, increased risk for cardiovascular disease, renal dysfunction, exacerbation of asthma and hypersensitivity reactions including anaphylaxis, exfoliative dermatitis and Stevens Johnson syndrome.</p>
+        </sec>
+        <sec id="Naproxen.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Serum aminotransferase levels can be elevated in as many as 4% of patients receiving prolonged courses of naproxen, particularly with high doses. Clinically apparent naproxen induced liver injury is very rare (~1-3 per 100,000 users), but convincing cases have been reported that resemble acute hepatitis and arise within 1 to 6 weeks of starting naproxen (Cases 1 and 2). The time to onset can be as long as 12 weeks, but convincing instances of liver injury arising after long term use have not been described. The pattern of serum enzyme elevations has ranged from hepatocellular to cholestatic injury. Immunoallergic features and autoantibodies are not common. In most instances, recovery is rapid once naproxen is stopped. Rare instances of acute liver failure attributed to naproxen have been published, but the role of naproxen in these cases was not very convincingly shown. Reviews of hepatotoxicity often mention that naproxen is the least likely NSAID to cause serious liver injury.</p>
+          <p>Likelihood score: B (rare but likely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Naproxen.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of hepatotoxicity from naproxen is not known, but it is metabolized by the cytochrome P450 system and idiosyncratic injury may be due to a toxic metabolite. Cross sensitivity to hepatic injury with fenoprofen suggests that the propionic acid may be responsible for the injury.</p>
+        </sec>
+        <sec id="Naproxen.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Severity ranges from transient, asymptomatic elevations in serum aminotransferase levels, to hepatitis with jaundice, to fulminant liver failure leading to death or need for liver transplantation. In most cases, complete recovery is expected promptly after stopping the drug. Cross reactivity with other propionic acid derivatives, such as fenoprofen, has been reported, and should thus be considered when switching the patient to an alternate NSAID or analgesic.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="NonsteroidalAntiinfl" document-type="chapter">Nonsteroidal Antiinflammatory Drugs</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Naproxen.CASE_REPORTS">
+        <title>CASE REPORTS</title>
+        <sec id="Naproxen.Case_1_Acute_hepatitis_due_to_n">
+          <title>Case 1. Acute hepatitis due to naproxen.(<xref ref-type="bibr" rid="Naproxen.REF.1">1</xref>)</title>
+          <p>A 57 year old woman was started on naproxen (500 mg daily) for arthritis and ten days later developed nausea, abdominal pain and weakness, followed a few days later by jaundice. She had no previous history of liver disease, had no risk factors for viral hepatitis and did not drink alcohol. She was not taking other medications and had no history of adverse drug reactions. Blood tests showed bilirubin of 4.6 mg/dL with elevations in both ALT and alkaline phosphatase (Table). Tests for acute hepatitis A and B and for serum autoantibodies were negative. Abdominal ultrasound and ERCP showed no evidence of biliary obstruction. A liver biopsy showed acute hepatocellular necrosis. Naproxen was stopped, and she recovered rapidly. Approximately 2 months later, she was started on fenoprofen for recurrence of her arthritic pains. Within five days she developed nausea, abdominal pain and fatigue and liver tests were abnormal. She recovered uneventfully after stopping fenoprofen.</p>
+          <sec id="Naproxen.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Naproxen.Tc" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Naproxen.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Naproxen.Tc_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Naproxen (500 mg daily for 14 days)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Naproxen.Tc_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Naproxen.Tc_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Hepatocellular (R=15)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Naproxen.Tc_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Naproxen.Tc_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">3+ (hospitalized with jaundice)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Naproxen.Tc_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Naproxen.Tc_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">7 days to symptoms, 10 to onset of jaundice</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Naproxen.Tc_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Naproxen.Tc_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">One to two months</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Naproxen.Tc_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Naproxen.Tc_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">None</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Naproxen.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Naproxen.Td" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Naproxen.Td_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Days After<break/>Starting</th>
+                    <th id="hd_h_Naproxen.Td_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">Days After<break/>Stopping</th>
+                    <th id="hd_h_Naproxen.Td_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT*<break/>(U/L)</th>
+                    <th id="hd_h_Naproxen.Td_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Alk P*<break/>(U/L)</th>
+                    <th id="hd_h_Naproxen.Td_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                    <th id="hd_h_Naproxen.Td_1_1_1_6" valign="top" align="center" scope="col" rowspan="1" colspan="1">Comments</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_3 hd_h_Naproxen.Td_1_1_1_4 hd_h_Naproxen.Td_1_1_1_5 hd_h_Naproxen.Td_1_1_1_6" colspan="4" valign="top" align="center" rowspan="1">Naproxen given for 14 days</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">10</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">450</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">19</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">500</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">280</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">4.6</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Admission: GGT 349</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">31</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">12</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">160</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">205</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">36</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">17</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">40</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">190</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Discharged</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">72</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">43</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_3 hd_h_Naproxen.Td_1_1_1_4 hd_h_Naproxen.Td_1_1_1_5 hd_h_Naproxen.Td_1_1_1_6" colspan="4" valign="top" align="center" rowspan="1">Fenoprofen started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">6</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">300</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">320</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Fenoprofen stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">27</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">21</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">180</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">240</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">90</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">84</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">25</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">160</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_1 hd_h_Naproxen.Td_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;20</bold>
+</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;170</bold>
+</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Naproxen.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+              <table-wrap-foot>
+                <fn id="Naproxen.TF.d.1">
+                  <label>* </label>
+                  <p>Estimated from figure.</p>
+                </fn>
+              </table-wrap-foot>
+            </table-wrap>
+          </sec>
+          <sec id="Naproxen.Comment">
+            <title>Comment</title>
+            <p>A striking and convincing example of an acute hepatitis caused by naproxen with a latency of only one week and rapid improvement with stopping the medication. Exposure to fenoprofen, a class-related NSAID, led to rapid recurrence with a similar pattern of serum enzyme elevations. The propionic acid derivative class of NSAIDs include ibuprofen, naproxen, fenoprofen and oxaprozin.</p>
+          </sec>
+        </sec>
+        <sec id="Naproxen.Case_2_Acute_hepatocellular_inj">
+          <title>Case 2. Acute hepatocellular injury and jaundice after a single dose of naproxen.(<xref ref-type="bibr" rid="Naproxen.REF.2">2</xref>)</title>
+          <p>A 57 year old woman took a single dose of naproxen for abdominal pain and six days later developed generalized itching and jaundice. On admission to the hospital 4 days later, she was jaundiced but had no fever, rash or eosinophilia. Blood tests showed bilirubin of 22 mg/dL with marked elevations in ALT and minimal increases in alkaline phosphatase levels (Table). She tested positive for antibody to hepatitis A, but an IgM assay was evidently not done. Tests for hepatitis B and C (including HCV RNA), CMV and EBV were negative as were relevant autoantibodies. Ultrasound and CT scans of the abdomen were unremarkable. Liver biopsy showed intrahepatic cholestasis and variable degrees of hepatocellular necrosis. She recovered slowly, but completely over the next five months.</p>
+          <sec id="Naproxen.Key_Points_1">
+            <title>Key Points</title>
+            <table-wrap id="Naproxen.Te" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Naproxen.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Naproxen.Te_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Naproxen (one tablet, unknown amount)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Naproxen.Te_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Naproxen.Te_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Hepatocellular (R=30)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Naproxen.Te_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Naproxen.Te_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">3+ (hospitalized with jaundice)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Naproxen.Te_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Naproxen.Te_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">6 days to symptoms and jaundice</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Naproxen.Te_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Naproxen.Te_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">Five months</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Naproxen.Te_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Naproxen.Te_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">None mentioned</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Naproxen.Laboratory_Values_1">
+            <title>Laboratory Values</title>
+            <table-wrap id="Naproxen.Tf" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Naproxen.Tf_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Weeks After<break/>Starting</th>
+                    <th id="hd_h_Naproxen.Tf_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">Weeks After<break/>Stopping</th>
+                    <th id="hd_h_Naproxen.Tf_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT<break/>(U/L)</th>
+                    <th id="hd_h_Naproxen.Tf_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Alk P<break/>(U/L)</th>
+                    <th id="hd_h_Naproxen.Tf_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                    <th id="hd_h_Naproxen.Tf_1_1_1_6" valign="top" align="center" scope="col" rowspan="1" colspan="1">Comments</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_3 hd_h_Naproxen.Tf_1_1_1_4 hd_h_Naproxen.Tf_1_1_1_5 hd_h_Naproxen.Tf_1_1_1_6" colspan="4" valign="top" align="center" rowspan="1">One dose of naproxen taken</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">1</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">1</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">2023</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">80</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">22</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Admission</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">2</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">2</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">1549</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">58</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">32</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Liver biopsy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">3</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">3</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">622</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">65</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">37</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">11</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">11</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">183</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">72</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.4</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">15</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">15</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">97</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">47</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.6</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">21</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">21</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">17</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">17</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.7</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_1 hd_h_Naproxen.Tf_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;70</bold>
+</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;100</bold>
+</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Naproxen.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Naproxen.Comment_1">
+            <title>Comment</title>
+            <p>A remarkable case of acute hepatocellular jaundice arising within a week of taking a single tablet of naproxen. The case report provides little information about past medical history of possible exposures to viral hepatitis or other toxins, and serological tests were incomplete to rule out acute hepatitis A. Typical of naproxen induced liver injury was the short incubation period and the ultimate resolution of the hepatitis with no further exposure. However, the naproxen may have been co-incidental or actually taken to treat initial symptoms of an unrelated acute hepatic injury. Nevertheless, naproxen has been clearly implicated in a number of cases of acute hepatocellular injury and rechallenge would be foolhardy. The patient should be advised to avoid most other NSAIDs of the propionic class.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Naproxen.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Naproxen &#x02013; Generic, Aleve&#x000ae;, Anaprox&#x000ae;, Naprosyn&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Nonsteroidal Antiinflammatory Drugs</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=NAPROXEN&#x00026;pagesize=20&#x00026;page=1">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Naproxen.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Naproxen.Tg" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <tbody>
+              <tr>
+                <th id="hd_b_Naproxen.Tg_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_b_Naproxen.Tg_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_b_Naproxen.Tg_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_b_Naproxen.Tg_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+              <tr>
+                <td headers="hd_b_Naproxen.Tg_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Naproxen</td>
+                <td headers="hd_b_Naproxen.Tg_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134995706">22204-53-1</ext-link>
+</td>
+                <td headers="hd_b_Naproxen.Tg_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C14-H14-O3</td>
+                <td headers="hd_b_Naproxen.Tg_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134995706" document-id-type="sid" document-type="summary" object-id="134995706" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Naproxen.CITED_REFERENCES">
+        <title>CITED REFERENCES</title>
+        <ref-list id="Naproxen.CITED_REFERENCES.reflist0">
+          <ref id="Naproxen.REF.1">
+            <label>1</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Andrejak</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Davion</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Gineston</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Capron</surname><given-names>JP</given-names></name>
+</person-group>
+              <article-title>Cross hepatotoxicity between non-steroidal anti-inflammatory drugs.</article-title>
+              <source>Br Med J (Clin Res Ed)</source>
+              <year>1987</year>
+              <volume>295</volume>
+              <fpage>180</fpage>
+              <lpage>1</lpage>
+              <pub-id pub-id-type="pmid">3115366</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.2">
+            <label>2</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Demirag</surname><given-names>MD</given-names></name>
+<name name-style="western"><surname>Ozenirler</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Goker</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Poyraz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Haznedaroglu</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Ozturk</surname><given-names>MA</given-names></name>
+</person-group>
+              <article-title>Idiosyncratic toxic hepatitis secondary to single dose of naproxen.</article-title>
+              <source>Acta Gastroenterol Belg</source>
+              <year>2007</year>
+              <volume>70</volume>
+              <fpage>247</fpage>
+              <lpage>8</lpage>
+              <pub-id pub-id-type="pmid">17715646</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Naproxen.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 20 March 2020</p>
+        <p>Abbreviations: NSAIDs, nonsteroidal antiinflammatory drugs.</p>
+        <ref-list id="Naproxen.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Naproxen.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Drugs used to treat rheumatic and musculospastic disease. The NSAIDS. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 517-41.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of NSAIDs published in 1999 mentions that the variable onset of injury and scanty data on specific cases make it difficult to assign causality or a specific mechanism of hepatic injury from naproxen).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Naproxen.REF.lewis.2013">
+            <mixed-citation publication-type="book">Lewis JH, Stine JG. Nonsteroidal anti-inflammatory drugs and leukotriene receptor antagonists: pathology and clinical presentation of hepatotoxicity. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd Edition. Amsterdam: Elsevier, 2013. pp. 370-402.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of NSAIDs mentions that only a few cases of hepatic injury due to naproxen have been reported and the clinical features and possible pathogenesis are not well defined).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Naproxen.REF.grossner.2018">
+            <mixed-citation publication-type="book">Grossner T, Smyth EM, Fitzgerald GA. Pharmacotherapy of inflammation, fever, pain, and gout. In, Brunton LL, Hilal-Dandan R, Knollman BC. Goodman &#x00026; Gilman&#x02019;s The pharmacological basis of therapeutics, 13th ed. New York: McGraw-Hill, 2018. pp. 685-709.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Naproxen.REF.frenger.1973.137">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Frenger</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Morbach</surname><given-names>HJ</given-names></name>
+</person-group>
+              <comment>[Clinical trial with naproxen, with particular consideration to tolerance]</comment>
+              <source>Scand J Rheumatol Suppl</source>
+              <year>1973</year>
+              <volume>2</volume>
+              <fpage>137</fpage>
+              <lpage>9</lpage>
+              <comment>German.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Experience in 50 patients with arthritis given naproxen for 28 days; 3 patients had minimal ALT elevations, 16-20 mU).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">4590038</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.bass.1974.998">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bass</surname><given-names>BH</given-names></name>
+</person-group>
+              <article-title>Letter: Jaundice associated with naproxen.</article-title>
+              <source>Lancet</source>
+              <year>1974</year>
+              <volume>1</volume>
+              <fpage>998</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(35 year old woman developed jaundice [bilirubin 3.1 mg/dL, Alk P ~10x elevated, AST normal] 2-3 months after starting naproxen which resolved upon stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">4133693</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.law.1976.1201">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Law</surname><given-names>IP</given-names></name>
+<name name-style="western"><surname>Knight</surname><given-names>H</given-names></name>
+</person-group>
+              <article-title>Jaundice associated with naproxen.</article-title>
+              <source>N Engl J Med</source>
+              <year>1976</year>
+              <volume>295</volume>
+              <fpage>1201</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(54 year old woman developed jaundice [bilirubin 2.5 mg/dL; AST 1000 U/L, Alk P 400 U/L] 1 week after starting naproxen, resolving within 4 weeks).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">980029</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.krogsgaard.1980.450">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Krogsgaard</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Hardt</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Malchow-M&#x000f8;ller</surname><given-names>A.</given-names></name>
+</person-group>
+              <comment>[Liver involvement after treatment with naproxen]</comment>
+              <source>Ugeskr Laeger</source>
+              <year>1980</year>
+              <volume>142</volume>
+              <fpage>450</fpage>
+              <lpage>1</lpage>
+              <comment>Danish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(57 year old man developed nausea after two doses of naproxen with jaundice arising a few days later [bilirubin 8.2 mg/dL, ALT 70 U/L, Alk P 760 U/L], resolving within 4 to 5 weeks).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7368395</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.victorino.1980.368">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Victorino</surname><given-names>RM</given-names></name>
+<name name-style="western"><surname>Silveira</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Baptista</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>de Moura</surname><given-names>MC</given-names></name>
+</person-group>
+              <article-title>Jaundice associated with naproxen.</article-title>
+              <source>Postgrad Med J</source>
+              <year>1980</year>
+              <volume>56</volume>
+              <fpage>368</fpage>
+              <lpage>70</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(66 year old man developed jaundice [bilirubin 5.8 mg/dL, AST 102 U/L, Alk P 4 times ULN] 1 month after starting naproxen, resolving within few weeks of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7443602</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.giarelli.1986.1079">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Giarelli</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Falconieri</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Delendi</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Fulminant hepatitis following naproxen administration.</article-title>
+              <source>Hum Pathol</source>
+              <year>1986</year>
+              <volume>17</volume>
+              <fpage>1079</fpage>
+              <comment>Erratum in: Hum Pathol 1987; 18: 205</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(25 year old woman developed acute liver failure 1 month after a 5 day course of naproxen by suppository [bilirubin 18 mg/dL, ALT 1100 U/L, Alk P 196 U/L], other causes not completely ruled out).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3759067</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.grattan.1989.57">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Grattan</surname><given-names>CEH</given-names></name>
+</person-group>
+              <article-title>Pustular reaction to naproxen with cholestatic jaundice.</article-title>
+              <source>Dermatologica</source>
+              <year>1989</year>
+              <volume>179</volume>
+              <fpage>57</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Brief description of a patient who developed pustular dermatosis and cholestatic jaundice while taking naproxen for osteoarthritis; no details given of time of onset or liver test results).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2527771</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.reeve.1987.70">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Reeve</surname><given-names>PA</given-names></name>
+<name name-style="western"><surname>Moshiri</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Bell</surname><given-names>GD</given-names></name>
+</person-group>
+              <article-title>Pulmonary oedema, jaundice and renal impairment with naproxen.</article-title>
+              <source>Br J Rheumatol</source>
+              <year>1987</year>
+              <volume>26</volume>
+              <fpage>70</fpage>
+              <lpage>1</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(53 year old man developed pulmonary edema 1 week after starting naproxen followed by fever and jaundice [bilirubin 5.5 mg/dL, Alk P 72 U/L, AST 36 U/L], with little inflammation on liver biopsy and rapid recovery).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3814977</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.andrejak.1987.180">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Andrejak</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Davion</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Gineston</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Capron</surname><given-names>JP</given-names></name>
+</person-group>
+              <article-title>Cross hepatotoxicity between non-steroidal anti-inflammatory drugs.</article-title>
+              <source>Br Med J (Clin Res Ed)</source>
+              <year>1987</year>
+              <volume>295</volume>
+              <fpage>180</fpage>
+              <lpage>1</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(67 year old woman developed jaundice [bilirubin 4.9 mg/dL, ALT 250 U/L, Alk P 280 U/L] 9 days after starting naproxen, with rapid resolution, but recurrence in 4 days upon exposure to fenoprofen: Case 1).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3115366</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.smolinske.1990.252">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Smolinske</surname><given-names>SC</given-names></name>
+<name name-style="western"><surname>Hall</surname><given-names>AH</given-names></name>
+<name name-style="western"><surname>Vandenberg</surname><given-names>SA</given-names></name>
+<name name-style="western"><surname>Spoerke</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>McBride</surname><given-names>PV</given-names></name>
+</person-group>
+              <article-title>Toxic effects of nonsteroidal anti-inflammatory drugs in overdose. An overview of recent evidence on clinical effects and dose-response relationships.</article-title>
+              <source>Drug Saf</source>
+              <year>1990</year>
+              <volume>5</volume>
+              <fpage>252</fpage>
+              <lpage>74</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of literature on overdose of NSAIDs; overdose of naproxen typically causes gastrointestinal upset, metabolic acidosis and drowsiness, stupor and coma; one instance of very transient jaundice with ALT 64 U/L has been described).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2198051</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.bell.1991.322">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bell</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Raknerud</surname><given-names>N.</given-names></name>
+</person-group>
+              <comment>[Fulminating hepatitis after treatment with naproxen and/or disulfiram?]</comment>
+              <source>Tidsskr Nor Laegeforen</source>
+              <year>1991</year>
+              <volume>111</volume>
+              <fpage>322</fpage>
+              <lpage>3</lpage>
+              <comment>Norwegian.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Abstract only: 49 year old woman developed acute liver failure 6 weeks after starting disulfiram and 5 days after starting naproxen [bilirubin 26.4 mg/dL, ALT 2815 U/L], probably too rapid an onset for naproxen and more likely due to disulfiram).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2000613</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.zimmerman.1990.322">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zimmerman</surname><given-names>HJ</given-names></name>
+</person-group>
+              <article-title>Update of hepatotoxicity due to classes of drugs in common clinical use: non-steroid drugs, anti-inflammatory drugs, antibiotics, antihypertensives, and cardiac and psychotropic agents.</article-title>
+              <source>Semin Liver Dis</source>
+              <year>1990</year>
+              <volume>10</volume>
+              <fpage>322</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review article; naproxen listed as rare cause of hepatic injury with only 5 published cases, usually cholestatic, probably due to idiosyncrasy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2281340</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.jick.1992.207">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Jick</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Derby</surname><given-names>LE</given-names></name>
+<name name-style="western"><surname>Garc&#x000ed;a Rodr&#x000ed;guez</surname><given-names>LA</given-names></name>
+<name name-style="western"><surname>Jick</surname><given-names>SS</given-names></name>
+<name name-style="western"><surname>Dean</surname><given-names>AD</given-names></name>
+</person-group>
+              <article-title>Liver disease associated with diclofenac, naproxen, and piroxicam.</article-title>
+              <source>Pharmacotherapy</source>
+              <year>1992</year>
+              <volume>12</volume>
+              <fpage>207</fpage>
+              <lpage>12</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of UK database on 102,644 persons receiving NSAIDs, including 50,6676 on naproxen; 14 cases of suspected drug induced liver disease; most due to diclofenac, cases in patients on naproxen usually had another possible cause).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1608854</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.carson.1993.1331">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Carson</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Strom</surname><given-names>BL</given-names></name>
+<name name-style="western"><surname>Duff</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Gupta</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Das</surname><given-names>K</given-names></name>
+</person-group>
+              <article-title>Safety of nonsteroidal anti-inflammatory drugs with respect to acute liver disease.</article-title>
+              <source>Arch Intern Med</source>
+              <year>1993</year>
+              <volume>153</volume>
+              <fpage>1331</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of Medicaid database from Michigan and Florida from 1980-87 found 107 cases of acute idiopathic hepatitis [2.2/100,000], of whom 8.4% received NSAIDs and 0.9% naproxen, compared to 6.1% and 1.6% of 428 case-controls, suggesting little contribution of NSAIDs to acute liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8507123</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.garc_a_rodr_guez.1994.311">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Garc&#x000ed;a Rodr&#x000ed;guez</surname><given-names>LA</given-names></name>
+<name name-style="western"><surname>Williams</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Derby</surname><given-names>LE</given-names></name>
+<name name-style="western"><surname>Dean</surname><given-names>AD</given-names></name>
+<name name-style="western"><surname>Jick</surname><given-names>H</given-names></name>
+</person-group>
+              <article-title>Acute liver injury associated with nonsteroidal anti-inflammatory drugs and the role of risk factors.</article-title>
+              <source>Arch Intern Med</source>
+              <year>1994</year>
+              <volume>154</volume>
+              <fpage>311</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Retrospective cohort study of cases of acute liver injury in England after exposure to NSAIDs; 23 cases, but none fatal, including 5 from ibuprofen, 4 diclofenac, 4 naproxen, 2 mefenamic acid, 3 ketoprofen, 2 piroxicam, 2 fenbuten and 3 sulindac).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8297198</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.damore.1996.215">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>D'Amore</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Agostino</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Santoro</surname><given-names>A.</given-names></name>
+</person-group>
+              <article-title>Drug-induced cholestasis. Clinical contribution.</article-title>
+              <source>Minerva Gastroenterol Dietol</source>
+              <year>1996</year>
+              <volume>42</volume>
+              <fpage>215</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(61 year old developed jaundice 15 days after starting an 8-day course of naproxen [bilirubin 11.7 mg/dL, ALT 117 U/L, Alk P 277 U/L], resolving within 2 months).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17912213</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.manoukian.1996.64">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Manoukian</surname><given-names>AV</given-names></name>
+<name name-style="western"><surname>Carson</surname><given-names>JL</given-names></name>
+</person-group>
+              <article-title>Nonsteroidal anti-inflammatory drug-induced hepatic disorders. Incidence and prevention.</article-title>
+              <source>Drug Saf</source>
+              <year>1996</year>
+              <volume>15</volume>
+              <fpage>64</fpage>
+              <lpage>71</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review article focusing largely on diclofenac and sulindac; naproxen is associated with abnormal liver enzymes in ~4%; acute liver injury in 3.8/100,000 users).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8862964</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.walker.1997.201">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Walker</surname><given-names>AM</given-names></name>
+</person-group>
+              <article-title>Quantitative studies of the risk of serious hepatic injury in persons using nonsteroidal antiinflammatory drugs.</article-title>
+              <source>Arthritis Rheum</source>
+              <year>1997</year>
+              <volume>40</volume>
+              <fpage>201</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of population based studies of NSAID use and hepatic injury; frequency of clinically apparent liver injury from NSAIDs was ~10 cases per 100,000 patient-years of use, ranging from 9 to 12 per 100,000 for naproxen).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9041931</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.p_rezgutthann.1999.854">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>P&#x000e9;rez-Gutthann</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Garc&#x000ed;a-Rodr&#x000ed;guez</surname><given-names>LA</given-names></name>
+<name name-style="western"><surname>Duque-Oliart</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Varas-Lorenzo</surname><given-names>C</given-names></name>
+</person-group>
+              <article-title>Low-dose diclofenac, naproxen, and ibuprofen cohort study.</article-title>
+              <source>Pharmacotherapy</source>
+              <year>1999</year>
+              <volume>19</volume>
+              <fpage>854</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of database of general practice in UK on 3 million persons; analysis of 1991-5 of patients receiving first prescription for diclofenac [n=22,146], naproxen [n=46,919] or ibuprofen [n=54,830] in low doses similar to what might be given over-the-counter, found 64 complications, 13 liver injury, but only 3 confirmed, 1 naproxen [0.2/10,000], 2 ibuprofen [0.4/10,000], none diclofenac).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10417034</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.bareille.2001.51">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bareille</surname><given-names>MP</given-names></name>
+<name name-style="western"><surname>Montastruc</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Lapeyre-Mestre</surname><given-names>M</given-names></name>
+</person-group>
+              <comment>[Liver damage and nonsteroidal anti-inflammatory drugs: case non-case study in the French Pharmacovigilance Database]</comment>
+              <source>Therapie</source>
+              <year>2001</year>
+              <volume>56</volume>
+              <fpage>51</fpage>
+              <lpage>5</lpage>
+              <comment>French.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Using French database, overall 13% of adverse events due to NSAIDs were hepatic injury, including 15.7% of naproxen reports, but concomitant exposures to other hepatotoxins were frequent).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11322018</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.traversa.2003.18">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Traversa</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Bianchi</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Da Cas</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Abraha</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Menniti-Ippolito</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Venegoni</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Cohort study of hepatotoxicity associated with nimesulide and other non-steroidal anti-inflammatory drugs.</article-title>
+              <source>BMJ</source>
+              <year>2003</year>
+              <volume>327</volume>
+              <fpage>18</fpage>
+              <lpage>22</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 397,537 patients who received a prescription for an NSAID [770,000 person years] between 1997 and 2002, 42 developed an acute non-viral hepatitis requiring hospitalization including 2 of 7833 receiving naproxen).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12842950</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.teoh.2003.401">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Teoh</surname><given-names>NC</given-names></name>
+<name name-style="western"><surname>Farrell</surname><given-names>GC</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity associated with non-steroidal anti-inflammatory drugs.</article-title>
+              <source>Clin Liver Dis</source>
+              <year>2003</year>
+              <volume>7</volume>
+              <issue>2</issue>
+              <fpage>401</fpage>
+              <lpage>13</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review article on NSAIDs, naproxen said to cause cholestatic or mixed injury and to be low in incidence).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12879991</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.russo.2004.1018">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Russo</surname><given-names>MW</given-names></name>
+<name name-style="western"><surname>Galanko</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Shrestha</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Fried</surname><given-names>MW</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>P</given-names></name>
+</person-group>
+              <article-title>Liver transplantation for acute liver failure from drug induced liver injury in the United States.</article-title>
+              <source>Liver Transpl</source>
+              <year>2004</year>
+              <volume>10</volume>
+              <fpage>1018</fpage>
+              <lpage>23</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of UNOS database from 1990-2002, found 270 cases of acute liver failure undergoing liver transplant due to medications; one case reportedly due to naproxen).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15390328</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.bj_rnsson.2005.1095">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Jerlstad</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Bergqvist</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Olsson</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Fulminant drug-induced hepatic failure leading to death or liver transplantation in Sweden.</article-title>
+              <source>Scand J Gastroenterol</source>
+              <year>2005</year>
+              <volume>40</volume>
+              <fpage>1095</fpage>
+              <lpage>101</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Survey of all cases of drug induced liver injury with fatal outcome from Swedish Adverse Drug Reporting system from 1966-2002; among 103 cases, 3 attributed to naproxen without specific details given).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16165719</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.andrade.2005.512">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Andrade</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Lucena</surname><given-names>MI</given-names></name>
+<name name-style="western"><surname>Fernandez</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Pelaez</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Pachkoria</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Garcia-Ruiz</surname><given-names>E</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Drug-induced liver injury: an analysis of 461 incidences submitted to the Spanish Registry over a 10-year period.</article-title>
+              <source>Gastroenterology</source>
+              <year>2005</year>
+              <volume>129</volume>
+              <fpage>512</fpage>
+              <lpage>21</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Reports of Spanish drug induced liver injury network on 570 cases, ibuprofen and diclofenac, but not naproxen mentioned among the 20 most frequent causes with &#x0003e;4 cases).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16083708</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.bj_rnsson.2006.33">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Olsson</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Suspected drug-induced liver fatalities reported to the WHO database.</article-title>
+              <source>Dig Liver Dis</source>
+              <year>2006</year>
+              <volume>38</volume>
+              <fpage>33</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Survey of drug induced liver fatalities reported to WHO database between 1968-2003 revealed 4690 reports; [89% from the US]; 21 drugs were associated with &#x0003e;50 cases, including diclofenac [15th], but not naproxen).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16054882</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.demirag.2007.247">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Demirag</surname><given-names>MD</given-names></name>
+<name name-style="western"><surname>Ozenirler</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Goker</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Poyraz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Haznedaroglu</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Ozturk</surname><given-names>MA</given-names></name>
+</person-group>
+              <article-title>Idiosyncratic toxic hepatitis secondary to single dose of naproxen.</article-title>
+              <source>Acta Gastroenterol Belg</source>
+              <year>2007</year>
+              <volume>70</volume>
+              <fpage>247</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(57 year old woman developed jaundice 6 days after taking a single dose of naproxen [bilirubin 22 mg/dL, ALT 2196 U/L, Alk P 80 U/L], with resolution over the next 5 months; other causes sought, but not identified: Case 2).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17715646</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.ting.2007.928">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ting</surname><given-names>TV</given-names></name>
+<name name-style="western"><surname>Hashkes</surname><given-names>PJ</given-names></name>
+</person-group>
+              <article-title>Methotrexate/naproxen-associated severe hepatitis in a child with juvenile idiopathic arthritis.</article-title>
+              <source>Clin Exp Rheumatol</source>
+              <year>2007</year>
+              <volume>25</volume>
+              <fpage>928</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Onset of severe liver injury in 2 year old child with juvenile rheumatoid arthritis, after 10 months exposure to methotrexate and naproxen, with recovery after stopping therapy; hypothesized that naproxen had a synergistic effect with methotrexate).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18173932</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.aithal.2007.563">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Aithal</surname><given-names>GP</given-names></name>
+<name name-style="western"><surname>Day</surname><given-names>CP</given-names></name>
+</person-group>
+              <article-title>Nonsteroidal anti-inflammatory drug-induced hepatotoxicity.</article-title>
+              <source>Clin Liver Dis</source>
+              <year>2007</year>
+              <volume>11</volume>
+              <fpage>563</fpage>
+              <lpage>75</lpage>
+              <comment>vi-vii.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of hepatotoxicity of NSAIDs; naproxen not specifically discussed).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17723920</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Davern</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Serrano</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rochon</surname><given-names>J</given-names></name>
+<collab>Drug Induced Liver Injury Network (DILIN)</collab>
+</person-group>
+              <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, NSAIDs were implicated as a sole agent in 8 cases [4 diclofenac, 2 celecoxib, 1 meloxicam and 1 oxaprozin] and as one of several agents in 3 cases [1 diclofenac, 1 celecoxib, 1 ibuprofen]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.soni.2009.1841">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Soni</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Shell</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Cawkwell</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Li</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Ma</surname><given-names>H</given-names></name>
+</person-group>
+              <article-title>The hepatic safety and tolerability of the cyclooxygenase-2 selective NSAID celecoxib: pooled analysis of 41 randomized controlled trials.</article-title>
+              <source>Curr Med Res Opin</source>
+              <year>2009</year>
+              <volume>25</volume>
+              <fpage>1841</fpage>
+              <lpage>51</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(A retrospective analysis of a pharmaceutical company's 41 study dataset, of patients with various inflammatory conditions; adverse events for celecoxib, placebo, diclofenac, naproxen, and ibuprofen were analyzed; incidence of hepatic adverse events due to celecoxib was similar for placebo and ibuprofen or naproxen, but lower than for diclofenac).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19530981</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.carrascosa.2009.1014">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Carrascosa</surname><given-names>MF</given-names></name>
+<name name-style="western"><surname>Lucena</surname><given-names>MI</given-names></name>
+<name name-style="western"><surname>Andrade</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Caviedes</surname><given-names>JR</given-names></name>
+<name name-style="western"><surname>Lav&#x000ed;n</surname><given-names>AC</given-names></name>
+<name name-style="western"><surname>Mones</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Rivero</surname><given-names>AP</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Fatal acute hepatitis after sequential treatment with levofloxacin, doxycycline, and naproxen in a patient presenting with acute Mycoplasma pneumoniae infection.</article-title>
+              <source>Clin Ther</source>
+              <year>2009</year>
+              <volume>31</volume>
+              <fpage>1014</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(63 year old man with pneumonia developed jaundice 10 days after starting antibiotics and naproxen progressing to hepatic failure and death within 27 days [initial bilirubin 4.0 ALT 1577, Alk P 189 U/L]; causality assessment implicated levofloxacin, doxycycline, and naproxen).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19539102</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.bessone.2010.5651">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bessone</surname><given-names>F.</given-names></name>
+</person-group>
+              <article-title>Non-steroidal anti-inflammatory drugs: What is the actual risk of liver damage?</article-title>
+              <source>World J Gastroenterol</source>
+              <year>2010</year>
+              <volume>16</volume>
+              <fpage>5651</fpage>
+              <lpage>61</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of estimated frequency of drug induced liver injury due to NSAIDs from large published epidemiological studies; mentions that naproxen has been associated with various hepatic reactions).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21128314</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.ferrajolo.2010.721">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ferrajolo</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Capuano</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Verhamme</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>Schuemie</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Rossi</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Stricker</surname><given-names>BH</given-names></name>
+<name name-style="western"><surname>Sturkenboom</surname><given-names>MC</given-names></name>
+</person-group>
+              <article-title>Drug-induced hepatic injury in children: a case/non-case study of suspected adverse drug reactions in VigiBase.</article-title>
+              <source>Br J Clin Pharmacol</source>
+              <year>2010</year>
+              <volume>70</volume>
+              <fpage>721</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Worldwide pharmacovigilance database contained 9036 hepatic adverse drug reactions in children; naproxen is not listed among the top 41 causes).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21039766</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Reuben</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Koch</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>WM</given-names></name>
+<collab>Acute Liver Failure Study Group</collab>
+</person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, of which 7 were due to NSAIDs, including 4 attributed to bromfenac, 2 to diclofenac and 1 to etodolac, but none to naproxen).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.ali.2011.552">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ali</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Pimentel</surname><given-names>JD</given-names></name>
+<name name-style="western"><surname>Ma</surname><given-names>C</given-names></name>
+</person-group>
+              <article-title>Naproxen-induced liver injury.</article-title>
+              <source>Hepatobiliary Pancreat Dis Int.</source>
+              <year>2011</year>
+              <volume>10</volume>
+              <fpage>552</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(30 year old woman with lupus erythematosus on long term prednisone developed jaundice a few weeks after starting naproxen [bilirubin 10.5 mg/dL, ALT 926 U/L, Alk P 472 U/L], with persistence of Alk P elevations and reduced numbers of bile ducts on liver biopsy that gradually improved; liver tests becoming normal 10 years later and liver biopsy showing partial return of bile ducts).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21947732</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.lapeyremestre.2013.223">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lapeyre-Mestre</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Grolleau</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Montastruc</surname><given-names>JL</given-names></name>
+<collab>Adsociation Fran&#x000e7;aise des Centres R&#x000e9;gionaux de Pharmacovigilance (CRPV)</collab>
+</person-group>
+              <article-title>Adverse drug reactions associated with the use of NSAIDs: a case/noncase analysis of spontaneous reports from the French pharmacovigilance database 2002-2006.</article-title>
+              <source>Fundam Clin Pharmacol</source>
+              <year>2013</year>
+              <volume>27</volume>
+              <fpage>223</fpage>
+              <lpage>30</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of 42,389 spontaneous serious adverse event reports to the French Pharmacovigilance database on 8 NSAIDs between 2002 and 2006; liver adverse events were most frequent with nimesulide [0.15 per million daily doses] compared to diclofenac [0.09], ketoprofen [0.09] piroxicam [0.06], naproxen [0.04], meloxicam [0.03], and tenoxicam [0.03]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21929527</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.gulmez.2013.135">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gulmez</surname><given-names>SE</given-names></name>
+<name name-style="western"><surname>Larrey</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Pageaux</surname><given-names>GP</given-names></name>
+<name name-style="western"><surname>Lignot</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Lassalle</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Jov&#x000e9;</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Gatta</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Transplantation for acute liver failure in patients exposed to NSAIDs or paracetamol (acetaminophen): the multinational case-population SALT study.</article-title>
+              <source>Drug Saf</source>
+              <year>2013</year>
+              <volume>36</volume>
+              <fpage>135</fpage>
+              <lpage>44</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 600 patients undergoing liver transplantation for acute liver failure at 52 European liver transplant centers between 2005 and 2007, 301 were considered idiopathic and had received a medication within 30 days of onset; including acetaminophen in 192 and NSAIDs in 44, including diclofenac [the most commonly used NSAID] in 7, but naproxen in only 2 for a rate of 1.6 per million treatment years).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23325533</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Bergmann</surname><given-names>OM</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Kvaran</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Olafsson</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, including 6 attributed to diclofenac [ranking 2nd], but none for naproxen or other NSAIDs).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hern&#x000e1;ndez</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bessone</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>di Pace</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Brahm</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zapata</surname><given-names>R, A</given-names></name>
+<name name-style="western"><surname>Chirino</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, the most common class of implicated agents being NSAIDs [n=62, 32%], and specific agents were nimesulide [n=53], piroxicam [5], diclofenac [2], gold salts [1], and naproxen [1]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 28 were attributed to NSAIDs [Schmeltzer 2016]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.schmeltzer.2016.603">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Schmeltzer</surname><given-names>PA</given-names></name>
+<name name-style="western"><surname>Kosinski</surname><given-names>AS</given-names></name>
+<name name-style="western"><surname>Kleiner</surname><given-names>DE</given-names></name>
+<name name-style="western"><surname>Hoofnagle</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Russo</surname><given-names>MW</given-names></name>
+<collab>Drug-Induced Liver Injury Network (DILIN)</collab>
+</person-group>
+              <article-title>Liver injury from nonsteroidal anti-inflammatory drugs in the United States.</article-title>
+              <source>Liver Int</source>
+              <year>2016</year>
+              <volume>36</volume>
+              <fpage>603</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1221 cases of drug induced liver injury enrolled in a prospective, US database between 2004 and 2014, 30 cases [2.5%] were attributed to NSAIDs, most commonly diclofenac [n=16], but also celecoxib [3], meloxicam [3], etodolac [2], ibuprofen [2], oxaprozin [2], valdecoxib [1] and sulindac [1], but not naproxen).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26601797</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.donati.2016.238">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Donati</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Conforti</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Lenti</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Capuano</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Bortolami</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Motola</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Moretti</surname><given-names>U</given-names></name>
+<etal/>
+<collab>DILI-IT Study Group</collab>
+</person-group>
+              <article-title>Risk of acute and serious liver injury associated to nimesulide and other NSAIDs: data from drug-induced liver injury case-control study in Italy.</article-title>
+              <source>Br J Clin Pharmacol</source>
+              <year>2016</year>
+              <volume>82</volume>
+              <fpage>238</fpage>
+              <lpage>48</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 179 cases of acute liver injury and 1770 controls admitted to 9 Italian hospitals between 2010 and 2014, NSAIDs used more frequently in cases compared to controls included nimesulide [17% vs 10%: odds ratio 1.88] and ibuprofen [14% vs 10%: odds ratio 1.59] and risk was higher in those taking higher doses).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26991794</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.zoubek.2018.292">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zoubek</surname><given-names>ME</given-names></name>
+<name name-style="western"><surname>Gonz&#x000e1;lez-Jimenez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Medina-C&#x000e1;liz</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Robles-D&#x000ed;az</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Hernandez</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Romero-G&#x000f3;mez</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Bessone</surname><given-names>F</given-names></name>
+<etal/>
+</person-group>
+              <article-title>High Prevalence of ibuprofen drug-induced Liver injury in Spanish and Latin-American registries.</article-title>
+              <source>Clin Gastroenterol Hepatol</source>
+              <year>2018</year>
+              <volume>16</volume>
+              <fpage>292</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of a Spanish and Latin-American registries identified 73 cases of NSAID induced liver injury, the most common agents being nimesulide [38%], diclofenac [34%] and ibuprofen [17%]; naproxen and other NSAIDs not mentioned).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28782674</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.tujios.2018.6">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Tujios</surname><given-names>SR</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>WM</given-names></name>
+</person-group>
+              <article-title>Acute liver failure induced by idiosyncratic reaction to drugs: challenges in diagnosis and therapy.</article-title>
+              <source>Liver Int</source>
+              <year>2018</year>
+              <volume>38</volume>
+              <fpage>6</fpage>
+              <lpage>14</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of acute liver failure and the contribution of drug induced liver injury, of which 5% were due to NSAIDs, most commonly diclofenac and etodolac).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28771932</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Naproxen.REF.meunier.2018.187">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Meunier</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Larrey</surname><given-names>D</given-names></name>
+</person-group>
+              <article-title>Recent advances in hepatotoxicity of non-steroidal anti-inflammatory drugs.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2018</year>
+              <volume>17</volume>
+              <fpage>187</fpage>
+              <lpage>91</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the hepatotoxicity of NSAIDS mentions the most commonly implicated are diclofenac, nimesulide, sulindac, ibuprofen, piroxicam, naproxen and aspirin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29469052</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Naproxen.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(naproxen/AE+NOT+clavulanic+acid)+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Naproxen: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=naproxen">Trials on Naproxen: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,38 @@
+[project]
+name = "livertox-extraction"
+version = "0.1.0"
+description = "Pipeline to extract structured hepatotoxicity data from LiverTox XML files"
+requires-python = ">=3.8"
+dependencies = [
+    "openai>=1.0.0",
+    "anthropic>=0.18.0",
+    "python-dotenv>=1.0.0",
+    "lxml>=4.9.0",
+    "pydantic>=2.0.0",
+    "tenacity>=8.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "black>=23.0.0",
+    "ruff>=0.1.0",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.black]
+line-length = 100
+target-version = ["py38", "py39", "py310", "py311"]
+
+[tool.ruff]
+line-length = 100
+select = ["E", "F", "W", "I", "N", "UP", "B", "A", "C4", "PT", "SIM"]
+ignore = ["E501"]  # Line length handled by black
+target-version = "py38"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py", "*_test.py"]

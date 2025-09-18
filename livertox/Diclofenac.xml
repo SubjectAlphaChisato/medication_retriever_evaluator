@@ -1,0 +1,1007 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Diclofenac" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Diclofenac</book-part-id>
+      <title-group>
+        <title>Diclofenac</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>13</day>
+          <month>12</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="DiazepamOral" document-type="chapter">Diazepam (Oral)</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Dicloxacillin" document-type="chapter">Dicloxacillin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Diclofenac.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Diclofenac.Introduction">
+          <title>Introduction</title>
+          <p content-type="pubmed-excerpt">Diclofenac is a commonly used nonsteroidal antiinflammatory drug (NSAID) used for the therapy of chronic forms of arthritis and mild-to-moderate acute pain. Therapy with diclofenac in full doses is frequently associated with mild serum aminotransferase elevations and, in rare instances, can lead to serious clinically apparent, acute or chronic liver disease.</p>
+        </sec>
+        <sec id="Diclofenac.Background">
+          <title>Background</title>
+          <p>Diclofenac (dye kloe' fen ak) is a phenylacetic acid derivative and belongs to the acetic acid class of NSAIDs that includes indomethacin, etodolac, ketorolac, nabumetone, tolmetin and sulindac. Like other NSAIDs, diclofenac acts as by inhibiting cellular cyclooxygenases (Cox-1 and Cox-2), which results in a decrease in production of pro-inflammatory prostaglandin, prostacyclin and thromboxane products, important mediators of inflammation and pain. Diclofenac has analgesic as well as antipyretic and antiinflammatory activities. Diclofenac was first approved in the United States in 1988 and currently over 5 million prescriptions are filled yearly. Current indications include mild-to-moderate forms of joint pain, caused by osteoarthritis, rheumatoid arthritis and ankylosing spondylitis as well as relief of symptoms of dysmenorrhea and mild-to-moderate pain. Diclofenac is available in multiple generic and brand formulations, either alone or in combination with other analgesics or gastointestinal mucosal protective agents (such as misoprostol). Diclofenac is not available over-the-counter in the United States, but it is in many other countries where indications include joint and muscle pain from trauma, bursitis, tendonitis, headache and dysmenorrhea. As a result, diclofenac is one of the most frequently used NSAIDs worldwide. Common commercial names for agents containing diclofenac include: Arthrotec, Cataflam, Duravolten, Novo-Difenac, Nu-Diclo, Voltaren and Zorvoflex. Diclofenac is available in multiple dose formulations, including 25, 50 and 75 mg tablets or capsules. The recommended dose for chronic arthritis in adults is 50 mg orally three times daily; lower and intermittent doses are used for pain. Like most NSAIDs, diclofenac is generally well tolerated, but side effects can include headache, dizziness, somnolence, rash, nausea, diarrhea, dyspepsia, abdominal pain, heartburn, gastrointestinal bleeding, peripheral edema and hypersensitivity reactions.</p>
+          <p>Diclofenac is also available in several topical forms. Ophthalmic solutions (0.1%) are available for relief of pain or decrease in inflammation after cataract or corneal surgery. Dermatological gels are used for treatment of actinic keratoses. Diclofenac dermatologic patches are available for treatment of acute pain from minor strains, sprains and contusions. Diclofenac gels and creams have also been used for topical therapy of osteoarthritis for specific joints that are amenable to topical treatment. Topical formulations are available generically and under brand names such as Flector patch, Pennsaid, Solaraze, Surpass and Voltaren gel.</p>
+        </sec>
+        <sec id="Diclofenac.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Elevated serum aminotransferase levels have been reported in up to 15% of patients taking oral diclofenac chronically, but are greater than 3 times the upper limit of normal in only 2% to 4% (Cases 1 and 2). Clinically apparent and symptomatic liver disease with jaundice due to diclofenac is rare (1 to 5 cases per 100,000 prescriptions, occurring in 1 to 5 persons per 10,000 exposed). Nevertheless, more than a hundred instances of clinically apparent liver injury due to diclofenac have been reported in the literature and, in most case series, diclofenac ranks in the top 10 causes of drug induced liver injury. The time to onset of liver injury varies from within a week to over a year after starting. The majority of cases present within 2 to 6 months (Cases 3 and 4), and the more severe cases tend to present earlier. The pattern of injury is almost exclusively hepatocellular, although cases presenting with mixed patterns have been reported. The clinical picture is that of jaundice preceded by anorexia, nausea, vomiting and malaise. Fever and rash occur in 25% of cases and some cases have immunoallergic features, while others resemble chronic hepatitis and have autoimmune features. In most cases, liver histology reveals an acute lobular hepatitis. However, a cases with prolonged latency diclofenac hepatotoxicity can have clinical and histologic features of chronic hepatitis (Case 2). There seems to be greater susceptibility for diclofenac liver injury among women than men. The injury can be severe, and several cases of acute liver failure have been attributed to diclofenac.</p>
+          <p>Likelihood score: A (well known cause of clinically apparent liver injury).</p>
+          <p>Topical forms of diclofenac (solutions, gels, creams, patches) have been associated with only a low rate of serum enzyme elevations (generally less than 1%) that may be no greater than occurs with placebo or vehicle application. However, product labels for topical diclofenac mention the possibility of liver injury and at least one case of clinically apparent liver injury attributed to topical diclofenac has been reported in the literature. Nevertheless, clinically apparent liver injury due to topical forms of diclofenac must be exceedingly rare.</p>
+        </sec>
+        <sec id="Diclofenac.Histopathology">
+          <title>Histopathology</title>
+          <p>Diclofenac hepatotoxicity is typically associated with an acute hepatitis-like histology with necrosis that may be most prominent in zone 3 (centrally). There is usually focal necrosis and inflammation, but with severe cases the injury can be confluent or submassive. Chronic hepatitis-like injury with prominence of portal inflammation, interface hepatitis and fibrosis can be found, particularly in cases with longer latency and more prolonged course. A minority of cases showed mixed hepatocellular cholestatic injury (cholestatic hepatitis) with varying degrees of inflammation. Three photomicrographs are shown.</p>
+          <table-wrap id="Diclofenac.T1" position="anchor" orientation="portrait">
+            <table>
+              <tbody>
+                <tr>
+                  <td rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="diclofenac_histo1.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"/>
+</td>
+                  <td rowspan="1" colspan="1">Zone 3 necrosis. The hepatocytes around the vein (V) have been lost and replaced by an inflammatory infiltrate composed of lymphocytes and plasma cells.</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="diclofenac_histo2.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"/>
+</td>
+                  <td rowspan="1" colspan="1">In this portal area there is a dense inflammatory infiltrate composed of lymphocytes, plasma cells and scattered eosinophils. There is marked interface hepatitis.</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="diclofenac_histo3.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"/>
+</td>
+                  <td rowspan="1" colspan="1">Confluent bridging necrosis extending between two portal areas and involving zone 3. The bile ducts (arrows) and hepatic vein (V) mark the involved structures. Interface hepatitis is present around the edge of the residual hepatocyte parenchyma.</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </sec>
+        <sec id="Diclofenac.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of diclofenac induced liver injury appears to be multifactorial, and the cause of mild serum aminotransferase elevations may be different from the cause of serious liver injury. An immuno-allergic component is suggested by the rapid and acute recurrence of injury, even many years after initial exposure and injury. Genetic studies have suggested a linkage with allelic varriants of UGT 2B7, CYP 2C8 and ABC C2, which are genes involved the metabolism, conjugation and excretion of diclofenac.</p>
+        </sec>
+        <sec id="Diclofenac.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Severity of the liver injury ranges from asymptomatic elevations in serum aminotransferase levels (Cases 1 and 2), to overt icteric hepatitis (Case 3), acute liver failure and even death (Case 4). Complete recovery is expected after stopping the drug and usually takes 1 to 3 months. In rare instances, evidence of chronic liver injury persists, some of which have led to courses of corticosteroid therapy which appeared to be beneficial and could later be stopped without recurrence of liver injury. Acute liver failure following rechallenge after episodes of clinically apparent diclofenac hepatotoxicity has been reported and should be avoided. There is little evidence of cross sensitivity to hepatic injury between diclofenac and NSAIDs belonging to other classes, such as the propionic acids (ibuprofen, naproxen, ketoprofen), but few instances documenting safety have been reported and patients should be carefully monitored if switched to another NSAID.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="NonsteroidalAntiinfl">Nonsteroidal Antiinflammatory Drugs</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Diclofenac.CASE_REPORTS">
+        <title>CASE REPORTS</title>
+        <sec id="Diclofenac.Case_1._Elevations_in_serum_a">
+          <title>Case 1. Elevations in serum aminotransferase levels during first month of diclofenac therapy.</title>
+          <p>[Modified from a case in the database of the Drug-Induced Liver Injury Network]</p>
+          <p>A woman in her 30s with ankylosing spondylitis was started on diclofenac in a dose of 75 mg twice daily. One week later, although asymptomatic, she was found to have raised serum aminotransferase levels and the drug was discontinued. Viral and autoimmune hepatitis serologies were negative. Ultrasound was normal. During the following month, her ALT levels returned to baseline. She had previously tolerated ibuprofen and nabumetone without difficulty.</p>
+          <sec id="Diclofenac.Key_Points1">
+            <title>Key Points</title>
+            <table-wrap id="Diclofenac.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Diclofenac.T2_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Diclofenac 75 mg orally twice daily</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Diclofenac.T2_1_1_1_1" id="hd_b_Diclofenac.T2_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Diclofenac.T2_1_1_1_1" rowspan="1" colspan="1">Hepatocellular (R=9)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Diclofenac.T2_1_1_1_1" id="hd_b_Diclofenac.T2_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Diclofenac.T2_1_1_2_1" rowspan="1" colspan="1">1+ (never jaundiced, never hospitalized)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Diclofenac.T2_1_1_1_1" id="hd_b_Diclofenac.T2_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Diclofenac.T2_1_1_3_1" rowspan="1" colspan="1">Several days</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Diclofenac.T2_1_1_1_1" id="hd_b_Diclofenac.T2_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Diclofenac.T2_1_1_4_1" rowspan="1" colspan="1">Complete recovery 1 month after stopping the medication</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Diclofenac.T2_1_1_1_1" id="hd_b_Diclofenac.T2_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Diclofenac.T2_1_1_5_1" rowspan="1" colspan="1">Ibuprofen</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Diclofenac.Laboratory_Values1">
+            <title>Laboratory Values</title>
+            <table-wrap id="Diclofenac.T3" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Diclofenac.T3_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Diclofenac.T3_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Diclofenac.T3_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Diclofenac.T3_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Diclofenac.T3_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Diclofenac.T3_1_1_1_6" rowspan="1" colspan="1">Comments</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_1" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_3" rowspan="1" colspan="1">49</td>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_1" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_3" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_6" rowspan="1" colspan="1">Diclofenac started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_1" rowspan="1" colspan="1">7 days</td>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_3" rowspan="1" colspan="1">255</td>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_4" rowspan="1" colspan="1">79</td>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_5" rowspan="1" colspan="1">0.7</td>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_1" rowspan="1" colspan="1">9 days</td>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_3" rowspan="1" colspan="1">253</td>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_1" rowspan="1" colspan="1">10 days</td>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_3" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_6" rowspan="1" colspan="1">Diclofenac stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_1" rowspan="1" colspan="1">16 days</td>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_2" rowspan="1" colspan="1">6 days</td>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_3" rowspan="1" colspan="1">275</td>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_4" rowspan="1" colspan="1">84</td>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_5" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_1" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_2" rowspan="1" colspan="1">17 days</td>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_3" rowspan="1" colspan="1">71</td>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_4" rowspan="1" colspan="1">89</td>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_5" rowspan="1" colspan="1">0.4</td>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_1" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_2" rowspan="1" colspan="1">1 month</td>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_3" rowspan="1" colspan="1">37</td>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_4" rowspan="1" colspan="1">73</td>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_5" rowspan="1" colspan="1">0.3</td>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_1 hd_h_Diclofenac.T3_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;42</bold>
+</td>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;115</bold>
+</td>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Diclofenac.T3_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Diclofenac.Comment1">
+            <title>Comment</title>
+            <p>Mild and transient increases in serum aminotransferase levels occur commonly in patients given diclofenac. These elevations are usually transient and may resolve even with continuation of the medication. Because they are associated with few if any symptoms, these elevations will go undetected in patients who are not routinely monitored. In this case, diclofenac was discontinued when repeat testing confirmed the abnormalities found on routine testing. Serum aminotransferase levels fell to normal within a few weeks. If there were no other therapeutic options, diclofenac might be restarted with careful monitoring with prompt discontinuation if ALT levels rise more than five-fold or if any symptoms or jaundice arise. She previously tolerated an NSAID belonging toa different class--ibuprofen (propionic acid).</p>
+          </sec>
+        </sec>
+        <sec id="Diclofenac.Case_2._Asymptomatic_elevatio">
+          <title>Case 2. Asymptomatic elevations in serum aminotransferase levels during long-term diclofenac therapy.</title>
+          <p>[Modified from a case in the database of the Drug-Induced Liver Injury Network]</p>
+          <p>A woman in her early 40s with a history of chronic knee pain was treated with diclofenac in a dose of 50 mg thrice daily. Approximately 5 months after starting diclofenac, she complained of a new onset of sharp, intermittent right upper quadrant pain and itching of the lower extremities and was found to have elevated serum aminotransferase levels on routine lab work. She denied fever, nausea, weight loss or jaundice. Tests for hepatitis A, B and C were negative, but antinuclear antibodies were strongly positive. Without change in medications, serum aminotransferase levels fluctuated, but she remained mildly symptomatic. Several months later, a liver biopsy was done which was consistent with chronic hepatitis of moderate-to-severe activity with mild periportal fibrosis. The patient was also taking atorvastatin, which was discontinued on the basis of its possible role in causing the aminotransferase elevations. Despite this, ALT levels remained elevated. Subsequently, diclofenac was discontinued and both aminotransferase elevations and her abdominal pain resolved promptly.</p>
+          <sec id="Diclofenac.Key_Points2">
+            <title>Key Points</title>
+            <table-wrap id="Diclofenac.T4" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Diclofenac.T4_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Diclofenac</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Diclofenac.T4_1_1_1_1" id="hd_b_Diclofenac.T4_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Diclofenac.T4_1_1_1_1" rowspan="1" colspan="1">Hepatocellular (R=8)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Diclofenac.T4_1_1_1_1" id="hd_b_Diclofenac.T4_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Diclofenac.T4_1_1_2_1" rowspan="1" colspan="1">1+ (never jaundiced, never hospitalized)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Diclofenac.T4_1_1_1_1" id="hd_b_Diclofenac.T4_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Diclofenac.T4_1_1_3_1" rowspan="1" colspan="1">5 months</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Diclofenac.T4_1_1_1_1" id="hd_b_Diclofenac.T4_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Diclofenac.T4_1_1_4_1" rowspan="1" colspan="1">Complete recovery within 3 months</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Diclofenac.T4_1_1_1_1" id="hd_b_Diclofenac.T4_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Diclofenac.T4_1_1_5_1" rowspan="1" colspan="1">Atorvastatin, ibuprofen, fexofenadine, rabeprazole, propranolol, synthroid, triamterene, hydrochlorothiazide, sumatriptan, glucosamine, chondroitin</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Diclofenac.Laboratory_Values2">
+            <title>Laboratory Values</title>
+            <table-wrap id="Diclofenac.T5" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Diclofenac.T5_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Diclofenac.T5_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Diclofenac.T5_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Diclofenac.T5_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Diclofenac.T5_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Diclofenac.T5_1_1_1_6" rowspan="1" colspan="1">Comments</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_1" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_3" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_6" rowspan="1" colspan="1">Diclofenac started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_1" rowspan="1" colspan="1">5 months</td>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_3" rowspan="1" colspan="1">332</td>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_4" rowspan="1" colspan="1">126</td>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_5" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_6" rowspan="1" colspan="1">Itching, RUQ pain</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_1" rowspan="1" colspan="1">7.5 months</td>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_3" rowspan="1" colspan="1">68</td>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_4" rowspan="1" colspan="1">110</td>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_5" rowspan="1" colspan="1">0.4</td>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_1" rowspan="1" colspan="1">9 months</td>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_3" rowspan="1" colspan="1">430</td>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_6" rowspan="1" colspan="1">Biopsy, atorvastatin stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_1" rowspan="1" colspan="1">16 months</td>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_3" rowspan="1" colspan="1">250</td>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_4" rowspan="1" colspan="1">119</td>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_5" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_6" rowspan="1" colspan="1">Diclofenac stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_1" rowspan="1" colspan="1">19 months</td>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_2" rowspan="1" colspan="1">3 months</td>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_3" rowspan="1" colspan="1">29</td>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_4" rowspan="1" colspan="1">93</td>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_5" rowspan="1" colspan="1">0.7</td>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_1 hd_h_Diclofenac.T5_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;42</bold>
+</td>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;115</bold>
+</td>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Diclofenac.T5_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Diclofenac.Comment2">
+            <title>Comment</title>
+            <p>The association of serum aminotransferase elevations and diclofenac is supported by the resolution of the abnormalities once the medication was stopped. The nonspecific symptoms, presence of antinuclear antibody and fibrosis found on liver biopsy argue for stopping diclofenac and against rechallenge. Use of other NSAIDs should be done with caution, avoiding agents in the same class as diclofenac (acetic acid derivatives) such as indomethacin, sulindac and etodolac.</p>
+          </sec>
+        </sec>
+        <sec id="Diclofenac.Case_3._Severe_acute_hepatiti">
+          <title>Case 3. Severe acute hepatitis and liver failure due to diclofenac.</title>
+          <p>[Modified from a case in the database of the Drug-Induced Liver Injury Network]</p>
+          <p>A woman in her 60s with osteoarthritis of the hip was placed on the combination of diclofenac 50 mg and misoprostol (Arthrotec) by mouth three times daily. After 3 months, she complained of dark urine, epigastric pain and itching, and the medication was stopped. One week later, she developed worsening fatigue, hypersomnia, and jaundice and was hospitalized. Viral and autoimmune hepatitis serologies were negative. Ultrasound was negative. Abdominal CT showed fatty infiltration of the liver. The patient continued to deteriorate as her albumin levels dropped and she developed peripheral edema. However, she subsequently began to improve spontaneously. Symptoms and jaundice resolved after two months, and all liver tests were normal four months after onset.</p>
+          <sec id="Diclofenac.Key_Points3">
+            <title>Key Points</title>
+            <table-wrap id="Diclofenac.T6" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Diclofenac.T6_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Diclofenac 50 mg thrice daily</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Diclofenac.T6_1_1_1_1" id="hd_b_Diclofenac.T6_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Diclofenac.T6_1_1_1_1" rowspan="1" colspan="1">Hepatocellular (R=30)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Diclofenac.T6_1_1_1_1" id="hd_b_Diclofenac.T6_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Diclofenac.T6_1_1_2_1" rowspan="1" colspan="1">4+ (jaundice and signs of hepatic failure)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Diclofenac.T6_1_1_1_1" id="hd_b_Diclofenac.T6_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Diclofenac.T6_1_1_3_1" rowspan="1" colspan="1">3 months</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Diclofenac.T6_1_1_1_1" id="hd_b_Diclofenac.T6_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Diclofenac.T6_1_1_4_1" rowspan="1" colspan="1">Complete recovery in 4 months</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Diclofenac.T6_1_1_1_1" id="hd_b_Diclofenac.T6_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Diclofenac.T6_1_1_5_1" rowspan="1" colspan="1">Conjugated estrogen, synthroid, furosemide</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Diclofenac.Laboratory_Values3">
+            <title>Laboratory Values</title>
+            <table-wrap id="Diclofenac.T7" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Diclofenac.T7_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Diclofenac.T7_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Diclofenac.T7_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Diclofenac.T7_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Diclofenac.T7_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Diclofenac.T7_1_1_1_6" rowspan="1" colspan="1">Comments</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_1" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_3" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_6" rowspan="1" colspan="1">Diclofenac started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_1" rowspan="1" colspan="1">80 days</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_3" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_6" rowspan="1" colspan="1">Pain, itching, jaundice</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_1" rowspan="1" colspan="1">3 months</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_3" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_6" rowspan="1" colspan="1">Diclofenac stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_2" rowspan="1" colspan="1">10 days</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_3" rowspan="1" colspan="1">1829</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_4" rowspan="1" colspan="1">168</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_5" rowspan="1" colspan="1">13.0</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_6" rowspan="1" colspan="1">Herpetiform rash</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_2" rowspan="1" colspan="1">12 days</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_3" rowspan="1" colspan="1">1514</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_4" rowspan="1" colspan="1">137</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_5" rowspan="1" colspan="1">16.4</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_2" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_3" rowspan="1" colspan="1">1201</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_4" rowspan="1" colspan="1">130</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_5" rowspan="1" colspan="1">16.5</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_6" rowspan="1" colspan="1">Hospitalized</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_2" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_3" rowspan="1" colspan="1">454</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_4" rowspan="1" colspan="1">161</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_5" rowspan="1" colspan="1">26.2</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_1" rowspan="1" colspan="1">4 months</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_2" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_3" rowspan="1" colspan="1">178</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_4" rowspan="1" colspan="1">127</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_5" rowspan="1" colspan="1">18.5</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_6" rowspan="1" colspan="1">Edema, albumin=1.9</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_2" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_3" rowspan="1" colspan="1">99</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_4" rowspan="1" colspan="1">146</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_5" rowspan="1" colspan="1">10.4</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_1" rowspan="1" colspan="1">5 months</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_2" rowspan="1" colspan="1">2 months</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_3" rowspan="1" colspan="1">45</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_4" rowspan="1" colspan="1">116</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_5" rowspan="1" colspan="1">5.2</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_6" rowspan="1" colspan="1">Asymptomatic</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_1" rowspan="1" colspan="1">8 months</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_2" rowspan="1" colspan="1">4 months</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_3" rowspan="1" colspan="1">22</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_4" rowspan="1" colspan="1">77</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_5" rowspan="1" colspan="1">1.0</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_1" rowspan="1" colspan="1">11 months</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_2" rowspan="1" colspan="1">7 months</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_3" rowspan="1" colspan="1">15</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_4" rowspan="1" colspan="1">56</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_5" rowspan="1" colspan="1">0.8</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_1 hd_h_Diclofenac.T7_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;42</bold>
+</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;115</bold>
+</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Diclofenac.T7_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Diclofenac.Comment3">
+            <title>Comment</title>
+            <p>This patient developed jaundice and severe liver injury after taking diclofenac for 3 months. She had signs of hepatic failure (rising INR and falling albumin), but ultimately recovered. She should be warned against further exposure to diclofenac; NSAIDs belonging to other classes (such as ibuprofen, ketoprofen, naproxen) are likely to be tolerated, but monitoring for aminotransferase elevations during the first months of therapy would be appropriate.</p>
+          </sec>
+        </sec>
+        <sec id="Diclofenac.Case_4._Acute_liver_failure_a">
+          <title>Case 4. Acute liver failure and death due to diclofenac.</title>
+          <p>[Modified from: Helfgott SM, Sandberg-Cook J, Zakim D, Nestler J. Diclofenac-associated hepatotoxicity. JAMA 1990; 264: 2660-2<italic toggle="yes">.</italic>]</p>
+          <p>A 65 year old woman with osteoarthritis developed the sudden onset of nausea, vomiting and fatigue six weeks after starting diclofenac 75 mg by mouth twice daily (having replaced ibuprofen therapy). Serum aminotransferase levels were minimally elevated (ALT 53 U/L, AST 40 U/L), having been normal 3 weeks earlier. Diclofenac was stopped and she was monitored. Five days later she was noted to be jaundiced and serum aminotransferase levels had risen precipitously (Table). She was treated with prednisone (30 mg daily), but continued to worsen and was admitted for evaluation. Her other medications included furosemide (20 mg daily) and famotidine (40 mg daily). She did not drink alcohol and had no history of liver disease or risk factors for viral hepatitis. On examination, she was jaundiced and lethargic. There was bilateral pitting edema, ascites and marked asterixis. Laboratory tests showed a total serum bilirubin of 36 mg/dL, ALT 140 U/L, AST 177 U/L and prothrombin time 15.8 seconds. Abdominal ultrasound showed a small liver with patent hepatic veins and no evidence of biliary obstruction. Tests for hepatitis A and B were negative as were autoantibodies. She subsequently had progressive hepatic failure and died 2 weeks after admission. Autospy showed a shrunked liver with massive necrosis and severe cholestasis.</p>
+          <sec id="Diclofenac.Key_Points4">
+            <title>Key Points</title>
+            <table-wrap id="Diclofenac.T8" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Diclofenac.T8_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Diclofenac 75 mg twice daily</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Diclofenac.T8_1_1_1_1" id="hd_b_Diclofenac.T8_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Diclofenac.T8_1_1_1_1" rowspan="1" colspan="1">Hepatocellular (R=unable to calculate)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Diclofenac.T8_1_1_1_1" id="hd_b_Diclofenac.T8_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Diclofenac.T8_1_1_2_1" rowspan="1" colspan="1">5+ (acute liver failure and death)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Diclofenac.T8_1_1_1_1" id="hd_b_Diclofenac.T8_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Diclofenac.T8_1_1_3_1" rowspan="1" colspan="1">6 weeks</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Diclofenac.T8_1_1_1_1" id="hd_b_Diclofenac.T8_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Diclofenac.T8_1_1_4_1" rowspan="1" colspan="1">None</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Diclofenac.T8_1_1_1_1" id="hd_b_Diclofenac.T8_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Diclofenac.T8_1_1_5_1" rowspan="1" colspan="1">Furosemide, famotidine, prednisone</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Diclofenac.Laboratory_Values4">
+            <title>Laboratory Values</title>
+            <table-wrap id="Diclofenac.T9" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Diclofenac.T9_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Diclofenac.T9_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Diclofenac.T9_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Diclofenac.T9_1_1_1_4" rowspan="1" colspan="1">AST (U/L)</th>
+                    <th id="hd_h_Diclofenac.T9_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Diclofenac.T9_1_1_1_6" rowspan="1" colspan="1">Comments</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_1" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_3" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_4" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_5" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_6" rowspan="1" colspan="1">Diclofenac started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_1" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_3" rowspan="1" colspan="1">53</td>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_4" rowspan="1" colspan="1">40</td>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_6" rowspan="1" colspan="1">Nausea. Diclofenac stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_1" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_2" rowspan="1" colspan="1">5 days</td>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_3" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_4" rowspan="1" colspan="1">3750</td>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_5" rowspan="1" colspan="1">17.0</td>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_6" rowspan="1" colspan="1">Prednisone started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_1" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_2" rowspan="1" colspan="1">14 days</td>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_3" rowspan="1" colspan="1">140</td>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_4" rowspan="1" colspan="1">177</td>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_5" rowspan="1" colspan="1">36.0</td>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_6" rowspan="1" colspan="1">Ascites and asterixis</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_1" rowspan="1" colspan="1">10 weeks</td>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_2" rowspan="1" colspan="1">28 days</td>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_3" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_6" rowspan="1" colspan="1">Died of liver failure</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_1 hd_h_Diclofenac.T9_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;45</bold>
+</td>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c; 45</bold>
+</td>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Diclofenac.T9_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Diclofenac.Comment4">
+            <title>Comment</title>
+            <p>A dramatic example of precipitious drug induced acute liver failure. Diclofenac was discontinued promptly upon appearance of symptoms of fatigue and nausea, at which time serum aminotransferase levels were only mildly elevated. Despite this, the patient developed jaundice and marked aminotransferase elevations a few days later, and subsequently, showed signs of acute liver failure and died 3 weeks after onset of jaundice and 4 weeks after stopping diclofenac. The lack of cross reactivity to hepatic injury is suggested by the history of tolerance of ibuprofen (a propionic acid NSAID).</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Diclofenac.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Diclofenac.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Diclofinac &#x02013; Cataflam&#x000ae;, Voltaren&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Nonsteroidal Antiinflammatory Drugs</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=diclofenac">COMPLETE LABELING</ext-link>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Diclofenac.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Diclofenac.T10" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Diclofenac.T10_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Diclofenac.T10_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Diclofenac.T10_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Diclofenac.T10_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Diclofenac.T10_1_1_1_1" rowspan="1" colspan="1">Diclofenac</td>
+                <td headers="hd_h_Diclofenac.T10_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134992838">15307-86-5</ext-link>
+</td>
+                <td headers="hd_h_Diclofenac.T10_1_1_1_3" rowspan="1" colspan="1">C14-H11-C12-N-O2</td>
+                <td headers="hd_h_Diclofenac.T10_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="diclofenac.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Diclofenac chemical structure</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Diclofenac.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 13 December 2017</p>
+        <ref-list id="Diclofenac.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Diclofenac.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Drugs used to treat rheumatic and musculospastic disease. The NSAIDS. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 517-41.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of NSAIDs published in 1999 mentions that more than 60 cases of diclofenac hepatotoxicity have been appeared in the literature and 180 were known to the FDA; clinical features resemble acute hepatitis with hepatocellular enzyme elevations; a disproportional number of cases occur in women with osteoarthritis).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R2">
+            <mixed-citation publication-type="other">Lewis JH, Stine JG. Nonsteroidal anti-inflammatory drugs and leukotriene receptor antagonists: pathology and clinical presentation of hepatotoxicity. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd Edition. Amsterdam: Elsevier, 2013. pp. 370-402.<annotation><p><italic toggle="yes">(Expert review of liver injury caused by NSAIDs mentions that diclofenac has been implicated in more than 250 cases of hepatocellular damage with a case fatality rate of ~10%; metabolic idiosyncrasy is suspected to be the cause).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R3">
+            <mixed-citation publication-type="other">Grossner T, Smyth EM, Fitzgerald GA. Anti-inflammatory, antipyretic, and analgesic agents: pharmacotherapy of gout. In, Brunton LL, Chabner BA, Knollman BC. Goodman &#x00026; Gilman&#x02019;s The pharmacological basis of therapeutics, 12th ed. New York: McGraw-Hill, 2011. p. 959-1004.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R4">
+            <mixed-citation publication-type="journal">Ciccolunghi SN, Chaudri HA, Schubiger BI, Reddrop R. Report on a long-term tolerability study of up to two years with diclofenac sodium(Voltaren). Scand J Rheumatol Suppl 1978; 22: 86-96. <annotation><p><italic toggle="yes">(Among 286 patients treated with diclofenac, elevation in liver tests in occurred in 38 [13%] and was reason for stopping therapy in 2 [1%]; no mention of hepatitis or jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">356251</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R5">
+            <mixed-citation publication-type="journal">Dunk AA, Walt RP, Jenkins WJ, Sherlock SS. Diclofenac hepatitis. Br Med J(Clin Res Ed) 1982; 284: 1605-6. <annotation><p><italic toggle="yes">(52 year old man developed jaundice 4 months after starting diclofenac [bilirubin 7.4 mg/dL, AST 1375 U/L] with partial resolution on stopping, but recurrence [bilirubin 11.8 mg/dL, AST 1150 U/L] on restarting drug, then resolving within 6 weeks).</italic></p></annotation><pub-id pub-id-type="pmid">6805622</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R6">
+            <mixed-citation publication-type="journal">Babany G, Pessayre D, Benhamou JP. [Hepatitis caused by diclofenac] Gastroenterol Clin Biol 1983; 7: 316. French. <annotation><p><italic toggle="yes">(60 year old man developed abdominal pain, fever, rash and jaundice 6 months after starting diclofenac [bilirubin 2.4 mg/dL, ALT 31 times ULN, Alk P 1.6 times ULN, no eosinophilia], resolving within 2 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">6852419</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R7">
+            <mixed-citation publication-type="journal">Deshayes P, Leloet X, Bercoff E, Fouin-Fortunet H. [Diclofenac hepatitis. A case] Presse Med 1984; 13: 1847. French. <annotation><p><italic toggle="yes">(72 year old woman developed jaundice 12 weeks after starting diclofenac [bilirubin 4.4 mg/dL, ALT 7 times ULN, Alk P 3 times ULN], resolving in 8 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">6236451</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R8">
+            <mixed-citation publication-type="journal">Lascar G, Grippon P, L&#x000e9;vy VG. [Acute fatal hepatitis during treatment with diclofenac(Voltar&#x000e8;ne)] Gastroenterol Clin Biol 1984; 8: 881-2. French. <annotation><p><italic toggle="yes">(55 year old woman developed jaundice and confusion 3 weeks after a 2 week course of diclofenac suppositories [bilirubin 12.6 mg/dL, ALT 937 U/L, Alk P 466 U/L], with subsequent progression to acute liver failure and death within 14 days).</italic></p></annotation><pub-id pub-id-type="pmid">6526249</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R9">
+            <mixed-citation publication-type="journal">Babany G, Bernuau J, Danan G, Rueff B, Benhamou JP. [Fulminating hepatitis in a woman taking glafenine and diclofenac] Gastroenterol Clin Biol 1985; 9: 185. French. <annotation><p><italic toggle="yes">(45 year old woman developed jaundice 2 months after starting diclofenac and glafenine [another NSAID like diclofenac], with bilirubin 7.9 mg/dL, ALT 30 times ULN and with progression to fulminant hepatic failure and death; both diclofenac and glafenine have been linked to cases of acute liver failure).</italic></p></annotation><pub-id pub-id-type="pmid">2858427</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R10">
+            <mixed-citation publication-type="journal">Paret Masana A, Guarga Rojas A, Urrutia de Diego A, Sabri&#x000e1; Leal M. [Acute hepatitis and diclofenac sodium] Rev Clin Esp 1986; 179: 476. Spanish. <annotation><p><italic toggle="yes">(42 year old woman developed fatigue, nausea and fever one week after starting diclofenac [bilirubin 4 mg/dL, ALT 915 U/L, Alk P 435 U/L, eosinophils 4%], with rapid recovery after stopping and similar recurrence upon rechallenge).</italic></p></annotation><pub-id pub-id-type="pmid">3809683</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R11">
+            <mixed-citation publication-type="journal">Breen EG, McNicholl J, Cosgrove E, McCabe J, Stevens FM. Fatal hepatitis associated with diclofenac. Gut. 1986; 27:1390-3. <annotation><p><italic toggle="yes">(56 year old man developed jaundice, rash and fever 11 weeks after starting diclofenac [bilirubin 6.7 mg/dL, ALT 2210 U/L, Alk P 321 U/L], with progression to acute liver failure and death 24 days later; autopsy showed massive necrosis).</italic></p></annotation><pub-id pub-id-type="pmid">3792922</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R12">
+            <mixed-citation publication-type="journal">Schapira D, Bassan L, Nahir AM, Scharf Y. Diclofenac-induced hepatotoxicity. Postgrad Med J. 1986; 62: 63-5. <italic toggle="yes">(Two case reports; 68 year old woman developed jaundice and rash within 14 days of starting diclofenac and recurrence in 7 days of rechallenge [bilirubin 5.2 mg/dL, AST 90 U/L, Alk P 274 U/L], resolving within 2 months of stopping; 70 year old woman developed</italic><annotation><p><italic toggle="yes">rash and jaundice 5 days after starting diclofenac [bilirubin 4.8 mg/dL, AST 100 U/L, Alk P 173 U/L], resolving 1 month after stopping).</italic></p></annotation><pub-id pub-id-type="pmid">3797366</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R13">
+            <mixed-citation publication-type="journal">Snijder RJ, Dinant HJ, Stricker BH. [Fatal liver damage during use of diclofenac] Ned Tijdschr Geneeskd 1987; 131: 2088-90. Dutch. <annotation><p><italic toggle="yes">(21 year old woman with systemic lupus erythematosus on hydroxychloroquine developed jaundice 2 weeks after starting diclofenac [bilirubin 9.5 mg/dL, ALT 1113 U/L, Alk P 269 U/L], which was continued until 1 week later when she was admitted with acute liver failure, dying 4 days afterwards).</italic></p></annotation><pub-id pub-id-type="pmid">3683638</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R14">
+            <mixed-citation publication-type="journal">Llorca G, Larbre JP, Collet Ph, Ravault A, Lejeune E. Changing the class of NSAID in cases of hepatotoxicity. Ann Rheum Dis 1988; 791. <annotation><p><italic toggle="yes"> (44 year old man developed eosinophilia and mild elevations in Alk P [144 U/L], with normal ALT and bilirubin and no symptoms 2 months after starting diclofenac, resolving rapidly upon stopping and not recurring when he was given ketoprofen).</italic></p></annotation><pub-id pub-id-type="pmid">3178321</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R15">
+            <mixed-citation publication-type="journal">Hovette P, Touze JE, Debonne JM, Delmarre B, Rogier C, Schmoor P, et al. [Cholestatic hepatitis and acute kidney insufficiency during treatment with diclofenac] Ann Gastroenterol Hepatol(Paris) 1989; 25: 257-8. French. <annotation><p><italic toggle="yes">(66 year old woman developed abdominal pain, fever and rash 8 days after starting diclofenac [eosinophils 2%, direct bilirubin 1.6, ALT 4 times ULN, Alk P 8 times ULN and oliguria with creatinine 11.4 mg/dL], rapid recovery on stopping).</italic></p></annotation><pub-id pub-id-type="pmid">2619253</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R16">
+            <mixed-citation publication-type="journal">Mazeika PK, Ford MJ. Chronic active hepatitis associated with diclofenac sodium therapy. Br J Clin Pract 1989; 43: 125-6. <annotation><p><italic toggle="yes">(40 year old woman developed jaundice 6 months after starting taking diclofenac [bilirubin 6.0 mg/dL, ALT 970 U/L, Alk P 209 U/L], improving symptomatically upon stopping, but ALT remained elevated and flared to 500 U/L 16 months later [ANA negative, biopsy showing chronic hepatitis], responding to prednisone).</italic></p></annotation><pub-id pub-id-type="pmid">2611118</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R17">
+            <mixed-citation publication-type="journal">Zimmerman HJ. Update of hepatotoxicity due to classes of drugs in common clinical use: non-steroid drugs, anti-inflammatory drugs, antibiotics, antihypertensives, and cardiac and psychotropic agents. Semin Liver Dis 1990; 10: 322-8. <annotation><p><italic toggle="yes"> (Extensive review article on liver injury due to NSAIDs; diclofenac associated with minor ALT elevations in 15% of treated patients, and rarely with clinically apparent acute hepatocellular or mixed injury with a latency of 1-6 months, mechanism clearly idiosyncrasy, either metabolic or immunologic).</italic></p></annotation><pub-id pub-id-type="pmid">2281340</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R18">
+            <mixed-citation publication-type="journal">Helfgott SM, Sandberg-Cook J, Zakim D, Nestler J. Diclofenac-associated hepatotoxicity. JAMA 1990; 264: 2660-2. <annotation><p><italic toggle="yes">(7 cases of diclofenac hepatoxicity; latency of 5 to 20 weeks, bilirubin 1.0 to 40.5 mg/dL, ALT 252 to 2409 U/L, Alk P 55 to 360 U/L, 6 with symptoms, 3 with jaundice, one died of hepatic failure: Case 4).</italic></p></annotation><pub-id pub-id-type="pmid">2232043</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R19">
+            <mixed-citation publication-type="journal">Iveson TJ, Ryley NG, Kelly PM, Trowell JM, McGee JO, Chapman RW. Diclofenac associated hepatitis. J Hepatol 1990; 10: 85-9. <annotation><p><italic toggle="yes">(5 cases of diclofenac hepatotoxicity from a single center; latencies 3, 6, 6, 10 and 44 weeks; bilirubin 10.4, 18.4, 0.9, 22.0 and 0.6 mg/dL; AST 1328, 1056, 145, 1385 and 332 U/L; Alk P 819, 1214, 295, 654 and 414 to U/L; recovery in 4-12 weeks in 4 and persistence at 12 months with chronic hepatitis in one; all ANA negative).</italic></p></annotation><pub-id pub-id-type="pmid">2307831</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R20">
+            <mixed-citation publication-type="journal">Sallie R. Diclofenac hepatitis. J Hepatol. 1990; 11: 281. <annotation><p><italic toggle="yes">(Letter in response to Iveson [1990] mentioning cases ultimately described in 1991 Aust NZ J Med article).</italic></p></annotation><pub-id pub-id-type="pmid">2254638</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R21">
+            <mixed-citation publication-type="journal">Purcell P, Henry D, Melville G. Diclofenac hepatitis. Gut 1991; 32: 1381-5. <annotation><p><italic toggle="yes">(Review of liver adverse drug reactions due to diclofenac from Australia, 26 cases considered probable, 15 with jaundice, 4 fatal, hepatocellular pattern of enzymes).</italic></p></annotation><pub-id pub-id-type="pmid">1752473</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R22">
+            <mixed-citation publication-type="journal">Ouellette GS, Slitzky BE, Gates JA, Lagarde S, West AB. Reversible hepatitis associated with diclofenac. J Clin Gastroenterol 1991; 13: 205-10. <annotation><p><italic toggle="yes">(74 year old woman developed jaundice 6 months after starting diclofenac [bilirubin 10.6 mg/dL, ALT 1210 U/L, Alk P 523 U/L], resolving within 3 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">2033230</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R23">
+            <mixed-citation publication-type="journal">Sallie RW, McKenzie T, Reed WD, Quinlan MF, Shilkin KB. Diclofenac hepatitis. Aust N Z J Med 1991; 21: 251-5. <annotation><p><italic toggle="yes">(5 cases of jaundice arising after 6-20 weeks of diclofenac therapy [bilirubin 1.8 to 30.4 mg/dL, AST 148 to 634 U/L, Alk P 149 to 548 U/L], resolving within 2-4 months; 2 with ANA; one with persistent injury for 4 months after stopping, treated with prednisone with ultimate resolution even after dicontinuing corticosteroids).</italic></p></annotation><pub-id pub-id-type="pmid">1872757</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R24">
+            <mixed-citation publication-type="journal">Adebajo AO, Eastmond CJ. Hepatotoxicity to several nonsteroidal anti-inflammatory drugs with diclofenac induced histological changes. Clin Rheumatol 1992; 11: 120-1. <annotation><p><italic toggle="yes">(44 year old woman had mild ALT elevations on naproxen that resolved; found to have elevated values after 4 months of diclofenac [bilirubin 1.1 mg/dL, AST 271 U/L, Alk P 130 U/L] which resolved rapidly with stopping, but recurred after 3 months of tiaprofenic acid; showing cross reactivity to various NSAIDs).</italic></p></annotation><pub-id pub-id-type="pmid">1582111</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R25">
+            <mixed-citation publication-type="journal">Nos P, Palau J, P&#x000e9;rez-Aguilar F, Berenguer J. [Hepatitis associated with taking diclofenac] Rev Esp Enferm Dig 1992; 81: 367. Spanish. <annotation><p><italic toggle="yes">(69 year old woman developed jaundice 4 months after starting diclofenac [bilirubin 22.5 mg/dL, ALT 2960 U/L, Alk P 343 U/L], resolving rapidly [20 days] upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">1616747</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R26">
+            <mixed-citation publication-type="journal">Selz F, Cereda JM. [Fatal sub-fulminant hepatitis due to diclofenac] Rev Med Suisse Romande 1993; 113: 985-7. French. <annotation><p><italic toggle="yes">(65 year old woman developed jaundice 9 days after starting diclofenac [bilirubin 12.7 mg/dL, ALT 2200 U/L, Alk P 245 U/L], progressing to hepatic failure and death within 3 weeks, autopsy showing massive necrosis and collapse; review of 6 previously reported cases of acute liver failure due to diclofenac).</italic></p></annotation><pub-id pub-id-type="pmid">8290850</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R27">
+            <mixed-citation publication-type="journal">Scully LJ, Clarke D, Barr RJ. Diclofenac induced hepatitis. 3 cases with features of autoimmune chronic active hepatitis. Dig Dis Sci 1993; 38: 744-51. <annotation><p><italic toggle="yes">(3 women with diclofenac hepatotoxicity with autoimmune features [ages 48, 57 and 69 years] arising 8-16 weeks after starting drug; bilirubin normal in 2, 15.4 mg/dL in 1; AST 59, 299 and 1970 U/L; Alk P normal in 2, and 234 U/L in one; ANA 1:40 to 1:640, resolving in 4-8 weeks of stopping; recurred with tiaprofenic acid, but not with naproxen).</italic></p></annotation><pub-id pub-id-type="pmid">8462374</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R28">
+            <mixed-citation publication-type="journal">Garcia Rodriguez LA, Williams R, Derby LE, Dean AD, Jick H. Acute liver injury associated with nonsteroidal anti-inflammatory drugs and the role of risk factors. Arch Intern Med 1994; 154: 311-6. <annotation><p><italic toggle="yes">(Retrospective cohort study of cases of acute liver injury in England after exposure to NSAIDs; 23 cases &#x02013; none fatal &#x02013; including 5 from ibuprofen, 4 diclofenac, 4 naproxen, 2 mefenamic acid, 3 ketoprofen, 2 piroxicam, 2 fenbuten and 3 sulindac).</italic></p></annotation><pub-id pub-id-type="pmid">8297198</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R29">
+            <mixed-citation publication-type="journal">Ramakrishna B, Viswanath N. Diclofenac-induced hepatitis: case report and literature review. Liver 1994; 14: 83-4. <annotation><p><italic toggle="yes">(53 year old woman had 2 episodes of jaundice after use of diclofenac with latency of 7 and then 3 weeks, bilirubin 17.8 mg/dL, ALT 862 U/L, Alk P 622 U/L, no eosinophilia or rash, ANA equivocal, recovery in 2 months).</italic></p></annotation><pub-id pub-id-type="pmid">8196514</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R30">
+            <mixed-citation publication-type="journal">Banks AT, Zimmerman HJ, Ishak KG, Harter JG. Diclofenac-associated hepatotoxicity: analysis of 180 cases reported to the Food and Drug Administration as adverse reactions. Hepatology 1995; 22: 820-7. <annotation><p><italic toggle="yes">(Summary analysis of 180 cases of diclofenac hepatotoxicity reported to FDA during 3 year period; 67% symptomatic, 50% jaundiced; 8% mortality in patients with jaundice; latency 1-6 months in 85% of cases; hepatocellular enzyme pattern in most).</italic></p></annotation><pub-id pub-id-type="pmid">7657288</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R31">
+            <mixed-citation publication-type="journal">Zaragoza Marcet A, Alfonso Moreno V, Roig Catala E. [NSAID-induced hepatotoxicity: aceclofenac and diclofenac] Rev Esp Enferm Dig 1995; 87: 472-5. Spanish. <annotation><p><italic toggle="yes">(64 year old man developed fatigue after 14 days and jaundice after 20 days of diclofenac therapy [bilirubin 12.6 mg/dL, ALT 87 U/L, Alk P 474 U/L], resolving within 4 weeks of stopping; second case due to aceclofenac).</italic></p></annotation><pub-id pub-id-type="pmid">7612373</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R32">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez Beriain J, Segura Garc&#x000ed;a C. [Aceclofenac-induced hepatitis] Rev Esp Enferm Dig 1995; 87: 550-1. Spanish. <annotation><p><italic toggle="yes">(90 year old woman developed jaundice 7 days after switching from indomethacin to aceclofenac [an NSAID similar to diclofenac], with bilirubin 5.6 mg/dL, ALT 561 U/L, Alk P 640 U/L and rapid recovery [20 days] upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">7662428</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R33">
+            <mixed-citation publication-type="journal">P&#x000e9;rez Moreno JM, Puertas Montenegro M, Fern&#x000e1;ndez Ruiz A, Fern&#x000e1;ndez Gonz&#x000e1;lez MA. [Toxic hepatitis caused by aceclofenac] Rev Esp Enferm Dig 1996; 88: 815-6. Spanish. <annotation><p><italic toggle="yes">(37 year old man developed abdominal pain and nausea 2 weeks after starting aceclofenac [bilirubin 2.5 mg/dL, ALT 550 U/L, Alk P 333 U/L], resolving rapidly, complete within 3 months.</italic></p></annotation><pub-id pub-id-type="pmid">9004792</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R34">
+            <mixed-citation publication-type="journal">Walker AM. Quantitative studies of the risk of serious hepatic injury in persons using nonsteroidal antiinflammatory drugs. Arthritis Rheum 1997; 40: 201-8. <annotation><p><italic toggle="yes">(Review of population based studies of NSAID use and hepatic injury; frequency of clinically apparent liver injury from NSAIDs was ~10 cases per 100,000 patient-years of use, ranging from 6 to 18 per 100,000 for diclofenac [based upon 6 cases in all]).</italic></p></annotation><pub-id pub-id-type="pmid">9041931</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R35">
+            <mixed-citation publication-type="journal">Prieto de Paula JM, Romero Castro R, Villamandos Nic&#x000e1;s YV. [Hepatic toxicity caused by aceclofenac] Gastroenterol Hepatol 1997; 20: 165. Spanish. <annotation><p><italic toggle="yes">(39 year old woman developed asymptomatic elevations in ALT [279 U/L], GGT [84 U/L], but no jaundice [bilirubin 1.4 mg/dL] 1 month after starting aceclofenac, an NSAID similar to diclofenac, resolving within 2 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">9162542</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R36">
+            <mixed-citation publication-type="journal">Vil&#x000e0; Santasuana A, Cid Pa&#x000f1;ella R, Roure Nuez C, Mart&#x000ed;nez Montauti J, Ortega Enciso YL. [Acute hepatitis caused by diclofenac] Gastroenterol Hepatol 1997; 20: 164-5. Spanish. <annotation><p><italic toggle="yes">(29 year old woman developed abdominal pain within 2 days and fever and jaundice within 5 days of starting diclofenac [bilirubin 5.1 mg/dL, ALT 3988 U/L, Alk P 128 U/L], resolving rapidly within 2 weeks upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">9162541</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R37">
+            <mixed-citation publication-type="journal">Hackstein H, Mohl W, P&#x000fc;schel W, Stallmach A, Zeitz M. [Diclofenac-associated acute cholestatis hepatitis] Z Gastroenterol 1998; 36: 385-9. German. <annotation><p><italic toggle="yes">(64 year old man developed jaundice 3 weeks after starting diclofenac following spinal surgery and isoflurane anesthesia [bilirubin 18.4 mg/dL, ALT 215 U/L, Alk P 1594 U/L], resolving over next 4 months; no mention of antibiotic use at time of surgery).</italic></p></annotation><pub-id pub-id-type="pmid">9654706</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R38">
+            <mixed-citation publication-type="journal">Bhogaraju A, Nazeer S, Al-Baghdadi Y, Rahman M, Wrestler F, Patel N. Diclofenac-associated hepatitis. South Med J 1999; 92: 711-3. <annotation><p><italic toggle="yes">(58 year old developed symptoms after 4 and jaundice after 5 weeks of diclofenac therapy [bilirubin 17 mg/dL, ALT 1503 U/L, Alk P 170 U/L, 9% eosinophils, protime 16 sec and ascites], but resolving within 6 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">10414481</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R39">
+            <mixed-citation publication-type="journal">P&#x000e9;rez-Gutthann S, Garc&#x000ed;a-Rodr&#x000ed;guez LA, Duque-Oliart A, Varas-Lorenzo C. Low-dose diclofenac, naproxen, and ibuprofen cohort study. Pharmacotherapy 1999; 19: 854-9. <annotation><p><italic toggle="yes">(Analysis of database of general practice in UK on 3 million persons followed between 1991 and 1995, including 22,146 patients receiving first prescription for diclofenac, 46,919 naproxen and 54,830 ibuprofen in "low" doses [typical of over-the-counter use] found 64 patients with complications, including 13 with liver injury, but only 3 of which could be confirmed: 1 due to naproxen [0.2/10,000], 2 ibuprofen [0.4/10,000], none diclofenac).</italic></p></annotation><pub-id pub-id-type="pmid">10417034</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R40">
+            <mixed-citation publication-type="journal">Dierkes-Globisch A, Sch&#x000e4;fer R, Mohr HH. [Asymptomatic diclofenac-induced acute hepatitis] Dtsch Med Wochenschr 2000; 125: 797-800. German. <annotation><p><italic toggle="yes">(49 year old man developed jaundice 4 weeks after starting diclofenac [bilirubin 2.5 mg/dL, ALT 1591 U/L, Alk P 244 U/L, ANA 1:160], resolving within 9 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">10916496</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R41">
+            <mixed-citation publication-type="journal">Fern&#x000e1;ndez-Avala Novo M, Penado Nadela S, Nan Nan DN, Gonz&#x000e1;lez Mac&#x000ed;as J. [Toxic hepatitis caused by aceclofenac] Rev Clin Esp 2001; 201: 616-7. Spanish. <annotation><p><italic toggle="yes">(69 year old woman developed jaundice 1 week after starting aceclofenac [an NSAID similar to diclofenac] with bilirubin 32 mg/dL, ALT 1097 U/L, Alk P 808 U/L, and recovery within 3 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">11817238</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R42">
+            <mixed-citation publication-type="journal">Traversa G, Bianchi C, Da Cas R, Abraha I, Menniti-Ippolito F, Venegoni M. Cohort study of hepatotoxicity associated with nimesulide and other non-steroidal anti-inflammatory drugs. BMJ 2003; 327: 18-22. <annotation><p><italic toggle="yes">(Among 397,537 patients who received a prescription for an NSAID [770,000 person years] between 1997 and 2002, 42 developed an acute nonviral hepatitis [30 per 100,000] including 8 receiving diclofenac, one fatal).</italic></p></annotation><pub-id pub-id-type="pmid">12842950</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R43">
+            <mixed-citation publication-type="journal">Boelsterli UA. Diclofenac-induced liver injury: a paradigm of idiosyncratic drug toxicity. Toxicol Appl Pharmacol 2003; 192: 307-22. <annotation><p><italic toggle="yes">(Review of possible etiology of liver injury due to diclofenac including toxic intermediates, mitochondrial injury, immunogenic adducts and aberrant transport).</italic></p></annotation><pub-id pub-id-type="pmid">14575648</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R44">
+            <mixed-citation publication-type="journal">Aithal GP. Diclofenac-induced liver injury: a paradigm of idiosyncratic drug toxicity. Expert Opin Drug Saf 2004; 3: 519-23. <annotation><p><italic toggle="yes">(Editorial and review of mechanism of liver injury by diclofenac, including aberrant metabolism by CYP 2C9, formation of adducts and immune responses or adduct antibodies).</italic></p></annotation><pub-id pub-id-type="pmid">15500411</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R45">
+            <mixed-citation publication-type="journal">Aithal GP, Ramsay L, Daly AK, Sonchit N, Leathart JB, Alexander G, et al. Hepatic adducts, circulating antibodies, and cytokine polymorphisms in patients with diclofenac hepatotoxicity. Hepatology 2004; 39: 1430-40. <annotation><p><italic toggle="yes">(Antibodies to diclofenac liver protein adducts found in all 7 patients with diclofenac hepatotoxicity, in 12 of 20 without injury and no healthy controls, similar adducts found in autopsy from fatal case; also detected increase in variant alleles for IL-10 and IL-4 patients with diclofenac hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">15122773</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R46">
+            <mixed-citation publication-type="journal">de Abajo FJ, Montero D, Madurga M, Garcia Rodriguez LA. Acute and clinically relevant drug-induced liver injury: a population based case-control study. Br J Clin Pharmacol 2004; 58: 71-80. <annotation><p><italic toggle="yes">(Analysis of General Practice Research Database of 1.6 million people in UK 1994-2000 found 128 cases of drug induced liver injury; 10 due to diclofenac which occurred most commonly in women, receving higher doses and longer durations of treatment).</italic></p></annotation><pub-id pub-id-type="pmid">15206996</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R47">
+            <mixed-citation publication-type="journal">Lacroix I, Lapeyre-Mestre M, Bagheri H, et al; Club de Reflexion des cabinets de Groupe de Gastro-Enterologie (CREGG); General Practitioner Networks. Nonsteroidal anti-inflammatory drug-induced liver injury: a case-control study in primary care. Fundam Clin Pharmacol 2004; 18: 201-6. <annotation><p><italic toggle="yes">(Case controlled study of patients presenting with suspected drug induced liver injury in a general practice context in Southern France found 88 cases which were compared to 178 controls; 22 cases vs 16 controls had been exposed to NSAIDs; 5 diclofenac, 4 ibuprofen, 4 ketoprofen, 2 niflumic acid, 1 flurbiprofen and 1 meloxicam).</italic></p></annotation><pub-id pub-id-type="pmid">15066135</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R48">
+            <mixed-citation publication-type="journal">Rubenstein JH, Laine L. Systematic review: the hepatotoxicity of non-steroidal anti-inflammatory drugs. Aliment Pharmacol Ther 2004; 20: 373-80. <annotation><p><italic toggle="yes">(NSAIDs are the most commonly used drugs in the US and account for a large proportion of cases of hepatic injury, but the frequency is quite rare. Among 7 population based studies, hospitalization occurred in 22.4/100,000 patient-years of diclofenac exposure [rate ratio 1.5]; rate did not increase with age and was not associated with gender; in case controlled studies, higher odds ratio of liver injury occurred with sulindac, indomethacin, piroxicam and diclofenac).</italic></p></annotation><pub-id pub-id-type="pmid">15298630</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R49">
+            <mixed-citation publication-type="journal">Roth SH, Shainhouse JZ. Efficacy and safety of a topical diclofenac solution (pennsaid) in the treatment of primary osteoarthritis of the knee: a randomized, double-blind, vehicle-controlled clinical trial. Arch Intern Med 2004; 164: 2017-23. <annotation><p><italic toggle="yes">(Among 326 patients with osteoarthritis treated with topical diclofenac or placebo four times daily for 12 weeks, major side effects were dry skin and rash; ALT levels were not monitored and there was no mention of clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">15477437</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R50">
+            <mixed-citation publication-type="journal">Tugwell PS, Wells GA, Shainhouse JZ. Equivalence study of a topical diclofenac solution (pennsaid) compared with oral diclofenac in symptomatic treatment of osteoarthritis of the knee: a randomized controlled trial. J Rheumatol 2004; 31: 2002-12. <annotation><p><italic toggle="yes">(Among 622 patients with osteoarthritis treated with oral vs topical diclofenac for 12 weeks, changes in pain and dysfunction scores were similar, but ALT elevations occurred more often with oral than topical therapy [any elevation 17% vs 5%; above 3 times ULN in 4.7% vs 1.1%]).</italic></p></annotation><pub-id pub-id-type="pmid">15468367</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R51">
+            <mixed-citation publication-type="journal">Rostom A, Goldkind L, Laine L. Nonsteroidal anti-inflammatory drugs and hepatic toxicity: a systematic review of randomized controlled trials in arthritis patients. Clin Gastroenterol Hepatol 2005; 3: 489-98. <annotation><p><italic toggle="yes">(Review of randomized clinical trials of NSAIDS for frequency of adverse events; ALT values above 3 times ULN occurred in 0.43% of patients exposed to ibuprofen, 0.43% naproxen, 0.42% celecoxib, 1.8% rofecoxib, 3.55% diclofenac and 0.29% placebo; liver related serious adverse events were rare and no liver related deaths were reported).</italic></p></annotation><pub-id pub-id-type="pmid">15880319</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R52">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E, Jerlstad P, Bergqvist A, Olsson R. Fulminant drug-induced hepatic failure leading to death or liver transplantation in Sweden. Scand J Gastroentero 2005; 40: 1095-101. <annotation><p><italic toggle="yes">(Review of 103 cases of fatal drug induced liver injury from Sweden between 1966 and 2002; most common causes were halothane [16], acetaminophen [14], flucloxacillin [9], sulfonamides [9], and diclofenac [3]; during same period there were 120 reports of nonfatal diclofenac liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">16165719</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R53">
+            <mixed-citation publication-type="journal">Bjornsson E, Olsson R. Suspected drug-induced liver fatalities reported to the WHO database. Dig Liver Dis 2006; 38: 33-8. <annotation><p><italic toggle="yes">(Survey of drug induced liver fatalities reported to WHO database between 1968-2003 revealed 4690 reports; diclofenac ranked 15th with 56 cases and was the only NSAID in the top 20 causes).</italic></p></annotation><pub-id pub-id-type="pmid">16054882</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R54">
+            <mixed-citation publication-type="journal">De Valle MB, Av Klinteberg V, Alem N, Olsson R, Bj&#x000f6;rnsson E. Drug-induced liver injury in a Swedish University hospital out-patient hepatology clinic. Aliment Pharmacol Ther 2006; 24: 1187-95. <annotation><p><italic toggle="yes">(Among 1164 patients with liver disease seen over a 10 year period at a single Swedish referral center, 77 [6.6%] were suspected due to drug induced liver injury; 56% women; mean age 58 years, 48% hepatocellular, 40% cholestatic; antibiotics were most common, followed by NSAIDs, the most common of which was diclofenac [14 cases, 6 jaundiced]).</italic></p></annotation><pub-id pub-id-type="pmid">17014577</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R55">
+            <mixed-citation publication-type="journal">Lapeyre-Mestre M, de Castro AM, Bareille MP, Del Pozo JG, Requejo AA, Arias LM, et al. Non-steroidal anti-inflammatory drug-related hepatic damage in France and Spain: analysis from national spontaneous reporting systems. Fundam Clin Pharmacol 2006; 20:391-5. <annotation><p><italic toggle="yes">(Analysis of reports of liver injury from NSAIDs from France and Spain from 1982-2001; relative risk raised for droxicam, sulindac, nimesulide, and clometacin; minimally raised for naproxen, diclofenac, piroxicam and tenoxicam).</italic></p></annotation><pub-id pub-id-type="pmid">16867024</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R56">
+            <mixed-citation publication-type="journal">Arellano FM, Yood MU, Wentworth CE, Oliveria SA, Rivero E, Verma A, et al. Use of cyclo-oxygenase 2 inhibitors(COX-2) and prescription non-steroidal anti-inflammatory drugs (NSAIDS) in UK and USA populations Implications for COX-2 cardiovascular profile. Pharmacoepidemiol Drug Saf 2006; 15: 861-72. <annotation><p><italic toggle="yes">(Survey of NSAID use in UK and USA indicates ibuprofen, naproxen and diclofenac are the most commonly used; diclofenac more frequently outside of US).</italic></p></annotation><pub-id pub-id-type="pmid">17086563</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R57">
+            <mixed-citation publication-type="journal">Sanchez-Matienzo D, Arana A, Castellsague J, Perez-Gutthann S. Hepatic disorders in patients treated with COX-2 selective inhibitors or nonselective NSAIDs: a case/noncase analysis of spontaneous reports. Clin Ther 2006; 28: 1123-32. <annotation><p><italic toggle="yes">(Review of FDA Medwatch reports of adverse events: 158,539 received, 3% liver related; higher proportion liver adverse events for sulindac, diclofenac and nimesulide; not for other Cox-2 inhibitors).</italic></p></annotation><pub-id pub-id-type="pmid">16982289</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R58">
+            <mixed-citation publication-type="journal">Watanabe N, Takashimizu S, Kojima S, Kagawa T, Nishizaki Y, Mine T, et al. Clinical and pathological features of a prolonged type of acute intrahepatic cholestasis. Hepatol Res 2007; 37: 598-607. <annotation><p><italic toggle="yes">(Discussion of histological findings in two cases of diclofenac induced prolonged cholestasis showing bile duct loss and relative absence of MRP2 staining compared to self-limited cases).</italic></p></annotation><pub-id pub-id-type="pmid">17517076</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R59">
+            <mixed-citation publication-type="journal">Daly AK, Aithal GP, Leathart JB, Swainsbury RA, Dang TS, Day CP. Genetic susceptibility to diclofenac-induced hepatotoxicity: contribution of UGT2B7, CYP2C8, and ABCC2 genotypes. Gastroenterology 2007; 132: 272-81. <annotation><p><italic toggle="yes">(Genotyping of UGT2B7, CYP2C8 and ABCC2 done on 24 patients with diclofenac hepatotoxicity and controls, found allelic variants that correlated with occurrence of injury).</italic></p></annotation><pub-id pub-id-type="pmid">17241877</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R60">
+            <mixed-citation publication-type="journal">Laine L, Goldkind L, Curtis SP, Connors LG, Yanqiong Z, Cannon CP. How common is diclofenac-associated liver injury? Analysis of 17,289 arthritis patients in a long-term prospective clinical trial. Am J Gastroenterol 2009; 104: 356-62. <annotation><p><italic toggle="yes">(Examination of a clinical trial database of diclofenac vs etoricoxib in 34,701 patients with arthritis; ALT elevations above 3 times ULN occurred in 3.1% and above 10 times in 0.5% of diclofenac treated patients [vs 0.7% and 0.05% for etoricoxib], leading to discontinuation in 2.5% and hospitalization for liver injury and jaundice in 0.023% [16 per 100,000 patient-years], but no deaths).</italic></p></annotation><pub-id pub-id-type="pmid">19174782</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R61">
+            <mixed-citation publication-type="journal">Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl 2004; 10: 1018-23. <annotation><p><italic toggle="yes">(Among ~50,000 liver transplants done in the US between 1990 and 2002, 270 [0.5%] were done for drug induced acute liver failure, but none were attributed to diclofenac).</italic></p></annotation><pub-id pub-id-type="pmid">15390328</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R62">
+            <mixed-citation publication-type="journal">Oaks JL, Gilbert M, Virani MZ, Watson RT, Meteyer CU, Rideout BA, Shivaprasad HL, et al. Diclofenac residues as the cause of vulture population decline in Pakistan. Nature 2004; 427: 630-3. <annotation><p><italic toggle="yes">(A marked decline in population of Oriental white backed vultures occurred in the 1990s later shown to be due to acute renal failure and severe hyperuricemia caused by feeding on diclofenac treated livestock).</italic></p></annotation><pub-id pub-id-type="pmid">14745453</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R63">
+            <mixed-citation publication-type="journal">Andrade RJ, Lucena MI, Fernandez MC, Pelaez G, Pachkoria K, Garcia-Ruiz E, et al. Drug-induced liver injury: an analysis of 461 incidences submitted to the Spanish Registry over a 10-year period. Gastroenterology 2005; 129: 512-21. <annotation><p><italic toggle="yes">(Reports of drug induced liver injury to a Spanish network found 570 cases, diclofenac ranked 7th with 12 cases, 10 hepatocellular, none fatal).</italic></p></annotation><pub-id pub-id-type="pmid">16083708</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R64">
+            <mixed-citation publication-type="journal">Sabat&#x000e9; M, Ib&#x000e1;&#x000f1;ez L, P&#x000e9;rez E, Vidal X, Buti M, Xiol X, Mas A, Guarner C, Forn&#x000e9; M, Sol&#x000e0; R, Castellote J, Rigau J, Laporte JR. Risk of acute liver injury associated with the use of drugs: a multicentre population survey. Aliment Pharmacol Ther 2007; 25:1401-9. <annotation><p><italic toggle="yes">(Population based survey of 126 cases of acute drug induced liver injury in Spain between 1993-1999 calculated relative risk of injury compared to the general population as 7.6 for diclofenac [n=8], with estimated incidence of 2.9 per 100,000 patient-years).</italic></p></annotation><pub-id pub-id-type="pmid">17539979</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R65">
+            <mixed-citation publication-type="journal">Aithal GP, Day CP. Nonsteroidal anti-inflammatory drug-induced hepatotoxicity. Clin Liver Dis 2007; 11: 563-75, vi-vii. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of NSAIDs focusing upon mechanisms of injury).</italic></p></annotation><pub-id pub-id-type="pmid">17723920</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R66">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US between 2004 and 2008, more than 100 agents were implicated including diclofenac [n=4], ranking 13th in frequency).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R67">
+            <mixed-citation publication-type="journal">Yerly G, Cereda JM. Severe hepatitis due to percutaneous diclofenac. Gastroenterol Clin Biol 2008; 32: 824-5. <annotation><p><italic toggle="yes">(52 year old woman with primary biliary cirrhosis developed jaundice shortly after use of percutaneous diclofenac for back pain [bilirubin 10.8 mg/dL, ALT 2012 U/L, Alk P 123 U/L], with decrease of liver test abnormalities to her baseline [ALT 103 U/L, Alk P 82 U/L] over the following 6 months).</italic></p></annotation><pub-id pub-id-type="pmid">18818036</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R68">
+            <mixed-citation publication-type="journal">Devarbhavi H, Dierkhising R, Kremers WK, Sandeep MS, Karanth D, Adarsh CK. Single-center experience with drug-induced liver injury from India: causes, outcome, prognosis, and predictors of mortality. Am J Gastroenterol 2010; 105: 2396-404. <annotation><p><italic toggle="yes">(313 cases of drug induced liver injury were seen over a 12 year period at a large hospital in Bangalore, India; 8 [2.6%] were attributed to NSAIDs including 1 to diclofenac].</italic></p></annotation><pub-id pub-id-type="pmid">20648003</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R69">
+            <mixed-citation publication-type="journal">Bessone F. Non-steroidal anti-inflammatory drugs: What is the actual risk of liver damage? World J Gastroenterol 2010; 16: 5651-61. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/21128314">PubMed Citation</ext-link><annotation><p><italic toggle="yes">(Review of estimated frequency of drug induced liver injury due to NSAIDs from large published epidemiological studies; diclofenac is the most widely used NSAID and its likelihood of causing liver injury varied considerably in different reports in the literature).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R70">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury and 7 to NSAIDs, including 4 to bromfenac, 2 diclofenac and 1 etodolac, but none to ketoprofen, ibuprofen or naproxen).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R71">
+            <mixed-citation publication-type="journal">Roth SH, Fuller P. Diclofenac topical solution compared with oral diclofenac: a pooled safety analysis. J Pain Res 2011; 4: 159-67. <annotation><p><italic toggle="yes">(Combined analysis of safety in two 12 week controlled trials of oral vs topical diclofenac in 927 patients with osteoarthritis of the knee; ALT elevations were more frequent with oral [rising from 9.5% at baseline to 22% at 12 weeks] compared to topical diclofenac [10.9% to 10.4%], but no patient developed clinically apparent liver injury and only one discontinued therapy early because of liver enzyme elevations).</italic></p></annotation><pub-id pub-id-type="pmid">21811391</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R72">
+            <mixed-citation publication-type="journal">Cuthbert R, Taggart MA, Prakash V, Saini M, Swarup D, Upreti S, Mateo R, Chakraborty SS, Deori P, Green RE. Effectiveness of action in India to reduce exposure of Gyps vultures to the toxic veterinary drug diclofenac. PLoS One 2011; 6: e19069. <annotation><p><italic toggle="yes">(Surveys of prevalence of diclofenac in carcases of ungulates [mostly cattle] in India before and after a public ban on its use in veterinary medicine showed a 40% decrease [10-11% to 6%], but need for further efforts).</italic></p></annotation><pub-id pub-id-type="pmid">21589920</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R73">
+            <mixed-citation publication-type="journal">Aithal GP. Hepatotoxicity related to antirheumatic drugs. Nat Rev Rheumatol 2011; 7: 139-50. <annotation><p><italic toggle="yes">(Review of drug induced liver injury due to rheumatologic agents mentions that most diclofenac cases present within 6 months [85%] and only rarely after one year [3%], usually with a hepatocellular pattern of enzyme elevations, the etiology likely to be multifactorial).</italic></p></annotation><pub-id pub-id-type="pmid">21263458</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R74">
+            <mixed-citation publication-type="journal">Anelli MG, Scioscia C, Grattagliano I, Lapadula G. Old and new antirheumatic drugs and the risk of hepatotoxicity. Ther Drug Monit 2012; 34: 622-8. <annotation><p><italic toggle="yes"> (Review of drug induced liver injury due to rheumatologic agents including diclofenac).</italic></p></annotation><pub-id pub-id-type="pmid">23128910</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R75">
+            <mixed-citation publication-type="journal">Hawkins MT, Lewis JH. Latest advances in predicting DILI in human subjects: focus on biomarkers. Expert Opin Drug Metab Toxicol 2012; 8: 1521-30. <annotation><p><italic toggle="yes">(Review of the status of biomarkers for prediction of drug induced liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">22998122</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R76">
+            <mixed-citation publication-type="journal">Lee CH, Wang JD, Chen PC; Health Data Analysis in Taiwan (hDATa) Research Group. Case-crossover design: an alternative strategy for detecting drug-induced liver injury. J Clin Epidemiol 2012; 65: 560-7. <annotation><p><italic toggle="yes">(Analysis of National Health Insurance database for Taiwan for risk of hospitalization for liver injury within 30 days of taking a medication, found an adjusted odds ratio for taking diclofenac of 2.6-2.9 compared to 24.4-29.3 for isoniazid).</italic></p></annotation><pub-id pub-id-type="pmid">22445086</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R77">
+            <mixed-citation publication-type="journal">Nezic L, Kr&#x000e4;henb&#x000fc;hl S, R&#x000e4;tz Bravo AE. [Diclofenac induced liver injuries]. Praxis (Bern 1994) 2012; 101: 371-9. German. <annotation><p><italic toggle="yes"> (Abstract only; 83 year old woman developed self-limited liver injury within 9 days of starting diclofenac).</italic></p></annotation><pub-id pub-id-type="pmid">22419135</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R78">
+            <mixed-citation publication-type="journal">Peniston JH, Gold MS, Wieman MS, Alwine LK. Long-term tolerability of topical diclofenac sodium 1% gel for osteoarthritis in seniors and patients with comorbidities. Clin Interv Aging 2012; 7: 517-23. <annotation><p><italic toggle="yes"> (Among 947 patients treated with topical diclofenac for osteoarthritis for up to one year, none developed clinically apparent liver injury; ALT monitoring was not done).</italic></p></annotation><pub-id pub-id-type="pmid">23204844</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R79">
+            <mixed-citation publication-type="journal">Baraf HS, Gold MS, Petruschke RA, Wieman MS. Tolerability of topical diclofenac sodium 1% gel for osteoarthritis in seniors and patients with comorbidities. Am J Geriatr Pharmacother 2012; 10: 47-60. <annotation><p><italic toggle="yes">(Analysis of 5 placebo controlled trials of topical diclofenac for 8-12 weeks for knee and hand osteoarthritis found ALT elevations in 0.1-0.3% of diclofenac vs 0.3-0.5% of placebo recipients).</italic></p></annotation><pub-id pub-id-type="pmid">22264852</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R80">
+            <mixed-citation publication-type="journal">Roth SH, Fuller P. Diclofenac sodium topical solution 1.5% w/w with dimethyl sulfoxide compared with placebo for the treatment of osteoarthritis: pooled safety results. Postgrad Med 2011; 123: 180-8. <annotation><p><italic toggle="yes"> (Analysis of safety data of topical diclofenac in 1252 patients with osteoarthritis in 7 placebo controlled trials found no change in average ALT or AST levels with either diclofenac or placebo, and a slight increase in average GGT levels in both groups [by 1.5 and 1.6 U/L]).</italic></p></annotation><pub-id pub-id-type="pmid">22104466</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R81">
+            <mixed-citation publication-type="journal">Shainhouse JZ, Grierson LM, Naseer Z. A long-term, open-label study to confirm the safety of topical diclofenac solution containing dimethyl sulfoxide in the treatment of the osteoarthritic knee. Am J Ther 2010; 17: 566-76. <annotation><p><italic toggle="yes">(Among 793 paitents with osteoarthritis treated with topical diclofenac for 2 to 455 days, serum ALT levels rose above normal in 7.3% [maximal change: 29 to 211 U/L], but no patient developed clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">20216203</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R82">
+            <mixed-citation publication-type="journal">Pillans PI, Ghiculescu RA, Lampe G, Wilson R, Wong R, Macdonald GA. Severe acute liver injury associated with lumiracoxib. J Gastroenterol Hepatol 2012; 27: 1102-5. <annotation><p><italic toggle="yes">(Three cases of liver injury due to lumiracoxib, a selective COX-2 inhibitor that was not approved for use in the US and was withdrawn from use elsewhere because of hepatotoxicity; 49, 52, and 63 year old Australian women with osteoarthritis developed jaundice 3, 6 and 6 months after starting lumiracoxib [bilirubin 4.7, 16.0 and 17.5 mg/dL, ALT 652, 1180 and 3016 U/L, Alk P 344, 393 and 754 U/L, all 3 ANA positive], one dying, one undergoing liver transplant and one recovering but with persistent liver injury and cirrhosis).</italic></p></annotation><pub-id pub-id-type="pmid">22142375</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R83">
+            <mixed-citation publication-type="journal">Gulmez SE, Larrey D, Pageaux GP, Lignot S, Lassalle R, Jov&#x000e9; J, Gatta A, et al. Transplantation for acute liver failure in patients exposed to NSAIDs or paracetamol (acetaminophen): the multinational case-population SALT study. Drug Saf 2013; 36: 135-44. <annotation><p><italic toggle="yes">(Among 600 patients undergoing liver transplantation for acute liver failure at 52 European liver transplant centers between 2005 and 2007, 301 were considered idiopathic and had received a medication within 30 days of onset, including acetaminophen in 192 and NSAIDs in 44, including diclofenac [the most commonly used NSAID] in 7 for a rate of 1.55 per million-treatment years).</italic></p></annotation><pub-id pub-id-type="pmid">23325533</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R84">
+            <mixed-citation publication-type="journal">Lapeyre-Mestre M, Grolleau S, Montastruc JL; Association Fran&#x000e7;aise des Centres R&#x000e9;gionaux de Pharmacovigilance (CRPV). Adverse drug reactions associated with the use of NSAIDs: a case/noncase analysis of spontaneous reports from the French pharmacovigilance database 2002-2006. Fundam Clin Pharmacol 2013; 27: 223-30. <annotation><p><italic toggle="yes">(Analysis of serious adverse events reporting to a French pharmacovigilance data found highest cumulative rates for liver related reports for nimesulide [0.15 per million defined daily doses], followed by diclofenac [0.09], ketoprofen [0.09], piroxicam [0.06], naproxen [0.04] and meloxicam [0.03] being significant in case/noncase analyses for nimesulide, diclofenac and piroxicam only).</italic></p></annotation><pub-id pub-id-type="pmid">21929527</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R85">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, including 6 attributed to diclofenac [ranking 2nd] for an estimated incidence of ~1 per 10,000 persons exposed).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R86">
+            <mixed-citation publication-type="journal">Unzueta A, Vargas HE. Nonsteroidal anti-inflammatory drug-induced hepatoxicity. Clin Liver Dis 2013; 17: 643-56, ix. <annotation><p><italic toggle="yes"> (Review of hepatotoxicity of NSAIDs mentions that more than 5 million prescriptions for diclofenac are filled yearly in the US and the rate of severe hepatotoxicity is relatively low, although fatalities have been reported).</italic></p></annotation><pub-id pub-id-type="pmid">24099022</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R87">
+            <mixed-citation publication-type="journal">Fok KC, Bell CJ, Read RB, Eckstein RP, Jones BE. Lumiracoxib-induced cholestatic liver injury. Intern Med J 2013; 43: 731-2. <annotation><p><italic toggle="yes">(83 year old woman developed serum enzyme elevations 7 months after starting lumiracoxid for osteoarthritis, with gradual rise thereafter [bilirubin not given, ALT 208 U/L, Alk P 1174 U/L, GGT 2114 U/L], ultimately resolving after lumiracoxib was stopped, but timing of events and specific details not provided).</italic></p></annotation><pub-id pub-id-type="pmid">23745998</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R88">
+            <mixed-citation publication-type="journal">Da&#x0011f; MS, Ayd&#x00131;nl&#x00131; M, Ozt&#x000fc;rk ZA, T&#x000fc;rkbeyler IH, Koruk I, Sava&#x0015f; MC, Koruk M, et al. Drug- and herb-induced liver injury: a case series from a single center. Turk J Gastroenterol 2014; 25: 41-5. <annotation><p><italic toggle="yes"> (Among 82 patients with suspected drug induced liver injury seen at a single Turkish referral center between 2008 and 2012, 19 were attributed to NSAIDs [23%], most commonly diclofenac [n=8, 10%], one case resulting in death).</italic></p></annotation><pub-id pub-id-type="pmid">24918129</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R89">
+            <mixed-citation publication-type="journal">deLemos AS, Foureau DM, Jacobs C, Ahrens W, Russo MW, Bonkovsky HL. Drug-induced liver injury with autoimmune features. Semin Liver Dis 2014; 34: 194-204. <annotation><p><italic toggle="yes">(Review of drug induced liver injury with autoimmune features).</italic></p></annotation><pub-id pub-id-type="pmid">24879983</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R90">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes"> (Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, 2 of which were attributed to diclofenac, one of which was fatal).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R91">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, diclofenac was the 9th most frequent cause of drug induced liver injury and was implicated in 15 cases [1.7%], one of which was fatal).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R92">
+            <mixed-citation publication-type="journal">Schmeltzer PA, Kosinski AS, Kleiner DE, Hoofnagle JH, Stolz A, Fontana RJ, Russo MW; Drug-Induced Liver Injury Network (DILIN). Liver injury from nonsteroidal anti-inflammatory drugs in the United States. Liver Int 2016; 36: 603-9. <annotation><p><italic toggle="yes"> (Among 1221 cases of drug induced liver injury enrolled in a prospective US registry, 30 were attributed to NSAIDs, 16 [1.3%] of which were due to diclofenac, including 10 with jaundice, 5 scored as severe and one fatal; all cases were hepatocellular and latency ranged from 6 days to 6 months, 4 with immunoallergic and 6 with autoimmune features; initial mean ALT 1386 U/L, Alk P 182 U/L, bilirubin 8.0 mg/dL).</italic></p></annotation><pub-id pub-id-type="pmid">26601797</pub-id></mixed-citation>
+          </ref>
+          <ref id="Diclofenac.R93">
+            <mixed-citation publication-type="journal">Petros Z, Makonnen E, Aklillu E. Genome-wide association studies for idiosyncratic drug-induced hepatotoxicity: looking back-looking forward to next-generation innovation. OMICS 2017; 21: 123-31. <annotation><p><italic toggle="yes"> (Review of genetic studies of drug induced liver injury mentions that diclofenac hepatotoxicity has been linked to polymorphisms of UGT2B7 and ABCC2, but these associations have not been reported witth genome-wide studies).</italic></p></annotation><pub-id pub-id-type="pmid">28253087</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Diclofenac.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Diclofenac/AE+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI+OR+hepatitis,+toxic%5BMH%5D)">Rec: from PubMed.gov</ext-link>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Diclofenac/AE+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI+OR+hepatitis,+toxic%5BMH%5D)">ent References on Diclofenac: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Diclofenac">Trials on Diclofenac: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

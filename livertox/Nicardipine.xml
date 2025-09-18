@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Nicardipine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Nicardipine</book-part-id>
+      <title-group>
+        <title>Nicardipine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>11</day>
+          <month>1</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Niacin" document-type="chapter">Niacin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Nicotine" document-type="chapter">Nicotine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Nicardipine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Nicardipine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Nicardipine is a second generation calcium channel blocker used in the treatment of hypertension and stable angina pectoris. Nicardipene therapy has been associated with a low rate of transient serum enzyme elevations, but has not been linked convincingly to instances of clinically apparent liver injury with jaundice.</p>
+        </sec>
+        <sec id="Nicardipine.Background">
+          <title>Background</title>
+          <p>Nicardipine (nye kar' di peen) belongs to the dihydropyridine class of calcium channel blockers and is used in the treatment of both angina pectoris and hypertension. Like other calcium channel blockers, nicardipine acts by blocking the influx of calcium ions into vascular smooth muscle and cardiac cells during depolarization. This inhibition of calcium flux results in a vasodilation and decrease in cardiac work and oxygen consumption. Nicardipine was approved in the United States in 1988 and in remains in wide use. Nicardipine is available in multiple generic forms and under the commercial name Cardene in regular and as extended- or sustained-release capsules in 20, 30, 45 and 60 mg amounts. The current indications vary by formulation, but include both hypertension and angina pectoris. The usual adult dose is 60 to 120 mg daily in 2 or 3 divided doses. Intravenous formulations are available for management of hypertensive emergencies. As with other calcium channel blockers, nicardipine is generally well tolerated and side effects are largely due to its vasodilating activities and can include headache, flushing, dizziness, fatigue, nausea, diarrhea, peripheral edema and skin rash.</p>
+        </sec>
+        <sec id="Nicardipine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Nicardipine has not been associated with significant increases in rates of elevations in serum aminotransferase or alkaline phosphatase levels, even with chronic long term therapy. Cases of idiosyncratic liver injury have not been published, although a single instance of marked serum enzyme elevations without jaundice has been reported with the use of intravenous nicardipine. Large trials of nicardipine have not mentioned liver injury, serum aminotransferase elevations or discontinuation of drug because of hepatic adverse events. Thus, clinically apparent liver injury with jaundice due to nicardipine must be rare, if it occurs at all.</p>
+          <p>Likelihood Score: E (unlikely cause of clinically apparent liver injury).</p>
+          <p>The reason why some calcium channel blockers are known to cause idiosyncratic liver injury while others such as nicardipine do not, is unknown.</p>
+          <p>Drug Class: Cardiovascular Agents, <related-object source-id="livertox" document-id="CalciumChannelBlocke">Calcium Channel Blockers</related-object></p>
+          <p>Other Drugs in the Subclass, Calcium Channel Blockers: <related-object source-id="livertox" document-id="Amlodipine">Amlodipine</related-object>, <related-object source-id="livertox" document-id="Diltiazem">Diltiazem</related-object>, <related-object source-id="livertox" document-id="Felodipine">Felodipine</related-object>, <related-object source-id="livertox" document-id="Isradipine">Isradipine</related-object>, <related-object source-id="livertox" document-id="Nifedipine">Nifedipine</related-object>, <related-object source-id="livertox" document-id="Nimodipine">Nimodipine</related-object>, <related-object source-id="livertox" document-id="Nisoldipine">Nisoldipine</related-object>, <related-object source-id="livertox" document-id="Verapamil">Verapamil</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Nicardipine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Nicardipine.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Nicardipine &#x02013; Generic, Cardene&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Cardiovascular Agents</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=nicardipine">COMPLETE LABELING</ext-link>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Nicardipine.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Nicardipine.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Nicardipine.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Nicardipine.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Nicardipine.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Nicardipine.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Nicardipine.T1_1_1_1_1" rowspan="1" colspan="1">Nicardipine</td>
+                <td headers="hd_h_Nicardipine.T1_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135002936">55985-32-5</ext-link>
+</td>
+                <td headers="hd_h_Nicardipine.T1_1_1_1_3" rowspan="1" colspan="1">C26-H29-N3-O6</td>
+                <td headers="hd_h_Nicardipine.T1_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Nicardipine_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Nicardipine chemical structure</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Nicardipine.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 11 January 2017</p>
+        <ref-list id="Nicardipine.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Nicardipine.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Calcium channel blockers. Drugs used in cardiovascular disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 646-7.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; among calcium channel blockers, diltiazem, nifedipine, bepridil and verapamil have been incriminated in instances of hepatic injury; nicardipine is not discussed, but is listed as potentially causing hepatocellular injury ).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Nicardipine.R2">
+            <mixed-citation publication-type="other">De Marzio DH, Navarro VJ. Calcium channel blockers. Hepatotoxicity of cardiovascular and antidiabetic drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 524.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of calcium channel blockers mentions that diliazem, nifedipine and verapamil have been implicated in causing cholestatic liver injury in a small number of patients; nicardipine is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Nicardipine.R3">
+            <mixed-citation publication-type="other">Michel T, Hoffman BB. Calcium channel antagonists. Treatment of myocardial ischemia. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 755-60.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Nicardipine.R4">
+            <mixed-citation publication-type="journal">Agre K. An overview of the safety and efficacy of nicardipine in clinical trials. Am J Cardiol 1987; 59: 31J-35J. <annotation><p><italic toggle="yes">(In studies of over 2000 patients treated with nicardipine, no serious liver related adverse events were reported: "A number of abnormalities were detected, but they were sporadic and inconsistent").</italic></p></annotation><pub-id pub-id-type="pmid">3300239</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nicardipine.R5">
+            <mixed-citation publication-type="journal">Kuwajima I, Kuramoto K, Ogihara T, et al. Tolerability and safety of a calcium channel blocker in comparison with a diuretic in the treatment of elderly patients with hypertension: secondary analysis of the NICS-EH. Hypertens Res 2001; 24: 475-80. <annotation><p><italic toggle="yes">(In studies on 429 elderly subjects, there were fewer side effects from nicardipine than with diuretics and no reports of liver related adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">11675939</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nicardipine.R6">
+            <mixed-citation publication-type="journal">Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl 2004; 10: 1018-23. <annotation><p><italic toggle="yes">(Among ~50,000 liver transplants reported to UNOS between 1990 and 2002, 270 [0.5%] were done for drug induced acute liver failure, but none were attributed to a calcium channel blocker).</italic></p></annotation><pub-id pub-id-type="pmid">15390328</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nicardipine.R7">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E, Jerlstad P, Bergqvist A, Olsson R. Fulminant drug-induced hepatic failure leading to death or liver transplantation in Sweden. Scand J Gastroenterol 2005; 40: 1095-101.<annotation><p><italic toggle="yes"><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/16165719">PubMed Citation</ext-link> (Summary of 25 years of adverse drug reaction reporting in Sweden identified 103 cases of drug induced acute liver failure; only one case was possibly linked to a calcium channel blocker: felodipine).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Nicardipine.R8">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/18955056">PubMed Citation</ext-link><annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, calcium channel blockers were implicated as a sole agent in 2 cases [1 amlodipine, 1 verapamil] and as one of several agents in 2 cases [both amlodipine]).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Nicardipine.R9">
+            <mixed-citation publication-type="journal">Chaudhry M, Maqsood A, Diab-Agha S, Rosenberg J. Nicardipine-induced acute hepatitis in an intensive care unit patient. Am J Ther 2009 16: 71-3. <annotation><p><italic toggle="yes">(62 year old man with acute myocardial infarction was given nicardipine intravenously and developed fever and serum enzyme elevations 4 days later [bilirubin normal, ALT 356 U/L, Alk P 299 U/L], resolving within days of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">19092642</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nicardipine.R10">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were linked to calcium channel blockers).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nicardipine.R11">
+            <mixed-citation publication-type="journal">
+<annotation><p>
+<italic toggle="yes">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 114: 1419-25. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/23419359">PubMed Citation</ext-link> (In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but no cases were attributed to calcium channel blockers).</italic>
+</p></annotation>
+</mixed-citation>
+          </ref>
+          <ref id="Nicardipine.R12">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes"> (Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases; one case was attributed to verapamil, but none were linked to isradipine or other calcium channel blockers).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Nicardipine.R13">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 39 [4%] were due to antihypertensive agents including 4 due to calcium channel blockers [amlodipine in 1 and verapamil in 3 instances], but none to isradipine).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Nicardipine.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=nicardipine/AE+AND+Human%5BMH%5D+AND+(%20drug-induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Nicardipine: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=nicardipine">Trials on Nicardipine: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

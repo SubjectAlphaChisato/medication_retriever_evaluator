@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Rosiglitazone" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Rosiglitazone</book-part-id>
+      <title-group>
+        <title>Rosiglitazone</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>6</day>
+          <month>6</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Ropinirole" document-type="chapter">Ropinirole</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Rosuvastatin" document-type="chapter">Rosuvastatin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Rosiglitazone.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Rosiglitazone.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Rosiglitazone is an insulin sensitizing agent and thiazolidinedione that is indicated for the treatment of type 2 diabetes. Rosiglitazone has been linked to rare instances of acute liver injury.</p>
+        </sec>
+        <sec id="Rosiglitazone.Background">
+          <title>Background</title>
+          <p>Rosiglitazone (roe" si gli' ta zone) an insulin sensitizing agent that improves glucose control in patients with type 2 diabetes. Like other thiazolidinediones, it is thought to act by engagement of PPAR-&#x003b3; receptors which induce multiple genes involved in glucose and fatty acid metabolism. In clinical trials, rosiglitazone was found to lower blood glucose and HbA1c levels and had additive effects with the sulfonylureas and metformin. Rosiglitazone was approved for use in the United States in 1999. While the initial thiazolidinedione &#x02013; troglitazone &#x02013; had been associated with high rates of serum aminotransferase elevations and multiple reports of severe liver injury and death from acute liver failure, rosiglitazone was associated with a lower rate of ALT elevations and with only rare instances of clinically apparent liver injury. Rosiglitazone is approved as an adjunct to diet and exercise in the glycemic control of patients with type 2 diabetes. Rosiglitazone is available as 2 and 4 mg tablets generically and under the brand name Avandia and the usual recommended dosage is 4 to 8 mg daily in two divided doses. Rosiglitazone is used as monotherapy as well as in combination with metformin, sulfonylureas or insulin. In 2010, the FDA published a drug safety alert concerning the cardiovascular risks of rosiglitazone and the drug has been withdrawn in many countries of the world, because of these potential long term adverse effects. In the United States, it remains available but is recommended only for patients who are unable to achieve glycemic control with other diabetes medications.</p>
+        </sec>
+        <sec id="Rosiglitazone.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In contrast to troglitazone, rosiglitazone is not associated with an increased frequency of aminotransferase elevations during therapy. In clinical trials, ALT elevations above 3 times the ULN occurred in only 0.25% of patients on rosiglitazone, compared to 0.25% of placebo recipients (and 1.9% of troglitazone recipients in similar studies). In addition, clinically apparent liver injury attributed to rosiglitazone is very rare, fewer than a dozen cases having been described in the literature despite extensive use of this agent. The liver injury usually arises between 1 and 12 weeks after starting therapy (thus, a shorter latency than typically occurs with troglitazone) and all patterns of serum enzyme elevations have been described including hepatocellular, cholestatic and mixed. Allergic phenomena are rare and autoantibodies have not been typically present. Fatal instances have been reported usually in cases with a hepatocellular pattern of injury. In most instances, recovery is complete within 1 to 2 months.</p>
+          <p>Likelihood score: C (probable rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Rosiglitazone.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of liver injury due to rosiglitazone is not known, but the general pattern and course differs somewhat from troglitazone and it is unlikely that the thiazolidinediones share a single mechanism for liver injury.</p>
+        </sec>
+        <sec id="Rosiglitazone.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The liver injury from rosiglitazone is usually reversed with stopping the medication. Fatal cases of rosiglitazone associated liver injury have been reported, but most cases were self-limiting. Chronic liver disease and vanishing bile duct syndrome have not been reported with rosiglitazone therapy. There is at least some degree of cross sensitivity to the liver injury caused by the different thiazolidinediones, so that patients with rosiglitazone hepatotoxicity should avoid use of pioglitazone.</p>
+          <p>References to the safety and hepatotoxicity of rosiglitazone are given together with references to pioglitazone and troglitazone in the Overview section on the Thiazolidinediones (updated June 2018).</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Antidiabetic">Antidiabetic Agents</related-object></p>
+          <p>Other Drugs in the Subclass, <related-object source-id="livertox" document-id="Thiazolidinediones">Thiazolidinediones</related-object>: <related-object source-id="livertox" document-id="Pioglitazone">Pioglitazone</related-object>, <related-object source-id="livertox" document-id="Troglitazone">Troglitazone</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Rosiglitazone.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Rosiglitazone.Case_1._Acute_hepatitis_af">
+          <title>Case 1. Acute hepatitis after 8 days of rosiglitazone therapy.</title>
+          <p>[Modified from: Al-Salman J, Arjomand H, Kemp DG, Mittal M. Hepatocellular injury in a patient receiving rosiglitazone. A case report. Ann Intern Med 2000; 132: 121-4. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/10644273">PubMed Citation</ext-link>]</p>
+          <p>A 61 year old man with diabetes was started on rosiglitazone and developed symptoms of nausea and abdominal pain within 8 days and jaundice within 2 weeks. The patient had poorly controlled diabetes for which he took sulfonylureas and metformin without adequate control. He was tried on troglitazone therapy, but it was discontinued after 8 days because of nausea and upset stomach. After failure to tolerate repaglinide because of nausea and dizziness, he was started on rosiglitazone. Eight days later he developed anorexia, nausea and abdominal pain and subsequently noted onset of dark urine and fever. His liver test results had been normal before starting rosiglitazone, but 11 days later he had marked elevations in serum aminotransferase levels and jaundice (Table). Rosiglitazone was stopped and he began to improve. Tests for hepatitis A, B and C were negative as were autoantibodies. Ultrasonography showed no evidence of gallstones or biliary tract disease. He also had chronic obstructive pulmonary disease and a remote history of alcoholism. After a week in the hospital, he was discharged. Subsequent testing showed a slow improvement in his liver tests. Serum aminotransferase levels were normal two months later.</p>
+          <sec id="Rosiglitazone.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Rosiglitazone.T1" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Rosiglitazone (4 mg daily for 11 days)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Hepatocellular (R=12)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">3+ (jaundice and hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">8 days to nausea and abdominal pain, 11 days to jaundice</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">2 months</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">Bronchodilators, theophylline, prednisone, zafirlukast, acetaminophen (&#x0003c;2 g/day), and remotely repaglinide, metformin, sulfonylureas</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Rosiglitazone.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Rosiglitazone.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Rosiglitazone.T2_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Rosiglitazone.T2_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Rosiglitazone.T2_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Rosiglitazone.T2_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Rosiglitazone.T2_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Rosiglitazone.T2_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_1" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_3" rowspan="1" colspan="1">40</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_1" rowspan="1" colspan="1">11 days</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_3" rowspan="1" colspan="1">1706</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_4" rowspan="1" colspan="1">331</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_5" rowspan="1" colspan="1">9.6</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_6" rowspan="1" colspan="1">Rosiglitazone stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_1" rowspan="1" colspan="1">15 days</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_2" rowspan="1" colspan="1">4 days</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_3" rowspan="1" colspan="1">1349</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_4" rowspan="1" colspan="1">412</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_5" rowspan="1" colspan="1">13.8</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_1" rowspan="1" colspan="1">18 days</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_2" rowspan="1" colspan="1">7 days</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_3" rowspan="1" colspan="1">1251</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_4" rowspan="1" colspan="1">519</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_5" rowspan="1" colspan="1">12.8</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_6" rowspan="1" colspan="1">Discharge</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_1" rowspan="1" colspan="1">24 days</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_2" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_3" rowspan="1" colspan="1">558</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_4" rowspan="1" colspan="1">486</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_5" rowspan="1" colspan="1">12.1</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_1" rowspan="1" colspan="1">31 days</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_2" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_3" rowspan="1" colspan="1">133</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_4" rowspan="1" colspan="1">274</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_5" rowspan="1" colspan="1">4.9</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_1" rowspan="1" colspan="1">9 weeks</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_2" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_3" rowspan="1" colspan="1">41</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_4" rowspan="1" colspan="1">165</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_5" rowspan="1" colspan="1">2.3</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_1" rowspan="1" colspan="1">11 weeks</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_2" rowspan="1" colspan="1">10 weeks</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_3" rowspan="1" colspan="1">38</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_4" rowspan="1" colspan="1">144</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_5" rowspan="1" colspan="1">1.8</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_1 hd_h_Rosiglitazone.T2_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;40</bold>
+</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;117</bold>
+</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Rosiglitazone.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Rosiglitazone.Comment">
+            <title>Comment</title>
+            <p>Acute hepatocellular injury without signs of allergy (fever, eosinophilia and rash) developed within 1 to 2 weeks of starting rosiglitazone. While the pattern of liver enzyme elevations and severity of injury resembles that described with troglitazone, the short latency is atypical for the other thiazolidinediones. Interestingly, the patient did not tolerate troglitazone in the past, although no liver tests were performed at the time. Thus, the rapid development of liver injury upon starting rosiglitazone may have been due to cross reactivity of the injury with troglitazone and a form of reexposure. The timing of onset and recovery make rosiglitazone a highly likely cause of this hepatic injury.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Rosiglitazone.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Rosiglitazone.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Rosiglitazone &#x02013; Avandia&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Hypoglycemic Agents</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Rosiglitazone">COMPLETE LABELING</ext-link>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Rosiglitazone.CHEMICAL_FORMULA_AND_STRUC">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Rosiglitazone.T3" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Rosiglitazone.T3_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Rosiglitazone.T3_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Rosiglitazone.T3_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Rosiglitazone.T3_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Rosiglitazone.T3_1_1_1_1" rowspan="1" colspan="1">Rosiglitazone</td>
+                <td headers="hd_h_Rosiglitazone.T3_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135040639">122320-73-4</ext-link>
+</td>
+                <td headers="hd_h_Rosiglitazone.T3_1_1_1_3" rowspan="1" colspan="1">C18-H19-N3-O3-S</td>
+                <td headers="hd_h_Rosiglitazone.T3_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Rosiglitazone_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Rosiglitazone chemical structure</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Rosiglitazone.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(rosiglitazone/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Rosiglitazone: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=rosiglitazone">Trials on Rosiglitazone: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

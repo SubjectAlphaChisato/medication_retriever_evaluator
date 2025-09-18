@@ -1,0 +1,2576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Ticlopidine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Ticlopidine</book-part-id>
+      <title-group>
+        <title>Ticlopidine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>25</day>
+          <month>9</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="TicarcillinClavulana" document-type="chapter">Ticarcillin-Clavulanate</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Tigecycline" document-type="chapter">Tigecycline</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Ticlopidine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Ticlopidine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Ticlopidine is an inhibitor of platelet aggregation that is used to decrease the risk of stroke in patients known to have atherosclerosis. Ticlopidine is associated with a low rate of serum enzyme elevations during treatment and has been linked to rare instances of idiosyncratic, clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Ticlopidine.Background">
+          <title>Background</title>
+          <p>Ticlopidine (tye kloe' pi deen) is an inhibitor of adenosine diphosphate (ADP)-induced platelet aggregation and is used to decrease the risk of recurrence of stroke in patients who have documented previous cerebrovascular thrombosis, and as adjunctive therapy with aspirin to reduce the risk of coronary stent thrombosis. Ticlopidine is a thienopyridine and prodrug that requires activation in the liver by the cytochrome P450 system. Activated platelets release ADP which binds to purinergic platelet receptors causing platelets to adhere to each other and aggregate. Ticlopidine acts by inhibiting the binding of ADP to platelet receptors and triggering of the intracellular pathways that lead to activation of the glycoprotein IIb/IIIa complex, which causes a change in the shape of platelets and their aggregation. The aggregation of platelets plays an important role in the growth of atheromatous plaques which can lead to coronary, cerebral and peripheral arterial occlusions. In large clinical trials, ticlopidine therapy has been shown to decrease the frequency of recurrence of fatal and nonfatal stroke. Ticlopidine was approved for use in the United States in 1991, but it is currently rarely used, largely because of the risks of serious side effects including agranulocytosis, thrombotic thrombocytopenic purpura and aplastic anemia and the availability of clopidogrel, which has a similar mechanism of action and efficacy, but a lower rate of adverse events. Current indications of ticlopidine include reduction of recurrence of stroke in patients with previous cerebrovascular thrombosis. In combination with aspirin, it is used for prevention of coronary stent occlusion. Ticlopidine is available in 250 mg tablets in several generic forms and formerly under the commercial name Ticlid. The usual dose is 250 mg twice daily taken with food. Side effects can include diarrhea, nausea, dyspepsia, rash, gastrointestinal upset, dizziness, anorexia and pruritus.</p>
+        </sec>
+        <sec id="Ticlopidine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Ticlopidine has been associated with serum enzyme elevations in approximately 4% of patients during therapy. These elevations are usually mild, asymptomatic and rarely require dose modification or stopping. Ticlopidine has also been associated with clinically apparent, acute liver injury. While these reactions are rare, more than 50 instances have been reported in the literature and some have been severe. The onset of symptoms is typically within 6 weeks (range 1 to 24 weeks) and marked by onset with fatigue, jaundice and itching. The usual pattern of liver enzyme elevations is cholestatic (~75%), but cases with mixed or hepatocellular enzyme elevations have also been described. Immunoallergic features such as fever, rash and eosinophilia can occur but are not common and, if present, are usually mild. Autoantibody formation is rare. Liver biopsy usually shows cholestatic hepatitis with mixed cellular infiltrates. Most cases are self-limited with recovery within 1 to 3 months, but isolated cases of prolonged jaundice or liver test abnormalities have been described, including at least one case of probable vanishing bile duct syndrome that eventually required liver transplantation. Ticlopidine therapy has also been associated with aplastic anemia and thrombotic thrombocytopenic purpura (TTP) that can be severe and lead to death; these patients may also have accompanying cholestatic liver injury.</p>
+        </sec>
+        <sec id="Ticlopidine.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of ticlopidine hepatotoxicity is not known, but is clearly idiosyncratic and may be due to the complex hepatic metabolism of the chlorophenyl-methyl-pyridine molecule. Immunoallergic features are usually not prominent, but hypersensitivity reactions have been described and cholestatic liver injury from ticlopidine has been linked to an extended HLA haplotype: A*33:03-B*44:03-Cw*14:03-DRB1*13:02-DQB1*1604 in Asian populations and to A*33:01 [which is homologous to a*33:03] in European populations.</p>
+        </sec>
+        <sec id="Ticlopidine.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The severity of liver injury with ticlopidine ranges from minor serum enzyme elevations to clinically apparent cholestatic hepatitis. Most cases are self-limited and resolve completely. However, instances of prolonged cholestasis and vanishing bile duct syndrome due to ticlopidine have been reported. Ticlopidine is also associated with severe bone marrow toxicity, including aplastic anemia and agranulocytosis which can be accompanied by liver injury and which can be fatal. Interestingly, several patients have been described who suffered hepatotoxicity from ticlopidine, but who later tolerated clopidogrel without recurrence of liver injury. Nevertheless, switching to the related platelet aggregation inhibitor should be done with caution and prospective monitoring.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="Anticoagulants" document-type="chapter">Antithrombotic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Anticoagulants" document-type="chapter">Antiplatelet Agents</related-object></p>
+          <p>Other Drugs in the Subclass, Antiplatelet Agents: <related-object link-type="booklink" source-id="livertox" document-id="Aspirin" document-type="chapter">Aspirin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Cangrelor" document-type="chapter">Cangrelor</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Clopidogrel" document-type="chapter">Clopidogrel</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Dipyridamole" document-type="chapter">Dipyridamole</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Prasugrel" document-type="chapter">Prasugrel</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ticagrelor" document-type="chapter">Ticagrelor</related-object>, <xref ref-type="book-part" rid="Ticlopidine">Ticlopidine</xref>, <related-object link-type="booklink" source-id="livertox" document-id="Vorapaxar" document-type="chapter">Vorapaxar</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Ticlopidine.CASE_REPORTS">
+        <title>CASE REPORTS</title>
+        <sec id="Ticlopidine.Case_1_Acute_cholestatic_hep">
+          <title>Case 1. Acute cholestatic hepatitis due to ticlopidine.(<xref ref-type="bibr" rid="Ticlopidine.REF.1">1</xref>)</title>
+          <p>A 66 year old man with diabetes, hyperlipidemia, aortic stenosis and coronary artery disease underwent cardiac catheterization and percutaneous placement of a stent in the left anterior descending artery. He was started on ticlopidine (250 mg twice daily) to help maintain stent patency. Approximately six weeks later he developed abdominal pain, nausea and diarrhea and discontinued ticlopidine. Over the next two weeks, however, he continued to feel poorly and developed dark urine and jaundice. He denied fever, chills, or skin rash. He had no history of liver disease and previously had normal liver tests. He denied alcohol abuse, previous drug allergies or risk factors for viral hepatitis. His other medications included fluvastatin (40 mg daily), bezafibrate (400 mg daily), metformin (850 mg twice daily) and atenolol (50 mg daily), which he had taken for years. On presentation, he was jaundiced but afebrile and without signs of chronic liver disease or cirrhosis. Laboratory tests showed a total bilirubin of 5.4 mg/dL, ALT 263 U/L, AST 114 U/L, alkaline phosphatase 99 U/L and GGT 17 U/L. The eosinophil count was 9%. Tests for acute hepatitis A, B and C were negative as were autoantibodies. Abdominal ultrasound and computerized tomography were normal without evidence of biliary obstruction. Over the next several weeks, serum bilirubin and alkaline phosphatase levels continued to rise with a peak bilirubin of 19.3 mg/dL and alkaline phosphatase of 219 U/L. A liver biopsy showed features of severe cholestasis with mild steatosis and bile duct damage. He was treated with ursodiol and serum bilirubin levels began to fall. Ursodiol therapy was continued for 4 months and by six months after onset, all liver tests had returned to normal. His other medications had been continued without interruption.</p>
+          <sec id="Ticlopidine.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Ticlopidine.Tc" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Ticlopidine.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Ticlopidine.Tc_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Ticlopidine (250 mg twice daily for 4 weeks)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Ticlopidine.Tc_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Ticlopidine.Tc_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Hepatocellular evolving into cholestatic (R=6.4, later 0.6)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Ticlopidine.Tc_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Ticlopidine.Tc_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">3+ (jaundice, hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Ticlopidine.Tc_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Ticlopidine.Tc_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">6 weeks to onset of symptoms, 8 weeks to jaundice</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Ticlopidine.Tc_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Ticlopidine.Tc_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">4 months</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Ticlopidine.Tc_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Ticlopidine.Tc_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">Fluvastatin, bezafibrate, metformin, atenolol chronically</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Ticlopidine.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Ticlopidine.Td" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Ticlopidine.Td_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">Time After<break/>Starting</th>
+                    <th id="hd_h_Ticlopidine.Td_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">Time After<break/>Stopping</th>
+                    <th id="hd_h_Ticlopidine.Td_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">ALT*<break/>(U/L)</th>
+                    <th id="hd_h_Ticlopidine.Td_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">Alk P*<break/>(U/L)</th>
+                    <th id="hd_h_Ticlopidine.Td_1_1_1_5" valign="top" align="left" scope="col" rowspan="1" colspan="1">Bilirubin*<break/>(mg/dL)</th>
+                    <th id="hd_h_Ticlopidine.Td_1_1_1_6" valign="top" align="left" scope="col" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">263</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">99</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">5.4</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Admission</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">9 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">145</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">115</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">7.2</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">10 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">55</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">180</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">12.8</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">11 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">50</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">219</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">19.3</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Ursodiol started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">12 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">85</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">205</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">16.9</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">13 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">86</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">200</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">13.5</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">16 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">10 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">65</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">185</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">3.0</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">18 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">12 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">45</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">145</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.2</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">5 months</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">14 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">25</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">120</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.8</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">4 months</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">20</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">95</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.4</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_1 hd_h_Ticlopidine.Td_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;40</bold>
+</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;115</bold>
+</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Ticlopidine.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+              <table-wrap-foot>
+                <fn id="Ticlopidine.TF.d.1">
+                  <label>* </label>
+                  <p>Some values estimated from figure.</p>
+                </fn>
+              </table-wrap-foot>
+            </table-wrap>
+          </sec>
+          <sec id="Ticlopidine.Comment">
+            <title>Comment</title>
+            <p>While the pattern of serum enzyme elevations was hepatocellular at the time of presentation (R=6.5), the liver enzymes soon evolved to a distinctly cholestatic pattern as marked by a fall in serum aminotransferase and rise in alkaline phosphatase levels. Jaundice was profound and a liver biopsy confirmed the cholestatic nature of the injury. This case demonstrates the complexities of defining liver injury as cholestatic vs hepatocellular and demonstrates why there are discrepancies in the literature on the relative frequency of the two patterns associated with injury from a specific agent. The pattern of injury is said to be cholestatic in 75% to 80% of cases of ticlopidine hepatotoxicity. As is typical of cholestatic liver injury, recovery can be delayed and prolonged. In particular, serum alkaline phosphatase and GGT levels can remain elevated for months after clinical recovery. These abnormalities are usually benign and ultimately resolve, but may also represent some degree of bile duct damage and loss the long term implications of which are unknown.</p>
+          </sec>
+        </sec>
+        <sec id="Ticlopidine.Case_2_Acute_cholestatic_hep">
+          <title>Case 2. Acute cholestatic hepatitis due to ticlopidine.(<xref ref-type="bibr" rid="Ticlopidine.REF.2">2</xref>)</title>
+          <p>A 72 year old man developed fatigue followed by jaundice 3 weeks after starting ticlopidine (100 mg three times daily) for carotid artery disease. He had no other symptoms and specifically denied, fever, chills, abdominal pain, rash, nausea or vomiting. He had no previous history of liver disease, alcohol abuse, drug allergies or risk factors for viral hepatitis. His other medications included loratadine (antihistamine) and timepidium bromide (antispasmodic), which he had been taking for two months. Laboratory tests showed a total serum bilirubin of 12.8 mg/dL (9.3 mg/dL direct), ALT 847 U/L, AST 393 U/L, alkaline phosphatase 487 U/L, and GGT 648 U/L (Table). Complete blood counts were normal without eosinophilia. Tests for acute hepatitis A, B and C were negative as were autoantibodies. Abdominal ultrasound showed no abnormalities and endoscopic retrograde cholangiopancreatography showed no evidence of biliary obstruction. A liver biopsy showed focal hepatocellular necrosis and cholestasis which was interpreted as compatible with drug induced liver injury. Ticlopidine was stopped on initial presentation and there was an immediate although gradual improvement in liver tests.</p>
+          <sec id="Ticlopidine.Key_Points_1">
+            <title>Key Points</title>
+            <table-wrap id="Ticlopidine.Te" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Ticlopidine.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Ticlopidine.Te_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Ticlopidine (300 mg daily)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Ticlopidine.Te_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Ticlopidine.Te_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Mixed (R=4.4)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Ticlopidine.Te_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Ticlopidine.Te_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">3+ (jaundice, hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Ticlopidine.Te_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Ticlopidine.Te_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">3 weeks</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Ticlopidine.Te_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Ticlopidine.Te_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">3 months</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Ticlopidine.Te_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Ticlopidine.Te_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">Loratadine, timepidium</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Ticlopidine.Laboratory_Values_1">
+            <title>Laboratory Values</title>
+            <table-wrap id="Ticlopidine.Tf" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Ticlopidine.Tf_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Starting</th>
+                    <th id="hd_h_Ticlopidine.Tf_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Stopping</th>
+                    <th id="hd_h_Ticlopidine.Tf_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT*<break/>(U/L)</th>
+                    <th id="hd_h_Ticlopidine.Tf_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Alk P*<break/>(U/L)</th>
+                    <th id="hd_h_Ticlopidine.Tf_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin*<break/>(mg/dL)</th>
+                    <th id="hd_h_Ticlopidine.Tf_1_1_1_6" valign="top" align="center" scope="col" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">847</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">487</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">12.8</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Ticlopidine stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">7 days</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">529</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">420</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">13.9</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">18 days</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">266</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">415</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">8.6</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">1 month</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">90</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">296</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">3.4</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">11 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">2 months</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">48</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">204</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.2</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">13 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">2.5 months</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">38</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">200</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.9</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_1 hd_h_Ticlopidine.Tf_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;40</bold>
+</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;100</bold>
+</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Ticlopidine.Tf_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+              <table-wrap-foot>
+                <fn id="Ticlopidine.TF.f.1">
+                  <label>* </label>
+                  <p>Estimated from figure.</p>
+                </fn>
+              </table-wrap-foot>
+            </table-wrap>
+          </sec>
+          <sec id="Ticlopidine.Comment_1">
+            <title>Comment</title>
+            <p>Ticlopidine has been linked to more than 50 cases of clinically apparent, acute liver injury in the published literature. Most cases were reported from Europe, probably because it was introduced in many European countries in 1978, but was not commercially available in the United States until 1991. Most cases of ticlopidine hepatotoxicity are cholestatic, but mixed patterns of injury (as in this case) have been described. Ticlopidine is associated with several serious adverse events including aplastic anemia and thrombotic thrombocytopenic purpura and has been largely replaced by clopidogrel which appears to lead to bone marrow and hepatic injury much less commonly.</p>
+          </sec>
+        </sec>
+        <sec id="Ticlopidine.Case_3_Acute_cholestatic_hep">
+          <title>Case 3. Acute cholestatic hepatitis due to ticlopidine.(<xref ref-type="bibr" rid="Ticlopidine.REF.3">3</xref>)</title>
+          <p>A 91 year old man was found to have marked elevations in serum aminotransferase levels at the time of a hospital admission for hip fracture 4 weeks after he started ticlopidine (250 mg twice daily) because of transient ischemic attacks. He had no symptoms of liver disease at the time and physical examination showed no evidence of jaundice. He had no history of liver disease, alcohol abuse, drug allergies or risk factors for viral hepatitis. His other medications included prednisone 5 mg every other day for rheumatoid arthritis and aspirin 325 mg daily for atrial fibrillation, both of which he had taken for several years. Laboratory tests showed a serum bilirubin of 0.6 mg/dL, ALT 293 U/L, AST 358 U/L and alkaline phosphatase 154 U/L. These values had been completely normal a month previously, just before he started ticlopidine (Table). Ticlopidine was discontinued and he underwent a successful open reduction of the fracture of the femur. Two weeks later he was transferred to another hospital and was found to be jaundiced on admission. He still had no symptoms of nausea, anorexia, abdominal pain or pruritus. Abdominal imaging showed no evidence of biliary obstruction or hepatic abnormality. With no further intervention, serum aminotransferase levels and bilirubin fell into the normal range within 9 weeks of the initial elevations.</p>
+          <sec id="Ticlopidine.Key_Points_2">
+            <title>Key Points</title>
+            <table-wrap id="Ticlopidine.Tg" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Ticlopidine.Tg_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Ticlopidine.Tg_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Ticlopidine (250 mg twice daily)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Ticlopidine.Tg_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Ticlopidine.Tg_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Initially hepatocellular (R=6.1), subsequently cholestatic (R=0.6)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Ticlopidine.Tg_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Ticlopidine.Tg_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">2+ (jaundice without symptoms)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Ticlopidine.Tg_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Ticlopidine.Tg_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">4 weeks to enzyme elevations, 6 weeks to jaundice</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Ticlopidine.Tg_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Ticlopidine.Tg_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">2 months</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Ticlopidine.Tg_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Ticlopidine.Tg_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">Aspirin, prednisone</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Ticlopidine.Laboratory_Values_2">
+            <title>Laboratory Values</title>
+            <table-wrap id="Ticlopidine.Th" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Ticlopidine.Th_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Starting</th>
+                    <th id="hd_h_Ticlopidine.Th_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Stopping</th>
+                    <th id="hd_h_Ticlopidine.Th_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT<break/>(U/L)</th>
+                    <th id="hd_h_Ticlopidine.Th_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Alk P<break/>(U/L)</th>
+                    <th id="hd_h_Ticlopidine.Th_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                    <th id="hd_h_Ticlopidine.Th_1_1_1_6" valign="top" align="center" scope="col" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">20</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">69</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.5</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Ticlopidine started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">293</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">154</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.6</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Ticlopidine stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">4 days</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">190</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">648</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">5.4</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1">Transfer to new hospital</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">9 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">10 days</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">96</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">475</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">5.8</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">10 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">16 days</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">87</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">550</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">3.6</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">18 days</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">71</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">449</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">3.1</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">12 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">24</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">287</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">2.7</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">13 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">..</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">217</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">2.0</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">14 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">..</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">189</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.4</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">16 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">9 weeks</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">..</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">127</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.2</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_1 hd_h_Ticlopidine.Th_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;40</bold>
+</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;130</bold>
+</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Ticlopidine.Th_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Ticlopidine.Comment_2">
+            <title>Comment</title>
+            <p>Ticlopidine typically causes a cholestatic hepatitis with a time to onset of 2 to 12 weeks, but the timing of onset and enzyme pattern varies. Part of the variability, however, relates to the definitions of time of onset and cholestatic vs hepatocellular. In this instance, the time to first serum enzyme elevations was 4 weeks, but time to jaundice was 7 to 8 weeks. In addition, the definition of cholestatic relies upon the relative elevations of serum ALT and alkaline phosphatase levels which can change during the course of the injury. As shown in this case, the enzyme elevations are often hepatocellular at the onset of injury (before jaundice) and yet evolve into a cholestatic pattern once jaundice arises or at time of peak bilirubin elevation. This case was atypical in the absence of pruritus and clinical symptoms, but the coadministration of prednisone and the patient&#x02019;s age may account for the paucity of clinical complaints.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Ticlopidine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Ticlopidine &#x02013; Generic, Ticlid&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antithrombotic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Ticlopidine">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Ticlopidine.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Ticlopidine.Ti" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Ticlopidine.Ti_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Ticlopidine.Ti_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Ticlopidine.Ti_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Ticlopidine.Ti_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Ticlopidine.Ti_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Ticlopidine</td>
+                <td headers="hd_h_Ticlopidine.Ti_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135004472">55142-85-3</ext-link>
+</td>
+                <td headers="hd_h_Ticlopidine.Ti_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C14-H14-Cl-N-S</td>
+                <td headers="hd_h_Ticlopidine.Ti_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135004472" document-id-type="sid" document-type="summary" object-id="135004472" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Ticlopidine.CITED_REFERENCES">
+        <title>CITED REFERENCES</title>
+        <ref-list id="Ticlopidine.CITED_REFERENCES.reflist0">
+          <ref id="Ticlopidine.REF.1">
+            <label>1</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Skurnik</surname><given-names>YD</given-names></name>
+<name name-style="western"><surname>Tcherniak</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Edlan</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Sthoeger</surname><given-names>Z</given-names></name>
+</person-group>
+              <article-title>Ticlopidine-induced cholestatic hepatitis.</article-title>
+              <source>Ann Pharmacother</source>
+              <year>2003</year>
+              <volume>37</volume>
+              <fpage>371</fpage>
+              <lpage>5</lpage>
+              <pub-id pub-id-type="pmid">12639165</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.2">
+            <label>2</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chen</surname><given-names>LK</given-names></name>
+<name name-style="western"><surname>Hsieh</surname><given-names>BH</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>WC</given-names></name>
+<name name-style="western"><surname>Tsai</surname><given-names>ST</given-names></name>
+<name name-style="western"><surname>Hou</surname><given-names>MC</given-names></name>
+</person-group>
+              <article-title>Ticlopidine-induced hepatitis.</article-title>
+              <source>Zhonghua Yi Xue Za Zhi (Taipei)</source>
+              <year>2001</year>
+              <volume>64</volume>
+              <fpage>59</fpage>
+              <lpage>63</lpage>
+              <pub-id pub-id-type="pmid">11310373</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.3">
+            <label>3</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Nurhussein</surname><given-names>MA</given-names></name>
+</person-group>
+              <article-title>Ticlopidine-induced prolonged cholestasis.</article-title>
+              <source>J Am Geriatr Soc</source>
+              <year>1993</year>
+              <volume>41</volume>
+              <fpage>1371</fpage>
+              <lpage>2</lpage>
+              <pub-id pub-id-type="pmid">8227923</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Ticlopidine.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 25 September 2020</p>
+        <ref-list id="Ticlopidine.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Ticlopidine.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Platelet aggregation inhibitors. Drugs used in cardiovascular disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 641-3.<annotation><p><italic toggle="yes">(Textbook of hepatotoxicity published in 1999; ticlopidine is said to have been implicated in at least 32 cases of cholestatic and 2 of hepatocellular liver injury, usually with onset within 6 weeks of starting).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.de_marzio.2013">
+            <mixed-citation publication-type="book">De Marzio DH, Navarro VJ. Hepatotoxicity of cardiovascular and antidiabetic drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 520-40.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of antiplatelet drugs including ticlopidine which has been linked to more than 30 cases of acute liver injury).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.hogg.2018">
+            <mixed-citation publication-type="book">Hogg K, Weitz JI. Blood coagulation and anticoagulant, fibrinolytic, and antiplatelet drugs. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 849-76.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.biour.1982.222">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Biour</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Toussaint</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Duhamel</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Canuel</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Krulick</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Calmus</surname><given-names>Y.</given-names></name>
+</person-group>
+              <comment>[Ticlopidine: blood and liver involvement?]</comment>
+              <source>Therapie</source>
+              <year>1982</year>
+              <volume>37</volume>
+              <fpage>222</fpage>
+              <lpage>4</lpage>
+              <comment>French.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(5 cases of severe side effects due to ticlopidine, one liver-related: 48 year old man developed jaundice and pruritus 3 months after starting ticlopidine [bilirubin 26.3 mg/dL, ALT 80 U/L, Alk P 1000 U/L], resolving over next 7 months).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7112492</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.deschamps.1982.595">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Deschamps</surname><given-names>JP</given-names></name>
+<name name-style="western"><surname>Lass&#x000e8;gue</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Ottignon</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Vuitton</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Allemand</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Carayon</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Miguet</surname><given-names>JP</given-names></name>
+</person-group>
+              <comment>[Cholestatic jaundice associated with ingestion of ticlopidine: apropos of the first 2 cases]</comment>
+              <source>Gastroenterol Clin Biol</source>
+              <year>1982</year>
+              <volume>6</volume>
+              <fpage>595</fpage>
+              <lpage>6</lpage>
+              <comment>French.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(2 cases: 45 year old woman developed rash followed by pruritus and jaundice 24 days after starting ticlopidine [bilirubin 5.8 mg/dL, ALT 405 U/L, Alk P 500 U/L], jaundice resolving 1 month and Alk P elevations 10 months after stopping; 82 year old woman developed jaundice 20 days after starting ticlopidine [bilirubin 12.9 mg/dL, ALT 180 U/L, Alk P 550 U/L], jaundice resolving in 3 and Alk P elevations 10 months after stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7117772</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.saintmarc_girardin.1982.716">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Saint-Marc Girardin</surname><given-names>MF</given-names></name>
+<name name-style="western"><surname>Cordonnier</surname><given-names>C</given-names></name>
+</person-group>
+              <comment>[Cholestatic icterus and agranulocytosis due to ticlopidine]</comment>
+              <source>Gastroenterol Clin Biol</source>
+              <year>1982</year>
+              <volume>6</volume>
+              <fpage>716</fpage>
+              <lpage>7</lpage>
+              <comment>French.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(86 year old woman developed jaundice and agranulocytosis 4 weeks after starting ticlopidine [bilirubin 7.1 rising to 15.8 mg/dL, ALT 42 U/L, Alk P 180 U/L, white count 1000/&#x000b5;L], with progressive pancytopenia, sepsis and death 2 weeks after presentation).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7129024</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.eugene.1983.2923">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Eugene</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Lefebvre</surname><given-names>JF</given-names></name>
+<name name-style="western"><surname>Gury</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Quevauvilliers</surname><given-names>J</given-names></name>
+</person-group>
+              <comment>[Cholestatic hepatitis. Presumptive role of ticlopidine]</comment>
+              <source>Sem Hop</source>
+              <year>1983</year>
+              <volume>59</volume>
+              <fpage>2923</fpage>
+              <lpage>4</lpage>
+              <comment>French.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(71 year old woman developed jaundice within 10 days of starting ticlopidine [bilirubin 5.3 mg/dL, ALT 6 times ULN, Alk P 4 times ULN], resolving within 1 month of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">6318329</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.hass.1989.501">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hass</surname><given-names>WK</given-names></name>
+<name name-style="western"><surname>Easton</surname><given-names>JD</given-names></name>
+<name name-style="western"><surname>Adams</surname><given-names>HP</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Pryse-Phillips</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Molony</surname><given-names>BA</given-names></name>
+<name name-style="western"><surname>Anderson</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Kamm</surname><given-names>B</given-names></name>
+</person-group>
+              <article-title>A randomized trial comparing ticlopidine hydrochloride with aspirin for the prevention of stroke in high-risk patients. Ticlopidine Aspirin Stroke Study Group.</article-title>
+              <source>N Engl J Med</source>
+              <year>1989</year>
+              <volume>321</volume>
+              <fpage>501</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 3069 patients with high risk from stoke treated with ticlopidine or aspirin for 2 to 6 years, side effects of ticlopidine included diarrhea [20.4% vs 9.8%], rash [11.9% vs 5.2%], and severe but reversible neutropenia [0.9% vs none] usually within first 3 months; no mention of liver injury or ALT elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2761587</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.gent.1989.1215">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gent</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Blakely</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Easton</surname><given-names>JD</given-names></name>
+<name name-style="western"><surname>Ellis</surname><given-names>DJ</given-names></name>
+<name name-style="western"><surname>Hachinski</surname><given-names>VC</given-names></name>
+<name name-style="western"><surname>Harbison</surname><given-names>JW</given-names></name>
+<name name-style="western"><surname>Panak</surname><given-names>E</given-names></name>
+<etal/>
+</person-group>
+              <article-title>The Canadian American Ticlopidine Study (CATS) in thromboembolic stroke.</article-title>
+              <source>Lancet</source>
+              <year>1989</year>
+              <volume>1</volume>
+              <fpage>1215</fpage>
+              <lpage>20</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1072 patients treated with ticlopidine or placebo after thromboembolic stroke, side effects included severe neutropenia [1% vs 0.1%], rash [15% vs 8%], diarrhea [22% vs 10%], and abnormal liver function [4.4% vs 1.5%] which was severe in 2 patients on ticlopidine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2566778</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.janzon.1990.301">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Janzon</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Bergqvist</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Boberg</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Boberg</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Eriksson</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Lindg&#x000e4;rde</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Persson</surname><given-names>G</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Prevention of myocardial infarction and stroke in patients with intermittent claudication; effects of ticlopidine. Results from STIMS, the Swedish Ticlopidine Multicentre Study.</article-title>
+              <source>J Intern Med</source>
+              <year>1990</year>
+              <volume>227</volume>
+              <fpage>301</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 687 patients with intermittent claudication treated with ticlopidine or placebo for up to 5 years, side effects included diarrhea [22% vs 9%], rash [3.5 vs 1.8%], cytopenia [1.8% vs none], and hepatic symptoms [1.7% vs 1.8%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2187948</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.balsano.1990.17">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Balsano</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Rizzon</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Violi</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Scrutinio</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Cimminiello</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Aguglia</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Pasotti</surname><given-names>C</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Antiplatelet treatment with ticlopidine in unstable angina. A controlled multicenter clinical trial. The Studio della Ticlopidina nell'Angina Instabile Group.</article-title>
+              <source>Circulation</source>
+              <year>1990</year>
+              <volume>82</volume>
+              <fpage>17</fpage>
+              <lpage>26</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 652 patients with unstable angina treated with ticlopidine or placebo for 6 months, side effects requiring discontinuation included diarrhea, nausea, abdominal pain and rash, but no mention of liver injury or ALT elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2194694</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.mammarella.1991.45">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mammarella</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Paoletti</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Moroni</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Cassone</surname><given-names>R.</given-names></name>
+</person-group>
+              <comment>[Ticlopidine-induced cholestatic jaundice]</comment>
+              <source>Clin Ter</source>
+              <year>1991</year>
+              <volume>138</volume>
+              <fpage>45</fpage>
+              <lpage>6</lpage>
+              <comment>Italian.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(67 year old man developed jaundice 2 weeks after starting ticlopidine [bilirubin 26.9 mg/dL, ALT 122 U/L, Alk P 1156 U/L], resolving within 3 months of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1834400</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.miyahara.1991.354">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Miyahara</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Kasahara</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Kondo</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Imai</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Matuzaki</surname><given-names>F</given-names></name>
+</person-group>
+              <article-title>Changes in plasma lipids and abnormal lipoproteins in a patient with drug-induced cholestatic hepatitis.</article-title>
+              <source>Jpn J Med</source>
+              <year>1991</year>
+              <volume>30</volume>
+              <fpage>354</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(65 year old woman developed rash and abdominal pain 2 weeks after starting ticlopidine and jaundice 2 weeks later despite stopping therapy [bilirubin 22.3 mg/dL, ALT 395 U/L, GGT 3,326 U/L], with resolution in 2 months but persistence of GGT elevations [796 U/L 6 months later]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1942649</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.greany.1993.398">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Greany</surname><given-names>JJ</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Hess</surname><given-names>DA</given-names></name>
+<name name-style="western"><surname>Mahoney</surname><given-names>CD</given-names></name>
+</person-group>
+              <article-title>Ticlopidine-induced cholestatic jaundice.</article-title>
+              <source>Clin Pharm</source>
+              <year>1993</year>
+              <volume>12</volume>
+              <fpage>398</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(78 year old woman developed jaundice 6 weeks after starting ticlopidine [bilirubin 6.3 mg/dL, ALT 550 U/L, Alk P 330 U/L], resolving with stopping drug but little follow up available).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8403812</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.nurhussein.1993.1371">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Nurhussein</surname><given-names>MA</given-names></name>
+</person-group>
+              <article-title>Ticlopidine-induced prolonged cholestasis.</article-title>
+              <source>J Am Geriatr Soc</source>
+              <year>1993</year>
+              <volume>41</volume>
+              <fpage>1371</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(92 year old man developed elevated enzymes [ALT 293 U/L, AST 358 U/L, Alk P 154 U/L] 4 weeks after starting ticlopidine and was found to be jaundiced with a cholestatic hepatitis 3-4 weeks later [bilirubin 5.4 mg/dL, ALT 96 U/L, Alk P 648 U/L], resolving within the next two months: Case 3).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8227923</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.sondag.1993.40">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sondag</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Bader</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Claude</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Schreiber</surname><given-names>M.</given-names></name>
+</person-group>
+              <comment>[Hepatitis due to ticlopidine: a new case]</comment>
+              <source>Ann Gastroenterol Hepatol (Paris)</source>
+              <year>1993</year>
+              <volume>29</volume>
+              <fpage>40</fpage>
+              <lpage>1</lpage>
+              <comment>French.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(60 year old man developed jaundice 6 weeks after starting ticlopidine [bilirubin not given, ALT 458 U/L, Alk P 252 U/L, GGT 920 U/L], resolving rapidly).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8442652</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.weber.1994.309">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Weber</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Donckier</surname><given-names>J.</given-names></name>
+</person-group>
+              <comment>[Cholestatic jaundice due to ticlopidine: a new case]</comment>
+              <source>Acta Clin Belg</source>
+              <year>1994</year>
+              <volume>49</volume>
+              <fpage>309</fpage>
+              <lpage>10</lpage>
+              <comment>French.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(63 year old man developed jaundice 6 weeks after starting ticlopidine [bilirubin 4.3 mg/dL, ALT 156 U/L, Alk P 353 U/L], resolving within 1 month of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7871938</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.yoder.1994.1821">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Yoder</surname><given-names>JD</given-names></name>
+<name name-style="western"><surname>Algozzine</surname><given-names>GJ</given-names></name>
+<name name-style="western"><surname>Hill</surname><given-names>GW</given-names></name>
+</person-group>
+              <article-title>More ticlopidine-induced cholestatic jaundice.</article-title>
+              <source>Am J Hosp Pharm</source>
+              <year>1994</year>
+              <volume>51</volume>
+              <fpage>1821</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Two cases; 69 year old woman developed jaundice and nausea 1 week after starting ticlopidine [bilirubin 2.0 mg/dL, ALT 183 U/L, Alk P 442 U/L], resolving rapidly once drug was stopped; 84 year old woman developed jaundice within 3 weeks of starting ticlopidine [bilirubin 8.5 mg/dL, ALT 217 U/L, Alk P 584 U/L], resolving within 2 months of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7942916</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.grimm.1994.279">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Grimm</surname><given-names>IS</given-names></name>
+<name name-style="western"><surname>Litynski</surname><given-names>JJ</given-names></name>
+</person-group>
+              <article-title>Severe cholestasis associated with ticlopidine.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>1994</year>
+              <volume>89</volume>
+              <fpage>279</fpage>
+              <lpage>80</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(92 year old man developed jaundice 3 months after starting ticlopidine [bilirubin 22.1 mg/dL, ALT 140 U/L, Alk P 577 U/L], resolving within 4 months of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8304320</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.colvicchi.1994.929">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Colvicchi</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Magnanimi</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Sebastiani</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Silvestri</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Magnanimi</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Ticlopidine-induced chronic cholestatic hepatitis: a case report.</article-title>
+              <source>Curr Ther Res</source>
+              <year>1994</year>
+              <volume>55</volume>
+              <fpage>929</fpage>
+              <lpage>31</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(76 year old man developed jaundice and pruritus 40 days after starting ticlopidine [bilirubin 7.5 mg/dL, ALT 90 U/L, Alk P 910 U/L], symptoms resolving upon stopping, but liver tests still abnormal 1 year later [bilirubin 2.2 mg/dL, ALT 66 U/L, Alk P 760 U/L]).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.cassidy.1995.30">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cassidy</surname><given-names>LJ</given-names></name>
+<name name-style="western"><surname>Schuster</surname><given-names>BG</given-names></name>
+<name name-style="western"><surname>Halparin</surname><given-names>LS</given-names></name>
+</person-group>
+              <article-title>Probable ticlopidine-induced cholestatic hepatitis.</article-title>
+              <source>Ann Pharmacother</source>
+              <year>1995</year>
+              <volume>29</volume>
+              <fpage>30</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(76 year old man developed jaundice 3 weeks after starting ticlopidine [bilirubin 18.0 mg/dL, AST 266 U/L, Alk P 580 U/L, GGT 769 U/L], resolving within 3 months of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7711343</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.ruizvalverde.1995.633">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ruiz-Valverde</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Zafon</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Segarra</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Ribera</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Piera</surname><given-names>L.</given-names></name>
+</person-group>
+              <article-title>Ticlopidine-induced granulomatous hepatitis.</article-title>
+              <source>Ann Pharmacother</source>
+              <year>1995</year>
+              <volume>29</volume>
+              <fpage>633</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(75 year old man developed fatigue 4 weeks after starting ticlopidine [bilirubin 0.7 mg/dL, ALT 50 U/L, Alk P 1526 U/L, GGT 886 U/L], resolving upon stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7663041</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.miras_parra.1995.414">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Miras Parra</surname><given-names>FJ</given-names></name>
+<name name-style="western"><surname>G&#x000f3;mez Jim&#x000e9;nez</surname><given-names>FJ</given-names></name>
+<name name-style="western"><surname>Garc&#x000ed;a Contreras</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Valverde Romera</surname><given-names>M</given-names></name>
+</person-group>
+              <comment>[Ticlopidine-induced cholestatic hepatitis]</comment>
+              <source>Rev Esp Enferm Dig</source>
+              <year>1995</year>
+              <volume>87</volume>
+              <fpage>414</fpage>
+              <lpage>5</lpage>
+              <comment>Spanish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(70 year old woman developed jaundice approximately 4 months after starting ticlopidine [bilirubin 10.1 mg/dL, ALT 487 U/L, GGT 286 U/L], resolving within 1 month of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7626305</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.naschitz.1995.379">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Naschitz</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Khamessi</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Elias</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Yeshurun</surname><given-names>D</given-names></name>
+</person-group>
+              <article-title>Ticlopidine-induced prolonged cholestasis.</article-title>
+              <source>J Toxicol Clin Toxicol</source>
+              <year>1995</year>
+              <volume>33</volume>
+              <fpage>379</fpage>
+              <lpage>80</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(78 year old woman developed fatigue and pruritus 2 weeks after starting ticlopidine [bilirubin 1.7 mg/dL, ALT 285 U/L, Alk P 220 U/L, GGT 2085 U/L], resolving within 2 months of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7629910</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.l_pez.1995.735">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>L&#x000f3;pez</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Castiella</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Bujanda</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Arenas</surname><given-names>JI</given-names></name>
+</person-group>
+              <comment>[Ticlopidine-induced cholestatic hepatitis. A case report]</comment>
+              <source>Rev Esp Enferm Dig</source>
+              <year>1995</year>
+              <volume>87</volume>
+              <fpage>735</fpage>
+              <lpage>7</lpage>
+              <comment>Spanish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(74 year old man developed jaundice 3 months after starting ticlopidine [bilirubin 4.7 mg/dL, ALT 745 U/L, Alk P 499 U/L], resolving within 3 months of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8519541</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.roy.1995.593">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Roy</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Plante</surname><given-names>M-A</given-names></name>
+<name name-style="western"><surname>Perreault</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Biron</surname><given-names>P</given-names></name>
+</person-group>
+              <article-title>Cholestatic hepatitis: ticlopidine suspected.</article-title>
+              <source>Therapie</source>
+              <year>1995</year>
+              <volume>50</volume>
+              <fpage>593</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(72 year old woman developed jaundice 3 weeks after starting ticlopidine [bilirubin 2.2 rising to 7.3 mg/dL, ALT 2661 U/L, Alk P 910 U/L], resolving within 6 weeks of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8745964</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.pistone.1986.188">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Pistone</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Podesta</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Raviolo</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Testa</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Grosso</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Toselli</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Nyffeneger</surname><given-names>G</given-names></name>
+</person-group>
+              <comment>[Cholestatic fatty liver of probably iatrogenic origin]</comment>
+              <source>Recenti Prog Med</source>
+              <year>1986</year>
+              <volume>77</volume>
+              <fpage>188</fpage>
+              <lpage>90</lpage>
+              <comment>Italian.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(54 year old woman developed jaundice 1 month after starting ticlopidine [bilirubin 12.6 mg/dL, ALT 112 U/L, Alk P 856 U/L], with slow and incomplete recovery after stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3715186</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.pascual.1996.208">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Pascual</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Sarri&#x000f3;n</surname><given-names>JV</given-names></name>
+<name name-style="western"><surname>Jarque</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Arg&#x000fc;ello</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Berenguer</surname><given-names>J</given-names></name>
+</person-group>
+              <comment>[Cholestatic hepatitis and anemia induced by ticlopidine]</comment>
+              <source>Gastroenterol Hepatol</source>
+              <year>1996</year>
+              <volume>19</volume>
+              <fpage>208</fpage>
+              <lpage>9</lpage>
+              <comment>Spanish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(65 year old woman developed jaundice 3 months after starting ticlopidine [bilirubin 11 mg/dL, ALT 126 U/L, Alk P 830 U/L, GGT 2296 U/L], resolving within 3 months of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8665360</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.klepser.1997.819">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Klepser</surname><given-names>TB</given-names></name>
+<name name-style="western"><surname>Jogerst</surname><given-names>GJ</given-names></name>
+</person-group>
+              <article-title>Ticlopidine-induced elevated liver enzymes.</article-title>
+              <source>Pharmacotherapy</source>
+              <year>1997</year>
+              <volume>17</volume>
+              <fpage>819</fpage>
+              <lpage>21</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(82 year old woman developed fatigue 6 weeks after starting ticlopidine [bilirubin 0.7 mg/dL, ALT 69 U/L, Alk P 649 U/L, GGT 1385 U/L], symptoms resolving rapidly but liver test abnormalities requiring 6 months to resolve).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9250564</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.d_az_fuenzalida.1997.128">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>D&#x000ed;az Fuenzalida</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Vald&#x000e9;s Soc&#x000ed;n</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Laudano</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Avagnina</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Findor</surname><given-names>JA</given-names></name>
+</person-group>
+              <comment>[Cholestasis associated with ticlopidine]</comment>
+              <source>Gastroenterol Hepatol</source>
+              <year>1997</year>
+              <volume>20</volume>
+              <fpage>128</fpage>
+              <lpage>30</lpage>
+              <comment>Spanish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(56 year old man developed jaundice 3 months after starting ticlopidine [bilirubin 20.8 mg/dL, ALT 48 U/L, Alk P 1100 U/L], resolving within 4 months of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9162532</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.yim.1997.132">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Yim</surname><given-names>HB</given-names></name>
+<name name-style="western"><surname>Lieu</surname><given-names>PK</given-names></name>
+<name name-style="western"><surname>Choo</surname><given-names>PW</given-names></name>
+</person-group>
+              <article-title>Ticlopidine induced cholestatic jaundice.</article-title>
+              <source>Singapore Med J</source>
+              <year>1997</year>
+              <volume>38</volume>
+              <fpage>132</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(65 year old woman developed jaundice 2 months after starting ticlopidine [bilirubin 6.9 mg/dL, ALT 251 U/L, Alk P 1158 U/L], with incomplete resolution 3 months later when she died of a stroke).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9269384</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.guzzini.1997.124">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Guzzini</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Banfi</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Gomitoni</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Marchegiani</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Novati</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Mesina</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Frigerio</surname><given-names>B.</given-names></name>
+</person-group>
+              <comment>[2 cases of acute cholestasis caused by ticlopidine]</comment>
+              <source>Recenti Prog Med</source>
+              <year>1997</year>
+              <volume>88</volume>
+              <fpage>124</fpage>
+              <lpage>7</lpage>
+              <comment>Italian.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(29 and 73 year old women developed jaundice 3 and 4 weeks after starting ticlopidine [bilirubin 3.1 and 7.4 mg/dL, ALT 244 and 101 U/L, Alk P 814 and 873 U/L], resolving within 3 months of stopping in one and after a year in the other).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9173469</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.flamenbaum.1997.610">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Flamenbaum</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Zenut</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Castillo</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Costes-Charlet</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Kemeny</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Lavarenne</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Cassan</surname><given-names>P</given-names></name>
+</person-group>
+              <comment>[Granulomatous hepatitis and ticlopidine]</comment>
+              <source>Therapie</source>
+              <year>1997</year>
+              <volume>52</volume>
+              <fpage>610</fpage>
+              <lpage>1</lpage>
+              <comment>French.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(65 year old woman developed rash followed by jaundice one month after starting ticlopidine [bilirubin 3 times ULN, ALT 13 times ULN, Alk P 6 times ULN], resolving within 5 months).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9734117</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.friedman.1997.599">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Friedman</surname><given-names>ND</given-names></name>
+<name name-style="western"><surname>Sitlington</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lodge</surname><given-names>RS</given-names></name>
+</person-group>
+              <article-title>Thrombocytopenia and hepatitis complicating ticlopidine therapy.</article-title>
+              <source>Aust N Z J Med</source>
+              <year>1997</year>
+              <volume>27</volume>
+              <fpage>599</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(72 year old man developed jaundice, pruritus and rash 1 month after starting ticlopidine [bilirubin 4.9 mg/dL, AST 42 U/L, Alk P 143 U/L, GGT 412 U/L], resolving within 3 months of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9404597</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.san_juan_portugal.1997.540">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>San Juan Portugal</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Jim&#x000e9;nez Saez</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Naya Manchado</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Fuentes Solsona</surname><given-names>F.</given-names></name>
+</person-group>
+              <comment>[Cholestatic hepatitis due to ticlopidine: a report of a new case]</comment>
+              <source>An Med Interna</source>
+              <year>1997</year>
+              <volume>14</volume>
+              <fpage>540</fpage>
+              <lpage>1</lpage>
+              <comment>Spanish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(54 year old man developed jaundice 2 months after starting ticlopidine [bilirubin 4.5 mg/dL, ALT 295 U/L, Alk P 689 U/L], resolving within 2 months of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9424151</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.s_nchezbison_.1997.639">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>S&#x000e1;nchez-Bison&#x000f3;</surname><given-names>JR</given-names></name>
+<name name-style="western"><surname>G&#x000f3;mez-Moli</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Escudero-Cant&#x000f3;</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Probable ticlopidine-induced severe aplastic anemia and cholestatic hepatitis.</article-title>
+              <source>Haematologica</source>
+              <year>1997</year>
+              <volume>82</volume>
+              <fpage>639</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(67 year old man developed jaundice and pancytopenia 8 weeks after starting ticlopidine [bilirubin 18 mg/dL, ALT 24 U/L, Alk P 512 U/L], resolving within 3 weeks of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9407743</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.art_mez.1997.796">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Art&#x000ed;mez</surname><given-names>ML</given-names></name>
+<name name-style="western"><surname>Fern&#x000e1;ndez</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Rodr&#x000ed;guez</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Gonz&#x000e1;lez</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Rodrigo</surname><given-names>L</given-names></name>
+</person-group>
+              <comment>[Toxic hepatitis by ticlopidine. Three new cases]</comment>
+              <source>Rev Esp Enferm Dig</source>
+              <year>1997</year>
+              <volume>89</volume>
+              <fpage>796</fpage>
+              <lpage>7</lpage>
+              <comment>Spanish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Three patients, 86, 83 and 72 year olds, 2 men and 1 woman, developed jaundice 1-2 months after starting ticlopidine [bilirubin 3.2, 11.1 and 25.3 mg/dL, ALT 196, 363 and 225 U/L, Alk P 1033, 2130 and 1072 U/L], resolving 1-2 months after stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9424112</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.ceylan.1998.260">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ceylan</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Kirimli</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Akarsu</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Undar</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>G&#x000fc;neri</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Early ticlopidine-induced hepatic dysfunction, dermatitis and irreversible aplastic anemia after coronary artery stenting.</article-title>
+              <source>Am J Hematol</source>
+              <year>1998</year>
+              <volume>59</volume>
+              <fpage>260</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(68 year old woman developed fever and rash 2 weeks after starting ticlopidine [bilirubin 3.7 mg/dL, ALT 423 U/L, Alk P 317 U/L], with aplastic anemia leading rapidly to sepsis and death).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9798669</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.sossai.1998.1370">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sossai</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Corte</surname><given-names>GD</given-names></name>
+<name name-style="western"><surname>Marenzi</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Liver injury with the use of ticlopidine.</article-title>
+              <source>Ann Pharmacother</source>
+              <year>1998</year>
+              <volume>32</volume>
+              <fpage>1370</fpage>
+              <lpage>1</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(51 year old man developed liver test abnormalities 2 weeks after starting ticlopidine [bilirubin 1.0 mg/dL, ALT 200 U/L, Alk P 632 U/L], which resolved within 3 weeks of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9876823</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.mart_nez_p_rezbalsa.1998.1250">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mart&#x000ed;nez P&#x000e9;rez-Balsa</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>De Arce</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Castiella</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>L&#x000f3;pez</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Ruibal</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ruiz-Mart&#x000ed;nez</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>L&#x000f3;pez De Munain</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Mart&#x000ed; Mass&#x000f3;</surname><given-names>JF</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity due to ticlopidine.</article-title>
+              <source>Ann Pharmacother</source>
+              <year>1998</year>
+              <volume>32</volume>
+              <fpage>1250</fpage>
+              <lpage>1</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(51 year old woman developed pruritus and skin rash 6 weeks after starting ticlopidine [bilirubin 0.5 mg/dL, ALT 575 U/L, Alk P 1069 U/L], resolving within 4 months of stopping; skin rash later diagnosed as eczema).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9825098</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.iqbal.1998.2223">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Iqbal</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Goenka</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Young</surname><given-names>MF</given-names></name>
+<name name-style="western"><surname>Thomas</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Borthwick</surname><given-names>TR</given-names></name>
+</person-group>
+              <article-title>Ticlopidine-induced cholestatic hepatitis: report of three cases and review of the literature.</article-title>
+              <source>Dig Dis Sci</source>
+              <year>1998</year>
+              <volume>43</volume>
+              <fpage>2223</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(3 cases, all women, ages 74-84 years, onset after 2-4 weeks with jaundice [bilirubin 3.8- 32.4 mg/dL, ALT 119-353 U/L, Alk P 326-454 U/L, GGT 263-780 U/L], resolving in 6 to 12 weeks; review of 28 cases in literature).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9790457</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.wegmann.1998.146">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wegmann</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>M&#x000fc;aier</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Dormann</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Huchzermeyer</surname><given-names>H</given-names></name>
+</person-group>
+              <comment>[Ticlopidine-induced acute cholestatic hepatitis]</comment>
+              <source>Dtsch Med Wochenschr</source>
+              <year>1998</year>
+              <volume>123</volume>
+              <fpage>146</fpage>
+              <lpage>50</lpage>
+              <comment>German.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(52 year old man developed pruritus after 4 and jaundice after 6 weeks of ticlopidine [peak bilirubin 26.4 mg/dL, ALT 197 U/L, Alk P 420 U/L], with prolonged jaundice and resolution 10 weeks after stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9505953</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.grieco.1998.713">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Grieco</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Vecchio</surname><given-names>FM</given-names></name>
+<name name-style="western"><surname>Greco</surname><given-names>AV</given-names></name>
+<name name-style="western"><surname>Gasbarrini</surname><given-names>G</given-names></name>
+</person-group>
+              <article-title>Cholestatic hepatitis due to ticlopidine: clinical and histological recovery after drug withdrawal. Case report and review of the literature.</article-title>
+              <source>Eur J Gastroenterol Hepatol</source>
+              <year>1998</year>
+              <volume>10</volume>
+              <fpage>713</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(72 year old woman developed jaundice 6 months after starting ticlopidine [bilirubin 4.4 mg/dL, ALT 466 U/L, Alk P 802 U/L, GGT 456 U/L], resolving in 3 months documented by second liver biopsy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9744703</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.carvajal_garc_apando.1999.557">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Carvajal Garc&#x000ed;a-Pando</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Garc&#x000ed;a Ortega</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Rueda de Castro</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Garc&#x000ed;a del Pozo</surname><given-names>J</given-names></name>
+</person-group>
+              <comment>[Ticlopidine and hepatic adverse reactions. Data from the Spanish drug surveillance system]</comment>
+              <source>Med Clin (Barc)</source>
+              <year>1999</year>
+              <volume>112</volume>
+              <fpage>557</fpage>
+              <lpage>8</lpage>
+              <comment>Spanish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Between 1990-98, 301 adverse reactions to ticlopidine were reported to a Spanish registry of which 47 [21%] were hepatic [2.15:10,000 person-years]; among 10 "definite" cases, latency ranged from 7-55 days and most were cholestatic, no fatalities).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10363248</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.amaro.1999.673">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Amaro</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Nunes</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Macoas</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Ministro</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Baranda</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Cipriano</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Martins</surname><given-names>I</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Ticlopidine-induced prolonged cholestasis: a case report.</article-title>
+              <source>Eur J Gastroenterol Hepatol</source>
+              <year>1999</year>
+              <volume>11</volume>
+              <fpage>673</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(60 year old man developed jaundice and pruritus 3 months after starting ticlopidine [bilirubin 7.8 rising to 30 mg/dL, ALT 97 U/L, Alk P 193 to 410 U/L] with subsequent protracted course, with jaundice for 5.5 months and persistent but asymptomatic elevations in Alk P [320 U/L] and GGT [450 U/L]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10418941</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.kubin.1999.1006">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kubin</surname><given-names>CJ</given-names></name>
+<name name-style="western"><surname>Sherman</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Hussain</surname><given-names>KB</given-names></name>
+<name name-style="western"><surname>Feinman</surname><given-names>L</given-names></name>
+</person-group>
+              <article-title>Delayed-onset ticlopidine-induced cholestatic jaundice.</article-title>
+              <source>Pharmacotherapy</source>
+              <year>1999</year>
+              <volume>19</volume>
+              <fpage>1006</fpage>
+              <lpage>10</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(86 year old man developed rash 2 weeks after starting ticlopidine with subsequent jaundice despite promptly stopping [bilirubin 0.8 rising to 24.4 mg/dL, ALT 15 to 353 U/L, Alk P 68 to 445 U/L], resolving over following 3 months).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10453975</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.torrano_larri_n.1999.115">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Torrano Larri&#x000f3;n</surname><given-names>F.</given-names></name>
+</person-group>
+              <comment>[Cholestatic hepatitis from ticlopidine]</comment>
+              <source>Aten Primaria</source>
+              <year>1999</year>
+              <volume>24</volume>
+              <fpage>115</fpage>
+              <comment>Spanish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(69 year old woman developed fatigue 5 weeks after starting ticlopidine [bilirubin 0.3 mg/dL, ALT 220 U/L, Alk P 399 U/L, GGT 371 U/L], resolving within 2 weeks of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10432757</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.meyer.1999.1405">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Meyer</surname><given-names>MI</given-names></name>
+<name name-style="western"><surname>Kuhn</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>B&#x000fc;hler</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Bertschinger</surname><given-names>P</given-names></name>
+</person-group>
+              <comment>[Ticlopidine-induced cholestasis]</comment>
+              <source>Schweiz Med Wochenschr</source>
+              <year>1999</year>
+              <volume>129</volume>
+              <fpage>1405</fpage>
+              <lpage>9</lpage>
+              <comment>German.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(82 year old man developed pruritus after 3 and jaundice after 4 weeks of ticlopidine therapy [bilirubin 7.5 mg/dL, ALT 194 U/L, Alk P 923 U/L, GGT 823 U/L], with resolution of symptoms but persistence of Alk P elevations 8 months later).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10542998</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.zeolla.1999.939">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zeolla</surname><given-names>MM</given-names></name>
+<name name-style="western"><surname>Carson</surname><given-names>JJ</given-names></name>
+</person-group>
+              <article-title>Successful use of clopidogrel for cerebrovascular accident in a patient with suspected ticlopidine-induced hepatotoxicity.</article-title>
+              <source>Ann Pharmacother</source>
+              <year>1999</year>
+              <volume>33</volume>
+              <fpage>939</fpage>
+              <lpage>41</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(79 year old woman developed elevations in serum enzymes 5 weeks after starting ticlopidine [bilirubin 0.3 mg/dL, ALT 1008 U/L, Alk P 648 U/L]) without jaundice or symptoms, and levels fell to near normal within 20 days of switching to clopidogrel and were completely normal 4 months later).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10492495</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.remy.1999.151">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Remy</surname><given-names>AJ</given-names></name>
+<name name-style="western"><surname>Heran</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Galindo</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Tapie</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Khemissa</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Larrey</surname><given-names>D</given-names></name>
+</person-group>
+              <comment>[A new drug responsible for microvesicular steatosis: ticlopidine]</comment>
+              <source>Gastroenterol Clin Biol</source>
+              <year>1999</year>
+              <volume>23</volume>
+              <fpage>151</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(80 year old woman developed jaundice 2 weeks after starting ticlopidine [bilirubin 11.5 mg/dL, ALT 3 times ULN, Alk P 4 times ULN, GGT 40 times ULN], biopsy showing cholestasis and steatosis, resolving within 4 months of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10219621</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.bertrand.2000.624">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bertrand</surname><given-names>ME</given-names></name>
+<name name-style="western"><surname>Rupprecht</surname><given-names>HJ</given-names></name>
+<name name-style="western"><surname>Urban</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Gershlick</surname><given-names>AH</given-names></name>
+</person-group>
+              <article-title>CLASSICS Investigators. Double-blind study of the safety of clopidogrel with and without a loading dose in combination with aspirin compared with ticlopidine in combination with aspirin after coronary stenting: the clopidogrel aspirin stent international cooperative study (CLASSICS).</article-title>
+              <source>Circulation</source>
+              <year>2000</year>
+              <volume>102</volume>
+              <fpage>624</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1020 patients undergoing coronary artery stenting treated with aspirin and either clopidogrel or ticlopidine, side effects requiring early discontinuation were less with clopidogrel, including rash [0.7% vs 2.6%] and gastrointestinal upset [1.3% vs 2.6%]; no mention of liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10931801</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.tsai.2000.866">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Tsai</surname><given-names>MH</given-names></name>
+<name name-style="western"><surname>Tsai</surname><given-names>SL</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>TC</given-names></name>
+<name name-style="western"><surname>Liaw</surname><given-names>YF</given-names></name>
+</person-group>
+              <article-title>Ticlopidine-induced cholestatic hepatitis with anti-nuclear antibody in serum.</article-title>
+              <source>J Formos Med Assoc</source>
+              <year>2000</year>
+              <volume>99</volume>
+              <fpage>866</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(57 year old man developed jaundice 3 weeks after starting ticlopidine [bilirubin 29.3 mg/dL, ALT 305 U/L, Alk P 480 U/L, GGT 664 U/L], resolving 6 months after stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11155780</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.wu.2000.663">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wu</surname><given-names>MS</given-names></name>
+<name name-style="western"><surname>Chan</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Lien</surname><given-names>GS</given-names></name>
+<name name-style="western"><surname>Cheng</surname><given-names>YS</given-names></name>
+<name name-style="western"><surname>Pan</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Ticlopidine-induced severe cholestatic hepatitis.</article-title>
+              <source>Zhonghua Yi Xue Za Zhi (Taipei)</source>
+              <year>2000</year>
+              <volume>63</volume>
+              <fpage>663</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(86 year old woman developed jaundice 6 weeks after starting ticlopidine [bilirubin 15.1 mg/dL, ALT 360 U/L, Alk P 894 U/L, GGT 1641 U/L] and died suddenly 14 days later).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10969455</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.berent.2000.587">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Berent</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Hinterholzer</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>H&#x000f6;ng</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Auer</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Haidenthaler</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Knoflach</surname><given-names>P.</given-names></name>
+</person-group>
+              <comment>[Cholestatic hepatitis as a rare side effect of therapy with ticlopidine]</comment>
+              <source>Z Gastroenterol</source>
+              <year>2000</year>
+              <volume>38</volume>
+              <fpage>587</fpage>
+              <lpage>91</lpage>
+              <comment>German.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(71 year old man developed fatigue followed by pruritus and jaundice 2-3 weeks after starting ticlopidine [bilirubin 12.5 rising to 18.6 mg/dL, ALT 61 U/L, Alk P 305 U/L, GGT 143 U/L], resolving within 2 months of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10965556</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.pizarro.2001.1014">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Pizarro</surname><given-names>AE</given-names></name>
+<name name-style="western"><surname>Andrade</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Garc&#x000ed;a-Cort&#x000e9;s</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Lucena</surname><given-names>MI</given-names></name>
+<name name-style="western"><surname>P&#x000e9;rez-Moreno</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Puertas</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez-Mart&#x000ed;nez</surname><given-names>H</given-names></name>
+<etal/>
+</person-group>
+              <comment>[Acute hepatitis due to ticlopidine. A report of 12 cases and review of the literature]</comment>
+              <source>Rev Neurol</source>
+              <year>2001</year>
+              <volume>33</volume>
+              <fpage>1014</fpage>
+              <lpage>20</lpage>
+              <comment>Spanish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(12 cases of ticlopidine hepatotoxicity reported to Spanish Pharmacovigilance Registry [5% of total reports]; 10 were men, ages 59-81 [m=68] years, 2/3rds hospitalized, latency of 2 to 13 [m=5.6] weeks, 75% cholestatic, resolving in 7 to 60 weeks, not seemingly dose related).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11785026</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.placci.2001.1240">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Placci</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Melandri</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Cecilioni</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Valgimigli</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Bolondi</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Branzi</surname><given-names>A.</given-names></name>
+</person-group>
+              <comment>[Late-appearing cholestatic icterus after a month of treatment with ticlopidine]</comment>
+              <source>Ital Heart J Suppl</source>
+              <year>2001</year>
+              <volume>2</volume>
+              <fpage>1240</fpage>
+              <lpage>2</lpage>
+              <comment>Italian.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(65 year old man developed jaundice and pruritus 1 month after starting ticlopidine [bilirubin 11.3 mg/dL, ALT 310 U/L, Alk P 921 U/L], treated with corticosteroids and symptoms resolved rapidly while Alk P fell to normal 6 months after stopping ticlopidine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11775418</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.l_pez_l_pez.2001.477">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>L&#x000f3;pez L&#x000f3;pez</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Mart&#x000ed;n L&#x000f3;pez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Moreno Feliu</surname><given-names>R.</given-names></name>
+</person-group>
+              <article-title>Ticlopidina, colestasis y n&#x000f3;dulos hep&#x000e1;ticos</article-title>
+              <comment>[Ticlopidine, cholestasis and hepatic nodules]</comment>
+              <source>Med Clin (Barc)</source>
+              <year>2001</year>
+              <volume>117</volume>
+              <issue>12</issue>
+              <fpage>477</fpage>
+              <comment>Spanish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(52 year old man developed pruritus and jaundice 4 to 8 weeks after starting ticlopidine [bilirubin 2.3 mg/dL, ALT 408 U/L, Alk P 576 U/L], symptoms resolving in 4 weeks but enzyme elevations requiring 10 months to resolve).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11674975</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.blanco.2001.48">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Blanco</surname><given-names>JR</given-names></name>
+<name name-style="western"><surname>M&#x000e1;rquez</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Salcedo</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zabala</surname><given-names>M</given-names></name>
+</person-group>
+              <comment>[Early hepatopathy induced by ticlopidine]</comment>
+              <source>An Med Interna</source>
+              <year>2001</year>
+              <volume>18</volume>
+              <fpage>48</fpage>
+              <lpage>9</lpage>
+              <comment>Spanish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(91 year old man developed worsening fatigue 1 week after starting ticlopidine [bilirubin not given, ALT 70 rising to 129 U/L, Alk P 259 rising to 362 U/L], resolving upon stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11387849</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.chen.2001.59">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chen</surname><given-names>LK</given-names></name>
+<name name-style="western"><surname>Hsieh</surname><given-names>BH</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>WC</given-names></name>
+<name name-style="western"><surname>Tsai</surname><given-names>ST</given-names></name>
+<name name-style="western"><surname>Hou</surname><given-names>MC</given-names></name>
+</person-group>
+              <article-title>Ticlopidine-induced hepatitis.</article-title>
+              <source>Zhonghua Yi Xue Za Zhi (Taipei)</source>
+              <year>2001</year>
+              <volume>64</volume>
+              <fpage>59</fpage>
+              <lpage>63</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(72 year old man developed jaundice 3 weeks after starting ticlopidine [bilirubin 12.8 mg/dL, ALT 847 U/L, Alk P 487 U/L], resolving within 10 weeks of stopping: Case 2).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11310373</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.garc_a_ortega.2001.117">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Garc&#x000ed;a Ortega</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Jos&#x000e9; Navarro</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Carvajal</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Garc&#x000ed;a del Pozo</surname><given-names>J.</given-names></name>
+</person-group>
+              <comment>[Cholestatic hepatitis by ticlopidin]</comment>
+              <source>Med Clin (Barc)</source>
+              <year>2001</year>
+              <volume>116</volume>
+              <fpage>117</fpage>
+              <comment>Spanish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(52 year old man developed jaundice 2 months after starting ticlopidine [bilirubin 3.0 mg/dL, ALT 479 U/L, Alk P 415 U/L], improving on stopping but recurring on restarting ticlopidine [ALT 105 U/L, Alk P 1067 U/L], with full recovery upon stopping permanently).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11181293</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.zapater.2002.735">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zapater</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Such</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>P&#x000e9;rez-Mateo</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Horga</surname><given-names>JF</given-names></name>
+</person-group>
+              <article-title>A new Poisson and Bayesian-based method to assign risk and causality in patients with suspected hepatic adverse drug reactions: a report of two new cases of ticlopidine-induced hepatotoxicity.</article-title>
+              <source>Drug Saf</source>
+              <year>2002</year>
+              <volume>25</volume>
+              <fpage>735</fpage>
+              <lpage>50</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Use of Bayesian analysis to assign causality using two cases of ticlopidine hepatotoxicity as examples).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12167069</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.adams.2002.359">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Adams</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Jeffrey</surname><given-names>GP</given-names></name>
+<name name-style="western"><surname>Deboer</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Garas</surname><given-names>G</given-names></name>
+</person-group>
+              <article-title>Ticlopidine-associated cholestatic hepatitis.</article-title>
+              <source>Intern Med J</source>
+              <year>2002</year>
+              <volume>32</volume>
+              <fpage>359</fpage>
+              <lpage>60</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(60 year old man developed pruritus and jaundice 3 weeks after starting ticlopidine [bilirubin 20.2 rising to 24 mg/dL, ALT 42 U/L, Alk P 776 U/L, GGT 1580 U/L], resolving within 2 months of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12088359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.rivera_vaquerizo.2002.99">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rivera Vaquerizo</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Sol&#x000ed;s Garc&#x000ed;a del Pozo</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Villanueva Hern&#x000e1;ndez</surname><given-names>P.</given-names></name>
+</person-group>
+              <comment>[Ticlopidine-induced hepatitis. Report of a new case]</comment>
+              <source>An Med Interna</source>
+              <year>2002</year>
+              <volume>19</volume>
+              <fpage>99</fpage>
+              <lpage>100</lpage>
+              <comment>Spanish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(71 year old woman developed jaundice and pruritus 6 weeks after starting ticlopidine [bilirubin 16.3 mg/dL, ALT 576 U/L, Alk P 1488 U/L, GGT 2450 U/L], resolving within 2 months of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11989110</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.ib__ez.2002.592">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ib&#x000e1;&#x000f1;ez</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>P&#x000e9;rez</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Vidal</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Laporte</surname><given-names>JR</given-names></name>
+</person-group>
+              <article-title>Grup d'Estudi Multic&#x000e8;nteric d'Hepatotoxicitat Aguda de Barcelona (GEMHAB). Prospective surveillance of acute serious liver disease unrelated to infectious, obstructive, or metabolic diseases: epidemiological and clinical features, and exposure to drugs.</article-title>
+              <source>J Hepatol</source>
+              <year>2002</year>
+              <volume>37</volume>
+              <fpage>592</fpage>
+              <lpage>600</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 107 cases of drug induced liver injury identified in a population-based survey in Spain [1993-1999], ticlopidine was the cause of 8 [7%; ranking 8th], leading to cholestatic injury in 6 and mixed injury in 2).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12399224</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.skurnik.2003.371">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Skurnik</surname><given-names>YD</given-names></name>
+<name name-style="western"><surname>Tcherniak</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Edlan</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Sthoeger</surname><given-names>Z</given-names></name>
+</person-group>
+              <article-title>Ticlopidine-induced cholestatic hepatitis.</article-title>
+              <source>Ann Pharmacother</source>
+              <year>2003</year>
+              <volume>37</volume>
+              <fpage>371</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Two cases: 66 year old man developed jaundice 6 weeks after starting ticlopidine [bilirubin 5.4 rising to 19.3 mg/dL, ALT 263 U/L, Alk P 99 U/L, eosinophils 9%], resolving in 6 months [Case 1]; 82 year old man developed jaundice 4 weeks after starting ticlopidine [bilirubin 4.0 mg/dL, ALT 440 U/L, Alk P 660 U/L, eosinophils 12%], resolving within 3 months).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12639165</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.gandolfi.2004.96">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gandolfi</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Mengoli</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Rota</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Tolomelli</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Zanghieri</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Bernini</surname><given-names>MV</given-names></name>
+<name name-style="western"><surname>Lusetti</surname><given-names>L</given-names></name>
+</person-group>
+              <comment>[Ticlopidine-induced acute cholestatic hepatitis. A case report]</comment>
+              <source>Recenti Prog Med</source>
+              <year>2004</year>
+              <volume>95</volume>
+              <fpage>96</fpage>
+              <lpage>9</lpage>
+              <comment>Italian.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(72 year old man developed jaundice and pruritus 3 weeks after starting ticlopidine [bilirubin 19.1 mg/dL, ALT 427 U/L, Alk P 1558 U/L, no eosinophilia], resolving within 6 months).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15072394</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.bj_rnsson.2005.1095">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Jerlstad</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Bergqvist</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Olsson</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Fulminant drug-induced hepatic failure leading to death or liver transplantation in Sweden.</article-title>
+              <source>Scand J Gastroenterol</source>
+              <year>2005</year>
+              <volume>40</volume>
+              <fpage>1095</fpage>
+              <lpage>101</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 103 cases of drug induced liver injury resulting in death or liver transplantation reported in Sweden between 1996-2002, ticlopidine was implicated in one).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16165719</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.andrade.2005.512">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Andrade</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Lucena</surname><given-names>MI</given-names></name>
+<name name-style="western"><surname>Fern&#x000e1;ndez</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Pelaez</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Pachkoria</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Garc&#x000ed;a-Ruiz</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Garc&#x000ed;a-Mu&#x000f1;oz</surname><given-names>B</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Spanish Group for the Study of Drug-Induced Liver Disease. Drug-induced liver injury: an analysis of 461 incidences submitted to the Spanish registry over a 10-year period.</article-title>
+              <source>Gastroenterology</source>
+              <year>2005</year>
+              <volume>129</volume>
+              <fpage>512</fpage>
+              <lpage>21</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 446 cases of drug induced liver injury reported to a Spanish registry over a 10-year period, 13 [13%; ranking 6th] were attributed to ticlopidine, including 7 that were hepatocellular, 5 cholestatic and 1 mixed; none fatal).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16083708</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.sabat_.2007.1401">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sabat&#x000e9;</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ib&#x000e1;&#x000f1;ez</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>P&#x000e9;rez</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Vidal</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Buti</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Xiol</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Mas</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Risk of acute liver injury associated with the use of drugs: a multicentre population survey.</article-title>
+              <source>Aliment Pharmacol Ther</source>
+              <year>2007</year>
+              <volume>25</volume>
+              <fpage>1401</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 126 cases of drug induced liver injury identified between 1993 and 2000 from 12 hospitals in Barcelona, 8 were due to ticlopidine [relative risk=49.3; ranking 7th], all of which were cholestatic).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17539979</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.mambelli.2007.441">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mambelli</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Mancini</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Casanova</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Di Felice</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Santoro</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Severe ticlopidine-induced cholestatic syndrome.</article-title>
+              <source>Blood Purif</source>
+              <year>2007</year>
+              <volume>25</volume>
+              <fpage>441</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(53 year old man with end-stage renal disease developed jaundice within 10 days of starting ticlopidine [bilirubin 16.5 rising to 40 mg/dL, ALT 162 U/L, Alk P 2356 U/L], with progressive jaundice and itching requiring liver transplantation 4 months after initial presentation; no mention of bile duct loss).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18004066</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.fukushima.2007.617">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fukushima</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Kobayashi</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Okuno</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Nakamura</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Sakakibara</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Nakayama</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Kuroda</surname><given-names>N</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Incidence of side-effects of ticlopidine after sirolimus-eluting stent implantation.</article-title>
+              <source>Circ J</source>
+              <year>2007</year>
+              <volume>71</volume>
+              <fpage>617</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 440 patients treated with ticlopidine after stent placement, 4.5% had "liver dysfunction" and 1 died of liver failure: 70 year old patient on renal dialysis with onset of jaundice 45 days after starting).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17384469</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.kowalski.2008.758">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kowalski</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Dropi&#x00144;ski</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Brzostek</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Szot</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Rzeszutko</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kasper</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Sawicka</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Szczeklik</surname><given-names>A.</given-names></name>
+</person-group>
+              <comment>[Cholestatic hepatitis as a ticlopidine-induced complication of treatment - a case report]</comment>
+              <source>Kardiol Pol</source>
+              <year>2008</year>
+              <volume>66</volume>
+              <fpage>758</fpage>
+              <lpage>60</lpage>
+              <comment>Polish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Abstract; 68 year old man developed jaundice after starting ticlopidine [bilirubin 5.7 mg/dL, ALT 586 U/L, Alk P 282 U/L], resolving within 6 months of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18690567</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.lee.2008.102">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lee</surname><given-names>JY</given-names></name>
+<name name-style="western"><surname>Park</surname><given-names>EB</given-names></name>
+<name name-style="western"><surname>Ahn</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Suh</surname><given-names>SJ</given-names></name>
+<name name-style="western"><surname>Jung</surname><given-names>YK</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Shin</surname><given-names>BK</given-names></name>
+<etal/>
+</person-group>
+              <comment>[A case of ticlopidine induced acute cholestatic hepatitis and pure red cell aplasia]</comment>
+              <source>Korean J Hepatol</source>
+              <year>2008</year>
+              <volume>14</volume>
+              <fpage>102</fpage>
+              <lpage>7</lpage>
+              <comment>Korean.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Abstract only: patient developed pure red cell aplasia and cholestatic hepatitis while taking ticlopidine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18367863</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.hirata.2008.29">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hirata</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Takagi</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Yamamoto</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Matsumoto</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Nishiya</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Mori</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Shimizu</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Ticlopidine-induced hepatotoxicity is associated with specific human leukocyte antigen genomic subtypes in Japanese patients: a preliminary case-control study.</article-title>
+              <source>Pharmacogenomics J</source>
+              <year>2008</year>
+              <volume>8</volume>
+              <fpage>29</fpage>
+              <lpage>33</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of HLA haplotypes in 22 Japanese patients with ticlopidine hepatotoxicity and 85 controls, found association of cholestatic liver injury with five alleles and the extended haplotype A*33:03-B*44:03-Cw*14:03-DRB1*13:02-DQB1*16:04 [71% vs 11%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17339877</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Davern</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Serrano</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rochon</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, none were attributed to ticlopidine or clopidogrel).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Reuben</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Koch</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>WM</given-names></name>
+<collab>Acute Liver Failure Study Group</collab>
+</person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were attributed to ticlopidine or clopidogrel).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.previtera.2010.269">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Previtera</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Pagani</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Agranulocytosis and hepatic toxicity with ticlopidine therapy: a case report.</article-title>
+              <source>J Med Case Rep</source>
+              <year>2010</year>
+              <volume>4</volume>
+              <fpage>269</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(70 year old woman developed agranulocytosis [neutrophils 100/&#x000b5;L] 4 weeks after starting ticlopidine with abnormal liver tests [bilirubin normal, ALT 560 U/L, Alk P 821 U/L, GGT 449 U/L], resolving within 4 weeks of stopping [and switching to dipyridamole and aspirin]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20704700</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.anselmino.2010.277">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Anselmino</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Moretti</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Ravera</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Sheiban</surname><given-names>I</given-names></name>
+</person-group>
+              <article-title>Clopidogrel treatment in a patient with ticlopidine-induced hepatitis following percutaneous coronary stenting.</article-title>
+              <source>Minerva Cardioangiol</source>
+              <year>2010</year>
+              <volume>58</volume>
+              <fpage>277</fpage>
+              <lpage>80</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(81 year old woman developed jaundice 45 days after starting ticlopidine [details not given] and recovered after stopping; one year later clopidogrel was started without recurrence of liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20440256</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.petronijevic.2011.416">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Petronijevic</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ilic</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Suzuki</surname><given-names>A.</given-names></name>
+</person-group>
+              <article-title>Drug induced hepatotoxicity: data from the Serbian pharmacovigilance database.</article-title>
+              <source>Pharmacoepidemiol Drug Saf</source>
+              <year>2011</year>
+              <volume>20</volume>
+              <fpage>416</fpage>
+              <lpage>23</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1804 adverse events reported to a Serbian pharmacovigilance registry between 1995 and 2008, 70 were hepatic of which 6% were fatal; ticlopidine accounted for 2 cases [3%] with latencies of 18 days and 5 months, one with enzyme elevations alone and one with jaundice; both recovered).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21370308</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.motola.2012.99">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Motola</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Biagi</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Leone</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Venegoni</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Lapi</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Cutroneo</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Vargiu</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Ticlopidine safety profile: a case/non-case study on the basis of the spontaneous ADRs reporting in Italy.</article-title>
+              <source>Curr Drug Saf</source>
+              <year>2012</year>
+              <volume>7</volume>
+              <fpage>99</fpage>
+              <lpage>105</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of 478 adverse event reports related to ticlopidine from 8 Italian regions from 1990 to 2007 identified 103 as liver related, including one death due to "cholestatic jaundice").</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22873494</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.kaniwa.2013.317">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kaniwa</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Saito</surname><given-names>Y</given-names></name>
+</person-group>
+              <article-title>Pharmacogenomics of severe cutaneous adverse reactions and drug-induced liver injury.</article-title>
+              <source>J Hum Genet</source>
+              <year>2013</year>
+              <volume>58</volume>
+              <fpage>317</fpage>
+              <lpage>26</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the associations of severe cutaneous adverse reactions with genetic markers; mentions that ticlopidine induced liver injury has been linked to A*33:03 in Japanese populations [Hirata 2008]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23635947</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hern&#x000e1;ndez</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bessone</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>di Pace</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Brahm</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zapata</surname><given-names>R, A</given-names></name>
+<name name-style="western"><surname>Chirino</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America: an analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 176 reports of drug induced liver injury from Latin America published between 1996 and 2012, none were attributed to ticlopidine or clopidogrel).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+</person-group>
+              <article-title>United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, none were due to ticlopidine or clopidogrel).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.nicoletti.2017.1078">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Nicoletti</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Aithal</surname><given-names>GP</given-names></name>
+<name name-style="western"><surname>Bjornsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Andrade</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Sawle</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Arrese</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Barnhart</surname><given-names>HX</given-names></name>
+<etal/>
+<collab>International Drug-Induced Liver Injury Consortium</collab>
+</person-group>
+              <article-title>Drug-Induced Liver Injury Network Investigators, and International Serious Adverse Events Consortium. Association of liver injury from specific drugs, or groups of&#x000a0;drugs, with polymorphisms in HLA and other genes in a&#x000a0;genome-wide association study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2017</year>
+              <volume>152</volume>
+              <fpage>1078</fpage>
+              <lpage>89</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Genome wide analysis studies done on 862 patients with drug induced liver injury found an association with a single nucleoside polymorphism linked to HLA-A*33:01 that was highly associated with five drugs [allele frequency in controls: 0.01] including ticlopidine (0.40], terbinafine [0.21], methyldopa [0.25] and fenofibrate [0.28]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28043905</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.usui.2018.1022">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Usui</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Tailor</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Faulkner</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Meng</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Farrell</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Daly</surname><given-names>AK</given-names></name>
+<name name-style="western"><surname>Dear</surname><given-names>GJ</given-names></name>
+<etal/>
+</person-group>
+              <article-title>HLA-A*33:03-restricted activation of ticlopidine-specific T-cells from human donors.</article-title>
+              <source>Chem Res Toxicol</source>
+              <year>2018</year>
+              <volume>31</volume>
+              <fpage>1022</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(T cells from 2 of 3 healthy donors with HLA-A*33:03 were activated in vitro by priming with ticlopidine, whereas none of 3 donors without this HLA allele [which is homologous to A*33:01] were activated, and the HLA-specific activation was blocked by antibody suggesting a direct immune reactivity to the drug in subjects with this HLA-type).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30179004</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Ticlopidine.REF.gabbi.2020.236">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gabbi</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Bertolotti</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Reduced multidrug resistance-associated protein 2 in ticlopidine-induced cholestatic liver injury.</article-title>
+              <source>Dig Liver Dis</source>
+              <year>2020</year>
+              <volume>52</volume>
+              <fpage>236</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(86 year old woman developed jaundice 2 months after starting ticlopidine [bilirubin 5.7 mg/dL, ALT 262 U/L, Alk P 2009 U/L, liver biopsy showing cholestatic hepatitis and weak staining for MRP2], the injury resolving within 6 weeks of stopping drug).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31732442</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Ticlopidine.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Ticlopidine/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Ticlopidine: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Ticlopidine">Trials on Ticlopidine: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

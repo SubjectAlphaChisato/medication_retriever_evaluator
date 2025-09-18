@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Theophylline" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Theophylline</book-part-id>
+      <title-group>
+        <title>Theophylline</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>18</day>
+          <month>7</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Thalidomide_Lenalido" document-type="chapter">Thalidomide</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Thiabendazole" document-type="chapter">Thiabendazole</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Theophylline.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Theophylline.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Theophylline is an orally administered xanthine derivative that induces relaxation of smooth muscle in the bronchial tree causing bronchodilation. Theophylline is widely used in therapy of asthma and is not believed to cause liver injury.</p>
+        </sec>
+        <sec id="Theophylline.Background">
+          <title>Background</title>
+          <p>Theophylline (thee of' i lin) is a methylxanthine related structurally to caffeine and has been widely used as a bronchodilator since the 1930s. Oral theophylline was commonly used in treatment of acute attacks of asthma and in chronic management of bronchospasm in patients with asthma and chronic obstructive pulmonary disease, but has been declining in use with the development of more effective and better tolerated inhalation therapies. Theophylline was formally approved for use in the United States in 1982 and is available in multiple generic forms for oral and intravenous use. Typical capsule or tablet sizes are 100, 200 and 300 mg. Typical dose regimens are 100 to 300 mg three to four times daily. Syrups are available for use in children. Extended release formulations are also available in sizes of 100 to 600 mg which are typically given twice daily. Dosage is highly individualized. Intravenous formations are available for management of acute asthmatic attacks. Theophylline is marketed under multiple brand names including Asmalix, Elixophyllin, Quibron-T, Respbid, Theobid, Duracaps, and Uniphyl. Common side effects of theophylline include dizziness, headache, insomnia, restlessness, tachycardia, palpitations, flushing, nausea, abdominal discomfort and diaphoresis, largely due to the effects of theophylline on the CNS, heart and muscle tissue. In high doses, theophylline can cause irritability, tremors and seizures as well as tachycardia, cardiac arrhythmias and sudden death. With the development of safer, better tolerated and more effective inhaled bronchodilators, oral theophylline has become less frequently used.</p>
+        </sec>
+        <sec id="Theophylline.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Prospective studies have shown that ALT elevations occur in less than 1% of patients receiving long term oral therapy with theophylline, making it unlikely that such elevations are more common than might occur by chance. No instances of clinically apparent liver injury have been convincingly linked to theophylline use. Liver injury may occur as a part of generalized toxicity from high doses of theophylline probably as a result of hepatic complications of hypotension or anoxia from seizures or cardiac arrhythmias caused by the drug. Theophylline actually has been shown to attenuate several forms of experimental acute liver injury, and chronic caffeine (another xanthine) intake has been associated with decreased rates of chronic liver disease, cirrhosis and liver cancer.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury in conventional oral doses).</p>
+        </sec>
+        <sec id="Theophylline.Mechanism_of_Liver_Injury">
+          <title>Mechanism of Liver Injury</title>
+          <p>Theophylline is metabolized in the liver and levels are sensitive to stimulation or inhibition of the P450 enzyme system and levels are increased by many drugs such as cimetidine, corticosteroids, macrolide and quinolone antibiotics, and interferon. Theophylline levels may be decreased by barbiturates, phenytoin and rifampicin. Similarly, theophylline may affect the metabolism of other drugs and care must be used in adding theophylline in patients on multiple medications.</p>
+        </sec>
+        <sec id="Theophylline.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Typically, liver enzymes abnormalities that occur during therapy resolve rapidly even when theophylline is continued. Clinically apparent liver injury with jaundice does not occur or is too rare to make any statements about severity or prognosis.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="Anti-AsthmaDrugs" document-type="chapter">Antiasthmatic Agents</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="XanthineDerivatives" document-type="chapter">Xanthine Derivatives</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Theophylline.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Theophylline &#x02013; Generic, Slo-Phyllin&#x000ae;, Thio-Dur&#x000ae;, Uniphyl&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antiasthmatic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=theophylline">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Theophylline.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Theophylline.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Theophylline.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Theophylline.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Theophylline.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Theophylline.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Theophylline.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Theophylline</td>
+                <td headers="hd_h_Theophylline.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134971800">58-55-9</ext-link>
+</td>
+                <td headers="hd_h_Theophylline.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C7-H8-N4-O2</td>
+                <td headers="hd_h_Theophylline.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134971800" document-id-type="sid" document-type="summary" object-id="134971800" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Theophylline.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 18 July 2020</p>
+        <ref-list id="Theophylline.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Theophylline.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Respiratory supportive drugs. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, p. 717.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; mentions that theophylline has been incriminated in hepatic injury rarely; no mention of montelukast, zafirlukast or zileuton).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Theophylline.REF.barnes.2018">
+            <mixed-citation publication-type="book">Barnes PJ. Pulmonary pharmacology. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 727-49.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Theophylline.REF.strubelt.1970.473">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Strubelt</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Wegener</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Siegers</surname><given-names>CP</given-names></name>
+</person-group>
+              <comment>[Hepatotoxicity of caffeine and theophylline]</comment>
+              <source>Arzneimittelforschung</source>
+              <year>1970</year>
+              <volume>20</volume>
+              <fpage>473</fpage>
+              <lpage>6</lpage>
+              <comment>German.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Administration of coffee or theophylline to rats sc and ip resulted in increases in serum free fatty acids levels and minimal increases in ALT and AST).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">5467807</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Theophylline.REF.staib.1980.500">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Staib</surname><given-names>AH</given-names></name>
+<name name-style="western"><surname>Schuppan</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Lissner</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Zilly</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>von Bomhard</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Richter</surname><given-names>E</given-names></name>
+</person-group>
+              <article-title>Pharmacokinetics and metabolism of theophylline in patients with liver diseases.</article-title>
+              <source>Int J Clin Pharmacol Ther Toxicol</source>
+              <year>1980</year>
+              <volume>18</volume>
+              <fpage>500</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Study of metabolism of single iv dose of theophylline in patients with various forms of liver disease showed only patients with decompensated cirrhosis had significantly lower clearance rates that might lead to higher plasma levels).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7203726</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Theophylline.REF.woodcock.1983.610">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Woodcock</surname><given-names>AA</given-names></name>
+<name name-style="western"><surname>Johnson</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Geddes</surname><given-names>DM</given-names></name>
+</person-group>
+              <article-title>Theophylline prescribing, serum concentrations, and toxicity.</article-title>
+              <source>Lancet</source>
+              <year>1983</year>
+              <volume>2</volume>
+              <fpage>610</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Monitoring theophylline levels found high levels in 13 outpatient and 4 cases of serious adverse events and 3 deaths [seizures and cardiac arrest], but no frank clinical hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">6136756</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Theophylline.REF.piperno.1988.481">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Piperno</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Pacheco</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Bastion</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Favre-Monet</surname><given-names>PY</given-names></name>
+<name name-style="western"><surname>Gormand</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Copere</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Kofman</surname><given-names>J</given-names></name>
+<etal/>
+</person-group>
+              <comment>[Theophylline-induced hepatitis. Apropos of 2 cases]</comment>
+              <source>Therapie</source>
+              <year>1988</year>
+              <volume>43</volume>
+              <fpage>481</fpage>
+              <lpage>3</lpage>
+              <comment>French.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(65 year old woman and 69 year old man with asthma developed ALT elevations without jaundice 11 and 4 days after starting intravenous theophylline (peak ALT 520 and 1345 U/L), and positive rechallenge in one patient).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">3067422</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Theophylline.REF.drent.1993.1831">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Drent</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kuks</surname><given-names>PF</given-names></name>
+<name name-style="western"><surname>van den Bosch</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Brandt</surname><given-names>KH</given-names></name>
+</person-group>
+              <comment>[Psychiatric symptoms due to theophylline overdose; the necessity of blood level monitoring]</comment>
+              <source>Ned Tijdschr Geneeskd</source>
+              <year>1993</year>
+              <volume>137</volume>
+              <fpage>1831</fpage>
+              <lpage>5</lpage>
+              <comment>Dutch.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Chronic overdosing with theophylline led to severe psychiatric symptoms and depression; one patient developed hypotension and ischemic hepatitis [ALT and LDH ~5000 U/L without mention of jaundice]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8377864</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Theophylline.REF.makino.2006.395">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Makino</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Adachi</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ohta</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Kihara</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Nakajima</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Nishima</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Fukuda</surname><given-names>T</given-names></name>
+<etal/>
+</person-group>
+              <article-title>A prospective survey on safety of sustained-release theophylline in treatment of asthma and COPD.</article-title>
+              <source>Allergol Int</source>
+              <year>2006</year>
+              <volume>55</volume>
+              <fpage>395</fpage>
+              <lpage>402</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Prospective study of 3921 patients at 66 centers receiving sustained release theophylline found no serious adverse events; only 1 patient with ALT elevation).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17130682</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Theophylline.REF.russo.2004.1018">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Russo</surname><given-names>MW</given-names></name>
+<name name-style="western"><surname>Galanko</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Shrestha</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Fried</surname><given-names>MW</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>P</given-names></name>
+</person-group>
+              <article-title>Liver transplantation for acute liver failure from drug-induced liver injury in the United States.</article-title>
+              <source>Liver Transpl</source>
+              <year>2004</year>
+              <volume>10</volume>
+              <fpage>1018</fpage>
+              <lpage>23</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among ~50,000 liver transplants done in the US between 1990 and 2002, 137 [0.2%] were done for idiosyncratic drug induced acute liver failure, one case was attributed to zafirlukast, but no other antiasthma medication mentioned).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15390328</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Theophylline.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Davern</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Serrano</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rochon</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, none were attributed to an antiasthma medication).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Theophylline.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hern&#x000e1;ndez</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bessone</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>di Pace</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Brahm</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zapata</surname><given-names>R, A</given-names></name>
+<name name-style="western"><surname>Chirino</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, none of which were attributed to theophylline or any other medications for asthma).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Theophylline.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+</person-group>
+              <article-title>United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 4 cases [&#x0003c;1%] were attributed to medications for asthma, all due to montelukast and none to theophylline, zafirlukast or zileuton).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Theophylline.REF13">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for asthma.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2017</year>
+              <volume>59</volume>
+              <issue>1528</issue>
+              <fpage>139</fpage>
+              <lpage>46</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of medications used for asthma including theophylline; mentions that theophylline has been replaced by safer and better tolerated agents and that side effects include nausea, vomiting, headache and insomnia and with high doses, tachycardia, cardiac arrhythmias, irritability, tremors, seizures and even sudden death; no mention of liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28880849</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Theophylline.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Theophylline/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Theophylline: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Theophylline">Trials on Theophylline: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

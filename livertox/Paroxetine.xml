@@ -1,0 +1,1388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Paroxetine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Paroxetine</book-part-id>
+      <title-group>
+        <title>Paroxetine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>8</day>
+          <month>4</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="AntiparkinsonAgents" document-type="chapter">Parkinson Disease Agents</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Pasireotide" document-type="chapter">Pasireotide</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Paroxetine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Paroxetine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Paroxetine is a selective serotonin reuptake inhibitor (SSRI) used in the therapy of depression, anxiety disorders and obsessive-compulsive disorder. Paroxetine therapy can be associated with transient asymptomatic elevations in serum aminotransferase levels and has been linked to rare instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Paroxetine.Background">
+          <title>Background</title>
+          <p>Paroxetine (pa rox' e teen) is a selective serotonin reuptake inhibitor (SSRI) that acts by blocking the reuptake of serotonin in CNS synaptic clefts, thus increasing serotonin levels in the brain which is associated with its psychiatric effects. Paroxetine was approved for use in the United States in 1992 and it remains in wide use, with more than 15 million prescriptions being filled yearly. Indications for paroxetine include major depression, obsessive-compulsive disorder, panic disorder, and anxiety disorders including social anxiety, post-trauma stress and generalized anxiety disorder. Paroxetine is also used for headache, premenstrual dysphoric disorder, diabetic neuropathy and premature ejaculation. Paroxetine is available as tablets of 10, 20, 30 and 40 mg and as an oral suspension in generic forms and under the brand names of Paxil and Pexeva. The recommended dosage for depression in adults is 20 mg once daily, increasing the dosage by 10 mg increments weekly to a maximum of 50 mg. Controlled release tablets are also available that have slightly different dosing recommendations. Common side effects are drowsiness, dyspepsia, nausea, headache, increased sweating, increased appetite, weight gain and sexual dysfunction. Rare but potentially severe adverse events include suicidal ideation and behavior, activation of mania, serotonin syndrome, discontinuation syndrome, increased risk of bleeding, seizures, acute glaucoma, hypersensitivity reactions and embryo-fetal toxicity.</p>
+        </sec>
+        <sec id="Paroxetine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Liver test abnormalities have been reported to occur in up to 1% of patients on paroxetine, but elevations are usually modest and usually do not require dose modification or discontinuation. Rare instances of acute, clinically apparent episodes of liver injury, with marked liver enzyme elevations with or without jaundice, have been reported in patients on paroxetine. The onset of injury is usually within 2 to 16 weeks, but can be more delayed, to up to 1 year. The pattern of serum enzyme elevations varies from hepatocellular to mixed or cholestatic. While most cases are mild-to-moderate in severity, severe cases with hepatic failure have been reported. Autoimmune (autoantibodies) and immunoallergic features (rash, fever, eosinophilia) are uncommon.</p>
+          <p>Likelihood score: B (likely but rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Paroxetine.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which paroxetine causes liver injury is not known. Paroxetine is metabolized at least in part by the liver, mainly via the cytochrome P450 system, and hepatotoxicity may be mediated by toxic intermediates of its metabolism.</p>
+        </sec>
+        <sec id="Paroxetine.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum aminotransferase elevations that occur on paroxetine therapy are usually self-limited and do not require dose modification or discontinuation of therapy. Acute liver failure has been reported, but is very rare with paroxetine induced liver injury as is chronic liver injury. Persons with intolerance to paroxetine may have similar reactions to other SSRIs and careful monitoring is warranted if other such agents are used.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="Antidepressants" document-type="chapter">Antidepressant Agents</related-object></p>
+          <p>Other Drugs in the Subclass, SNRIs/SSRIs: <related-object link-type="booklink" source-id="livertox" document-id="CitalopramEscitalopr" document-type="chapter">Citalopram</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="CitalopramEscitalopr" document-type="chapter">Escitalopram</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Duloxetine" document-type="chapter">Duloxetine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Fluoxetine" document-type="chapter">Fluoxetine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Fluvoxamine" document-type="chapter">Fluvoxamine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="MilnacipranLevomilna" document-type="chapter">Levomilnacipran</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Sertraline" document-type="chapter">Sertraline</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Venlafaxine" document-type="chapter">Venlafaxine</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Vilazodone" document-type="chapter">Vilazodone</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Vortioxetine" document-type="chapter">Vortioxetine</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Paroxetine.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Paroxetine.Case_1_Serum_enzyme_elevation">
+          <title>Case 1. Serum enzyme elevations during paroxetine therapy.(<xref ref-type="bibr" rid="Paroxetine.REF.1">1</xref>)</title>
+          <p>A 64 year old woman with long history of recurrent depression developed liver enzyme elevations 32 days after starting paroxetine. She had a seven year history of episodic depression and had received several courses of various monoamine oxidase inhibitors and tricyclic antidepressants in the past. After failure of these agents for a particularly difficult episode of depression, she was started on paroxetine with regular monitoring and increase of the dosage from 5 to 60 mg per day, along with &#x0201c;lithium augmentation&#x0201d;. Ten days after escalating the dose of paroxetine, she had mild nausea but improved mood. Routine laboratory testing showed elevations in serum enzymes (Table) and paroxetine was stopped. Tests for hepatitis A, B and C were negative as was ultrasonography of the abdomen. Within 14 days, serum enzymes had fallen to normal and she was switched to amitriptyline with continued improvement in depression and no enzyme elevations.</p>
+          <sec id="Paroxetine.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Paroxetine.Tc" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Paroxetine.Tc_1_1_1_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Paroxetine.Tc_1_1_1_1" valign="middle" align="left" rowspan="1" colspan="1">Paroxetine (5 to 60 mg/day)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Paroxetine.Tc_1_1_2_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Paroxetine.Tc_1_1_2_1" valign="middle" align="left" rowspan="1" colspan="1">Hepatocellular (R=7)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Paroxetine.Tc_1_1_3_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Paroxetine.Tc_1_1_3_1" valign="middle" align="left" rowspan="1" colspan="1">1+ (serum enzyme elevations, mild symptoms)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Paroxetine.Tc_1_1_4_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Paroxetine.Tc_1_1_4_1" valign="middle" align="left" rowspan="1" colspan="1">32 days</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Paroxetine.Tc_1_1_5_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Paroxetine.Tc_1_1_5_1" valign="middle" align="left" rowspan="1" colspan="1">14 days</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Paroxetine.Tc_1_1_6_1" valign="middle" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Paroxetine.Tc_1_1_6_1" valign="middle" align="left" rowspan="1" colspan="1">Low doses of lithium (200 mg daily)</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Paroxetine.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Paroxetine.Td" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Paroxetine.Td_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Starting</th>
+                    <th id="hd_h_Paroxetine.Td_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Stopping</th>
+                    <th id="hd_h_Paroxetine.Td_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT*<break/>(U/L)</th>
+                    <th id="hd_h_Paroxetine.Td_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Alk* P<break/>(U/L)</th>
+                    <th id="hd_h_Paroxetine.Td_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                    <th id="hd_h_Paroxetine.Td_1_1_1_6" valign="top" align="center" scope="col" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">- 2 weeks</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">20</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">85</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.4</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_1 hd_h_Paroxetine.Td_1_1_1_2 hd_h_Paroxetine.Td_1_1_1_3 hd_h_Paroxetine.Td_1_1_1_4 hd_h_Paroxetine.Td_1_1_1_5 hd_h_Paroxetine.Td_1_1_1_6" colspan="6" valign="top" align="center" scope="col" rowspan="1">Paroxetine given initially at 5 mg/day and gradually increased to 60 mg/day</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">592</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">226</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.7</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Paroxetine=203 ng/mL</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">1 day</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">480</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Lithium=0.15 mmol/L</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">2 days</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">230</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">160</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">3 days</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">160</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">155</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">6 days</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">75</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">135</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">10 days</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">45</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">110</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_5" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_1" valign="top" align="center" scope="row" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_2" valign="top" align="center" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">25</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">105</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_1 hd_h_Paroxetine.Td_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;40</bold>
+</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;115</bold>
+</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Paroxetine.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+              <table-wrap-foot>
+                <fn id="Paroxetine.TF.d.1">
+                  <label>*</label>
+                  <p>Estimated from Figure 1.</p>
+                </fn>
+              </table-wrap-foot>
+            </table-wrap>
+          </sec>
+          <sec id="Paroxetine.Comment">
+            <title>Comment</title>
+            <p>Convincing report of abnormal serum aminotransferase and alkaline phosphatase levels developing during somewhat high dose paroxetine therapy. The patient had few if any symptoms attributable to the liver injury and did not become jaundiced (although serum bilirubin levels rose slightly). Serum paroxetine levels were high and lithium levels were minimal. There was prompt improvement on stopping therapy. There was no cross sensitivity to tricyclic antidepressants which were subsequently used.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Paroxetine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Paroxetine &#x02013; Generic, Paxil&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antidepressant Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=paroxetine">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Paroxetine.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Paroxetine.Te" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <tbody>
+              <tr>
+                <th id="hd_b_Paroxetine.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_b_Paroxetine.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_b_Paroxetine.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_b_Paroxetine.Te_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+              <tr>
+                <td headers="hd_b_Paroxetine.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Paroxetine</td>
+                <td headers="hd_b_Paroxetine.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135005531">61869-08-7</ext-link>
+</td>
+                <td headers="hd_b_Paroxetine.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C19-H20-F-N-O3</td>
+                <td headers="hd_b_Paroxetine.Te_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135005531" document-id-type="sid" document-type="summary" object-id="135005531" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Paroxetine.CITED_REFERENCE">
+        <title>CITED REFERENCE</title>
+        <ref-list id="Paroxetine.CITED_REFERENCE.reflist0">
+          <ref id="Paroxetine.REF.1">
+            <label>1</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Helmchen</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Boerner</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Meyendorf</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Hegerl</surname><given-names>U</given-names></name>
+</person-group>
+              <article-title>Reversible hepatotoxicity of paroxetine in a patient with major depression.</article-title>
+              <source>Pharmacopsychiatry</source>
+              <year>1996</year>
+              <volume>29</volume>
+              <fpage>223</fpage>
+              <lpage>6</lpage>
+              <pub-id pub-id-type="pmid">8956353</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Paroxetine.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 08 April 2020</p>
+        <p>Abbreviations: MAO inhibitor, monoamine oxidase inhibitor; SSRI, selective serotonin reuptake inhibitor; SNRI, serotonin and norepinephrine reuptake inhibitor.</p>
+        <ref-list id="Paroxetine.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Paroxetine.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Antidepressants. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 493-8.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; mentions one case report of acute and one of chronic drug induced liver injury due to paroxetine).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Paroxetine.REF.larrey.2013">
+            <mixed-citation publication-type="book">Larrey D, Ripault MP. Hepatotoxicity of psychotropic drugs and drugs of abuse. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 443-62.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of antidepressants mentions that clinically apparent liver injury from the SSRIs is rare but paroxetine is the most frequently implicated, causing a range of clinical presentations of acute hepatitis, usually hepatocellular or mixed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Paroxetine.REF.odonnell.2018">
+            <mixed-citation publication-type="book">O'Donnell JM, Bies RR, Shelton RC. Drug therapy of depression and anxiety disorders. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 267-77.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Paroxetine.REF.boyer.1992.61">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Boyer</surname><given-names>WF</given-names></name>
+<name name-style="western"><surname>Blumhardt</surname><given-names>CL</given-names></name>
+</person-group>
+              <article-title>The safety profile of paroxetine.</article-title>
+              <source>J Clin Psychiatry</source>
+              <year>1992</year>
+              <volume>53</volume>
+              <fpage>61</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Pooled data on 4126 patients on paroxetine, 1811 comparator antidepressants and 625 placebo in clinical trials; there were &#x0201c;no statistically significant changes in hepatic or renal function&#x0201d;; one case of hepatitis possibly related to paroxetine mentioned).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1531828</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.dunbar.1993.302">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dunbar</surname><given-names>GC</given-names></name>
+<name name-style="western"><surname>Claghorn</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Kiev</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Rickels</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Smith</surname><given-names>WT</given-names></name>
+</person-group>
+              <article-title>A comparison of paroxetine and placebo in depressed patients.</article-title>
+              <source>Acta Psychiatr Scand</source>
+              <year>1993</year>
+              <volume>87</volume>
+              <fpage>302</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Pooled analysis of trials of paroxetine [n=167] vs placebo [n=169] for 6 weeks; side effects more common with paroxetine, with nausea, somnolence, sweating, dry mouth and constipation; no laboratory test abnormalities noted).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8517168</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.helmchen.1996.223">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Helmchen</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Boerner</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Meyendorf</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Hegerl</surname><given-names>U</given-names></name>
+</person-group>
+              <article-title>Reversible hepatotoxicity of paroxetine in a patient with major depression.</article-title>
+              <source>Pharmacopsychiatry</source>
+              <year>1996</year>
+              <volume>29</volume>
+              <fpage>223</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(64 year old woman with onset of liver test abnormalities 32 days after starting paroxetine [peak bilirubin 1.7 mg/dL, ALT 592 U/L, Alk P 226 U/L, without eosinophilia], resolving within 2 weeks of stopping: Case 1).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8956353</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.benbow.1997.1387">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Benbow</surname><given-names>SJ</given-names></name>
+<name name-style="western"><surname>Gill</surname><given-names>G</given-names></name>
+</person-group>
+              <article-title>Paroxetine and hepatotoxicity.</article-title>
+              <source>BMJ</source>
+              <year>1997</year>
+              <volume>314</volume>
+              <fpage>1387</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(54 year old woman found to have elevated AST [256 U/L] with normal bilirubin and Alk P 10 months after starting paroxetine; 6 months later AST was still elevated [299 U/L] and liver biopsy showed chronic hepatitis; AST fell with stopping paroxetine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9161313</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.de_man.1997.540">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>de Man</surname><given-names>RA</given-names></name>
+</person-group>
+              <comment>[Severe hepatitis attributed to paroxetine (Seroxat)]</comment>
+              <source>Ned Tijdschr Geneeskd</source>
+              <year>1997</year>
+              <volume>141</volume>
+              <fpage>540</fpage>
+              <lpage>2</lpage>
+              <comment>Dutch.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(52 year old man with chronic hepatitis B and cirrhosis developed severe flare of hepatitis 10 months after starting paroxetine [bilirubin ~2.6 mg/dL, AST rising to 800 U/L] and appearance of ascites, improving with stopping paroxetine, no information on change of HBV DNA levels).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9190513</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.mourilhe.1998.57">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mourilhe</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Stokes</surname><given-names>PE</given-names></name>
+</person-group>
+              <article-title>Risks and benefits of selective serotonin reuptake inhibitors in the treatment of depression.</article-title>
+              <source>Drug Saf</source>
+              <year>1998</year>
+              <volume>18</volume>
+              <fpage>57</fpage>
+              <lpage>82</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of pharmacology, efficacy and safety of SSRIs; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9466088</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.grohmann.1999.21">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Grohmann</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>R&#x000fc;ther</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Engel</surname><given-names>RR</given-names></name>
+<name name-style="western"><surname>Hippius</surname><given-names>H</given-names></name>
+</person-group>
+              <article-title>Assessment of adverse drug reactions in psychiatric inpatients with the AMSP drug safety program: methods and first results for tricyclic antidepressants and SSRI.</article-title>
+              <source>Pharmacopsychiatry</source>
+              <year>1999</year>
+              <volume>32</volume>
+              <fpage>21</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of reporting of adverse events among inpatients in 29 German hospitals between 1993 to 1997; 896 severe adverse events among 48,564 patients [1.8%], both total and hepatic events were more common with tricyclics than SSRIs).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10071179</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.cadranel.1999.52">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Cadranel</surname><given-names>JF</given-names></name>
+<name name-style="western"><surname>DiMartino</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Cazier</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Pras</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Bachmeyer</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Olympio</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Gonzenbach</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Atrium and paroxetine-related severe hepatitis.</article-title>
+              <source>J Clin Gastroenterol</source>
+              <year>1999</year>
+              <volume>28</volume>
+              <fpage>52</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Two cases; 31 and 35 year old women developed hepatitis 4 and 15 months after starting &#x0201c;Atrium&#x0201d; and paroxetine [bilirubin 11.6 and 5.8 mg/dL, ALT 2010 and 539 U/L, Alk P 86 and 243 U/L], resolving within 3 and 6 months of stopping both drugs; paroxetine may have predisposed to Atrium hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9916669</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.odeh.2001.2494">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Odeh</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Misselevech</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Boss</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Oliven</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Severe hepatotoxicity with jaundice associated with paroxetine.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>2001</year>
+              <volume>96</volume>
+              <fpage>2494</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(49 year old man with ulcerative colitis on 5-aminosalicyclic acid [a-ASA] developed jaundice and pruritus 6 weeks after starting paroxetine [bilirubin 10.1 mg/dL, ALT 561 U/L, Alk P 455 U/L], resolving within 10 weeks of stopping despite restarting 5-ASA).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11513198</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.azazlivshits.2002.112">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Azaz-Livshits</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Hershko</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Ben-Chetrit</surname><given-names>E.</given-names></name>
+</person-group>
+              <article-title>Paroxetine associated hepatotoxicity: a report of 3 cases and a review of the literature.</article-title>
+              <source>Pharmacopsychiatry</source>
+              <year>2002</year>
+              <volume>35</volume>
+              <fpage>112</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(3 cases of paroxetine hepatotoxicity; case 1 was a 49 year old man who developed rash and fever 18 days after starting paroxetine and trazodone [bilirubin 1.3 rising to 8.6 mg/dL, ALT 975 U/L, Alk P normal], resolving within 4 weeks of stopping; cases 2 and 3 were 80 and 85 year old men who developed abnormal liver tests 2-3 weeks after starting paroxetine [bilirubin normal, ALT 416 and 630 U/L], resolving rapidly upon stopping, but both patients had multiple medical conditions, heart disease, renal failure and sepsis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12107856</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.carvajal_garc_apando.2002.135">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Carvajal Garc&#x000ed;a-Pando</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Garc&#x000ed;a del Pozo</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez</surname><given-names>AS</given-names></name>
+<name name-style="western"><surname>Velasco</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Rueda de Castro</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Lucena</surname><given-names>MI</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity associated with the new antidepressants.</article-title>
+              <source>J Clin Psychiatry</source>
+              <year>2002</year>
+              <volume>63</volume>
+              <fpage>135</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of cases of hepatotoxicity from antidepressants in Spanish Pharmacovigilance System from 1989-1999, identified 99 cases; among SSRIs, 26 due to fluoxetine, 14 paroxetine, 6 fluvoxamine, 5 sertraline, 3 venlafaxine and 2 citalopram; among tricyclics, 16 clomipramine 7 amitriptyline, 6 imipramine; among miscellaneous, 3 nefazodone and 1 trazodone; but all similar in rate ~1-3 per 100,000 patient-years of exposure, except for nefazodone=29/100,000).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11874214</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.lucena.2003.249">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lucena</surname><given-names>MI</given-names></name>
+<name name-style="western"><surname>Carvajal</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Andrade</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Velasco</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Antidepressant-induced hepatotoxicity.</article-title>
+              <source>Expert Opin Drug Saf</source>
+              <year>2003</year>
+              <volume>2</volume>
+              <fpage>249</fpage>
+              <lpage>62</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of hepatotoxicity of antidepressants; antidepressant use has increased markedly between 1992 and 2002, accounting for 5% of cases of hepatotoxicity; SSRIs are less likely to cause injury than tricyclics and MAO inhibitors; range of presentations, typically self-limited and rapid recovery; no hallmarks of hypersensitivity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12904104</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.spigset.2003.157">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Spigset</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>H&#x000e4;gg</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Bate</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Hepatic injury and pancreatitis during treatment with serotonin reuptake inhibitors: data from the World Health Organization (WHO) database of adverse drug reactions.</article-title>
+              <source>Int Clin Psychopharmacol</source>
+              <year>2003</year>
+              <volume>18</volume>
+              <fpage>157</fpage>
+              <lpage>61</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 27,542 reports of hepatic injury in WHO database, 786 related to SSRIs [3%], including citalopram 42, fluoxetine 222, fluvoxamine 54, paroxetine 191, sertraline 112, nefazodone 91 and venlafaxine 74; only nefazodone has an excess of hepatic reports in relationship to total reports).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12702895</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.milkiewicz.2003.300">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Milkiewicz</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Chilton</surname><given-names>AP</given-names></name>
+<name name-style="western"><surname>Hubscher</surname><given-names>SG</given-names></name>
+<name name-style="western"><surname>Elias</surname><given-names>E</given-names></name>
+</person-group>
+              <article-title>Antidepressant induced cholestasis: hepatocellular redistribution of multidrug resistant protein (MRP2).</article-title>
+              <source>Gut</source>
+              <year>2003</year>
+              <volume>52</volume>
+              <fpage>300</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Two cases of cholestasis due to antidepressants; 30 year old woman developed jaundice 8 weeks after starting citalopram [bilirubin 4.4 mg/dL, AST 33 U/L, Alk P 637 U/L], resolving within 2 months of stopping; 63 year old man developed jaundice 3 months after starting the tricyclic dothiepin [bilirubin 9.4 mg/dL, AST 40 U/L, Alk P 600 U/L], resolving within 3 months of stopping with corticosteroid therapy and later tolerating fluoxetine for 12 months, but redeveloping a similar pattern 2 months after starting paroxetine [bilirubin 15.2 mg/dL, AST 36 U/L, Alk P 544 U/L], resolving within 6 months of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12524417</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.degner.2004.s39">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Degner</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Grohmann</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Kropp</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>R&#x000fc;ther</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Bender</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Engel</surname><given-names>RR</given-names></name>
+<name name-style="western"><surname>Schmidt</surname><given-names>LG</given-names></name>
+</person-group>
+              <article-title>Severe adverse drug reactions of antidepressants: results of the German multicenter drug surveillance program AMSP.</article-title>
+              <source>Pharmacopsychiatry</source>
+              <year>2004</year>
+              <volume>37</volume>
+              <supplement>Suppl 1</supplement>
+              <fpage>S39</fpage>
+              <lpage>45</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of adverse drug reactions reported from 1993-2000 in 35 psychiatric hospitals; 0.7% of SSRI recipients had a severe adverse event; hepatic in 0.05%).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15052513</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.colakoglu.2005.861">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Colakoglu</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Tankurt</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Unsal</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Ugur</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Kupelioglu</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Buyrac</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Akpinar</surname><given-names>Z</given-names></name>
+</person-group>
+              <article-title>Toxic hepatitis associated with paroxetine.</article-title>
+              <source>Int J Clin Pract</source>
+              <year>2005</year>
+              <volume>59</volume>
+              <fpage>861</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(62 year old man with renal failure and anti-HCV developed jaundice 3 months after starting paroxetine [bilirubin 47.1 mg/dL, ALT 1321 U/L, Alk P 1321 U/L, eosinophils 6%, protime 18.2 sec, HCV RNA negative], resolving 3 months after stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15963219</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.guzm_n_ruiz.2005.399">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Guzm&#x000e1;n Ruiz</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Ram&#x000ed;rez Mart&#x000ed;n del Campo</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Fernandez L&#x000f3;pez</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Romero G&#x000f3;mez</surname><given-names>M.</given-names></name>
+</person-group>
+              <comment>[Hepatotoxicity induced by paroxetine]</comment>
+              <source>Med Clin (Barc)</source>
+              <year>2005</year>
+              <volume>124</volume>
+              <fpage>399</fpage>
+              <comment>Spanish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(32 year old woman with type 1 diabetes developed ketoacidosis and mild enzyme elevations 4 months after starting paroxetine [normal bilirubin and Alk P, ALT 220 U/L], which resolved rapidly upon stopping, and she later tolerated citalopram without recurrence).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15766517</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.pinzani.2006.s256">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Pinzani</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Peyriere</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Hillaire-Buys</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Pageaux</surname><given-names>GP</given-names></name>
+<name name-style="western"><surname>Blayac</surname><given-names>BP</given-names></name>
+<name name-style="western"><surname>Larrey</surname><given-names>D</given-names></name>
+</person-group>
+              <article-title>Specific serotonin recapture inhibitor (SSRI) antidepressants: hepatoxicity assessment in a large cohort in France.</article-title>
+              <source>J Hepatol</source>
+              <year>2006</year>
+              <volume>44</volume>
+              <fpage>S256</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Abstract: Analysis of French Pharmacovigilance data on SSRIs found 63 cases of hepatotoxicity from paroxetine, 45 fluoxetine, 30 citalopram, 18 sertraline, and 2 fluvoxamine).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.sabat_.2007.1401">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sabat&#x000e9;</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ib&#x000e1;&#x000f1;ez</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>P&#x000e9;rez</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Vidal</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Buti</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Xiol</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Mas</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Risk of acute liver injury associated with the use of drugs: a multicentre population survey.</article-title>
+              <source>Aliment Pharmacol Ther</source>
+              <year>2007</year>
+              <volume>25</volume>
+              <fpage>1401</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 126 cases of drug induced liver injury seen in Spain between 1993-2000, 3 were attributed to paroxetine and 3 to fluoxetine with a relative risk of injury to rate of use in the population of 3.0 and 1.8, respectively).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17539979</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.desanty.2007.1201">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>DeSanty</surname><given-names>KP</given-names></name>
+<name name-style="western"><surname>Amabile</surname><given-names>CM</given-names></name>
+</person-group>
+              <article-title>Antidepressant-induced liver injury.</article-title>
+              <source>Ann Pharmacother</source>
+              <year>2007</year>
+              <volume>41</volume>
+              <fpage>1201</fpage>
+              <lpage>11</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of drug induced liver injury and reports of injury from MAO inhibitors, SSRIs, tricyclics and atypical agents).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17609231</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Davern</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Serrano</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rochon</surname><given-names>J</given-names></name>
+<collab>Drug Induced Liver Injury Network (DILIN)</collab>
+</person-group>
+              <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, 6 were attributed to duloxetine, 3 to atomoxetine, 2 to fluoxetine, 2 to bupropion, and 1 to sertraline as single agents; no cases were attributed to paroxetine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.marks.2008.783">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Marks</surname><given-names>DM</given-names></name>
+<name name-style="western"><surname>Park</surname><given-names>M-H</given-names></name>
+<name name-style="western"><surname>Ham</surname><given-names>B-J</given-names></name>
+<name name-style="western"><surname>Han</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Patkar</surname><given-names>AA</given-names></name>
+<name name-style="western"><surname>Masand</surname><given-names>PS</given-names></name>
+<name name-style="western"><surname>Pae</surname><given-names>C-U</given-names></name>
+</person-group>
+              <article-title>Paroxetine: safety and tolerability issues.</article-title>
+              <source>Expert Opin Drug Saf</source>
+              <year>2008</year>
+              <volume>7</volume>
+              <fpage>783</fpage>
+              <lpage>94</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of pharmacology and safety of paroxetine; side effects are similar to those of other SSRIs, discontinuation rates of 9-20%; weight gain averages 3.6% and sexual dysfunction ranges from 22-65%, both of which are higher than with other SSRIs; no discussion of hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18983224</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.pompili.2008.275">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Pompili</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Tittoto</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Mascian&#x000e0;</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Gasbarrini</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Rapaccini</surname><given-names>GL</given-names></name>
+</person-group>
+              <article-title>Acute hepatitis associated with use of paroxetine.</article-title>
+              <source>Intern Emerg Med</source>
+              <year>2008</year>
+              <volume>3</volume>
+              <fpage>275</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(84 year old woman with atrial fibrillation and cerebrovascular disease presented with confusion and had rises in ALT [13&#x02192;2110 U/L], Alk P [180&#x02192;277 U/L], and bilirubin [1.0&#x02192;2.5 mg/dL], and abnormal INR [2.1] and ammonia [335 &#x000b5;mol/L] within a week of starting paroxetine, resolving within 15 days of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18265937</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Reuben</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Koch</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>WM</given-names></name>
+<collab>Acute Liver Failure Study Group</collab>
+</person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, one attributed to venlafaxine and one to fluoxetine, but none to paroxetine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.molleston.2011.182">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Molleston</surname><given-names>JP</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Lopez</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Kleiner</surname><given-names>DE</given-names></name>
+<name name-style="western"><surname>Gu</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<collab>Drug-induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Characteristics of idiosyncratic drug-induced liver injury in children: results from the DILIN prospective study.</article-title>
+              <source>J Pediatr Gastroenterol Nutr</source>
+              <year>2011</year>
+              <volume>53</volume>
+              <fpage>182</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 30 children with suspected drug induced liver injury, half [n=15] were due to antimicrobials [minocycline 4, INH 3, azithromycin 3] and the rest largely due to CNS agents and anticonvulsants; one case was attributed to amitriptyline, but paroxetine and other antidepressants were not listed).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21788760</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.park.2013.207">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Park</surname><given-names>SH</given-names></name>
+<name name-style="western"><surname>Ishino</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Liver injury associated with antidepressants.</article-title>
+              <source>Curr Drug Saf</source>
+              <year>2013</year>
+              <volume>8</volume>
+              <fpage>207</fpage>
+              <lpage>23</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of antidepressant induced liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23914755</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Bergmann</surname><given-names>OM</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Kvaran</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Olafsson</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, none of which were attributed to paroxetine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hern&#x000e1;ndez</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bessone</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>di Pace</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Brahm</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zapata</surname><given-names>R, A</given-names></name>
+<name name-style="western"><surname>Chirino</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, only one of which was attributed to an antidepressant [amitriptyline] and none to a MAO inhibitor, SSRI or SNRI).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.kato.2015.435">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kato</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kimura</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Kimura</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Hara</surname><given-names>T</given-names></name>
+</person-group>
+              <article-title>Safety and effectiveness of controlled-release paroxetine in routine clinical practice: results of a postmarketing surveillance study of patients with depression.</article-title>
+              <source>Neuropsychiatr Dis Treat</source>
+              <year>2015</year>
+              <volume>11</volume>
+              <fpage>435</fpage>
+              <lpage>52</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Postmarketing surveillance of a controlled release paroxetine in 3213 patients with depression found that nausea [3.5%] and somnolence [2.7%] were the most frequent adverse event and among 22 serious adverse events, none were liver related).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25759586</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+</person-group>
+              <article-title>United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology.</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 20 cases [2%] were attributed to&#x000a0;antidepressants&#x000a0;including 9 due to SNRIs [7 to duloxetine, 1 each to nefazodone and trazodone], 5 to bupropion, 5 to SSRIs [3 to escitalopram, and 1 each to fluoxetine and sertraline], and only 1 to tricyclics [imipramine]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.woo.2015.1201">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Woo</surname><given-names>HJ</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>HY</given-names></name>
+<name name-style="western"><surname>Choi</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Cho</surname><given-names>YH</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Jang</surname><given-names>E</given-names></name>
+</person-group>
+              <article-title>Drug-induced liver injury: A 2-year retrospective study of 1169 hospitalized patients in a single medical center.</article-title>
+              <source>Phytomedicine</source>
+              <year>2015</year>
+              <volume>22</volume>
+              <fpage>1201</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1169 inpatients seen at a single Korean referral medical center over a 2 year period, 11 developed suspected drug induced liver injury, 6 attributed to dietary supplements and 5 to conventional drugs including 2 antidepressants [minocycline, donepezil, warfarin, gabapentin/milnacipran, and antihistamines]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26598920</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.voican.2016.e0155234">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Voican</surname><given-names>CS</given-names></name>
+<name name-style="western"><surname>Martin</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Verstuyft</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Corruble</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Perlemuter</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Colle</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Liver function test abnormalities in depressed patients treated with antidepressants: a real-world systematic observational study in psychiatric settings.</article-title>
+              <source>PLoS One</source>
+              <year>2016</year>
+              <volume>11</volume>
+              <elocation-id>e0155234</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 321 psychiatric inpatients, only 116 [36%] had liver tests performed and only 18 during therapy with an antidepressant, 3 of which were suspected to have drug-induced liver injury, 1 each with escitalopram, venlafaxine and amitriptyline, all without jaundice and 2 without symptoms, all 3 resolving).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27171561</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.friedrich.2016.pyv126">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Friedrich</surname><given-names>ME</given-names></name>
+<name name-style="western"><surname>Akimova</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Huf</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Konstantinidis</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Papageorgiou</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Winkler</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Toto</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Drug-induced liver injury during antidepressant treatment: results of AMSP, a drug surveillance program.</article-title>
+              <source>Int J Neuropsychopharmacol</source>
+              <year>2016</year>
+              <volume>19</volume>
+              <issue>4</issue>
+              <comment>pii</comment>
+              <elocation-id>pyv126</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 184,234 psychiatric inpatients from 80 hospitals, 149 cases [0.08%] of drug induced liver injury were reported including 22 of 70,060 [0.03%] receiving SSRIs, 71 of 50,201 [0.14%] patients treated with tricyclics and 3 of 3869 receiving MAO inhibitors [0.08%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26721950</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.gahr.2016.769">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gahr</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Zeiss</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lang</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Connemann</surname><given-names>BJ</given-names></name>
+<name name-style="western"><surname>Hiemke</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Sch&#x000f6;nfeldt-Lecuona</surname><given-names>C</given-names></name>
+</person-group>
+              <article-title>Drug-Induced liver injury associated with antidepressive psychopharmacotherapy: an explorative assessment based on quantitative signal detection using different MedDRA terms.</article-title>
+              <source>J Clin Pharmacol.</source>
+              <year>2016</year>
+              <volume>56</volume>
+              <fpage>769</fpage>
+              <lpage>78</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Using data on adverse drug reaction reports from the Uppsala Monitoring Center of WHO, there were higher relative hepatotoxicity reports for nefazodone, agomelatine, many tricyclics and mirtazapine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26470856</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.nicoletti.2017.1078">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Nicoletti</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Aithal</surname><given-names>GP</given-names></name>
+<name name-style="western"><surname>Bjornsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Andrade</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Sawle</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Arrese</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Barnhart</surname><given-names>HX</given-names></name>
+<etal/>
+<collab>International Drug-Induced Liver Injury Consortium, Drug-Induced Liver Injury Network Investigators, and International Serious Adverse Events Consortium</collab>
+</person-group>
+              <article-title>Association of liver Injury from specific drugs, or groups of&#x000a0;drugs, with polymorphisms in HLA and other genes in a&#x000a0;genome-wide association study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2017</year>
+              <volume>152</volume>
+              <fpage>1078</fpage>
+              <lpage>89</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(A genome wide association study done on 862 patients with drug-induced liver injury found several associations within the HLA region, most striking was HLA-A*33:01 with an allele frequency of 0.01 in Caucasian controls and 0.02 in patients [0.01 with hepatocellular and 0.04 with cholestatic injury], particularly frequent with injury due to ticlopidine [in 4 of 5 cases], methyldopa [2 or 4], fenofibrate [4 of 7], terbinafine [6 of 14], enalapril [2 or 4], sertraline [2 of 5] and erythromycin [2 of 10]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28043905</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.chen.2017.30464">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chen</surname><given-names>VC</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>CF</given-names></name>
+<name name-style="western"><surname>Hsieh</surname><given-names>YH</given-names></name>
+<name name-style="western"><surname>Liang</surname><given-names>HY</given-names></name>
+<name name-style="western"><surname>Huang</surname><given-names>KY</given-names></name>
+<name name-style="western"><surname>Chiu</surname><given-names>WC</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>McIntyre</surname><given-names>RS</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Hepatocellular carcinoma and&#x000a0;antidepressants: a nationwide population-based study.</article-title>
+              <source>Oncotarget</source>
+              <year>2017</year>
+              <volume>8</volume>
+              <fpage>30464</fpage>
+              <lpage>70</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among almost 50,000 cases of hepatocellular carcinoma registered in the Taiwan National Health Insurance Research Database, the rate of antidepressant use was lower than in approximately 250,000 matched controls from the database).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27783998</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.kishi.2017.117">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kishi</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Matsuda</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Matsunaga</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Moriwaki</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Otake</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Akamatsu</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Okochi</surname><given-names>T</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Escitalopram versus paroxetine controlled release in major depressive disorder: a randomized trial.</article-title>
+              <source>Neuropsychiatr Dis Treat</source>
+              <year>2017</year>
+              <volume>13</volume>
+              <fpage>117</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 88 patients with major depression treated with escitalopram or paroxetine for 24 weeks, rates of response and of adverse events were similar between the two groups and there were no drug related serious adverse events; no mention of ALT levels or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28123299</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.g_mezlumbreras.2018.e601">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>G&#x000f3;mez-Lumbreras</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Marcos-Fosch</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Aguilera</surname><given-names>C</given-names></name>
+</person-group>
+              <article-title>Psychotropic drugs and liver toxicity.</article-title>
+              <source>Am J Ther</source>
+              <year>2018</year>
+              <volume>25</volume>
+              <fpage>e601</fpage>
+              <lpage>e602</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Case report of a woman who developed abdominal pain and jaundice 4 months after starting both paroxetine and olanzapine [bilirubin 7.3 mg/dL, ALT 984 U/L, Alk P 174 U/L], which resolved after stopping both medications and treatment with prednisone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30188878</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.ferrajolo.2018.95">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ferrajolo</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Scavone</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Donati</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Bortolami</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Stoppa</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Motola</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Vannacci</surname><given-names>A</given-names></name>
+<etal/>
+<collab>DILI-IT Study Group</collab>
+</person-group>
+              <article-title>Antidepressant-induced acute liver injury: a case-control study in an Italian inpatient population.</article-title>
+              <source>Drug Saf</source>
+              <year>2018</year>
+              <volume>41</volume>
+              <fpage>95</fpage>
+              <lpage>102</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 179 cases of hospitalizations for unexplained acute liver injury enrolled in an Italian prospective study between 2010 and 2014, 17 had been exposed to&#x000a0;antidepressants&#x000a0;the major implicated agents being citalopram [n=4], sertraline [n=3], paroxetine [n=3], tricyclics [n=2], trazodone [n=1], fluoxetine [n=1], and duloxetine [n=1).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28770534</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.billioti_de_gage.2018.673">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Billioti de Gage</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Collin</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Le-Tri</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Pariente</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>B&#x000e9;gaud</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Verdoux</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Dray-Spira</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Antidepressants and hepatotoxicity: a cohort study among 5 million individuals registered in the French National Health Insurance Database.</article-title>
+              <source>CNS Drugs</source>
+              <year>2018</year>
+              <volume>32</volume>
+              <fpage>673</fpage>
+              <lpage>84</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 5 million persons identified in a national French health insurance database who started an antidepressant between 2010 and 2015, 382 developed serious liver injury resulting in hospitalization, rates per 100,0000 persons-years being 19 for SSRIs, 22 venlafaxine, 13 duloxetine, and 33 mirtazapine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29959758</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.chan.2018.187">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chan</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Chiu</surname><given-names>WC</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>VC</given-names></name>
+<name name-style="western"><surname>Huang</surname><given-names>KY</given-names></name>
+<name name-style="western"><surname>Wang</surname><given-names>TN</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>McIntyre</surname><given-names>RS</given-names></name>
+<etal/>
+</person-group>
+              <article-title>SSRIs associated with decreased risk of hepatocellular carcinoma: A population-based case-control study.</article-title>
+              <source>Psychooncology</source>
+              <year>2018</year>
+              <month>Jan</month>
+              <volume>27</volume>
+              <issue>1</issue>
+              <fpage>187</fpage>
+              <lpage>92</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of the Taiwan National Health Service Insurance Research Database identified 59,859 patients with initial diagnosis of hepatocellular carcinoma and 285,124 matched controls; SSRI use was more frequent in the controls than in the HCC cases but only in analyses adjusted for risk factors).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28666060</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.lochmann.2019.135">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lochmann</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Richardson</surname><given-names>T</given-names></name>
+</person-group>
+              <article-title>Selective serotonin reuptake inhibitors.</article-title>
+              <source>Handb Exp Pharmacol</source>
+              <year>2019</year>
+              <volume>250</volume>
+              <fpage>135</fpage>
+              <lpage>44</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Overview of the SSRIs mentioned that they have similar efficacy in treating depression and similar rates and adverse event profile which largely represents the effects of serotonin excess: nausea, diarrhea, dizziness, somnolence, insomnia, sweating, tremor anxiety, dry mouth, anxiety and restlessness; they can also cause weigh gain and sex dysfunction as well as activate mania and cause withdrawn symptoms).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30838457</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.pladevallvila.2019.383">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Pladevall-Vila</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Potteg&#x000e5;rd</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Schink</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Reutfors</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Morros</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Poblador-Plou</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Timmer</surname><given-names>A</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Risk of acute liver injury in agomelatine and other antidepressant users in four European countries: a cohort and nested case-control study using automated health data sources.</article-title>
+              <source>CNS Drugs</source>
+              <year>2019</year>
+              <volume>33</volume>
+              <fpage>383</fpage>
+              <lpage>95</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of data sources from 4 European countries identified 3.2 million persons initiating antidepressant therapy among whom there was no increased risk for acute liver injury for agomelatine compared to citalopram, an SSRI with a low rate of hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30830574</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF48">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for anxiety disorders.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2019</year>
+              <volume>61</volume>
+              <issue>1578</issue>
+              <fpage>121</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of drugs for anxiety including SSRIs, SNRIs and benzodiazepines including mechanism of action, clinical efficacy, safety and costs; does not mention ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31386647</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF49">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for depression.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2020</year>
+              <volume>62</volume>
+              <issue>1592</issue>
+              <fpage>25</fpage>
+              <lpage>32</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanism of action, clinical efficacy, safety and costs of drugs for depression; hepatotoxicity is mentioned only for nefazodone [now rarely used because of severe hepatotoxicity] and duloxetine [in heavy drinkers]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32320387</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Paroxetine.REF.ueberberg.2020.60">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ueberberg</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Frommberger</surname><given-names>U</given-names></name>
+<name name-style="western"><surname>Messer</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Zwanzger</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Kuhn</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Anghelescu</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Ackermann</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Assion</surname><given-names>HJ</given-names></name>
+</person-group>
+              <article-title>Drug-induced liver injury (DILI) in patients with depression treated with antidepressants: a retrospective multicenter study.</article-title>
+              <source>Pharmacopsychiatry</source>
+              <year>2020</year>
+              <volume>53</volume>
+              <fpage>60</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 329 psychiatric inpatients with depression seen at 6 psychiatric centers in Germany, 17 [5%] had serum aminotransferase elevations but none had clinically apparent liver injury, most commonly implicated drugs included mirtazapine, agomelatine, citalopram and venlafaxine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31958850</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Paroxetine.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(paroxetine)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Paroxetine: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=paroxetine">Trials on Paroxetine: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

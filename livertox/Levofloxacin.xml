@@ -1,0 +1,1284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Levofloxacin" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Levofloxacin</book-part-id>
+      <title-group>
+        <title>Levofloxacin</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>10</day>
+          <month>3</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="LevodopaCarbodopa" document-type="chapter">Levodopa</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Levorphanol" document-type="chapter">Levorphanol</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Levofloxacin.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Levofloxacin.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Levofloxacin is a third generation fluoroquinolone that is widely used in the treatment of mild-to-moderate respiratory and urinary tract infections due to sensitive organisms. Levofloxacin has been linked to rare instances of clinically apparent hepatic injury marked by a short latency period and a hepatocellular pattern of enzyme elevations, similar to what has been described with ciprofloxacin.</p>
+        </sec>
+        <sec id="Levofloxacin.Background">
+          <title>Background</title>
+          <p>Levofloxacin (lee" voe flox' a sin) is the L-enantiomer of ofloxacin and is considered a third generation fluoroquinolone. Like other fluoroquinolones, levofloxacin is active against a wide range of aerobic gram-positive and gram-negative organisms. The fluoroquinolones are believed to act by inhibition of type II DNA toposiomerases (gyrases) that are required for synthesis of bacterial mRNAs (transcription) and DNA replication. They demonstrate little inhibition of human, host enzymes and have had an excellent safety record. Levofloxacin was approved for use in the United States in 1996 and remains in wide use. Levofloxacin is used for mild-to-moderate infections, the typical indications including sinusitis, bronchitis, community acquired pneumonia, skin infections, urinary tract infections, pyelonephritis, prostatitis, plague and anthrax. Levofloxacin is available in generically and under the commercial name Levaquin as tablets of 250, 500 and 750 mg, the usual dose being 250 to 750 mg once daily depending upon the indication and severity of the infection. Intravenous formulations are available for moderate-to-severe infections, the usual IV dosages being 500 mg daily. Oral therapy is typically continued for 7 to 14 days, but both shorter and longer courses have been used. Levofloxacin, like other fluoroquinolones, is generally well tolerated, but common side effects can include gastrointestinal disturbances, headaches, skin rash and allergic reactions. Rare, but more severe side effects include QT prolongation, seizures, hallucinations, tendon rupture, severe hypersensitivity reactions, Stevens Johnson syndrome, angioedema and photosensitivity.</p>
+        </sec>
+        <sec id="Levofloxacin.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In short term studies, levofloxacin has been associated with minor elevations in serum ALT and AST levels in 2% to 5% of patients. The abnormalities were usually asymptomatic and transient and rarely require dose modification. With its wide scale use, levofloxacin has been implicated in in at least 50 instances of clinically apparent liver injury mostly in isolated case reports. The clinical presentation and course are typical of the hepatotoxicity of other fluoroquinolones, and the injury is likely a class effect. The latency to onset is usually short (1 to 3 weeks) and the onset is often abrupt with a hepatocellular or mixed pattern of injury, jaundice and, in some instances, hepatic failure. Cholestatic hepatitis can also occur. Immunoallergic features such as fever, rash and eosinophilia are common, but not particularly prominent. Autoantibodies are rare. The liver injury is usually self-limited, but several cases of acute liver failure have been linked to fluoroquinolones as well as instances of prolonged jaundice, cholestasis and vanishing bile duct syndrome. Levofloxacin, like ciprofloxacin, has also been implicated hypersensitivity reactions including rare cases of Stevens Johnson syndrome and toxic epidermal necrolysis, which may be accompanied by liver injury. While liver injury from levofloxacin is rare, the fluoroquinolones collectively are among the most frequent causes of clinically apparent liver injury including fatal cases and cases of chronic liver injury and bile duct paucity.</p>
+          <p>Likelihood score: A (well established cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Levofloxacin.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The rapid onset and severe course of levofloxacin associated liver injury suggests hypersensitivity, although allergic manifestations are not always present and are generally mild and transient.</p>
+        </sec>
+        <sec id="Levofloxacin.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The severity of levofloxacin liver injury ranges from mild and transient serum enzyme elevations to self-limited hepatocellular injury, cholestatic hepatitis, to acute liver failure. In milder cases, complete recovery is expected after stopping the drug and resolution of clinical symptoms and signs is usually rapid (4 to 8 weeks). There are no known effective therapies for levofloxacin or other fluoroquinolone associated liver injury. Features of hypersensitivity, such as fever and rash may respond rapidly to corticosteroids, but the dose and duration of such treatment should be limited and carefully monitored. Recurrence of features of hypersensitivity and liver injury on rechallenge is common and should be avoided. Cross reactivity of the hepatic injury between different fluoroquinolones has been demonstrated in rare instances and, based upon the similarity of clinical patterns of injury and latency, should be suspected. Thus, patients should be advised to avoid further exposure to levofloxacin as well as other fluoroquinolones.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="Antiinfective" document-type="chapter">Antiinfective Agents</related-object></p>
+          <p>Other Drugs in the Subclass, <related-object link-type="booklink" source-id="livertox" document-id="Fluoroquinolones" document-type="chapter">Fluoroquinolones</related-object>: <related-object link-type="booklink" source-id="livertox" document-id="Ciprofloxacin" document-type="chapter">Ciprofloxacin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Delafloxacin" document-type="chapter">Delafloxacin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Gemifloxacin" document-type="chapter">Gemifloxacin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Moxifloxacin" document-type="chapter">Moxifloxacin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Norfloxacin" document-type="chapter">Norfloxacin</related-object>, <related-object link-type="booklink" source-id="livertox" document-id="Ofloxacin" document-type="chapter">Ofloxacin</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Levofloxacin.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Levofloxacin.Case_1_Acute_hepatocellular">
+          <title>Case 1. Acute hepatocellular injury due to levofloxacin therapy.(<xref ref-type="bibr" rid="Levofloxacin.REF.1">1</xref>)</title>
+          <p>A 74 year old woman with emphysema and chronic atrial fibrillation was admitted for therapy of suspected acute bronchitis and treated with intravenous methylprednisolone (60 mg/day) and levofloxacin (500 mg/day). Serum aminotransferases were normal on admission, but became abnormal after 3 days of therapy and were markedly elevated by 5 days (Table). She became mildly icteric, but recovered rapidly once levofloxacin was discontinued. There was no rash or eosinophilia. Tests for hepatitis A, B and C were negative and ultrasonography of the liver and biliary tract was normal. She had no history of alcohol use and there was no apparent episode of acute heart failure or shock. While she appeared to be recovering from the hepatic injury, she developed progressive pulmonary failure, pneumonia and died of sepsis, gastrointestinal bleedings and multiorgan failure several weeks later.</p>
+          <sec id="Levofloxacin.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Levofloxacin.Tc" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Levofloxacin.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Medication:</th>
+                    <td headers="hd_b_Levofloxacin.Tc_1_1_1_1" valign="top" align="left" rowspan="1" colspan="1">Levofloxacin, 500 mg intravenously daily for 5 days</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Levofloxacin.Tc_1_1_2_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Levofloxacin.Tc_1_1_2_1" valign="top" align="left" rowspan="1" colspan="1">Hepatocellular (ALT elevations with normal Alk P)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Levofloxacin.Tc_1_1_3_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Levofloxacin.Tc_1_1_3_1" valign="top" align="left" rowspan="1" colspan="1">3+ (jaundice and hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Levofloxacin.Tc_1_1_4_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Levofloxacin.Tc_1_1_4_1" valign="top" align="left" rowspan="1" colspan="1">5 days</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Levofloxacin.Tc_1_1_5_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Levofloxacin.Tc_1_1_5_1" valign="top" align="left" rowspan="1" colspan="1">Incomplete before death due to complications of underlying illness</td>
+                  </tr>
+                  <tr>
+                    <th id="hd_b_Levofloxacin.Tc_1_1_6_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Levofloxacin.Tc_1_1_6_1" valign="top" align="left" rowspan="1" colspan="1">Digoxin, coumadin, inhaled albuterol and ipratropium</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Levofloxacin.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Levofloxacin.Td" orientation="portrait" position="anchor">
+              <table frame="hsides" rules="groups">
+                <thead>
+                  <tr>
+                    <th id="hd_h_Levofloxacin.Td_1_1_1_1" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Starting</th>
+                    <th id="hd_h_Levofloxacin.Td_1_1_1_2" valign="top" align="center" scope="col" rowspan="1" colspan="1">Time After<break/>Stopping</th>
+                    <th id="hd_h_Levofloxacin.Td_1_1_1_3" valign="top" align="center" scope="col" rowspan="1" colspan="1">ALT<break/>(U/L)</th>
+                    <th id="hd_h_Levofloxacin.Td_1_1_1_4" valign="top" align="center" scope="col" rowspan="1" colspan="1">Alk P<break/>(U/L)</th>
+                    <th id="hd_h_Levofloxacin.Td_1_1_1_5" valign="top" align="center" scope="col" rowspan="1" colspan="1">Bilirubin<break/>(mg/dL)</th>
+                    <th id="hd_h_Levofloxacin.Td_1_1_1_6" valign="top" align="center" scope="col" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">1 day</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">40</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">82</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.4</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Protime 15 sec.</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">3 days</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">128</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">89</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">5 days</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">7071</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">73</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.9</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_6" valign="top" align="center" rowspan="1" colspan="1">Protime 37 sec.</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">7 days</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">2 days</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">3736</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">70</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">2.5</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">8 days</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">3 days</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">2336</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">81</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.7</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">9 days</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">4 days</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">1659</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">85</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.2</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">10 days</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">5 days</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">749</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">85</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">1.2</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">16 days</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">11 days</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">75</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">90</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">0.8</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_1 hd_h_Levofloxacin.Td_1_1_1_2" colspan="2" valign="top" align="center" scope="row" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_3" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;53</bold>
+</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_4" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;115</bold>
+</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_5" valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Levofloxacin.Td_1_1_1_6" valign="top" align="left" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Levofloxacin.Comment">
+            <title>Comment</title>
+            <p>This patient developed dramatic serum aminotransferase elevations within days of starting levofloxacin, compatible with the short latency period and abrupt onset of hepatic injury that is typical of liver injury from the fluoroquinolones. In this instance, another possible diagnosis was acute heart failure and ischemic hepatitis, but no mention was made in the brief report of hypotension or hypoxemia. Serum LDH levels would have been helpful in making this distinction. The patient did not develop rash, fever or eosinophilia with the hepatic injury, but she was receiving high doses of methylprednisolone which may have blunted these manifestations of hypersensitivity (as well as the severity of the liver injury itself). While recovering from the hepatic injury, the patient developed further pulmonary complications and died of multiorgan failure. Thus, while apparently self-limited, the hepatic injury may have contributed to her further complications of her chronic obstructive pulmonary disease.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Levofloxacin.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Levofloxacin &#x02013; Generic, Levaquin&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antiinfective Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=levofloxacin">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Levofloxacin.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Levofloxacin.Te" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <tbody>
+              <tr>
+                <th id="hd_b_Levofloxacin.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_b_Levofloxacin.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_b_Levofloxacin.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_b_Levofloxacin.Te_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+              <tr>
+                <td headers="hd_b_Levofloxacin.Te_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Levofloxacin</td>
+                <td headers="hd_b_Levofloxacin.Te_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135015357">100986-85-4</ext-link>
+</td>
+                <td headers="hd_b_Levofloxacin.Te_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C18-H20-F-N3-O4</td>
+                <td headers="hd_b_Levofloxacin.Te_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135015357" document-id-type="sid" document-type="summary" object-id="135015357" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Levofloxacin.CITED_REFERENCE">
+        <title>CITED REFERENCE</title>
+        <ref-list id="Levofloxacin.CITED_REFERENCE.reflist0">
+          <ref id="Levofloxacin.REF.1">
+            <label>1</label>
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Karim</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Ahmed</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Rossoff</surname><given-names>LJ</given-names></name>
+<name name-style="western"><surname>Siddiqui</surname><given-names>RK</given-names></name>
+<name name-style="western"><surname>Steinberg</surname><given-names>HN</given-names></name>
+</person-group>
+              <article-title>Possible levofloxacin-induced acute hepatocellular injury in a patient with chronic obstructive lung disease.</article-title>
+              <source>Clin Infect Dis</source>
+              <year>2001</year>
+              <volume>33</volume>
+              <fpage>2088</fpage>
+              <lpage>90</lpage>
+              <pub-id pub-id-type="pmid">11712098</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Levofloxacin.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 10 March 2020</p>
+        <ref-list id="Levofloxacin.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Levofloxacin.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Quinolones. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999. p 603.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; mentions that cinoxacin, nalidixic acid, ciprofloxacin, norfloxacin, enoxacin, and ofloxacin are associated with minor serum enzyme elevations during therapy and with rare instances of clinically apparent liver injury; levofloxacin is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.moseley.2013">
+            <mixed-citation publication-type="book">Moseley RH. Fluoroquinolones. Hepatotoxicity of antimicrobials and antifungal agents. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd Edition. Amsterdam: Elsevier, 2013. p. 468-9.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of fluoroquinolones; mentions that hepatocellular and cholestatic forms of injury have been reported due to the quinolones including cases of ductopenia, acute liver failure and death).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.macdougall.2018">
+            <mixed-citation publication-type="book">MacDougall C. The quinolones. Sulfonamides, trimethoprim-sulfamethoxazole, quinolones, and agents for urinary tract infections. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1011-22.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.kahn.2001.32">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kahn</surname><given-names>JB</given-names></name>
+</person-group>
+              <article-title>Latest industry information on the safety profile of levofloxacin in the United States.</article-title>
+              <source>Chemotherapy</source>
+              <year>2001</year>
+              <volume>47</volume>
+              <supplement>Suppl 3</supplement>
+              <fpage>32</fpage>
+              <lpage>7</lpage>
+              <lpage>discussion 44-8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Industry summary of postmarketing reporting on adverse side effects of levofloxacin; after 130 million prescriptions, estimated rate of hepatitis and hepatic failure was less than 1 per million prescriptions).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11549787</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.spahr.2001.308">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Spahr</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Rubbia-Brandt</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Marinescu</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Armenian</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Hadengue</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Acute fatal hepatitis related to levofloxacin.</article-title>
+              <source>J Hepatol</source>
+              <year>2001</year>
+              <volume>35</volume>
+              <fpage>308</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(99 year old man developed jaundice 8 days after starting oral levofloxacin [bilirubin 18.9 mg/dL, ALT 4440 U/L, Alk P 157 U/L, prothrombin time 57 seconds], with rapid progression to coma and death 6 days after presentation).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11580158</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.karim.2001.2088">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Karim</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Ahmed</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Rossoff</surname><given-names>LJ</given-names></name>
+<name name-style="western"><surname>Siddiqui</surname><given-names>RK</given-names></name>
+<name name-style="western"><surname>Steinberg</surname><given-names>HN</given-names></name>
+</person-group>
+              <article-title>Possible levofloxacin-induced acute hepatocellular injury in a patient with chronic obstructive lung disease.</article-title>
+              <source>Clin Infect Dis</source>
+              <year>2001</year>
+              <volume>33</volume>
+              <fpage>2088</fpage>
+              <lpage>90</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(74 year old woman developed serum enzyme elevations within 2 days and jaundice after 5 days of iv levofloxacin [bilirubin 2.5 mg/dL, ALT 4962 U/L, Alk P 90 U/L], with rapid improvement upon stopping; however, patient subsequently died of sepsis and multiple organ failure: Case 1).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11712098</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.digwoodlettieri.2002.789">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Digwood-Lettieri</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Reilly</surname><given-names>KJ</given-names></name>
+<name name-style="western"><surname>Haith</surname><given-names>LR</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Patton</surname><given-names>ML</given-names></name>
+<name name-style="western"><surname>Guilday</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Cawley</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Ackerman</surname><given-names>BH</given-names></name>
+</person-group>
+              <article-title>Levofloxacin-induced toxic epidermal necrolysis in an elderly patient.</article-title>
+              <source>Pharmacotherapy</source>
+              <year>2002</year>
+              <volume>22</volume>
+              <fpage>789</fpage>
+              <lpage>93</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(78 year old woman developed rash 2 days after finishing a 10 day course of levofloxacin, with blistering and mucosal sloughing involving 73% of body surface area and stormy course but recovery; no mention of liver test results).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12066972</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.heluwaert.2003.841">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Heluwaert</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Roblin</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Duffournet</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Capony</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Martin</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Roblin</surname><given-names>X.</given-names></name>
+</person-group>
+              <comment>[Hepatitis related to amoxicillin or levofloxacin: a case report]</comment>
+              <source>Rev Med Interne</source>
+              <year>2003</year>
+              <volume>24</volume>
+              <fpage>841</fpage>
+              <lpage>3</lpage>
+              <comment>French.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(31 year old woman developed jaundice a few days after a 5 day course of oral levofloxacin [bilirubin 8.1, ALT 9.6 times ULN, Alk P 1.9 times ULN], with persistence of jaundice and pruritus for 1 month, but resolution within 2 months).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14656650</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.schwalm.2003.847">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Schwalm</surname><given-names>JD</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>CH</given-names></name>
+</person-group>
+              <article-title>Acute hepatitis associated with oral levofloxacin therapy in a hemodialysis patient.</article-title>
+              <source>CMAJ</source>
+              <year>2003</year>
+              <volume>168</volume>
+              <fpage>847</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(73 year old man with diabetes, coronary artery disease and renal failure was found to be jaundiced and confused 3 weeks after starting oral levofloxacin [bilirubin 4.1 mg/dL, ALT 857 U/L, Alk P 423 U/L, INR 2.4], improving rapidly upon stopping levofloxacin, but dying 2 weeks later from postoperative complications after bilateral above knee amputations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12668542</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.coban.2005.1737">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Coban</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Ceydilek</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Ekiz</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Erden</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Soykan</surname><given-names>I</given-names></name>
+</person-group>
+              <article-title>Levofloxacin-induced acute fulminant hepatic failure in a patient with chronic hepatitis B infection.</article-title>
+              <source>Ann Pharmacother</source>
+              <year>2005</year>
+              <volume>39</volume>
+              <fpage>1737</fpage>
+              <lpage>40</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(55 year old woman, who was known to be an HBsAg carrier, developed jaundice and fatigue 2 days after finishing a 2 week course of oral levofloxacin [bilirubin 32.3 mg/dL, ALT 401 U/L, Alk P 147 U/L, prothrombin time 29.7 seconds], developing hepatic failure and dying 3 months later, becoming HBsAg negative with injury but remaining IgM anti-HBc negative).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16105873</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.carrascosa.2009.1014">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Carrascosa</surname><given-names>MF</given-names></name>
+<name name-style="western"><surname>Lucena</surname><given-names>MI</given-names></name>
+<name name-style="western"><surname>Andrade</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Caviedes</surname><given-names>JRS</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Fatal acute hepatitis after sequential treatment with levofloxacin, doxycycline, and naproxen in a patient presenting with acute Mycoplasma pneumoniae infection.</article-title>
+              <source>Clin Ther</source>
+              <year>2009</year>
+              <volume>31</volume>
+              <fpage>1014</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(63 year old man developed jaundice 6 days after stopping a 4 day course of levofloxacin and at the end of a 6 day course of doxycycline [bilirubin 4.0 mg/dL, ALT 1577 U/L, Alk P 189 U/L], progressing to hepatic failure and death 17 days later).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19539102</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.orman.2011.517">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Orman</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Conjeevaram</surname><given-names>HS</given-names></name>
+<name name-style="western"><surname>Vuppalanchi</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Freston</surname><given-names>JW</given-names></name>
+<name name-style="western"><surname>Rochon</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Kleiner</surname><given-names>DE</given-names></name>
+<name name-style="western"><surname>Hayashi</surname><given-names>PH</given-names></name>
+<collab>DILIN Research Group</collab>
+</person-group>
+              <article-title>Clinical and histopathologic features of fluoroquinolone-induced liver injury.</article-title>
+              <source>Clin Gastroenterol Hepatol</source>
+              <year>2011</year>
+              <volume>9</volume>
+              <fpage>517</fpage>
+              <lpage>23.e3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 679 cases of drug induced liver injury presenting between 2004 and 2010 at 8 US medical centers, 12 [1.8%] were attributed to fluoroquinolones including 6 cipro-, 4 moxi-, 1 levo-, and 1 gatifloxacin; average time to onset 4 days [range 1-39], with both hepatocellular and cholestatic enzyme patterns, seven with rash or fever, mortality limited to those with hepatocellular injury and jaundice; levofloxacin case was 23 year old woman who developed mixed serum enzyme elevations [peak bilirubin 0.8 mg/dL, ALT 199 U/L, Alk P 170 U/L] 1 day after starting drug).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21356330</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.figueiracoelho.2010.1733">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Figueira-Coelho</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Pereira</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Picado</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Mendon&#x000e7;a</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Neves-Costa</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Neta</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Acute hepatitis associated with the use of levofloxacin.</article-title>
+              <source>Clin Ther</source>
+              <year>2010</year>
+              <volume>32</volume>
+              <fpage>1733</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(77 year old man with chronic bronchitis developed liver test elevations within 7 days of starting levofloxacin [peak bilirubin 0.7 mg/dL, ALT 912 U/L, Alk P 119 U/L], improving upon stopping and resolving completely within 3 months).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21194596</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.garc_aaparicio.2010.152">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Garc&#x000ed;a-Aparicio</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Herrero-Herrero</surname><given-names>JI</given-names></name>
+</person-group>
+              <comment>[Toxic hepatitis following sequential treatment with cotrimoxazol, levofloxacin, doxycycline and sertraline in a patient with a respiratory infection]</comment>
+              <source>Farm Hosp</source>
+              <year>2010</year>
+              <volume>34</volume>
+              <fpage>152</fpage>
+              <lpage>4</lpage>
+              <comment>Spanish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(65 year old woman received TMP/SMZ for 5 days, followed by levofloxacin for 6 days and then doxycycline for 10 days with sertraline for the whole period, developing fatigue and pruritus 15 days after stopping antibiotics [bilirubin 3.5 rising to 14.2 mg/dL, ALT 937 U/L, Alk P 373 U/L], resolving with stopping all medications and prednisone therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20471573</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Reuben</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Koch</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>WM</given-names></name>
+<collab>Acute Liver Failure Study Group</collab>
+</person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, of which 1 was attributed to ciprofloxacin, but none to other fluoroquinolones including levofloxacin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.titosarcos.2011.369">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Titos-Arcos</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Hallal</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Robles</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Andrade</surname><given-names>RJ</given-names></name>
+</person-group>
+              <comment>[Acute cholestatic hepatitis associated with levofloxacin.]</comment>
+              <source>Gastroenterol Hepatol</source>
+              <year>2011</year>
+              <volume>34</volume>
+              <fpage>369</fpage>
+              <lpage>70</lpage>
+              <comment>Spanish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(51 year old woman developed serum enzyme elevations within 5 days of starting oral levofloxacin and iv ceftriaxone [bilirubin normal, ALT 41 U/L, Alk P 1327 U/L], resolving within a month of stopping both antibiotics).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21477892</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.coelho.2011.729">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Coelho</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Gon&#x000e7;alves</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Leit&#x000e3;o</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Marques Dos Santos</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Nascimento Costa</surname><given-names>J.</given-names></name>
+</person-group>
+              <comment>[Levofloxacin hepatotoxicity. Higher risk in diabetics?]</comment>
+              <source>Acta Med Port</source>
+              <year>2011</year>
+              <volume>24</volume>
+              <supplement>Suppl 3</supplement>
+              <fpage>729</fpage>
+              <lpage>34</lpage>
+              <comment>Portuguese.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Two cases of levofloxacin hepatotoxicity in elderly patients [81 and 87 years old] with type 2 diabetes, with onset of symptoms or jaundice within 3 weeks of starting [bilirubin 2.2 and 7.8 mg/dL, ALT 85 and 352 U/L, Alk P 1129 and 908 U/L], both with recovery after stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22856423</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF19">
+            <element-citation publication-type="journal">
+              <article-title>Levofloxacin revisited.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2011</year>
+              <volume>53</volume>
+              <fpage>55</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Short review of the safety of levofloxacin stressing the adverse effects of tendon rupture, hypersensitivity reactions, Stevens Johnson syndrome and toxic epidermal necrolysis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21738109</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.fern_ndez_arenas.2012.53">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fern&#x000e1;ndez Arenas</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>L&#x000f3;pez Lunar</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Guti&#x000e9;rrez Garc&#x000ed;a</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Hidalgo Correas</surname><given-names>FJ</given-names></name>
+<name name-style="western"><surname>Garc&#x000ed;a D&#x000ed;az</surname><given-names>B</given-names></name>
+</person-group>
+              <comment>[Levofloxacin-related Stevens-Johnson syndrome]</comment>
+              <source>Farm Hosp</source>
+              <year>2012</year>
+              <volume>36</volume>
+              <fpage>53</fpage>
+              <lpage>5</lpage>
+              <comment>Spanish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(84 year old woman developed rash within a day of starting levofloxacin that was continued for 4 days, and followed a week later by extensive rash with mucosal involvement and complicated course; no mention of hepatic injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21514868</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.paterson.2012.1565">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Paterson</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Mamdani</surname><given-names>MM</given-names></name>
+<name name-style="western"><surname>Manno</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Juurlink</surname><given-names>DN</given-names></name>
+<collab>Canadian Drug Safety and Effectiveness Research Network</collab>
+</person-group>
+              <article-title>Fluoroquinolone therapy and idiosyncratic acute liver injury: a population-based study.</article-title>
+              <source>CMAJ</source>
+              <year>2012</year>
+              <volume>184</volume>
+              <fpage>1565</fpage>
+              <lpage>70</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a population based study using Canadian health care databases, the risk of admission to hospital for acute liver injury was increased for persons who received a prescription for moxifloxacin or levofloxacin relative to clarithromycin, but not for ciprofloxacin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22891208</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.hayashi.2012.1555">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hayashi</surname><given-names>PH</given-names></name>
+<name name-style="western"><surname>Chalasani</surname><given-names>NP</given-names></name>
+</person-group>
+              <article-title>Liver injury in the elderly due to fluoroquinolones: should these drugs be avoided?</article-title>
+              <source>CMAJ</source>
+              <year>2012</year>
+              <volume>184</volume>
+              <fpage>1555</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Editorial in response to Paterson [2013] stressing the low absolute risk of liver injury from the fluoroquinolones [4-9 per 100,000 exposures]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22891207</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Bergmann</surname><given-names>OM</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Kvaran</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Olafsson</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, none of which were attributed to levofloxacin or other fluoroquinolones).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.naveen.2013.80">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Naveen</surname><given-names>KN</given-names></name>
+<name name-style="western"><surname>Pai</surname><given-names>VV</given-names></name>
+<name name-style="western"><surname>Rai</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Athanikar</surname><given-names>SB</given-names></name>
+</person-group>
+              <article-title>Retrospective analysis of Steven Johnson syndrome and toxic epidermal necrolysis over a period of 5 years from northern Karnataka, India.</article-title>
+              <source>Indian J Pharmacol</source>
+              <year>2013</year>
+              <volume>45</volume>
+              <fpage>80</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 22 patients seen at a single referral hospital in India between 2002-2007 with Stevens Johnson syndrome or toxic epidermal necrolysis, 11 were due to anticonvulsants and 7 to antibiotics, including 1 attributed to levofloxacin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23543919</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.kwon.2012.268">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kwon</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>SH</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>SE</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Jee</surname><given-names>YK</given-names></name>
+<name name-style="western"><surname>Kang</surname><given-names>HR</given-names></name>
+<name name-style="western"><surname>Park</surname><given-names>BJ</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Spontaneously reported hepatic adverse drug events in Korea: multicenter study.</article-title>
+              <source>J Korean Med Sci</source>
+              <year>2012</year>
+              <volume>27</volume>
+              <fpage>268</fpage>
+              <lpage>73</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Summary of 2 years of adverse event reporting in Korea; of 9360 reports, 567 were liver related, including 29 [5.1%] attributed to quinolones).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22379337</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.harr.2012.149">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Harr</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>French</surname><given-names>LE</given-names></name>
+</person-group>
+              <article-title>Stevens-Johnson syndrome and toxic epidermal necrolysis.</article-title>
+              <source>Chem Immunol Allergy</source>
+              <year>2012</year>
+              <volume>97</volume>
+              <fpage>149</fpage>
+              <lpage>66</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the clinical features, epidemiology, genetics and pathogenesis of SJS and TEN).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22613860</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.patel.2013.389">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Patel</surname><given-names>TK</given-names></name>
+<name name-style="western"><surname>Barvaliya</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Sharma</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Tripathi</surname><given-names>C</given-names></name>
+</person-group>
+              <article-title>A systematic review of the drug-induced Stevens-Johnson syndrome and toxic epidermal necrolysis in Indian population.</article-title>
+              <source>Indian J Dermatol Venereol Leprol</source>
+              <year>2013</year>
+              <volume>79</volume>
+              <fpage>389</fpage>
+              <lpage>98</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of 10 case series of SJS/TEN from India identified 352 cases, among which 342 implicated a medication with most common being antimicrobials [37%], anticonvulsants [16%] and NSAIDs [16%]; fluoroquinolones accounted for 33 cases [10%], 4 of which were due to ciprofloxacin, 1 ofloxacin and 1 levofloxacin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23619444</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.pubillfondevila.2013.283">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Pubill-Fondevila</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bielsa</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Porcel</surname><given-names>JM</given-names></name>
+</person-group>
+              <comment>[Levofloxacin hepatotoxicity]</comment>
+              <source>Med Clin (Barc)</source>
+              <year>2013</year>
+              <volume>140</volume>
+              <fpage>283</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(36 year old man with pneumonia and brochiectasis developed jaundice 3 days after starting levofloxacin [bilirubin 11.7 mg/dL, ALT 186 U/L, Alk P 198 U/L] resolving within 3 weeks of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">22995847</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hern&#x000e1;ndez</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bessone</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>di Pace</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Brahm</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zapata</surname><given-names>R, A</given-names></name>
+<name name-style="western"><surname>Chirino</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, one due to trovafloxacin [acute liver failure], but none attributed to ciprofloxacin or other fluoroquinolones).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.alshammari.2014.37">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Alshammari</surname><given-names>TM</given-names></name>
+<name name-style="western"><surname>Larrat</surname><given-names>EP</given-names></name>
+<name name-style="western"><surname>Morrill</surname><given-names>HJ</given-names></name>
+<name name-style="western"><surname>Caffrey</surname><given-names>AR</given-names></name>
+<name name-style="western"><surname>Quilliam</surname><given-names>BJ</given-names></name>
+<name name-style="western"><surname>LaPlante</surname><given-names>KL</given-names></name>
+</person-group>
+              <article-title>Risk of hepatotoxicity associated with fluoroquinolones: a national case-control safety study.</article-title>
+              <source>Am J Health Syst Pharm</source>
+              <year>2014</year>
+              <volume>71</volume>
+              <fpage>37</fpage>
+              <lpage>43</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Retrospective analysis of Veterans Affairs patients receiving a fluoroquinolone [n=7862] found a higher relative risk of developing acute liver injury after receipt of ciprofloxacin compared to matched controls [adjusted odds ratio: OR=1.29], but not after receipt of levofloxacin [OR=1.16) or moxifloxacin [OR=0.98]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24352180</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.lontos.2014.260">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lontos</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Shelton</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Angus</surname><given-names>PW</given-names></name>
+<name name-style="western"><surname>Vaughan</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Roberts</surname><given-names>SK</given-names></name>
+<name name-style="western"><surname>Gordon</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Gow</surname><given-names>PJ</given-names></name>
+</person-group>
+              <article-title>A randomized controlled study of trimethoprim-sulfamethoxazole versus norfloxacin for the prevention of infection in cirrhotic patients.</article-title>
+              <source>J Dig Dis</source>
+              <year>2014</year>
+              <volume>15</volume>
+              <fpage>260</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 80 patients with advanced cirrhosis given oral prophylaxis with daily trimethoprim-sulfamethoxazole or norfloxacin, infection rates were similar in the two groups as were rates of death and liver transplantation as well as adverse event rates; not instances of drug-induced liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24612987</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.levine.2014.246">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Levine</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Trivedi</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Thung</surname><given-names>SN</given-names></name>
+<name name-style="western"><surname>Perumalswami</surname><given-names>PV</given-names></name>
+</person-group>
+              <article-title>Severe ductopenia and cholestasis from levofloxacin drug-induced liver injury: a case report and review.</article-title>
+              <source>Semin Liver Dis</source>
+              <year>2014</year>
+              <volume>34</volume>
+              <fpage>246</fpage>
+              <lpage>51</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(67 year old woman with streptococcal infection developed jaundice 8 weeks after starting levofloxacin [bilirubin 6.3 mg/dL, ALT 614 U/L, Alk P 483 U/L] with prolonged jaundice and biopsy showing bile duct loss).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24879988</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.garc_a_ju_rez.2014.46">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Garc&#x000ed;a Ju&#x000e1;rez</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Miquel</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Forns</surname><given-names>X</given-names></name>
+<name name-style="western"><surname>Bruguera</surname><given-names>M.</given-names></name>
+</person-group>
+              <comment>[Levofloxacin-induced autoimmune hepatitis. description of a case]</comment>
+              <source>Gastroenterol Hepatol</source>
+              <year>2014</year>
+              <volume>37</volume>
+              <fpage>46</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(59 year old woman had raised ALT [389 U/L] and eosinophilia [16%] 7 days after starting levofloxacin that resolved on stopping and recurred on restarting with autoimmune features on liver biopsy [ALT 355 U/L, Alk P 345 U/L, bilirubin 0.4 mg/dL] that responded to immunosuppression which was ultimately discontinued without recurrence).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24094621</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.kaye.2014.336">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kaye</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Castellsague</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Bui</surname><given-names>CL</given-names></name>
+<name name-style="western"><surname>Calingaert</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>McQuay</surname><given-names>LJ</given-names></name>
+<name name-style="western"><surname>Riera-Guardia</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Saltus</surname><given-names>CW</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Risk of acute liver injury associated with the use of moxifloxacin and other oral antimicrobials: a retrospective, population-based cohort study.</article-title>
+              <source>Pharmacotherapy</source>
+              <year>2014</year>
+              <volume>34</volume>
+              <fpage>336</fpage>
+              <lpage>49</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a nested case control analysis of a health care network database of persons between 2001 and 2009, 8 selected antibiotics were assessed for association with risk of hospitalization for liver injury, adjusted relative risks being significantly elevated for levofloxacin [3.2], moxifloxacin [2.3], doxycycline [2.5], amoxicillin/clavulanate [2.5] and amoxicillin [2.3], but not for clarithromycin [1.8], telithromycin [1.7] or cefuroxime [0.9]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24865821</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.charfi.2015.547">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Charfi</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Lakhoua</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Sahnoun</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Badri</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Daghfous</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>El Aidli</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Kastalli</surname><given-names>S</given-names></name>
+<etal/>
+</person-group>
+              <article-title>DRESS syndrome following levofloxacin exposure with positive patch-test.</article-title>
+              <source>Therapie</source>
+              <year>2015</year>
+              <volume>70</volume>
+              <fpage>547</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(26 year old man developed fever, rash and lymphadenopathy 5 days after starting levofloxacin and metronidazole [bilirubin not given, ALT 211 U/L, GGT 90 U/L], resolving within 1-2 weeks of stopping, with positive patch test to levofloxacin but also positive IgM anti-EBV).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26238129</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.gulen.2015.e93">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gulen</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ay</surname><given-names>MO</given-names></name>
+<name name-style="western"><surname>Avci</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Acikalin</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Icme</surname><given-names>F</given-names></name>
+</person-group>
+              <article-title>Levofloxacin-induced hepatotoxicity and death.</article-title>
+              <source>Am J Ther</source>
+              <year>2015</year>
+              <volume>22</volume>
+              <fpage>e93</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(53 year old woman developed rash within a day of receiving levofloxacin followed by jaundice and confusion [bilirubin 14.6 mg/dL, ALT 1222 U/L, Alk P not given, INR 6.5], with metabolic acidosis followed by cardiac arrest and death).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24067876</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.goldberg.2015.1353">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Goldberg</surname><given-names>DS</given-names></name>
+<name name-style="western"><surname>Forde</surname><given-names>KA</given-names></name>
+<name name-style="western"><surname>Carbonari</surname><given-names>DM</given-names></name>
+<name name-style="western"><surname>Lewis</surname><given-names>JD</given-names></name>
+<name name-style="western"><surname>Leidl</surname><given-names>KB</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<name name-style="western"><surname>Haynes</surname><given-names>K</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Population-representative incidence of drug-induced acute liver failure based on an analysis of an integrated health care system.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1353</fpage>
+              <lpage>61.e3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of Kaiser Permanente health care database from 2004 to 2011 identified 62 patients with suspected acute liver failure, 32 [52%] of whom had a presumed drug etiology, the most common being acetaminophen [18: 56%] and various herbal products [5: 16%], with single instances attributed to imatinib, simvastatin, leflunomide, isoniazid and valproate, but none to ciprofloxacin or other fluoroquinolones).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25733099</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 38 cases [4%] were attributed to fluoroquinolones, including 16 due to ciprofloxacin [the 8th most common prescription drug cause], 13 due to levofloxacin and 8 to moxifloxacin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.elliott.2016.bcr2015213189">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Elliott</surname><given-names>TR</given-names></name>
+<name name-style="western"><surname>Symes</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Kannourakis</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Angus</surname><given-names>P</given-names></name>
+</person-group>
+              <article-title>Resolution of norfloxacin-induced acute liver failure after N-acetylcysteine therapy: further support for the use of NAC in drug-induced ALF?</article-title>
+              <source>BMJ Case Rep</source>
+              <year>2016</year>
+              <volume>2016</volume>
+              <comment>pii</comment>
+              <elocation-id>bcr2015213189</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(77 year old woman developed jaundice 2 weeks after a 3-day course of norfloxacin [bilirubin 8.5 mg/dL, ALT 248 U/L, Alk P 256 U/L] with progression to hepatic failure [INR 2.7], but dramatic clinical improvement after a 2 day infusion of N-acetylcysteine, liver tests normalizing 3 months later).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">26740270</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.bonkovsky.2017.1267">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Kleiner</surname><given-names>DE</given-names></name>
+<name name-style="western"><surname>Gu</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Odin</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Russo</surname><given-names>MW</given-names></name>
+<name name-style="western"><surname>Navarro</surname><given-names>VM</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Ghabril</surname><given-names>MS</given-names></name>
+<etal/>
+<collab>U.S. Drug Induced Liver Injury Network Investigators</collab>
+</person-group>
+              <article-title>Clinical presentations and outcomes of bile duct loss caused by drugs and herbal and dietary supplements.</article-title>
+              <source>Hepatology</source>
+              <year>2017</year>
+              <volume>65</volume>
+              <fpage>1267</fpage>
+              <lpage>77</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 363 patients with drug induced liver injury who underwent liver biopsy, 26 [7%] had bile duct loss of whom 94% developed evidence of chronic liver injury suggestive of vanishing bile duct syndrome, 2 of which were due to fluoroquinolones, 1 to moxifloxacin and 1 levofloxacin).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27981596</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.yim.2018.1167">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Yim</surname><given-names>HJ</given-names></name>
+<name name-style="western"><surname>Suh</surname><given-names>SJ</given-names></name>
+<name name-style="western"><surname>Jung</surname><given-names>YK</given-names></name>
+<name name-style="western"><surname>Yim</surname><given-names>SY</given-names></name>
+<name name-style="western"><surname>Seo</surname><given-names>YS</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>YR</given-names></name>
+<name name-style="western"><surname>Park</surname><given-names>SY</given-names></name>
+<name name-style="western"><surname>Jang</surname><given-names>JY</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>YS</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>HS</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>BI</given-names></name>
+<name name-style="western"><surname>Um</surname><given-names>SH</given-names></name>
+</person-group>
+              <article-title>Daily norfloxacin vs. weekly ciprofloxacin to prevent spontaneous bacterial peritonitis: a randomized controlled trial.</article-title>
+              <source>Am J Gastroenterol</source>
+              <year>2018</year>
+              <volume>113</volume>
+              <fpage>1167</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 124 patients with cirrhosis and ascites given prophylaxis with daily norfloxacin [400 mg] or weekly oral ciprofloxacin [750 mg], subsequent rates of bacterial peritonitis were similar [7% vs 5%] as were rates of liver transplantation and death).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29946179</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.moreau.2018.1816">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Moreau</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Elkrief</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Bureau</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Perarnau</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Th&#x000e9;venot</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Saliba</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Louvet</surname><given-names>A</given-names></name>
+<etal/>
+<collab>NORFLOCIR Trial Investigators</collab>
+</person-group>
+              <article-title>Effects of long-term norfloxacin therapy in patients with advanced cirrhosis.</article-title>
+              <source>Gastroenterology</source>
+              <year>2018</year>
+              <volume>155</volume>
+              <fpage>1816</fpage>
+              <lpage>27.e9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 291 patients with advanced cirrhosis treated for 6 to 12 months with daily oral norfloxacin or placebo, 6 month mortality rate was less with norfloxacin [15% vs 19%] as were gram-negative bacterial infections and no norfloxacin-related severe adverse events were identified).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30144431</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.schloss.2018.272">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Schloss</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Becak</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Tosto</surname><given-names>ST</given-names></name>
+<name name-style="western"><surname>Velayati</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>A case of levo&#x0fb02;oxacin-induced hepatotoxicity.</article-title>
+              <source>Am J Case Rep</source>
+              <year>2018</year>
+              <volume>19</volume>
+              <fpage>272</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(30 year old man with sepsis was treated with clindamycin followed by levofloxacin after which he had ALT elevations [ALT rising from 24 to 1110 U/L, Alk P 175 to 269 U/L, bilirubin normal], improving within days of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29523775</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF44">
+            <element-citation publication-type="journal">
+              <article-title>Comparison table: some systemic fluoroquinolones.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2018</year>
+              <volume>60</volume>
+              <fpage>e57</fpage>
+              <lpage>e58</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Table comparing 4 fluoroquinolones [cipro-, levo-, dela- and moxifloxacin] mentions that ALT and AST elevations are a class adverse event).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29635268</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.mavros.2019.746">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mavros</surname><given-names>MN</given-names></name>
+<name name-style="western"><surname>Theochari</surname><given-names>NA</given-names></name>
+<name name-style="western"><surname>Kyriakidou</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Economopoulos</surname><given-names>KP</given-names></name>
+<name name-style="western"><surname>Sava</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Falagas</surname><given-names>ME</given-names></name>
+</person-group>
+              <article-title>Fluoroquinolone-based versus &#x003b2;-lactam-based regimens for complicated intra-abdominal infections: a meta-analysis of randomised controlled trials.</article-title>
+              <source>Int J Antimicrob Agents</source>
+              <year>2019</year>
+              <volume>53</volume>
+              <fpage>746</fpage>
+              <lpage>54</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of controlled trials of fluoroquinolones versus &#x003b2;lactam-based antibiotic regimens found similar rates of efficacy and adverse events, no discussion of ALT elevations or liver related toxicities).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30639629</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Levofloxacin.REF.kuula.2019.e0216029">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kuula</surname><given-names>LSM</given-names></name>
+<name name-style="western"><surname>Viljemaa</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>Backman</surname><given-names>JT</given-names></name>
+<name name-style="western"><surname>Blom</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Fluoroquinolone-related adverse events resulting in health service use and costs: A systematic review.</article-title>
+              <source>PLoS One</source>
+              <year>2019</year>
+              <volume>14</volume>
+              <elocation-id>e0216029</elocation-id>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of observational studies on safety of fluoroquinolones concluded that due to lack of published literature, health service and costs could not be evaluated).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31026286</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Levofloxacin.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=levofloxacin/AE+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI+OR+hepatitis,+toxic%5BMH%5D)+AND+(%222009/01%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Levofloxacin: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=levofloxacin">Trials on Levofloxacin: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

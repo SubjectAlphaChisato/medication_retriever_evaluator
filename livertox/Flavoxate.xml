@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Flavoxate" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Flavoxate</book-part-id>
+      <title-group>
+        <title>Flavoxate</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>6</day>
+          <month>2</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Flavocoxid" document-type="chapter">Flavocoxid</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Flecainide" document-type="chapter">Flecainide</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Flavoxate.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Flavoxate.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Flavoxate is a synthetic anticholinergic agent that is used for treatment of urinary incontinence and overactive bladder syndrome. Flavoxate has not been implicated in causing liver enzyme elevations or clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Flavoxate.Background">
+          <title>Background</title>
+          <p>Flavoxate (flay vox' ate) is a synthetic quaternary ammonium anticholinergic which inhibits the muscarinic actions of acetylcholine on autonomic nerve endings, decreasing the smooth muscle tone of bladder and gastrointestinal tract. Flavoxate has broad activity against muscarinic acetylcholine receptors, but its highly polar quaternary ammonium group makes it less likely to cross lipid membranes such as the blood brain barrier, which is believed to decrease the potential for central nervous system effects. Flavoxate increases bladder capacity and decreases urinary frequency and urgency. Flavoxate was approved for use in the United States in 1970 and continues to be used to treat the symptoms of cystitis and overactive bladder syndrome. Flavoxate is available in tablets of 100 mg in several generic forms and previously under the brand name Urispas. The typically recommended oral dose in adults is 100 to 200 mg three or four times daily. Common side effects are those of parasympathetic stimulation and include dryness of the mouth and eyes, decreased sweating, headache, visual blurring, constipation, urinary retention, impotence, tachycardia and palpitations, anxiety, restlessness and in some instances agitation and delusions. Anticholinergic agents can precipitate acute narrow angle glaucoma and acute urinary retention.</p>
+        </sec>
+        <sec id="Flavoxate.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Like other anticholinergic agents, flavoxate has not been linked to episodes of liver enzyme elevations or clinically apparent liver injury. A major reason for its safety may relate to the low daily dose.</p>
+          <p>References on the safety and potential hepatotoxicity of anticholinergics are given together after the Overview section on Anticholinergic Agents.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Anticholinergics">Anticholinergic Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Flavoxate.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Flavoxate.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Flavoxate &#x02013; Generic, Urispas&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Anticholinergic Agents</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Flavoxate">COMPLETE LABELING</ext-link>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Flavoxate.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Flavoxate.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Flavoxate.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Flavoxate.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Flavoxate.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Flavoxate.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Flavoxate.T1_1_1_1_1" rowspan="1" colspan="1">Flavoxate</td>
+                <td headers="hd_h_Flavoxate.T1_1_1_1_2" rowspan="1" colspan="1">15301-69-6</td>
+                <td headers="hd_h_Flavoxate.T1_1_1_1_3" rowspan="1" colspan="1">C24-H25-N-O4</td>
+                <td headers="hd_h_Flavoxate.T1_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Flavoxate_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Flavoxate Chemical Structure</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Flavoxate.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Flavoxate/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Flavoxate: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Flavoxate">Trials on Flavoxate: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

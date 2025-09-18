@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Meloxicam" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Meloxicam</book-part-id>
+      <title-group>
+        <title>Meloxicam</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>10</day>
+          <month>1</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Melatonin" document-type="chapter">Melatonin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Melphalan" document-type="chapter">Melphalan</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Meloxicam.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Meloxicam.Introduction">
+          <title>Introduction</title>
+          <p content-type="pubmed-excerpt">Meloxicam is a long acting nonsteroidal antiinflammatory drug (NSAID) available by prescription only and used in therapy of chronic arthritis. Meloxicam has been linked to rare instances of acute, clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Meloxicam.Background">
+          <title>Background</title>
+          <p>Meloxicam (mel ox' i kam) is an enolic acid that belongs to oxicam class of NSAIDs similar to piroxicam. Like other NSAIDs, meloxicam is a potent cyclo-oxygenase (Cox-1 and Cox-2) inhibitor which blocks the formation of prostaglandins that are important in pain and inflammatory pathways. Meloxicam has analgesic as well as antipyretic and antiinflammatory activities. Meloxicam has a ten-fold selectivity in inhibiting Cox-2 over Cox-1 in vitro. The specificity for Cox-2 is believed to make meloxicam less likely to cause gastrointestinal mucosal injury compared to standard NSAIDs that inhibit both Cox enzymes, which would suggest that it should have fewer gastrointestinal side effects and less effects on platelet function than the nonselective Cox inhibitors (Cox-1 and Cox-2). However, in humans, meloxicam in full doses has a similar side effect profile as most nonselective NSAIDs, and its clinical advantage has yet to be proven. Oral meloxicam has a delayed time to onset, requiring several days to achieve its full effect, which makes it ill suited for treating acute pain, but more appropriate for chronic use as in the chronic arthridites. Meloxicam was approved in the United States in 2000 and currently more than 9 million prescriptions are filled yearly. Current indications are for chronic osteoarthritis, rheumatoid arthritis and juvenile rheumatoid arthritis. Meloxicam is available by prescription only in 7.5 and 15 mg tablets in generic forms and under the brand name Mobic. The recommended dose is 7.5 to 15 mg once daily. Like most NSAIDs, meloxicam is generally well tolerated, but side effects can include gastrointestinal upset and pain, nausea, headache, dizziness, somnolence, itching, peripheral edema and hypersensitivity reactions. As with other NSAIDS, meloxicam has potential serious adverse events, including gastrointestinal bleeding, increase risk of cardiovascular thrombotic events, renal dysfunction, heart failure and edema and hypersensitivity reactions.</p>
+        </sec>
+        <sec id="Meloxicam.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Prospective studies found that up to 7% of patients taking meloxicam experienced at least transient serum aminotransferase elevations. These frequently resolved even while continuing the drug and without dose modification. Aminotransferase elevations above 3 fold elevated occurred in 1% of patients. Clinically apparent liver injury with jaundice from meloxicam is rare and only individual case reports have been published. The latency to onset in reported cases was short (1 to 5 weeks) and both cholestatic and hepatocellular patterns of enzyme elevations were described. Immunoallergic features are usually not prominent and autoantibodies are rare, although a single case report of autoimmune hepatitis apparently triggered by meloxicam therapy has been published. Recovery is typically rapid once meloxicam is stopped. Meloxicam is rarely mentioned as an etiologic agent in large case series on drug induced liver injury and acute liver failure.</p>
+          <p>Likelihood score: C (probable rare cause of clinical apparent liver injury).</p>
+        </sec>
+        <sec id="Meloxicam.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of meloxicam hepatotoxicity is not known.</p>
+        </sec>
+        <sec id="Meloxicam.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The severity of liver injury from meloxicam ranges from asymptomatic elevations in serum aminotransferase levels, to symptomatic hepatitis with or without jaundice. Fatal and chronic cases have not been described. Although cross sensitivity has not been shown, patients with clinically apparent meloxicam induced liver injury should probably avoid other oxicam NSAIDs such as piroxicam.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="NonsteroidalAntiinfl" document-type="chapter">Nonsteroidal Antiinflammatory Drugs</related-object>, see also <related-object link-type="booklink" source-id="livertox" document-id="Piroxicam" document-type="chapter">Piroxicam</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Meloxicam.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Meloxicam &#x02013; Generic, Mobic&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Nonsteroidal Antiinflammatory Drugs</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Meloxicam">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Meloxicam.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Meloxicam.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <tbody>
+              <tr>
+                <th id="hd_b_Meloxicam.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_b_Meloxicam.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_b_Meloxicam.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_b_Meloxicam.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+              <tr>
+                <td headers="hd_b_Meloxicam.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Meloxicam</td>
+                <td headers="hd_b_Meloxicam.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135048529">71125-38-7</ext-link>
+</td>
+                <td headers="hd_b_Meloxicam.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C14-H13-N3-O4-S2</td>
+                <td headers="hd_b_Meloxicam.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135048529" document-id-type="sid" document-type="summary" object-id="135048529" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Meloxicam.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 10 January 2020</p>
+        <p>Abbreviations used: NSAID, nonsteroidal antiinflammatory drug.</p>
+        <ref-list id="Meloxicam.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Meloxicam.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Drugs used to treat rheumatic and musculospastic disease. The NSAIDS. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 517-41.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of NSAIDs published in 1999; meloxicam is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.lewis.2013">
+            <mixed-citation publication-type="book">Lewis JH, Stine JG. Nonsteroidal anti-inflammatory drugs and leukotriene receptor antagonists: pathology and clinical presentation of hepatotoxicity. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd Edition. Amsterdam: Elsevier, 2013. pp. 370-402.<annotation><p><italic toggle="yes">(Textbook of hepatotoxicity published in 2013 mentions that meloxicam had yet to be associated with hepatic abnormalities).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.grossner.2018">
+            <mixed-citation publication-type="book">Grossner T, Smyth EM, Fitzgerald GA. Pharmacotherapy of inflammation, fever, pain and gout. In, Brunton LL, Hilal Dandan R, Knollman BC. Goodman &#x00026; Gilman&#x02019;s The pharmacological basis of therapeutics, 13th ed. New York: McGraw-Hill, 2018. pp. 685-709.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.zimmerman.1990">
+            <mixed-citation publication-type="other">Zimmerman HJ. Update of hepatotoxicity due to classes of drugs in common clinical use: non-steroid drugs, anti-inflammatory drugs, antibiotics, antihypertensives, and cardiac and psychotropic agents. Semin Liver Dis 1990; 10: 322-8. 2281340<annotation><p><italic toggle="yes">(Review of liver injury due to NSAIDs; meloxicam is not mentioned).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.distel.1996">
+            <mixed-citation publication-type="other">Distel M, Mueller C, Bluhmki E, Fries J. Safety of meloxicam: a global analysis of clinical trials. Br J Rheumatol 1996; 35 (Suppl 1): 68-77. 8630641<annotation><p><italic toggle="yes">(Analysis of safety of 7.5 and 15 mg of meloxicam among 4175 patients in controlled trials in rheumatoid arthritis and osteoarthritis; ALT or AST elevations occurred in 5.9% at 7.5 mg, 7.4% at 15 mg, vs 6.3% with piroxicam, 16.1% with diclofenac and 9.5% with naproxen).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.furst.1997">
+            <mixed-citation publication-type="other">Furst DE. Meloxicam: selective COX-2 inhibition in clinical practice. Semin Arthritis Rheum 1997; 26: 21-7. 9219316<annotation><p><italic toggle="yes">(Safety analysis in over 4000 patients on meloxicam; fewer gastrointestinal complaints with meloxicam; similar data as in Distel [1996]: ALT levels &#x0003e;2 times ULN occurred in 2% of meloxicam vs 5% of diclofenac recipients; no mention of hepatitis or jaundice).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.staerkel.1999">
+            <mixed-citation publication-type="other">Staerkel P, Horsmans Y. Meloxicam-induced liver toxicity. Acta Gatroenterol Belg 1999; 62: 255-6. 10427794<annotation><p><italic toggle="yes">(46 year old woman with rheumatoid arthritis developed anorexia 4 days after starting meloxicam, and despite stopping developed fatigue and jaundice 8 days later [bilirubin 10.4 mg/dL, ALT 2340 U/L, Alk P 520 U/L], resolving within 1 month of stopping; was ANA positive, but without rash, fever or eosinophilia: patient had tolerated piroxicam without difficulty).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.martin.2000">
+            <mixed-citation publication-type="other">Martin RM, Biswas P, Mann RD. The incidence of adverse events and risk factors for upper gastrointestinal disorders associated with meloxicam use amongst 19,087 patients in general practice in England: cohort study. Br J Clin Pharmacol 2000; 50: 35-42. 10886116<annotation><p><italic toggle="yes">(Among 19,087 users of meloxicam common side effects were dyspepsia, abdominal pain, nausea, headache and rash; but only one patient had &#x0201c;idiosyncratic liver abnormalities&#x0201d;, but details not given).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.gierer.2000">
+            <mixed-citation publication-type="other">Gierer IM, Abdala O, Calder&#x000f3;n C, Risoli E, Cravero A, Pinchuk L. [Meloxican-induced cholestasis] Acta Gastroenterol Latinoam 2000; 30: 511-4. Spanish. 11144948<annotation><p><italic toggle="yes">(75 year old woman developed pruritus after 2 weeks and jaundice after 5 weeks of meloxicam therapy and at 7 weeks had bilirubin 25 mg/dL, ALT 40 U/L, Alk P 559 U/L, biopsy showing intrahepatic cholestasis with slow, but complete resolution by 4 months).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.yocum.2000">
+            <mixed-citation publication-type="other">Yocum D, Fleischmann R, Dalgin P, Caldwell J, Hall D, Roszko P, Meloxicam Osteoarthritis Investigators. Safety and efficacy of meloxicam in the treatment of osteoarthritis. A 12-week, double-blind, multiple-dose, placebo-controlled trial. Arch Intern Med 2000; 160: 2947-54. 11041902<annotation><p><italic toggle="yes">(Among 774 patients enrolled at 61 centers in an industry supported randomized controlled trial of 3 doses of meloxicam vs placebo or diclofenac for 12 weeks, side effects were less with meloxicam than with diclofenac, but more than with placebo; no mention of ALT elevations or liver injury).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.furst.2002">
+            <mixed-citation publication-type="other">Furst DE, Kolba KS, Fleischmann R, Silverfield J, Greenwald M, Roth S, et al. Meloxicam Rheumatoid Arthritis Investigators. Dose response and safety study of meloxicam up to 22.5 mg daily in rheumatoid arthritis: a 12 week multicenter, double blind, dose response study versus placebo and diclofenac. J Rheumatol 2002; 29: 436-46. 11908554<annotation><p><italic toggle="yes">(Among 894 patients with rheumatoid arthritis enrolled in an industry supported randomized clinical trial of 3 doses of meloxicam vs placebo or diclofenac for 12 weeksk, ALT elevations were less common with meloxicam [6.9-8.9%] than with placebo [12.2%] and much less than with diclofenac [30%]).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.fleischmann.2002">
+            <mixed-citation publication-type="other">Fleischmann R, Iqbal I, Stobodin G. Meloxicam. Expert Opin Pharamcother 2002; 3: 1501-12. 12387696<annotation><p><italic toggle="yes">(Overview of this Cox-2 preferential NSAID showing similar therapeutic activity to piroxicam and diclofenac with less gastrointestinal side effects; elevated liver enzymes reported in &#x0003c;2% of patients; no mention of hepatitis or jaundice).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.traversa.2003">
+            <mixed-citation publication-type="other">Traversa G, Bianchi C, Da Cas R, Abraha I, Menniti-Ippolito F, Venegoni M. Cohort study of hepatotoxicity associated with nimesulide and other non-steroidal anti-inflammatory drugs. BMJ 2003; 327: 18-22. 12842950<annotation><p><italic toggle="yes">(Among 397,537 patients who received a prescription for an NSAID [770,000 person years] between 1997 and 2002, 42 developed an acute nonviral hepatitis including 1 of 4232 receiving meloxicam).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.lacroix.2004">
+            <mixed-citation publication-type="other">Lacroix I, Lapeyre-Mestre M, Bagheri H, Pathak A, Montastruc JL; Club de Reflexion des cabinets de Groupe de Gastro-Enterologie(CREGG); General Practitioner Networks. Nonsteroidal anti-inflammatory drug-induced liver injury: a case-control study in primary care. Fundam Clin Pharmacol 2004; 18: 201-6. 15066135<annotation><p><italic toggle="yes">(Case controlled study of patients presenting with suspected drug induced liver injury in a general practice context in Southern France found 88 cases and identified 178 controls; 22 cases vs 16 controls were exposed to NSAIDs; 5 diclofenac, 4 ibuprofen, 4 ketoprofen, 2 niflumic acid, 1 flurbiprofen and 1 meloxicam, rest to salicylates which was used as frequently in controls; no fatalities).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.rostom.2005">
+            <mixed-citation publication-type="other">Rostom A, Goldkind L, Laine L. Nonsteroidal anti-inflammatory drugs and hepatic toxicity: a systematic review of randomized controlled trials in arthritis patients. Clin Gastroenterol Hepatol 2005; 3: 489-98. 15880319<annotation><p><italic toggle="yes">(Review of randomized clinical trials of NSAIDS for frequency of adverse events; ALT &#x0003e;3 times ULN occurred in 0.43% of ibuprofen, 0.43% naproxen, 0.42% celecoxib, 1.8% rofecoxib, 3.55% diclofenac and 0.29% of placebo recipients; among 10,048 patients in five publications on meloxicam, rate was 0.19% and thus less than reported with placebo).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.bj_rnsson.2005">
+            <mixed-citation publication-type="other">Bj&#x000f6;rnsson E, Jerlstad P, Bergqvist A, Olsson R. Fulminant drug-induced hepatic failure leading to death or liver transplantation in Sweden. Scand J Gastroenterol 2005; 40: 1095-1101. 16165719<annotation><p><italic toggle="yes">(Survey of all cases of drug induced liver injury with fatal outcome from Swedish Adverse Drug Reporting system from 1966-2002; among 103 cases, 3 attributed to naproxen, but none to meloxicam).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.lapeyremestre.2006">
+            <mixed-citation publication-type="other">Lapeyre-Mestre M, de Castro AM, Bareille MP, Del Pozo JG, Requejo AA, Arias LM, et al. Non-steroidal anti-inflammatory drug-related hepatic damage in France and Spain: analysis from national spontaneous reporting systems. Fundam Clin Pharmacol 2006; 20:391-5. 16867024<annotation><p><italic toggle="yes">(Analysis of reports of liver injury from NSAIDs from France and Spain from 1982-2001; among more than 29,000 liver adverse event reports, 26 were for meloxicam; no clinical details given).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.arellano.2006">
+            <mixed-citation publication-type="other">Arellano FM, Yood MU, Wentworth CE, Oliveria SA, Rivero E, Verma A, et al. Use of cyclo-oxygenase 2 inhibitors (COX-2) and prescription non-steroidal anti-inflammatory drugs (NSAIDS) in UK and USA populations Implications for COX-2 cardiovascular profile. Pharmacoepidemiol Drug Saf 2006; 15: 861-72. 17086563<annotation><p><italic toggle="yes">(Survey of NSAID use in UK and USA indicates meloxicam is among the top 10 NSAIDs used).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.sanchezmatienzo.2006">
+            <mixed-citation publication-type="other">Sanchez-Matienzo D, Arana A, Castellsague J, Perez-Gutthann S. Hepatic disorders in patients treated with COX-2 selective inhibitors or nonselective NSAIDs: a case/noncase analysis of spontaneous reports. Clin Ther 2006; 28: 1123-32. 16982289<annotation><p><italic toggle="yes">(Among more than 300,000 spontaneous reports of adverse events due to NSAIDs, 3% being hepatic; the proportion of adverse events that were hepatic was highest for bromfenac [20.7%] and nimesulide [14.4%], but was also elevated for sulindac [9.9%], diclofenac [4.7%] and less so for meloxicam [3.8%]).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.raber.2007">
+            <mixed-citation publication-type="other">Raber A, Heras J, Costa J, Fortea J, Cobos A. Incidence of spontaneous notifications of adverse reactions with aceclofenac, meloxicam, and rofecoxib during the first year after marketing in the United Kingdom. Ther Clin Risk Management 2007; 3: 225-230. 18360631<annotation><p><italic toggle="yes">(Summary analysis of spontaneous reports to WHO in first year of meloxicam use suggested liver toxicity was highest with rofecoxib [0.775], intermediate with aceclofenac [0.241] and lowest with meloxicam [0.097 per million drug doses]).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Davern</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Serrano</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rochon</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <comment>PubMed Citation</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, NSAIDs were implicated as a sole agent in 8 cases [4 diclofenac, 2 celecoxib, 1 meloxicam and 1 oxaprozin] and as one of several agents in 3 cases [1 diclofenac, 1 celecoxib, 1 ibuprofen]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Meloxicam.REF.suzuki.2009">
+            <mixed-citation publication-type="other">Suzuki R, Yamamoto M, Saka H, Taniguchi H, Shindoh J, Tanikawa Y, et al. A phase II study of carboplatin and paclitacel with meloxicam. Lung Cancer 2009; 63: 72-6. 18499296<annotation><p><italic toggle="yes">(44 patients with lung cancer given carboplatin and paclitacel with meloxicam; 3 developed elevations in ALT, all were mild and resolved; no details given and difficult to attribute to meloxicam vs cancer chemotherapy).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.bessone.2010">
+            <mixed-citation publication-type="other">Bessone F. Non-steroidal anti-inflammatory drugs: What is the actual risk of liver damage? World J Gastroenterol 2010; 16: 5651-61. 21128314<annotation><p><italic toggle="yes">(Review of estimated frequency of drug induced liver injury due to NSAIDs from large published epidemiological studies; meloxicam is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.mart_nezodriozola.2010">
+            <mixed-citation publication-type="other">Mart&#x000ed;nez-Odriozola P, Guti&#x000e9;rrez-Mac&#x000ed;as A, Ibarmia-Lahuerta J, Mu&#x000f1;&#x000f3;z-S&#x000e1;nchez J. Meloxicam as a cause of drug-induced autoimmune hepatitis. Dig Dis Sci 2010; 55: 1191-2. 19399620<annotation><p><italic toggle="yes">(64 year old man developed fatigue followed by jaundice 5 to 6 weeks after starting meloxicam with worsening despite stopping meloxicam [bilirubin 2.9 rising to 8.2 mg/dL, AST 768 to 1591 U/L, Alk P 129 to 155 U/L, ANA positive, high globulins], improving with corticosteroid therapy, but still on treatment 6 months later with persistence of mild enzyme elevations [AST 85 U/L]).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.suzuki.2010">
+            <mixed-citation publication-type="other">Suzuki A, Andrade RJ, Bjornsson E, Lucena MI, Lee WM, Yuen NA, Hunt CM, et al. Drugs associated with hepatotoxicity and their reporting frequency of liver adverse events in VigiBase: unified list based on international collaborative work. Drug Saf 2010; 33: 503-22. 20486732<annotation><p><italic toggle="yes">(Combined analysis of 3 large databases on drug induced liver injury from Spain, Sweden and the US; among the 65 agents linked to at least 5 cases, diclofenac [n=38], ibuprofen [28], naproxen [14], nimesulide [9], and piroxicam [5] are listed, but not meloxicam).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.reuben.2010">
+            <mixed-citation publication-type="other">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. 20949552<annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, of which 7 were due to NSAIDs, including 4 attributed to bromfenac, 2 to diclofenac and 1 to etodolac, but none to meloxicam).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.lapeyremestre.2013">
+            <mixed-citation publication-type="other">Lapeyre-Mestre M, Grolleau S, Montastruc JL; Adsociation Fran&#x000e7;aise des Centres R&#x000e9;gionaux de Pharmacovigilance (CRPV). Adverse drug reactions associated with the use of NSAIDs: a case/noncase analysis of spontaneous reports from the French pharmacovigilance database 2002-2006. Fundam Clin Pharmacol 2013; 27: 223-30. 21929527<annotation><p><italic toggle="yes">(Analysis of 42,389 spontaneous serious adverse event reports to the French Pharmacovigilance database on 8 NSAIDs between 2002 and 2006; liver adverse events were most frequent with nimesulide [0.15 per million daily doses] compared to diclofenac [0.09], ketoprofen [0.09] piroxicam [0.06], naproxen [0.04], meloxicam [0.03], and tenoxicam [0.03]).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.bj_rnsson.2013">
+            <mixed-citation publication-type="other">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. 23419359<annotation><p><italic toggle="yes">(Population based prospective analysis of cases of drug induced liver injury seen over a two year period in Iceland identified 96 cases, 6 of which were due to NSAIDS, all 6 attributed to diclofenac, but none were attributed to meloxicam or other NSAIDs).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.hern_ndez.2014">
+            <mixed-citation publication-type="other">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. 24552865<annotation><p><italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996-2012 identified 176 cases, the most common class of implicated agents being NSAIDS [n=62, 32%], but specific agents were nimesulide [n=53], piroxicam [5], diclofenac [2], gold salts [1], and naproxen [1]; meloxicam was not listed]).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.chalasani.2015">
+            <mixed-citation publication-type="other">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. e7. 25754159<annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 28 were attributed to NSAIDs, 3 of which were attributed to meloxicam all of which were symptomatic and jaundiced but none of which were fatal [Schmeltzer 2016]).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.schmeltzer.2016">
+            <mixed-citation publication-type="other">Schmeltzer PA, Kosinski AS, Kleiner DE, Hoofnagle JH, Stolz A, Fontana RJ, Russo MW; Drug-Induced Liver Injury Network (DILIN). Liver injury from nonsteroidal anti-inflammatory drugs in the United States. Liver Int 2016; 36: 603-9. 26601797<annotation><p><italic toggle="yes">(Among 1221 cases of drug induced liver injury enrolled in a prospective, US database between 2004 and 2014, 30 cases [2.5%] were attributed to NSAIDs, including 3 to meloxicam, all with a short latency [&#x0003c;1 month], cholestatic or mixed enzyme elevations, moderate severity and ultimately full resolution).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.donati.2016">
+            <mixed-citation publication-type="other">Donati M, Conforti A, Lenti MC, Capuano A, Bortolami O, Motola D, Moretti U, et al.; DILI-IT Study Group. Risk of acute and serious liver injury associated to nimesulide and other NSAIDs: data from drug-induced liver injury case-control study in Italy. Br J Clin Pharmacol 2016; 82: 238-48. 26991794<annotation><p><italic toggle="yes">(Among 179 cases of acute liver injury and 1770 controls admitted to 9 Italian hospitals between 2010-2014, NSAIDs that were used more frequently in cases than controls included nimesulide [17% vs 10%: odds ratio 1.88] and ibuprofen [14% vs 10%: odds ratio 1.59], and risk was higher in those taking higher doses; meloxicam was not mentioned).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.sriuttha.2018">
+            <mixed-citation publication-type="other">Sriuttha P, Sirichanchuen B, Permsuwan U. Hepatotoxicity of Nonsteroidal anti-inflammatory drugs: a systematic review of randomized controlled trials. Int J Hepatol 2018; 2018: 5253623. 29568654<annotation><p><italic toggle="yes">(A systematic review of published randomized controlled trials of NSAIDs for evidence of hepatotoxicity found only 18 studies that fit the stringent criteria including 11 for diclofenac, 5 for naproxen but none for meloxicam).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.bergese.2019">
+            <mixed-citation publication-type="other">Bergese SD, Melson TI, Candiotti KA, Ayad SS, Mack RJ, McCallum SW, Du W, et al. A phase 3, randomized, placebo-controlled evaluation of the safety of intravenous meloxicam following major surgery. Clin Pharmacol Drug Dev 2019; 8: 1062-72. 30786162<annotation><p><italic toggle="yes">(Among 721 patients who were treated with once daily intravenous meloxicam [30 mg] or placebo for 1-7 days after undergoing major surgery, adverse event rates were similar in the two groups including ALT elevations [2% vs 3.8%] and those above 3 times ULN [2.0% vs 2.4%] and there were no serious hepatic events).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Meloxicam.REF.nguyen">
+            <mixed-citation publication-type="other">Nguyen KD, Tran TN, Nguyen MT, Nguyen HA, Nguyen HA Jr, Vu DH, Nguyen VD, et al. Drug-induced Stevens-Johnson syndrome and toxic epidermal necrolysis in Vietnamese spontaneous adverse drug reaction database: a subgroup approach to disproportionality analysis. J Clin Pharm Ther; 44: 69-77. 30129156<annotation><p><italic toggle="yes">(Among 136 cases of Stevens Johnson Syndrome or Toxic Epidermal Necrolysis reported to a Vietnamese national adverse event registry between 2010-2015, the major causes were carbamazepine [n=25], acetaminophen [22], allopurinol [15], cephalosporins [15], HDS [7], SMZ/TMP [6], rifampicin [5], ethambutol [4], streptomycin [4], colchicine [4], valproate [3] and meloxicam [3]).</italic></p></annotation></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Meloxicam.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(meloxicam/AE+NOT+clavulanic+acid)+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Meloxicam: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=meloxicam">Trials on Meloxicam: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

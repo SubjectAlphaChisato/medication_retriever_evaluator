@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Lisinopril" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Lisinopril</book-part-id>
+      <title-group>
+        <title>Lisinopril</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>11</day>
+          <month>2</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Liraglutide" document-type="chapter">Liraglutide</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Lithium" document-type="chapter">Lithium</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Lisinopril.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Lisinopril.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Lisinopril is an angiotensin-converting enzyme (ACE) inhibitor widely used in the therapy of hypertension and heart failure. Lisinopril is associated with a low rate of transient serum aminotransferase elevations and has been linked to rare instances of acute liver injury that can be severe and even fatal.</p>
+        </sec>
+        <sec id="Lisinopril.Background">
+          <title>Background</title>
+          <p>Lisinopril (lye sin' oh pril) was the third ACE inhibitor to be approved for use in the United States and is still widely used for therapy of hypertension and heart failure. Like other ACE inhibitors, lisinopril inhibits the conversion of angiotensin I, a relatively inactive molecule, to angiotensin II which is the major mediator of vasoconstriction and volume expansion induced by the renin-angiotensin system. Other enzymes besides that which converts angiotensin I to II may also be inhibited, which may account for some of the side effects of the ACE inhibitors. Lisinopril was approved for use in the United States in 1987 and is currently one of the most widely prescribed medications in clinical practice, with more than 60 million prescriptions filled yearly. Current indications include hypertension, heart failure and to improve survival after acute myocardial infarction. Lisinopril is available in 2.5, 5, 10, 20, 30 and 40 mg tablets in many generic forms and under the trade names Prinivil and Zestril. The recommended initial dose in adults is 5 to 10 mg daily with subsequent adjustments based upon blood pressure response and tolerance. The average maintenance dose for hypertension is 20 to 40 mg once daily; the maximum recommended dose is 80 mg daily. Lower doses are recommended for heart failure and for chronic therapy after an acute myocardial infarction. Lisinopril is also available in fixed combinations with hydrochlorothiazide (generically and as Prinzide and Zestoretic). Common side effects include dizziness, fatigue, headache, cough, gastrointestinal upset and skin rash.</p>
+        </sec>
+        <sec id="Lisinopril.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Lisinopril, like other ACE inhibitors, has been associated with a low rate of serum aminotransferase elevations (&#x0003c;2%) that, in controlled trials, was no higher than with placebo therapy. These elevations were transient and rarely required dose modification. Rare instances of clinically apparent acute liver injury have been reported in association with lisinopril therapy. Despite its widescale use, fewer than a dozen cases of clinically apparent acute liver injury attributed to lisinopril therapy have been published. The latency to onset has ranged from 2 to 48 weeks and the pattern of serum enzyme elevations has been hepatocellular, in contrast to the typical cholestatic pattern that occurs wtih other ACE inhibitors. Immunoallergic manifestations (rash, fever, eosinophilia) are infrequent and most patients do not develop autoantibodies. Several reported cases were associated with signs of acute liver failure and deaths from complications have been reported.</p>
+          <p>Likelihood score: B (likely but rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Lisinopril.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The cause of the minor serum aminotransferase elevations associated with lisinopril therapy is not known. The cases of clinically apparent liver injury due to lisinopril are idiosyncratic and likely due to a reaction to a minor metabolite. Lisinopril has minimal hepatic metabolism.</p>
+        </sec>
+        <sec id="Lisinopril.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Most instances of acute liver injury reported with lisinopril use have been self limited, but there have been reports of acute liver failure and death. Patients with severe lisinopril induced acute liver injury should avoid use of other ACE inhibitors, although cross sensitivity to liver injury among the members of this class of agents has rarely been shown and, in some cases of lisinopril associated liver injury, patients had previously tolerated other ACE inhibitors.</p>
+          <p>References to the safety and potential hepatotoxicity of lisinopril are given in the Overview section on the Angiotensin-Converting Enzyme (ACE) Inhibitors.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntihypertensiveAgen">Antihypertensive Agents</related-object>, <related-object source-id="livertox" document-id="ACEinibitors">Angiotensin-Converting Enzyme Inhibitors</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Lisinopril.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Lisinopril.Case_1._Acute_hepatitis_due_t">
+          <title>Case 1. Acute hepatitis due to lisinopril.</title>
+          <p>[Modified from: Larrey D, Babany G, Bernuau J, Andrieux J, DeGott C, Pessayre D, Benhamou J-P. Fulminant hepatitis after lisinopril administration. Gastroenterology 1990; 99: 1832-3.] <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/2172073">PubMed Citation</ext-link>]</p>
+          <p>A 55 year old man developed fever and myalgias 1 week and jaundice 2 weeks after switching antihypertensive medications from enalapril (given for 1.5 years) to lisinopril (20 mg daily). He had no history of liver disease, alcohol abuse or risk factors for viral hepatitis. He was also taking bisoprolol (a beta blocker, for 5 months) and furosemide (a diuretic, for one year) for blood pressure control. Physical examination was normal except for jaundice. Laboratory tests showed a total bilirubin of 18.5 mg/dL, ALT 2510 U/L, and prothrombin index of 90% (Table: alkaline phosphatase levels not given). Furosemide was stopped, but lisinopril and bisoprolol were continued for another 3 weeks during which his jaundice worsened and he developed ascites, at which point he was admitted and all medications were stopped. His serum bilirubin had risen to 40.3 mg/dL and prothrombin index had fallen to 20%. He had no eosinophilia and tests for hepatitis A, B and C markers were negative. Serum antinuclear antibody was negative, but smooth muscle antibodies were reactive (1:100). A liver biopsy showed severe hepatic necrosis (largely centrolobular: zone 3) and marked cholestasis with no fibrosis. He developed severe jaundice, mild hepatic encephalopathy and persistent prolongation of prothrombin time compatible with acute liver failure. Approximately 6 weeks after onset, he began to recover spontaneously with decrease in serum bilirubin, improvement in prothrombin index, and resolution of hepatic encephalopathy. However, he developed an acute abdominal crisis and underwent emergency surgery which showed a perforated duodenal ulcer. Postoperatively, he developed septicemia and gastrointestinal bleeding and died approximately 2 months after initial presentation.</p>
+          <sec id="Lisinopril.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Lisinopril.T1" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Lisinopril (20 mg daily)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Hepatocellular</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">5+ (hepatic failure, death)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">One week to symptoms, 2 weeks to jaundice</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">None</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">Furosemide, bisoprolol, enalapril previously</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Lisinopril.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Lisinopril.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Lisinopril.T2_1_1_1_1" rowspan="1" colspan="1">Time After<break/> Starting</th>
+                    <th id="hd_h_Lisinopril.T2_1_1_1_2" rowspan="1" colspan="1">Time After<break/> Stopping</th>
+                    <th id="hd_h_Lisinopril.T2_1_1_1_3" rowspan="1" colspan="1">ALT<break/> (U/L)</th>
+                    <th id="hd_h_Lisinopril.T2_1_1_1_4" rowspan="1" colspan="1">Protime</th>
+                    <th id="hd_h_Lisinopril.T2_1_1_1_5" rowspan="1" colspan="1">Bilirubin<break/> (mg/dL)</th>
+                    <th id="hd_h_Lisinopril.T2_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_1" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_3" rowspan="1" colspan="1">2510</td>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_4" rowspan="1" colspan="1">90%</td>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_5" rowspan="1" colspan="1">18.5</td>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_6" rowspan="1" colspan="1">Furosemide stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_1" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_2" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_3" rowspan="1" colspan="1">2561</td>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_4" rowspan="1" colspan="1">20%</td>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_5" rowspan="1" colspan="1">40.3</td>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_6" rowspan="1" colspan="1">Lisinopril stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_1" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_2" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_3" rowspan="1" colspan="1">520</td>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_4" rowspan="1" colspan="1">30%</td>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_5" rowspan="1" colspan="1">37.4</td>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_1" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_2" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_3" rowspan="1" colspan="1">97</td>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_4" rowspan="1" colspan="1">42%</td>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_5" rowspan="1" colspan="1">70.1</td>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_1" rowspan="1" colspan="1">11 weeks</td>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_2" rowspan="1" colspan="1">9 weeks</td>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_3" rowspan="1" colspan="1">52</td>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_4" rowspan="1" colspan="1">60%</td>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_5" rowspan="1" colspan="1">13.9</td>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_6" rowspan="1" colspan="1">Emergency surgery</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_1 hd_h_Lisinopril.T2_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;40</bold>
+</td>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003e;90%</bold>
+</td>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Lisinopril.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Lisinopril.Comment">
+            <title>Comment</title>
+            <p>The patient developed an acute hepatitis like syndrome between 1 and 2 weeks after switching his ACE inhibitor therapy of hypertension from enalapril to lisinopril. Lisinopril was, unfortunately, continued even after he developed jaundice and his liver injury worsened as shown by progressive cholestasis and signs and symptoms of hepatic failure. Once lisinopril was stopped, recovery began but was delayed and slow, and he suffered an acute and fatal complication while recovering. While rare, instances of acute liver failure have been described with the use of ACE inhibitors, largely those in wide use such as lisinopril, enalapril and captopril. The clinical presentation with acute liver failure is much less common than the typical cholestatic pattern of drug induced liver injury due to ACE inhibitors, but both patterns are exceedingly rare.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Lisinopril.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Lisinopril.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Lisinopril &#x02013; Generic, Prinivil&#x000ae;, Zestril&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Angiotensin-Converting Enzyme Inhibitors</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Lisinopril">COMPLETE LABELING</ext-link>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Lisinopril.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Lisinopril.T3" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Lisinopril.T3_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Lisinopril.T3_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Lisinopril.T3_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Lisinopril.T3_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Lisinopril.T3_1_1_1_1" rowspan="1" colspan="1">Lisinopril</td>
+                <td headers="hd_h_Lisinopril.T3_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135013705">83915-83-7</ext-link>
+</td>
+                <td headers="hd_h_Lisinopril.T3_1_1_1_3" rowspan="1" colspan="1">C21-H31-N3-O5.2H2-O</td>
+                <td headers="hd_h_Lisinopril.T3_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Lisinopril_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Lisinopril Chemical Structure</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Lisinopril.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Lisinopril/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Lisinopril: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Lisinopril">Trials on Lisinopril: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Minoxidil" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Minoxidil</book-part-id>
+      <title-group>
+        <title>Minoxidil</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>28</day>
+          <month>1</month>
+          <year>2020</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Minocycline" document-type="chapter">Minocycline</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Mirabegron" document-type="chapter">Mirabegron</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Minoxidil.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Minoxidil.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Minoxidil is an antihypertensive agent that is used largely for patients with severe and refractory hypertension not responding to conventional therapies. Minoxidil is also used topically to treat male pattern baldness. Despite its use for many years, minoxidil has not been convincingly linked to cases of clinically apparent liver injury.</p>
+        </sec>
+        <sec id="Minoxidil.Background">
+          <title>Background</title>
+          <p>Minoxidil (min ox' i dil) is one of the first antihypertensive agents developed for use in humans. Minoxidil is activated in the liver and acts to relax vascular smooth muscle by opening cell surface potassium channels causing an efflux of potassium, hyperpolarization and relaxation of smooth muscle cells. The increased vasodilation caused by minoxidil can result in a reflex increase in cardiac output and sodium retention for which reasons it is not recommended as monotherapy or as a first line agent for hypertension. Minoxidil was approved for use in the United States in 1979 and continues to be used for treatment of severe and refractory hypertension, usually in combination with beta blockers and diuretics. Minoxidil is available in tablets of 2.5 and 10 mg in generic forms and under the brand name Loniten. The usual initial dose in adults is 2.5 to 5 mg once daily, with subsequent adjustment based upon tolerance and clinical effect to a typical maintenance dose is 10 to 40 mg daily. Minoxidil has many side effects including sodium retention, edema, headache, nausea, breast tenderness, gynecomastia, hypertrichosis and rash. The effect on hair growth has led to the use of topical minoxidil to treat male pattern baldness. Various topical forms of minoxidil (solutions, foams) with concentrations of 2% to 7% are available by prescription and over-the counter for hair growth, both in women and in men. These solutions have minor local side effects but systemic absorption is minimal.</p>
+        </sec>
+        <sec id="Minoxidil.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Serum aminotransferase elevations during oral minoxidil therapy are uncommon, but have been reported even with topical administration. Despite many decades of use, oral minoxidil has not been implicated in convincing cases of clinically apparent acute liver injury. Severe rash, toxic epidermal necrolysis and Stevens Johnson syndrome have been reported after minoxidil therapy (generally arising within 2 to 6 weeks of starting), but published cases have not been marked by concurrent hepatic injury.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Minoxidil.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>Minoxidil is metabolized by the liver, but has little effect on hepatic metabolism of other drugs. The reason for its lack of hepatotoxicity is not known.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntihypertensiveAgen" document-type="chapter">Antihypertensive Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Minoxidil.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Minoxidil &#x02013; Generic, Loniten&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antihypertensive Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Minoxidil">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Minoxidil.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Minoxidil.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Minoxidil.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Minoxidil.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Minoxidil.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Minoxidil.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Minoxidil.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Minoxidil</td>
+                <td headers="hd_h_Minoxidil.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135002087">38304-91-5</ext-link>
+</td>
+                <td headers="hd_h_Minoxidil.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C9-H15-N5-O</td>
+                <td headers="hd_h_Minoxidil.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="135002087" document-id-type="sid" document-type="summary" object-id="135002087" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Minoxidil.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 28 January 2020</p>
+        <ref-list id="Minoxidil.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Minoxidil.REF.zimmerman.1999">
+            <mixed-citation publication-type="book">Zimmerman HJ. Drugs used in cardiovascular disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 639-71.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; mentions that topical minoxidil has been associated with liver injury).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Minoxidil.REF.de_marzio.2013">
+            <mixed-citation publication-type="book">De Marzio DH, Navarro VJ. Antihypertensives. Hepatotoxicity of cardiovascular and antidiabetic drugs: antihypertensives. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 522-5.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of antihypertensive drugs, minoxidil is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Minoxidil.REF.eschenhagen.2018">
+            <mixed-citation publication-type="book">Eschenhagen T. Treatment of hypertension. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 507-26.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics; minoxidil is metabolized in the liver to its active molecule, which relaxes vascular smooth muscle by activating the ATP-modulated potassium channel).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Minoxidil.REF.disantis.1981.1515">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>DiSantis</surname><given-names>DJ</given-names></name>
+<name name-style="western"><surname>Flanagan</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Minoxidil-induced Stevens-Johnson syndrome.</article-title>
+              <source>Arch Intern Med</source>
+              <year>1981</year>
+              <volume>141</volume>
+              <fpage>1515</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(35 year old man developed rash 17 days after starting minoxidil and 12 days after starting allopurinol followed by fever and desquamation, improving on stopping and with corticosteroids; on restarting minoxidil he developed rash and fever 3 days later; no mention of liver involvement).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7283564</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Minoxidil.REF.colamarino.1990.256">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Colamarino</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Dubost</surname><given-names>JJ</given-names></name>
+<name name-style="western"><surname>Sauvezie</surname><given-names>B</given-names></name>
+</person-group>
+              <article-title>Polymyalgia and minoxidil.</article-title>
+              <source>Ann Intern Med</source>
+              <year>1990</year>
+              <volume>113</volume>
+              <fpage>256</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(4 men, ages 27-48 years, developed fatigue, muscle aches, anorexia and low grade fever 2 to 14 months after starting topical minoxidil, 3 had transient liver enzyme elevations, but none had jaundice and abnormalities resolved rapidly upon withdrawal).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2375560</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Minoxidil.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Davern</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Serrano</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rochon</surname><given-names>J</given-names></name>
+<collab>Drug Induced Liver Injury Network (DILIN)</collab>
+</person-group>
+              <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, antihypertensive agents accounted for 5% of cases and included methyldopa, irbesartan, amlodipine, lisinopril and hydralazine; no case was attributed to minoxidil).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Minoxidil.REF.levi.2009.e297">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Levi</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bastuji-Garin</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Mockenhaupt</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Roujeau</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Flahault</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Kelly</surname><given-names>JP</given-names></name>
+<name name-style="western"><surname>Martin</surname><given-names>E</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Medications as risk factors of Stevens-Johnson syndrome and toxic epidermal necrolysis in children: a pooled analysis.</article-title>
+              <source>Pediatrics</source>
+              <year>2009</year>
+              <volume>123</volume>
+              <fpage>e297</fpage>
+              <lpage>304</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Pooled analysis of 80 cases of Stevens Johnson syndrome in children from 2 multicenter international case control studies did not confirm an association with medication use).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19153164</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Minoxidil.REF.callen.2007.91">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Callen</surname><given-names>EC</given-names></name>
+<name name-style="western"><surname>Church</surname><given-names>CO</given-names></name>
+<name name-style="western"><surname>Hernandez</surname><given-names>CL</given-names></name>
+<name name-style="western"><surname>Thompson</surname><given-names>ED</given-names></name>
+</person-group>
+              <article-title>Stevens-Johnson syndrome associated with oral minoxidil: a case report.</article-title>
+              <source>J Nephrol</source>
+              <year>2007</year>
+              <volume>20</volume>
+              <fpage>91</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(50 year old man developed oral blisters 1 week after starting minoxidil; liver tests were normal).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17347980</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Minoxidil.REF.karaoui.2009.460">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Karaoui</surname><given-names>LR</given-names></name>
+<name name-style="western"><surname>Chahine-Chakhtoura</surname><given-names>C</given-names></name>
+</person-group>
+              <article-title>Fatal toxic epidermal necrolysis associated with minoxidil.</article-title>
+              <source>Pharmacotherapy</source>
+              <year>2009</year>
+              <volume>29</volume>
+              <fpage>460</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(69 year old woman developed severe rash 11 days after starting minoxidil with bullae and death 2 weeks later; liver tests were normal on admission).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19323621</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Minoxidil.REF10">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for hypertension.</article-title>
+              <source>Treat Guidel Med Lett</source>
+              <year>2009</year>
+              <volume>7</volume>
+              <fpage>1</fpage>
+              <lpage>10</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Brief overview of currently available drugs for hypertension with guidelines on their use and information on prices and toxicities; minoxidil is considered a direct vasodilator and should be given with a beta blocker or centrally acting drug to minimize reflex increase in heart rate and diuretic to avoid sodium retention; it can also cause hirsutism).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19107095</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Minoxidil.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Bergmann</surname><given-names>OM</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Kvaran</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Olafsson</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, none of which were attributed to minoxidil).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Minoxidil.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hern&#x000e1;ndez</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bessone</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>di Pace</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Brahm</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zapata</surname><given-names>R, A</given-names></name>
+<name name-style="western"><surname>Chirino</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America: an analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 176 reports of drug induced liver injury from Latin America published between 1996 and 2012, none were attributed to minoxidil).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Minoxidil.REF.chalasani.2015">
+            <mixed-citation publication-type="other">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. e7. PMID: 25754159<annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 39 [4.3%] were attributed to antihypertensive agents, but none specifically to minoxidil).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Minoxidil.REF14">
+            <element-citation publication-type="journal">
+              <article-title>Topical minoxidil: accidental poisoning in children.</article-title>
+              <source>Prescrire Int</source>
+              <year>2015</year>
+              <volume>24</volume>
+              <issue>159</issue>
+              <fpage>97</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(2 year old girl swallowed 100 mg of minoxidil contained in her father&#x02019;s 2% solution for hair growth, and developed flushing, nausea, tachycardia and hypotension requiring specific interventions, ultimately resolving; no mention of liver injury).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25941701</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Minoxidil.REF15">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for hypertension.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2017</year>
+              <volume>59</volume>
+              <issue>1516</issue>
+              <fpage>41</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of the mechanisms of action, clinical efficacy, toxicities and costs of drugs for hypertension reports that minoxidil is very potent and rarely failing to lower blood pressure, but currently reserved for severe and refractory cases of hypertension, side effects being hirsutism, tachycardia and fluid retention; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">28263286</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Minoxidil.REF.kassai.2019.170">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kassai</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Bouy&#x000e9;</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Gilbert-Dussardier</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Godart</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Thambo</surname><given-names>JB</given-names></name>
+<name name-style="western"><surname>Rossi</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Cochat</surname><given-names>P</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Minoxidil versus placebo in the treatment of arterial wall hypertrophy in children with Williams Beuren Syndrome: a randomized controlled trial.</article-title>
+              <source>BMC Pediatr</source>
+              <year>2019</year>
+              <volume>19</volume>
+              <fpage>170</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 17 children with Williams Beuren Syndrome treated with minoxidil or placebo for 18 months, there were no severe adverse events; ALT elevations and hepatotoxicity were not mentioned).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31138170</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Minoxidil.REF.jimenezcauhe.2019.648">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Jimenez-Cauhe</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Saceda-Corralo</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Rodrigues-Barata</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Hermosa-Gelbard</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Moreno-Arrones</surname><given-names>OM</given-names></name>
+<name name-style="western"><surname>Fernandez-Nieto</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Va&#x000f1;o-Galvan</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Effectiveness and safety of low-dose oral minoxidil in male androgenetic alopecia.</article-title>
+              <source>J Am Acad Dermatol</source>
+              <year>2019</year>
+              <volume>81</volume>
+              <fpage>648</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Retrospective analysis of 41 men treated with low dose minoxidil for 6 months found no serious adverse events; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31054970</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Minoxidil.REF.blumepeytavi.2019.215">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Blume-Peytavi</surname><given-names>U</given-names></name>
+<name name-style="western"><surname>Issiakhem</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Gautier</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Kottner</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Wigger-Alberti</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Fischer</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Hoffmann</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Efficacy and safety of a new 5% minoxidil formulation in male androgenetic alopecia: A randomized, placebo-controlled, double-blind, noninferiority study.</article-title>
+              <source>J Cosmet Dermatol</source>
+              <year>2019</year>
+              <volume>18</volume>
+              <fpage>215</fpage>
+              <lpage>20</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(220 men with male pattern baldness were treated with 2 formulations of 5% minoxidil or placebo topical applications to the scalp twice daily for 16 weeks, adverse events included pruritus [3.2%], skin burning [1.4%] and exfoliation [1.4%] but no serious adverse events occurred; no mention of ALT elevations or hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">29659116</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Minoxidil.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Minoxidil/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Minoxidil: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Minoxidil">Trials on Minoxidil: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

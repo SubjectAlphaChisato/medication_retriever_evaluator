@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Buspirone" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Buspirone</book-part-id>
+      <title-group>
+        <title>Buspirone</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>11</day>
+          <month>9</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Burosumab" document-type="chapter">Burosumab</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Busulfan" document-type="chapter">Busulfan</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Buspirone.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Buspirone.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Buspirone is a psychoactive drug used for management of general anxiety disorders and alleviation of the symptoms of anxiety. Despite wide scale use, it is an infrequent cause of serum enzyme elevations and has not been linked to instances of clinically apparent liver injury with jaundice.</p>
+        </sec>
+        <sec id="Buspirone.Background">
+          <title>Background</title>
+          <p>Buspirone (bue spye' rone) is an azapirone antianxiety medication that has little or no similarity to the benzodiazepines or barbiturates in its structure or mechanism of action. Buspirone appears to interact with dopamine and serotonin receptors, but its precise mechanism of action in alleviating anxiety is not known. Buspirone was approved for use in the United States in 1986. Current indications are for the treatment of generalized anxiety disorder and amelioration of the symptoms of anxiety. It has been used off label for depression (often in combination with other agents) and as treatment for substance abuse, posttraumatic stress syndrome, bruxism, tardive dyskinesia and other psychiatric and neurological conditions, but its efficacy in these situations has not been proven. Buspirone is available in tablets of 5, 10, 15 and 30 mg in several generic forms and under the brand name Buspar. Typical doses are 15 to 30 mg daily in divided doses. Side effects may include drowsiness, headache, nausea, abdominal discomfort and rash.</p>
+        </sec>
+        <sec id="Buspirone.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Buspirone has been associated with infrequent serum aminotransferase elevations, but has not been linked to instances of clinically apparent liver injury in the published literature. Indeed, buspirone is often used as a control, noncytotoxic agent in assessment of other psychotropic drugs in vitro and in vivo. Buspirone is, nevertheless, metabolized in the liver by the P450 system (CYP 3A4) and has the potential of causing drug-drug interactions.</p>
+          <p>Likelihood score: E (unlikely cause of clinically apparent liver injury).</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Sedatives_Hypnotics">Sedatives and Hypnotics</related-object>, Miscellaneous</p>
+        </sec>
+      </sec>
+      <sec id="Buspirone.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Buspirone.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Buspirone &#x02013; Generic, Buspar&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Sedatives and Hypnotics</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Buspirone">COMPLETE LABELING</ext-link>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Buspirone.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Buspirone.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Buspirone.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Buspirone.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Buspirone.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Buspirone.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Buspirone.T1_1_1_1_1" rowspan="1" colspan="1">Buspirone</td>
+                <td headers="hd_h_Buspirone.T1_1_1_1_2" rowspan="1" colspan="1">36505-84-7</td>
+                <td headers="hd_h_Buspirone.T1_1_1_1_3" rowspan="1" colspan="1">C21-H31-N5-O2</td>
+                <td headers="hd_h_Buspirone.T1_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Buspirone_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Buspirone Chemical Structure</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Buspirone.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 11 September 2017</p>
+        <ref-list id="Buspirone.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Buspirone.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Unconventional drugs. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 731-4.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; buspirone is not discussed).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Buspirone.R2">
+            <mixed-citation publication-type="other">Larrey D, Ripault M-P. Anxiolytic agents. Hepatotoxicity of psychotropic drugs and drugs of abuse. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 455-6.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of hypnotics and sedatives discusses benzodiazepines, buspirone and valerian all of which have been linked to rare cases of liver injury).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Buspirone.R3">
+            <mixed-citation publication-type="other">Mihic SJ, Harris RA. Hypnotics and sedatives. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 457-80.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Buspirone.R4">
+            <mixed-citation publication-type="journal">Jacobson AF, Dominguez RA, Goldstein BJ, Steinbook RM. Comparison of buspirone and diazepam in generalized anxiety disorder. Pharmacotherapy 1985; 5: 290-6. <annotation><p><italic toggle="yes">(Controlled trial of buspirone vs diazepam in 66 patients with anxiety disorders found similar efficacy and fewer side effects with buspirone and "no significant differences in either groups in final laboratory assessments").</italic></p></annotation><pub-id pub-id-type="pmid">2866493</pub-id></mixed-citation>
+          </ref>
+          <ref id="Buspirone.R5">
+            <mixed-citation publication-type="journal">Newton RE, Marunycz JD, Alderdice MT, Napoliello MJ. Review of the side-effect profile of buspirone. Am J Med 1986; 80 (3B): 17-21. <annotation><p><italic toggle="yes">(Analysis of side effects among 984 patients with general anxiety disorders treated with buspirone in controlled trials; side effects occurring more often with buspirone than placebo included dizziness [9% vs 2%], headache [7% vs 2%], nervousness, diarrhea, paresthesias, excitation and sweating; laboratory test results were not discussed).</italic></p></annotation><pub-id pub-id-type="pmid">2870641</pub-id></mixed-citation>
+          </ref>
+          <ref id="Buspirone.R6">
+            <mixed-citation publication-type="journal">Robinson D, Napoliello MJ, Schenk J. The safety and usefulness of buspirone as an anxiolytic drug in elderly versus young patients. Clin Ther 1988; 10: 740-6. <annotation><p><italic toggle="yes">(Open label postmarketing study of buspirone in 6000 patients; side effects were reported in 6-7% of patients, but no laboratory results were reported).</italic></p></annotation><pub-id pub-id-type="pmid">3219687</pub-id></mixed-citation>
+          </ref>
+          <ref id="Buspirone.R7">
+            <mixed-citation publication-type="journal">Feighner JP, Cohn JB. Analysis of individual symptoms in generalized anxiety--a pooled, multistudy, double-blind evaluation of buspirone. Neuropsychobiology1989; 21 (3): 124-30. <annotation><p><italic toggle="yes">(Pooled data on 427 patients with anxiety disorders treated with buspirone [10 to 60 mg daily] for 4 weeks; "the beneficial effects of buspirone were not compromised by any significant side effects").</italic></p></annotation><pub-id pub-id-type="pmid">2615929</pub-id></mixed-citation>
+          </ref>
+          <ref id="Buspirone.R8">
+            <mixed-citation publication-type="journal">Rakel RE. Long-term buspirone therapy for chronic anxiety: a multicenter international study to determine safety. South Med J 1990; 83: 194-8. <annotation><p><italic toggle="yes">(Among 424 patients with chronic anxiety treated with buspirone for at least 6 months, side effects were mild to moderate in severity and "clinical laboratory tests, including hematologic and hepatic indices, revealed no clinically significant changes attributable to buspirone").</italic></p></annotation><pub-id pub-id-type="pmid">2406933</pub-id></mixed-citation>
+          </ref>
+          <ref id="Buspirone.R9">
+            <mixed-citation publication-type="journal">Sheehan DV, Raj AB, Harnett-Sheehan K, Soto S, Knapp E. The relative efficacy of high-dose buspirone and alprazolam in the treatment of panic disorder: a double-blind placebo-controlled study. Acta Psychiatr Scand 1993; 88: 1-11. <annotation><p><italic toggle="yes">(Controlled trial of buspirone vs alprazolam vs placebo in 92 patients with panic disorders identified no changes in laboratory test results in buspirone treated subjects).</italic></p></annotation><pub-id pub-id-type="pmid">8372689</pub-id></mixed-citation>
+          </ref>
+          <ref id="Buspirone.R10">
+            <mixed-citation publication-type="journal">Sramek JJ, Frackiewicz EJ, Cutler NR. Efficacy and safety of two dosing regimens of buspirone in the treatment of outpatients with persistent anxiety. Clin Ther 1997; 19: 498-506. <annotation><p><italic toggle="yes">(Controlled trial of 2 doses of buspirone in 137 patients with anxiety disorders; common side effects were dizziness, headache, nausea, diarrhea and somnolence; there were no differences in laboratory test results in the treated patients).</italic></p></annotation><pub-id pub-id-type="pmid">9220214</pub-id></mixed-citation>
+          </ref>
+          <ref id="Buspirone.R11">
+            <mixed-citation publication-type="journal">Sramek JJ, Hong WW, Hamid S, Nape B, Cutler NR. Meta-analysis of the safety and tolerability of two dose regimens of buspirone in patients with persistent anxiety. Depress Anxiety 1999; 9: 131-4. <annotation><p><italic toggle="yes">(Pooled analysis of safety in studies of two doses of buspirone found no differences in laboratory tests and no mention of clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">10356651</pub-id></mixed-citation>
+          </ref>
+          <ref id="Buspirone.R12">
+            <mixed-citation publication-type="journal">McRae-Clark AL, Carter RE, Killeen TK, Carpenter MJ, Wahlquist AE, Simpson SA, Brady KT. A placebo-controlled trial of buspirone for the treatment of marijuana dependence. Drug Alcohol Depend 2009; 105: 132-8. <annotation><p><italic toggle="yes">(Controlled trial of 12 weeks of buspirone vs placebo in 50 patients with marijuana dependence found no serious adverse events, but no laboratory test results reported).</italic></p></annotation><pub-id pub-id-type="pmid">19699593</pub-id></mixed-citation>
+          </ref>
+          <ref id="Buspirone.R13">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <italic toggle="yes"> (Among 300</italic><annotation><p><italic toggle="yes">cases of drug induced liver disease in the US collected from 2004 to 2008, 14 were attributed to antidepressants, including 6 to duloxetine, 3 atomoxetine, 2 fluoxetine, 2 bupropion, and 1 sertraline, but none to buspirone).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Buspirone.R14">
+            <mixed-citation publication-type="journal">Ravindran LN, Stein MB. The pharmacologic treatment of anxiety disorders: a review of progress. J Clin Psychiatry 2010; 71: 839-54. <annotation><p><italic toggle="yes">(Review of the use of medications for anxiety disorders including tricyclic antidepressants, MAO inhibitors, SSRIs, benzodiazepines and buspirone states that buspirone has good tolerability and low potential for dependence but is of limited efficacy).</italic></p></annotation><pub-id pub-id-type="pmid">20667290</pub-id></mixed-citation>
+          </ref>
+          <ref id="Buspirone.R15">
+            <mixed-citation publication-type="journal">Reinhold JA, Mandos LA, Rickels K, Lohoff FW. Pharmacological treatment of generalized anxiety disorder. Expert Opin Pharmacother 2011; 12: 2457-67. <annotation><p><italic toggle="yes">(Review of pharmacological therapy of anxiety disorders, the first line agents being the SSRIs and SNRIs; buspirone has comparable but slightly weaker efficacy compared to benzodiazepines; no mention of adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">21950420</pub-id></mixed-citation>
+          </ref>
+          <ref id="Buspirone.R16">
+            <mixed-citation publication-type="journal">Loane C, Politis M. Buspirone: what is it all about? Brain Res 2012; 1461: 111-8. <annotation><p><italic toggle="yes">(Review of efficacy and safety of buspirone and its use in other conditions such as depression, ataxia, dyskinesia and obsessive compulsive disorder; no discussion of adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">22608068</pub-id></mixed-citation>
+          </ref>
+          <ref id="Buspirone.R17">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America: an analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes">(Among 176 reports of drug induced liver injury from Latin America published between 1996 and 2012, none were attributed to buspirone).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Buspirone.R18">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, none were attributed to buspirone or other sedative or antianxiety medications).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Buspirone.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Buspirone/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Buspirone: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Buspirone">Trials on Buspirone: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

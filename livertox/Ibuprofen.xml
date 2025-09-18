@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Ibuprofen" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Ibuprofen</book-part-id>
+      <title-group>
+        <title>Ibuprofen</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>16</day>
+          <month>4</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Ibrutinib" document-type="chapter">Ibrutinib</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Idelalisib" document-type="chapter">Idelalisib</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Ibuprofen.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Ibuprofen.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Ibuprofen is a commonly used nonsteroidal antiinflammatory (NSAID) drug which is available both by prescription and over-the-counter. Ibuprofen is considered to be among the safest NSAIDs and is generally well tolerated but can, nevertheless, rarely cause clinically apparent and serious acute liver injury.</p>
+        </sec>
+        <sec id="Ibuprofen.Background">
+          <title>Background</title>
+          <p>Ibuprofen (eye" bue proe' fen) is a propionic acid NSAID similar to ketoprofen and naproxen. Like other NSAIDs, ibuprofen is a potent inhibitor of cellular cyclooxygenases (Cox-1 and Cox-2) which blocks the formation of prostaglandin, prostacyclin and thromboxane products, important mediators of inflammation and pain. Ibuprofen has analgesic as well as antipyretic and antiinflammatory activities. Ibuprofen was approved for use by prescription in the United States in 1974 and was made available over-the-counter in 1984. Currently, more than 20 million prescriptions for ibuprofen are filled yearly, a number that does not include its vast over-the-counter use. Ibuprofen is used for treatment of mild-to-moderate forms of joint pain and arthritis from trauma, osteoarthritis or rheumatoid arthritis. Ibuprofen is also active against other forms of pain including headache and dysmenorrhea. The recommended dose for chronic arthritis in adults is 400 to 800 mg orally three to four times daily, whereas intermittent dosing with lesser amounts is used for headache and pain. Ibuprofen is available both by prescription and over-the-counter in multiple generic formulations, either alone or in combination with other analgesics, antihistamines or anticholinergic agents usually in doses of 200, 400, 600, or 800 mg. Pediatric formulations are also available. Common brand names for ibuprofen include Advil, Motrin, Nuprin, Rufen and Trendar. Ibuprofen is also found in many combination formulations for dysmenorrhea, headache, allergies, upper respiratory tract symptoms and other pain syndromes under names such as Dristan, Haltran, and Aches-N-Pain. Side effects are not common, but may include headache, dizziness, somnolence, dyspepsia, nausea, abdominal discomfort, heartburn, diarrhea, peripheral edema and hypersensitivity reactions.</p>
+        </sec>
+        <sec id="Ibuprofen.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Rates of serum aminotransferase elevations during low dose, chronic ibuprofen therapy are comparable to those that occur with placebo controls (0.4%). However, higher rates of ALT elevations occur with high, full doses of 2,400 to 3,200 mg daily (up to 16%). Generally, ALT elevations are mild and rarely above 100 U/L. Ibuprofen overdose (&#x0003e;5-10 grams) is characterized by onset of agitation and stupor 3 to 6 hours after ingestion, followed by coma, respiratory depression and lactic acidosis which can be fatal. Most cases of ibuprofen overdose, however, have not been accompanied by prominent liver injury or jaundice.</p>
+          <p>Idiosyncratic, clinically apparent liver injury due to ibuprofen is very rare (estimated to occur at a rate of 1.0-1.6 cases per 100,000 prescriptions). However, several convincing reports have been published of acute liver failure and death attributed to ibuprofen, usually after presentation with an immunoallergic-like reaction within days of starting (Cases 1 and 2). Some instances are associated with severe hypersensitivity reactions, such as Stevens Johnson syndrome or toxic epidermal necrolysis usually with a mixed or cholestatic pattern of liver injury. The time to onset is usually within a few days to 3 weeks of starting, rare cases arising after 3 to 6 weeks. Immunoallergic features are prominent (fever, rash, eosinophilia, facial edema, lymphadenopathy). Most cases are mild-to-moderate in severity and rapidly reversible on stopping ibuprofen. Rare instances of cholestatic liver injury due to ibuprofen were followed by severe, protracted cholestasis, vanishing bile duct syndrome and chronic liver failure (Case 3).</p>
+          <p>The appearance of clinically apparent liver injury during long term or chronic ibuprofen therapy has not been convincingly demonstrated. However, instances of asymptomtic flares of chronic hepatitis C have been reported after initiation of ibuprofen therapy with ALT levels rising to more than 1000 U/L and rapidly resolving with stopping.</p>
+          <p>Likelihood score: A (well known but rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Ibuprofen.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of ibuprofen induced liver injury is not completely known, but may be multi-factorial. The rapid onset suggests a toxic metabolic byproduct, while the hypersensitivity responses that accompany the liver injury point to an immuno-allergic reaction.</p>
+        </sec>
+        <sec id="Ibuprofen.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The severity of the liver injury from ibuprofen ranges from asymptomatic elevations in serum aminotransferase levels to acute cholestatic hepatitis to acute liver failure and the need for transplantation. Several instances of chronic vanishing bile duct syndrome have been attributed to ibuprofen use. In most instances, however, complete recovery is expected after stopping the drug and usually takes several months. Reexposure to ibuprofen usually causes recurrence of the hepatic injury and should be avoided. There is little information on cross sensitivity to liver injury among the various NSAIDs, but it is probably prudent to avoid the other propionic acid forms (naproxen, oxaprozin, fenoprofen among others) and to monitor patients carefully who start other forms of NSAIDs.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="NonsteroidalAntiinfl">Nonsteroidal Antiinflammatory Drugs</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Ibuprofen.CASE_REPORTS">
+        <title>CASE REPORTS</title>
+        <sec id="Ibuprofen.Case_1._Acute_hepatic_injury_a">
+          <title>Case 1. Acute hepatic injury attributed to ibuprofen.</title>
+          <p>[Modified from: Javier Rodr&#x000ed;guez-Gonz&#x000e1;les FJ, Montero JL, Puente J, et al. Orthotopic liver transplantation after subacute liver failure induced by therapeutic doses of ibuprofen. Am J Gastroenterol 2002; 97: 2476-7. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/12358284">PubMed Citation</ext-link>]</p>
+          <p>A 59 year old woman was treated with ibuprofen (600 mg three times daily) for hip pain and developed jaundice and fatigue 5 days later. Ibuprofen was continued and her symptoms progressed. She was admitted to a referral hospital and the medication was stopped. She had no fever or rash. She denied a history of previous liver disease, risk factors for viral hepatitis, alcohol abuse or exposure to any other medications. Laboratory results showed marked elevations in serum aminotransferase levels and serum bilirubin of 20 mg/dL (Table). Tests for hepatitis A, B and C and other viruses were negative as were autoantibodies. Ceruloplasmin levels were normal. She continued to do poorly and developed ascites and renal dysfunction. She underwent successful liver transplantation 10 weeks after onset. The liver showed submassive hepatic necrosis.</p>
+          <sec id="Ibuprofen.Key_Points1">
+            <title>Key Points</title>
+            <table-wrap id="Ibuprofen.T1" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Ibuprofen (1800 mg daily)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Hepatocellular (R=17.9)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">5+ (jaundice, hospitalization, hepatic failure, liver transplantation)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">5 days</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">Acute liver failure requiring liver transplantation</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">None</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Ibuprofen.Laboratory_Values1">
+            <title>Laboratory Values</title>
+            <table-wrap id="Ibuprofen.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Ibuprofen.T2_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Ibuprofen.T2_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Ibuprofen.T2_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Ibuprofen.T2_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Ibuprofen.T2_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Ibuprofen.T2_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_1" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_3 hd_h_Ibuprofen.T2_1_1_1_4 hd_h_Ibuprofen.T2_1_1_1_5" colspan="3" rowspan="1">Ibuprofen Started</td>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_1" rowspan="1" colspan="1">5 days</td>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_3 hd_h_Ibuprofen.T2_1_1_1_4 hd_h_Ibuprofen.T2_1_1_1_5" colspan="3" rowspan="1"/>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_6" rowspan="1" colspan="1">Jaundice and dark urine</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_1" rowspan="1" colspan="1">10 days</td>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_3" rowspan="1" colspan="1">2089</td>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_4" rowspan="1" colspan="1">737</td>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_5" rowspan="1" colspan="1">20.0</td>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_6" rowspan="1" colspan="1">Prothrombin time 61%</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_1" rowspan="1" colspan="1">24 days</td>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_2" rowspan="1" colspan="1">14 days</td>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_3" rowspan="1" colspan="1">2099</td>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_5" rowspan="1" colspan="1">30.0</td>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_6" rowspan="1" colspan="1">Prothrombin time 46%</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_1" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_2" rowspan="1" colspan="1">1 month</td>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_3" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_6" rowspan="1" colspan="1">Ascites and liver failure</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_1" rowspan="1" colspan="1">10 weeks</td>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_2" rowspan="1" colspan="1">2 months</td>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_3" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_6" rowspan="1" colspan="1">Liver transplantation</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_1 hd_h_Ibuprofen.T2_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;45</bold>
+</td>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;280</bold>
+</td>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Ibuprofen.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Ibuprofen.Comment1">
+            <title>Comment</title>
+            <p>Clinically apparent hepatic injury from ibuprofen is very rare, but it can be severe, and several cases of ibuprofen related acute liver failure leading to death or need for liver transplantation have been described. Typical in this case was the abrupt onset of injury within a week of starting ibuprofen. Continuation of the medication despite symptoms of jaundice may have contributed to the severity of this case. The absence of other causes for the acute liver failure and the appearance within days of starting ibuprofen in a patient on no other medication is in favor of the drug causing the injury. Nevertheless, acute liver failure of unknown cause (indeterminant etiology) occurs, and the ibuprofen therapy, which is common, may have been coincidental and ibuprofen may have been started because of the nonspecific symptoms that often arise early in the course of acute hepatitis.</p>
+          </sec>
+        </sec>
+        <sec id="Ibuprofen.Case_2._Stevens_Johnson_syndro">
+          <title>Case 2. Stevens Johnson syndrome and acute hepatic injury from ibuprofen.</title>
+          <p>[Modified from: Sternlieb P, Robinson RM. Stevens-Johnson syndrome plus toxic hepatitis due to ibuprofen. N Y State J Med 1978; 78: 1239-43. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/276660">PubMed Citation</ext-link>]</p>
+          <p>A 44 year old man was given ibuprofen (400 mg three times daily) for traumatic knee pain for 8 days, and within hours of restarting ibuprofen one week later developed skin rash, fever, and severe sore throat. He was seen in an emergency room and started on penicillin for suspected scarlatina, but throat cultures were negative and the patient continued to have high fevers and worsening rash. Two days later he was admitted with high fever, extensive rash with involvement of the conjunctiva, nose, mouth, and throat, cervical lymphadenopathy and jaundice. He had no history of viral hepatitis or high risk behaviors or alcohol abuse. Serum testing revealed serum bilirubin of 16.6 mg/dL, ALT 104 U/L, and alkaline phosphatase of 135 U/L (Table). Multiple bacterial cultures were negative. Tests for hepatitis B and mononucleosis were negative. He developed mild eosinophilia (5% and 12%). Because of the diagnosis of probable Stevens Johnson syndrome, he was started on corticosteroids. He improved slowly and corticosteroids were tapered and eventually discontinued 5 months later. Liver tests gradually improved and were normal during follow up.</p>
+          <sec id="Ibuprofen.Key_Points2">
+            <title>Key Points</title>
+            <table-wrap id="Ibuprofen.T3" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Ibuprofen (400 mg single dose; re-exposure)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Cholestatic (R=0.8)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">4+ (hospitalized, jaundice, severe Stevens Johnson syndrome)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">2 days</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">Approximately 6 months</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">Penicillin</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Ibuprofen.Laboratory_Values2">
+            <title>Laboratory Values</title>
+            <table-wrap id="Ibuprofen.T4" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Ibuprofen.T4_1_1_1_1" rowspan="1" colspan="1">Time After Restarting</th>
+                    <th id="hd_h_Ibuprofen.T4_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Ibuprofen.T4_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Ibuprofen.T4_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Ibuprofen.T4_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Ibuprofen.T4_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_1" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_3 hd_h_Ibuprofen.T4_1_1_1_4 hd_h_Ibuprofen.T4_1_1_1_5" colspan="3" rowspan="1">Single dose of Ibuprofen</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_1" rowspan="1" colspan="1">3 days</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_2" rowspan="1" colspan="1">3 days</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_3" rowspan="1" colspan="1">104</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_4" rowspan="1" colspan="1">135</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_5" rowspan="1" colspan="1">16.6</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_6" rowspan="1" colspan="1">Eosinophilia: 5%</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_1" rowspan="1" colspan="1">4 days</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_2" rowspan="1" colspan="1">4 days</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_3" rowspan="1" colspan="1">112</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_4" rowspan="1" colspan="1">177</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_5" rowspan="1" colspan="1">17.9</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_6" rowspan="1" colspan="1">Eosinophilia: 12%. Corticosteroids started</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_1" rowspan="1" colspan="1">7 days</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_2" rowspan="1" colspan="1">7 days</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_3" rowspan="1" colspan="1">441</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_4" rowspan="1" colspan="1">238</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_5" rowspan="1" colspan="1">14.1</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_6" rowspan="1" colspan="1">Corticosteroid therapy (iv)</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_1" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_2" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_3" rowspan="1" colspan="1">220</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_4" rowspan="1" colspan="1">150</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_5" rowspan="1" colspan="1">6.3</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_6" rowspan="1" colspan="1">Corticosteroid therapy (iv)</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_1" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_2" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_3" rowspan="1" colspan="1">140</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_4" rowspan="1" colspan="1">115</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_5" rowspan="1" colspan="1">3.1</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_6" rowspan="1" colspan="1">Switched to oral prednisone</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_1" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_2" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_3" rowspan="1" colspan="1">153</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_4" rowspan="1" colspan="1">76</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_5" rowspan="1" colspan="1">2.4</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_1" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_2" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_3" rowspan="1" colspan="1">97</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_4" rowspan="1" colspan="1">31</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_5" rowspan="1" colspan="1">1.7</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_1" rowspan="1" colspan="1">10 weeks</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_2" rowspan="1" colspan="1">10 weeks</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_3" rowspan="1" colspan="1">70</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_4" rowspan="1" colspan="1">26</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_5" rowspan="1" colspan="1">1.4</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_1" rowspan="1" colspan="1">3 months</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_2" rowspan="1" colspan="1">3 months</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_3" rowspan="1" colspan="1">45</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_4" rowspan="1" colspan="1">25</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_5" rowspan="1" colspan="1">0.9</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_6" rowspan="1" colspan="1">Prednisone stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_1" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_2" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_3" rowspan="1" colspan="1">31</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_4" rowspan="1" colspan="1">30</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_5" rowspan="1" colspan="1">1.0</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_1 hd_h_Ibuprofen.T4_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;45</bold>
+</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;45</bold>
+</td>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ibuprofen.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Ibuprofen.Comment2">
+            <title>Comment</title>
+            <p>Stevens Johnson syndrome is a known complication of many medications including the NSAIDS. Some cases are accompanied by hepatic injury, which is typically cholestatic and can be severe and prolonged. This patient required corticosteroid therapy for the hypersensitivity response which may or may not have benefited the hepatic injury. Full recovery required 4 to 6 months.</p>
+          </sec>
+        </sec>
+        <sec id="Ibuprofen.Case_3._Vanishing_bile_duct_sy">
+          <title>Case 3. Vanishing bile duct syndrome after acute cholestatic injury attributed to ibuprofen.</title>
+          <p>[Modified from: Alam I, Ferrell LD, Bass NM. Vanishing bile duct syndrome temporally associated with ibuprofen use. Am J Gastroenterol 1996; 91: 1626-30. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/8759674">PubMed Citation</ext-link>]</p>
+          <p>A 29 year old man with history of multiple allergies developed jaundice and abdominal pain 3 weeks after starting low doses of ibuprofen (600 mg/day) for nonspecific body aches. He was admitted with the suspected diagnosis of cholangitis, and ibuprofen was stopped. Serum bilirubin was 6.5 mg/dL and both ALT and alkaline phosphatase were moderately elevated (Table). He had no risk factors for viral hepatitis and denied alcohol abuse. Serologic tests for hepatitis A, B and C were negative as were autoantibodies including ANA and AMA. Ultrasound of the abdomen showed no evidence of gallstones or biliary obstruction. He was treated with antibiotics, but jaundice worsened and he developed pruritus. A liver biopsy showed intrahepatic cholestasis, marked portal inflammatory infiltrates with damage to and reduced numbers of bile ducts. Endoscopic retrograde cholangiopancreatography was normal. A course of corticosteroids had no apparent effect, and serum bilirubin levels continued to rise. A second liver biopsy 6 weeks after onset showed less portal inflammation, but worsening cholestasis and further decrease in numbers of small bile ducts. Therapy for pruritus included antihistamines, ursodiol and cholestyramine with only modest effect. A third liver biopsy at 6 months showed markedly reduced bile ducts ("ductopenia"). At 12 months, he continued to be deeply jaundiced and was symptomatic with marked pruritus and xanthomata. He was referred for liver transplantation.</p>
+          <sec id="Ibuprofen.Key_Points3">
+            <title>Key Points</title>
+            <table-wrap id="Ibuprofen.T5" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Ibuprofen (600 mg daily)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Initially mixed (R=4.5), later cholestatic (R=&#x0003c;1.0)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">4+ (jaundice, hospitalization, progressive hepatic failure)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">3 weeks</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">No. Jaundice and vanishing bile duct syndrome one year later</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">Allergy injections for six weeks before onset</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Ibuprofen.Laboratory_Values3">
+            <title>Laboratory Values</title>
+            <table-wrap id="Ibuprofen.T6" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Ibuprofen.T6_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Ibuprofen.T6_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Ibuprofen.T6_1_1_1_3" rowspan="1" colspan="1">AST* (U/L)</th>
+                    <th id="hd_h_Ibuprofen.T6_1_1_1_4" rowspan="1" colspan="1">Alk P* (U/L)</th>
+                    <th id="hd_h_Ibuprofen.T6_1_1_1_5" rowspan="1" colspan="1">Bilirubin* (mg/dL)</th>
+                    <th id="hd_h_Ibuprofen.T6_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_1" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_3 hd_h_Ibuprofen.T6_1_1_1_4 hd_h_Ibuprofen.T6_1_1_1_5" colspan="3" rowspan="1">Ibuprofen Started</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_1" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_3" rowspan="1" colspan="1">488</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_4" rowspan="1" colspan="1">309</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_5" rowspan="1" colspan="1">6.5</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_6" rowspan="1" colspan="1">Ibuprofen stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_1" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_2" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_3" rowspan="1" colspan="1">400</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_4" rowspan="1" colspan="1">2151</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_5" rowspan="1" colspan="1">11.9</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_6" rowspan="1" colspan="1">Lliver biopsy, ERCP</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_1" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_2" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_3" rowspan="1" colspan="1">150</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_4" rowspan="1" colspan="1">750</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_5" rowspan="1" colspan="1">24.0</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_1" rowspan="1" colspan="1">4 months</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_2" rowspan="1" colspan="1">3 months</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_3" rowspan="1" colspan="1">300</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_4" rowspan="1" colspan="1">1000</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_5" rowspan="1" colspan="1">21.0</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_6" rowspan="1" colspan="1">Second liver biopsy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_1" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_2" rowspan="1" colspan="1">5 months</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_3" rowspan="1" colspan="1">180</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_4" rowspan="1" colspan="1">850</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_5" rowspan="1" colspan="1">16.5</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_1" rowspan="1" colspan="1">8 months</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_2" rowspan="1" colspan="1">7 months</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_3" rowspan="1" colspan="1">140</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_4" rowspan="1" colspan="1">4000</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_5" rowspan="1" colspan="1">19.0</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_6" rowspan="1" colspan="1">Third liver biopsy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_1" rowspan="1" colspan="1">10 months</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_2" rowspan="1" colspan="1">9 months</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_3" rowspan="1" colspan="1">200</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_4" rowspan="1" colspan="1">900</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_5" rowspan="1" colspan="1">8.0</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_1" rowspan="1" colspan="1">1 year</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_2" rowspan="1" colspan="1">11 months</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_3" rowspan="1" colspan="1">300</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_4" rowspan="1" colspan="1">3000</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_5" rowspan="1" colspan="1">13.0</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_6" rowspan="1" colspan="1">Sent for liver transplant</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_1 hd_h_Ibuprofen.T6_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;41</bold>
+</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;115</bold>
+</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Ibuprofen.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <p>*Some values estimated from Figure 1.</p>
+          </sec>
+          <sec id="Ibuprofen.Comment3">
+            <title>Comment</title>
+            <p>Cases of acute cholestatic liver injury from ibuprofen are very rare. This case was associated with a latency of 3 weeks and presentation with an acute cholestatic hepatitis that evolved into chronic cholestasis and the vanishing bile duct syndrome. On the first determinations, the serum enzyme pattern was &#x0201c;mixed&#x0201d;, but it rapidly became distinctly cholestatic, matching the symptoms of deep jaundice and pruritus as well as the liver biopsy showing marked cholestasis with scant hepatocellular injury. The prolonged course and rapid onset combined with a history of allergies points towards an immuno-allergic mechanism for this reaction. The patient had a decreased number of bile ducts on initial liver biopsy, which became progressively fewer on follow up biopsies, thus demonstrating the progressive nature of &#x0201c;vanishing bile duct syndrome.&#x0201d; This outcome occurred despite prompt discontinuation of the medication. The course of vanishing bile duct syndrome is variable, some patients eventually recover, but it can be unremitting, severe, leading&#x02013;as in this case&#x02013;to need for liver transplantation or death.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Ibuprofen.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Ibuprofen.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Ibuprofen &#x02013; Generic, Motrin&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Nonsteroidal Antiinflammatory Drugs</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=ibuprofen">COMPLETE LABELING</ext-link>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Ibuprofen.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Ibuprofen.T7" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Ibuprofen.T7_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Ibuprofen.T7_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Ibuprofen.T7_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Ibuprofen.T7_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Ibuprofen.T7_1_1_1_1" rowspan="1" colspan="1">Ibuprofen</td>
+                <td headers="hd_h_Ibuprofen.T7_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134991986">15687-27-1</ext-link>
+</td>
+                <td headers="hd_h_Ibuprofen.T7_1_1_1_3" rowspan="1" colspan="1">C13-H18-O2</td>
+                <td headers="hd_h_Ibuprofen.T7_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Ibuprofen_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Ibuprofen chemical structure</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Ibuprofen.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 16 April 2018</p>
+        <ref-list id="Ibuprofen.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Ibuprofen.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Drugs used to treat rheumatic and musculospastic disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 517-553.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; ibuprofen is one of the least likely NSAIDs to cause hepatotoxicity, but both hepatocellular and cholestatic liver injury has been reported with its use).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R2">
+            <mixed-citation publication-type="other">Lewis JH, Stine AG. Nonsteroidal anti-inflammatory drugs and leukotriene receptor antagonists: pathology and clinical presentation of hepatotoxicity. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd. Amsterdam: Elsevier, 2013, pp. 369-401.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of NSAIDs published mentions that ibuprofen is one of the best tolerated NSAIDs but has been linked to rare instances of clinically apparent liver injury including acute liver failure and vanishing bile duct syndrome).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R3">
+            <mixed-citation publication-type="other">Grosser T, Smyth E, FitzGerald GA. Anti-inflammatory, antipyretic, and analgesic agents; pharmacotherapy of gout. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 987-89.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics; ibuprofen is a propionic acid derivative, the first of its class and the most commonly used NSAID in the U.S.; it should be given three or four times daily).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R4">
+            <mixed-citation publication-type="journal">Gasparetto P. [A case of hepatocellular jaundice during treatment with ibuprofen] Minerva Pediatr 1974; 26: 531-3. Italian. <annotation><p><italic toggle="yes">(5 year old with juvenile rheumatoid arthritis developed fatigue and jaundice 17 days after starting ibuprofen [bilirubin 3.3 mg/dL, ALT 142 U/L, AST 259 U/L]; resolution in 7 days).</italic></p></annotation><pub-id pub-id-type="pmid">4827607</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R5">
+            <mixed-citation publication-type="journal">Mandell B, Shen HS, Hepburn B. Letter: Fever from ibuprofen in a patient with lupus erythematosus. Ann Intern Med 1976; 85: 209-10. <annotation><p><italic toggle="yes">(36 year old woman with systemic lupus erythematosus developed fever after 1 week of ibuprofen [2000 mg/day] followed by nausea and AST 147 U/L, no mention of jaundice, recurrence of fever on rechallenge 3 times).</italic></p></annotation><pub-id pub-id-type="pmid">942146</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R6">
+            <mixed-citation publication-type="journal">Bravo JF, Jacobson MP, Mertens BF. Fatty liver and pleural effusion with ibuprofen therapy. Ann Intern Med 1977; 87: 200-1. <annotation><p><italic toggle="yes">(48 year old woman with connective tissue disease died in respiratory failure and shock; found to have fatty liver on autopsy which was attributed to ibuprofen; role of ampicillin and cephalexin-allergic reactions unclear).</italic></p></annotation><pub-id pub-id-type="pmid">889204</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R7">
+            <mixed-citation publication-type="journal">Stempel DA, Miller JJ 3rd. Lymphopenia and hepatic toxicity with ibuprofen. J Pediatr 1977; 90: 657-8. <annotation><p><italic toggle="yes">(12 year old girl with juvenile rheumatoid arthritis developed fever, arthralgias and fatigue 2 to 3 weeks after starting ibuprofen [bilirubin 1 mg/dL, ALT 1245 U/L]; fever resolving in 1 day and liver abnormalities within 2 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">839391</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R8">
+            <mixed-citation publication-type="journal">Sonnenblick M, Abraham AS. Ibuprofen hypersensitivity in systemic lupus erythematosus. Br Med J 1978; 1: 619-20. <annotation><p><italic toggle="yes">(2 women, ages 15 and 54 years, developed fever and rash 6 and 10 days after starting ibuprofen [bilirubin normal, AST 185 and 105 UL]; resolving within one week of stopping; one having recurrence of fever within hours of a single dose [AST 105 U/L]).</italic></p></annotation><pub-id pub-id-type="pmid">630258</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R9">
+            <mixed-citation publication-type="journal">Sternlieb P, Robinson RM. Stevens-Johnson syndrome plus toxic hepatitis due to ibuprofen. N Y State J Med 1978; 78: 1239-43. <annotation><p><italic toggle="yes">(44 year old man developed Stevens-Johnson syndrome within hours of restarting ibuprofen [after an 8-day course a week before] with subsequent jaundice [bilirubin 16.6 mg/dL, ALT 104 U/L, Alk P 135 U/L]; resolving with prednisone therapy over next 3 months. Authors mention that 14 cases of hepatic injury were on file with sponsor: Case 2).</italic></p></annotation><pub-id pub-id-type="pmid">276660</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R10">
+            <mixed-citation publication-type="journal">Kantor TG. Ibuprofen. Ann Intern Med 1979; 91: 877-82. <annotation><p><italic toggle="yes">(Review of ibuprofen after 5 years use in U.S., mentions that there have been isolated reports of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">391117</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R11">
+            <mixed-citation publication-type="journal">Sternlieb P, Robinson RM. Side effects of ibuprofen. Ann Intern Med 1980; 92: 570. <annotation><p><italic toggle="yes">(Letter in response to Kantor article, mentioning their case of Stevens-Johnson syndrome after ibuprofen: Sternlieb [1978]).</italic></p></annotation><pub-id pub-id-type="pmid">6444790</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R12">
+            <mixed-citation publication-type="journal">Royer GL, Seckman CE, Welshman IR. Safety profile: fifteen years of clinical experience with ibuprofen. Am J Med 1984; 77: 25-34. <annotation><p><italic toggle="yes">(Review of safety studies of ibuprofen : clinically apparent injury is rare; high doses [2400-3200 mg/day] may cause ALT elevations in 16% [all &#x0003c;100 U/L] but less commonly than aspirin).</italic></p></annotation><pub-id pub-id-type="pmid">6235745</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R13">
+            <mixed-citation publication-type="journal">Johnson JH, Jick H, Hunter JR, Dickson JF. A followup study of ibuprofen users. J Rheumatol 1985; 12: 549-52. <annotation><p><italic toggle="yes">(Retrospective study of 13,320 members of HMO in Seattle who had a prescription filled for ibuprofen between 1977 and 1982 and then were hospitalized with a possible complication; 7 cases indentified but none were hepatic and none considered even probably related).</italic></p></annotation><pub-id pub-id-type="pmid">4045852</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R14">
+            <mixed-citation publication-type="journal">Lee CY, Finkler A. Acute intoxication due to ibuprofen overdose. Arch Pathol Lab Med 1986; 110: 747-9. <annotation><p><italic toggle="yes">(Overdose of 20 g of ibuprofen led to metabolic acidosis, renal dysfunction, peak AST 291 U/L, LDH 104 U/L, Alk P 245 U/L but no mention of jaundice; resolved over next 10 days).</italic></p></annotation><pub-id pub-id-type="pmid">3755329</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R15">
+            <mixed-citation publication-type="journal">Hall AH, Smolinske SC, Conrad FL, Wruk KM, Kulig KW, Dwelle TL, Rumack BH. Ibuprofen overdose: 126 cases. Ann Emerg Med 1986; 15: 1308-13. <annotation><p><italic toggle="yes">(Among 126 patients with ibuprofen overdose, symptoms developed in 24 [19%] including CNS depression, seizures, bradycardia, hypotension, apnea, and renal dysfunction arising at least 4 hours after ingestion with poor correlation of severity of outcome with reported amount taken; no mention of liver injury or jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">3777588</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R16">
+            <mixed-citation publication-type="journal">Hall AH, Smolinske SC, Kulig KW, Rumack BH. Ibuprofen overdose--a prospective study. West J Med 1988; 148: 653-6. <annotation><p><italic toggle="yes"> (Among 61 cases of ibuprofen overdose reported to a regional poison control center, symptoms developed in 7 [16%] and one adult died; no one became ill with dose of less than 104 mg/kg; no mention of hepatic injury).</italic></p></annotation><pub-id pub-id-type="pmid">3176471</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R17">
+            <mixed-citation publication-type="journal">Perry SJ, Streete PJ, Volans GN. Ibuprofen overdose: the first two years of over-the-counter sales. Human Toxicol 1987; 6: 173-8. <annotation><p><italic toggle="yes">(Prospective survey of ibuprofen overdoses during first 2 years of over-the-counter availability in the UK found 203 cases, but most were asymptomatic or mild and none were associated with evidence of hepatic injury [one patient had peak AST value of 38 U/L]).</italic></p></annotation><pub-id pub-id-type="pmid">3557476</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R18">
+            <mixed-citation publication-type="journal">Freeland GR, Northington RS, Hedrich DA, Walker BR. Hepatic safety of two analgesics used over the counter: ibuprofen and aspirin. Clin Pharmacol Ther 1988; 43: 473-9. <annotation><p><italic toggle="yes">(Analysis of database on 1468 patients with arthritis given ibuprofen, oxaprozin or aspirin; AST elevations occurred in 6% on ibuprofen, 12% oxaprozin and 13% aspirin, but none were considered drug-related or &#x0003e;3 times ULN).</italic></p></annotation><pub-id pub-id-type="pmid">3365912</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R19">
+            <mixed-citation publication-type="journal">Hannequin JR, Doffoel M, Schmutz G. [Hepatitis secondary to current non-steroidal anti-inflammatory agents]. Rev Rhum Mal Osteoartic 1988; 55: 983-8. French. 3070713.<annotation><p><italic toggle="yes">(Analysis of 83 cases of NSAID-related liver injury reported in the literature, including 28 attributed to ibuprofen which tended to have immunoallergic features and mixed pattern of injury with two deaths and one case of Stevens Johnson syndrome).</italic></p></annotation><pub-id pub-id-type="pmid">3070713</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R20">
+            <mixed-citation publication-type="journal">Kromann-Andersen H, Pedersen A. Reported adverse reactions to and consumption of nonsteroidal anti-inflammatory drugs in Denmark over a 17-year period. Dan Med Bull. 1988; 35: 187-92. <annotation><p><italic toggle="yes">(In Denmark, 3% of all spontaneous reports of adverse events from NSAIDs were hepatic [n=405], 3% of which were fatal).</italic></p></annotation><pub-id pub-id-type="pmid">2966038</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R21">
+            <mixed-citation publication-type="journal">McElwee NE, Veltri JC, Bradford DC, Rollins DE. A prospective, population-based study of acute ibuprofen overdose: complications are rare and routine serum levels not warranted. Ann Emerg Med 1990; 19: 657-62. <annotation><p><italic toggle="yes">(Among 329 cases of ibuprofen overdose reported to a regional poison center during a one-year period shortly after it became available over-the-counter; CNS symptoms developed in 30% of patients with poor correlation of symptoms with serum concentrations; no mention of liver injury). </italic></p></annotation><pub-id pub-id-type="pmid">2188537</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R22">
+            <mixed-citation publication-type="journal">Zimmerman HJ. Update of hepatotoxicity due to classes of drugs in common clinical use: non-steroidal drugs, anti-inflammatory drugs, antibiotics, antihypertensives, and cardiac and psychotropic agents. Semin Liver Dis 1990; 10: 322-38. <annotation><p><italic toggle="yes">(Review of NSAID related and other forms of drug induced liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">2281340</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R23">
+            <mixed-citation publication-type="journal">Friis H, Andreasen PB. Drug-induced hepatic injury: an analysis of 1100 cases reported to the Danish Committee on Adverse Drug Reactions between 1978 and 1987. J Intern Med 1992; 232: 133-8. <annotation><p><italic toggle="yes">(Among 1100 cases of drug-induced liver injury reported between 1978 and 1987 in Denmark, 17 cases were attributed to ibuprofen: 4 with ALT elevations only, 8 hepatocellular, 4 cholestatic and 2 fatal).</italic></p></annotation><pub-id pub-id-type="pmid">1506809</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R24">
+            <mixed-citation publication-type="journal">Vigouroux C, Fitoussi D, Cariou D, Aerts J, Pasquier P. [Disclosure of systemic lupus erythematosus in a case of hepatitis caused by ibuprofen] Rev Med Interne 1993; 14: 856-9. French. <annotation><p><italic toggle="yes">(32 year old woman with systemic lupus erythematosus developed rash, fever and anicteric hepatitis [bilirubin normal, ALT 370 U/L; Alk P normal] 4 weeks after starting ibuprofen; hepatitis resolved without further treatment of lupus).</italic></p></annotation><pub-id pub-id-type="pmid">8191104</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R25">
+            <mixed-citation publication-type="journal">Garc&#x000ed;a Rodr&#x000ed;guez LA, Williams R, Derby LE, Dean AD, Jick H. Acute liver injury associated with nonsteroidal anti-inflammatory drugs and the role of risk factors. Arch Intern Med 1994; 154: 311-6. <annotation><p><italic toggle="yes">(Population based study of 625,307 UK subjects who received at least one prescription for 1 of 12 NSAIDs, among whom 35 subsequently had liver injury: 12 with abnormal liver tests only, 23 with acute symptomatic injury [ibuprofen in 5]; incidence was 1.6/100,000 ibuprofen users, ibuprofen had lowest rate among NSAIDs but accounted for the most cases because of the frequency of its use).</italic></p></annotation><pub-id pub-id-type="pmid">8297198</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R26">
+            <mixed-citation publication-type="journal">Zuckerman GB, Uy CC. Shock, metabolic acidosis, and coma following ibuprofen overdose in a child. Ann Pharmacother 1995; 29: 869-71. <annotation><p><italic toggle="yes">(6 year old boy took an overdose of ibuprofen [30 tablets, 6 g] and developed shock, coma and metabolic acidosis successfully treated with mechanical ventilation and fluids; liver enzymes were "unremarkable").</italic></p></annotation><pub-id pub-id-type="pmid">8547735</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R27">
+            <mixed-citation publication-type="journal">Lesko SM, Mitchell AA. An assessment of the safety of pediatric ibuprofen. A practitioner-based randomized clinical trial. JAMA 1995; 273: 929-33. <annotation><p><italic toggle="yes">(Among 55,000 children in a prospective controlled trial who were given ibuprofen or acetaminophen for fever, no child developed Reye syndrome or clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">7884951</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R28">
+            <mixed-citation publication-type="journal">Alam I, Ferrell LD, Bass NM. Vanishing bile duct syndrome temporally associated with ibuprofen use. Am J Gastroenterol 1996; 91: 1626-30. <annotation><p><italic toggle="yes">(29 year old man developed acute cholestatic hepatitis followed by vanishing bile duct syndrome after a 3-week course of ibuprofen: Case 3).</italic></p></annotation><pub-id pub-id-type="pmid">8759674</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R29">
+            <mixed-citation publication-type="journal">Walker AM. Quantitative studies of the risk of serious hepatic injury in persons using nonsteroidal antiinflammatory drugs. Arthritis Rheum 1997; 40: 201-8. <annotation><p><italic toggle="yes">(Review of population based studies of NSAID use and hepatic injury; frequency of clinically apparent liver injury from NSAIDs was ~10 cases per 100,000 patient-years of use, ranging from 6 to 13 per 100,000 for ibuprofen)</italic></p></annotation><pub-id pub-id-type="pmid">9041931</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R30">
+            <mixed-citation publication-type="journal">Riley TR 3rd, Smith JP. Ibuprofen-induced hepatotoxicity in patients with chronic hepatitis C: a case series. Am J Gastroenterol 1998; 93: 1563-5. <annotation><p><italic toggle="yes">(Three patients with chronic hepatitis C developed marked ALT elevations [1209, 1238 and 1577 U/L] while on ibuprofen 1600-2400 mg for short periods, no mention of symptoms or jaundice, resolving rapidly upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">9732947</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R31">
+            <mixed-citation publication-type="journal">Srivastava M, Perez-Atayde A, Jonas MM. Drug-associated acute-onset vanishing bile duct and Stevens-Johnson syndromes in a child. Gastroenterology 1998; 115: 743-6. <annotation><p><italic toggle="yes">(9 year old girl developed Stevens Johnson syndrome 3 days after her 2nd exposure to ibuprofen [bilirubin 3.3 mg/dL, ALT 649 U/L, Alk P 649 U/L], and subsequent progressive jaundice, biopsy showing bile duct damage and loss of bile ducts, with severe cholestasis despite trials of prednisone and tacrolimus).</italic></p></annotation><pub-id pub-id-type="pmid">9721172</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R32">
+            <mixed-citation publication-type="journal">Mayoral W, Lewis JH, Zimmerman H. Drug-induced liver disease. Curr Opin Gastroenterol 1999; 15: 208-16. <annotation><p><italic toggle="yes">(Review article with paragraph on effects of ibuprofen in hepatitis C and its link to vanishing bile duct syndrome).</italic></p></annotation><pub-id pub-id-type="pmid">17023947</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R33">
+            <mixed-citation publication-type="journal">P&#x000e9;rez-Gutthann S, Garc&#x000ed;a-Rodr&#x000ed;guez LA, Duque-Oliart A, Varas-Lorenzo C. Low-dose diclofenac, naproxen, and ibuprofen cohort study. Pharmacotherapy 1999; 19: 854-9. <annotation><p><italic toggle="yes">(Post-marketing study of 46,919 patients on naproxen, 54,830 on ibuprofen, 22,146 on diclofenac; found 3 cases of liver injury, one with naproxen and two with ibuprofen, giving an estimated frequency of ~1/10,000 users).</italic></p></annotation><pub-id pub-id-type="pmid">10417034</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R34">
+            <mixed-citation publication-type="journal">Laurent S, Rahier J, Geubel AP, Lerut J, Horsmans Y. Subfulminant hepatitis requiring liver transplantation following ibuprofen overdose. Liver 2000; 20: 93-4. <annotation><p><italic toggle="yes">(55 year old woman took an overdose of ibuprofen [9.6 g] and developed jaundice 8 days later [bilirubin 10.2 mg/dL, ALT 1767 U/L, Alk P 375 U/L], progressing to hepatic failure and liver transplantation 3 weeks later; patient was a chronic alcoholic but explant showed massive collapse).</italic></p></annotation><pub-id pub-id-type="pmid">10726966</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R35">
+            <mixed-citation publication-type="journal">Borel I, Hedelius F, Baumgartner C, Vial T, Scoazec JY, Dumortier J. [Severe acute hepatitis associated with ibuprofen treatment] Gastroenterol Clin Biol 2001; 25: 430-2. French. <annotation><p><italic toggle="yes">(66 year old woman developed rash 5 days after starting ibuprofen, followed by jaundice [bilirubin 32 mg/dL, ALT 70 times ULN, Alk P 2.5 times ULN, ANA positive], with liver biopsy showing fibrosis and clinical response to prednisone, not relapsing when corticosteroids stopped).</italic></p></annotation><pub-id pub-id-type="pmid">11449133</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R36">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez-D&#x000ed;az S, Garc&#x000ed;a-Rodr&#x000ed;guez LA. Epidemiologic assessment of the safety of conventional nonsteroidal anti-inflammatory drugs. Am J Med 2001; 110 (Suppl 3A): 20S-7S. <annotation><p><italic toggle="yes">(Review of safety of NSAIDS; acute liver injury rare ~9 cases/100,000 users/year; no increased risk with prolonged therapy and may be more common with rheumatoid arthritis than other indications).</italic></p></annotation><pub-id pub-id-type="pmid">11173046</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R37">
+            <mixed-citation publication-type="journal">Morelli MS, O'Brien FX. Stevens-Johnson Syndrome and cholestatic hepatitis. Dig Dis Sci 2001; 46: 2385-8. <annotation><p><italic toggle="yes">(19 year old female developed mild hepatitis [bilirubin 3.3 mg/dL, ALT 373 U/L] after 3 days of ketorolac and metoclopramide therapy, also given ibuprofen 5 days before; patient then developed Stevens-Johnson syndrome after cephalosporin therapy).</italic></p></annotation><pub-id pub-id-type="pmid">11713940</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R38">
+            <mixed-citation publication-type="journal">Andrade RJ, Lucena MI, Garc&#x000ed;a-Cort&#x000e9;s M, Garc&#x000ed;a-Ruiz E, Fern&#x000e1;ndez-Bonilla E, V&#x000e1;zquez L. Chronic hepatitis C, ibuprofen, and liver damage. Am J Gastroenterol 2002; 97: 1854-5. <annotation><p><italic toggle="yes">(57 year old woman with chronic hepatitis C given ibuprofen [1200 mg/day] for 30 days, developed asymptomatic ALT rise from 130 to 1093 U/L, GGT from 41 to 355 U/L with no other obvious cause).</italic></p></annotation><pub-id pub-id-type="pmid">12135061</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R39">
+            <mixed-citation publication-type="journal">Javier Rodr&#x000ed;guez-Gonz&#x000e1;lez F, Montero JL, Puente J, Fraga E, Costan G, Barrera P, Muntane J, et al. Orthotopic liver transplantation after subacute liver failure induced by therapeutic doses of ibuprofen. Am J Gastroenterol 2002; 97: 2476-7. <annotation><p><italic toggle="yes">(59 year old woman developed jaundice 5 days after starting ibuprofen [bilirubin 20 mg/dL, ALT 2089 U/L; Alk P 737 U/L], progressing to hepatic failure and liver transplant 10 weeks later; explant showed submassive necrosis: Case 1).</italic></p></annotation><pub-id pub-id-type="pmid">12358284</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R40">
+            <mixed-citation publication-type="journal">Traversa G, Bianchi C, Da Cas R, Abraha I, Menniti-Ippolito F, Venegoni M. Cohort study of hepatotoxicity associated with nimesulide and other non-steroidal anti-inflammatory drugs. BMJ 2003; 327: 18-22. <annotation><p><italic toggle="yes">(Among 397,537 patients who received a prescription for an NSAID [770,000 person years] between 1997 and 2002, 42 developed an acute non-viral hepatitis including 2 of 4482 receiving ibuprofen).</italic></p></annotation><pub-id pub-id-type="pmid">12842950</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R41">
+            <mixed-citation publication-type="journal">de Abajo FJ, Montero D, Madurga M, Garc&#x000ed;a Rodr&#x000ed;guez LA. Acute and clinically relevant drug-induced liver injury: a population based case-control study. Br J Clin Pharmacol 2004; 58: 71-80. <annotation><p><italic toggle="yes">(Population based study of 1.6 million persons in UK and 128 valid cases of drug-induced liver disease, found odds ratio for liver injury to be 4.1 for diclofenac but 0.4 for all other NSAIDs [2 cases only]).</italic></p></annotation><pub-id pub-id-type="pmid">15206996</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R42">
+            <mixed-citation publication-type="journal">Taghian M, Tran TA, Bresson-Hadni S, Menget A, Felix S, Jacquemin E. Acute vanishing bile duct syndrome after ibuprofen therapy in a child. J Pediatr 2004; 145: 273-6. <annotation><p><italic toggle="yes">(10 year old girl developed Stevens-Johnson syndrome after 2 days of ibuprofen for fever [initial bilirubin 5.4 mg/dL, ALT 639 U/L, Alk P 2 times ULN], followed by prolonged jaundice and vanishing bile duct syndrome but ultimate recovery).</italic></p></annotation><pub-id pub-id-type="pmid">15289784</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R43">
+            <mixed-citation publication-type="journal">Andrade RJ, Lucena MI, Fern&#x000e1;ndez MC, Pelaez G, Pachkoria K, Garc&#x000ed;a-Ruiz E, Garc&#x000ed;a-Mu&#x000f1;oz B, et al.; Spanish Group for the Study of Drug-Induced Liver Disease. Drug-induced liver injury: an analysis of 461 incidences submitted to the Spanish registry over a 10-year period. Gastroenterology 2005; 129: 512-21. <annotation><p><italic toggle="yes">(Reports to a Spanish network found 570 cases of drug-induced liver disease and ibuprofen ranked 4th in number of cases [n=18]; half had mixed, half hepatocellular enzyme elevations; 2 eosinophilia; 2 acute liver failure one undergoing liver transplant and one dying).</italic></p></annotation><pub-id pub-id-type="pmid">16083708</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R44">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E, Jerlstad P, Bergqvist A, Olsson R. Fulminant drug-induced hepatic failure leading to death or liver transplantation in Sweden. Scand J Gastroenterol 2005; 40: 1095-101. <annotation><p><italic toggle="yes">(Summary of 25 years of adverse drug reaction reporting in Sweden identified 103 cases of drug-induced acute liver failure: diclofenac and naproxen mentioned in top 20 causes; ibuprofen listed as associated with one case).</italic></p></annotation><pub-id pub-id-type="pmid">16165719</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R45">
+            <mixed-citation publication-type="journal">Rostom A, Goldkind L, Laine L. Nonsteroidal anti-inflammatory drugs and hepatic toxicity: a systematic review of randomized controlled trials in arthritis patients. Clin Gastroenterol Hepatol 2005; 3: 489-98. <annotation><p><italic toggle="yes">(Review of randomized clinical trial of NSAIDS for frequency of adverse events; ALT &#x0003e;3 times ULN found in 0.43% of 3516 ibuprofen-treated patients with no liver-related serious adverse events or deaths).</italic></p></annotation><pub-id pub-id-type="pmid">15880319</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R46">
+            <mixed-citation publication-type="journal">Tyagi P, Sharma BC, Sarin SK. Cholestatic liver injury due to ibuprofen. Indian J Gastroenterol 2005; 24: 77-8. <annotation><p><italic toggle="yes">(35 year old man developed rash after one dose of ibuprofen, followed in 7 days by jaundice with subsequent prolonged course, requiring 7 months to resolve; no specifics of laboratory tests given).</italic></p></annotation><pub-id pub-id-type="pmid">15879659</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R47">
+            <mixed-citation publication-type="journal">Arellano FM, Yood MU, Wentworth CE, Oliveria SA, Rivero E, Verma A, et al. Use of cyclo-oxygenase 2 inhibitors (COX-2) and prescription non-steroidal anti-inflammatory drugs (NSAIDS) in UK and USA populations. Implications for COX-2 cardiovascular profile. Pharmacoepidemiol Drug Saf 2006; 15: 861-72. <annotation><p><italic toggle="yes">(Survey of NSAID use in UK and USA reported that ibuprofen is most commonly used; major focus of article on Cox-2 use).</italic></p></annotation><pub-id pub-id-type="pmid">17086563</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R48">
+            <mixed-citation publication-type="journal">Barreales M, P&#x000e9;rez-Carreras M, Meizoso T, Garrido M, Masedo A, Colina F, Sol&#x000ed;s JA. [Epstein-Barr virus infection and acute cholestatic hepatitis] An Med Interna 2006; 23: 483-6. Spanish. <annotation><p><italic toggle="yes">(40 year old man developed typical hepatitis from infectious mononucleosis [atypical lymphocytosis, bilirubin 8.2 mg/dL, ALT 428 U/L, Alk P 541 U/L, IgM anti-EBV positive] and took ibuprofen for the initial symptoms which might have contributed to the subsequent hepatic injury).</italic></p></annotation><pub-id pub-id-type="pmid">17134311</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R49">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E, Olsson R. Suspected drug-induced liver fatalities reported to the WHO database. Dig Liver Dis 2006; 38: 33-8. <annotation><p><italic toggle="yes">(Survey of drug-induced liver fatalities reported to WHO database between 1968-2003 revealed 4690 reports [89% from the US]; 21 drugs were associated with &#x0003e;50 cases, including diclofenac [15th in frequency] but not ibuprofen).</italic></p></annotation><pub-id pub-id-type="pmid">16054882</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R50">
+            <mixed-citation publication-type="journal">Lapeyre-Mestre M, de Castro AM, Bareille MP, Del Pozo JG, Requejo AA, Arias LM, Montastruc JL, et al. Non-steroidal anti-inflammatory drug-related hepatic damage in France and Spain: analysis from national spontaneous reporting systems. Fundam Clin Pharmacol 2006; 20: 391-5. <annotation><p><italic toggle="yes">(Survey of adverse drug reaction reports from 1982-2001 included 17 due to ibuprofen from Spain and 174 from France, but at a lower rate than with most NSAIDs).</italic></p></annotation><pub-id pub-id-type="pmid">16867024</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R51">
+            <mixed-citation publication-type="journal">Holubek W, Stolbach A, Nurok S, Lopez O, Wetter A, Nelson L. A report of two deaths from massive ibuprofen ingestion. J Med Toxicol 2007; 3: 52-5. <annotation><p><italic toggle="yes">(2 cases of fatal overdose of ibuprofen; 17 year old girl and 49 year old man, presented with coma, hypothermia, hyptension and metabolic acidosis after intentional overdose; no mention of liver injury, ALT 83 U/L in one patient).</italic></p></annotation><pub-id pub-id-type="pmid">18072160</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R52">
+            <mixed-citation publication-type="journal">Elkrief L, Chryssostalis A, Moachon L, Franck N, Terris B, Chaussade S, Sogni P. [Severe cholestatic hepatitis associated with Stevens-Johnson syndrome after taking ibuprofen]. Gastroenterol Clin Biol 2007; 31: 1043-5. French. <annotation><p><italic toggle="yes">(37 year old woman developed rash 3 days after starting amoxicillin and ibuprofen which progressed to involve eyes and oral membranes with lymphadenopathy and later jaundice [bilirubin 12.8 mg/dL, ALT 181 U/L, Alk P 386 U/L, 7% atypical lymphocytes] with slow but ultimately complete recovery). </italic></p></annotation><pub-id pub-id-type="pmid">18166906</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R53">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug-induced liver disease in the U.S. collected from 2004 to 2008, NSAIDs were implicated as a sole agent in 8 cases [4 diclofenac, 2 celecoxib, 1 meloxicam, 1 oxaprozin] and as one of several agents in 3 cases [1 diclofenac, 1 celecoxib, 1 ibuprofen] ).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R54">
+            <mixed-citation publication-type="journal">Bennett WE Jr, Turmelle YP, Shepherd RW. Ibuprofen-induced liver injury in an adolescent athlete. Clin Pediatr (Phila) 2009; 48: 84-6. <annotation><p><italic toggle="yes">(16 year old boy developed jaundice 6 weeks after starting ibuprofen for athletic injury [bilirubin 3.2 rising to 10.1 mg/dL, ALT 65 U/L, Alk P 409 U/L], with prolonged cholestasis but ultimate recovery in 2 months).</italic></p></annotation><pub-id pub-id-type="pmid">18626108</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R55">
+            <mixed-citation publication-type="journal">Zaffanello M, Brugnara M, Angeli S, Cuzzolin L. Acute non-oliguric kidney failure and cholestatic hepatitis induced by ibuprofen and acetaminophen: a case report. Acta Paediatr 2009; 98: 903-5. <annotation><p><italic toggle="yes">(5 year old child treated for 1-2 days with acetaminophen and ibuprofen for febrile seizures subsequently developed renal [peak creatinine 6.3 mg/dL] and hepatic [peak ALT 1229 U/L] abnormalites without jaundice eventually resolving; not clearly attributable to ibuprofen).</italic></p></annotation><pub-id pub-id-type="pmid">19183124</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R56">
+            <mixed-citation publication-type="journal">Hotermans C, Belachew S, Moonen G, Delwaide J. Severe liver dysfunction in a patient with multiple sclerosis: the guilty party is not always the disease-modifying therapy. Mult Scler 2009; 15: 1378-9. <annotation><p><italic toggle="yes"> (38 year old woman with multiple sclerosis developed abnormal ALT [1788 U/L] while on ibuprofen and beta interferon, enzymes becoming normal with stopping both drugs but rising again with restarting ibuprofen [ALT 749 U/L]).</italic></p></annotation><pub-id pub-id-type="pmid">19965562</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R57">
+            <mixed-citation publication-type="journal">Bessone F. Non-steroidal anti-inflammatory drugs: What is the actual risk of liver damage? World J Gastroenterol 2010; 16: 5651-61. <annotation><p><italic toggle="yes">(Review of estimated frequency of drug induced liver injury due to NSAIDs from large published epidemiological studies; ibuprofen "is characterized by a high safety profile and very low liver toxicity incidence").</italic></p></annotation><pub-id pub-id-type="pmid">21128314</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R58">
+            <mixed-citation publication-type="journal">Ferrajolo C, Capuano A, Verhamme KM, Schuemie M, Rossi F, Stricker BH, Sturkenboom MC. Drug-induced hepatic injury in children: a case/non-case study of suspected adverse drug reactions in VigiBase. Br J Clin Pharmacol 2010; 70: 721-8. 21039766.<annotation><p><italic toggle="yes">(World wide pharmacovigilance database contained 9036 hepatic adverse drug reactions in children, ibuprofen is not listed among the top 41 causes).</italic></p></annotation><pub-id pub-id-type="pmid">21039766</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R59">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug-induced liver injury of which 7 were due to NSAIDs, including 4 attributed to bromfenac, 2 to diclofenac and 1 to etodolac, but none to ibuprofen). </italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R60">
+            <mixed-citation publication-type="journal">Levine M, Khurana A, Ruha AM. Polyuria, acidosis, and coma following massive ibuprofen ingestion. J Med Toxicol 2010; 6: 315-7.<annotation><p><italic toggle="yes">(19 year old man took overdose of ibuprofen [450 tablets, 90 g] and developed agitation and tachycardia 3 hours later followed by progressive coma, respiratory failure, and lactic acidosis, improving after 48 hours; mentions mild renal abnormalities but no liver test results provided)</italic></p></annotation><pub-id pub-id-type="pmid">20419362</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R61">
+            <mixed-citation publication-type="journal">Lee CH, Wang JD, Chen PC. Increased risk of hospitalization for acute hepatitis in patients with previous exposure to NSAIDs. Pharmacoepidemiol Drug Saf 2010; 19: 708-14. <annotation><p><italic toggle="yes">(Analysis of the Taiwanese National Health Insurance database found 4519 cases of hospitalization for acute, non-viral liver injury between 2001-2005, of whom 35 received celecoxib [odds ratio compared to controls 1.92], 19 rofecoxib [1.6], 30 nimesulide [2.3], 580 diclofenac [2.2] and 287 ibuprofen [2.5] within 28 days of admission).</italic></p></annotation><pub-id pub-id-type="pmid">20582911</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R62">
+            <mixed-citation publication-type="journal">Nanau RM, Neuman MG. Ibuprofen-induced hypersensitivity syndrome. Transl Res 2010; 155: 275-93. <annotation><p><italic toggle="yes">(Review of hypersensitivity adverse events in response to ibuprofen).</italic></p></annotation><pub-id pub-id-type="pmid">20478543</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R63">
+            <mixed-citation publication-type="journal">Leoz MK, Concejo FB, Fern&#x000e1;ndez JM, Urmeneta JM, Pe&#x000f1;uela AM. [Ibuprofen-induced cholestatic hepatitis]. Gastroenterol Hepatol 2011; 34: 660-1. Spanish. <annotation><p><italic toggle="yes">(32 year old man developed jaundice and pruritus two weeks after starting ibuprofen [bilirubin 3.8 rising to 19.6 mg/dL, ALT 251 U/L, Alk P 314 U/L], slowly resolving 3 to 5 months after stopping). </italic></p></annotation><pub-id pub-id-type="pmid">21621876</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R64">
+            <mixed-citation publication-type="journal">Bang D, Shah T, Thakker D, Shah Y, Raval AD. Drug-induced Stevens-Johnson syndrome: case series from tertiary care centre in Gujarat. Pharmacoepidemiol Drug Saf 2012; 21: 384-95. <annotation><p><italic toggle="yes">(Prospective study of Stevens Johnson syndrome presenting during a 3 year period at a single referral hospital in India identified 29 cases [7 in children] of which 8 were attributed to antibacterials, 8 NSAIDs [5 ibuprofen, 2 diclofenac, 1 numesulide], 8 anticonvulsants, 2 antiretrovirals, 2 antituberculosis agents and 1 methotrexate).</italic></p></annotation><pub-id pub-id-type="pmid">22374707</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R65">
+            <mixed-citation publication-type="journal">Lodise M, De-Giorgio F, Rossi R, d'Aloja E, Fucci N. Acute Ibuprofen intoxication: report on a case and review of the literature. Am J Forensic Med Pathol 2012; 33: 242-6. <annotation><p><italic toggle="yes">(51 year old man took an overdose of several medications including ibuprofen and presented within a few hours with fatal coma, hypotension, respiratory failure and metabolic acidosis; autopsy showing hepatic congestion). </italic></p></annotation><pub-id pub-id-type="pmid">22835967</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R66">
+            <mixed-citation publication-type="journal">Gulmez SE, Larrey D, Pageaux GP, Lignot S, Lassalle R, Jov&#x000e9; J, Gatta A, et al. Transplantation for acute liver failure in patients exposed to NSAIDs or paracetamol (acetaminophen): the multinational case-population SALT study. Drug Saf 2013; 36: 135-44. <annotation><p><italic toggle="yes">(Analysis of cases of idopathic acute liver failure undergoing liver transplantation in 52 centers in Europe between 2005 and 2007, found 40 had been exposed to an NSAID [14 to ibuprofen] within the previous 30 days with estimated event rates of 2.3 per million treatment-years for ibuprofen).</italic></p></annotation><pub-id pub-id-type="pmid">23325533</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R67">
+            <mixed-citation publication-type="journal">Lapeyre-Mestre M, Grolleau S, Montastruc JL; Adsociation Fran&#x000e7;aise des Centres R&#x000e9;gionaux de Pharmacovigilance (CRPV). Adverse drug reactions associated with the use of NSAIDs: a case/noncase analysis of spontaneous reports from the French pharmacovigilance database 2002-2006. Fundam Clin Pharmacol 2013; 27: 223-30. <annotation><p><italic toggle="yes">(Analysis of 42,389 spontaneous serious adverse event reports to the French Pharmacovigilance database on 8 NSAIDs between 2002 and 2006; liver adverse events were most frequent with nimesulide [0.15 per million daily doses] compared to diclofenac [0.09], ketoprofen [0.09] piroxicam [0.06], naproxen [0.04], meloxicam [0.03], and tenoxicam [0.03]; ibuprofen not discussed). </italic></p></annotation><pub-id pub-id-type="pmid">21929527</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R68">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. (In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, including 6 attributed to diclofenac [ranking 2nd], but none for ibuprofen or other NSAIDs).<pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R69">
+            <mixed-citation publication-type="journal">Nayudu SK, Kavuturu S, Niazi M, Daniel M, Dev A, Kumbum K. A rare coexistence: drug induced hepatitis and meningitis in association with Ibuprofen. J Clin Med Res 2013; 5: 243-6. <annotation><p><italic toggle="yes">(38 year old woman was found to have abnormal liver tests a week after starting over-the-counter ibuprofen for knee pain [bilirubin 0.4 mg/dL, ALT 249 U/L, Alk P 31 U/L], resolving within 2 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">23671551</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R70">
+            <mixed-citation publication-type="journal">Pliskow S. Severe gynecologic sequelae of Stevens-Johnson syndrome and toxic epidermal necrolysis caused by ibuprofen: a case report. J Reprod Med 2013; 58 (7-8): 354-6. <annotation><p><italic toggle="yes">(3 year old girl developed toxic epidermal necrolysis after receiving ibuprofen for an upper respiratory infection and suffered complications of respiratory failure, blindness in one eye, recurrent sinusitis and pneumonia, nerve damage and severe gynecological sequelae including vaginal obliteration due to scarring discovered when she was 13; no mention of hepatic involvement).</italic></p></annotation><pub-id pub-id-type="pmid">23947089</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R71">
+            <mixed-citation publication-type="journal">Balint B, Stepic N, Todorovic M, Zolotarevski L, Ostojic G, Vucetic D, Pavlovic M, Novakovic M. Ibuprofen-induced extensive toxic epidermal necrolysis - a multidisciplinary therapeutic approach in a single case. Blood Transfus 2014; 12: 438-9. <annotation><p><italic toggle="yes">(21 year old woman developed toxic epidermal necrolysis after taking ibuprofen for headache [ALT 145 U/L, bilirubin and Alk P not given], with recovery after a month of treatment with corticosteroids, intravenous immunoglobulin, antibiotics, leukopheresis and plasma exchange).</italic></p></annotation><pub-id pub-id-type="pmid">25074525</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R72">
+            <mixed-citation publication-type="journal">Kim HY, Yang HK, Kim SH, Park JH. Ibuprofen associated acute vanishing bile duct syndrome and toxic epidermal necrolysis in an infant. Yonsei Med J 2014; 55: 834-7. <annotation><p><italic toggle="yes">(7 month old girl developed rash 2 days after starting ibuprofen for fever with progression to toxic epidermal necrolysis and cholestatic liver injury [bilirubin 0.5 rising to 9.5 mg/dL, ALT 523 U/L, Alk P 500 U/L], with a prolonged course and biopsy showing paucity of bile ducts but ultimate full recovery within 3 months).</italic></p></annotation><pub-id pub-id-type="pmid">24719156</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R73">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes"> (Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, the most common class of implicated agents being NSAIDS [n=62, 32%], but specific agents were nimesulide [n=53], piroxicam [5], diclofenac [2], gold salts [1], and naproxen [1]; ibuprofen was not listed]).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R74">
+            <mixed-citation publication-type="journal">Mengual-Moreno E, Lizarz&#x000e1;bal-Garc&#x000ed;a M, Ruiz-Soler M, Silva-Suarez N, Andrade-Bellido R, Lucena-Gonz&#x000e1;lez M, Bessone F, et al. [Case reports of drug-induced liver injury in a reference hospital of Zulia state, Venezuela]. Invest Clin 2015; 56: 3-12. Spanish. (<italic toggle="yes">Among 13 cases of drug induced liver injury seen at a single Venezuelan medical center during 2012-13, the most commonly implicated agents were ibuprofen [n=3: 23%], acetaminophen [n=3], isoniazid [n=2] and Herbalife products [n=2])</italic><annotation><p><italic toggle="yes">.</italic></p></annotation><pub-id pub-id-type="pmid">25920181</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R75">
+            <mixed-citation publication-type="journal">Watanabe T, Abe M, Tada F, Aritomo K, Ochi H, Koizumi Y, Tokumoto Y, et al. Drug-induced liver injury with serious multiform exudative erythema following the use of an over-the-counter medication containing ibuprofen. Intern Med 2015; 54: 395-9. <annotation><p><italic toggle="yes">(36 year old Japanese woman developed severe rash, mild eosinophilia [7%] and liver dysfunction [DRESS] 5 days after a 25 day course of an over-the-counter product that contained ibuprofen [bilirubin 15.3 mg/dL, ALT 1800 U/L, Alk P 332 U/L, INR 1.7], resolving with corticosteroid therapy within 4 weeks of onset).</italic></p></annotation><pub-id pub-id-type="pmid">25748955</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R76">
+            <mixed-citation publication-type="journal">Jessurun N, van Puijenbroek E. Relationship between structural alerts in NSAIDs and idiosyncratic hepatotoxicity: an analysis of spontaneous report data from the WHO database. Drug Saf 2015; 38: 511-5. <annotation><p><italic toggle="yes">(Analysis of reports of liver injury in WHO database for 5 NSAIDs in relation to several structural "alerts" found an association with higher rates of hepatotoxicity comparing diclofenac, lumiracoxib and bromfenac [that have structural alerts] with naproxen and ibuprofen [that do not]).</italic></p></annotation><pub-id pub-id-type="pmid">25787329</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R77">
+            <mixed-citation publication-type="journal">Dharamsi FM, Michener MD, Dharamsi JW. Bullous fixed drug eruption masquerading as recurrent Stevens Johnson syndrome. J Emerg Med 2015; 48: 551-4. <annotation><p><italic toggle="yes">(Two patients with suspected recurrent Stevens Johnson syndrome were diagnosed with recurrent fixed drug reactions, one to ibuprofen and one to sulfamethoxazole-trimethoprim; no mention of ALT elevations or jaundice in either case).</italic></p></annotation><pub-id pub-id-type="pmid">25433836</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R78">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 28 were attributed to NSAIDs, including 1 to ibuprofen [Schmeltzer 2016]).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R79">
+            <mixed-citation publication-type="journal">Schmeltzer PA, Kosinski AS, Kleiner DE, Hoofnagle JH, Stolz A, Fontana RJ, Russo MW; Drug-Induced Liver Injury Network (DILIN). Liver injury from nonsteroidal anti-inflammatory drugs in the United States. Liver Int 2016; 36: 603-9. <annotation><p><italic toggle="yes">(Among 1221 cases of drug induced liver injury enrolled in a prospective, US database between 2004 and 2014, 30 cases [2.5%] were attributed to NSAIDs, including 2 due to ibuprofen, both in patients with underlying chronic liver disease [cirrhosis from chronic hepatitis C and alcoholism and chronic autoimmune hepatitis]).</italic></p></annotation><pub-id pub-id-type="pmid">26601797</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R80">
+            <mixed-citation publication-type="journal">Donati M, Conforti A, Lenti MC, Capuano A, Bortolami O, Motola D, Moretti U, et al.; DILI-IT Study Group. Risk of acute and serious liver injury associated to nimesulide and other NSAIDs: data from drug-induced liver injury case-control study in Italy. Br J Clin Pharmacol 2016; 82: 238-48. <annotation><p><italic toggle="yes"> (Among 179 cases of acute liver injury and 1770 controls admitted to 9 Italian hospitals between 2010 and 2014, NSAIDs used more frequently in cases compared to controls included nimesulide [17% vs 10%: odds ratio 1.88] and ibuprofen [14% vs 10%: odds ratio 1.59], and risk was higher in those taking higher doses).</italic></p></annotation><pub-id pub-id-type="pmid">26991794</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R81">
+            <mixed-citation publication-type="journal">Basturk A, Artan R, Y&#x00131;lmaz A, Gelen MT, Duman O. Acute vanishing bile duct syndrome after the use of ibuprofen. Arab J Gastroenterol 2016; 17: 137-9. <annotation><p><italic toggle="yes">(7 year old boy developed rash 3 days after starting ibuprofen syrup which progressed to toxic epidermal necrolysis accompanied by liver injury [bilirubin 5.2 rising to 10.3 mg/dL, ALT 319 U/L, Alk P 1018 U/L], biopsy showing bile duct loss and jaundice lasting for several months, but ultimately resolving completely).</italic></p></annotation><pub-id pub-id-type="pmid">27658326</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R82">
+            <mixed-citation publication-type="journal">Angadi SS, Karn A. Ibuprofen induced Stevens-Johnson syndrome - toxic epidermal necrolysis in Nepal. Asia Pac Allergy 2016; 6: 70-3. <annotation><p><italic toggle="yes">(22 year old Nepalise man developed rash 2 days after starting ibuprofen that progressed rapidly to toxic epidermal necrolysis [ALT 150 U/L, bilirubin and Alk P not given, INR 1.37], with 5 week hospitalization and intensive care, but ultimate full recovery).</italic></p></annotation><pub-id pub-id-type="pmid">26844223</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R83">
+            <mixed-citation publication-type="journal">Suwarsa O, Yuwita W, Dharmadji HP, Sutedja E. Stevens-Johnson syndrome and toxic epidermal necrolysis in Dr. Hasan Sadikin General Hospital Bandung, Indonesia from 2009-2013. Asia Pac Allergy 2016; 6: 43-7. <annotation><p><italic toggle="yes">(Between 2009 and 2014, 39 cases of Stevens Johnson syndrome, 11 of toxic epidermal necrolysis and 7 of overlap of the two were seen at a single referral hospital in Indonesia with suspected causes being acetaminophen [17%], carbamazepine [7%], amoxicillin [6%] and ibuprofen [4.5%], of whom 7 died [12%] of sepsis or respiratory failure; 19 [33%] had liver involvement, but few details given).</italic></p></annotation><pub-id pub-id-type="pmid">26844219</pub-id></mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R84">
+            <mixed-citation publication-type="journal">
+<annotation><p>
+<italic toggle="yes">Belver MT, Michavila A, Bobolea I, Feito M, Bell&#x000f3;n T, Quirce S. Severe delayed skin reactions related to drugs in the paediatric age group: A review of the subject by way of three cases (Stevens-Johnson syndrome, toxic epidermal necrolysis and DRESS). Allergol Immunopathol (Madr) 2016; 44: 83-95. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/26089185">PubMed Citation</ext-link> (Review of severe cutaneous adverse reactions to drugs in children and 3 case reports, 2 attributed to amoxicillin-clavulanate and ibuprofen and one to phenytoin, none with liver involvement).</italic>
+</p></annotation>
+</mixed-citation>
+          </ref>
+          <ref id="Ibuprofen.R85">
+            <mixed-citation publication-type="journal">Zoubek ME, Gonz&#x000e1;lez-Jimenez A, Medina-C&#x000e1;liz I, Robles-D&#x000ed;az M, Hernandez N, Romero-G&#x000f3;mez M, Bessone F, et al. High Prevalence of ibuprofen drug-induced Liver injury in Spanish and Latin-American registries. Clin Gastroenterol Hepatol 2018; 16: 292-4. <annotation><p><italic toggle="yes">(Analysis of a Spanish and Latin-American registries identified 73 cases of NSAID induced liver injury, the most common agents being nimesulide [38%], diclofenac [34%] and ibuprofen [17%], the 26 ibuprofen cases being 50% female, ages 18 to 77 years, 65% with jaundice, 58% hospitalized, 24% with eosinophilia, 58% hepatocellular and 3 [12%] with fatal outcome; nevertheless, ibuprofen related liver injury did not have a single or distinctive clinical signature).</italic></p></annotation><pub-id pub-id-type="pmid">28782674</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Ibuprofen.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=ibuprofen/AE+AND+Human%5BMH%5D+AND+(drug-induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%222009/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Ibuprofen: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=ibuprofen">Trials on Ibuprofen: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

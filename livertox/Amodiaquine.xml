@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Amodiaquine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Amodiaquine</book-part-id>
+      <title-group>
+        <title>Amodiaquine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>2</day>
+          <month>2</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Amlodipine" document-type="chapter">Amlodipine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Amoxapine" document-type="chapter">Amoxapine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Amodiaquine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Amodiaquine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Amodiaquine is an aminoquinoline used for the therapy of malaria. Amodiaquine has been linked to severe cases of acute hepatitis which can be fatal, for which reason it is recommended for use only as treatment and not for prophylaxis against malaria.</p>
+        </sec>
+        <sec id="Amodiaquine.Background">
+          <title>Background</title>
+          <p>Amodiaquine (am" oh dye' a kwin) is a synthetic aminoquinoline that acts by binding to the protozoal or parasitic DNA and preventing DNA and RNA production and subsequent protein synthesis. It is active against the asexual erythrocytic forms of Plasmodium species. Amodiaquine is related in structure to chloroquine, and highly chloroquine-resistant P. falciparum is also resistant to amodiaquine. Amodiaquine remains a useful agent for treating falciparum malaria, but because of its potential for causing hepatotoxicity, it is no longer used for antimalarial prophylaxis. Amodiaquine is available in tablets of 150 to 600 mg in generic forms and under the brand names Camoquin and Flavoquine. The recommended dosage is 10 mg/kg of amodiaquine base once daily for 3 days usually in combination with other antimalarial agents. Common side effects of amodiaquine include nausea, diarrhea, skin rash and itching.</p>
+        </sec>
+        <sec id="Amodiaquine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Amodiaquine has been linked to serum aminotransferase elevations in a small proportion of patients (1%). More importantly, there have been multiple reports of idiosyncratic acute liver injury due to amodiaquine. The onset of injury is usually within 1 to 4 months and is often associated with agranulocytosis. The pattern of serum enzyme elevations is most frequently hepatocellular, and symptoms resembling acute viral hepatitis are typical. Features of hypersensitivity are uncommon, as are autoantibodies. The hepatitis can be severe, and several fatal instances or cases requiring emergency liver transplantation have been reported. The frequency of serious hepatic injury is estimated to be ~1:15,000. Because of the risks of agranulocytosis and liver injury, amodiaquine is no longer recommended for use as prophylaxis against malaria and is used largely for therapy in endemic areas outside of the United States. General recommendations on the therapy of malaria including specific details on diagnosis, management, drug dosage and safety are available at the CDC website: http://www.cdc.gov/malaria/.</p>
+          <p>Likelihood score: A (well established cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Amodiaquine.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which amodiaquine causes liver injury is unknown, clinical factors and testing for serum antibodies suggest an idiosyncratic immunological reaction to a hepatic metabolite may be responsible. Amodiaquine is extensively metabolized by the liver to metabolites that are excreted in the urine.</p>
+        </sec>
+        <sec id="Amodiaquine.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>There does not seem to be cross reactivity to hepatic injury among the various antimalarial agents and switching to other drug can be done.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntimalarialAgents">Antimalarial Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Amodiaquine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Amodiaquine.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Amodiaquine &#x02013; Generic, Camoquin&#x000ae;, Flavoquine&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Antimalarial Agents</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Amodiaquine">COMPLETE LABELING</ext-link>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Amodiaquine.CHEMICAL_FORMULA_AND_STRUCTU">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Amodiaquine.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Amodiaquine.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Amodiaquine.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Amodiaquine.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Amodiaquine.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Amodiaquine.T1_1_1_1_1" rowspan="1" colspan="1">Amodiaquine</td>
+                <td headers="hd_h_Amodiaquine.T1_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134970939">86-42-0</ext-link>
+</td>
+                <td headers="hd_h_Amodiaquine.T1_1_1_1_3" rowspan="1" colspan="1">C20-H22-Cl-N3-O</td>
+                <td headers="hd_h_Amodiaquine.T1_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Amodiaquine_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Chemical Structure for Amodiaquine</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Amodiaquine.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 02 February 2017</p>
+        <ref-list id="Amodiaquine.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Amodiaquine.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Antiprotozoal agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 623-5.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; amodiaquine has been associated with many cases of severe hepatitis, some fatal, with onset ranging from a few days to as long as one year after starting).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R2">
+            <mixed-citation publication-type="other">Vinetz JM, Clain J, Bounkeua V, Eastman RT, Fidock D. Chemotherapy of malaria. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1383-418.<italic toggle="yes">
+</italic><annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics; amodiaquine is a congener of chloroquine that is no longer recommended because of its toxicity).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R3">
+            <mixed-citation publication-type="journal">Glick L. Fatal agranulocytosis during treatment with amodiaquine. Br Med J 1957; 1: 932. <annotation><p><italic toggle="yes">(53 year old woman with photosensitive rash was given amodiaquine for 8 weeks and developed fatal agranulocytosis and jaundice; on autopsy, the liver was enlarged and had a nutmeg appearance).</italic></p></annotation><pub-id pub-id-type="pmid">13413258</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R4">
+            <mixed-citation publication-type="journal">Pomeroy H, Warren C, Mills D, Clark GM. The effect of amodiaquin (Camoquin) on the course of rheumatoid arthritis. Arthritis Rheum 1959; 2: 396-402. <annotation><p><italic toggle="yes">(Placebo controlled crossover study of amodiaquine in 7 elderly patients with rheumatoid arthritis; mentions in discussion that 2 of 32 patients receiving amodiaquine at their institution developed jaundice 4 and 16 weeks after starting, one dying of liver failure).</italic></p></annotation><pub-id pub-id-type="pmid">14433954</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R5">
+            <mixed-citation publication-type="journal">Bepler CR, Baier HN, McCracken S, Rentschler CL, Rogers FB, Lansbury J. A 15-month controlled study of the effects of amodiaquin (Camoquin) in rheumatoid arthritis. Arthritis Rheum 1959; 2: 403-13. <annotation><p><italic toggle="yes">(Placebo controlled crossover study of amodiaquine in 14 patients with rheumatoid arthritis; 400 mg dose was not tolerated; long term 50 mg daily doses led to jaundice in 2, Alk P elevations in 2, and AST in 4 patients [peak levels 100 U/L]).</italic></p></annotation><pub-id pub-id-type="pmid">13799077</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R6">
+            <mixed-citation publication-type="journal">Perry HO, Bartholomew LG, Hanlon DG. Nearly fatal reaction to amodiaquine. JAMA 1962; 179: 598-601. <annotation><p><italic toggle="yes">(33 year old man with systemic lupus developed fever and fatigue after 6 days of intermittent amodiaquine therapy with rash and neutropenia [bilirubin 2.3 mg/dL, AST 101 U/L], resolving rapidly with corticosteroid therapy; neutropenia lasted 2 weeks).</italic></p></annotation><pub-id pub-id-type="pmid">14485571</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R7">
+            <mixed-citation publication-type="journal">Gillespie P, Wagner F. Amodiaquine agranulocytosis. Med J Aust 1977; 1: 298-9. <annotation><p><italic toggle="yes">(26 year old woman on amodiaquine prophylaxis developed skin abscess and septicemia with white count of 300/&#x000b5;L and no neutrophils; liver tests were &#x0201c;consistent with hepatocellular damage&#x0201d;, but no specifics given).</italic></p></annotation><pub-id pub-id-type="pmid">859490</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R8">
+            <mixed-citation publication-type="journal">Hatton CS, Peto TE, Bunch C, Pasvol G, Russell SJ, Singer CR, Edwards G, et al. Frequency of severe neutropenia associated with amodiaquine prophylaxis against malaria. Lancet 1986; 1: 411-4. <annotation><p><italic toggle="yes">(7 cases of severe neutropenia [0-400/&#x000b5;L] after 3 to 13 weeks of amodiaquine therapy, lasting 3-20 days, all with recovery; some patients were jaundiced, but no specifics given).</italic></p></annotation><pub-id pub-id-type="pmid">2868340</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R9">
+            <mixed-citation publication-type="journal">Hirschel B. Amodiaquine and hepatitis. Ann Intern Med 1986; 105: 467. <annotation><p><italic toggle="yes">(Mentions that there have been 20 cases of agranulocytosis [12 with hepatitis] in Switzerland among travelers taking amodiaquine, and describes two patients who acquired malaria despite the prophylaxis).</italic></p></annotation><pub-id pub-id-type="pmid">3740693</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R10">
+            <mixed-citation publication-type="journal">Woodtli W, Vonmoos P, Siegrist P, Zollikofer H. [Amodiaquine-induced hepatitis with leukopenia]. Schweiz Med Wochenschr 1986; 116: 966-8. German. <annotation><p><italic toggle="yes">(Two cases; 40 and 55 year old travelers with fever and dark urine arising 4 and 8 weeks after starting amodiaquine [bilirubin 0.8 and 6.0 mg/dL, ALT 320 and 50 U/L, Alk P 171 and 186 U/L], resolving within 1-2 months of stopping and recurring in both with rechallenge).</italic></p></annotation><pub-id pub-id-type="pmid">3764379</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R11">
+            <mixed-citation publication-type="journal">Larrey D, Castot A, P&#x000eb;ssayre D, Merigot P, Machayekhy JP, Feldmann G, Lenoir A, et al. Amodiaquine-induced hepatitis. A report of seven cases. Ann Intern Med 1986; 104: 801-3. <annotation><p><italic toggle="yes">(Report of 7 cases of liver injury due to amodiaquine prophylaxis; 6 men and 1 woman, ages 34-64 years, taking 200-800 mg/week for 4 to 15 weeks, no eosinophilia or rash; 4 anicteric cases had fatigue and abdominal pain [ALT 3-6.5 times ULN, Alk P 0.6-2.7 times ULN], rapid resolution after stopping in all; 3 other cases had jaundice [bilirubin 17.5-39.7 mg/dL, ALT 11-77 times ULN, Alk P 1.5-4.5 times ULN, bilirubin 17.5-39.7 mg/dL], and slow resolution with minor ALT or GGT elevations persisting for more than a year after stopping).</italic></p></annotation><pub-id pub-id-type="pmid">2871789</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R12">
+            <mixed-citation publication-type="journal">Desaint B, Conrad M, Florent C, Legendre C, Levy VG. [Is amodiaquine (Flavoquine) hepatotoxic?]. Gastroenterol Clin Biol 1986; 10: 440. <annotation><p><italic toggle="yes">(Two cases of amodiaquine hepatotoxicity; 41 year old woman developed fatigue and jaundice 3 weeks after starting therapy [bilirubin 24.6 mg/dL, ALT 1700 U/L, Alk P 300 U/L], resolving within two months of stopping; 35 year old woman developed fatigue and abdominal pain [ALT 600 U/L] 3 months after starting amodiaquine, and was jaundiced and had ascites at 5 months [bilirubin 14.3 mg/dL, ALT 150 U/L, Alk P 213 U/L], requiring 4 months to resolve).</italic></p></annotation><pub-id pub-id-type="pmid">3732752</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R13">
+            <mixed-citation publication-type="journal">Amouretti M, Raymond JM, Baldit C, Dumas F, Couzigou P, B&#x000e9;raud C. [Amodiaquine (Flavoquine) is hepatotoxic]. Gastroenterol Clin Biol 1986; 10: 855. French. <annotation><p><italic toggle="yes">(38 year old woman developed fatigue followed by jaundice 5 weeks after switching from chloroquine to amodiaquine [ALT 1136 U/L, bilirubin 8.8 mg/dL], with progression to hepatic failure and death; autopsy showed massive hepatic necrosis).</italic></p></annotation><pub-id pub-id-type="pmid">3803831</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R14">
+            <mixed-citation publication-type="journal">Neftel KA, Woodtly W, Schmid M, Frick PG, Fehr J. Amodiaquine-induced agranulocytosis and liver damage. Br Med J 1986; 292: 721-3. <annotation><p><italic toggle="yes">(Seven cases of agranulocytosis [five with liver involvement] and 2 of liver damage due to amodiaquine seen between 1981-83; agranulocytosis arose 38-69 days after starting amodiaquine for malaria prophylaxis, persisting for 8-45 days, all had infectious complications leading to death in 2 patients; 2 with liver damage included a 55 year old man and a 36 year old woman who developed liver injury 42 and 120 days after starting amodiaquine [bilirubin 2.9 and 48.5 mg/dL, ALT 142 and 651 U/L, Alk P 126 and 166 U/L], one case fatal).</italic></p></annotation><pub-id pub-id-type="pmid">3082410</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R15">
+            <mixed-citation publication-type="journal">Charmot G, Goujon C. [Minor hepatitis probably caused by amodiaquine]. Bull Soc Pathol Exot Filiales 1987; 80: 266-70. <annotation><p><italic toggle="yes">(8 patients, including 4 men and 4 women, ages 21-56 years, were found to have asymptomatic ALT elevations [86-577 U/L] without jaundice 25-300 days after starting amodiaquine, resolving within 1 week).</italic></p></annotation><pub-id pub-id-type="pmid">3608009</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R16">
+            <mixed-citation publication-type="journal">St&#x000fc;rchler D, Sch&#x000e4;r M, Gyr N. Leucopenia and abnormal liver function in travelers on malaria chemoprophylaxis. J Trop Med Hyg 1987; 90: 239-43. <annotation><p><italic toggle="yes">(Analysis of 451 travelers from Switzerland on malarial prophylaxis found higher ALT levels in those on amodiaquine than on chloroquine or no prophylaxis).</italic></p></annotation><pub-id pub-id-type="pmid">3669125</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R17">
+            <mixed-citation publication-type="journal">Bernuau J, Larrey D, Campillo B, Degott C, Verdier F, Rueff B, Pessayre D, et al. Amodiaquine-induced fulminant hepatitis. J Hepatol 1988; 6:109-12. <annotation><p><italic toggle="yes">(3 patients, ages 12, 41 and 51 years, developed jaundice 4-10 months after starting amodiaquine prophylaxis [bilirubin 30.9, 31.6 and 10.5 mg/dL, ALT 13-47 times ULN, Alk P 1.8-2.2 times ULN], all dying of hepatic failure or requiring liver transplant; liver histology showed massive necrosis).</italic></p></annotation><pub-id pub-id-type="pmid">3346531</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R18">
+            <mixed-citation publication-type="journal">Raymond JM, Dumas F, Baldit C, Couzigou P, Beraud C, Amouretti M. Fatal acute hepatitis due to amodiaquine. J Clin Gastroenterol 1989; 11: 602-3. <annotation><p><italic toggle="yes">(38 year old woman developed fatigue, dark urine and then jaundice 5 weeks after switching from chloroquine to amodiaquine [bilirubin 8.8 mg/dL, ALT 1,136 U/L], with rapid improvement on stopping but relapse 1 week after restarting [bilirubin 21.8 mg/dL, ALT 1010 U/L, Alk P 313 U/L] and progressive hepatic failure and death; autopsy showed massive hepatic necrosis).</italic></p></annotation><pub-id pub-id-type="pmid">2794450</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R19">
+            <mixed-citation publication-type="journal">Phillips-Howard PA, West LJ. Serious adverse drug reactions to pyrimethamine-sulphadoxine, pyrimethamine-dapsone and to amodiaquine in Britain. J R Soc Med 1990; 83: 82-5. <annotation><p><italic toggle="yes">(Analysis of postmarketing adverse event reports on antimalarial drugs from UK sources; major problems were Stevens Johnson syndrome and agranulocytosis; serious hepatotoxicity occurred in 1:111,000 pyrimethamine-sulphadoxine, 1:75,200 pyrimethamine-dapsone, and 1:15,500 amodiaquine users; far fewer with chloroquine-proguanil).</italic></p></annotation><pub-id pub-id-type="pmid">2138674</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R20">
+            <mixed-citation publication-type="journal">Clarke JB, Neftel K, Kitteringham NR, Park BK. Detection of antidrug IgG antibodies in patients with adverse drug reactions to amodiaquine. Int Arch Allergy Appl Immunol 1991; 95: 369-75. <annotation><p><italic toggle="yes">(Amodiaquine antibodies found in 6 of 7 patients with adverse reaction and 7 of 22 without while on amodiaquine prophylaxis; reactivity not blocked by other aminoquinones).</italic></p></annotation><pub-id pub-id-type="pmid">1959977</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R21">
+            <mixed-citation publication-type="journal">Orrell C, Taylor WR, Olliaro P. Acute asymptomatic hepatitis in a healthy normal volunteer exposed to 2 oral doses of amodiaquine and artesunate. Trans R Soc Trop Med Hyg 2001; 95: 517-8. <annotation><p><italic toggle="yes">(In a single dose crossover study in 15 volunteers, one developed rise in ALT from normal to peak of 483 U/L 6 weeks after dosing with amodiaquine and artesunate without symptoms or bilirubin rise, resolving in 4-8 weeks).</italic></p></annotation><pub-id pub-id-type="pmid">11706664</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R22">
+            <mixed-citation publication-type="journal">Hirschel B. Questions about the antimalarial amodiaquine. Lancet 2003; 361: 1229; author reply 1229-30. <annotation><p><italic toggle="yes">(Letter questioning the advisability of using amodiaquine because of the risk of severe granulocytopenia; authors reply that the crisis of malaria and chloroquine resistance in Africa warrants use of amodiaquine for treatment, estimated fatality rate being 1:31,000 and severe hepatotoxicity as 1:15,650).</italic></p></annotation><pub-id pub-id-type="pmid">12686075</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R23">
+            <mixed-citation publication-type="journal">Taylor WR, White NJ. Antimalarial drug toxicity: a review. Drug Saf 2004; 27: 25-61. <annotation><p><italic toggle="yes">(Review of the toxicities and side effects of antimalarials; amodiaquine is linked to agranulocytosis and hepatitis in 1:2000 recipients).</italic></p></annotation><pub-id pub-id-type="pmid">14720085</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R24">
+            <mixed-citation publication-type="journal">Sowunmi A, Fehintola FA, Adedeji AA, Gbotosho GO, Tambo E, Fateye BA, Happi TC, Oduola AM. Open randomized study of artesunate-amodiaquine vs. chloroquine-pyrimethamine-sulfadoxine for the treatment of uncomplicated Plasmodium falciparum malaria in Nigerian children. Trop Med Int Health 2005; 10: 1161-70. <annotation><p><italic toggle="yes">(Controlled trial of 3 day regimens of artesunate-amodiaquine vs chloroquine-pyrimethamine-sulfadoxine in 153 children with malaria; &#x0201c;biochemical &#x02026; parameters remained normal before and after treatment in all subjects&#x0201d;).</italic></p></annotation><pub-id pub-id-type="pmid">16262741</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R25">
+            <mixed-citation publication-type="journal">Fanello CI, Karema C, van Doren W, Rwagacondo CE, D'Alessandro U. Tolerability of amodiaquine and sulphadoxine-pyrimethamine, alone or in combination for the treatment of uncomplicated Plasmodium falciparum malaria in Rwandan adults. Trop Med Int Health 2006; 11: 589-96. <annotation><p><italic toggle="yes">(Controlled trial of amodiaquine vs sulfadoxine/pyrimethamine vs both in 351 patients with malaria in Rwanda; ALT levels decreased during therapy and no mention of hepatotoxicity or hepatitis).</italic></p></annotation><pub-id pub-id-type="pmid">16640610</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R26">
+            <mixed-citation publication-type="journal">Zongo I, Dorsey G, Rouamba N, Tinto H, Dokomajilar C, Guiguemde RT, Rosenthal PJ, Ouedraogo JB. Artemether-lumefantrine versus amodiaquine plus sulfadoxine-pyrimethamine for uncomplicated falciparum malaria in Burkina Faso: a randomised non-inferiority trial. Lancet 2007; 369 (9560): 491-8. <annotation><p><italic toggle="yes">(Controlled trial of artemether-lumefantrine vs sulfadoxine-pyrimethamine and amodiaquine in 521 patients with malaria; adverse event rates were similar and no mention of ALT levels or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">17292769</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R27">
+            <mixed-citation publication-type="journal">Markham LN, Giostra E, Hadengue A, Rossier M, Rebsamen M, Desmeules J. Emergency liver transplantation in amodiaquine-induced fulminant hepatitis. Am J Trop Med Hyg 2007; 77: 14-5. <annotation><p><italic toggle="yes">(39 year old woman developed fatigue and then jaundice ~10 weeks after starting amodiaquine prophylaxis for malaria [bilirubin 14 mg/dL, ALT 1475 U/L, Alk P 108 U/L, protime 17%] and underwent successful liver transplant 6 days later; liver showed massive necrosis).</italic></p></annotation><pub-id pub-id-type="pmid">17620624</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R28">
+            <mixed-citation publication-type="journal">Gasasira AF, Kamya MR, Achan J, Mebrahtu T, Kalyango JN, Ruel T, Charlebois E, et al. High risk of neutropenia in HIV-infected children following treatment with artesunate plus amodiaquine for uncomplicated malaria in Uganda. Clin Infect Dis 2008; 46: 985-91. <annotation><p><italic toggle="yes">(Analysis of safety of artesunate and amodiaquine in children with malaria; ALT elevations occurred in less than 1%).</italic></p></annotation><pub-id pub-id-type="pmid">18444813</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R29">
+            <mixed-citation publication-type="journal">Maiteki-Sebuguzi C, Jagannathan P, Yau VM, Clark TD, Njama-Meya D, Nzarubara B, Talisuna AO, et al. Safety and tolerability of combination antimalarial therapies for uncomplicated falciparum malaria in Ugandan children. Malar 2008; 7: 106. <annotation><p><italic toggle="yes">(Controlled trial of 3 combination regimens in 382 children with malaria in Uganda; ALT elevations occurred in 0.5% with amodiaquine/artesunate, 0.3% with amodiaquine/sulfadoxine/pyrimethamine and 0.6% with artemether-lumefantrine).</italic></p></annotation><pub-id pub-id-type="pmid">18547415</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R30">
+            <mixed-citation publication-type="journal">Adjei GO, Kurtzhals JA, Rodrigues OP, Alifrangis M, Hoegberg LC, Kitcher ED, Badoe EV, et al. Amodiaquine-artesunate vs artemether-lumefantrine for uncomplicated malaria in Ghanaian children: a randomized efficacy and safety trial with one year follow-up. Malar 2008; 7: 127. <annotation><p><italic toggle="yes">(Controlled trial of artesunate-amodiaquine vs artemether-lumefantrice in 227 children with malaria in Ghana; similar efficacy; ALT levels improved during therapy and no reports of hepatitis or ALT increases).</italic></p></annotation><pub-id pub-id-type="pmid">18620577</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R31">
+            <mixed-citation publication-type="journal">Sirima SB, Tiono AB, Gansan&#x000e9; A, Diarra A, Ou&#x000e9;draogo A, Konat&#x000e9; AT, Kiechel JR, et al. The efficacy and safety of a new fixed-dose combination of amodiaquine and artesunate in young African children with acute uncomplicated Plasmodium falciparum. Malar J 2009; 8: 48. <annotation><p><italic toggle="yes">(Controlled trial of fixed vs &#x0201c;loose&#x0201d; dose combinations of amodiaquine and artesunate in 750 children with P. falciparum malaria reported similar efficacy [92%] and safety, 7 [~1%] had ALT elevations, one child had levels &#x0003e;1000 U/L, but bilirubin levels were normal and there were no symptoms).</italic></p></annotation><pub-id pub-id-type="pmid">19291301</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R32">
+            <mixed-citation publication-type="journal">Gu&#x000e9;vart E, Agu&#x000e9;mon A. [Two cases of fulminant hepatitis during a curative treatment with an artesunate-amodiaquine combination]. Med Mal Infect 2009; 39: 57-60. French. <annotation><p><italic toggle="yes">(Two cases of acute liver failure; 32 year old African given artesunate and amodiaquine for fever developed fatigue and anemia 3 days later with ALT 483 U/L and progressive hepatic failure; 44 year old African physician treated for fever with artesunate and amodiaquine developed fatigue after 3 and jaundice after 5 days with ALT 15,000 U/L and progressive hepatic failure).</italic></p></annotation><pub-id pub-id-type="pmid">19013042</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R33">
+            <mixed-citation publication-type="journal">Ndiaye JL, Randrianarivelojosia M, Sagara I, Brasseur P, Ndiaye I, Faye B, Randrianasolo L, et al. Randomized, multicentre assessment of the efficacy and safety of ASAQ--a fixed-dose artesunate-amodiaquine combination therapy in the treatment of uncomplicated Plasmodium falciparum malaria. Malar J 2009; 8: 125. <annotation><p><italic toggle="yes">(Controlled trial of artesunate-amodiaquine vs artemether-lumefantine for 3 days in 940 patients with malaria; response rates and side effects were similar in the two groups; rates of ALT elevations decreased during therapy and follow up, from 9% to 6%).</italic></p></annotation><pub-id pub-id-type="pmid">19505304</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R34">
+            <mixed-citation publication-type="journal">Devarbhavi H, Dierkhising R, Kremers WK, Sandeep MS, Karanth D, Adarsh CK. Single-center experience with drug-induced liver injury from India: causes, outcome, prognosis, and predictors of mortality. Am J Gastroenterol 2010; 105: 2396-404. <annotation><p><italic toggle="yes">(313 cases of drug induced liver injury were seen over a 12 year period at a large hospital in Bangalore, India, none were attributed to antimalarials). </italic></p></annotation><pub-id pub-id-type="pmid">20648003</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R35">
+            <mixed-citation publication-type="journal">Bojang K, Akor F, Bittaye O, Conway D, Bottomley C, Milligan P, Greenwood B. A randomised trial to compare the safety, tolerability and efficacy of three drug combinations for intermittent preventive treatment in children. PLoS One 2010; 5(6): e11225. <annotation><p><italic toggle="yes">(Controlled trial comparing 3 regimens for prevention of endemic malaria in 1008 Gambian children, 331 of whom received amodiaquine once monthly for 2-3 months; no severe adverse reactions were detected and no mention of liver injury, hepatitis or jaundice).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R36">
+            <mixed-citation publication-type="journal">Zwang J, Dorsey G, Djimd&#x000e9; A, Karema C, M&#x000e5;rtensson A, Ndiaye JL, Sirima SB, et al. Clinical tolerability of artesunate-amodiaquine versus comparator treatments for uncomplicated falciparum malaria: an individual-patient analysis of eight randomized controlled trials in sub-Saharan Africa. Malar J 2012; 11: 260. <annotation><p><italic toggle="yes">(Among 3113 patients treated with artesunate and amodiaquine for falciparum malaria in 8 controlled trials, common treatment emergent side effects were cough [33%], anorexia [17%], vomiting [15%], diarrhea [17%], pruritus [18%] and weakness [16%]; 4 patients [1%] developed jaundice, but no details provided).</italic></p></annotation><pub-id pub-id-type="pmid">22856598</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R37">
+            <mixed-citation publication-type="journal">Thanh NX, Trung TN, Phong NC, Quang HH, Dai B, Shanks GD, Chavchich M, et al. The efficacy and tolerability of artemisinin-piperaquine (Artequick&#x000ae;) versus artesunate-amodiaquine (Coarsucam&#x02122;) for the treatment of uncomplicated plasmodium falciparum malaria in south-central Vietnam. Malar J 2012; 11: 217. <annotation><p><italic toggle="yes">(Controlled trial comparing aremisinin with either piperaquine [n=63] for 2 days or with amodiaquine [65] for 3 days for falciparum malaria in Vietnam reported similar efficacy and tolerance; no severe adverse events reported and no mention of liver injury, jaundice or ALT elevations). </italic></p></annotation><pub-id pub-id-type="pmid">22741618</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R38">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. (In a<annotation><p><italic toggle="yes">population based study from Iceland, 96 cases of drug induced liver injury were identified over a 2 year period [2010 and 2011], but none were attributed to an antimalarial agent).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R39">
+            <mixed-citation publication-type="journal">Yeka A, Lameyre V, Afizi K, Fredrick M, Lukwago R, Kamya MR, Talisuna AO. Efficacy and safety of fixed-dose artesunate-amodiaquine vs. artemether-lumefantrine for repeated treatment of uncomplicated malaria in Ugandan children. PLoS One 2014; 9: e113311. <annotation><p><italic toggle="yes">(Among 413 children with malaria treated with repeated courses of either artesunate-amodiaquine or artemether-lumefantrine over a 2 year period, both response and adverse event rates were similar with the 2 regimens, abnormal liver tests arising in 5.6% of children but were asymptomatic except in two children; nevertheless, all abnormalities resolved without specific treatment and did not recur despite readministration).</italic></p></annotation><pub-id pub-id-type="pmid">25436614</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R40">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America: an analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes">(Among 176 reports of drug induced liver injury from Latin America published between 1996 and 2012, none were attributed to an antimalarial agent).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R41">
+            <mixed-citation publication-type="journal">Advice for travelers. Treat Guidel Med Lett 2015: 57 (1466): 52-8. <annotation><p><italic toggle="yes">(Concise guidelines on prevention of malaria in travelers; amodiaquine is not recommended for prophylaxis against malaria for travelers).</italic></p></annotation><pub-id pub-id-type="pmid">25853663</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R42">
+            <mixed-citation publication-type="journal">Yeka A, Kigozi R, Conrad MD, Lugemwa M, Okui P, Katureebe C, Belay K, et al. Artesunate/amodiaquine versus artemether/lumefantrine for the treatment of uncomplicated malaria in Uganda: a randomized trial. J Infect Dis 2016; 213: 1134-42. <annotation><p><italic toggle="yes">(Among 602 Ugandan children with malaria treated with artesunate-amodiaquine or artemether-lumefantrine, adverse event rates were similar with the 2 regimens and there were no serious hepatic adverse events; no mention of ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">26597254</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R43">
+            <mixed-citation publication-type="journal">Coulibaly B, Pritsch M, Bountogo M, Meissner PE, Nebi&#x000e9; E, Klose C, Kieser M, et al. Efficacy and safety of triple combination therapy with artesunate-amodiaquine-methylene blue for falciparum malaria in children: a randomized controlled trial in Burkina Faso. J Infect Dis 2015; 211: 689-97. <annotation><p><italic toggle="yes"> (Among 221 children with falciparum malaria treated with artesunate-amodiaquine with or without methylene blue for 3 days, serious adverse events were uncommon and none were liver related; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">25267980</pub-id></mixed-citation>
+          </ref>
+          <ref id="Amodiaquine.R44">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, no cases were attributed to an antimalarial drug).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Amodiaquine.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=amodiaquine+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Amodiaquine: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=amodiaquine">Trials on Amodiaquine: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,1094 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Azathioprine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Azathioprine</book-part-id>
+      <title-group>
+        <title>Azathioprine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>21</day>
+          <month>8</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Azacitidine" document-type="chapter">Azacitidine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Azilsartan" document-type="chapter">Azilsartan</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Azathioprine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Azathioprine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Azathioprine is a purine analogue and prodrug of mercaptopurine that is used as an immunosuppressive agent in organ transplantation to prevent rejection and in autoimmune diseases as a corticosteroid sparing agent. Azathioprine is associated with minor, usually transient and asymptomatic elevations in serum aminotransferase levels during therapy and with rare instances of acute, cholestatic liver injury and, with long term use, noncirrhotic portal hypertension as a result of nodular regenerative hyperplasia or sinusoidal obstruction syndrome.</p>
+        </sec>
+        <sec id="Azathioprine.Background">
+          <title>Background</title>
+          <p>Azathioprine (ay" za thye' oh preen) is an imidazolyl derivative and prodrug of mercaptopurine that inhibits lymphocyte function by antagonism of purine metabolism, thus inhibiting DNA, RNA and subsequent protein synthesis. Azathioprine inhibits the maturation of T cells and blocks delayed hypersensitivity reactions; it also has antiinflammatory activity. Azathioprine was introduced into use in the early 1960s and represented a major breakthrough in the development of antirejection therapy, allowing for more widespread and successful use of kidney, heart and liver transplantation. Azathioprine was approved for use in the United States in 1968 and is still widely used in transplantation and in treatment of autoimmune conditions such as Crohn disease, rheumatoid arthritis and autoimmune hepatitis. Azathioprine is available generically and under the brand name of Imuran as tablets of 50, 75 and 100 mg; a parenteral formulation is also available. The usual dose is 1 to 3 mg per kilogram or 50 to 150 mg daily and it is typically given long term. Common side effects include nausea, abdominal upset, rash, aphthous ulcers and dose related bone marrow suppression. Long term use of azathioprine is associated with an increased risk for malignancy, including lymphoma and possibly hepatocellular carcinoma.</p>
+        </sec>
+        <sec id="Azathioprine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Azathioprine has been associated with several forms of hepatotoxicity, including mild, transient and asymptomatic rises in serum aminotransferase levels, an acute cholestatic injury developing during the first year of starting therapy, and a chronic hepatic injury marked by peliosis hepatis, veno-occlusive disease or nodular regenerative hyperplasia that typically arises 1 to 5 years after starting azathioprine.</p>
+          <p>Mild serum aminotransferase elevations can occur during azathioprine therapy, particularly with high doses during the first 12 weeks of therapy. These elevations are generally asymptomatic, benign and self-limited, resolving rapidly either with stopping therapy and often even with continuing treatment at a lower dose. ALT elevations during azathioprine therapy may be due to a direct toxic effect of the drug; ALT elevations as well as myelotoxicity have been linked to higher levels of methyl-mercaptopurine, a product of one of the metabolic pathways of azathioprine metabolism.</p>
+          <p>Azathioprine can also cause an acute, clinically apparent liver injury that is typically cholestatic. This complication is uncommon but not rare, occurring in approximately one in a thousand treated patients. The acute cholestatic injury due to azathioprine usually presents with fatigue and jaundice after 2 to 12 months of starting therapy. The serum ALT and alkaline phosphatase tend to be only mildly or moderately elevated and in a mixed cholestatic-hepatocellular pattern. Rash, fever and eosinophilia are uncommon and autoantibodies are generally not found. Liver biopsy typically shows intrahepatic cholestasis with focal hepatocellular necrosis and scant inflammation suggestive of a cholestatic hepatitis. In some cases, the injury resembles the "bland cholestasis" as occurs with estrogens or anabolic steroids. The liver injury usually resolves rapidly on stopping, but prolonged cholestasis has been reported and some cases have been associated with vanishing bile duct syndrome, which can be progressive and eventually fatal. This form of azathioprine hepatotoxicity appears to be idiosyncratic and, with other nonhepatic hypersensitivity reactions (fever, rash, vasculitis), is possibly linked to the nitroimidazole component of azathioprine.</p>
+          <p>Azathioprine, like other thiopurines, can also cause chronic liver injury and long term therapy has been linked to the development of portal hypertension and nodular regenerative hyperplasia. This form of chronic azathioprine hepatotoxicity typically presents with fatigue and signs and symptoms of portal hypertension accompanied by mild liver enzyme abnormalities and minimal jaundice arising 6 months to many years after starting azathioprine. Liver biopsy shows nodular regenerative hyperplasia and varying amounts of sinusoidal dilation and central vein injury. This syndrome can progress to hepatic failure, particularly if azathioprine is continued, but clinical improvement after stopping therapy is typical. The onset of this syndrome may be acute with abdominal pain and ascites, in which situation liver biopsy usually shows sinusoidal dilation, central congestion and injury to sinusoidal endothelial cells suggestive of veno-occlusive disease which is currently referred to as sinusoidal obstructive syndrome. Typically, serum aminotransferase levels and alkaline phosphatase levels are minimally elevated, even in the presence of hyperbilirubinemia and other manifestations of hepatic dysfunction and portal hypertension (thrombocytopenia).</p>
+          <p>Finally, long term therapy with azathioprine and other thiopurines has been implicated in leading to the development of malignancies, including hepatocellular carcinoma (HCC) and hepatosplenic T cell lymphoma (HSTCL). Both of these complications are rare, but have been reported in several dozen case reports and small case series. In neither instance has the role of thiopurine therapy in causing the malignacies been proven, and similar cases have been described in patients with autoimmune conditions or after solid organ transplantation who have not received thiopurines. Hepatocellular carcinoma typically arises after years of azathioprine or mercaptopurine therapy and in the absence of accompanying liver disease (although sometimes with focal hepatic glycogenosis). The HCC is most frequently found on an imaging study done of an unrelated condition. The prognosis is more favorable than that of HCC associated with cirrhosis. Hepatosplenic T cell lymphoma has been reported largely among young men with inflammatory bowel disease and long term immunosuppression with a thiopurine, with or without anti-tumor necrosis factor therapy. The typical presentation is with fatigue, fever, hepatosplenomegaly and pancytopenia. The diagnosis is made by bone marrow or liver biopsy showing marked infiltration with malignant T cells. HSTCL is poorly responsive to antineoplastic therapy and has a high mortality rate.</p>
+          <p>Likelihood score: A (well known cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Azathioprine.Histopathology">
+          <title>Histopathology</title>
+          <p>The typical histologic pattern of acute liver injury caused by azathioprine is a cholestatic hepatitis with mild parenchymal injury and inflammation, presence of bile plugs in canaliculi and portal inflammation with chronic inflammatory cells. In some instances there is bile duct injury and cholestasis can be prolonged.</p>
+          <p>
+<bold>CHOLESTATIC HEPATITIS (EXAMPLE 1)</bold>
+</p>
+          <table-wrap id="Azathioprine.T1" position="anchor" orientation="portrait">
+            <table>
+              <tbody>
+                <tr>
+                  <td rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AzathioprineC1a.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"/>
+</td>
+                  <td rowspan="1" colspan="1">This case shows cholestatic hepatitis due to azathioprine. In zone 3 there was hepatocellular and canalicular (arrows) cholestasis. Foamy macrophages containing bile pigment fill the sinuses. The dark red line through the photo is an artifactual fold in the tissue on the glass microscope slide.</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AzathioprineC1b.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"/>
+</td>
+                  <td rowspan="1" colspan="1">The portal areas showed a mild, predominantly lymphocytic infiltrate associated with mild bile duct injury. The positions of ducts (D) and arteries (A) are indicated.</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </sec>
+        <sec id="Azathioprine.CHOLESTATIC_HEPATITIS__EXAM2">
+          <title>CHOLESTATIC HEPATITIS (EXAMPLE 2)</title>
+          <table-wrap id="Azathioprine.T2" position="anchor" orientation="portrait">
+            <table>
+              <tbody>
+                <tr>
+                  <td rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AzathioprineC2a.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"/>
+</td>
+                  <td rowspan="1" colspan="1">This case also shows a very mild cholestatic hepatitis, similar to example 1. A large bile plug (arrow) can be seen near the central vein (V) in this photo.</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="AzathioprineC2b.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"/>
+</td>
+                  <td rowspan="1" colspan="1">A mild lymphocytic infiltrate was seen in some of the portal areas. Hepatocytes in this case have pale staining cytoplasm consistent with glycogenosis. The location of bile<break/> ducts (D) is indicated for orientation.</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </sec>
+        <sec id="Azathioprine.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which azathioprine causes acute cholestasis is not known, but is likely due to an immunological response to a metabolic byproduct. A similar pattern of injury can occur with mercaptopurine, but has been less frequently reported. Azathioprine undergoes extensive hepatic metabolism to 6-mercaptopurine and thereafter to other thiopurines via three different pathways. Patients with low levels or a deficiency in thiopurine methyltransferase (which affects ~10% of the population and which mediates one of these metabolic pathways) have a higher rate of complications of azathioprine use, particularly bone marrow suppression, but do not appear to be at higher rate of acute cholestasis or nodular regeneration. The cause of the nodular regenerative hyperplasia that develops after long term azathioprine therapy is not well defined, but it appears to be due to injury to endothelial cells that causes variable degrees of venous outflow obstruction or portal venopathy and vascular damage that promote the nodular transformation.</p>
+        </sec>
+        <sec id="Azathioprine.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Both the acute cholestasis and the chronic nodular regeneration caused by azathioprine improve upon stopping the medication, but instances of progression to hepatic failure despite discontinuation of azathioprine have been reported with both syndromes. There are no known specific treatments for azathioprine hepatotoxicity. Rechallenge with azathioprine usually results in recurrence of the injury (within days to weeks) and should be avoided. Some patients have tolerated switching therapy to mercaptopurine or thioguanine, but substitution with a structurally unrelated immunosuppressive agent is more appropriate.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, <related-object source-id="livertox" document-id="AntirheumaticAgents">Antirheumatic Agents</related-object>, <related-object source-id="livertox" document-id="Transplant_Drugs">Transplant Drugs</related-object>, <related-object source-id="livertox" document-id="PurineAnalogues">Purine Analogues</related-object>; Gastrointestinal Agents</p>
+          <p><related-object source-id="livertox" document-id="Transplant_Drugs"/>Other Drugs in the Subclass, Purine Analogues/Thiopurines: <related-object source-id="livertox" document-id="Mercaptopurine">Mercaptopurine</related-object>, <related-object source-id="livertox" document-id="Thioguanine">Thioguanine</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Azathioprine.CASE_REPORTS">
+        <title>CASE REPORTS</title>
+        <sec id="Azathioprine.Case_1._Acute_cholestatic_h">
+          <title>Case 1. Acute cholestatic hepatitis due to azathioprine.</title>
+          <p>[Modified from: DePinho RA, Goldberg CS, Lefkowitch JH. Azathioprine and the liver: evidence favoring idiosyncratic, mixed cholestatic-hepatocellular injury in man. Gastroenterology 1984; 86: 162-5. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/6689657">PubMed Citation</ext-link>]</p>
+          <p>A 22 year old man with systemic lupus erythematosus with polyserositis and nephritis was started on high doses of prednisone to which azathioprine was added in an initial doses of 50 mg daily, later increasing to 100 mg daily. Three weeks later, serum ALT and alkaline phosphatase levels, which had been normal, began to rise and a week later he became jaundiced (Table). Physical examination showed no evidence of chronic liver disease. Tests for hepatitis A and B and CMV infection were negative. Serum autoantibodies had decreased during the month of immunosuppressive therapy. Azathioprine was stopped promptly, but liver tests worsened for the next week. A liver biopsy showed marked cholestasis and centrolobular ballooning degeneration with an occasional acidophil body, but scant inflammation and no fibrosis. Liver tests subsequently began to improve and were normal 6 weeks later.</p>
+          <sec id="Azathioprine.Key_Points1">
+            <title>Key Points</title>
+            <table-wrap id="Azathioprine.T3" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Azathioprine.T3_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Azathioprine (50&#x02192;100 mg daily)</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Azathioprine.T3_1_1_1_1" id="hd_b_Azathioprine.T3_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Azathioprine.T3_1_1_1_1" rowspan="1" colspan="1">Mixed (R=4.8 initially, falling to 1.8)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Azathioprine.T3_1_1_1_1" id="hd_b_Azathioprine.T3_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Azathioprine.T3_1_1_2_1" rowspan="1" colspan="1">3+ (jaundice, hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Azathioprine.T3_1_1_1_1" id="hd_b_Azathioprine.T3_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Azathioprine.T3_1_1_3_1" rowspan="1" colspan="1">3.5 weeks</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Azathioprine.T3_1_1_1_1" id="hd_b_Azathioprine.T3_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Azathioprine.T3_1_1_4_1" rowspan="1" colspan="1">6 weeks</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Azathioprine.T3_1_1_1_1" id="hd_b_Azathioprine.T3_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Azathioprine.T3_1_1_5_1" rowspan="1" colspan="1">Prednisone, clonidine (0.2 mg twice daily); both continued</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Azathioprine.Laboratory_Values1">
+            <title>Laboratory Values</title>
+            <table-wrap id="Azathioprine.T4" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Azathioprine.T4_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Azathioprine.T4_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Azathioprine.T4_1_1_1_3" rowspan="1" colspan="1">ALT* (U/L)</th>
+                    <th id="hd_h_Azathioprine.T4_1_1_1_4" rowspan="1" colspan="1">Alk P* (U/L)</th>
+                    <th id="hd_h_Azathioprine.T4_1_1_1_5" rowspan="1" colspan="1">Direct Bilirubin* (mg/dL)</th>
+                    <th id="hd_h_Azathioprine.T4_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_1" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_3" rowspan="1" colspan="1">25</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_4" rowspan="1" colspan="1">75</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_5" rowspan="1" colspan="1">0.0</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_1" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_3" rowspan="1" colspan="1">105</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_4" rowspan="1" colspan="1">80</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_5" rowspan="1" colspan="1">0.2</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_1" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_3" rowspan="1" colspan="1">110</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_4" rowspan="1" colspan="1">90</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_5" rowspan="1" colspan="1">0.1</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_1" rowspan="1" colspan="1">3.2 weeks</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_3" rowspan="1" colspan="1">705</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_4" rowspan="1" colspan="1">290</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_5" rowspan="1" colspan="1">1.2</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_6" rowspan="1" colspan="1">Admission</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_1" rowspan="1" colspan="1">4.5 weeks</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_2" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_3" rowspan="1" colspan="1">530</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_4" rowspan="1" colspan="1">550</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_5" rowspan="1" colspan="1">4.8</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_6" rowspan="1" colspan="1">Liver biopsy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_1" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_2" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_3" rowspan="1" colspan="1">350</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_4" rowspan="1" colspan="1">410</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_5" rowspan="1" colspan="1">0.2</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_1" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_2" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_3" rowspan="1" colspan="1">180</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_4" rowspan="1" colspan="1">290</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_5" rowspan="1" colspan="1">0.3</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_1" rowspan="1" colspan="1">9 weeks</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_2" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_3" rowspan="1" colspan="1">40</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_4" rowspan="1" colspan="1">95</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_5" rowspan="1" colspan="1">0.1</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_1 hd_h_Azathioprine.T4_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;50</bold>
+</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;100</bold>
+</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;0.3</bold>
+</td>
+                    <td headers="hd_h_Azathioprine.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <p>* Estimated from Figure 1.</p>
+          </sec>
+          <sec id="Azathioprine.Comment1">
+            <title>Comment</title>
+            <p>This is a typical case of acute idiosyncratic liver injury caused by azathioprine. The initial serum enzyme pattern was indicative of mixed hepatocellular-cholestatic injury, but subsequently values were indicative of cholestatic hepatitis, which was supported by the finding of marked cholestasis with minimal inflammation by liver biopsy. The clinical course and presentation may have been altered by the concurrent use of high doses of prednisone (perhaps accounting for lack of eosinophils on liver biopsy). This syndrome appears to be more common with higher doses of azathioprine.</p>
+          </sec>
+        </sec>
+        <sec id="Azathioprine.Case_2._Nodular_regenerativ">
+          <title>Case 2. Nodular regenerative hyperplasia during long term azathioprine therapy after renal transplantation.</title>
+          <p>[Modified from: Jones MC, Best PV, Catto GRD. Is nodular regenerative hyperplasia of the liver associated with azathioprine therapy after renal transplantation. Nephrol Dial Transplant 1988; 3: 330-3. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/3140109">PubMed Citation</ext-link>]</p>
+          <p>A 33 year old man underwent renal transplantation for end-stage kidney disease due to Goodpasture&#x02019;s syndrome. After a single episode of rejection, he was maintained on prednisolone (20 mg daily) and high doses of azathioprine (3 mg/kg daily). His liver tests were normal before transplantation, but began to rise approximately 15 months afterwards (Table). Hepatitis serology was negative and autoantibodies were not detected. He maintained good renal function. Two years after transplant he was found to have an enlarged liver and spleen and ascites. A liver biopsy showed nodular regenerative hyperplasia with minimal fibrosis and scant inflammation. Ascites was controlled with diuretics.</p>
+          <sec id="Azathioprine.Key_Points2">
+            <title>Key Points</title>
+            <table-wrap id="Azathioprine.T5" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Azathioprine.T5_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Azathioprine (3 mg/kg/day)</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Azathioprine.T5_1_1_1_1" id="hd_b_Azathioprine.T5_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Azathioprine.T5_1_1_1_1" rowspan="1" colspan="1">Cholestatic (R=0.9)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Azathioprine.T5_1_1_1_1" id="hd_b_Azathioprine.T5_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Azathioprine.T5_1_1_2_1" rowspan="1" colspan="1">4+ (symptoms and ascites)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Azathioprine.T5_1_1_1_1" id="hd_b_Azathioprine.T5_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Azathioprine.T5_1_1_3_1" rowspan="1" colspan="1">15 months</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Azathioprine.T5_1_1_1_1" id="hd_b_Azathioprine.T5_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Azathioprine.T5_1_1_4_1" rowspan="1" colspan="1">Unclear</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Azathioprine.T5_1_1_1_1" id="hd_b_Azathioprine.T5_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Azathioprine.T5_1_1_5_1" rowspan="1" colspan="1">Prednisolone</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Azathioprine.Laboratory_Values2">
+            <title>Laboratory Values</title>
+            <table-wrap id="Azathioprine.T6" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Azathioprine.T6_1_1_1_1" rowspan="1" colspan="1">Time After Transplant</th>
+                    <th id="hd_h_Azathioprine.T6_1_1_1_2" rowspan="1" colspan="1">AST (U/L)</th>
+                    <th id="hd_h_Azathioprine.T6_1_1_1_3" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Azathioprine.T6_1_1_1_4" rowspan="1" colspan="1">GGT (U/L)</th>
+                    <th id="hd_h_Azathioprine.T6_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Azathioprine.T6_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_1" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_2" rowspan="1" colspan="1">18</td>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_3" rowspan="1" colspan="1">96</td>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_4" rowspan="1" colspan="1">18</td>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_5" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_1" rowspan="1" colspan="1">15 months</td>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_2" rowspan="1" colspan="1">21</td>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_3" rowspan="1" colspan="1">77</td>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_4" rowspan="1" colspan="1">45</td>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_5" rowspan="1" colspan="1">0.4</td>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_1" rowspan="1" colspan="1">21 months</td>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_2" rowspan="1" colspan="1">56</td>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_3" rowspan="1" colspan="1">185</td>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_4" rowspan="1" colspan="1">240</td>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_5" rowspan="1" colspan="1">2.1</td>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_1" rowspan="1" colspan="1">27 months</td>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_2" rowspan="1" colspan="1">58</td>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_3" rowspan="1" colspan="1">143</td>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_4" rowspan="1" colspan="1">183</td>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_5" rowspan="1" colspan="1">2.0</td>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_6" rowspan="1" colspan="1">Ascites: biopsy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_1" rowspan="1" colspan="1">35 months</td>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_2" rowspan="1" colspan="1">42</td>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_3" rowspan="1" colspan="1">136</td>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_4" rowspan="1" colspan="1">168</td>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_5" rowspan="1" colspan="1">2.0</td>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_1" rowspan="1" colspan="1">
+<bold>Normal</bold>
+</td>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_2" rowspan="1" colspan="1">
+<bold>&#x0003c;40</bold>
+</td>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;115</bold>
+</td>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;31</bold>
+</td>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Azathioprine.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Azathioprine.Comment2">
+            <title>Comment</title>
+            <p>Nodular regenerative hyperplasia appears to be the result of vascular injury, either to endothelial cells lining the sinusoids or portal veins responsible for venous inflow. The liver responds with regenerative changes that alter the structure of the liver, producing nodules with varying sizes of hepatocytes and resultant portal hypertension. Liver tests are generally minimally abnormal and signs of portal hypertension arise (ascites, esophageal varices) that appear to indicate the presence of cirrhosis, but liver biopsy shows little or no fibrosis and superficially may appear normal. A reticulin stain of elastic fibers, however, usually demonstrates nodularity of the liver. Patients with nodular regeneration can develop hepatic decompensation, particularly in response to variceal hemorrhage, hemodynamic instability, bacterial peritonitis or septicemia. All of the thiopurines (azathioprine, thioguanine and mercaptopurine) have been associated with the development of nodular regenerative hyperplasia. This example demonstrates the silent nature of its onset and the challenge in its diagnosis. An early clue to the development of portal hypertension is a gradual decrease in platelet count, even while still in the normal range. The current case report did not make clear whether azathioprine was stopped, but other reports have indicated that patients often improve clinically with discontinuation of the implicated medication.</p>
+          </sec>
+        </sec>
+        <sec id="Azathioprine.Case_3._Nodular_regenerativ">
+          <title>Case 3. Nodular regenerative hyperplasia during azathioprine therapy for inflammatory bowel disease.</title>
+          <p>[Modified from: Daniel F, Cadranel JF, Seksik P, Cazier A, Duong Van Huyen JP, Ziol M, Coutarel P, et al. Azathioprine induced nodular regenerative hyperplasia in IBD patients. Gastroenterol Clin Biol 2005; 29: 600-34. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/15980758">PubMed Citation</ext-link>]</p>
+          <p>A 44 year old man with severe ulcerative colitis requiring long term corticosteroid therapy was started on azathioprine (2.5 mg/kg/day) and was found to have developed mild liver test abnormalities six months later. Serum aminotransferase, alkaline phosphatase and gamma glutamyl transpeptidase (GGT) levels were 1.1 to 1.7 times the upper limit of normal (ULN). Serum bilirubin and prothrombin time were normal and all tests for viral hepatitis and autoimmune markers were negative. The platelet count had fallen from normal to 129,000/&#x003bc;L. Hepatic imaging using magnetic resonance and ultrasound were normal. Endoscopy did not reveal esophageal varices or portal hypertensive gastropathy. A liver biopsy, however, showed early changes of nodular regenerative hyperplasia, with scant inflammation and no evidence of injury to central veins or bile ducts. During the ensuing 6 to 9 months, serum GGT levels continued to rise, and eventually azathioprine was stopped. Subsequently, GGT levels fell gradually and the platelet count stabilized. The patient remained asymptomatic of liver disease, and subsequently the ulcerative colitis was adequately controlled with corticosteroids only.</p>
+          <sec id="Azathioprine.Key_Points3">
+            <title>Key Points</title>
+            <table-wrap id="Azathioprine.T7" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Azathioprine.T7_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Azathioprine (200 mg/day for 16 months)</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Azathioprine.T7_1_1_1_1" id="hd_b_Azathioprine.T7_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Azathioprine.T7_1_1_1_1" rowspan="1" colspan="1">Cholestatic (R=0.9)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Azathioprine.T7_1_1_1_1" id="hd_b_Azathioprine.T7_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Azathioprine.T7_1_1_2_1" rowspan="1" colspan="1">1+ (asymptomatic liver test abnormalities)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Azathioprine.T7_1_1_1_1" id="hd_b_Azathioprine.T7_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Azathioprine.T7_1_1_3_1" rowspan="1" colspan="1">6 months</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Azathioprine.T7_1_1_1_1" id="hd_b_Azathioprine.T7_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Azathioprine.T7_1_1_4_1" rowspan="1" colspan="1">Unclear</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Azathioprine.T7_1_1_1_1" id="hd_b_Azathioprine.T7_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Azathioprine.T7_1_1_5_1" rowspan="1" colspan="1">Prednisolone</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Azathioprine.Laboratory_Values3">
+            <title>Laboratory Values</title>
+            <table-wrap id="Azathioprine.T8" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Azathioprine.T8_1_1_1_1" rowspan="1" colspan="1">Time After Transplant</th>
+                    <th id="hd_h_Azathioprine.T8_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Azathioprine.T8_1_1_1_3" rowspan="1" colspan="1">GGT<break/> (times ULN)</th>
+                    <th id="hd_h_Azathioprine.T8_1_1_1_4" rowspan="1" colspan="1">Platelets (1000/&#x003bc;L)</th>
+                    <th id="hd_h_Azathioprine.T8_1_1_1_5" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_1" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_3" rowspan="1" colspan="1">1.0</td>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_4" rowspan="1" colspan="1">320</td>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_1" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_3" rowspan="1" colspan="1">1.1</td>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_4" rowspan="1" colspan="1">129</td>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_1" rowspan="1" colspan="1">1 year</td>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_3" rowspan="1" colspan="1">10.2</td>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_4" rowspan="1" colspan="1">110</td>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_1" rowspan="1" colspan="1">1.5 years</td>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_2" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_3" rowspan="1" colspan="1">9.0</td>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_4" rowspan="1" colspan="1">145</td>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_1" rowspan="1" colspan="1">2 years</td>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_2" rowspan="1" colspan="1">1 year</td>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_3" rowspan="1" colspan="1">7.2</td>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_4" rowspan="1" colspan="1">110</td>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_1" rowspan="1" colspan="1">2.5 years</td>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_2" rowspan="1" colspan="1">1.5 years</td>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_3" rowspan="1" colspan="1">5.9</td>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_4" rowspan="1" colspan="1">110</td>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_1" rowspan="1" colspan="1">3 years</td>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_2" rowspan="1" colspan="1">2 years</td>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_3" rowspan="1" colspan="1">1.5</td>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_4" rowspan="1" colspan="1">150</td>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_1 hd_h_Azathioprine.T8_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;31</bold>
+</td>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003e;160</bold>
+</td>
+                    <td headers="hd_h_Azathioprine.T8_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Azathioprine.Comment3">
+            <title>Comment</title>
+            <p>Nodular regenerative hyperplasia can arise fairly rapidly during long term therapy with thiopurines such as azathioprine. The condition is largely asymptomatic, but clues to its presence include mild liver test abnormalities (particularly GGT) and a fall in platelet count. Imaging usually demonstrates enlargement of the spleen and mild abnormalities in the appearance of the liver. With progression of nodular transformation, portal hypertension can arise and distinct hepatic decompensation can occur as a complication of incurrent infections, variceal hemorrhage or renal failure.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Azathioprine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Azathioprine.BPI" orientation="portrait">
+          <p>
+<bold> REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Azathioprine &#x02013; Generic, Imuran&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Antineoplastic Agents</p>
+          <p>Antirheumatic Agents</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Azathioprine">COMPLETE LABELING</ext-link>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Azathioprine.CHEMICAL_FORMULAS_AND_STRUC">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="Azathioprine.T9" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Azathioprine.T9_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Azathioprine.T9_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Azathioprine.T9_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Azathioprine.T9_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Azathioprine.T9_1_1_1_1" rowspan="1" colspan="1">Azathioprine</td>
+                <td headers="hd_h_Azathioprine.T9_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134975150">446-86-6</ext-link>
+</td>
+                <td headers="hd_h_Azathioprine.T9_1_1_1_3" rowspan="1" colspan="1">C9-H7-N7-O2-S</td>
+                <td headers="hd_h_Azathioprine.T9_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Azathioprine_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Azathioprine Chemical Structure</alt-text></graphic>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Azathioprine.T9_1_1_1_1" rowspan="1" colspan="1">Mercaptopurine</td>
+                <td headers="hd_h_Azathioprine.T9_1_1_1_2" align="center" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134986593">6112-76-1</ext-link>
+</td>
+                <td headers="hd_h_Azathioprine.T9_1_1_1_3" align="center" rowspan="1" colspan="1">C5-H4-N4-S.H2-O</td>
+                <td headers="hd_h_Azathioprine.T9_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Mercaptopurine_Structure_000.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Mercaptopurine Chemical Structure</alt-text></graphic>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Azathioprine.T9_1_1_1_1" rowspan="1" colspan="1">Thioguanine</td>
+                <td headers="hd_h_Azathioprine.T9_1_1_1_2" align="center" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134974093">154-42-7</ext-link>
+</td>
+                <td headers="hd_h_Azathioprine.T9_1_1_1_3" align="center" rowspan="1" colspan="1">C5-H5-N5-S</td>
+                <td headers="hd_h_Azathioprine.T9_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Thioguanine_Structure_000.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Thioguanine Chemical Structure</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+        <p>The thiopurines include azathioprine, mercaptopurine and thioguanine, all of which are sulphur substituted purine bases. The prototype of this class is mercaptopurine which was introduced into clinical medicine in the 1950's, largely as an antineoplastic agent. Azathioprine was developed and introduced into clinical medicine in the mid-1960's as a prodrug of mercaptopurine having a nitroimidazole attached to the sulphur of the mercaptopurine molecule. Azathioprine has been used largely as an immunosuppressive agent.</p>
+      </sec>
+      <sec id="Azathioprine.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 21 August 2017</p>
+        <p>Abbreviations used: TPMT, thiopurine methyltransferase; HSTCL, hepatospenic T-cell lymphoma; HCC, hepatocellular carcinoma</p>
+        <ref-list id="Azathioprine.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Azathioprine.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Antipurines. Oncotherapeutic and immunosuppressive agents. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 687-9.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity of thiopurines published in 1999).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R2">
+            <mixed-citation publication-type="other">DeLeve LD. Thiopurines. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2011, pp. 555-6.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of thiopurines).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R3">
+            <mixed-citation publication-type="other">Krensky AM, Bennett WM, Vincenti F. Azathioprine. Immnosuppressants, tolerogens, and immunostimulants. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1013-14.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R4">
+            <mixed-citation publication-type="other">Chabner BA, Bertino J, Cleary J, Ortiz T, Lane A, Supko JG, Ryan D. Purine analogues. Cytotoxic agents. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1701-2.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R5">
+            <mixed-citation publication-type="journal">McIlvanie SK, MacCarthy JD. Hepatitis in association with prolonged 6-mercaptopurine therapy. Blood 1959; 14: 80-90. <annotation><p><italic toggle="yes">(Four cases of acute "toxic" liver injury during mercaptopurine therapy of leukemia in children, ages 4-13 years, arising 2-6 months after starting drug [bilirubin 4.5-8.7 mg/dL, Alk P mildly elevated]).</italic></p></annotation><pub-id pub-id-type="pmid">13607581</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R6">
+            <mixed-citation publication-type="journal">Clark PA, Hsia YE, Huntsman RG. Toxic complications of treatment with 6-mercaptopurine: two cases with hepatic necrosis and intestinal ulceration. Br Med J 1960; 1: 393-5. <annotation><p><italic toggle="yes">(Two cases; 5 year old boy with acute leukemia developed jaundice after 7 weeks of mercaptopurine therapy [bilirubin 6.6 mg/dL, minimal Alk P elevations], on autopsy liver showed severe centrolobular hepatic necrosis; 40 year old man with acute leukemia developed jaundice after 4 weeks of mercaptopurine [bilirubin 9.5 mg/mL, ALT 140 U/L, Alk P 2 times ULN], with rapid progress and death, autopsy showing centrilobular necrosis).</italic></p></annotation><pub-id pub-id-type="pmid">13810473</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R7">
+            <mixed-citation publication-type="journal">Einhorn M, Davidsohn I. Hepatotoxicity of mercaptopurine. JAMA 1964; 188: 802-6. <annotation><p><italic toggle="yes">(Among 38 patients with leukemia treated with mercaptopurine, 16 developed jaundice, resolving with stopping in half and recurring in two with rechallenge; onset in 4-8 weeks [bilirubin 3.6-14.8 mg/dL, ALT 21-140 U/L, Alk P 1-6 times ULN]).</italic></p></annotation><pub-id pub-id-type="pmid">14132534</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R8">
+            <mixed-citation publication-type="journal">Mackay IR, Weiden S, Ungar B. Treatment of chronic active hepatitis and lupoid hepatitis with 6-mercaptopurine and azathioprine. Lancet 1964; 1: 899-902. <annotation><p><italic toggle="yes">(Experience in using mercaptopurine and azathioprine in 5 patients with autoimmune hepatitis, mentions that hyperbilirubinemia was a side effect of higher doses, resolving with dose modification).</italic></p></annotation><pub-id pub-id-type="pmid">14124080</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R9">
+            <mixed-citation publication-type="journal">Corley CC Jr, Lessner HE, Larsen WE. Azathioprine therapy of "autoimmune" diseases. Am J Med 1966; 41: 404-12. <annotation><p><italic toggle="yes">(Experience in using azathioprine in 46 patients with various autoimmune diseases, mostly an idiopathic thrombocytopenic purpura and lupus erythematosus; side effects including nausea and vomiting occurred with higher doses, mild cytopenias were common, and one patient had jaundice after 6 months [350 mg/day] [bilirubin 3.8 mg/L, mild Alk P and ALT elevations], biopsy showing cholestasis).</italic></p></annotation><pub-id pub-id-type="pmid">5330635</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R10">
+            <mixed-citation publication-type="journal">Krawitt EL, Stein JH, Kirkendall WM, Clifton JA. Mercaptopurine hepatotoxicity in a patient with chronic active hepatitis. Arch Intern Med. 1967; 120: 729-34. <annotation><p><italic toggle="yes">(18 year old girl with autoimmune hepatitis poorly controlled on prednisone developed fatigue and jaundice within 2-3 weeks of starting mercaptopurine, with worsening hepatic function, multiorgan failure and death).</italic></p></annotation><pub-id pub-id-type="pmid">4168362</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R11">
+            <mixed-citation publication-type="journal">Shorey J, Schenker S, Suki WN, Combes B. Hepatotoxicity of mercaptopurine. Arch Intern Med 1968; 122: 54-8. <annotation><p><italic toggle="yes">(Two cases; 45 year old man developed malaise and jaundice 4 months after starting mercaptopurine for glomerulonephritis [bilirubin 9.9 mg/dL, AST 112 U/L, Alk P 3 times ULN], resolving within 6 weeks of stopping; 39 year old woman developed jaundice 2-3 months after starting mercaptopurine [bilirubin 16.4 mg/dL, AST 314 U/L, Alk P 4 times ULN], with sudden unexplained death shortly after, autopsy showing intrahepatic cholestasis, with scant necrosis).</italic></p></annotation><pub-id pub-id-type="pmid">5659378</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R12">
+            <mixed-citation publication-type="journal">Lascari AD, Givier RL, Saper RT, Hill LF. Portal hypertension in a case of acute leukemia treated with antimetabolites for 10 years. N Engl J Med 1968; 279: 303-6. <annotation><p><italic toggle="yes">(6 year old girl with acute leukemia and long term chemotherapy including mercaptopurine, developed splenomegaly after 3 years with subsequent recurrent variceal hemorrhage; splenectomy and porto-caval shunt yielded excellent outcome; biopsy showing fibrosis without cirrhosis).</italic></p></annotation><pub-id pub-id-type="pmid">5301748</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R13">
+            <mixed-citation publication-type="journal">Robert J, Barbier P, Manaster J, Jacobs E. Hepatotoxicity of cytostatic drugs evaluated by liver function tests and appearance of jaundice. Digestion 1968; 1: 229-32. <annotation><p><italic toggle="yes">(Analysis of 417 courses of cytostatic therapy with various agents; half of patients receiving mercaptopurine developed elevations in serum bilirubin, but no specifics given).</italic></p></annotation><pub-id pub-id-type="pmid">5696244</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R14">
+            <mixed-citation publication-type="journal">Sparberg M, Simon N, Del Greco F. Intrahepatic cholestasis due to azathioprine. Gastroenterology 1969; 57: 439-41. <annotation><p><italic toggle="yes">(44 year old man developed jaundice 13 months after renal transplant [bilirubin 21 mg/dL, ALT 94 U/L, Alk P normal], biopsy showing cholestasis without hepatocyte necrosis; patient died after withdrawal of azathioprine and increase in corticosteroids).</italic></p></annotation><pub-id pub-id-type="pmid">4951148</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R15">
+            <mixed-citation publication-type="journal">Lehmann GW. [Intrahepatic cholestasis caused by 6-mercaptopurine]. Kinderarztl Prax 1969; 37: 506-11. German. <annotation><p><italic toggle="yes">(15 year old girl with acute leukemia developed nausea followed by jaundice 2 months after starting mercaptopurine [bilirubin 10.6 rising to 38.1 mg/dL, ALT 42 U/L, Alk P ~2 times ULN, eosinophils 15%], ultimately responding to prednisolone, but subsequent relapse of leukemia).</italic></p></annotation><pub-id pub-id-type="pmid">5379242</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R16">
+            <mixed-citation publication-type="journal">Drinkard JP, Stanley TM, Dornfeld L, Austin RC, Barnett EV, Pearson CM, Vernier RL, et al. Azathioprine and prednisone in the treatment of adults with lupus nephritis. Medicine (Baltimore) 1970; 49: 411-32. <annotation><p><italic toggle="yes">(Report on 20 patients with lupus nephritis treated with combination of prednisone and azathioprine; hepatotoxicity occurred in one patient developing jaundice at 11 months [bilirubin 11.4 mg/dL, ALT 80 U/L and Alk P ~1.5 times ULN], resolving with stopping).</italic></p></annotation><pub-id pub-id-type="pmid">4924695</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R17">
+            <mixed-citation publication-type="journal">Malekzadeh MH, Grushkin CM, Wright HT Jr, Fine RN. Hepatic dysfunction after renal transplantation in children. J Pediatr 1972; 81: 279-85. <annotation><p><italic toggle="yes">(Nine of 63 children with renal transplants had evidence of liver disease, 8 considered due to azathioprine, arising 3-30 months after transplant [bilirubin 1.2-24 mg/dL, ALT 116-500 U/L, Alk P 1-10 times elevated], improving on stopping).</italic></p></annotation><pub-id pub-id-type="pmid">4339534</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R18">
+            <mixed-citation publication-type="journal">Zarday A, Veith FJ, Gliedman ML, Soberman R. Irreversible liver damage after azathioprine. JAMA 1972; 222: 690-1. <annotation><p><italic toggle="yes">(27 year old woman developed chronic liver disease after renal transplantation, improving on stopping azathioprine, but then progressing to end stage liver disease; in retrospect, possibly due to hepatitis C).</italic></p></annotation><pub-id pub-id-type="pmid">4562099</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R19">
+            <mixed-citation publication-type="other">Millard PR, Herbertson BM, Evans DB, Calne RY. Azathioprine hepatotoxicity in renal transplantation. Transplantation 1973; 16: 527-30. Not in PubMed<annotation><p><italic toggle="yes">(Complex analysis of patients after renal transplantation finding no correlation between changes in azathioprine dose and changes in ALT levels).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R20">
+            <mixed-citation publication-type="journal">Briggs WA, Lazarus JM, Birtch AG, Hampers CL, Hager EB, Merrill JP. Hepatitis affecting hemodialysis and transplant patients. Arch Intern Med 1973; 132: 21-8. <annotation><p><italic toggle="yes">(Analysis of 14 patients who developed hepatitis B while on renal dialysis and 14 after renal transplant; reinstitution of azathioprine was often associated with exacerbation of the hepatitis).</italic></p></annotation><pub-id pub-id-type="pmid">4577389</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R21">
+            <mixed-citation publication-type="journal">Ireland P, Rashid A, von Lichtenberg F, Cavallo T, Merrill JP. Liver disease in kidney transplant patients receiving azathioprine. Arch Intern Med 1973; 132: 29-37. <annotation><p><italic toggle="yes">(Analysis of course of liver disease in 24 kidney transplant patients suggested that azathioprine had little or no effect on course of what was likely chronic viral hepatitis in transplant patients).</italic></p></annotation><pub-id pub-id-type="pmid">4577390</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R22">
+            <mixed-citation publication-type="journal">Koretz RL. Azathioprine in liver disease. Arch Intern Med 1974; 133: 870-1. Replies by authors. <annotation><p><italic toggle="yes">(Letter in response to Briggs [1973] and Ireland [1973] pointing out that the patients were from the same institution and may have been the same in the two studies, but that conclusions regarding safety of azathioprine were different).</italic></p></annotation><pub-id pub-id-type="pmid">4595401</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R23">
+            <mixed-citation publication-type="journal">Du Vivier A, Munro DD, Verbov J. Treatment of psoriasis with azathioprine. Br Med J 1974; 1: 49-51. <annotation><p><italic toggle="yes">(Among 29 patients with psoriasis treated with azathioprine, 2 developed cholestasis and 8 portal fibrosis as shown by liver biopsies performed before, at 6 months and then annually).</italic></p></annotation><pub-id pub-id-type="pmid">4812392</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R24">
+            <mixed-citation publication-type="journal">Berne TV, Chatterjee SN, Craig JR, Payne JE. Hepatic dysfunction in recipients of renal allografts. Surg Gynecol Obstet 1975; 141: 171-5. <annotation><p><italic toggle="yes">(Among 142 patients undergoing renal transplantation, 18 developed liver disease, all while on azathioprine; in 10 patients there was improvement with stopping).</italic></p></annotation><pub-id pub-id-type="pmid">168654</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R25">
+            <mixed-citation publication-type="journal">Ware AJ, Luby JP, Eigenbrodt EH, Long DL, Hull AR. Spectrum of liver disease in renal transplant recipients. Gastroenterology 1975; 68: 755-64. <annotation><p><italic toggle="yes">(Liver disease developed in 31 of 82 [38%] patients undergoing renal transplantation, 8 with acute self-limited disease, 2 with acute liver failure [1 due to HBV] and 21 with chronic liver injury; all received azathioprine, but no consistent effect of stopping or modifying dose in chronic cases, possibly being due to chronic hepatitis C which could not be serologically identified in 1975).</italic></p></annotation><pub-id pub-id-type="pmid">164401</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R26">
+            <mixed-citation publication-type="journal">Marubbio AT, Danielson B. Hepatic veno-occlusive disease in a renal transplant patient receiving azathioprine. Gastroenterology 1975; 69: 739-43. <annotation><p><italic toggle="yes">(54 year old man developed jaundice 14 months after renal transplant [bilirubin 5.1 mg/dL, AST 125 U/L, Alk P 1.5 times ULN], progressing to liver failure and death despite stopping azathioprine promptly; biopsies and autopsy showing veno-occlusive disease; patient also had hepatitis B).</italic></p></annotation><pub-id pub-id-type="pmid">1098955</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R27">
+            <mixed-citation publication-type="journal">Griner PF, Elbadawi A, Packman CH. Veno-occlusive disease of the liver after chemotherapy of acute leukemia. Report of two cases. Ann Intern Med 1976; 85: 578-82. <annotation><p><italic toggle="yes">(Two men with leukemia, ages 17 and 72 years, developed abdominal pain, ascites and progressive liver failure 3-4 months after starting cyclic cytotoxic therapy with multiple agents including thioguanine [initial bilirubin 1.3 and 2.5 mg/dL, AST 348 and 48 U/L, Alk P 92 and 276 U/L]; autopsies showed acute sinusoidal obstruction syndrome [veno-occlusive disease]).</italic></p></annotation><pub-id pub-id-type="pmid">1068643</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R28">
+            <mixed-citation publication-type="journal">Minow RA, Stern MH, Casey JH, Rodriguez V, Luna MA. Clinico-pathologic correlation of liver damage in patients treated with 6-mercaptopurine and adriamycin. Cancer 1976; 38: 1524-8. <annotation><p><italic toggle="yes">(Combination of adriamycin [50 mg/m<sup>2</sup>/day] and mercaptopurine [500 mg/m2/day] with vincristine and prednisone for acute leukemia was associated with high rate of hepatotoxicity; in 11 cases, bilirubin rising with each course with mild elevations in ALT and Alk P; liver tissue showing central cholestasis with mild hepatocellular necrosis and fatty change).</italic></p></annotation><pub-id pub-id-type="pmid">1068739</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R29">
+            <mixed-citation publication-type="journal">Degott C, Rueff B, Kreis H, DuBoust A, Potet F, Benhamou JP. Peliosis hepatis in recipients of renal transplants. Gut 1978; 19: 748-53. <annotation><p><italic toggle="yes">(Among 500 patients undergoing renal transplantation between 1965-75, 55 had liver biopsy, 12 of which showed peliosis hepatis [6 major; 6 minor changes], often in association with chronic hepatitis B; in major forms there was hepatomegaly and portal hypertension; hypothesized possible role of azathioprine).</italic></p></annotation><pub-id pub-id-type="pmid">355072</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R30">
+            <mixed-citation publication-type="journal">Nataf C, Feldmann G, Lebrec D, Degott C, Descamps JM, Rueff B, Benhamou JP. Idiopathic portal hypertension (perisinusoidal fibrosis) after renal transplantation. Gut 1979; 20: 531-7. <annotation><p><italic toggle="yes">(Two cases of young men developing esophageal varices 1.5 and 7 years after renal transplantation and azathioprine therapy with normal liver tests and liver biopsy, but perisinusoidal fibrosis found on electron microscopy, seemingly improving once azathioprine was stopped).</italic></p></annotation><pub-id pub-id-type="pmid">381128</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R31">
+            <mixed-citation publication-type="journal">Topley JM, Benson J, Squier MV, Chessells JM. Hepatotoxicity in the treatment of acute lymphoblastic leukaemia. Med Pediatr Oncol 1979; 7: 393-9. <annotation><p><italic toggle="yes">(Among 21 children receiving mercaptopurine for acute leukemia, most had transient ALT elevations, but liver biopsies were often normal or showed minimal changes).</italic></p></annotation><pub-id pub-id-type="pmid">296787</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R32">
+            <mixed-citation publication-type="journal">Ware AJ, Luby JP, Hollinger B, Eigenbrodt EH, Cuthbert JA, Atkins CR, Shorey J, et al. Etiology of liver disease in renal-transplant patients. Ann Intern Med 1979; 91: 364-71. <annotation><p><italic toggle="yes">(Analysis of 72 episodes of liver disease occurring in 62 of 120 renal transplant recipients; 4 episodes of acute cholestasis were attributed to azathioprine, resolving with stopping or dose reduction; azathioprine did not seem to account for cases of chronic liver injury, responses to stopping being equivocal).</italic></p></annotation><pub-id pub-id-type="pmid">224742</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R33">
+            <mixed-citation publication-type="journal">Stromeyer FU, Ishak KG. Nodular transformation (nodular regenerative hyperplasia) of the liver. A clinicopathological study of 30 cases. Hum Pathol 1981; 1: 60-71. <annotation><p><italic toggle="yes">(30 cases of nodular regenerative hyperplasia from the files of the Armed Forces Institute of Pathology; ages 14-80 years, half males, 18 discovered incidentally, 84% splenomegaly, 58% ascites, half died, 3 with liver failure, mild elevations in AST and Alk P levels were typical; 6 had rheumatologic disorder, 7 hematologic disease; 10 on corticosteroids, several on azathioprine; detailed description of histological changes).</italic></p></annotation><pub-id pub-id-type="pmid">7203455</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R34">
+            <mixed-citation publication-type="journal">Whisnant JK, Pelkey J. Rheumatoid arthritis: treatment with azathioprine (IMURAN(R)). Clinical side-effects and laboratory abnormalities. Ann Rheum Dis 1982; 41 Suppl 1: 44-7. <annotation><p><italic toggle="yes">(Review of literature on 542 patients in 24 studies given azathioprine for up to 4 years; leucopenia in 26%, gastrointestinal complaints in 19%; only two reports of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">7065742</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R35">
+            <mixed-citation publication-type="journal">Weitz H, Gokel SM, Loeschke K, Possinger K, Eder M. Venoocclusive disease of the liver in patients receiving immunosuppressive therapy. Virchows Arch [1] 1982; 395: 245-56. <annotation><p><italic toggle="yes">(Four cases of sinusoidal obstruction syndrome in 34-41 year old men who developed mild jaundice 9-21 months after renal transplantation [bilirubin 2.8-3.7 mg/dL, ALT 17-60 U/L, Alk P 108-673 U/L], ultimately with fatal outcomes).</italic></p></annotation><pub-id pub-id-type="pmid">7051531</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R36">
+            <mixed-citation publication-type="journal">D'Cruz CA, Wimmer RS, Harcke HT, Huff DS, Naiman JL. Veno-occlusive disease of the liver in children following chemotherapy for acute myelocytic leukemia. Cancer 1983; 52: 1803-7. <annotation><p><italic toggle="yes">(Three children [2 girls and 1 boy, ages 4, 8 and 14] developed sinusoidal obstruction syndrome 5-6 months after starting chemotherapy for leukemia, presenting with abdominal pain and hepatomegaly [bilirubin 1.2-2.0 mg/dL, ALT and Alk P normal], improving on decreasing dose of chemotherapy).</italic></p></annotation><pub-id pub-id-type="pmid">6578867</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R37">
+            <mixed-citation publication-type="journal">Harvey C, Dixon JS, Bird HA. Serum IgA concentration and hepatotoxicity in rheumatoid arthritis treated with azathioprine. Br Med J (Clin Res Ed) 1983; 287: 534. <annotation><p><italic toggle="yes">(Among 27 patients with rheumatoid arthritis treated with azathioprine [1.5 mg/kg/day], 4 developed ALT elevations 2-8 weeks after starting, all 4 had low levels of IgA before starting [mean=109 mg/dL]).</italic></p></annotation><pub-id pub-id-type="pmid">6411213</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R38">
+            <mixed-citation publication-type="journal">DePinho RA, Goldberg CS, Lefkowitch JH. Azathioprine and the liver: evidence favoring idiosyncratic, mixed cholestatic-hepatocellular injury in man. Gastroenterology 1984; 86: 162-5. <annotation><p><italic toggle="yes">(22 year old man with lupus erythematosus developed jaundice 3 weeks after starting azathioprine [peak direct bilirubin ~4.9 mg/dL, ALT ~710 U/L, Alk P ~560 U/L], resolving within 6 weeks of stopping; biopsy showed intrahepatic cholestasis with scant inflammation and necrosis: Azathioprine Case 1).</italic></p></annotation><pub-id pub-id-type="pmid">6689657</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R39">
+            <mixed-citation publication-type="journal">Eisenhauer T, Hartmann H, Rumpf KW, Helmchen U, Scheler F, Creutzfeldt W. Favorable outcome of hepatic veno-occlusive disease in a renal transplant patient receiving azathioprine, treated by portacaval shunt: report of a case and review of the literature. Digestion 1984; 30: 185-90. <annotation><p><italic toggle="yes">(45 year old man developed ascites and abdominal pain 2 years after renal transplant while on azathioprine, biopsy showing veno-occlusive disease and ascites responding to stopping azathioprine and portacaval shunt).</italic></p></annotation><pub-id pub-id-type="pmid">6389237</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R40">
+            <mixed-citation publication-type="journal">Watanabe A, Obata T, Nagashima H, Sakagami K, Orita K. Nonicteric liver damage with a gamma-glutamyl transpeptidase level of 5,609 units/l in a renal-transplant recipient receiving azathioprine. Acta Med Okayama 1984; 38: 533-9. <pub-id pub-id-type="pmid">6151783</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R41">
+            <mixed-citation publication-type="journal">Gerlag PG, Labatty S, Driessen WM, Deckers PFL, Van Hooff JP, Schroder E, Assmann KM, et al. Hepatic sinusoidal dilatation with portal hypertension during azathioprine treatment after kidney transplantation. J Hepatol 1986; 1: 339-48. <annotation><p><italic toggle="yes">(3 patients developed evidence of portal hypertension 16-24 months after renal transplant on azathioprine therapy without portal fibrosis, improvement on stopping but residual changes found during follow up).</italic></p></annotation><pub-id pub-id-type="pmid">3902952</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R42">
+            <mixed-citation publication-type="journal">Read AE, Wiesner RH, La Brecque DR, Tifft JG, Mullen KD, Sheer RL, Petrelle M, et al. Hepatic veno-occlusive disease associated with renal transplantation and azathioprine therapy. Ann Intern Med 1986; 104: 651-6. <annotation><p><italic toggle="yes">(Four patients with veno-occlusive disease and signs of portal hypertension 0.5-9 years after renal transplantation while on azathioprine; one improved, 3 had progressive problems with portal hypertension and hepatic failure).</italic></p></annotation><pub-id pub-id-type="pmid">3008617</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R43">
+            <mixed-citation publication-type="journal">Lemarchand P, Desrumeaux B, Bercoff E, Manchon ND, Chassagne P, Deshayes P, H&#x000e9;met J, Bourreille J. [Cholestasis and sinusoidal dilatation following treatment with azathioprine]. Gastroenterol Clin Biol 1986; 10: 853-4. French. <annotation><p><italic toggle="yes">(53 year old woman with rheumatoid arthritis developed jaundice 6 months after starting azathioprine [bilirubin 12.9 mg/dL, ALT 75 U/L, Alk P 1150 U/L], resolving within 1 month of stopping and relapsing 3 days after rechallenge, biopsy showed sinusoidal dilatation and intrahepatic cholestasis with minimal inflammation).</italic></p></annotation><pub-id pub-id-type="pmid">3803830</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R44">
+            <mixed-citation publication-type="journal">Kissel JT, Levy RJ, Mendell JR, Griggs RC. Azathioprine toxicity in neuromuscular disease. Neurology 1986; 36: 35-9. <annotation><p><italic toggle="yes">(Retrospective review of 64 patients with autoimmune neuromuscular disease treated with azathioprine for 0.5 to 16 years; dose modification for toxicity was done in 42%, most commonly for leucopenia, hepatotoxicity occurred in 9%, arising within 1-8 weeks, resolving within 1-2 months in all; recurrence on rechallenge within days).</italic></p></annotation><pub-id pub-id-type="pmid">3941781</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R45">
+            <mixed-citation publication-type="journal">Katzka DA, Saul SH, Jorkasky D, Sigal H, Reynolds JC, Soloway RD. Azathioprine and hepatic venoocclusive disease in renal transplant patients. Gastroenterology 1986; 90: 446-54. <annotation><p><italic toggle="yes">(3 men, ages 37-59 years, developed liver test abnormalities [bilirubin 1.5-3.5 mg/dL, ALT 44-86 U/L, Alk P 505-648 U/L] 12-32 months after starting azathioprine, 2 dying and one surviving with improvement after stopping azathioprine; all had nodular regenerative hyperplasia and sinusoidal obstructive changes on biopsy or autopsy).</italic></p></annotation><pub-id pub-id-type="pmid">3510146</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R46">
+            <mixed-citation publication-type="journal">Cooper C, Cotton DW, Minihane N, Cawley MI. Azathioprine hypersensitivity manifesting as acute focal hepatocellular necrosis. J R Soc Med 1986; 79: 171-3. <annotation><p><italic toggle="yes">(58 year old man with rheumatoid arthritis developed jaundice 2 weeks after starting azathioprine [bilirubin 2.3 mg/dL, ALT &#x0003e;300 U/L, Alk P 898 U/L], liver biopsy showing nonspecific changes and symptoms, resolving within 1 week and laboratory abnormalities within 1 month of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">3701755</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R47">
+            <mixed-citation publication-type="journal">Barrowman JA, Kutty PK, Mu RA, Huang SN. Sclerosing hepatitis and azathioprine. Dig Dis Sci 1986; 31: 221-2. <annotation><p><italic toggle="yes">(35 year old man treated with azathioprine for 8 years developed jaundice [bilirubin 10 mg/dL, AST 350 U/L, Alk P 287 U/L], which progressed to end-stage liver disease and death 5 months later despite stopping azathioprine; clinical course possibly representing vanishing bile duct syndrome).</italic></p></annotation><pub-id pub-id-type="pmid">3943451</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R48">
+            <mixed-citation publication-type="journal">Adler M, Delhaye M, Deprez C, Hardy N, Gelin M, DePauw L, Vererstraeten P, et al. Hepatic vascular disease after kidney transplantation: report of two cases and review of the literature. Nephrol Dialysis Transplant 1987; 2: 183-8. <annotation><p><italic toggle="yes">(Two men, ages 31 and 40 years, developed portal hypertension due to azathioprine 9 and 4 years after kidney transplant, presenting with fatigue and abdominal distension with mild jaundice and minimal elevations in Alk P and ALT, biopsy showed changes of peliosis and sinusoidal obstruction syndrome; subsequently both had hepatic decompensation and one died).</italic></p></annotation><pub-id pub-id-type="pmid">3114679</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R49">
+            <mixed-citation publication-type="journal">Tage-Jensen U, Schlichting P, Thomsen HF, H&#x000f8;ybye G, Thomsen AC. Malignancies following long-term azathioprine treatment in chronic liver disease. A report from the Copenhagen Study Group for Liver Diseases. Liver 1987; 7: 81-3. <annotation><p><italic toggle="yes">(Among 154 pateints with chronic hepatitis treated with prednisone or azathioprine for an average of 7 years, all cause mortality was similar, but there were more deaths from malignancies in the azathiorpine [n=13] than the prednisone [n=4] treated group; no denominator of number of patients or patient-years provided).</italic></p></annotation><pub-id pub-id-type="pmid">3613879</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R50">
+            <mixed-citation publication-type="journal">Gruber S, Dehner LP, Simmons RL. De novo hepatocellular carcinoma without chronic liver disease but with 17 years of azathioprine immunosuppression. Transplantation 1987; 43: 597-600. <annotation><p><italic toggle="yes">(38 year old man, with 7 year history of renal transplantation and azathioprine therapy, developed unresectable HCC despite having a noncirrhotic liver).</italic></p></annotation><pub-id pub-id-type="pmid">3033852</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R51">
+            <mixed-citation publication-type="journal">Fonseca V, Havard CW. Portal hypertension secondary to azathioprine in myasthenia gravis. Postgrad med J 1988; 64: 950-2. <annotation><p><italic toggle="yes">(52 year old man with myasthenia was found to have splenomegaly 3 years after starting azathioprine [150 mg/day] [bilirubin 4.1 mg/dL, AST 40 U/L, Alk P 107 U/L, platelets 103,000/ &#x003bc;L], biopsy showing nodular regenerative hyperplasia, with improvement in liver tests [bilirubin 1.2 mg/dL] upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">2112245</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R52">
+            <mixed-citation publication-type="journal">Haboubi MB, Hiam H, Whitwell HL, Ackrill P. Role of endothelial cell injury in the spectrum of azathioprine-induced liver disease after renal transplant: light microscopy and ultrastructural observations. Am J Gastroenterol 1988; 83: 256-61. <annotation><p><italic toggle="yes">(3 cases, men, ages 26-44 developing hepatomegaly and signs of portal hypertension 1-5 years after renal transplant on azathioprine; biopsies showed peliosis and nodular regenerative hyperplasia, 1 died of hepatic failure, 2 improved on stopping azathioprine; suggested endothelial cell injury).</italic></p></annotation><pub-id pub-id-type="pmid">3278593</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R53">
+            <mixed-citation publication-type="journal">Buffet C, Cantarovitch M, Pelletier G, Fabre M, Martin E, Charpentier B, Etienne JP, et al. Three cases of nodular regenerative hyperplasia of the liver following renal transplantation. Nephrol Dial Transplant 1988; 3: 327-30. <annotation><p><italic toggle="yes">(Three men, ages 22, 29 and 50 years, developed nodular regenerative hyperplasia with hepato-splenomegaly 24-30 months after renal transplant while on azathioprine, two had peliosis and one sinusoidal obstruction syndrome; minimal liver test abnormalities in two; jaundice in the third who had a fatal outcome [initial bilirubin 5.8 mg/dL, AST 35 U/L, Alk P 80 U/L]).</italic></p></annotation><pub-id pub-id-type="pmid">3140108</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R54">
+            <mixed-citation publication-type="journal">Jones MC, Best PV, Catto GRD. Is nodular regenerative hyperplasia of the liver associated with azathioprine therapy after renal transplantation. Nephrol Dial Transplant 1988; 3: 330-3. <annotation><p><italic toggle="yes">(33 year old man developed minor elevations in liver tests starting 15 months after renal transplantation [bilirubin 1.0 mg/dL, AST 42 U/L, Alk P 185 U/L], later developing hepatomegaly and ascites; biopsy showed nodular regenerative hyperplasia).</italic></p></annotation><pub-id pub-id-type="pmid">3140109</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R55">
+            <mixed-citation publication-type="journal">Lemley DE, Delacy LM, Seeff LB, Ishak KG, Nashel DJ. Azathioprine induced hepatic veno-occlusive disease in rheumatoid arthritis. Ann Rheum Dis 1989; 48: 342-6. <annotation><p><italic toggle="yes">(59 year old man with rheumatoid arthritis developed abdominal pain 3 months after starting azathioprine with bilirubin 0.2 mg/dL, with minimal elevations in ALT and Alk P; azathioprine was continued and signs of portal hypertension arose 4 months later, biopsy showing sinusoidal obstruction syndrome).</italic></p></annotation><pub-id pub-id-type="pmid">2712618</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R56">
+            <mixed-citation publication-type="journal">Small P, Lichter M. Probable azathioprine hepatotoxicity: a case report. Ann Allergy 1989; 62: 518-20. <annotation><p><italic toggle="yes">(57 year old woman with rheumatoid arthritis and polymyositis developed AST and Alk P elevations 3 weeks after starting azathioprine, resolving with stopping and recurring with rechallenge, biopsies showed minimal nonspecific changes).</italic></p></annotation><pub-id pub-id-type="pmid">2735558</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R57">
+            <mixed-citation publication-type="journal">Ramalho HJ, Terra EG, Cartapatti E, Barberato JB, Alves VA, Gayotto LC, Abbud-Filho M. Hepatotoxicity of azathioprine in renal transplant recipients. Transplant Proc 1989; 21 (1 Pt 2): 1716-7. <annotation><p><italic toggle="yes">(2 women and 2 men, ages 28-49 years, developed cholestasis 2-18 months after renal transplant while on azathioprine [bilirubin 9.3-44 mg/dL, ALT 62-842 U/L, Alk P 1-3 times ULN], improving on stopping and reappearing within weeks on restarting azathioprine).</italic></p></annotation><pub-id pub-id-type="pmid">2652562</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R58">
+            <mixed-citation publication-type="journal">Tolman KG. Hepatotoxicity of antirheumatic drugs. J Rheumatol Suppl 1990; 22: 6-11. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of drugs used in rheumatology; mentioning acute mixed hepatocellular-cholestatic injury from azathioprine).</italic></p></annotation><pub-id pub-id-type="pmid">2192059</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R59">
+            <mixed-citation publication-type="journal">Jeurissen ME, Boerbooms AM, van de Putte LB, Kruijsen MW. Azathioprine induced fever, chills, rash, and hepatotoxicity in rheumatoid arthritis. Ann Rheum Dis 1990; 49: 25-7. <annotation><p><italic toggle="yes">(Among 25 patients with rheumatoid arthritis, 3 developed fever and rash within 2 weeks of starting azathioprine; one had cholestasis [bilirubin 1.6 mg/dL, ALT 150 U/L, Alk P 810 U/L], resolving slowly after stopping and fever recurring upon rechallenge).</italic></p></annotation><pub-id pub-id-type="pmid">2138007</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R60">
+            <mixed-citation publication-type="journal">Singh G, Fries JF, Williams CA, Zatarain E, Spitz P, Bloch DA. Toxicity profiles of disease modifying antirheumatic drugs in rheumatoid arthritis. J Rheumatol 1991; 18: 188-94. <annotation><p><italic toggle="yes">(Analysis of side effects of 7 agents from the ARAMIS database including 2,479 patients [153 on azathioprine] with rheumatoid arthritis reported 5 instances of liver abnormalities, but no jaundice during ~228 patient years of exposure to azathioprine).</italic></p></annotation><pub-id pub-id-type="pmid">1673721</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R61">
+            <mixed-citation publication-type="journal">Horsmans Y, Rahier J, Geubel AP. Reversible cholestasis with bile duct injury following azathioprine therapy. A case report. Liver 1991; 11: 89-93. <annotation><p><italic toggle="yes">(67 year old man with polymyositis developed jaundice 3 months after starting azathioprine [bilirubin ~5.0 mg/dL, ALT ~120 U/L, Alk P 550 U/L], liver biopsy showing intrahepatic cholestasis and bile duct injury; resolving within 2 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">2051906</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R62">
+            <mixed-citation publication-type="journal">Sterneck M, Wiesner R, Ascher N, Roberts J, Ferrell L, Ludwig J, Lake J. Azathioprine hepatotoxicity after liver transplantation. Hepatology 1991; 14: 806-10. <annotation><p><italic toggle="yes">(Two patients [58 year old woman and 41 year old man] developed jaundice 2 and 8 weeks after liver transplantation [bilirubin 33.8 and 7.1 mg/dL, AST 456 and 2965 U/L, Alk P not given and 349 U/L], liver biopsies showing centrilobular congestion, sinusoidal dilation and hemorrhagic necrosis suggesting vascular outflow obstruction, both improved on stopping azathioprine, one worsened on rechallenge).</italic></p></annotation><pub-id pub-id-type="pmid">1937385</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R63">
+            <mixed-citation publication-type="journal">Mion F, Napoleon B, Berger F, Chevallier M, Bonvoisin S, Descos L. Azathioprine induced liver disease: nodular regenerative hyperplasia of the liver and perivenous fibrosis in a patient treated for multiple sclerosis. Gut 1991; 32: 715-7. <annotation><p><italic toggle="yes">(37 year old man with multiple sclerosis developed variceal hemorrhage 7 years after starting azathioprine [100-150 mg/day], with biopsy showing nodular regeneration and perivascular fibrosis without inflammation).</italic></p></annotation><pub-id pub-id-type="pmid">2060883</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R64">
+            <mixed-citation publication-type="journal">Wagoner LE, Olsen SL, Bristow MR, O'Connell JB, Taylor DO, Lappe DL, Renlund DG. Cyclophosphamide as an alternative to azathioprine in cardiac transplant recipients with suspected azathioprine-induced hepatotoxicity. Transplantation 1993; 56: 1415-8. <annotation><p><italic toggle="yes">(29 of 320 cardiac transplant patients developed elevated liver enzymes on azathioprine, which improved when they were switched to cyclophosphamide 30-2014 days after transplant [mean bilirubin fell from 4.3 to 1.8 mg/dL, ALT 84 to 44 U/L, Alk P 184 to 149 U/L]; no rejection and all except one patient tolerated cyclophosphamide long term).</italic></p></annotation><pub-id pub-id-type="pmid">8279012</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R65">
+            <mixed-citation publication-type="journal">Gane E, Portmann B, Saxena R, Wong P, Ramage J, Williams R. Nodular regenerative hyperplasia of the liver graft after liver transplantation. Hepatology. 1994; 20: 88-94. <annotation><p><italic toggle="yes">(Nine cases of biopsy proven nodular regenerative hyperplasia in liver transplant recipients arising after 0.5-12 years; 6 presenting with ascites or varices and 3 without symptoms [bilirubin 0.5-5.1 mg/dL, AST 36-192 U/L, Alk P 159-1182 U/L], 5 improving on stopping azathioprine and 4 developing progressive hepatic failure; several had earlier biopsies showing venous outflow obstruction).</italic></p></annotation><pub-id pub-id-type="pmid">8020909</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R66">
+            <mixed-citation publication-type="journal">Dhillon AP, Burroughs AK, Hudson M, Shah N, Rolles K, Scheuer PJ. Hepatic venular stenosis after orthotopic liver transplantation. Hepatology 1994; 19: 106-11. <annotation><p><italic toggle="yes">(Retrospective review of 49 liver biopsies taken after liver transplantation identified 7 patients with venous outflow obstruction usually within 30 days of transplant, associated with endothelitis, only 5 on azathioprine suggesting that changes were due to rejection rather than drug).</italic></p></annotation><pub-id pub-id-type="pmid">8276346</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R67">
+            <mixed-citation publication-type="journal">Stetter M, Schmidl M, Krapf R. Azathioprine hypersensitivity mimicking Goodpasture's syndrome. Am J Kidney Dis 1994; 23: 874-7. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/%208203372">PubMed Citation</ext-link><annotation><p><italic toggle="yes">(Patient with renal transplant developed fever, arthralgias, diarrhea and pulmonary infiltrates within 7 days of starting azathioprine on three occasions, but later tolerated mercaptopurine suggesting hypersensitivity to nitroimidazole component of azathioprine).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R68">
+            <mixed-citation publication-type="journal">Gross R. Hepatotoxicity of 6-mercaptopurine and azathioprine. Mayo Clin Proc 1994; 69: 498. <annotation><p><italic toggle="yes">(Letter in response to a review by Stark and Tremaine on use of thiopurines to treat Crohn disease mentioning the problem of hepatotoxicity of mercaptopurine and importance of monitoring for liver test abnormalities).</italic></p></annotation><pub-id pub-id-type="pmid">8170206</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R69">
+            <mixed-citation publication-type="journal">Laidlaw ST, Reilly JT, Suvarna SK. Fatal hepatotoxicity associated with 6-mercaptopurine therapy. Postgrad Med J 1995; 71: 639. <annotation><p><italic toggle="yes">(68 year old man developed jaundice [bilirubin 9.1 mg/dL, ALT 149 U/L, Alk P 143 U/L] after 5th cycle of chemotherapy for leukemia including mercaptopurine with progressive hepatic failure and death).</italic></p></annotation><pub-id pub-id-type="pmid">8545299</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R70">
+            <mixed-citation publication-type="journal">Kowdley KV, Keeffe EB. Hepatotoxicity of transplant immunosuppressive agents. Gastroenterol Clin North Am 1995; 24: 991-1001. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of agents used in solid organ transplantation including azathioprine, which causes a broad range of hepatic injuries including transient ALT elevations, cholestasis, sinusoidal dilatation, veno-occlusive disease, peliosis and nodular regenerative hyperplasia with portal hypertension).</italic></p></annotation><pub-id pub-id-type="pmid">8749908</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R71">
+            <mixed-citation publication-type="journal">Knowles SR, Gupta AK, Shear NH, Sauder D. Azathioprine hypersensitivity-like reactions - a case report and a review of the literature. Clin Exp Dermatol 1995; 20: 353-6. <annotation><p><italic toggle="yes">(17 year old girl with vasculitis developed fever and leukopenia 15 days after starting azathioprine, with recurrence of fever within 24 hours of restarting; liver tests were normal).</italic></p></annotation><pub-id pub-id-type="pmid">8549000</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R72">
+            <mixed-citation publication-type="journal">Aguilar HI, Burgart LJ, Geller A, Rakela J. Azathioprine-induced lymphoma manifesting as fulminant hepatic failure. Mayo Clin Proc 1997; 72: 643-5. <annotation><p><italic toggle="yes">(50 year old woman with 15 year history of rheumatoid arthritis taking azathioprine for 5 years presented with jaundice [bilirubin 8.2 rising to 21.3 mg/dL, AST 185 to 1150 U/L, Alk P 600 to 810 U/L] resembling acute liver failure, biopsy showing hepatic involvement with T cell lymphoma).</italic></p></annotation><pub-id pub-id-type="pmid">9212766</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R73">
+            <mixed-citation publication-type="journal">Romagnuolo J, Sadowski DC, Lalor E, Jewell L, Thomson AB. Cholestatic hepatocellular injury with azathioprine: a case report and review of the mechanisms of hepatotoxicity. Can J Gastroenterol 1998; 12: 479-83. <annotation><p><italic toggle="yes">(63 year old man with Crohn's disease developed jaundice 9 weeks after starting azathioprine [bilirubin 8.0 mg/dL, AST 65 U/L, Alk P 896 U/L], liver biopsy showed intrahepatic cholestasis, resolved with stopping).</italic></p></annotation><pub-id pub-id-type="pmid">9812167</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R74">
+            <mixed-citation publication-type="journal">Griger DR, Higgs JB, Roane DW. Azathioprine hepatotoxicity is uncommon in patients with rheumatic diseases. J Clin Rheumatol 1999; 5: 60-4. <annotation><p><italic toggle="yes">(Retrospective review of 56 patients with rheumatic diseases treated with azathioprine, 41% had at least transient elevation in Alk P [146-302 U/L] or AST [39-234 U/L], but 80-90% fell to normal despite continuation and none were "clinically significant").</italic></p></annotation><pub-id pub-id-type="pmid">19078358</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R75">
+            <mixed-citation publication-type="journal">Saeian K, Franco J, Komorowski RA, Adams MB. Hepatocellular carcinoma after renal transplantation in the absence of cirrhosis or viral hepatitis: a case series. Liver Transpl Surg 1999; 5: 46-9. <annotation><p><italic toggle="yes">(Two patients, ages 57 and 66 years, both men with renal transplant for 13 and 24 years, on prednsone and azathioprine, presented with HCC, but without cirrhosis or chronic hepatitis in the non-tumorous liver).</italic></p></annotation><pub-id pub-id-type="pmid">9873092</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R76">
+            <mixed-citation publication-type="journal">Mahadevan U, Tremaine WJ, Johnson T, Pike MG, Mays DC, Lipsky JJ, Sandborn WJ. Intravenous azathioprine in severe ulcerative colitis: a pilot study. Am J Gastroenterol 2000; 95: 3463-8. <annotation><p><italic toggle="yes">(9 hospitalized patients with refractory ulcerative colitis received 36 hour infusions of azathioprine; 5 had a clinical response and only one had hepatotoxicity [bilirubin not given, ALT 695 U/L, Alk P 474 U/L], resolving in 1 week).</italic></p></annotation><pub-id pub-id-type="pmid">11151878</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R77">
+            <mixed-citation publication-type="journal">Mok MY, Ng WL, Yuen MF, Wong RW, Lau CS. Safety of disease modifying anti-rheumatic agents in rheumatoid arthritis patients with chronic viral hepatitis. Clin Exp Rheumatol 2000; 18: 363-8. <annotation><p><italic toggle="yes">(Retrospective review of 29 Chinese patients with rheumatoid arthritis and chronic hepatitis B [n=23] or C [n=6] receiving disease modifying agents; one patient on azathioprine for 2.7 years developed reactivation of hepatitis B). </italic></p></annotation><pub-id pub-id-type="pmid">10895374</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R78">
+            <mixed-citation publication-type="journal">Cattan S, Wendum D, Chazouilleres O, Schmitz J, Gendre JP. Hepatocellular carcinoma and focal hepatic glycogenosis after prolonged azathioprine therapy. Hum Pathol 2000; 31: 874-6. <annotation><p><italic toggle="yes">(22 year old woman with 13 year history of Crohn disease and azathioprine therapy for 6 years developed HCC with focal hepatic glycogenosis in non-tumorous liver).</italic></p></annotation><pub-id pub-id-type="pmid">10923928</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R79">
+            <mixed-citation publication-type="journal">Evans WE, Hon YY, Bomgaars L, Coutre S, Holdsworth M, Janco R, Kalwinsky D, et al. Preponderance of thiopurine S-methyltransferase deficiency and heterozygosity among patients intolerant to mercaptopurine or azathioprine. J Clin Oncol 2001; 19: 2293-301. <annotation><p><italic toggle="yes">(Thiopurine S methyltransferase [TPMT] activity was low or deficient in 71% of patients with azathioprine hematologic toxicity, but among 6 patients with hepatoxicity none were deficient, 3 had intermediate and 3 normal levels of TPMT activity). </italic></p></annotation><pub-id pub-id-type="pmid">11304783</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R80">
+            <mixed-citation publication-type="journal">Russmann S, Zimmermann A, Kr&#x000e4;henb&#x000fc;hl S, Kern B, Reichen J. Veno-occlusive disease, nodular regenerative hyperplasia and hepatocellular carcinoma after azathioprine treatment in a patient with ulcerative colitis. Eur J Gastroenterol Hepatol 2001; 13: 287-90. 11293451.<annotation><p><italic toggle="yes">(66 year old man with 12 year history of ulcerative colitis and 2 years of azathioprine therapy presented with jaundice, liver biopsy showing sinusoidal obstruction syndrome, nodular regenerative hyperplasia and HCC).</italic></p></annotation><pub-id pub-id-type="pmid">11293451</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R81">
+            <mixed-citation publication-type="journal">Schwab M, Schaeffeler E, Marx C, Fischer C, Lang T, Behrens C, Gregor M, et al. Azathioprine therapy and adverse drug reactions in patients with inflammatory bowel disease: impact of thiopurine S-methyltransferase polymorphism. Pharmacogenetics 2002; 12: 429-36. <annotation><p><italic toggle="yes">(Among 93 adults treated with azathioprine, thiopurine S-methyl transferase [TPMT] activities were normal in those with gastrointestinal [n=9] and liver toxicities [n=3], but were low in those with hematological toxicities).</italic></p></annotation><pub-id pub-id-type="pmid">12172211</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R82">
+            <mixed-citation publication-type="journal">Dubinsky MC, Vasiliauskas EA, Singh H, Abreu MT, Papadakis KA, Tran T, Martin P, et al. 6-thioguanine can cause serious liver injury in inflammatory bowel disease patients. Gastroenterology 2003; 125: 298-303. <annotation><p><italic toggle="yes">(Among 111 patients with inflammatory bowel disease treated with thioguanine at one institution, 27 [25%] developed abnormal liver tests [ALT 18-139 U/L; Alk P 35-221 U/L], correlating with higher methyl-metabolites of mercaptopurine and fall in platelet count [from 300,000 to 166,000], nodular regeneration found in 76% of 17 patients biopsied with abnormal liver tests, and 33% of nine with normal tests).</italic></p></annotation><pub-id pub-id-type="pmid">12891528</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R83">
+            <mixed-citation publication-type="journal">Sinico RA, Sabadini E, Borlandelli S, Cosci P, Di Toma L, Imbasciati E. Azathioprine hypersensitivity: report of two cases and review of the literature. J Nephrol 2003; 16: 272-6. <annotation><p><italic toggle="yes">(Two patients with systemic vasculitis developed fever, rash and malaise 10 and 20 days after starting azathioprine with prompt improvement on stopping and rapid relapse on restarting; no mention of liver test results as being abnormal).</italic></p></annotation><pub-id pub-id-type="pmid">12768076</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R84">
+            <mixed-citation publication-type="journal">Navarro JT, Ribera JM, Mate JL, Granada I, Junc&#x000e0; J, Batlle M, Mill&#x000e1; F, et al. Hepatosplenic T-gammadelta lymphoma in a patient with Crohn's disease treated with azathioprine. Leuk Lymphoma. 2003; 44: 531-3. <annotation><p><italic toggle="yes">(35 year old man with 15 year history of Crohn disease and 5 year history of azathioprine therapy presented with fever, hepatomegaly and HSTCL).</italic></p></annotation><pub-id pub-id-type="pmid">12688327</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R85">
+            <mixed-citation publication-type="journal">de Abajo FJ, Montero D, Madurga M, GarciaRodriguez LA. Acute and clinically relevant drug-induced liver injury: a population based case-control study. Br J Clin Pharmacol 2004; 58: 71-80. <annotation><p><italic toggle="yes">(Analysis of UK General Practice Research Database found 128 cases of suspected drug induced liver injury [2.4 per 100,000 person-years], 2 anicteric cases were attributed to azathioprine, yielding an odds ratio of 10.5).</italic></p></annotation><pub-id pub-id-type="pmid">15206996</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R86">
+            <mixed-citation publication-type="journal">Kontorinis N, Agarwal K, Gondolesi G, Fiel MI, O'Rourke M, Schiano TD. Diagnosis of 6 mercaptopurine hepatotoxicity post liver transplantation utilizing metabolite assays. Am J Transplant 2004; 4: 1539-42. <annotation><p><italic toggle="yes">(Two women, ages 46 and 53 years, with liver transplants developed jaundice 5 and 3 months after starting mercaptopurine [bilirubin 11.7 and 8.0 mg/dL, ALT 108 and 392 U/L, Alk P 464 and 395 U/L], resolving within 1-2 months of stopping; neither had TPMT deficiency).</italic></p></annotation><pub-id pub-id-type="pmid">15307844</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R87">
+            <mixed-citation publication-type="journal">Nygaard U, Toft N, Schmiegelow K. Methylated metabolites of 6-mercaptopurine are associated with hepatotoxicity. Clin Pharmacol Ther 2004; 75: 274-81. <annotation><p><italic toggle="yes">(High frequency of ALT elevations occurred in children with acute leukemia treated with mercaptopurine usually resolving with stopping or lowering the dose; ALT elevations were associated with higher doses and higher levels of methylated metabolites of mercaptopurine).</italic></p></annotation><pub-id pub-id-type="pmid">15060506</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R88">
+            <mixed-citation publication-type="journal">Reuther LO, Vainer B, Sonne J, Larsen NE. Thiopurine methyltransferase(TPMT) genotype distribution in azathioprine-tolerant and -intolerant patients with various disorders. The impact of TPMT genotyping in predicting toxicity. Eur J Clin Pharmacol 2004; 59: 797-801. <annotation><p><italic toggle="yes">(Weak correlation found between azathioprine intolerance and TPMT mutations).</italic></p></annotation><pub-id pub-id-type="pmid">14634700</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R89">
+            <mixed-citation publication-type="journal">de Boer NK, Mulder CJ, van Bodegraven AA. Myelotoxicity and hepatotoxicity during azathioprine therapy. Neth J Med 2005; 63: 444-6. <annotation><p><italic toggle="yes">(38 year old man with Crohn's disease was found to have abnormal liver tests and portal hypertension 3 years after starting azathioprine [bilirubin 2.1 mg/dL, ALT 53 U/L, Alk P 141 U/L], improving upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">16397313</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R90">
+            <mixed-citation publication-type="journal">Heckmann JM, Lambson EM, Little F, Owen EP. Thiopurine methyltransferase(TPMT) heterozygosity and enzyme activity as predictive tests for the development of azathioprine-related adverse events. J Neurol Sci 2005; 231: 71-80. <annotation><p><italic toggle="yes">(7 of 129 neurological patients on azathioprine developed hepatotoxicity; testing for TPMT activity or mutations had low predictive value).</italic></p></annotation><pub-id pub-id-type="pmid">15792824</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R91">
+            <mixed-citation publication-type="journal">Sparrow MP, Hande SA, Friedman S, Lim WC, Reddy SI, Cao D, Hanauer SB. Allopurinol safely and effectively optimizes thioguanine metabolites in inflammatory bowel disease patients not responding to azathioprine and mercaptopurine. Aliment Pharmacol Ther 2005; 22: 441-6. <annotation><p><italic toggle="yes">(Adding allopurinol to azathioprine therapy led to higher thioguanine and methyl-mercaptopurine levels, thus allowing for reduction in azathioprine dose, and theoretically better efficacy, lower toxicity).</italic></p></annotation><pub-id pub-id-type="pmid">16128682</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R92">
+            <mixed-citation publication-type="journal">Daniel F, Cadranel JF, Seksik P, Cazier A, Duong Van Huyen JP, Ziol M, Coutarel P, et al. Azathioprine induced nodular regenerative hyperplasia in IBD patients. Gastroenterol Clin Biol 2005; 29: 600-34. <annotation><p><italic toggle="yes">(Four men, ages 26 to 46 years, witih inflammatory bowel disease developed nodular regenerative hyperplasia 6-12 months after starting azathioprine, presenting with liver test abnormalities and decrease in platelet counts, improving with stopping including slight increase in platelet count: Azathioprine Case 3).</italic></p></annotation><pub-id pub-id-type="pmid">15980758</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R93">
+            <mixed-citation publication-type="journal">Andrade RJ, Lucena MI, Fern&#x000e1;ndez MC, Pelaez G, Pachkoria K, Garc&#x000ed;a-Ruiz E, Garc&#x000ed;a-Mu&#x000f1;oz B, et al. Drug-induced liver injury: an analysis of 461 incidences submitted to the Spanish Registry over a 10-year period. Gastroenterology 2005; 129: 512-21. <annotation><p><italic toggle="yes">(Among 446 cases of drug induced liver injury collected in Spain between 1984-2004, azathioprine accounted for 6 cases, ranking 14th; injury usually cholestatic, no fatalities).</italic></p></annotation><pub-id pub-id-type="pmid">16083708</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R94">
+            <mixed-citation publication-type="journal">Seiderer J, Zech CJ, Diebold J, Schoenberg SO, Brand S, Tillack C, G&#x000f6;ke B, Ochsenk&#x000fc;hn T. Nodular regenerative hyperplasia: a reversible entity associated with azathioprine therapy. Eur J Gastroenterol Hepatol 2006; 18: 553-5. <annotation><p><italic toggle="yes">(54 year old developed jaundice 5 months after starting azathioprine for Crohn's disease [bilirubin 7.5 mg/dL, but normal serum enzymes], biopsy showing nodular regenerative hyperplasia, improvement on stopping).</italic></p></annotation><pub-id pub-id-type="pmid">16607155</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R95">
+            <mixed-citation publication-type="journal">Chen SC, Cummings OW, Hartley MP, Filomena CA, Cho WK. Hepatocellular carcinoma occurring in a patient with Crohn's disease treated with both azathioprine and infliximab. Dig Dis Sci 2006; 51: 952-5. <annotation><p><italic toggle="yes">(28 year old woman with 14 year history of Crohn disease on azathioprine and infliximab was found to have 2 cm liver mass on routine imaging of the liver, biopsy showing focal hepatic glycogenosis).</italic></p></annotation><pub-id pub-id-type="pmid">16670938</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R96">
+            <mixed-citation publication-type="journal">Heneghan MA, Allan ML, Bornstein JD, Muir AJ, Tendler DA. Utility of thiopurine methyltransferase genotyping and phenotyping, and measurement of azathioprine metabolites in the management of patients with autoimmune hepatitis. J Hepatol 2006; 45: 584-91. <annotation><p><italic toggle="yes">(Among 86 patients with autoimmune hepatitis treated with azathioprine, TPMT mutations did not predict toxicities, one patient developed hepatotoxicity with rise in ALT to 3 times ULN that improved with dose reduction).</italic></p></annotation><pub-id pub-id-type="pmid">16876902</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R97">
+            <mixed-citation publication-type="journal">Shaye OA, Yadegari M, Abreu MT, Poordad F, Simon K, Martin P, Papadakis KA, et al. Hepatotoxicity of 6-mercaptopurine (6-MP) and azathioprine (AZA) in adult IBD patients. Am J Gastroenterol 2007; 102: 2488-94. <annotation><p><italic toggle="yes">(Among 173 adult patients with inflammatory bowel disease treated with azathioprine or mercaptopurine, 8 developed ALT elevations greater than twice ULN [bilirubin 0.3-2.4 mg/dL, ALT 58-434 U/L, Alk P 54-130 U/L], resolving with stopping or lowering dose; toxicity had weak association with higher methyl metabolites in serum).</italic></p></annotation><pub-id pub-id-type="pmid">17764490</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R98">
+            <mixed-citation publication-type="journal">Gisbert JP, Luna M, Gonz&#x000e1;lez-Lama Y, Pousa ID, Velasco M, Moreno-Otero R, Mat&#x000e9; J. Liver injury in inflammatory bowel disease: long-term follow-up study of 786 patients. Inflamm Bowel Dis 2007; 13: 1106-14. <annotation><p><italic toggle="yes">(Long term follow up of 138 patients treated with azathioprine or mercaptopurine; incidence of any abnormal liver test was 7.1% per year, values &#x0003e;twice ULN occurred in only 2.6% and often resolved spontaneously; 5 of 49 required discontinuation).</italic></p></annotation><pub-id pub-id-type="pmid">17455203</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R99">
+            <mixed-citation publication-type="journal">Contreras AM, Monte&#x000f3;n FJ, Flores MR, Mendoza-S&#x000e1;nchez F, Ruiz I. Drug-related hepatotoxicity in a renal transplant recipient with long-term survival and hepatitis C. Ann Hepatol 2007; 6: 70-3. <annotation><p><italic toggle="yes">(53 year old man with renal transplant developed ALT elevations during long term azathioprine therapy, but was subsequently found to have acquired chronic hepatitis C as a possible reason for the liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">17297434</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R100">
+            <mixed-citation publication-type="journal">Samarasena J, Borgaonkar M. Development of hepatocellular carcinoma in a patient with Crohn's disease treated with azathioprine. Dig Dis Sci 2007; 52: 2748-50. <annotation><p><italic toggle="yes">(37 year old man with 18 year history of Crohn disease and 2 years of azathioprine therapy, presented with abdominal pain and an unresectable HCC [bilirubin 1.0, ALT 23 U/L, Alk P 163 U/L], but no radiologic or clinical evidence of cirrhosis).</italic></p></annotation><pub-id pub-id-type="pmid">17404860</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R101">
+            <mixed-citation publication-type="journal">Lees CW, Maan AK, Hansoti B, Satsangi J, Arnott DR. Tolerability and safety of mercaptopurine in azathioprine-intolerant patients with inflammatory bowel disease. Aliment Pharmacol Ther 2008; 27: 220-7. <annotation><p><italic toggle="yes">(Retrospective analysis of 61 patients with inflammatory bowel disease who were intolerant to azathioprine; 36 [59%] were able to tolerate mercaptopurine including 3 of 9 with hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">17988235</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R102">
+            <mixed-citation publication-type="journal">Ehmsen L, Marko C, Breidert M. [Portal vein hypertension during azathioprine therapy in patients with Crohn's disease - a frequent phenomenon?]. Dtsch Med Wochenschr 2008; 133: 950-3. German. <annotation><p><italic toggle="yes">(45 year old man with Crohn's disease on azathioprine for 4 years developed variceal hemorrhage [bilirubin 4.1 mg/dL, normal ALT, platelets 84,000/&#x003bc;L] and was found to have nodular regenerative hyperplasia on liver biopsy and subsequently improved on stopping azathioprine).</italic></p></annotation><pub-id pub-id-type="pmid">18431703</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R103">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, 3 were attributed to mercaptopurine, but none to azathioprine or thioguanine).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R104">
+            <mixed-citation publication-type="journal">Rahhal RM, Bishop WP. Initial clinical experience with allopurinol-thiopurine combination therapy in pediatric inflammatory bowel disease. Inflamm Bowel Dis 2008; 14: 1678-82. <annotation><p><italic toggle="yes">(13 patients were treated with allopurinol and dose reduction of azathioprine [by ~60%] with overall increase in 6-thioguanine and decrease in methyl-metabolites; ALT elevations improved in all).</italic></p></annotation><pub-id pub-id-type="pmid">18521913</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R105">
+            <mixed-citation publication-type="journal">Ansari A, Elliott T, Baburajan B, Mayhead P, O'Donohue J, Chocair P, Sanderson J, Duley J. Long-term outcome of using allopurinol co-therapy as a strategy for overcoming thiopurine hepatotoxicity in treating inflammatory bowel disease. Aliment Pharmacol Ther 2008; 28: 734-41. <annotation><p><italic toggle="yes">(11 patients with inflammatory bowel disease who developed hepatotoxicity within 1-8 weeks of starting azathioprine [n=10] or mercaptopurine [n=1] were treated with allopurinol and low doses of the thiopurine; 9 tolerated long term therapy without recurrence).</italic></p></annotation><pub-id pub-id-type="pmid">19145729</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R106">
+            <mixed-citation publication-type="journal">Xin HW, Xiong H, Wu XC, Li Q, Xiong L, Yu AR. Relationships between thiopurine S-methyltransferase polymorphism and azathioprine-related adverse drug reactions in Chinese renal transplant recipients. Eur J Clin Pharmacol 2009; 65: 249-55. <annotation><p><italic toggle="yes">(Association found between TPMP activity and hemato- but not hepatotoxicity; only 2 of 16 patients with hepatotoxicity were heterozygous for TPMT mutations, none were homozygous).</italic></p></annotation><pub-id pub-id-type="pmid">19048245</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R107">
+            <mixed-citation publication-type="journal">Hindorf U, Johansson M, Eriksson A, Kvifors E, Almer SH. Mercaptopurine treatment should be considered in azathioprine intolerant patients with inflammatory bowel disease. Aliment Pharmacol Ther 2009; 29: 654-61. <annotation><p><italic toggle="yes">(Analysis of usefulness of measuring thiopurine metabolites in management of 238 patients with autoimmune hepatitis on azathioprine, finding it useful only in managing patients with a poor response; patients with hepatotoxicity were not able to tolerate switch to mercaptopurine).</italic></p></annotation><pub-id pub-id-type="pmid">19183142</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R108">
+            <mixed-citation publication-type="journal">Murakami A, Tanaka Y, Ueda M, Nagano Y, Kunisaki R, Morimoto M, Enaka M, et al. Hepatocellular carcinoma occurring in a young Crohn's disease patient. Pathol Int 2009; 59: 492-6. <annotation><p><italic toggle="yes">(25 year old man with 12 year history of Crohn disease presented with hepatocellular carcinoma approximately one year after starting infliximab; no other risk factors identified; review of literature identified 7 cases in patients with Crohn's, mean age 20 years, all had received azathioprine and two infliximab).</italic></p></annotation><pub-id pub-id-type="pmid">19563414</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R109">
+            <mixed-citation publication-type="journal">Takatsu N, Matsui T, Murakami Y, Ishihara H, Hisabe T, Nagahama T, Maki S, et al. Adverse reactions to azathioprine cannot be predicted by thiopurine S-methyltransferase genotype in Japanese patients with inflammatory bowel disease. J Gastroenterol Hepatol 2009; 24: 1258-64. <annotation><p><italic toggle="yes">(TPMT deficiency variants were rare [~2%] in Japanese and were not increased among those with azathioprine intolerance due to toxicity; 2 cases had hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">19682195</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R110">
+            <mixed-citation publication-type="journal">Germani G, Pleguezuelo M, Villamil F, Vaghjiani S, Tsochatzis E, Andreana L, Burroughs AK. Azathioprine in liver transplantation: a reevaluation of its use and a comparison with mycophenolate mofetil. Am J Transplant 2009; 9: 1725-31. <annotation><p><italic toggle="yes">(Review of literature suggests that there is no evidence for added benefit of mycophenolate over azathioprine for prevention of rejection or graft survival after liver transplantation; no discussion of hepatotoxicity). </italic></p></annotation><pub-id pub-id-type="pmid">19538488</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R111">
+            <mixed-citation publication-type="journal">Roda G, Caponi A, Belluzzi A, Roda E. Severe cholestatic acute hepatitis following azathioprine therapy in a patient with ulcerative pancolitis. Dig Liver Dis 2009; 41: 914-5. <annotation><p><italic toggle="yes">(50 year old man with ulcerative colitis developed jaundice 20 days after starting azathioprine [50 mg daily] [bilirubin 14.8 rising to 26.8 mg/dL, ALT 225 U/L, Alk P 952 U/L], with jaundice lasting 3 months but ultimately complete recovery).</italic></p></annotation><pub-id pub-id-type="pmid">19376754</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R112">
+            <mixed-citation publication-type="journal">Moran G, Dillon J, Green J. Crohn's disease, hepatosplenic T-cell lymphoma and no biological therapy: are we barking up the wrong tree? Inflamm Bowel Dis 2009; 15: 1281-2. <annotation><p><italic toggle="yes"> (Although fewer than 200 cases of hepatospenic T cell lymphoma [HSTCL] have been described in the literature, 23 have occurred in patients with inflammatory bowel disease, all of whom were on thiopurines and 16 also on anti-tumor necrosis factor antagonists [anti-TNF]; the authors describe a 23 year old man with ulcerative colitis treated with azathioprine for 7 years without anti-TNF who developed HSTCL).</italic></p></annotation><pub-id pub-id-type="pmid">19067412</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R113">
+            <mixed-citation publication-type="journal">Beigel F, J&#x000fc;rgens M, Tillack C, Subklewe M, Mayr D, G&#x000f6;ke B, Brand S, et al. Hepatosplenic T-cell lymphoma in a patient with Crohn's disease. Nat Rev Gastroenterol Hepatol 2009; 6: 433-6. <annotation><p><italic toggle="yes"> (58 year old man with 35 year history of Crohn disease on azathioprine for 5 years developed HSTCL).</italic></p></annotation><pub-id pub-id-type="pmid">19575026</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R114">
+            <mixed-citation publication-type="journal">Murakami A, Tanaka Y, Ueda M, Nagano Y, Kunisaki R, Morimoto M, Enaka M, et al. Hepatocellular carcinoma occurring in a young Crohn's disease patient. Pathol Int 2009; 59: 492-6. <annotation><p><italic toggle="yes">(25 year old Japanese man with 12 year history of Crohn diseaes on azathioprine and infliximab presented with abdominal pain and 8 cm HCC without cirrhosis in the non-tumorous liver).</italic></p></annotation><pub-id pub-id-type="pmid">19563414</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R115">
+            <mixed-citation publication-type="journal">Miura H, Kawaguchi T, Takazoe M, Kitamura S, Yamada H. Hepatocellular carcinoma and Crohn's disease: a case report and review. Intern Med 2009; 48: 815-9. <annotation><p><italic toggle="yes">(52 year old Japanese man with 36 year history of Crohn disease, but never treated with thiopurines presented with hepatic mass, found to be HCC with chronic hepatitis in non-tumorous liver tissue).</italic></p></annotation><pub-id pub-id-type="pmid">19443977</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R116">
+            <mixed-citation publication-type="journal">Thai A, Prindiville T. Hepatosplenic T-cell lymphoma and inflammatory bowel disease. J Crohns Colitis 2010; 4: 511-22. <annotation><p><italic toggle="yes">(Review of the association of HSTCL and inflammatory bowel disease).</italic></p></annotation><pub-id pub-id-type="pmid">21122554</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R117">
+            <mixed-citation publication-type="journal">Ishida M, Naka S, Shiomi H, Tsujikawa T, Andoh A, Nakahara T, Saito Y, et al. Hepatocellular carcinoma occurring in a Crohn's disease patient. World J Gastroenterol 2010; 16: 3215-8. <annotation><p><italic toggle="yes"> (37 year old Japanese man with 7 year history of Crohn disease developed 3 to 4 cm HCC, with focal hepatic glycogenosis without cirrhosis in the non-tumorous liver and with successful resection).</italic></p></annotation><pub-id pub-id-type="pmid">20593510</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R118">
+            <mixed-citation publication-type="journal">Ochenrider MG, Patterson DJ, Aboulafia DM. Hepatosplenic T-cell lymphoma in a young man with Crohn's disease: case report and literature review. Clin Lymphoma Myeloma Leuk 2010; 10: 144-8. <annotation><p><italic toggle="yes">(18 year old man with 5 year history of Crohn disease treated with mercaptopurine developed HSTCL [bilirubin and ALT levels normal]).</italic></p></annotation><pub-id pub-id-type="pmid">20371449</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R119">
+            <mixed-citation publication-type="journal">Ben Salem C, Ben Salah L, Belajouza C, Bouraoui K. Azathioprine-induced severe cholestatic hepatitis in patient carrying TPMT*3C polymorphism. Pharm World Sci 2010; 32: 701-3. <annotation><p><italic toggle="yes"> (40 year old with pemphigus foliaceus developed jaundice 3 weeks after starting azathioprine [bilirubin 24.2 mg/dL, ALT 1140 U/L, Alk P 301 U/L], with resolution within months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">20972624</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R120">
+            <mixed-citation publication-type="journal">Bermejo F, L&#x000f3;pez-Sanrom&#x000e1;n A, Algaba A, Van-Domselaar M, Gisbert JP, Garc&#x000ed;a-Garz&#x000f3;n S, Garrido E, et al. Mercaptopurine rescue after azathioprine-induced liver injury in inflammatory bowel disease. Aliment Pharmacol Ther 2010; 31: 120-4. <annotation><p><italic toggle="yes">(Retrospective analysis of 31 patients with inflammatory bowel disease who were switched from azathioprine to mercaptopurine because of liver toxicity; in 87%, mercaptopurine was tolerated without evidence of further toxicity).</italic></p></annotation><pub-id pub-id-type="pmid">19709096</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R121">
+            <mixed-citation publication-type="journal">Hunt CM. Mitochondrial and immunoallergic injury increase risk of positive drug rechallenge after drug-induced liver injury: a systematic review. Hepatology 2010; 52: 2216-22. <annotation><p><italic toggle="yes">(Systematic review of literature on drug rechallenge after acute injury; positive rechallenge after azathioprine hepatotoxicity is common and can be severe).</italic></p></annotation><pub-id pub-id-type="pmid">21105110</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R122">
+            <mixed-citation publication-type="journal">Andrejic J, Rojas-Balcazar J, Dennis M, Berkelhammer C. Azathioprine-induced hypersensitivity hepatitis: tolerance to 6-mercaptopurine. Inflamm Bowel Dis. 2010; 16: 1828-9. <annotation><p><italic toggle="yes">(50 year old man with ulcerative colitis developed jaundice 4 weeks after starting azathioprine [bilirubin 4.6 mg/dL, ALT 1077 U/L, Alk P 361 U/L], resolving upon stopping and not recurring when treated with mercaptopurine [for up to 6 years]).</italic></p></annotation><pub-id pub-id-type="pmid">20196148</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R123">
+            <mixed-citation publication-type="journal">Ishida M, Naka S, Shiomi H, Tsujikawa T, Andoh A, Nakahara T, Saito Y, et al. Hepatocellular carcinoma occurring in a Crohn's disease patient. World J Gastroenterol 2010; 16: 3215-8. <annotation><p><italic toggle="yes">(37 year old Japanese man treated with azathioprine for 8 years developed liver cancer without cirrhosis but with glycogenosis present; review of 10 reported cases, all without cirrhosis).</italic></p></annotation><pub-id pub-id-type="pmid">20593510</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R124">
+            <mixed-citation publication-type="journal">Bryant DL, Miles CJ, Gearry RB. Nodular regenerative hyperplasia of the liver secondary to azathioprine in a patient with inflammatory bowel disease. N Z Med J 2010; 123: 74-6. <annotation><p><italic toggle="yes">(54 year old man developed ascites and splenomegaly 18 months after starting azathioprine for Crohn disease, biopsy showing nodular regenerative hyperplasia, improving upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">20581898</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R125">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes"> (Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury of which none were attributed to azathioprine or other thiopurines).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R126">
+            <mixed-citation publication-type="journal">Okan G, Vural P, Peker O, Colakoglu E, Saruc M. Azathioprine-induced liver injury in a patient with multiple autoimmune syndrome. J Dermatolog Treat 2010; 21: 357-60. <annotation><p><italic toggle="yes">(39 year old man with autoimmune disease developed abnormal liver tests 3 weeks after starting azathioprine [bilirubin normal, GGT 2768 U/L, Alk P 306 U/L], resolving within 2 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">20443662</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R127">
+            <mixed-citation publication-type="journal">L&#x000f3;pez-Mart&#x000ed;n C, de la Fuente-Fern&#x000e1;ndez E, Corbat&#x000f3;n P, S&#x000e1;nchez MC, Gisbert JP. [Nodular regenerative hyperplasia: azathioprine-induced hepatotoxicity in a patient with Crohn's disease]. Gastroenterol Hepatol 2011; 34: 16-9. Spanish. <annotation><p><italic toggle="yes">(53 year old man developed abnormal liver tests after 5 years of azathioprine therapy [7 months after dose increase] for Crohn disease [bilirubin 2.2 mg/dL, ALT 61 U/L, Alk P 284 U/L], with esophageal varices and biopsy showing nodular regenerative hyperplasia; slow improvement upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">21168244</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R128">
+            <mixed-citation publication-type="journal">Blogowski W, Marlicz W, Smereczynski A, Lawniczak M, Lewosiuk A, Starzynska T. Nodular regenerative liver hyperplasia as a complication of azathioprine-containing immunosuppressive treatment for Crohn's disease. Immunopharmacol Immunotoxicol 2011; 33: 398-402. <annotation><p><italic toggle="yes">(40 year old woman with Crohn disease developed nodular regenerative hyperplasia [splenomegaly and varices] 3 years after starting azathioprine).</italic></p></annotation><pub-id pub-id-type="pmid">20726808</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R129">
+            <mixed-citation publication-type="journal">Seksik P, Mary JY, Beaugerie L, L&#x000e9;mann M, Colombel JF, Vernier-Massouille G, Cosnes J. Incidence of nodular regenerative hyperplasia in inflammatory bowel disease patients treated with azathioprine. Inflamm Bowel Dis 2011; 17: 565-72. <annotation><p><italic toggle="yes">(Among 1888 patients with inflammatory bowel disease treated with azathioprine for median of 2.5 years, 15 developed nodular regenerative hyperplasia, 0.6% at 5 and 1.3% at 10 years; predictive factors were male gender and history of small bowel resection).</italic></p></annotation><pub-id pub-id-type="pmid">20848502</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R130">
+            <mixed-citation publication-type="journal">Wree A, Dech&#x000ea;ne A, Herzer K, Hilgard P, Syn WK, Gerken G, Canbay A. Steroid and ursodesoxycholic Acid combination therapy in severe drug-induced liver injury. Digestion 2011; 84: 54-9. <annotation><p><italic toggle="yes">(15 patients with various forms of drug induced liver injury were treated with ursodiol [750-1500 mg/day] and prednisone [various regimens] for 4-10 weeks; all patients improved and rate of improvement was faster than in a historical control group).</italic></p></annotation><pub-id pub-id-type="pmid">21304237</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R131">
+            <mixed-citation publication-type="journal">Aithal GP. Hepatotoxicity related to antirheumatic drugs. Nat Rev Rheumatol 2011; 7: 139-50. <annotation><p><italic toggle="yes">(Review of the hepatotoxicity of antirheumatic drugs including azathioprine; acute cholestatic injury occurs in 1:1000 treated subjects, mechanism may be immunologic, metabolic, and/or genetic).</italic></p></annotation><pub-id pub-id-type="pmid">21263458</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R132">
+            <mixed-citation publication-type="journal">Meggitt SJ, Anstey AV, Mohd Mustapa MF, Reynolds NJ, Wakelin S. British Association of Dermatologists' guidelines for the safe and effective prescribing of azathioprine 2011. Br J Dermatol 2011; 165: 711-34. <annotation><p><italic toggle="yes">(Guidelines for the use of azathioprine in skin diseases including systemic lupus, dermatomyositis and pemphigus, mentions that mild liver enzyme changes are "not uncommon" and may not require alteration of therapy, while severe hepatotoxicity is rare but does).</italic></p></annotation><pub-id pub-id-type="pmid">21950502</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R133">
+            <mixed-citation publication-type="journal">Adam de Beaumais T, Fakhoury M, Medard Y, Azougagh S, Zhang D, Yakouben K, Jacqz-Aigrain E. Determinants of mercaptopurine toxicity in paediatric acute lymphoblastic leukemia maintenance therapy. Br J Clin Pharmacol 2011;71: 575-84. <annotation><p><italic toggle="yes">(66 children with acute leukemia treated with mercaptopurine were tested for thiopurine methyltransferase [TPMT] and inosine pyrophosphatase (ITPA) polymorphisms and for serum levels of mercaptopurine and metabolites; those with higher levels of methyl metabolites [which varied by ITPA genotype] were more likely to have hepatotoxicity, present in 84% of participants).</italic></p></annotation><pub-id pub-id-type="pmid">21395650</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R134">
+            <mixed-citation publication-type="journal">Calabrese E, Hanauer SB. Assessment of non-cirrhotic portal hypertension associated with thiopurine therapy in inflammatory bowel disease. J Crohns Colitis 2011; 5: 48-53. <annotation><p><italic toggle="yes">(Review of thiopurine toxicity and its management, highlighting a case of nodular regenerative hyperplasia in a patient with Crohn's colitis treated with mercaptopurine).</italic></p></annotation><pub-id pub-id-type="pmid">21272804</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R135">
+            <mixed-citation publication-type="journal">Srirajaskanthan R, Valliani D. Azathioprine induced hepatitis in patients with inflammatory bowel disease. Int J Clin Pharm 2011; 33: 724-5. <annotation><p><italic toggle="yes">(Two patients developed symptoms, jaundice and ALT elevations on azathioprine therapy, both having normal TPMT levels; few details given).</italic></p></annotation><pub-id pub-id-type="pmid">21892694</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R136">
+            <mixed-citation publication-type="journal">Rashidi A, Lee ME, Fisher SI. Hepatosplenic &#x003b1;&#x003b2; T-cell lymphoma associated with azathioprine therapy. Int J Hematol 2012; 95: 592-4. <annotation><p><italic toggle="yes">(47 year old woman with systemic lupus erythematosus on long term azathioprine, rituximab and prednisone developed HSTCL).</italic></p></annotation><pub-id pub-id-type="pmid">22527855</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R137">
+            <mixed-citation publication-type="journal">Choudhary NS, Gupta S, Chawla YK, Duseja A, Dhiman RK, Das A. Azathioprine induced liver injury: a case report. Dig Dis Sci 2012; 57: 1717-8. <annotation><p><italic toggle="yes">(61 year old man developed jaundice 16 days after starting azathioprine [bilirubin 9.2 rising to 21.6 mg/dL, ALT 138 U/L, Alk P 3 times ULN], resolving within 6 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">22526581</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R138">
+            <mixed-citation publication-type="journal">van Asseldonk DP, Seinen ML, de Boer NK, van Bodegraven AA, Mulder CJ. Hepatotoxicity associated with 6-methyl mercaptopurine formation during azathioprine and 6-mercaptopurine therapy does not occur on the short-term during 6-thioguanine therapy in IBD treatment. J Crohns Colitis 2012; 6: 95-101. <annotation><p><italic toggle="yes">(Among 19 patients with inflammatory bowel disease who developed serum enzyme elevations during azathioprine or mercaptopurine therapy, none developed liver injury during thioguanine therapy and mean ALT values decreased [64 to 20 U/L]).</italic></p></annotation><pub-id pub-id-type="pmid">22261533</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R139">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation, and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, including 4 attributed to azathioprine for an estimated incidence of 1 per 133 treated subjects; all cases were symptomatic, but anicteric).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R140">
+            <mixed-citation publication-type="journal">Hoentjen F, Seinen ML, Hanauer SB, de Boer NK, Rubin DT, Bouma G, Harrell LE, van Bodegraven AA. Safety and effectiveness of long-term allopurinol-thiopurine maintenance treatment in inflammatory bowel disease. Inflamm Bowel Dis 2013; 19: 363-9. <annotation><p><italic toggle="yes">(Among 36 patients with inflammatory bowel disease who developed ALT elevations during thiopurine therapy who were treated with allopurinol and low doses of thiopurines, ALT levels became normal in 24 and mean values decreased from 38 [range 21-84] to 21 [range 15-26] U/L). </italic></p></annotation><pub-id pub-id-type="pmid">22605661</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R141">
+            <mixed-citation publication-type="journal">Chun JY, Kang B, Lee YM, Lee SY, Kim MJ, Choe YH. Adverse events associated with azathioprine treatment in korean pediatric inflammatory bowel disease patients. Pediatr Gastroenterol Hepatol Nutr 2013; 16: 171-7. <annotation><p><italic toggle="yes"> (Among 174 Korean children with inflammatory bowel disease treated with azathioprine between 2002 and 2012, 98 [56%] had an adverse event, including 5 [2.9%] with "hepatitis" arising after 1 to 30 months [mean ALT 140 U/L] and resolving spontaneously in all without dose reduction or even temporary discontinuation). </italic></p></annotation><pub-id pub-id-type="pmid">24224150</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R142">
+            <mixed-citation publication-type="journal">Patel VN, Kaelber DC. Using aggregated, de-identified electronic health record data for multivariate pharmacosurveillance: A case study of azathioprine. J Biomed Inform 2013 Oct 28. pii: S1532-0464(13)00161-5. <annotation><p><italic toggle="yes"> (Analysis of electronic health records of 10 million persons identified 14,580 who received azathioprine, among whom 14% had an elevation in ALT, AST or bilirubin which was not significantly higher than rates of elevations with other antirheumatic agents).</italic></p></annotation><pub-id pub-id-type="pmid">24177317</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R143">
+            <mixed-citation publication-type="journal">Kennedy NA, Rhatigan E, Arnott ID, Noble CL, Shand AG, Satsangi J, Lees CW. A trial of mercaptopurine is a safe strategy in patients with inflammatory bowel disease intolerant to azathioprine: an observational study, systematic review and meta-analysis. Aliment Pharmacol Ther 2013; 38: 1255-66. <annotation><p><italic toggle="yes"> (Retrospective study and systematic review of literature reports that 81% of persons who developed azathioprine hepatotoxity were able to tolerate mercaptopurine).</italic></p></annotation><pub-id pub-id-type="pmid">24117596</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R144">
+            <mixed-citation publication-type="journal">Wieser V, Gerner R, Moschen AR, Tilg H. Liver complications in inflammatory bowel diseases. Dig Dis 2013; 31: 233-8. <annotation><p><italic toggle="yes"> (Review of the hepatic manifestations of inflammatory bowel disease including drug induced liver injury from the thiopurines, antitumor necrosis factor agents and methotrexate).</italic></p></annotation><pub-id pub-id-type="pmid">24030232</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R145">
+            <mixed-citation publication-type="journal">Ruiz-Clavijo D, Ar&#x000ed;n A, Vila JJ, Alb&#x000e9;niz E, Picazo R, Casi M. [Azathioprine-induced hepatotoxicity in a patient with Crohn's disease]. An Sist Sanit Navar 2013; 36: 353-6. Spanish. <annotation><p><italic toggle="yes">(35 year old person with Crohn disease was found to have abnormal liver tests and esophageal varices 14 months after starting azathioprine [bilirubin and ALT normal, Alk P 248 U/L], improving upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">24008542</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R146">
+            <mixed-citation publication-type="journal">Chaparro M, Ord&#x000e1;s I, Cabr&#x000e9; E, Garcia-Sanchez V, Bastida G, Pe&#x000f1;alva M, Gomoll&#x000f3;n F, et al. Safety of thiopurine therapy in inflammatory bowel disease: long-term follow-up study of 3931 patients. Inflamm Bowel Dis 2013; 19: 1404-10. <annotation><p><italic toggle="yes"> (Among 3931 patients with inflammatory bowel disease who were treated with a thiopurine [95% with azathioprine] and were followed in a prospective Spanish nationwide database, 156 [4%] developed hepatotoxicity [ALT above 2 times ULN] of whom 88 [56%] stopped therapy, but only 2 of 23 [8%] who restarted, redeveloped liver toxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23665964</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R147">
+            <mixed-citation publication-type="journal">Mazor Y, Koifman E, Elkin H, Chowers Y, Krivoy N, Karban A, Efrati E. Risk factors for serious adverse effects of thiopurines in patients with Crohn's disease. Curr Drug Saf 2013; 8: 181-5. <annotation><p><italic toggle="yes"> (Among 176 patients with Crohn disease treated with mercaptopurine [n=131] or azathioprine [n=45], 24 developed a severe adverse event, risk factors being older age, smoking and the null genotype variant of GSTM1).</italic></p></annotation><pub-id pub-id-type="pmid">23845145</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R148">
+            <mixed-citation publication-type="journal">Appell ML, Wagner A, Hindorf U. A skewed thiopurine metabolism is a common clinical phenomenon that can be successfully managed with a combination of low-dose azathioprine and allopurinol. J Crohns Colitis 2013; 7: 510-3. <italic toggle="yes">
+</italic><annotation><p><italic toggle="yes">(A 59 year old woman with Crohn disease developed ALT elevations [~160 U/L] 2 months after starting azathioprine [150 mg/day], which resolved on stopping and recurred on restarting [~200 U/L], with high levels of serum methylated metabolites and low levels of thioguanine nucleotide [TGN]; subsequent use of low doses of azathioprine [50 mg daily] and allopurinol was well tolerated and associated with correction of the serum metabolite pattern).</italic></p></annotation><pub-id pub-id-type="pmid">23168376</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R149">
+            <mixed-citation publication-type="journal">Dooremont D, Decaestecker J, De Wulf D, Ghillebert G, Van Vlierberghe H, Van Dorpe J, Baert F. Azathioprine induced serious portal hypertension: a case series of three IBD patients and review of the literature. Acta Gastroenterol Belg 2013; 76: 342-6. <annotation><p><italic toggle="yes">(Ordered).</italic></p></annotation><pub-id pub-id-type="pmid">24261031</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R150">
+            <mixed-citation publication-type="journal">Le&#x000f3;n-Monta&#x000f1;es R, Trigo-Salado C, Leo-Carnerero E, de-la-Cruz-Ram&#x000ed;rez MD, Herrera-Justiniano JM, M&#x000e1;rquez-Gal&#x000e1;n JL. Treatment with adalimumab in a patient with regenerative nodular hyperplasia secondary to azathioprine. Rev Esp Enferm Dig 2013; 105: 168-70. <annotation><p><italic toggle="yes"> (47 year old man with Crohn disease developed evidence of liver injury one year after starting azathioprine [bilirubin 2.0 mg/dL, ALT 69 U/L, Alk P 207 U/L, platelets 120,000] with hepatosplenomegaly and biopsy showing nodular regenerative hyperplasia; was switched from azathioprine to adalimumab wtih no further worsening of liver condition).</italic></p></annotation><pub-id pub-id-type="pmid">23735025</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R151">
+            <mixed-citation publication-type="journal">Pallavicino F, Pellicano R, Reggiani S, Simondi D, Sguazzini C, Bonagura AG, Cisar&#x000f2; F, et al. Inflammatory bowel diseases and primary sclerosing cholangitis: hepatic and pancreatic side effects due to azathioprine. Eur Rev Med Pharmacol Sci 2013; 17: 84-7. <annotation><p><italic toggle="yes">(Among 43 pateints with sclerosing cholangitis and inflammatory bowel disease followed at a referral center in Italy, 12 were treated with ursodiol and azathioprine of whom 4 developed "hepatic toxic reactions"; no details provided).</italic></p></annotation><pub-id pub-id-type="pmid">23329527</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R152">
+            <mixed-citation publication-type="journal">Selvaraj SA, Chairez E, Wilson LM, Lazarev M, Bass EB, Hutfless S. Use of case reports and the Adverse Event Reporting System in systematic reviews: overcoming barriers to assess the link between Crohn's disease medications and hepatosplenic T-cell lymphoma. Syst Rev 2013; 2: 53. <annotation><p><italic toggle="yes">(Review of the literature and spontaneous reports made to the FDA of HSTCL and medication use, identified 37 cases, ages 12 to 79 [mean 30] years; 86% male; disease duration 4 to 35 [mean 10] years; 96% having received thiopurines, 76% biologics; survival poor [8%]).</italic></p></annotation><pub-id pub-id-type="pmid">23826928</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R153">
+            <mixed-citation publication-type="journal">Ba&#x00161;i&#x00107; Kinda S, Durakovi&#x00107; N, Dotli&#x00107; S, Serventi Seiwerth R, Davidovi&#x00107; Mrsi&#x00107; S, Dubrav&#x0010d;i&#x00107; K, Aurer I. Hepatosplenic &#x003b1;&#x003b2; T-cell lymphoma arising after long-term azathioprine therapy successfully treated with allogeneic bone marrow transplant. Leuk Lymphoma 2013; 54: 1334-5. <annotation><p><italic toggle="yes"> (Report of a patient with Crohn disease who developed HSTCL after 7 years of azathioprine therapy, few details provided).</italic></p></annotation><pub-id pub-id-type="pmid">23083012</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R154">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES. Epidemiology and risk factors for idiosyncratic drug-induced liver injury. Semin Liver Dis 2014; 34: 115-22. <annotation><p><italic toggle="yes"> (Review of the epidemiology of drug induced liver injury mentions that the estimated crude risk of hepatotoxicity from azathioprine is 1 per 1,103 exposed patients). </italic></p></annotation><pub-id pub-id-type="pmid">24879977</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R155">
+            <mixed-citation publication-type="journal">Chertoff J, Alam S, Black M, Elgendy IY. Azathioprine-induced hepatitis and cholestasis occurring 1 year after treatment. BMJ Case Rep 2014; 2014. pii: bcr2014206859. <annotation><p><italic toggle="yes"> (47 year old man with myasthenia gravis developed jaundice 1 year after starting azathioprine [200 mg daily] [bilirubin 16.1 mg/dL, ALT 102 U/L, Alk P not given], with resolution within 1 month of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">25471111</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R156">
+            <mixed-citation publication-type="journal">Trabelsi AB, Hamami E, Souguir A, Ksiaa M, Ajmi S, Jmaa A. Suspected azathioprine induced liver cirrhosis: an unusual side effect. Pan Afr Med J 2014; 17: 174. <annotation><p><italic toggle="yes"> (56 year old woman with long standing Crohn disease developed cirrhosis 4 years after starting azathioprine despite normal serum ALT levels, but few details provided).</italic></p></annotation><pub-id pub-id-type="pmid">25392720</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R157">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America: an analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes">(Among 176 reports of drug induced liver injury from Latin America published between 1996 and 2012, none were attributed to azathioprine or mercaptopurine).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R158">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 10 [1.3%] cases were attributed to azathioprine and 9 [1.2%] to mercaptopurine, thus representing the 13th and 14th most frequent prescription drugs implicated).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R159">
+            <mixed-citation publication-type="journal">Botros Y, Mathews M, Patel H, Shah N, Baddoura W, de la Torre A. Recurrent hepatocellular carcinoma in patient with Crohn's disease: incidental or expected outcome of azathioprine? Case Rep Gastrointest Med 2015; 2015: 939136. <annotation><p><italic toggle="yes">(62 year old man with Crohn disease and azathioprine therapy for 21 years, developed HCC with recurrence after resection; no mention of cirrhosis).</italic></p></annotation><pub-id pub-id-type="pmid">26788381</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R160">
+            <mixed-citation publication-type="journal"><italic toggle="yes">J</italic>ack KL, Koopman WJ, Hulley D, Nicolle MW. A review of azathioprine-associated hepatotoxicity and myelosuppression in myasthenia gravis. J Clin Neuromuscul Dis 2016; 18: 12-20. <annotation><p><italic toggle="yes"> (Among 571 patients with myasthenia gravis treated with azathioprine at a referral center in Canada, 87 [15%] developed hepatotoxicity [27 with concurrent myelotoxicity], mostly manifested by asymptomatic rise in GGT levels, but 31 [5%] with symptoms and 1 with cholestatic hepatitis).</italic></p></annotation><pub-id pub-id-type="pmid">27552384</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R161">
+            <mixed-citation publication-type="journal">Brinkert F, Arrenberg P, Krech T, Grabhorn E, Lohse A, Schramm C. Two cases of hepatosplenic T-cell lymphoma in adolescents treated for autoimmune hepatitis. Pediatrics 2016; 138. pii: e20154245. <annotation><p><italic toggle="yes"> (Two patients who developed HSTCL during azathioprine therapy of autoimmune hepatitis: 21 year old man treated for 5 years and an 18 year old female treated for 4 years, both presenting with hepatosplenomegaly, fever and pancytopenia).</italic></p></annotation><pub-id pub-id-type="pmid">27516526</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R162">
+            <mixed-citation publication-type="journal">Su&#x000e1;rez Ferrer C, Llop Herrera E, Calvo Moya M, Vera Mendoza MI, Gonz&#x000e1;lez Partida I, Gonz&#x000e1;lez Lama Y, Matallana Royo V, et al. Idiopathic portal hypertension regarding thiopurine treatment in patients with inflammatory bowel disease. Rev Esp Enferm Dig 2016; 108: 79-83. <annotation><p><italic toggle="yes">(Among 1419 patients with inflammatory bowel disease followed at a referral center in Spain, 927 were treated with thiopurines, of whom 63 [7%] developed liver injury, mostly hepatotoxicity that resolved with dose modification or discontinuation, but 4 had portal hypetension and probable nodular regenerative hyperplasia [ages 42 to 72 years, treated for 2.5-10 years, bilirubin 0.4-2.2 mg/dL, ALT 21-65 U/L, platelet counts 60,000-100,000]).</italic></p></annotation><pub-id pub-id-type="pmid">26838489</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R163">
+            <mixed-citation publication-type="journal">van de Meeberg MM, Derikx LA, Sinnige HA, Nooijen P, Schipper DL, Nissen LH. Hepatosplenic T-cell lymphoma in a 47-year-old Crohn's disease patient on thiopurine monotherapy. World J Gastroenterol 2016; 22: 10465-70. <annotation><p><italic toggle="yes"> (47 year old man with Crohn disease on azathioprine therapy developed HSTCL, few details provided).</italic></p></annotation><pub-id pub-id-type="pmid">28058028</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R164">
+            <mixed-citation publication-type="journal">Heron V, Fortinsky KJ, Spiegle G, Hilzenrat N, Szilagyi A. Resected hepatocellular carcinoma in a patient with Crohn's disease on azathioprine. Case Rep Gastroenterol 2016; 10: 50-6. <annotation><p><italic toggle="yes"> (61 year old woman with 30 year history of Crohn disease and 10 years of azathioprine therapy presented with liver mass with HCC on biopsy without cirrhosis, but no malignancy at time of resection several months later).</italic></p></annotation><pub-id pub-id-type="pmid">27403102</pub-id></mixed-citation>
+          </ref>
+          <ref id="Azathioprine.R165">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Gu J, Kleiner DE, Chalasani N, Hayashi PH, Hoofnagle JH; DILIN Investigators. Azathioprine and 6-mercaptopurine-induced liver injury: clinical features and outcomes. J Clin Gastroenterol 2017; 51: 63-9. <annotation><p><italic toggle="yes">(Among 12 cases of azathioprine induced liver injury enrolled in a prospetctive US database, all patients were adults being treated for autoimmune conditions; latency ranged from 3 days to more than a year, but usually was within 3 months of starting or a major dose escalation, the disease being anicteric in 4, icteric in 8, severe in 2, with initial bilirubin 0.6-31.8 [mean=6.7] mg/dL, ALT 116-625 [mean=254] U/L, Alk P 77-412 [mean=190] U/L, and liver biopsy showing cholestatic hepatitis and mild-to-moderate bile duct injury but no duct loss; cases due to mercaptopurine [n=10] tended to be similar in clinical characteristics, although somewhat more severe).</italic></p></annotation><pub-id pub-id-type="pmid">27648552</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Azathioprine.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Azathioprine/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Azathioprine: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Azathioprine">Trials on Azathioprine: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

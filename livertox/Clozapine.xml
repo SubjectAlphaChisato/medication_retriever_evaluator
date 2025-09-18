@@ -1,0 +1,1732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Clozapine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Clozapine</book-part-id>
+      <title-group>
+        <title>Clozapine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>5</day>
+          <month>6</month>
+          <year>2023</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Clotrimazole" document-type="chapter">Clotrimazole</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Cobimetinib" document-type="chapter">Cobimetinib</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Clozapine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Clozapine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Clozapine was the first atypical antipsychotic approved for treatment of schizophrenia. Because it is associated with severe and potentially fatal side effects (agranulocytosis), its use is restricted to refractory schizophrenia, and monitoring during therapy is required. Clozapine therapy is associated with serum aminotransferase elevations and in rare instances has been linked to clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Clozapine.Background">
+          <title>Background</title>
+          <p>Clozapine (kloe" za peen) is an atypical antipsychotic medication that appears to act both as a dopamine (D) and serotonin (5-HT2) receptor antagonist. Clozapine was introduced into clinical practice in 1971, but subsequently withdrawn in 1975 after reports of fatal agranulocytosis with its use. Nevertheless, because of its potent activity, clozapine was approved for restricted use in refractory schizophrenia in the United States in 1989 and only with surveillance using close monitoring of complete blood counts. As a result, use of clozapine has been limited. Clozapine was also approved to prevent suicide in patients with schizophrenia or schizoaffective disorder. Clozapine is available as scored tablets of 25 and 100 mg in generic forms and under the brand names of Clozaril. The dosage of clozapine varies greatly. The starting dose is 12.5 mg once or twice daily, which can be cautiously increased to target doses of 300 to 450 mg daily clinical response and tolerability. Common side effects include sedation, tremors, drooling, dizziness, headache, hypotension and syncope, dry mouth, constipation, and weight gain. Uncommon, but potential severe side effects include severe neutropenia, agranulocytosis, orthostatic hypotension and syncope, falls, seizures, cardiomyopathy, prolongation of the QTc interval, diabetes, dyslipidemia, weight gain and neuroleptic malignant syndrome. Clozapine has a boxed warning of severe neutropenia orthostatic hypotension, bradycardia and syncope, seizure, myocarditis and cardiomyopathy and increased mortality in elderly patients with dementia-related psychosis. It is available only as a part of a Risk Evaluation and Mitigation Strategy (REMS) program that includes certification of healthcare providers and pharmacies, patient consent, and scheduled regular monitoring and reporting of neutrophil counts.</p>
+        </sec>
+        <sec id="Clozapine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Serum enzyme elevations arise in up to two-thirds of patients on clozapine but are usually modest and resolve spontaneously after 6 to 12 weeks, often not requiring dose modification or discontinuation. ALT elevations above 3 times ULN arise in 10% to 20% of patients but are usually transient. Occasionally, serum enzyme elevations are associated with symptoms of nausea, weakness and abdominal discomfort, and therapy should be discontinued or managed with careful dose reduction.</p>
+          <p>Acute, clinically apparent episodes of liver injury with marked liver enzyme elevations and jaundice have been reported in more than fifty patients receiving clozapine and is estimated to occur in ~1:2000 treated patients. The onset of injury is usually within a few days to several weeks after starting, and the pattern of serum enzyme elevations is typically mixed but can be hepatocellular or cholestatic. Severe instances of acute liver injury with progressive hepatic failure and death or need for emergency transplantation have been described usually occurring after a delay in stopping clozapine after onset of evidence of liver injury. Eosinophilia or leukocytosis occur in a proportion of patients, and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) syndrome with fever and rash have been reported, although generally mild-to-moderate in severity and self-limited in course. Autoimmune markers are rare. Almost all cases resolve once therapy is stopped, vanishing bile duct syndrome and chronic injury have not been reported.</p>
+          <p>Likelihood score: A (a rare, but well-known cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Clozapine.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which clozapine causes liver injury is not known. Cases with features of hypersensitivity suggest that the injury is immunologically mediated. Clozapine is extensively metabolized by the liver, partially via the cytochrome P450 system (CYP 1A2 and others), and production of a toxic or immunogenic intermediate of metabolism may underlie the acute liver injury that can occur on clozapine therapy. Serum enzyme elevations during clozapine therapy can occasionally be managed with dose reduction, suggesting an element of direct hepatotoxicity.</p>
+        </sec>
+        <sec id="Clozapine.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum aminotransferase elevations that occur on clozapine therapy are often self-limited and usually do not require dose modification or discontinuation of therapy. Most instances of clinically apparent liver injury due to clozapine have been mild-to-moderate in severity and rapidly resolve. Several cases of acute liver failure due to clozapine have been reported, but there have been no instances of chronic liver disease or vanishing bile duct syndrome. Re-exposure is usually followed by reoccurrence of injury with a more rapid time to onset. However, in several instances very cautious reintroduction with a slow escalation of dose has been tolerated without recurrence of liver injury. Persons with intolerance to clozapine can usually tolerate other atypical antipsychotic agents, such as haloperidol, risperidone, quetiapine and olanzapine.</p>
+          <p>Drug Class: <related-object link-type="booklink" source-id="livertox" document-id="AntipsychoticAgents" document-type="chapter">Antipsychotic Agents</related-object>, Atypicals</p>
+        </sec>
+      </sec>
+      <sec id="Clozapine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+        <p>Clozapine &#x02013; Generic, Clozaril&#x000ae;</p>
+        <p>
+<bold>DRUG CLASS</bold>
+</p>
+        <p>Antipsychotic Agents</p>
+        <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Clozapine">COMPLETE LABELING</ext-link>
+</p>
+        <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+      </sec>
+      <sec id="Clozapine.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Clozapine.Tc" orientation="portrait" position="anchor">
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th id="hd_h_Clozapine.Tc_1_1_1_1" valign="top" align="left" scope="col" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Clozapine.Tc_1_1_1_2" valign="top" align="left" scope="col" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Clozapine.Tc_1_1_1_3" valign="top" align="left" scope="col" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Clozapine.Tc_1_1_1_4" valign="top" align="left" scope="col" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Clozapine.Tc_1_1_1_1" valign="top" align="left" scope="row" rowspan="1" colspan="1">Clozapine</td>
+                <td headers="hd_h_Clozapine.Tc_1_1_1_2" valign="top" align="left" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134987290">5786-21-0</ext-link>
+</td>
+                <td headers="hd_h_Clozapine.Tc_1_1_1_3" valign="top" align="left" rowspan="1" colspan="1">C18-H19-Cl-N4</td>
+                <td headers="hd_h_Clozapine.Tc_1_1_1_4" valign="top" align="left" rowspan="1" colspan="1">
+<related-object link-type="ext-image-back-link" source-id="pubchem" document-id="134987290" document-id-type="sid" document-type="summary" object-id="134987290" object-id-type="sid" object-type="image"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Clozapine.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 06 June 2023</p>
+        <p>Abbreviations: DRESS, drug reaction with eosinophilia and systemic symptoms.</p>
+        <ref-list id="Clozapine.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Clozapine.REF.meyer.2018">
+            <mixed-citation publication-type="book">Meyer JM. Pharmacotherapy of psychosis and mania. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 279-302.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Clozapine.REF.larry.2013">
+            <mixed-citation publication-type="book">Larry D, Ripault MP. Hepatotoxicity of psychotropic drugs and drugs of abuse. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 443-62.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of psychiatric agents mentions that clozapine often causes mild to moderate ALT elevations but that &#x0201c;...clinically significant hepatotoxicity is uncommon&#x0201d;).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Clozapine.REF.brodowski.1984.721">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Brodowski</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Matusewicz</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Urba&#x00144;ska-Ry&#x0015b;</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Krykowski</surname><given-names>E.</given-names></name>
+</person-group>
+              <comment>[Acute bone marrow and liver damage during treatment with clozapine] [Article in Polish]</comment>
+              <source>Pol Tyg Lek</source>
+              <year>1984</year>
+              <volume>39</volume>
+              <fpage>721</fpage>
+              <lpage>2</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(25 year old man developed jaundice and bone marrow failure 5 weeks after starting clozapine [bilirubin 5.7 mg/dL, ALT 268 U/L], with ultimate recovery upon stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">6483677</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.schmidt.1987.844">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Schmidt</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Borsch</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Muller</surname><given-names>K-M</given-names></name>
+<name name-style="western"><surname>Ricken</surname><given-names>D</given-names></name>
+</person-group>
+              <comment>[Clozapine-induced cholestatic liver injury: a case report]</comment>
+              <source>Dtsch med Wschr</source>
+              <year>1987</year>
+              <volume>112</volume>
+              <fpage>844</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(54 year old woman developed jaundice after 2 days of clozapine therapy [bilirubin 4.65 mg/dL, ALT 178 U/L, Alk P 239 U/L]; rapid recovery, and recurrence of ALT [82 U/L] and Alk P [328 U/L] elevations with rechallenge).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2884090</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.naber.1989.s73">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Naber</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Leppig</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Grohmann</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Hippius</surname><given-names>H</given-names></name>
+</person-group>
+              <article-title>Efficacy and adverse effects of clozapine in the treatment of schizophrenia and tardive dyskinesia &#x02013; a retrospective study of 387 patients.</article-title>
+              <source>Psychopharmacology</source>
+              <year>1989</year>
+              <volume>99</volume>
+              <fpage>S73</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Retrospective analysis of 387 inpatients with resistant schizophrenia receiving clozapine for an average of 49 days between 1978-88; liver enzymes were elevated in 8% of patients, but rarely required discontinuation [0.5%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2813668</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.dorta.1989.388">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dorta</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Siebenmann</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Frohli</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Freytag</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Koelz</surname><given-names>HR</given-names></name>
+</person-group>
+              <article-title>Clozapin-induzierter cholestatistcher Ikterus: Ein Fallbericht.</article-title>
+              <source>Z Gastroenterol</source>
+              <year>1989</year>
+              <volume>27</volume>
+              <fpage>388</fpage>
+              <lpage>90</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(65 year old woman developed fever followed by jaundice 10 days after starting clozapine [bilirubin 3.7 mg/dL, ALT 105 U/L, Alk P 902 U/L], but no rash or eosinophilia and resolution within 4 weeks of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2773535</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.gaertner.1989.s97">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gaertner</surname><given-names>HJ</given-names></name>
+<name name-style="western"><surname>Fischer</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Hoss</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Side effects of clozapine.</article-title>
+              <source>Psychopharmacology (Berl)</source>
+              <year>1989</year>
+              <volume>99</volume>
+              <fpage>S97</fpage>
+              <lpage>100</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Retrospective analysis of 315 inpatients given clozapine; rise in serum enzymes in 61% of patients, &#x0003e;twice normal in 31%, absolute rise of 1 to 465 U/L; but no mention of jaundice or hepatitis).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">2813671</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.baldessarini.1991.746">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Baldessarini</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Frankenburg</surname><given-names>FR</given-names></name>
+</person-group>
+              <article-title>Clozapine. A novel antipsychotic agent.</article-title>
+              <source>N Engl J Med</source>
+              <year>1991</year>
+              <volume>324</volume>
+              <fpage>746</fpage>
+              <lpage>54</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Clozapine, the first atypical antipsychotic was introduced into use in US in 1990 with requirement for routine monitoring of blood counts; review of structure, mechanisms of action, metabolism, pharmacokinetics, efficacy, and side effects; no mention of hepatotoxicity or ALT elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">1671793</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.kellner.1993.985">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kellner</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Wiedemann</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Krieg</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Berg</surname><given-names>PA</given-names></name>
+</person-group>
+              <article-title>Toxic hepatitis by clozapine treatment.</article-title>
+              <source>Am J Psychiatry</source>
+              <year>1993</year>
+              <volume>150</volume>
+              <fpage>985</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(44 year old woman developed ALT elevations [675 U/L] during 5th week of clozapine therapy with normal Alk P and bilirubin, 28% eosinophils, resolving within 5 weeks of stopping, negative lymphocyte transformation tests).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.eggert.1994.425">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Eggert</surname><given-names>AE</given-names></name>
+<name name-style="western"><surname>Crismon</surname><given-names>ML</given-names></name>
+<name name-style="western"><surname>Dorson</surname><given-names>PG</given-names></name>
+<name name-style="western"><surname>Taylor</surname><given-names>RL</given-names></name>
+</person-group>
+              <article-title>Clozapine rechallenge after marked liver enzyme elevation.</article-title>
+              <source>J Clin Psychopharmacol</source>
+              <year>1994</year>
+              <volume>14</volume>
+              <fpage>425</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(40 year old man developed liver enzyme elevations 6 weeks after starting clozapine [bilirubin 0.6 mg/dL, ALT 594 U/L, Alk P167 U/L], without symptoms and resolving within 4 weeks of stopping; rechallenge led to minor, transient ALT elevations falling to normal on long term use [&#x0003e;1 year]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">7884025</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.marinkovic.1994.537">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Marinkovic</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Timotijevic</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Babinski</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Totic</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Paunovic</surname><given-names>VR</given-names></name>
+</person-group>
+              <article-title>The side-effects of clozapine: a four-year follow-up study.</article-title>
+              <source>Prog Neuropsychopharmacol Biol Psychiatry</source>
+              <year>1994</year>
+              <volume>18</volume>
+              <fpage>537</fpage>
+              <lpage>44</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 100 hospitalized patients on clozapine for up to 4 years, 36% developed liver enzyme elevations usually within 4-6 weeks, all responding to a dose reduction).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8078987</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.hovens.1994.363">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hovens</surname><given-names>JE</given-names></name>
+<name name-style="western"><surname>Vogtl&#x000e4;nder</surname><given-names>LM</given-names></name>
+<name name-style="western"><surname>Verhoeve</surname><given-names>HA</given-names></name>
+<name name-style="western"><surname>Thunnissen</surname><given-names>PL</given-names></name>
+</person-group>
+              <comment>[Liver cell necrosis during administration of clozapine]</comment>
+              <source>Ned Tijdschr Geneeskd</source>
+              <year>1994</year>
+              <volume>138</volume>
+              <fpage>363</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(38 year old woman developed malaise 1 week after starting clozapine [ALT rising to 444 U/L, Alk P 297 U/L, bilirubin 1.2 mg/dL], resolving within 1 month of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">8121527</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.thatcher.1995.296">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Thatcher</surname><given-names>GW</given-names></name>
+<name name-style="western"><surname>Cates</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Bair</surname><given-names>B</given-names></name>
+</person-group>
+              <article-title>Clozapine-induced toxic hepatitis.</article-title>
+              <source>Am J Psychiatry</source>
+              <year>1995</year>
+              <volume>152</volume>
+              <fpage>296</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(35 year old man developed fatigue, abdominal pain, rash, and fever 25 days after starting clozapine [bilirubin 2.2 mg/dL, ALT 719 U/L, GGT 70 U/L, eosinophils 7%], resolving within 5 weeks of stopping).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.worrall.1995.647">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Worrall</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Wilson</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Gullen</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Dystonia and drug-induced hepatitis in a patient treated with clozapine.</article-title>
+              <source>Am J Psychiatry</source>
+              <year>1995</year>
+              <volume>152</volume>
+              <fpage>647</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(30 year old woman with chronic hepatitis C had a rise in ALT from 67 to 424 U/L after 14 days of clozapine; ALT fell to normal [33 U/L] with lowering dose, but rose again [371 U/L] with subsequent dose escalation).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.hummer.1997.314">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hummer</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kurz</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Kurzthaler</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Oberbauer</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Miller</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Fleischhacker</surname><given-names>WW</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity of clozapine.</article-title>
+              <source>J Clin Psychopharmacol</source>
+              <year>1997</year>
+              <volume>17</volume>
+              <fpage>314</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Weekly liver tests during haloperidol [n=71] or clozapine [n=167] therapy identified ALT elevations in 46% and 67% of patients which were &#x0003e;twice normal in 17% and 37%; Alk P elevations occurred in 14% vs 41% but were never &#x0003e;twice normal; elevations usually appeared after 1-6 weeks of treatment and resolved even without dose modification).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9241012</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.macfarlane.1997.1707">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Macfarlane</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Davies</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Mannan</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Sarsam</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Pariente</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Dooley</surname><given-names>J</given-names></name>
+</person-group>
+              <article-title>Fatal acute fulminant liver failure due to clozapine: a case report and review of clozapine-induced hepatotoxicity.</article-title>
+              <source>Gastroenterology</source>
+              <year>1997</year>
+              <volume>112</volume>
+              <fpage>1707</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(39 year old man developed nausea, abdominal pain, and jaundice after 8 weeks of clozapine therapy [bilirubin 14.7 mg/dL, ALT 1375 U/L, Alk P 290 U/L]; delay in stopping clozapine with subsequent worsening, ascites, coma and death).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9136851</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.markowitz.1997.70">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Markowitz</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>Grinberg</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Jackson</surname><given-names>C</given-names></name>
+</person-group>
+              <article-title>Marked liver enzyme elevations with clozapine.</article-title>
+              <source>J Clin Psychopharmacol</source>
+              <year>1997</year>
+              <volume>17</volume>
+              <fpage>70</fpage>
+              <lpage>1</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(27 year old man developed rising ALT after 4 weeks of clozapine therapy [bilirubin 1.2 mg/dL, ALT 1325 U/L, Alk P 144 U/L] without symptoms; values normalized within 3 weeks of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9004073</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.wirshing.1997.120">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wirshing</surname><given-names>WC</given-names></name>
+<name name-style="western"><surname>Ames</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Bisheff</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Pierre</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Mendoza</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Sun</surname><given-names>A</given-names></name>
+</person-group>
+              <article-title>Hepatic encephalopathy associated with combined clozapine and divalproex sodium treatment.</article-title>
+              <source>J Clin Psychopharmacol</source>
+              <year>1997</year>
+              <volume>17</volume>
+              <fpage>120</fpage>
+              <lpage>1</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(37 year old woman developed jaundice and sedation followed by ascites and encephalopathy 6 weeks after starting combination of valproate and clozapine [bilirubin 2.8 mg/dL, ALT 1525 U/L, high valproate levels], responding slowly to drug withdrawal; restarting clozapine was later tolerated without liver abnormalities).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10950478</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.young.1998.381">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Young</surname><given-names>CR</given-names></name>
+<name name-style="western"><surname>Bowers</surname><given-names>MB</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Mazure</surname><given-names>CM</given-names></name>
+</person-group>
+              <article-title>Management of the adverse effects of clozapine.</article-title>
+              <source>Schizophr Bull</source>
+              <year>1998</year>
+              <volume>24</volume>
+              <fpage>381</fpage>
+              <lpage>90</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Clozapine is highly effective in schizophrenia but has a high rate of adverse side effects, requiring discontinuation in 17%; liver enzyme elevations of &#x0003e;twice baseline values reported in 31% of patients, but usually mild and resolve even with continuing treatment).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9718630</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.thompson.1998.95">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Thompson</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Chengappa</surname><given-names>KNR</given-names></name>
+<name name-style="western"><surname>Good</surname><given-names>CB</given-names></name>
+<name name-style="western"><surname>Baker</surname><given-names>RW</given-names></name>
+<name name-style="western"><surname>Kiewe</surname><given-names>RP</given-names></name>
+<name name-style="western"><surname>Bezner</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Schooler</surname><given-names>NR</given-names></name>
+</person-group>
+              <article-title>Hepatitis, hyperglycemia, pleural effusion, eosinophilia, hematuria, and proteinuria occurring early in clozapine treatment.</article-title>
+              <source>Int Clin Psychopharmacol</source>
+              <year>1998</year>
+              <volume>13</volume>
+              <fpage>95</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(48 year old man developed jaundice 2 weeks after starting clozapine [bilirubin 8.7 mg/dL, ALT 100 U/L, Alk P 257 U/L], resolving within 4 weeks of switching to risperidone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">9669191</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.allison.1999.1686">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Allison</surname><given-names>DB</given-names></name>
+<name name-style="western"><surname>Mentore</surname><given-names>JL</given-names></name>
+<name name-style="western"><surname>Heo</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Chandler</surname><given-names>LP</given-names></name>
+<name name-style="western"><surname>Cappelleri</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Infante</surname><given-names>MC</given-names></name>
+<name name-style="western"><surname>Weiden</surname><given-names>PJ</given-names></name>
+</person-group>
+              <article-title>Antipsychotic-induced weight gain: a comprehensive research synthesis.</article-title>
+              <source>Am J Psychiatry</source>
+              <year>1999</year>
+              <volume>156</volume>
+              <fpage>1686</fpage>
+              <lpage>96</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of 81 articles on weight change with antipsychotics, using change after 10 weeks to compare agents: clozapine +5.7, olanzapine +4.2, chlorpromazine +4.2, quetiapine +2.5, risperidone +1.7, loxapine +0.6, haloperidol +0.5, ziprasidone +0.3, molindone -0.1, and pimozide -2.7 kg).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">10553730</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.jang.1999.227">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Jang</surname><given-names>SJ</given-names></name>
+<name name-style="western"><surname>Yi</surname><given-names>HT</given-names></name>
+<name name-style="western"><surname>Paek</surname><given-names>HJ</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>SY</given-names></name>
+</person-group>
+              <article-title>Clozapine-induced acute hepatitis.</article-title>
+              <source>J Korean Neuropsychiatr Assoc</source>
+              <year>1999</year>
+              <volume>38</volume>
+              <fpage>227</fpage>
+              <lpage>33</lpage>
+              <comment>Korean. Not in PubMed</comment>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.panagiotis.1999.117">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Panagiotis</surname><given-names>B.</given-names></name>
+</person-group>
+              <article-title>Grand mal seizures with liver toxicity in a case of clozapine treatment.</article-title>
+              <source>J Neuropsychiatry Clin Neurosci</source>
+              <year>1999</year>
+              <volume>11</volume>
+              <fpage>117</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(30 year old man had a seizure after 4 weeks of clozapine therapy and found to have elevations in previously normal ALT [215 U/L] and Alk P [318 U/L] levels; drug stopped but time to resolution, bilirubin levels and symptoms not reported).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.blum.2001.158">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Blum</surname><given-names>MW</given-names></name>
+<name name-style="western"><surname>Siegel</surname><given-names>AM</given-names></name>
+<name name-style="western"><surname>Meier</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Hess</surname><given-names>K</given-names></name>
+</person-group>
+              <article-title>Neuroleptic malignant-like syndrome and acute hepatitis during tolcapone and clozapine medication.</article-title>
+              <source>Eur Neurol</source>
+              <year>2001</year>
+              <volume>46</volume>
+              <fpage>158</fpage>
+              <lpage>60</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(70 year old woman given tolcapone and clozapine developed fever and stupor [ALT 71 rising to 988 U/L, CPK 531 rising to 3132 U/L, no mention of bilirubin], resolving within 10 days of stopping tolcapone, clozapine continued).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11598337</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.larsen.2001.2013">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Larsen</surname><given-names>JT</given-names></name>
+<name name-style="western"><surname>Clemensen</surname><given-names>SV</given-names></name>
+<name name-style="western"><surname>Klitgaard</surname><given-names>NA</given-names></name>
+<name name-style="western"><surname>Nielsen</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Br&#x000f8;sen</surname><given-names>K</given-names></name>
+</person-group>
+              <comment>[Clozapine-induced toxic hepatitis]</comment>
+              <source>Ugeskr Laeger</source>
+              <year>2001</year>
+              <volume>163</volume>
+              <fpage>2013</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(49 year old woman developed fever, eosinophilia, and hepatitis on 300 mg of clozapine and with high serum ALT levels; tolerated lower doses with serum monitoring; Abstract only).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11307364</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.gaertner.2001.215">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gaertner</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Altendorf</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Batra</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Gaertner</surname><given-names>HJ</given-names></name>
+</person-group>
+              <article-title>Relevance of liver enzyme elevations with four different neuroleptics: a retrospective review of 7,263 treatment courses.</article-title>
+              <source>J Clin Psychopharmacol</source>
+              <year>2001</year>
+              <volume>21</volume>
+              <fpage>215</fpage>
+              <lpage>22</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Retrospective review of 233 inpatients between 1980-92; an increase in ALT in 78% of patients on clozapine and 50% on haloperidol; 3-fold increase in ALT in 15% with clozapine and 2.4% with haloperidol; lower rates of 2-fold alkaline phosphatase elevations [1% and 0.8%]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">11270919</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.dumortier.2002.542">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dumortier</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Cabaret</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stamatiadis</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Saba</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Benadhira</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Rocamora</surname><given-names>JF</given-names></name>
+<name name-style="western"><surname>Aubriot-Delmas</surname><given-names>B</given-names></name>
+<etal/>
+</person-group>
+              <comment>[Hepatic tolerance of atypical antipsychotic drugs]</comment>
+              <source>Encephale</source>
+              <year>2002</year>
+              <volume>28</volume>
+              <fpage>542</fpage>
+              <lpage>51</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of reports of liver injury due to atypical antipsychotics).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12506267</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.mouradianstamatiadis.2002.1409">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Mouradian-Stamatiadis</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Dumortier</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Januel</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Delmas</surname><given-names>BA</given-names></name>
+<name name-style="western"><surname>Cabaret</surname><given-names>W</given-names></name>
+</person-group>
+              <article-title>Liver function tests during treatment with antipsychotic drugs: a case series of 23 patients.</article-title>
+              <source>Prog Neuropsychopharmacol Biol Psychiatry</source>
+              <year>2002</year>
+              <volume>26</volume>
+              <fpage>1409</fpage>
+              <lpage>11</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 23 hospitalized patients on atypical antipsychotics, 6 had ALT or AST elevations by day 14 [ALT 48-158 U/L]; 2 were on risperidone, 2 olanzapine, 1 amisulpride, none clozapine; 1 on risperidone required stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12502031</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF29">
+            <element-citation publication-type="journal">
+              <article-title>Choice of an antipsychotic.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2003</year>
+              <volume>45</volume>
+              <fpage>102</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(&#x0201c;Clozapine is usually reserved for treatment of patients refractory to other drugs because it causes granulocytopenia&#x0201d; in ~1% of patients; marked sedation and weight gain are also common; no mention of hepatotoxicity).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14679353</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.kelly.2003.181">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kelly</surname><given-names>DL</given-names></name>
+<name name-style="western"><surname>Conley</surname><given-names>RR</given-names></name>
+<name name-style="western"><surname>Richardson</surname><given-names>CM</given-names></name>
+<name name-style="western"><surname>Tamminga</surname><given-names>CA</given-names></name>
+<name name-style="western"><surname>Carpenter</surname><given-names>WT</given-names><suffix>Jr</suffix></name>
+</person-group>
+              <article-title>Adverse effects and laboratory parameters of high-dose olanzapine vs. clozapine in treatment-resistant schizophrenia.</article-title>
+              <source>Ann Clin Psychiatry</source>
+              <year>2003</year>
+              <volume>15</volume>
+              <fpage>181</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Comparison of high doses of olanzapine vs clozapine in 8-week crossover study in 13 patients; ALT elevations in 66% of clozapine-, but in no olanzapine-treated patients; weight gain greater with olanzapine [~3.4 kg] than clozapine [~1.4 kg]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">14971863</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.prior.2003.99">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Prior</surname><given-names>TI</given-names></name>
+<name name-style="western"><surname>Baker</surname><given-names>GB</given-names></name>
+</person-group>
+              <article-title>Interactions between the cytochrome P450 system and the second-generation antipsychotics.</article-title>
+              <source>J Psychiatry Neurosci</source>
+              <year>2003</year>
+              <volume>28</volume>
+              <fpage>99</fpage>
+              <lpage>112</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the interactions of the atypical antipsychotics with the P450 system; clozapine metabolized by CYP1A2 and 3A4 and possibly 2C9 and 2D6; risperidone by CYP2D6 and possibly 3A4; olanzapine by CYP1A2 and possibly 2D6; quetiapine and ziprasidone by CYP3A4).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">12670127</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.bender.2004.s46">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bender</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Grohmann</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Engel</surname><given-names>RR</given-names></name>
+<name name-style="western"><surname>Degner</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Dittmann-Balcar</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Ruther</surname><given-names>E</given-names></name>
+</person-group>
+              <article-title>Severe adverse drug reactions in psychiatric inpatients treated with neuroleptics.</article-title>
+              <source>Pharmacopsychiatry</source>
+              <year>2004</year>
+              <volume>37</volume>
+              <supplement>Suppl 1</supplement>
+              <fpage>S46</fpage>
+              <lpage>53</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Summary of severe adverse drug reactions reported among 35,293 inpatients; more common with atypicals [0.5-0.9%] than typical antipsychotic agents [0.02-0.2%], increased liver enzymes were the most common adverse reaction to olanzapine, 4th in frequency to clozapine, 6th to haloperidol, 7th to risperidone; no mention of hepatitis or acute liver failure).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15052514</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.bell.2004.575">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bell</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Delisle</surname><given-names>M.</given-names></name>
+</person-group>
+              <comment>[Non-alcoholic liver steatorrhea secondary to clozapine]</comment>
+              <source>Can J Psychiatry.</source>
+              <year>2004</year>
+              <volume>49</volume>
+              <fpage>575</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(46 year old woman gained 35 kg after 2 years of clozapine therapy and had ALT 100 U/L, but normal bilirubin with fatty liver on ultrasound; stopping therapy led to slow improvement in ALT; reintroduction at lower dose was tolerated without ALT elevations).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.erdogan.2004.83">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Erdogan</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Kocabasoglu</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Yalug</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Ozbay</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Senturk</surname><given-names>H</given-names></name>
+</person-group>
+              <article-title>Management of marked liver enzyme increase during clozapine treatment: a case report and review of the literature.</article-title>
+              <source>Int J Psychiatry Med</source>
+              <year>2004</year>
+              <volume>34</volume>
+              <fpage>83</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(27 year old man developed rise in ALT [151 U/L] without bilirubin or Alk P elevations after 2 weeks of clozapine therapy, resolved in 10 days of stopping; rechallenge led to rise in ALT to 208 U/L, biopsy showed minimal changes and lowering dose followed by improvements in ALT, allowing long term therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15242144</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.fong.2005.107">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Fong</surname><given-names>SY</given-names></name>
+<name name-style="western"><surname>Au Yeung</surname><given-names>KL</given-names></name>
+<name name-style="western"><surname>Tosh</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Wing</surname><given-names>YK</given-names></name>
+</person-group>
+              <article-title>Clozapine-induced toxic hepatitis with skin rash.</article-title>
+              <source>J Psychopharmacol</source>
+              <year>2005</year>
+              <volume>19</volume>
+              <fpage>107</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(55 year old woman with onset of rash and fever 4 weeks after starting clozapine [bilirubin 1.3 mg/dL, ALT 595 U/L, Alk P 160 U/L, eosinophils rising from 3% to 31%], resolving within 1 month of stopping).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">15671137</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.rettenbacher.2006.500">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Rettenbacher</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Baumgartner</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Eder-Ischia</surname><given-names>U</given-names></name>
+<name name-style="western"><surname>Edlinger</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Graziadei</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Hofer</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Huber</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Association between antipsychotic-induced elevation of liver enzymes and weight gain: a prospective study.</article-title>
+              <source>J Clin Psychopharmacol</source>
+              <year>2006</year>
+              <volume>26</volume>
+              <fpage>500</fpage>
+              <lpage>3</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Prospective study of 67 patients started on atypical antipsychotics [3 on clozapine]; ALT elevations were more frequent in 14 patients who gained &#x0003e;7% of body weight than in the 53 who did not [50% vs 19%] and mean changes in ALT, AST and GGT were greater; all were transient, asymptomatic, and not associated with bilirubin elevations).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">16974192</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.freund.2006">
+            <mixed-citation publication-type="other">Freund N. [Psychiatric patient with elevated liver values]. Praxis (Bern 1994) 2006; 95: 549-50.<annotation><p><italic toggle="yes">(Case report of patient on clozapine who developed cholestatic liver injury 2 weeks after a course of amoxicillin/clavulanate).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Clozapine.REF.luo.2007.204">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Luo</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>McColl</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Walmsley</surname><given-names>R</given-names></name>
+</person-group>
+              <article-title>Acute onset of ascites with clozapine-induced hepatitis.</article-title>
+              <source>Intern Med J</source>
+              <year>2007</year>
+              <volume>37</volume>
+              <fpage>204</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(43 year old woman developed fever 2 weeks after starting clozapine, eventually with abdominal pain, [bilirubin 0.6 mg/dL, ALT 246 U/L, Alk P 132 U/L, eosinophilia], worsening on continuing clozapine with pleural effusion and ascites, resolving with stopping drug).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">17316346</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.torrent.2008.4">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Torrent</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Amann</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Sanchez-Moreno</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Colom</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Feinares</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Comes</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Rosa</surname><given-names>AR</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Weight gain in bipolar disorder: pharmacological treatment as a contributing factor.</article-title>
+              <source>Acta Psychiatr Scand</source>
+              <year>2008</year>
+              <volume>118</volume>
+              <fpage>4</fpage>
+              <lpage>18</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of frequency of weight gain in patients treated for bipolar disorders, most weight gain occurred with clozapine and olanzapine, but some weight gain also with quetiapine, risperidone, lithium, valproate and gabapentin; not with aripiprazole, ziprasidone, carbamazepine or lamotrigine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18498432</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.flanagan.2008.115">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Flanagan</surname><given-names>RJ</given-names></name>
+</person-group>
+              <article-title>Side effects of clozapine and some other psychoactive drugs.</article-title>
+              <source>Curr Drug Saf</source>
+              <year>2008</year>
+              <volume>3</volume>
+              <fpage>115</fpage>
+              <lpage>22</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Thorough review of multitude of side effects of clozapine; ALT elevations occur in 30-50% of patients, usually resolving after 6-12 weeks; jaundice reported in 84 of 136,000 [0.06%] and fulminant hepatitis in 0.001%; 2 cases).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18690989</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.gareri.2008.525">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gareri</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>De Fazio</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Russo</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Marigliano</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>De Fazio</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>De Sarto</surname><given-names>G</given-names></name>
+</person-group>
+              <article-title>The safety of clozapine in the elderly.</article-title>
+              <source>Expert Opin Drug Saf</source>
+              <year>2008</year>
+              <volume>7</volume>
+              <fpage>525</fpage>
+              <lpage>38</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review on safety of clozapine; agranulocytosis occurred in 17 of 2260 patients [0.7%] in Finland; 50% fatality rate; ALT elevations in up to 10% of patients).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18759705</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.chalasani.2008.1924">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Watkins</surname><given-names>PB</given-names></name>
+<name name-style="western"><surname>Davern</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Serrano</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Rochon</surname><given-names>J</given-names></name>
+<collab>Drug Induced Liver Injury Network (DILIN)</collab>
+</person-group>
+              <article-title>Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States.</article-title>
+              <source>Gastroenterology</source>
+              <year>2008</year>
+              <volume>135</volume>
+              <fpage>1924</fpage>
+              <lpage>34</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, severe antidepressants [duloxetine, sertraline, fluoxetine, amitriptyline], but none of the atypical antipsychotic agents were implicated).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">18955056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.parsons.2009.103">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Parsons</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Allison</surname><given-names>DB</given-names></name>
+<name name-style="western"><surname>Loebel</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Williams</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Giller</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Romano</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Siu</surname><given-names>C</given-names></name>
+</person-group>
+              <article-title>Weight effects associated with antipsychotics: a comprehensive database analysis.</article-title>
+              <source>Schizophr Res</source>
+              <year>2009</year>
+              <volume>110</volume>
+              <fpage>103</fpage>
+              <lpage>10</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Analysis of weight gain in 21 placebo-controlled trials [~3300 patients]; average monthly weight gain in pounds was +0.1 with placebo, +0.8 olanzapine, +0.6 risperidone, -0.3 ziprasidone. A 5% increase in weight occurred after one year in 13% of placebo, 39% haloperidol, 20% ziprasidone, 45% risperidone and 60% olanzapine treated subjects).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19321312</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.sacchetti.2009.112">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sacchetti</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Galluzzo</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Valsecchi</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Romeo</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Gorini</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Warrington</surname><given-names>L</given-names></name>
+<collab>MOZART Study Group</collab>
+</person-group>
+              <article-title>Ziprasidone vs clozapine in schizophrenia patients refractory to multiple antipsychotic treatments: the MOZART study.</article-title>
+              <source>Schizophr Res</source>
+              <year>2009</year>
+              <volume>113</volume>
+              <fpage>112</fpage>
+              <lpage>21</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Controlled trial of clozapine [300 mg/day] vs ziprasidone [80-160 mg/day] for 18 weeks; similar efficacy; weight gain +0.8 kg with clozapine vs -2.6 kg with ziprasidone; &#x0201c;no detrimental effects for either drug were observed with regard to ...liver functions&#x02026;&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19606529</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.flanagan.2008.43">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Flanagan</surname><given-names>RJ</given-names></name>
+</person-group>
+              <article-title>Fatal toxicity of drugs used in psychiatry.</article-title>
+              <source>Hum Psychopharmacol</source>
+              <year>2008</year>
+              <volume>23</volume>
+              <supplement>Suppl 1</supplement>
+              <fpage>43</fpage>
+              <lpage>51</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Deaths from fatal poisonings decreased in England and Wales between 1993-2004, antipsychotic overdose fatalities higher for phenothiazines than atypical antipsychotics; deaths/million prescriptions being 29 for chlorpromazine, 15.5 thioridazine, 3.9 trifluoperazine, 13.3 olanzapine, 21 clozapine, and 31.3 quetiapine).</italic>
+</p>
+              </annotation>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.keane.2009.606">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Keane</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Lane</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Larkin</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Clarke</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Management of clozapine-related hepatotoxicity.</article-title>
+              <source>J Clin Psychopharmacol</source>
+              <year>2009</year>
+              <volume>29</volume>
+              <fpage>606</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Two cases; 52 year old woman developed fatigue and abdominal pain 8 days after starting clozapine [bilirubin normal, ALT 75 rising to 308 U/L, GGT 78 U/L], resolving within 4 weeks of stopping, but she was later able to tolerate long term therapy; 33 year old woman developed abnormal liver tests 5 weeks after starting clozapine [bilirubin normal, ALT 172 U/L, GGT normal], with improvement despite continuing therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19910731</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.chang.2009.376">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chang</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Krygier</surname><given-names>DS</given-names></name>
+<name name-style="western"><surname>Chatur</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Yoshida</surname><given-names>EM</given-names></name>
+</person-group>
+              <article-title>Clozapine-induced fatal fulminant hepatic failure: a case report.</article-title>
+              <source>Can J Gastroenterol</source>
+              <year>2009</year>
+              <volume>23</volume>
+              <fpage>376</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(~40 year old woman with schizophrenia developed nausea and jaundice 6 weeks after starting clozapine which was continued to 8 weeks [bilirubin 18.8 mg/dL, ALT 1668 U/L, Alk P 273 U/L], with progressive hepatic failure and death 4 weeks later).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19440569</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.chaplin.2010.739">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chaplin</surname><given-names>AC</given-names></name>
+<name name-style="western"><surname>Curley</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Wanless</surname><given-names>IR</given-names></name>
+</person-group>
+              <article-title>Re: Recent case report of clozapine-induced acute hepatic failure.</article-title>
+              <source>Can J Gastroenterol</source>
+              <year>2010</year>
+              <volume>24</volume>
+              <fpage>739</fpage>
+              <lpage>40</lpage>
+              <lpage>author reply 741</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(51 year old man developed jaundice 3 months after starting clozapine for schizophrenia [bilirubin 12.7 mg/dL, ALT 526 U/L, Alk P 1079 U/L] who died of cardiac arrest one week after presentation).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21165382</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.g_mez_esp_n.2010.150">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>G&#x000f3;mez Esp&#x000ed;n</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez Quiles</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Hallal</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Plaza</surname><given-names>J.</given-names></name>
+</person-group>
+              <comment>[Acute hepatocellular lesion after successive exposure to clozapine and olanzapine in a patient with chronic hepatitis C infection]</comment>
+              <source>Gastroenterol Hepatol</source>
+              <year>2010</year>
+              <volume>33</volume>
+              <fpage>150</fpage>
+              <lpage>2</lpage>
+              <comment>Spanish.</comment>
+              <annotation>
+                <p>
+<italic toggle="yes">(35 year old man with chronic hepatitis C developed asymptomatic rise in ALT [188 to 723 U/L] and GGT [134 to 648 U/L] 2 months after starting clozapine, improving on stopping and recurring one month after starting olanzapine [ALT 266 to 714 U/L], resolving upon stopping again).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">19914745</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.ferrajolo.2010.721">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ferrajolo</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Capuano</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Verhamme</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>Schuemie</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Rossi</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Stricker</surname><given-names>BH</given-names></name>
+<name name-style="western"><surname>Sturkenboom</surname><given-names>MC</given-names></name>
+</person-group>
+              <article-title>Drug-induced hepatic injury in children: a case/non-case study of suspected adverse drug reactions in VigiBase.</article-title>
+              <source>Br J Clin Pharmacol</source>
+              <year>2010</year>
+              <volume>70</volume>
+              <fpage>721</fpage>
+              <lpage>8</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Worldwide pharmacovigilance database contained 9036 hepatic adverse drug reactions in children, olanzapine ranked 16th with 62 reports [adjusted reporting odds ratio of 3.1] and clozapine ranked 38th with 36 cases [0.8]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">21039766</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.reuben.2010.2065">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Reuben</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Koch</surname><given-names>DG</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>WM</given-names></name>
+<collab>Acute Liver Failure Study Group</collab>
+</person-group>
+              <article-title>Drug-induced acute liver failure: results of a U.S. multicenter, prospective study.</article-title>
+              <source>Hepatology</source>
+              <year>2010</year>
+              <volume>52</volume>
+              <fpage>2065</fpage>
+              <lpage>76</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, 4 of which were attributed to psychotropic agents [one each due to quetiapine, nefazodone, fluoxetine and venlafaxine], but none were attributed to clozapine or olanzapine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">20949552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.kang.2013.103">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kang</surname><given-names>SH</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>JI</given-names></name>
+</person-group>
+              <article-title>Eosinophilia, pleural effusion, hepatitis, and jaundice occurring early in clozapine treatment.</article-title>
+              <source>Clin Psychopharmacol Neurosci</source>
+              <year>2013</year>
+              <volume>11</volume>
+              <fpage>103</fpage>
+              <lpage>5</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(47 year old woman with schizophrenia developed eosinophilia at 4 weeks, fever and myalgias at 5 weeks, and jaundice at 8 weeks after starting clozapine [bilirubin 6.0 mg/dL, ALT 254 U/L, GGT 573 U/L, eosinophils 12.9%], resolving rapidly on stopping and not recurring with olanzapine and haloperidol therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24023555</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.brown.2013.570">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Brown</surname><given-names>CA</given-names></name>
+<name name-style="western"><surname>Telio</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Warnock</surname><given-names>CA</given-names></name>
+<name name-style="western"><surname>Wong</surname><given-names>AH</given-names></name>
+</person-group>
+              <article-title>Clozapine toxicity and hepatitis.</article-title>
+              <source>J Clin Psychopharmacol</source>
+              <year>2013</year>
+              <volume>33</volume>
+              <fpage>570</fpage>
+              <lpage>1</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(48 year old woman with schizophrenia developed fatigue 4 weeks after starting clozapine [ALT 444 U/L, bilirubin, Alk P and eosinophil counts normal], resolving rapidly on stopping and not recurring on haloperidol).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23764687</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.tucker.2013.975">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Tucker</surname><given-names>P.</given-names></name>
+</person-group>
+              <article-title>Liver toxicity with clozapine.</article-title>
+              <source>Aust N Z J Psychiatry</source>
+              <year>2013</year>
+              <volume>47</volume>
+              <fpage>975</fpage>
+              <lpage>6</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(21 year old man with schizophrenia developed fatigue after 3 weeks of clozapine [bilirubin 1.5 rising to 6.5 mg/dL, ALT 794 to 2282 U/L, GGT normal to 164 U/L, with leukocytosis], resolving within 4 weeks of stopping and not recurring on sulpride).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23636912</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.nielsen.2013.603">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Nielsen</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Correll</surname><given-names>CU</given-names></name>
+<name name-style="western"><surname>Manu</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Kane</surname><given-names>JM</given-names></name>
+</person-group>
+              <article-title>Termination of clozapine treatment due to medical reasons: when is it warranted and how can it be avoided?</article-title>
+              <source>J Clin Psychiatry</source>
+              <year>2013</year>
+              <volume>74</volume>
+              <fpage>603</fpage>
+              <lpage>13</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of 81 studies of clozapine suggests that discontinuation of clozapine is warranted for ALT or AST elevations beyond 3 times ULN, but that dose lowering and rechallenge is sometimes possible).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23842012</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.bj_rnsson.2013.1419">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Bergmann</surname><given-names>OM</given-names></name>
+<name name-style="western"><surname>Bj&#x000f6;rnsson</surname><given-names>HK</given-names></name>
+<name name-style="western"><surname>Kvaran</surname><given-names>RB</given-names></name>
+<name name-style="western"><surname>Olafsson</surname><given-names>S</given-names></name>
+</person-group>
+              <article-title>Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland.</article-title>
+              <source>Gastroenterology</source>
+              <year>2013</year>
+              <volume>144</volume>
+              <fpage>1419</fpage>
+              <lpage>25</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none were attributed to clozapine or olanzapine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">23419359</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.kane.2014.5403">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Kane</surname><given-names>JP</given-names></name>
+<name name-style="western"><surname>O'Neill</surname><given-names>FA</given-names></name>
+</person-group>
+              <article-title>Clozapine-induced liver injury and pleural effusion.</article-title>
+              <source>Ment Illn</source>
+              <year>2014</year>
+              <volume>6</volume>
+              <fpage>5403</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(48 year old woman with schizophrenia developed fatigue and fever [bilirubin 1.4 mg/dL, ALT 894 U/L, Alk P 220 U/L, eosinophils 2390], with worsening of abnormalities until clozapine was stopped, whereupon all tests returned to normal within 6 weeks).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25553232</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.douros.2015.988">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Douros</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Bronder</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Andersohn</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Klimpel</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Thomae</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Sarganas</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Kreutz</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Drug-induced liver injury: results from the hospital-based Berlin Case-Control Surveillance Study.</article-title>
+              <source>Br J Clin Pharmacol</source>
+              <year>2015</year>
+              <volume>79</volume>
+              <fpage>988</fpage>
+              <lpage>99</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 76 cases of suspected drug induced liver injury and 377 controls enrolled in a German, prospective hospital-based registry, 5 cases but only 1 control were receiving clozapine [odds ratio=34.6]).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25444550</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.wu_chou.2014.1585">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Wu Chou</surname><given-names>AI</given-names></name>
+<name name-style="western"><surname>Lu</surname><given-names>ML</given-names></name>
+<name name-style="western"><surname>Shen</surname><given-names>WW</given-names></name>
+</person-group>
+              <article-title>Hepatotoxicity induced by clozapine: a case report and review of literature.</article-title>
+              <source>Neuropsychiatr Dis Treat</source>
+              <year>2014</year>
+              <volume>10</volume>
+              <fpage>1585</fpage>
+              <lpage>7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(45 year old woman with schizophrenia develop fatigue 12 days after switching from olanzapine to clozapine [bilirubin normal, ALT 181 U/L, Alk P not given], resolving within 2 weeks of stopping and recurring [fever and ALT 69 U/L] at a dose of 100 mg daily).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25210451</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.hern_ndez.2014.231">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Hern&#x000e1;ndez</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bessone</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>S&#x000e1;nchez</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>di Pace</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Brahm</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Zapata</surname><given-names>R, A</given-names></name>
+<name name-style="western"><surname>Chirino</surname><given-names>R</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports.</article-title>
+              <source>Ann Hepatol</source>
+              <year>2014</year>
+              <volume>13</volume>
+              <fpage>231</fpage>
+              <lpage>9</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, but none were attributed to clozapine or olanzapine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">24552865</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.chalasani.2015.1340">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Chalasani</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Bonkovsky</surname><given-names>HL</given-names></name>
+<name name-style="western"><surname>Fontana</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Stolz</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Talwalkar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Reddy</surname><given-names>KR</given-names></name>
+<etal/>
+<collab>United States Drug Induced Liver Injury Network</collab>
+</person-group>
+              <article-title>Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study.</article-title>
+              <source>Gastroenterology</source>
+              <year>2015</year>
+              <volume>148</volume>
+              <fpage>1340</fpage>
+              <lpage>52.e7</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 5 [0.7%] were attributed to antipsychotic medications, including 3 to quetiapine and 2 to olanzapine, but none to clozapine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">25754159</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF62">
+            <element-citation publication-type="journal">
+              <article-title>Drugs for psychotic disorders.</article-title>
+              <source>Med Lett Drugs Ther</source>
+              <year>2016</year>
+              <volume>58</volume>
+              <issue>1510</issue>
+              <fpage>160</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Concise review of medications available in the US for therapy of psychotic disorders; mentions that olanzapine can cause aminotransferase elevations, and that olanzapine and ziprasidone can cause DRESS syndrome, but does not mention ALT elevations or hepatotoxicity for any of agents discussed, including aripiprazole, brexpiprazole, cariprazine, clozapine, quetiapine, risperidone, asenapine, iloperidone, paliperidone and lurasidone).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">27960194</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.lally.2018.520">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Lally</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Al Kalbani</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Krivoy</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Murphy</surname><given-names>KC</given-names></name>
+<name name-style="western"><surname>Gaughran</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>MacCabe</surname><given-names>JH</given-names></name>
+</person-group>
+              <article-title>Hepatitis, interstitial nephritis, and pancreatitis in association with clozapine treatment: a systematic review of case series and reports.</article-title>
+              <source>J Clin Psychopharmacol.</source>
+              <year>2018</year>
+              <volume>38</volume>
+              <fpage>520</fpage>
+              <lpage>527</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(A systematic review of the literature identified 42 cases of inflammatory reactions to clozapine, including 20 cases of hepatitis which arose within 8 weeks of starting therapy, half with jaundice, 3 fatal and 2 recurred when &#x0201c;successfully rechallenged&#x0201d;).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">30059436</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.tak_cs.2019.535">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Tak&#x000e1;cs</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Sollychin</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Thomas</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Connally</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Pantelis</surname><given-names>C</given-names></name>
+</person-group>
+              <article-title>Clozapine rechallenge in a patient with clozapine-induced hepatitis.</article-title>
+              <source>Australas Psychiatry.</source>
+              <year>2019</year>
+              <volume>27</volume>
+              <fpage>535</fpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(35 year old woman with long standing schizophrenia developed weakness and liver injury within a few months of starting clozapine at age 20, and was tried again on clozapine at age 28 developing abnormal liver tests within 3 days [ALT 136 U/L, Alk P 372 U/L]; was started on a slow titration of clozapine [5 mg daily and increase by 5 mg every 3 days to a final dose of 400 mg daily] at age 31, during which her liver tests remained normal during follow up of 4 years).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">31545088</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.de_filippis.2020.875">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>de Filippis</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Soldevila-Mat&#x000ed;as</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>De Fazio</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Guinart</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Fuentes-Dur&#x000e1;</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Rubio</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Kane</surname><given-names>JM</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Clozapine-related drug reaction with eosinophilia and systemic symptoms (DRESS) syndrome: a systematic review.</article-title>
+              <source>Expert Rev Clin Pharmacol.</source>
+              <year>2020</year>
+              <volume>13</volume>
+              <fpage>875</fpage>
+              <lpage>883</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review identified publication of 6 cases of DRESS syndrome associated with clozapine hepatotoxicity, including 3 women, 3 men; ages 27 to 73; latency 8-36 days and one 300 days; all with either fever, rash or both; 2 with lymphadenopathy, 4 with eosinophilia, 4 treated with corticosteroids, all recovered, no deaths, 2 who were rechallenged both had recurrence).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32576056</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.zarghami.2020.141">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zarghami</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Hoseini</surname><given-names>SD</given-names></name>
+<name name-style="western"><surname>Kazemi</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Elyasi</surname><given-names>F</given-names></name>
+</person-group>
+              <article-title>Concurrent hepatotoxicity and neutropenia induced by clozapine.</article-title>
+              <source>Arch Iran Med.</source>
+              <year>2020</year>
+              <volume>23</volume>
+              <fpage>141</fpage>
+              <lpage>143</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(58 year old man with schizophrenia developed fever and weakness within 7 weeks of starting clozapine [150 mg daily] with neutropenia and hepatitis [bilirubin 11.5 mg/dL, ALT 214 U/L, Alk P 215 U/L, neutrophils 352/&#x000b5;L], resolving within one week of stopping therapy).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32061077</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.dias.2021.3">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Dias</surname><given-names>CL</given-names></name>
+<name name-style="western"><surname>Fonseca</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Gadelha</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Noto</surname><given-names>C</given-names></name>
+</person-group>
+              <article-title>Clozapine-induced hepatotoxicity: A life threatening situation.</article-title>
+              <source>Schizophr Res.</source>
+              <year>2021</year>
+              <volume>235</volume>
+              <fpage>3</fpage>
+              <lpage>4</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Two patients: 33 year old man developed nausea and confusion 12 days after starting clozapine [150 mg] with total bilirubin 1.6 mg/dL and ALT 242 U/L, which fell to normal within a month of stopping and clozapine was later re-introduced without recurrence. 48 year old woman developed nausea and dark urine 20 days after adding clozapine to olanzapine with normal bilirubin, ALT 77 U/L, and Alk P 161 U/L, which returned to normal after stopping clozapine and reintroducing olanzapine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34274796</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.de_filippis.2021.1062">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>de Filippis</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Soldevila-Mat&#x000ed;as</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Guinart</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>De Fazio</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Rubio</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Kane</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Schoretsanitis</surname><given-names>G</given-names></name>
+</person-group>
+              <article-title>Unravelling cases of clozapine-related drug reaction with eosinophilia and systemic symptoms (DRESS) in patients reported otherwise: A systematic review.</article-title>
+              <source>J Psychopharmacol.</source>
+              <year>2021</year>
+              <volume>35</volume>
+              <fpage>1062</fpage>
+              <lpage>1073</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Systematic review identified publication of 27 cases of DRESS syndrome due to clozapine, most commonly with organ involvement of the lung [12 cases: 44%], liver [11 cases: 41%], heart [9 cases: 33%], kidney [9 cases: 33%], gastrointestinal tract, thyroid and bone marrow; 25 with fever, 11 with rash, 13 atypical lymphocytes, 18 eosinophils, 3 fatal, 4 with recurrence upon reexposure, but only 5 identified as DRESS in the original report).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34044659</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.sernoskie.2021.861">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Sernoskie</surname><given-names>SC</given-names></name>
+<name name-style="western"><surname>Jee</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Uetrecht</surname><given-names>JP</given-names></name>
+</person-group>
+              <article-title>The emerging role of the innate immune response in idiosyncratic drug reactions.</article-title>
+              <source>Pharmacol Rev.</source>
+              <year>2021</year>
+              <volume>73</volume>
+              <fpage>861</fpage>
+              <lpage>896</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the role of the innate immune response in drug induced liver disease, uses clozapine as an example).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34016669</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.revillaz__iga.2021">
+            <mixed-citation publication-type="book">Revilla-Z&#x000fa;&#x000f1;iga J, Cornejo-Del Carpio J, Cruzado L. Hepatoxicity induced by clozapine: case report and brief review. Rev Colomb Psiquiatr (Engl Ed). 2021:S0034-7450(21)00087-1. English, Spanish.<annotation><p><italic toggle="yes">(39 year old woman with schizophrenia developed jaundice 4 weeks after starting clozapine [200 mg daily] [bilirubin 3.5 mg/dL, ALT 268 U/L, eosinophils 40/&#x000b5;L], with persistence of injury and progressive hepatic failure resulting in multiorgan failure and death 6 weeks after presentation).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Clozapine.REF.druschky.2021.373">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Druschky</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Toto</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Bleich</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Baumg&#x000e4;rtner</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Engel</surname><given-names>RR</given-names></name>
+<name name-style="western"><surname>Grohmann</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Maier</surname><given-names>HB</given-names></name>
+<etal/>
+</person-group>
+              <article-title>Severe drug-induced liver injury in patients under treatment with antipsychotic drugs: data from the AMSP study.</article-title>
+              <source>World J Biol Psychiatry.</source>
+              <year>2021</year>
+              <volume>22</volume>
+              <fpage>373</fpage>
+              <lpage>386</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Among 246 cases of severe liver injury due to antipsychotic medications identified in a prospective registry of German psychiatric hospitals between 1993 and 2016, 46 arose in 38,349 patients [0.12%] who received clozapine [34 as a single antipsychotic agent]; other commonly implicated agents being olanzapine [n=90 of 54,822: 0.16%], quetiapine [34 of 66,209: 0.05%] and risperidone [27 of 51,683: 0.05%]; two fatal cases occurred in olanzapine-treated patients).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">32892689</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.ou.2022.e720">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Ou</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Huang</surname><given-names>SY</given-names></name>
+</person-group>
+              <article-title>Corticosteroid therapy for clozapine-induced hepatitis and eosinophilia.</article-title>
+              <source>Am J Ther.</source>
+              <year>2022</year>
+              <volume>29</volume>
+              <fpage>e720</fpage>
+              <lpage>e721</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(72 year old woman with schizophrenia developed fever and weakness 4 weeks after starting escalating doses of clozapine [ALT 309 rising to 731 U/L, eosinophils 882 rising to 1907/&#x000b5;L], which improved with stopping clozapine and a short course of corticosteroids, all values being normal 2 months later).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">33395053</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.zeiss.2022.440">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Zeiss</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Hafner</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Sch&#x000f6;nfeldt-Lecuona</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Connemann</surname><given-names>BJ</given-names></name>
+<name name-style="western"><surname>Gahr</surname><given-names>M</given-names></name>
+</person-group>
+              <article-title>Drug-associated liver injury related to antipsychotics: exploratory analysis of pharmacovigilance data.</article-title>
+              <source>J Clin Psychopharmacol.</source>
+              <year>2022</year>
+              <volume>42</volume>
+              <fpage>440</fpage>
+              <lpage>444</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the VigiBase data base of individual case safety reports on antipsychotics and liver injury found positive hepatic safety signals for olanzapine and clozapine, but none for risperidone, quetiapine, ziprasidone, asenapine, aripiprazole, brexpiprazole, and cariprazine).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">35730552</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.shah.2023.463">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Shah</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Muir</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Furfaro</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Beitler</surname><given-names>JR</given-names></name>
+<name name-style="western"><surname>Dzierba</surname><given-names>AL</given-names></name>
+</person-group>
+              <article-title>Use of N-acetylcysteine for clozapine-induced acute liver injury: a case report and literature review.</article-title>
+              <source>J Pharm Pract.</source>
+              <year>2023</year>
+              <volume>36</volume>
+              <fpage>463</fpage>
+              <lpage>467</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(46 year old woman with bipolar disorder and psychosis developed fever and lethargy 1 month after switching from risperidone to clozapine [bilirubin 0.3 rising to 0.7 mg/dL, ALT 364 to 1313 U/L, Alk P 75 to 299 U/L, INR 1.2 to 1.3], who upon worsening was treated with intravenous N-acetylcysteine with subsequent improvement).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">34284670</pub-id>
+            </element-citation>
+          </ref>
+          <ref id="Clozapine.REF.gunther.2023.73">
+            <element-citation publication-type="journal">
+              <person-group>
+<name name-style="western"><surname>Gunther</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Dopheide</surname><given-names>JA</given-names></name>
+</person-group>
+              <article-title>Antipsychotic safety in liver disease: a narrative review and practical guide for the clinician.</article-title>
+              <source>J Acad Consult Liaison Psychiatry.</source>
+              <year>2023</year>
+              <volume>64</volume>
+              <fpage>73</fpage>
+              <lpage>82</lpage>
+              <annotation>
+                <p>
+<italic toggle="yes">(Review of the literature on hepatotoxicity of antipsychotic medications and guidance on their use in patients with liver disease characterizes chlorpromazine, clozapine, and olanzapine as having the greatest risk for causing liver injury; quetiapine and risperidone as having moderate risk, haloperidol as having low risk, and paliperidone, aripiprazole, lurasidone, and loxapine as having low risk).</italic>
+</p>
+              </annotation>
+              <pub-id pub-id-type="pmid">36180017</pub-id>
+            </element-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec sec-type="link-group" id="Clozapine.OTHER_REFERENCE_LINKS">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <label>1</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Clozapine/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D:%222999/12/31%22%5BEDat%5D)">Recent References on Clozapine: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <label>2</label>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Clozapine">Trials on Clozapine: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

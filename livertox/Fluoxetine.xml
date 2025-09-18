@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Fluoxetine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Fluoxetine</book-part-id>
+      <title-group>
+        <title>Fluoxetine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>2</day>
+          <month>2</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Fluorouracil" document-type="chapter">Fluorouracil</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Fluphenazine" document-type="chapter">Fluphenazine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Fluoxetine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Fluoxetine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Fluoxetine is a selective serotonin reuptake inhibitor (SSRI) widely used as an antidepressant. Fluoxetine therapy can be associated with transient asymptomatic elevations in serum aminotransferase levels and has been linked to rare instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Fluoxetine.Background">
+          <title>Background</title>
+          <p>Fluoxetine (floo ox' e teen) is an antidepressant which was one of the first of the class of selective serotonin reuptake inhibitors (SSRIs) introduced into clinical use. By blocking the reuptake of serotonin in CNS synaptic clefts, SSRIs increase serotonin levels in the brain which is associated with their antidepressant effect. Fluoxetine was approved for use in the United States in 1987 and it became one of the most widely used antidepressant medications, more than 20 million prescriptions being written yearly. Current indications include major depressive disorders, panic and obsessive compulsive disorders, bulemia nervosa and bipolar illness in combination with other agents. Fluoxetine is available as tablets and capsules of 10, 20 and 40 mg and in an oral solution of 20 mg/5 mL, in multiple generic forms and under the brand names of Prozac and Sarafem. Fixed combinations of fluoxetine with olanzapine (Symbyax and generic forms) are also available. A long acting formulation of 90 mg of fluoxetine has been developed for once weekly dosing (Prozac weekly). The recommended dosage of standard formulations of fluoxetine in adults is 20 mg once daily, increasing to 40 mg daily if necessary and not exceeding 80 mg daily. Common side effects are drowsiness, dyspepsia, nausea, headache, increased sweating, increased appetite, weight gain and sexual dysfunction.</p>
+        </sec>
+        <sec id="Fluoxetine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Liver test abnormalities have been reported to occur rarely in patients on fluoxetine (less than 1%), and elevations are usually modest and usually do not require dose modification or discontinuation. Rare instances of acute, clinically apparent episodes of liver injury with marked liver enzyme elevations with or without jaundice have been reported in patients on fluoxetine. The onset of injury is usually within 2 to 12 weeks and the pattern of serum enzyme elevations is usually hepatocellular, but convincing cases of mixed and cholestatic injury have also been described. Autoimmune (autoantibodies) and immunoallergic features (rash, fever, eosinophilia) are uncommon.</p>
+          <p>Likelihood score: C (probable cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Fluoxetine.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which fluoxetine causes liver injury is not known. Fluoxetine is extensively metabolized by the liver, mainly via the cytochrome P450 system, and hepatotoxicity may be mediated by toxic intermediates of their metabolism.</p>
+        </sec>
+        <sec id="Fluoxetine.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum aminotransferase elevations that occur on fluoxetine therapy are usually self-limited and do not require dose modification or discontinuation of therapy. Rare instances of acute liver failure and chronic hepatitis have been attributed to fluoxetine therapy. Persons with intolerance to fluoxetine may have similar reactions to other SSRIs and careful monitoring is warranted if other such agents are used.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Antidepressants">Antidepressant Agents</related-object></p>
+          <p>Other Drugs in the Subclass, SNRIs/SSRIs: <related-object source-id="livertox" document-id="CitalopramEscitalopr">Citalopram</related-object>, <related-object source-id="livertox" document-id="CitalopramEscitalopr">Escitalopram</related-object>, <related-object source-id="livertox" document-id="Duloxetine">Duloxetine</related-object>, <related-object source-id="livertox" document-id="Fluvoxamine">Fluvoxamine</related-object>, <related-object source-id="livertox" document-id="MilnacipranLevomilna">Levomilnacipran</related-object>, <related-object source-id="livertox" document-id="Paroxetine">Paroxetine</related-object>, <related-object source-id="livertox" document-id="Sertraline">Sertraline</related-object>, <related-object source-id="livertox" document-id="Venlafaxine">Venlafaxine</related-object>, <related-object source-id="livertox" document-id="Vilazodone">Vilazodone</related-object>, <related-object source-id="livertox" document-id="Vortioxetine">Vortioxetine</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Fluoxetine.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Fluoxetine.Case_1._Acute_cholestatic_hep">
+          <title>Case 1. Acute cholestatic hepatitis due to fluoxetine.</title>
+          <p>[Modified from: Cosme A, Barrio J, Lobo C, Gil Y, Castiella A, Arenas JI. Acute cholestasis by fluoxetine. Am J Gastroenterol 1994; 91: 2449-50. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/7877663">PubMed Citation</ext-link>]</p>
+          <p>A 49 year old man with depression developed jaundice five months after starting fluoxetine (20 mg daily), sulpiride (100 mg daily) and diazepam (10 mg daily). He had no history of liver disease or jaundice, but drank an estimated 38 grams of alcohol (~3-4 drinks) daily. He was taking no other medications. Physical examination showed jaundice but no fever or rash. Laboratory testing showed bilirubin of 13.6 mg/dL (direct 11.6 mg/dL), modest elevations in serum aminotransferase levels (ALT 88 U/L; AST 188 U/L), but marked increases in alkaline phosphatase (682 U/L) and gamma glutamyl transpeptidase levels (1,560 U/L) (Table). Tests for hepatitis A, B and C were negative as were autoantibodies. Abdominal ultrasound, CT scans and ERCP showed no evidence of biliary obstruction. A liver biopsy showed intrahepatic cholestasis, mild portal inflammation, and isolated single hepatocyte necrosis. Fluoxetine was stopped, and he began to improve quickly. In follow up 40 days later, laboratory tests were normal.</p>
+          <sec id="Fluoxetine.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Fluoxetine.T1" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Fluoxetine.T1_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Fluoxetine</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Fluoxetine.T1_1_1_1_1" id="hd_b_Fluoxetine.T1_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Fluoxetine.T1_1_1_1_1" rowspan="1" colspan="1">Cholestatic (R=0.9)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Fluoxetine.T1_1_1_1_1" id="hd_b_Fluoxetine.T1_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Fluoxetine.T1_1_1_2_1" rowspan="1" colspan="1">3+ (jaundice, hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Fluoxetine.T1_1_1_1_1" id="hd_b_Fluoxetine.T1_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Fluoxetine.T1_1_1_3_1" rowspan="1" colspan="1">5 months</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Fluoxetine.T1_1_1_1_1" id="hd_b_Fluoxetine.T1_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Fluoxetine.T1_1_1_4_1" rowspan="1" colspan="1">1-2 months</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Fluoxetine.T1_1_1_1_1" id="hd_b_Fluoxetine.T1_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Fluoxetine.T1_1_1_5_1" rowspan="1" colspan="1">Sulpiride, diazepam</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Fluoxetine.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Fluoxetine.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Fluoxetine.T2_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Fluoxetine.T2_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Fluoxetine.T2_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Fluoxetine.T2_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Fluoxetine.T2_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Fluoxetine.T2_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Fluoxetine.T2_1_1_1_1 hd_h_Fluoxetine.T2_1_1_1_2 hd_h_Fluoxetine.T2_1_1_1_3 hd_h_Fluoxetine.T2_1_1_1_4 hd_h_Fluoxetine.T2_1_1_1_5 hd_h_Fluoxetine.T2_1_1_1_6" colspan="6" rowspan="1">Fluoxetine taken for 5 months</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Fluoxetine.T2_1_1_1_1" rowspan="1" colspan="1">5 months</td>
+                    <td headers="hd_h_Fluoxetine.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Fluoxetine.T2_1_1_1_3" rowspan="1" colspan="1">88</td>
+                    <td headers="hd_h_Fluoxetine.T2_1_1_1_4" rowspan="1" colspan="1">682</td>
+                    <td headers="hd_h_Fluoxetine.T2_1_1_1_5" rowspan="1" colspan="1">13.6</td>
+                    <td headers="hd_h_Fluoxetine.T2_1_1_1_6" rowspan="1" colspan="1">Hospitalized</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Fluoxetine.T2_1_1_1_1" rowspan="1" colspan="1">5.3 months</td>
+                    <td headers="hd_h_Fluoxetine.T2_1_1_1_2" rowspan="1" colspan="1">10 days</td>
+                    <td headers="hd_h_Fluoxetine.T2_1_1_1_3" rowspan="1" colspan="1">54</td>
+                    <td headers="hd_h_Fluoxetine.T2_1_1_1_4" rowspan="1" colspan="1">329</td>
+                    <td headers="hd_h_Fluoxetine.T2_1_1_1_5" rowspan="1" colspan="1">3.3</td>
+                    <td headers="hd_h_Fluoxetine.T2_1_1_1_6" rowspan="1" colspan="1">Liver biopsy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Fluoxetine.T2_1_1_1_1" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Fluoxetine.T2_1_1_1_2" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Fluoxetine.T2_1_1_1_3" rowspan="1" colspan="1">26</td>
+                    <td headers="hd_h_Fluoxetine.T2_1_1_1_4" rowspan="1" colspan="1">297</td>
+                    <td headers="hd_h_Fluoxetine.T2_1_1_1_5" rowspan="1" colspan="1">0.7</td>
+                    <td headers="hd_h_Fluoxetine.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Fluoxetine.T2_1_1_1_1 hd_h_Fluoxetine.T2_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Fluoxetine.T2_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;40</bold>
+</td>
+                    <td headers="hd_h_Fluoxetine.T2_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;280</bold>
+</td>
+                    <td headers="hd_h_Fluoxetine.T2_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Fluoxetine.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Fluoxetine.Comment">
+            <title>Comment</title>
+            <p>The selective serotonin reuptake inhibitors (SSRIs) are some of the most commonly used prescription medications worldwide, yet reports of clinically apparent hepatic injury during their use are rare. Typically, the latency to onset is 1 to 6 months and the pattern of injury is either an acute hepatocellular or cholestatic hepatitis that is self-limited and rapidly reversed upon withdrawal of the agent. Sulpiride is substituted benzamide, an antipsychotic medication used in Europe but not available in the United States; it has not been clearly implicated in cases of drug induced liver injury. The possible role of alcohol can also not be completed excluded in this case, although the liver histology and the speed of recovery argue for fluoxetine rather than alcohol as a cause of the liver injury. When patients develop clinically apparent liver injury from an SSRI, it is not clear whether another member of this group can be substituted. A structurally unrelated substitute along with careful monitoring is perhaps prudent if antidepressant therapy is considered necessary.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Fluoxetine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Fluoxetine.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Fluoxetine &#x02013; Generic, Prozac&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Antidepressant Agents</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=fluoxetine">COMPLETE LABELING</ext-link>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Fluoxetine.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Fluoxetine.T3" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Fluoxetine.T3_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Fluoxetine.T3_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Fluoxetine.T3_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Fluoxetine.T3_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Fluoxetine.T3_1_1_1_1" rowspan="1" colspan="1">Fluoxetine</td>
+                <td headers="hd_h_Fluoxetine.T3_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135003185">54910-89-3</ext-link>
+</td>
+                <td headers="hd_h_Fluoxetine.T3_1_1_1_3" rowspan="1" colspan="1">C17-H18-F3-N-O</td>
+                <td headers="hd_h_Fluoxetine.T3_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Fluoxetine.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Image of Fluoxetine Chemical Structure</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Fluoxetine.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 02 February 2018</p>
+        <ref-list id="Fluoxetine.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Fluoxetine.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Antidepressants. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 493-8.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; mentions that there have been at least 6 reports of acute, symptomatic hepatic injury and one case of chronic hepatitis attributed to fluoxetine).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R2">
+            <mixed-citation publication-type="other">Larrey D, Ripault MP. Hepatotoxicity of psychotropic drugs and drugs of abuse. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 443-62.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of antidepressants; clinically apparent liver injury from the SSRIs is rare, and fluoxetine has been implicated in only a few isolated cases).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R3">
+            <mixed-citation publication-type="other">O'Donnell JM, Shelton RC. Pharmacotherapy of depression and anxiety disorders. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 397-416.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R4">
+            <mixed-citation publication-type="journal">Cooper GL. The safety of fluoxetine &#x02013; an update. Br J Psychiatry 1988; 153: 77-86. <annotation><p><italic toggle="yes">(Pooled data on 2938 patients on fluoxetine, 599 on tricyclics and 799 on placebo and postmarketing data on over 7500 fluoxetine treated patients; AST values above 100 U/L occurred in 0.5% of patients on fluoxetine, but there were no cases of clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">3074869</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R5">
+            <mixed-citation publication-type="journal">Lam KS, Blanchi A, Chavaillon JM. [Hepatitis probably secondary to the massive ingestion of fluvoxamine]. Gastroenterol Clin Biol 1988; 12: 398-9. <annotation><p><italic toggle="yes">(63 year old woman took an overdose of fluvoxamine [~1500 mg] and within 24 hours had elevations in ALT [1059 U/L], Alk P [668 U/L] and bilirubin [1.4 mg/dL], which remained high for more than a month).</italic></p></annotation><pub-id pub-id-type="pmid">3133277</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R6">
+            <mixed-citation publication-type="journal">Mars F, Dumas de la Roque G, Goissen P. [Acute hepatitis during treatment of fluoxetine]. Gastroenterol Clin Biol 1991; 15: 270-1. French. <annotation><p><italic toggle="yes">(38 year old woman with severe mitral insufficiency developed fever and weakness 7 months after starting fluoxetine [bilirubin normal, ALT 444 U/L], resolving within one month of stopping therapy).</italic></p></annotation><pub-id pub-id-type="pmid">2044897</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R7">
+            <mixed-citation publication-type="journal">Bobichon R, Bernard G, Mion F. [Acute hepatitis during treatment with fluoxetine]. Gastroenterol Clin Biol 1993; 17: 406-7. French. <annotation><p><italic toggle="yes">(54 year old woman developed abdominal pain and jaundice 9 days after starting fluoxetine [bilirubin 5.1 mg/dL, ALT 323 U/L, GGT 185 U/L], resolving in 4 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">8349086</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R8">
+            <mixed-citation publication-type="journal">Castiella A, Arenas JI. Fluoxetine-hepatotoxicity. Am J Gastroenterol 1994; 89: 458-9. <annotation><p><italic toggle="yes">(61 year old woman developed mild, asymptomatic elevations in ALT [61 U/L] and GGT [90 U/L] one month after starting fluoxetine, resolving rapidly with stopping; no mention of Alk P or bilirubin).</italic></p></annotation><pub-id pub-id-type="pmid">8122673</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R9">
+            <mixed-citation publication-type="journal">Gram LF. Fluoxetine. N Engl J Med 1994; 331: 1354-62. <annotation><p><italic toggle="yes">(Review of the pharmacology, clinical indications, efficacy and safety of fluoxetine; no discussion of hepatotoxicity or ALT elevations).</italic></p></annotation><pub-id pub-id-type="pmid">7935707</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R10">
+            <mixed-citation publication-type="journal">Castiella A, Lopez P, Arenas JI. Fluoxetine. N Engl J Med 1994; 332: 960-1. <annotation><p><italic toggle="yes"> (Letter faulting review article on fluoxetine by Gram [1994] for not mentioning hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">7877663</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R11">
+            <mixed-citation publication-type="journal">Gram LF. Fluoxetine. N Engl J Med 1995; 332: 960-1. <annotation><p><italic toggle="yes">(Author&#x02019;s reply to Castiella [1994] mentioning that there have been only 3 case reports of fluoxetine hepatotoxicity despite its use in 10-15 million patients).</italic></p></annotation><pub-id pub-id-type="pmid">787763</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R12">
+            <mixed-citation publication-type="journal">Friedenberg FK, Rothstein KD. Hepatitis secondary to fluoxetine treatment. Am J Psychiatry 1996; 153: 580. <annotation><p><italic toggle="yes">(57 year old man developed fatigue 2 weeks after starting fluoxetine which worsened by 10 weeks [bilirubin normal, ALT 410 U/L, Alk P normal, GGT 860 U/L], resolving within 9 days of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">8599417</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R13">
+            <mixed-citation publication-type="journal">Cosme A, Barrio J, Lobo C, Gil Y, Castiella A, Arenas JI. Acute cholestasis by fluoxetine. Am J Gastroenterol 1996; 91: 2449-50. <annotation><p><italic toggle="yes">(49 year old man developed jaundice 5 months after starting fluoxetine [bilirubin 13.6 mg/dL, ALT 88 U/L, Alk P 682 U/L], improving within 1-2 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">8931446</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R14">
+            <mixed-citation publication-type="journal">Johnston DE, Wheeler DE. Chronic hepatitis related to use of fluoxetine. Am J Gastroenterol 1997; 92: 1225-6. <annotation><p><italic toggle="yes">(35 year old man with intermittent ALT elevations [62-106 U/L], low levels of HCV RNA, ANA 1:40 and liver biopsy showing chronic hepatitis, seemingly improving with stopping fluoxetine which had been taken for 10 months).</italic></p></annotation><pub-id pub-id-type="pmid">9219808</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R15">
+            <mixed-citation publication-type="journal">Mourilhe P, Stokes PE. Risks and benefits of selective serotonin reuptake inhibitors in the treatment of depression. Drug Saf 1998; 18: 57-82. <annotation><p><italic toggle="yes">(Review of pharmacology, efficacy and safety of SSRIs; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">9466088</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R16">
+            <mixed-citation publication-type="journal">Grohmann R, R&#x000fc;ther E, Engel RR, Hippius H. Assessment of adverse drug reactions in psychiatric inpatients with the AMSP drug safety program: methods and first results for tricyclic antidepressants and SSRI. Pharmacopsychiatry 1999; 32: 21-8. <annotation><p><italic toggle="yes">(Analysis of reporting of adverse events among inpatients in 29 German hospitals between 1993 to 1997; 896 severe adverse events were reported among 48,564 patients [1.8%], both total and hepatic events were more common with tricyclics than SSRIs).</italic></p></annotation><pub-id pub-id-type="pmid">10071179</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R17">
+            <mixed-citation publication-type="journal">Capella D, Bruguera M, Figueras A, Lapone R. Fluoxetine-induced hepatitis: why is postmarketing surveillance needed? Eur J Clin Pharmacol 1999; 55: 545-6. <annotation><p><italic toggle="yes">(Analysis of Spanish System of Pharmacovigilance from 1982-1999 found 6 cases of acute hepatitis due to fluoxetine, latency of 5 days to 5 months, [bilirubin 3.2-15.2 mg/dL, ALT 116-2124 U/L, Alk P 1539-2463], all cases resolving within 1-3 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">10501826</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R18">
+            <mixed-citation publication-type="journal">Cai Q, Benson MA, Talbot TJ, Devadas G, Swanson HJ, Olson JL, Kirchner JP. Acute hepatitis due to fluoxetine therapy. Mayo Clin Proc 1999; 74: 692-4. <annotation><p><italic toggle="yes">(Two cases of fluoxetine hepatotoxicity; 39 year old man developed jaundice 1-2 years after starting fluoxetine [bilirubin 5.9 mg/dL, ALT 272 U/L, Alk P 153 U/L], resolving within 4-6 months of stopping; 45 year old woman with jaundice arising after 3 months of fluoxetine [bilirubin 6.4 mg/dL, ALT 641 U/L, Alk P 210 U/L], resolving within 2 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">10405699</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R19">
+            <mixed-citation publication-type="journal">Shuster J. Fluoxetine and hepatitis. Nursing 2000; 30: 78. <annotation><p><italic toggle="yes">(Summary of two cases published by Cai [1999] for a nursing journal).</italic></p></annotation><pub-id pub-id-type="pmid">11249443</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R20">
+            <mixed-citation publication-type="journal">Carvajal Garc&#x000ed;a-Pando A, Garc&#x000ed;a del Pozo J, S&#x000e1;nchez AS, Velasco MA, Rueda de Castro AM, Lucena MI.Hepatotoxicity associated with the new antidepressants. J Clin Psychiatry 2002; 63: 135-7. <annotation><p><italic toggle="yes">(Analysis of cases of hepatotoxicity from antidepressants in Spanish Pharmacovigilance System from 1989-1999, identified 99 cases; among SSRIs, 26 due to fluoxetine, 14 paroxetine, 6 fluvoxamine, 5 sertraline, 3 venlafaxine and 2 citalopram; among tricyclics, 16 clomipramine 7 amitriptyline, 6 imipramine; among miscellaneous, 3 nefazodone and 1 trazodone; but all similar in rate ~1-3 per 100,000 patient-years of exposure, except for nefazodone=29/100,000).</italic></p></annotation><pub-id pub-id-type="pmid">11874214</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R21">
+            <mixed-citation publication-type="journal">Lucena M, Carvajal A, Andrade R, Velasco A. Antidepressant-induced hepatotoxicity. Expert Opin Drug Saf 2003; 2: 249-62. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of antidepressants; antidepressant use has increased markedly between 1992 and 2002, accounting for 5% of cases of hepatotoxicity; SSRIs are less likely to cause injury than tricyclics and MAO inhibitors; range of presentations, typically self-limited and rapid recovery; no hallmarks of hypersensitivity).</italic></p></annotation><pub-id pub-id-type="pmid">12904104</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R22">
+            <mixed-citation publication-type="journal">Spigset O, H&#x000e4;gg S, Bate A. Hepatic injury and pancreatitis during treatment with serotonin reuptake inhibitors: data from the World Health Organization (WHO) database of adverse drug reactions. Int Clin Psychopharmacol 2003; 18:157-61. <annotation><p><italic toggle="yes">(Among 27,542 reports of hepatic injury in WHO database, 786 were related to SSRIs [3%], including citalopram 42, fluoxetine 222, fluvoxamine 54, paroxetine 191, sertraline 112, nefazodone 91 and venlafaxine 74; only nefazodone has an excess of hepatic reports in relationship to total reports).</italic></p></annotation><pub-id pub-id-type="pmid">12702895</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R23">
+            <mixed-citation publication-type="journal">Milkiewicz P, Chilton AP, Hubscher SG, Elias E. Antidepressant induced cholestasis: hepatocellular redistribution of multidrug resistant protein (MRP2). Gut 2003; 52: 300-3. <annotation><p><italic toggle="yes">(2 cases of cholestasis on antidepressants; 30 year old woman developed jaundice 8 weeks after starting citalopram [bilirubin 4.4 mg/dL, AST 33 U/L, Alk P 637 U/L], resolving within 2 months of stopping; 63 year old man developed jaundice 3 months after starting the tricylcic antidepressant dothiepin [bilirubin 9.4 mg/dL, AST 40 U/L, Alk P 600 U/L], resolving within 3 months of stopping while on corticosteroids, later tolerating fluoxetine for 12 months but redeveloping jaundice after 2 months of paroxetine [bilirubin 15.2 mg/dL, AST 36 U/L, Alk P 544 U/L], resolving within 6 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">12524417</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R24">
+            <mixed-citation publication-type="journal">Degner D, Grohmann R, Kropp S, R&#x000fc;ther E, Bender S, Engel RR, Schmidt LG. Severe adverse drug reactions of antidepressants: results of the German multicenter drug surveillance program AMSP. Pharmacopsychiatry 2004; 37 Suppl 1: S39-45. <annotation><p><italic toggle="yes">(Analysis of adverse drug reactions reported from 1993-2000 in 35 psychiatric hospitals; 0.7% of SSRI recipients had a severe adverse event; hepatic in 0.05%).</italic></p></annotation><pub-id pub-id-type="pmid">5052513</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R25">
+            <mixed-citation publication-type="other">Pinzani V, Peyriere H, Hillaire-Buys D, Pageaux GP, Blayac BP, Larrey D. Specific serotonin recapture inhibitor (SSRI) antidepressants: hepatoxicity assessment in a large cohort in France. J Hepatol 2006; 44: S256. Not in PubMed<annotation><p><italic toggle="yes">(Abstract: analysis of French Pharmacovigilance data on SSRIs found 63 cases of hepatotoxicity from paroxetine, 45 fluoxetine, 30 citalopram, 18 sertraline, and 2 fluvoxamine).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R26">
+            <mixed-citation publication-type="journal">Sabat&#x000e9; M, Ib&#x000e1;&#x000f1;ez L, P&#x000e9;rez E, Vidal X, Buti M, Xiol X, Mas A, et al. Risk of acute liver injury associated with the use of drugs: a multicentre population survey. Aliment Pharmacol Ther 2007; 25: 1401-9. <annotation><p><italic toggle="yes">(Among 126 cases of drug induced liver injury seen in Spain between 1993-2000, 3 were attributed to paroxetine and 3 to fluoxetine with a relative risk of injury to rate of use in the population of 3.0 and 1.8, respectively).</italic></p></annotation><pub-id pub-id-type="pmid">17539979</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R27">
+            <mixed-citation publication-type="journal">DeSanty KP, Amabile CM. Antidepressant-induced liver injury. Ann Pharmacother 2007; 41: 1201-11. <annotation><p><italic toggle="yes"> (Review of drug induced liver injury and reports of injury from MAO inhibitors, SSRIs, tricyclics and atypical agents).</italic></p></annotation><pub-id pub-id-type="pmid">17609231</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R28">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network(DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, 6 were attributed to duloxetine, 3 atomoxetine, 2 fluoxetine, 2 bupropion, and 1 sertraline as single agents).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R29">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, including two linked to SSRIs, 1 to fluoxetine and 1 to venlafaxine).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R30">
+            <mixed-citation publication-type="journal">Park SH, Ishino R. Liver injury associated with antidepressants. Curr Drug Saf 2013; 8: 207-23. <annotation><p><italic toggle="yes"> (Review of antidepressant induced liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">23914755</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R31">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver iInjury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but none were attributed to an SSRI despite the fact that 5 SSRIs ranked among the top 30 most prescribed drugs in Iceland).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R32">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes"> (Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, but none were attributed to fluoxetine or other SSRIs).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R33">
+            <mixed-citation publication-type="journal">Voican CS, Corruble E, Naveau S, Perlemuter G. Antidepressant-induced liver injury: a review for clinicians. Am J Psychiatry 2014; 171: 404-15. <annotation><p><italic toggle="yes"> (Review of hepatotoxicity of antidepressants, mentions 6 case reports of injury from fluoxetine with latency of 2 to 12 months, variable patterns of enzyme elevations, 1 resulting in chronic injury, none fatal).</italic></p></annotation><pub-id pub-id-type="pmid">24362450</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R34">
+            <mixed-citation publication-type="journal">Chew AP, Lim WS, Tan KT. Donepezil-induced hepatotoxicity in an elderly adult taking fluoxetine. J Am Geriatr Soc 2014; 62: 2009-11. <annotation><p><italic toggle="yes">(A 79 year old man with depression, Alzheimer disease and cirrhosis due to hepatitis was taking high doses of fluoxetine [80 mg daily] and lamivudine and developed fatigue and anorexia with abnormal liver tests 6 weeks after starting donepezil [bilirubin 1.5 mg/dL, ALT 177 U/L, Alk P 127 U/L], which resolved within 8 weeks of stopping both and did not recur on starting sertraline and memantine).</italic></p></annotation><pub-id pub-id-type="pmid">25333550</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R35">
+            <mixed-citation publication-type="journal">Emslie GJ, Prakash A, Zhang Q, Pangallo BA, Bangs ME, March JS. A double-blind efficacy and safety study of duloxetine fixed doses in children and adolescents with major depressive disorder. J Child Adolesc Psychopharmacol 2014; 24: 170-9. <annotation><p><italic toggle="yes"> (Among 355 children or adolescents with depression treated for 10 weeks either duloxetine, fluoxetine or placebo, none had ALT elevations above 3 times ULN and there were no liver related serious adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">24815533</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R36">
+            <mixed-citation publication-type="journal">Emslie GJ, Wells TG, Prakash A, Zhang Q, Pangallo BA, Bangs ME, March JS. Acute and longer-term safety results from a pooled analysis of duloxetine studies for the treatment of children and adolescents with major depressive disorder. J Child Adolesc Psychopharmacol 2015; 25: 293-305. <annotation><p><italic toggle="yes">(Among 800 children or adolescents with depression treated with duloxetine, fluoxetine or placebo for 10 weeks with a 26 week active extension, only 1 patient on duloxetine and 1 on fluoxetine had an ALT elevation above 3 times ULN, both of which resolved despite continuing therapy).</italic></p></annotation><pub-id pub-id-type="pmid">25978741</pub-id></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R37">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/25754159">PubMed Citation</ext-link><annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 20 cases [2%] were attributed to antidepressants including 5 due to SSRIs, 3 of which were due to escitalopram, 1 to sertraline and 1 to fluoxetine).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R38">
+            <mixed-citation publication-type="journal">Friedrich ME, Akimova E, Huf W, Konstantinidis A, Papageorgiou K, Winkler D, Toto S, et al. Drug-induced liver injury during antidepressant treatment: results of AMSP, a drug surveillance program. Int J Neuropsychopharmacol 2016; 19. pii: pyv126. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/26721950">PubMed Citation</ext-link><annotation><p><italic toggle="yes">(Among 184,234 psychiatric inpatients from 80 hospitals, 149 cases [0.08%] of drug induced liver injury were reported, with very low rates reported for fluoxetine [0.02%: 1 of 4,682 patients exposed]).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Fluoxetine.R39">
+            <mixed-citation publication-type="journal">Ferrajolo C, Scavone C, Donati M, Bortolami O, Stoppa G, Motola D, Vannacci A, et al.; DILI-IT Study Group. Antidepressant-induced acute liver injury: a case-control study in an Italian inpatient population. Drug Saf 2018; 41: 95-102. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/28770534">PubMed Citation</ext-link><annotation><p><italic toggle="yes">(Among 179 cases of hospitalizations for unexplained acute liver injury enrolled in an prospective study between 2010 and 2014, 17 had been exposed to antidepressants including 1 who received fluoxetine for 4 months [bilirubin 0.7 mg/dL, ALT 594 U/L, Alk P 202 U/L]).</italic></p></annotation></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Fluoxetine.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(fluoxetine)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Fluoxetine: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=fluoxetine">Trials on Fluoxetine: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

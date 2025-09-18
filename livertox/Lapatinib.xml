@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Lapatinib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Lapatinib</book-part-id>
+      <title-group>
+        <title>Lapatinib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>15</day>
+          <month>5</month>
+          <year>2019</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Lansoprazole" document-type="chapter">Lansoprazole</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Larotrectinib" document-type="chapter">Larotrectinib</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Lapatinib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Lapatinib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Lapatinib is a small molecule inhibitor of several tyrosine kinase receptors involved in tumor cell growth that is used in the therapy of advanced breast cancer and other solid tumors. Lapatinib therapy is associated with transient elevations in serum aminotransferase levels and rare instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Lapatinib.Background">
+          <title>Background</title>
+          <p>Lapatinib (la pa' ti nib) is a selective inhibitor of two tyrosine kinase receptors which are associated with tumor growth and angiogenesis. Lapatinib has special activity against the epidermal growth factor receptor (EGFR) and the human epidermal group factor receptor-2 (HER2). Tyrosine kinase receptors are often mutated and over expressed in cancer cells, causing unregulated cell growth and proliferation. Lapatinib is one of several tyrosine kinase inhibitors that have been introduced into cancer chemotherapy and are specially directed at molecular abnormalities that occur in cancer cells. Inhibition of these receptors can lead to dramatic reversal of progression the cancer, although the efficacy is sometimes limited by the development of tumor resistance caused by mutations in the kinase. Lapatinib received approval for use in the United States in 2007 for treatment of patients with advanced or metastatic breast cancer whose tumors over express HER2 to be used in combination with capecitabine. Indications have been broadened since then to include its combination with letrozole in women with advanced breast cancer in whom hormonal therapy is indicated. Lapatinib is available in tablets of 250 mg generically and under the brand name Tykerb. The typical dose of lapatinib in combination with capecitabine is 1,250 once daily in cycles of 21 days and when combined wtih letrozole is 1,500 mg given once daily continuously. Side effects include rash, diarrhea, nausea, vomiting, fatigue, hand-foot syndrome and pruritus. Rare, but potentially severe adverse events include interstitial lung disease, cardiovascular complications, hypersensitivity reactions and embryo fetal toxicity.</p>
+        </sec>
+        <sec id="Lapatinib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Elevations in serum aminotransferase levels are common during lapatinib therapy, occurring in up to half of patients. Values greater than 5 times the upper limit of normal (ULN) occur in 2% to 6% of patients but are usually transient and asymptomatic. Dose adjustments or temporary discontinuations are rarely required for liver test abnormalities.</p>
+          <p>Since its introduction into clinical use, lapatinib has been linked to several cases of clinically apparent acute liver injury. The clinical features of injury have not been well defined, but the onset is usually within 1 to 3 months of starting lapatinib and the pattern of serum enzyme elevations is typically hepatocellular or mixed (Case 1). Sufficent numbers of reports of liver injury have been made to the Food and Drug Administration such that lapatinib is listed as having hepatotoxicity that can be fatal. The frequency of serious liver injury is estimated to be 0.2%, but is likely higher. Immunoallergic and autoimmune features are uncommon, although genetic studies suggest that lapatinib hepatotoxicity is linked to specific HLA alleles. Most instances are self-limited, but several cases of acute liver failure have been reported with tyrosine kinase receptor inhibitors including imatinib, sunitinib, lapatinib, gefitinib and erlotinib. Recurrence of injury is common with reexposure but may not occur upon switching to another kinase receptor inhibitor.</p>
+          <p>Likelihood score: B (likely cause of clinically apparent acute liver injury).</p>
+        </sec>
+        <sec id="Lapatinib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The clinical and genetic findings associated with acute liver injury from the tyrosine kinase receptor inhibitors suggest that it is immune mediated. Lapatinib is metabolized in the liver largely through the CYP 3A4 and CYP 3A5 pathways, and liver injury may be due to production of a toxic or immunogenic intermediate. Genetic analyses have shown a close correlation of lapatinib liver injury with the HLA alleles DQA1*02:01 and DRB1*07:01. In large retrospective analyses of trials of lapatinib in early stage breast cancer, ALT elevations above 5 times ULN occurred in 7.7% of DRB1*07:01 carriers versus 0.5% of controls.</p>
+        </sec>
+        <sec id="Lapatinib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to dose reduction or temporary cessation. There does not appear to be cross reactivity of the hepatic injury among the tyrosine kinase receptor inhibitors and, in some situations, switching to another inhibitor may be appropriate. In using lapatinib, other potentially hepatotoxic agents should be avoided.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, <related-object source-id="livertox" document-id="ProteinKinaseInhibit">Protein Kinase Inhibitors</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Lapatinib.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Lapatinib.Case_1._Acute_hepatitis_due_to">
+          <title>Case 1. Acute hepatitis due to lapatinib.</title>
+          <p>[Modified from: Peroukides S, Makatsoris T, Koutras A, Tsamandas A, Onyenadum A, Labropoulou-Karatza C, Kalofonos H. Lapatinib-induced hepatitis: a case report. World J Gastroenterol 2011; 17: 2349-52. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/21633602">PubMed Citation</ext-link>]</p>
+          <p>A 60 year old woman with metastatic, HER2-positive breast cancer was treated with lumpectomy and axillary lymph node dissection followed by local irradiation, several cycles of adjuvant chemotherapy, long term exemestane and a one year course of trastuzumab. She was free of evidence of disease for three years, but then was found to have 3 suspicious nodules on computerized tomography (CT) of the chest. Exemestane was discontinued and she was started on chemotherapy with capecitabine (1000 mg/m2 twice daily) and lapatinib (1250 mg daily). Capecitabine was stopped after 10 days because of diarrhea, and she was maintained on lapatinib alone. Two weeks later and four weeks after starting lapatinib, she developed jaundice with few other symptoms. Physical examination showed hepatomegaly without rash or fever. She denied taking other medications, a previous history of liver disease or jaundice, risk factors for viral hepatitis or excessive alcohol use. Laboratory tests showed a total bilirubin of 4.1 mg/dL, ALT 583 U/L, AST 457 U/L, alkaline phosphatase 348 U/L, GGTP 213 U/L and INR 1.14 (Table). Lapatinib was stopped. Tests for hepatitis A, B and C were negative as were autoantibodies. Abdominal ultrasound and CT scan showed no evidence of biliary obstruction or hepatic masses. Jaundice deepened for the first 2 weeks after stopping lapatinib. A liver biopsy showed bridging hepatic necrosis and portal inflammation with eosinophils. Thereafter, she began to improve and all liver tests were normal in follow up 3 months later.</p>
+          <sec id="Lapatinib.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Lapatinib.T1" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Lapatinib (1250 mg daily)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Hepatocellular (R=10)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">3+ (jaundice, hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">4 weeks</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">3 months</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">Previously, capecitabine, exemestane.</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Lapatinib.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Lapatinib.T2" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <th id="hd_b_Lapatinib.T2_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_b_Lapatinib.T2_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_b_Lapatinib.T2_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_b_Lapatinib.T2_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_b_Lapatinib.T2_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_b_Lapatinib.T2_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_1" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_2" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_3" rowspan="1" colspan="1">24</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_4" rowspan="1" colspan="1">120</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_5" rowspan="1" colspan="1">0.8</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_1" rowspan="1" colspan="1">10 days</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_2" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_3" rowspan="1" colspan="1">30</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_4" rowspan="1" colspan="1">110</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_5" rowspan="1" colspan="1">0.7</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_6" rowspan="1" colspan="1">Capecitabine stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_1" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_3" rowspan="1" colspan="1">583</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_4" rowspan="1" colspan="1">348</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_5" rowspan="1" colspan="1">4.1</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_6" rowspan="1" colspan="1">Lapatinib stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_1" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_2" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_3" rowspan="1" colspan="1">481</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_4" rowspan="1" colspan="1">310</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_5" rowspan="1" colspan="1">11.8</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_6" rowspan="1" colspan="1">Liver biopsy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_1" rowspan="1" colspan="1">2 months</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_2" rowspan="1" colspan="1">1 month</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_3" rowspan="1" colspan="1">260</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_4" rowspan="1" colspan="1">318</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_5" rowspan="1" colspan="1">2.7</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_1" rowspan="1" colspan="1">3 months</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_2" rowspan="1" colspan="1">2 months</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_3" rowspan="1" colspan="1">229</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_4" rowspan="1" colspan="1">298</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_5" rowspan="1" colspan="1">2.3</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_1" rowspan="1" colspan="1">4 months</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_2" rowspan="1" colspan="1">3 months</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_3" rowspan="1" colspan="1">44</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_4" rowspan="1" colspan="1">246</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_5" rowspan="1" colspan="1">0.9</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_1 hd_b_Lapatinib.T2_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;45</bold>
+</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;270</bold>
+</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_b_Lapatinib.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Lapatinib.Comment">
+            <title>Comment</title>
+            <p>A moderately severe acute hepatitis occurred a month after starting lapatinib in a woman with metastatic breast cancer. She was not taking other medications and other causes of liver injury were adequately excluded. Despite stopping lapatinib at the onset of jaundice, she continued to worsen for several weeks, which prompted a liver biopsy that was interpreted as consistent with drug induced liver injury. Recovery was somewhat slow, but complete by 3 months after onset. At the time of this report, there had been no published cases of lapatinib hepatotoxicity. HLA testing was not reported, but subsequent studies have identified the HLA allele DQA1*02:01 as a major risk factor for lapatinib associated hepatotoxicity, the same allele that was linked to ximelagatran related liver injury.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Lapatinib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Lapatinib.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Lapatinib &#x02013; Tykerb&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Antineoplastic Agents</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Lapatinib">COMPLETE LABELING</ext-link>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Lapatinib.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Lapatinib.T3" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Lapatinib.T3_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Lapatinib.T3_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Lapatinib.T3_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Lapatinib.T3_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Lapatinib.T3_1_1_1_1" rowspan="1" colspan="1">Lapatinib</td>
+                <td headers="hd_h_Lapatinib.T3_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135128225">231277-92-2</ext-link>
+</td>
+                <td headers="hd_h_Lapatinib.T3_1_1_1_3" rowspan="1" colspan="1">C29-H26-Cl-F-N4-O4-S</td>
+                <td headers="hd_h_Lapatinib.T3_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Lapatinib_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Lapatinib Chemical Structure</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Lapatinib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 15 May 2019</p>
+        <ref-list id="Lapatinib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Lapatinib.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of tyrosine kinase receptor inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R2">
+            <mixed-citation publication-type="other">DeLeve LD. Kinase inhibitors. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 556-7.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents; discusses gefitiinib, erlotinib and crizotinib but not imatinib or lapatinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R3">
+            <mixed-citation publication-type="other">Wellstein A, Giaccone G, Atkins MB, Sausville EA. Pathway-targeted therapies: monoclonal antibodies, protein kinase inhibitors, and various small molecules. In, Brunton LL, Hilal-Dandan R, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 13th ed. New York: McGraw-Hill, 2018, pp. 1203-36.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R4">
+            <mixed-citation publication-type="journal">Medina PJ, Goodin S. Lapatinib: a dual inhibitor of human epidermal growth factor receptor tyrosine kinases. Clin Ther 2008; 30: 1426-47. <annotation><p><italic toggle="yes">(Review of chemistry, pharmacology, mechanism of action, clinically efficacy and toxicity of lapatinib, a dual inhibitor of EGFR and HER2, approved for use in patients with advanced breast cancer typically used in combination with capecitabine; common side effects are diarrhea, hand-foot syndrome, nausea, rash and fatigue; no mention of ALT elevations or clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">18803986</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R5">
+            <mixed-citation publication-type="journal">Ryan Q, Ibrahim A, Cohen MH, Johnson J, Ko CW, Sridhara R, Justice R, et al. FDA drug approval summary: lapatinib in combination with capecitabine for previously treated metastatic breast cancer that overexpresses HER-2. Oncologist 2008; 13: 1114-9. <annotation><p><italic toggle="yes">(Summary of FDA analyses of trials of lapatinib in breast cancer providing the basis for its approval; ALT elevations occurred in 37% of patients given lapatinib and capecitabine and in a similar proportion given capecitabine alone; clinically apparent liver injury was not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">18849320</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R6">
+            <mixed-citation publication-type="journal">Geyer CE, Forster J, Lindquist D, Chan S, Romieu CG, Pienkowski T, Jagiello-Gruszfeld A, et al. Lapatinib plus capecitabine for HER2-positive advanced breast cancer. N Engl J Med 2006; 355: 2733-43. <annotation><p><italic toggle="yes">(In a phase III trial in 324 women with breast cancer, the combination of lapatinib and capecitabine in comparison to capecitabine alone increased progression free survival from 4.1-8.4 months; lapatinib therapy was associated with higher rates of diarrhea, rash and dyspepsia; ALT elevations and clinically apparent liver injury were not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">17192538</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R7">
+            <mixed-citation publication-type="journal">Bekaii-Saab T, Markowitz J, Prescott N, Sadee W, Heerema N, Wei L, Dai Z, et al. A multi-institutional phase II study of the efficacy and tolerability of lapatinib in patients with advanced hepatocellular carcinomas. Clin Cancer Res 2009; 15: 5895-901. <annotation><p><italic toggle="yes">(Among 26 patients with hepatocellular carcinoma treated with lapatinib, ALT elevations occurred in 5 [19%], but none were above 5 times ULN and none required dose discontinuation or were associated with clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">19737952</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R8">
+            <mixed-citation publication-type="journal">Ramanathan RK, Belani CP, Singh DA, Tanaka M, Lenz HJ, Yen Y, Kindler HL, et al. A phase II study of lapatinib in patients with advanced biliary tree and hepatocellular cancer. Cancer Chemother Pharmacol 2009; 64: 777-83. <annotation><p><italic toggle="yes">(Among 57 patients with unresectable hepatobiliary carcinomas treated with one to twelve 28 day cycles of lapatinib, almost half required dose modification and 9% developed ALT elevations &#x0003e;5 times ULN, but none developed clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">19169683</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R9">
+            <mixed-citation publication-type="journal">Johnston S, Pippen J Jr, Pivot X, Lichinitser M, Sadeghi S, Dieras V, Gomez HL, et al. Lapatinib combined with letrozole versus letrozole and placebo as first-line therapy for postmenopausal hormone receptor-positive metastatic breast cancer. J Clin Oncol 2009; 27: 5538-46. <annotation><p><italic toggle="yes">(Among 219 women with metastatic, HER2 positive breast cancer treated with letrozole with or without lapatinib, progression free survival was improved in those receiving the combination while adverse events were more frequent including hepatobiliary events [8% vs 1%], one of which was fatal in combination arm).</italic></p></annotation><pub-id pub-id-type="pmid">19786658</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R10">
+            <mixed-citation publication-type="journal">Tevaarwerk AJ, Kolesar JM. Lapatinib: a small-molecule inhibitor of epidermal growth factor receptor and human epidermal growth factor receptor-2 tyrosine kinases used in the treatment of breast cancer. Clin Ther 2009; 31 Pt 2: 2332-48. <annotation><p><italic toggle="yes">(Review of the mechanism of action, pharmacology, efficacy and safety of lapatinib; no discussion of hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">20110044</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R11">
+            <mixed-citation publication-type="journal">Macfarlane RJ, Gelmon KA. Lapatinib for breast cancer: a review of the current literature. Expert Opin Drug Saf 2011; 10: 109-21. <annotation><p><italic toggle="yes">(Systematic review of the literature on the efficacy and safety of lapatinib in therapy of breast cancer; hepatotoxicity is not discussed).</italic></p></annotation><pub-id pub-id-type="pmid">21091041</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R12">
+            <mixed-citation publication-type="journal">Peroukides S, Makatsoris T, Koutras A, Tsamandas A, Onyenadum A, Labropoulou-Karatza C, Kalofonos H. Lapatinib-induced hepatitis: a case report. World J Gastroenterol 2011; 17: 2349-52. <annotation><p><italic toggle="yes"> (60 year old woman with breast cancer developed jaundice 2 weeks after starting lapatinib [bilirubin 4.1 mg/dL, ALT 583 U/L, Alk P 348 U/L], biopsy showing bridging necrosis and eosinophils, resolving within 3 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">21633602</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R13">
+            <mixed-citation publication-type="journal">Spraggs CF, Budde LR, Briley LP, Bing N, Cox CJ, King KS, Whittaker JC, Mooser VE, Preston AJ, Stein SH, Cardon LR. HLA-DQA1*02:01 is a major risk factor for lapatinib-induced hepatotoxicity in women with advanced breast cancer. J Clin Oncol 2011; 29: 667-73. <annotation><p><italic toggle="yes">(Genetic analyses in 37 women with breast cancer treated with lapatinib who developed serum ALT elevations during treatment and 286 controls, followed by confirmatory testing of 24 cases and 155 controls identified the HLA allele DQA1*02:01 as present in 71% of cases vs 21% of controls).</italic></p></annotation><pub-id pub-id-type="pmid">21245432</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R14">
+            <mixed-citation publication-type="journal">Spraggs CF, Parham LR, Hunt CM, Dollery CT. Lapatinib-induced liver injury characterized by class II HLA and Gilbert's syndrome genotypes. Clin Pharmacol Ther 2012; 91: 647-52. <annotation><p><italic toggle="yes"> (Genetic analyses on 20 cases of suspected lapatinib hepatotoxicity with jaundice found that 8 had Gilbert syndrome and 14 had HLA-DQA1*02.01 and DRB1*07.01; the absence of the HLA alleles was highly predictive for absence of hepatotoxicity, but its positive predictive value was low).</italic></p></annotation><pub-id pub-id-type="pmid">22357454</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R15">
+            <mixed-citation publication-type="journal">Baselga J, Bradbury I, Eidtmann H, Di Cosimo S, de Azambuja E, Aura C, G&#x000f3;mez H, Det al; NeoALTTO Study Team. Lapatinib with trastuzumab for HER2-positive early breast cancer (NeoALTTO): a randomised, open-label, multicentre, phase 3 trial. Lancet 2012; 379 (9816): 633-40. <annotation><p><italic toggle="yes">(Among 455 women with HER2-positive breast cancer treated with lapatinib or trastuzumab or both, clinical response rates were similar with the two agents individually, but was greater with the combination; while hepatic adverse events were most frequent with lapatinib, and less with trastuzumab [7.4%], and the combination [9.9%]).</italic></p></annotation><pub-id pub-id-type="pmid">22257673</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R16">
+            <mixed-citation publication-type="journal">Castellino S, O'Mara M, Koch K, Borts DJ, Bowers GD, MacLauchlin C. Human metabolism of lapatinib, a dual kinase inhibitor: implications for hepatotoxicity. Drug Metab Dispos 2012; 40: 139-50. <annotation><p><italic toggle="yes"> (Pharmacokinetic studies in 6 healthy adults showed high intersubject variability, and several of the many intermediates detected were potential reactive metabolites).</italic></p></annotation><pub-id pub-id-type="pmid">21965624</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R17">
+            <mixed-citation publication-type="journal">Kaniwa N, Saito Y. Pharmacogenomics of severe cutaneous adverse reactions and drug-induced liver injury. J Hum Genet 2013; 58: 317-26. <annotation><p><italic toggle="yes">(Review of genetic studies of severe cutaneous and hepatic adverse events; HLA DQA1*02.01 has been associated with lapatinib hepatotoxicity, mainly in Europeans [Spraggs 2011]).</italic></p></annotation><pub-id pub-id-type="pmid">23635947</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R18">
+            <mixed-citation publication-type="journal">Shah RR, Morganroth J, Shah DR. Hepatotoxicity of Tyrosine kinase inhibitors: clinical and regulatory perspectives. Drug Saf 2013; 36: 491-503. <annotation><p><italic toggle="yes">(Thorough review of the hepatotoxicity of 16 tyrosine kinase inhibitors including lapatinib which is associated with ALT elevations in 37-53% of subjects [2-6% above 5 times the ULN] and cases of clinically apparent and fatal liver injury). </italic></p></annotation><pub-id pub-id-type="pmid">23620168</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R19">
+            <mixed-citation publication-type="journal">Guan Z, Xu B, DeSilvio ML, Shen Z, Arpornwirat W, Tong Z, Lorvidhaya V, Jiang Z, et al. Randomized trial of lapatinib versus placebo added to paclitaxel in the treatment of human epidermal growth factor receptor 2-overexpressing metastatic breast cancer. J Clin Oncol 2013; 31: 1947-53. <annotation><p><italic toggle="yes"> (Among 444 women with HER-positive metastatic breast cancer treated with paclitaxel with or without lapatinib, overall survival was improved by the combination [27.8 vs 20.5 months] while adverse events more frequent with lapatinib were diarrhea [77% vs 29%], neutropenia [77% vs 47%] and rash [59% vs 24%]; no mention of ALT elevations or hepatotoxicity).</italic></p></annotation><pub-id pub-id-type="pmid">23509322</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R20">
+            <mixed-citation publication-type="journal">Spraggs CF, Xu CF, Hunt CM. Genetic characterization to improve interpretation and clinical management of hepatotoxicity caused by tyrosine kinase inhibitors. Pharmacogenomics 2013; 14: 541-54. <annotation><p><italic toggle="yes">(Review of the use of genetic testing in use of tyrosine kinase inhibitors lapatinib and pazopanib).</italic></p></annotation><pub-id pub-id-type="pmid">23556451</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R21">
+            <mixed-citation publication-type="journal">Karczmarek-Borowska B, Sa&#x00142;ek-Za&#x00144; A. Hepatotoxicity of molecular targeted therapy. Contemp Oncol (Pozn) 2015; 19: 87-92. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of modern molecular targeted therapies including monoclonal antibodies, protein kinase inhibitors and proteosome inhibitors; lapatinib has an increased risk of liver injury). </italic></p></annotation><pub-id pub-id-type="pmid">26034384</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R22">
+            <mixed-citation publication-type="journal">Schaid DJ, Spraggs CF, McDonnell SK, Parham LR, Cox CJ, Ejlertsen B, Finkelstein DM, et al. Prospective validation of HLA-DRB1*07:01 allele carriage as a predictive risk factor for lapatinib-induced liver injury. J Clin Oncol 2014; 32: 2296-303. <annotation><p><italic toggle="yes">(Among 1194 women with HER2 positive breast cancer treated with lapatinib, ALT elevations above 5 times ULN occurred in 7.7% of carriers of DRB1*07:01 versus 0.5% of non-carriers).</italic></p></annotation><pub-id pub-id-type="pmid">24687830</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R23">
+            <mixed-citation publication-type="journal">Hirasawa M, Hagihara K, Okudaira N, Izumi T. The possible mechanism of idiosyncratic lapatinib-induced liver injury in patients varrying human leukocyte antigen-DRB1*07:01. PLoS One 2015; 10: e0130928. <annotation><p><italic toggle="yes">(In silico modeling indicated that lapatinib could modifying the antigen binding groove of HLA-DRB1*07:01 making it more likely to bind antigenic ligands, thus suggesting a mechanism by which lapatinib causes liver injury in the presence of this HLA allele). </italic></p></annotation><pub-id pub-id-type="pmid">26098642</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R24">
+            <mixed-citation publication-type="journal">Zhang N, Liu Y, Jeong H. Drug-drug interaction potentials of tyrosine kinase inhibitors via inhibition of UDP-glucuronosyltransferases. Sci Rep 2015; 5: 17778. <annotation><p><italic toggle="yes"> (Lapatinib was found to inhibit UGT1A1 activity in vitro suggesting that it might cause significant drug-drug interactions with agents metabolized by UGT1A1).</italic></p></annotation><pub-id pub-id-type="pmid">26642944</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R25">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 49 were attributed to antineoplastic agents [5.5%], 9 of which were due to kinase inhibitors [6 icteric, none fatal] including 5 from imatinib, 2 lapatinib, 1 regorafenib and 1 cediranib).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R26">
+            <mixed-citation publication-type="journal">Parham LR, Briley LP, Li L, Shen J, Newcombe PJ, King KS, Slater AJ, et al. Comprehensive genome-wide evaluation of lapatinib-induced liver injury yields a single genetic signal centered on known risk allele HLA-DRB1*07:01. Pharmacogenomics J 2016; 16: 180-5. <annotation><p><italic toggle="yes"> (Genome wide evaluation of 34 cases of suspected lapatinib hepatotoxicity and 810 controls failed to find any significant association outside of the previously identified HLA-DRB1*07:01 associated polymorphisms and no additional associated individual variants were identified by whole genome sequencing of 26 cases and 19 controls).</italic></p></annotation><pub-id pub-id-type="pmid">25987243</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R27">
+            <mixed-citation publication-type="journal">Piccart-Gebhart M, Holmes E, Baselga J, de Azambuja E, Dueck AC, Viale G, Zujewski JA, et al. Adjuvant lapatinib and trastuzumab for early human epidermal growth factor receptor 2-positive breast cancer: results from the randomized phase III adjuvant lapatinib and/or trastuzumab treatment optimization trial. J Clin Oncol 2016; 34: 1034-42. <annotation><p><italic toggle="yes">(Among 8381 women with HER2 positive early breast cancer given adjuvant therapy for one year, addition of lapatinib did not improve disease free survival compared to trastuzumab alone and total, serious and dose-modifying adverse events were more frequent with its use including "hepatobiliary" adverse events 3-4% vs 1%, 3 of which were fatal [details not provided]).</italic></p></annotation><pub-id pub-id-type="pmid">26598744</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R28">
+            <mixed-citation publication-type="journal">G&#x000f3;mez HL, Neciosup S, Tosello C, Mano M, Bines J, Ismael G, Santi PX, et al. A phase II randomized study of lapatinib combined with capecitabine, vinorelbine, or gemcitabine in patients with HER2-positive metastatic breast cancer with progression after a taxane (Latin American Cooperative Oncology Group 0801 Study). Clin Breast Cancer 2016; 16: 38-44. <annotation><p><italic toggle="yes">(Among 142 women with metastatic HER2 positive breast cancer treated with lapatinib combined with either capecitabine, vinorelbine or gemcitabine, overall response rates and progression-free survival were similar in the three groups and ALT elevations occured in 12-40% of patients, which were above 5 times ULN in 4-13%, the highest rates being in those receiving gemcitabine).</italic></p></annotation><pub-id pub-id-type="pmid">26642810</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R29">
+            <mixed-citation publication-type="journal">Faulkner L, Meng X, Naisbitt DJ, Spraggs CF, Park BK. No evidence for drug-specific activation of circulating T cells from patients with HLA-DRB1*07:01-restricted lapatinib-induced liver injury. Chem Res Toxicol 2016; 29: 2111-3. <annotation><p><italic toggle="yes">(T cells from lapatinib treated patients with and without a history of liver injury during treatment showed no consistent response to in vitro exposure to lapatinib and T cell cloning identified no drug-specific clones).</italic></p></annotation><pub-id pub-id-type="pmid">27989141</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R30">
+            <mixed-citation publication-type="journal">Romero Carre&#x000f1;o E, Marcos Rodr&#x000ed;guez JA, Santana Mart&#x000ed;nez S, de la Cruz Merino L. [Hepatic toxicity in HER-2(+) breast cancer patient under treatment with capecitabine and lapatinib]. Farm Hosp 2016; 40: 134-6. <annotation><p><italic toggle="yes">(31 year old woman with metastatic HER2 positive breast cancer developed liver tests abnormalities while on lapatinib and capecitabine and valproate and levetiracetam for brain metastases [ALT 134 U/L, Alk P 755 U/L, bilirubin 2.3 mg/dL], which improved after stopping valproate and lapatinib, although she was later able to tolerate lapatinib at a lower dose).</italic></p></annotation><pub-id pub-id-type="pmid">26980172</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R31">
+            <mixed-citation publication-type="journal">Bunchorntavakul C, Reddy KR. Drug Hepatotoxicity: Newer Agents. Clin Liver Dis 2017; 21: 115-34. <annotation><p><italic toggle="yes">(Review of the hepatotoxicity of recently approved medications including the tyrosine kinase inhibitors and lapatinib).</italic></p></annotation><pub-id pub-id-type="pmid">27842767</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R32">
+            <mixed-citation publication-type="journal">Petros Z, Makonnen E, Aklillu E. Genome-wide association studies for idiosyncratic drug-induced hepatotoxicity: looking back-looking forward to next-generation innovation. OMICS 2017; 21: 123-31. <annotation><p><italic toggle="yes">(Review of genome-wide association studies for idiosyncratic liver injury mentions that lapatinib has been associated with DRB1*07:01 in several large studies).</italic></p></annotation><pub-id pub-id-type="pmid">28253087</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R33">
+            <mixed-citation publication-type="journal">Miners JO, Chau N, Rowland A, Burns K, McKinnon RA, Mackenzie PI, Tucker GT, et al. Inhibition of human UDP-glucuronosyltransferase enzymes by lapatinib, pazopanib, regorafenib and sorafenib: implications for hyperbilirubinemia. Biochem Pharmacol 2017; 129: 85-95. <annotation><p><italic toggle="yes">(Lapatinib, pazopanib, regorafenib and sorafenb were assessed in vitro for inhibition of UDP-glucuronosyltransferase enzymes and all were found to inhibit UGT1A1-catalyzed bilirubin glucuronidation, perhaps explaining hyperbilirubinemia during therapy with these tyrosine kinase inhibitors).</italic></p></annotation><pub-id pub-id-type="pmid">28065859</pub-id></mixed-citation>
+          </ref>
+          <ref id="Lapatinib.R34">
+            <mixed-citation publication-type="journal">Spraggs CF, Parham LR, Briley LP, Warren L, Williams LS, Fraser DJ, Jiang Z, et al. Characterisation of the HLA-DRB1*07:01 biomarker for lapatinib-induced liver toxicity during treatment of early-stage breast cancer patients with lapatinib in combination with trastuzumab and/or taxanes. Pharmacogenomics J 2018; 18: 480-6. <annotation><p><italic toggle="yes">(Among 8381 patients with metastatic breast cancer treated with lapatinib or trastuzumab or their combination, ALT elevations above 5 times ULN were more frequent in lapatinib treated subjects and rates were higher in HLA-DRB1*07:01 carriers [homozygous 8.6% and heterozygous 12.9%] vs non-carriers [1.5%], and no such association was found in subjects with elevations treated with trastuzumab alone).</italic></p></annotation><pub-id pub-id-type="pmid">28786423</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Lapatinib.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Lapatinib/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Lapatinib: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Lapatinib">Trials on Lapatinib: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

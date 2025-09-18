@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Sunitinib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Sunitinib</book-part-id>
+      <title-group>
+        <title>Sunitinib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>27</day>
+          <month>6</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Sulindac" document-type="chapter">Sulindac</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Suvorexant" document-type="chapter">Suvorexant</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Sunitinib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Sunitinib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Sunitinib is multi-specific tyrosine kinase receptor inhibitor that is used in the therapy of gastrointestinal stromal tumors and advanced renal cell carcinoma. Sunitinib therapy is associated with transient elevations in serum aminotransferase and bilirubin levels and rare instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Sunitinib.Background">
+          <title>Background</title>
+          <p>Sunitinib (soo ni' ti nib) is an inhibitor of several tyrosine kinase receptors which are associated with tumor growth and angiogenesis. The tyrosine kinase receptors of cancer cells are often mutated and can cause unregulated cell growth and proliferation. Sunitinib is one of several tyrosine kinase receptor inhibitors that have been introduced into cancer chemotherapy and are specially directed at molecular abnormalities that occur in cancer cells. Inhibition of the receptor can lead to dramatic reversal of progression the cancer, although sometimes limited by the development of tumor resistance caused by mutations in the kinase. Sunitinib has special activity against the abnormal tyrosine kinase (cKit) that is found in gastrointestinal stromal tumors (GIST). Sunitinib also has activity against the receptors for platelet derived growth factor (PDGF) and vascular endothelial growth factor (VEGF). Sunitinib received approval for use in the United States in 2006. Current indications are for unresectable or metastatic GIST with positive cKit (CD117), advanced renal cell carcinoma and advanced pancreatic neuroendocrine tumors. Sunitinib is also used in patients who are intolerant or become resistant to imatinib, the initial tyrosine kinase receptor inhibitor that has special activity against chronic myelogenous leukemia (CML) bearing the Philadelphia chromosome. Sunitinib is available in capsules of 12.5, 25 and 50 mg under the brand name Sutent. The typical dose of sunitinib is in cycles of 4 weeks, followed by a rest period of 2 weeks, using a starting dose of 37.5 or 50 mg daily and increasing or decreasing in 12.5 mg increments, with each cycle based upon tolerance and response. Side effects include fatigue, diarrhea, anorexia, skin discoloration, rash, hand-foot syndrome, edema, muscle cramps, arthralgias, headache, abdominal discomfort, anemia, cough, and pruritus. Uncommon side effects include heart failure, pancreatitis and renal failure.</p>
+        </sec>
+        <sec id="Sunitinib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In large clinical trials of sunitinib, elevations in serum aminotransferase levels were common, occurring in 39% of sunitinib vs 23% of placebo recipients. Values greater than 5 times the upper limit of normal (ULN) occurred in only 2% to 3% of sunitinib recipients (and 1% of controls). These abnormalities were usually asymptomatic. Dose adjustment or temporary discontinuation and restarting at a lower dose is recommended if enzyme levels are markedly elevated (ALT or AST persistently greater than 5 times ULN or bilirubin more than 3 times ULN). Sunitinib therapy is also associated with a high rate of serum bilirubin elevations, generally in the mild-to-moderate range and not in association with ALT or AST elevations. These changes are probably due to interaction with hepatic UDP-glucuronyltransferase, the enzyme that is also responsible for bilirubin excretion.</p>
+          <p>More importantly, there have been several case reports of clinically apparent liver injury attributed to sunitinib therapy. The time to onset was after several cycles of therapy. The pattern of serum enzyme elevations was typically hepatocellular and the clinical presentation resembled acute hepatic necrosis. In some instances, the injury may have been due to hypotension, shock or ischemia rather than direct hepatotoxicity (Case 1). Regardless, the injury can be severe and several instances of acute liver failure and death have been reported. Immunoallergic features (rash, fever and eosinophilia) are not common.</p>
+          <p>Finally, sunitinib has also been reported to cause hyperammonemia and encephalopathy in rare patients with cancer treated with conventional or even low oral doses (Case 2). The time to onset was within 1 to 3 weeks, presenting with confusion and irritability with minimal elevations in serum enzymes and bilirubin and marked increases (4-10 times the ULN) in serum ammonia. Recovery is rapid once sunitinib is stopped and the syndrome can recur with re-exposure. Interesting, there appears to be little cross-reactivity to this complication with other tyrosine kinase inhibitors.</p>
+          <p>Likelihood score: B (highly likely cause of clinically apparent liver injury, including hyperammonemic syndrome).</p>
+        </sec>
+        <sec id="Sunitinib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The clinical features of cases of severe acute liver injury due to sunitinib have suggested ischemic damage that may be related to hypotension and anoxia, rather than direct hepatic injury. Sunitinib is metabolized in the liver largely through the CYP 3A4 pathway and liver injury may be related to production of a toxic intermediate. The cause of hyperammonemia due to sunitinib is unknown, but it appears to be idiosyncratic and may relate to inhibition of urea cycle enzymes by sunitinib.</p>
+        </sec>
+        <sec id="Sunitinib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Serum aminotransferase elevations above 5 times the upper limit of normal (if confirmed) should lead to dose reduction or temporary cessation. In some situations, therapy can be restarted particularly with concurrent prednisone (10-20 mg daily). In patients with clinically apparent liver injury and jaundice, restarting therapy should be done with caution. There does not appear to be cross reactivity in risk for hepatic injury between sunitinib and other tyrosine kinase inhibitors and, in some situations, switching to another tyrosine kinase receptor inhibitor may be appropriate. Cases of acute liver failure have occurred in patients receiving sunitinib. In using this medication, other potentially hepatotoxic agents should be avoided.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntineoplasticAgents">Antineoplastic Agents</related-object>, <related-object source-id="livertox" document-id="ProteinKinaseInhibit">Protein Kinase Inhibitors</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Sunitinib.CASE_REPORTS">
+        <title>CASE REPORTS</title>
+        <sec id="Sunitinib.Case_1._Severe_acute_liver_inj">
+          <title>Case 1. Severe acute liver injury during sunitinib therapy.</title>
+          <p>[Modified from: Mueller EW, Rockey ML, Rashkin MC. Sunitinib-related fulminant hepatic failure: case report and review of the literature. Pharmacotherapy 2008; 28: 1066-70. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/18657022">PubMed Citation</ext-link>]</p>
+          <p>A 75 year old woman with metastatic renal cell carcinoma developed severe diarrhea and dehydration after a fifth 4-week cycle of sunitinib and was found to be jaundiced. Her renal carcinoma had been diagnosed six months earlier, at which time she had undergone right nephrectomy. Metastases were identified in the inferior vena cava and lungs and she was started on sunitinib in 4 week courses, followed by a rest period of 2 weeks. She had multiple side effects with chemotherapy including fatigue, arthralgias, dry mouth, thrombocytopenia, neutropenia, abdominal pain and diarrhea. Her liver tests were known to be normal before and during the first five cycles of sunitinib therapy (Table). Four days after the fifth cycle, she was brought to the hospital by her family because of dehydration and mental confusion following a 3 day history of diarrhea. She had no known liver disease, alcohol use or risk factors for viral hepatitis. Her past medical history included breast cancer treated with lumpectomy 7 years earlier as well as hypothyroidism, hypertension, chronic heart failure, gastroesophageal reflux disease, bladder surgery and carpal tunnel syndrome. Her other medications included letrozole, alendronate, irbesartan, docusate sodium, prochlorperazine, clonidine, lansoprazole, filgrastim and levothyroxine. On admission, she was tachypneic, but other vital signs were normal. Liver tests showed elevations in serum bilirubin (5.9 mg/dL) with marked elevations in serum aminotransferase levels (ALT 3332 U/L, AST 3872 U/L) and creatine kinase (21,729 U/L), with prolongation of the prothrombin time (INR 4.8) and elevation in serum ammonia (897 &#x003bc;g/dL). Serum blood urea nitrogen and creatinine were also elevated (84 and 2.7 mg/dL). Tests for hepatitis A, B and C were negative. Abdominal ultrasound showed no evidence of biliary obstruction. She was treated for suspected acute liver failure. With conservative medical management she began to improve, her mental status returning to normal within a few days and serum aminotransferase levels falling rapidly (Table). She was discharged after 7 days in the hospital and had normal liver tests when tested 1 month later.</p>
+          <sec id="Sunitinib.Key_Points1">
+            <title>Key Points</title>
+            <table-wrap id="Sunitinib.T1" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Sunitinib (50 mg daily in 5 4-week cycles)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Hepatocellular (R=unable to calculate, no alkaline phosphatase results)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">4+ (jaundice, hospitalization and features of hepatic failure)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">~9 months</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">1 month</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">Stable doses of letrozole, alendronate, irbesartan, docusate sodium, prochlorperazine, clonidine, lansoprazole, filgrastim and levothyroxine</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Sunitinib.Laboratory_Values1">
+            <title>Laboratory Values</title>
+            <table-wrap id="Sunitinib.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Sunitinib.T2_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Sunitinib.T2_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Sunitinib.T2_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Sunitinib.T2_1_1_1_4" rowspan="1" colspan="1">CPK (U/L)</th>
+                    <th id="hd_h_Sunitinib.T2_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Sunitinib.T2_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_1" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_2" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_3" rowspan="1" colspan="1">31-36</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_5" rowspan="1" colspan="1">0.4-0.7</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_6" rowspan="1" colspan="1">Values before and during five cycles</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_3 hd_h_Sunitinib.T2_1_1_1_4 hd_h_Sunitinib.T2_1_1_1_5 hd_h_Sunitinib.T2_1_1_1_6" colspan="4" rowspan="1">Admitted for severe diarrhea and dehydration</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_1" rowspan="1" colspan="1">9 months</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_2" rowspan="1" colspan="1">4 days</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_3" rowspan="1" colspan="1">3332</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_4" rowspan="1" colspan="1">21,729</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_5" rowspan="1" colspan="1">5.9</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_6" rowspan="1" colspan="1">INR 4.8, Ammonia 897 &#x003bc;g/dL</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_2" rowspan="1" colspan="1">5 days</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_3" rowspan="1" colspan="1">2534</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_4" rowspan="1" colspan="1">9981</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_5" rowspan="1" colspan="1">6.4</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_2" rowspan="1" colspan="1">6 days</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_3" rowspan="1" colspan="1">2234</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_4" rowspan="1" colspan="1">5824</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_5" rowspan="1" colspan="1">6.4</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_2" rowspan="1" colspan="1">7 days</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_3" rowspan="1" colspan="1">1632</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_5" rowspan="1" colspan="1">7.0</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_6" rowspan="1" colspan="1">INR 1.7, Ammonia 85 &#x003bc;g/dL</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_2" rowspan="1" colspan="1">8 days</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_3" rowspan="1" colspan="1">1060</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_4" rowspan="1" colspan="1">656</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_5" rowspan="1" colspan="1">5.9</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_2" rowspan="1" colspan="1">9 days</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_3" rowspan="1" colspan="1">618</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_4" rowspan="1" colspan="1">329</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_5" rowspan="1" colspan="1">4.6</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_2" rowspan="1" colspan="1">10 days</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_3" rowspan="1" colspan="1">465</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_4" rowspan="1" colspan="1">198</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_5" rowspan="1" colspan="1">4.6</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_6" rowspan="1" colspan="1">INR 1.4</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_1" rowspan="1" colspan="1">10 months</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_2" rowspan="1" colspan="1">1 month</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_3" rowspan="1" colspan="1">21</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_5" rowspan="1" colspan="1">0.6</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_1" rowspan="1" colspan="1">15 months</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_2" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_3" rowspan="1" colspan="1">33</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_5" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_1 hd_h_Sunitinib.T2_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;40</bold>
+</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;250</bold>
+</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Sunitinib.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Sunitinib.Comment1">
+            <title>Comment</title>
+            <p>While the patient was considered to have acute liver failure due to sunitinib induced liver injury, a more likely cause was acute ischemia or shock causing centrolobular acute hepatic necrosis and attendant liver failure, coagulopathy and confusion. The clinical phenotype of the presentation and course was that of acute hepatic necrosis, with rapid rise and rapid fall in serum aminotransferase levels, accompanied with increase in creatine kinase and early appearance of coagulopathy, encephalopathy and renal dysfunction. Acute liver failure due to medications typically has a more insidious onset with hepatic failure arising in the setting of deep jaundice and recovery being slow and protracted. While sunitinib therapy is associated with a high rate of minor serum aminotransferase elevations (in up to 61%), these abnormalities are rarely severe (~2%), and are usually asymptomatic and rapidly resolve either spontaneously or with dose adjustment.</p>
+          </sec>
+        </sec>
+        <sec id="Sunitinib.Case_2._Hyperammonemia_and_com">
+          <title>Case 2. Hyperammonemia and coma during sunitinib therapy.</title>
+          <p>[Modified from case 2 in: Lee NR, Yhim HY, Yim CY, Kwak JY, Song EK. Sunitinib-induced hyperammonemic encephalopathy in gastrointestinal stromal tumors. Ann Pharmacother 2011; 45: e56. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/21954449">PubMed Citation</ext-link>]</p>
+          <p>A 68 year old woman with metastatic gastrointestinal stomal tumors (GIST) of the cecum developed confusion and irritability 10 days after starting sunitinib (50 mg daily) and required emergency hospitalization. She had been treated with imatinib for 3 years, but had developed disease progression despite dose increases. She had no history of liver disease or risk factors for viral hepatitis and denied taking other medications except for lansoprazole (30 mg daily) and tramadol (40 mg daily). Laboratory tests showed minimal elevations in serum ALT (53 U/L) and AST (44 U/L) with normal serum bilirubin (0.7 mg/dL), but marked elevations in serum ammonia (Table). CT scans of the brain showed no abnormalities. Sunitinib was stopped and she was treated with hypdration and lactulose. She improved rapidly with ammonia levels decreasing within 24 hours and she was discharged four days later. However, she presented with a similar severe episode of confusion within a week, having restarted sunitinib immediately after discharge. Again she improved within 24 hours of stopping sunitinib for the second time and was discharged 4 days later. She did not restart sunitinib and had no further episodes of hyperammonemia.</p>
+          <sec id="Sunitinib.Key_Points2">
+            <title>Key Points</title>
+            <table-wrap id="Sunitinib.T3" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">
+<bold>Medication:</bold>
+</td>
+                    <td rowspan="1" colspan="1">Sunitinib (50 mg daily of 10 days)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">
+<bold>Pattern:</bold>
+</td>
+                    <td rowspan="1" colspan="1">Minimal enzyme elevations</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">
+<bold>Severity:</bold>
+</td>
+                    <td rowspan="1" colspan="1">4+ (encephalopathy)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">
+<bold>Latency:</bold>
+</td>
+                    <td rowspan="1" colspan="1">10 days initially, 7 days on re-exposure</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">
+<bold>Recovery:</bold>
+</td>
+                    <td rowspan="1" colspan="1">4 days</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">
+<bold>Other medications:</bold>
+</td>
+                    <td rowspan="1" colspan="1">Lansoprazole and tramadol</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Sunitinib.Laboratory_Values2">
+            <title>Laboratory Values</title>
+            <table-wrap id="Sunitinib.T4" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Sunitinib.T4_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Sunitinib.T4_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Sunitinib.T4_1_1_1_3" rowspan="1" colspan="1">Ammonia (&#x003bc;g/dL)</th>
+                    <th id="hd_h_Sunitinib.T4_1_1_1_4" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Sunitinib.T4_1_1_1_5" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_1" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_2" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_3" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_4" rowspan="1" colspan="1">0.4</td>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_5" rowspan="1" colspan="1">No known liver disease</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_1" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_2 hd_h_Sunitinib.T4_1_1_1_3 hd_h_Sunitinib.T4_1_1_1_4 hd_h_Sunitinib.T4_1_1_1_5" colspan="4" rowspan="1">Sunitinib (50 mg daily) started for metastatic GIST</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_1" rowspan="1" colspan="1">10 days</td>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_3" rowspan="1" colspan="1">389</td>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_4" rowspan="1" colspan="1">1.7</td>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_5" rowspan="1" colspan="1">Admission for confusion</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_1" rowspan="1" colspan="1">11 days</td>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_2" rowspan="1" colspan="1">1</td>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_3" rowspan="1" colspan="1">116</td>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_4" rowspan="1" colspan="1">1.7</td>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_5" rowspan="1" colspan="1">Clinically improved</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_1" rowspan="1" colspan="1">14 days</td>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_2" rowspan="1" colspan="1">4 days</td>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_3 hd_h_Sunitinib.T4_1_1_1_4 hd_h_Sunitinib.T4_1_1_1_5" colspan="3" rowspan="1">Discharged and sunitinib restarted</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_1" rowspan="1" colspan="1">21 (7) days</td>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_2" rowspan="1" colspan="1">11 (0) days</td>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_3" rowspan="1" colspan="1">210</td>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_4" rowspan="1" colspan="1">1.5</td>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_5" rowspan="1" colspan="1">Re-admitted for confusion</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_1" rowspan="1" colspan="1">(8) days</td>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_2" rowspan="1" colspan="1">(1) day</td>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_3" rowspan="1" colspan="1">59</td>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_4" rowspan="1" colspan="1">1.5</td>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_1" rowspan="1" colspan="1">(11) days</td>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_2" rowspan="1" colspan="1">(4) days</td>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_3 hd_h_Sunitinib.T4_1_1_1_4 hd_h_Sunitinib.T4_1_1_1_5" colspan="3" rowspan="1">Discharged</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_1 hd_h_Sunitinib.T4_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;45</bold>
+</td>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Sunitinib.T4_1_1_1_5" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <p>*Values parenthesis represent days after restarting or restopping sunitinib.</p>
+          </sec>
+          <sec id="Sunitinib.Comment2">
+            <title>Comment</title>
+            <p>Hyperammonemic coma is a rare but distinctive syndrome that has been linked to therapy with valproic acid and with various cancer chemotherapeutic regimens. Patients are typically dehydrated and present with irritability, stupor and confusion progressing to frank coma. Routine liver tests are usually normal or minimally abnormal, but ammonia levels are high. The syndrome reverses rapidly once the causative medication is stopped, but it can be severe and fatalities have been reported. The cause of the syndrome is not known, but probably relates to inhibition of mitochondrial or urea cycle enzyme function rather than frank hepatic failure.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Sunitinib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Sunitinib.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Sunitinib &#x02013; Sutent&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Antineoplastic Agents</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=Sunitinib">COMPLETE LABELING</ext-link>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Sunitinib.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Sunitinib.T5" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Sunitinib.T5_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Sunitinib.T5_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Sunitinib.T5_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Sunitinib.T5_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Sunitinib.T5_1_1_1_1" rowspan="1" colspan="1">Sunitinib</td>
+                <td headers="hd_h_Sunitinib.T5_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135236614">557795-19-4</ext-link>
+</td>
+                <td headers="hd_h_Sunitinib.T5_1_1_1_3" rowspan="1" colspan="1">C22-H27-F-N4-O2</td>
+                <td headers="hd_h_Sunitinib.T5_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Sunitinib_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Sunitinib Chemical Structure</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Sunitinib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 27 June 2018</p>
+        <ref-list id="Sunitinib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Sunitinib.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999.<annotation><p><italic toggle="yes">(Review of hepatotoxicity published in 1999 before the availability of tyrosine kinase receptor inhibitors such as sunitinib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Sunitinib.R2">
+            <mixed-citation publication-type="other">DeLeve LD. Erlotinib. Cancer chemotherapy. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 556.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of cancer chemotherapeutic agents published; erlotinib has been linked to several cases of clinically apparent liver injury, 2 of which were fatal).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Sunitinib.R3">
+            <mixed-citation publication-type="other">Chabner BA, Barnes J, Neal J, Olson E, Mujagic H, Sequist L, Wilson W, et al. Targeted therapies: tyrosine kinase inhibitors, monoclonal antibodies, and cytokines. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 1731-54.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Sunitinib.R4">
+            <mixed-citation publication-type="journal">Deeks ED, Keating GM. Sunitinib. Drugs 2006; 66: 2255-66; discussion 2267-8. <annotation><p><italic toggle="yes">(Review of structure, pharmacology, mechanism of action, clinical efficacy and safety of sunitinib; no mention of hepatotoxicity or ALT elevations during therapy).</italic></p></annotation><pub-id pub-id-type="pmid">17137406</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sunitinib.R5">
+            <mixed-citation publication-type="journal">Adams VR, Leggas M. Sunitinib malate for the treatment of metastatic renal cell carcinoma and gastrointestinal stromal tumors. Clin Ther 2007; 29: 1338-53. <annotation><p><italic toggle="yes">(Systematic review of the literature of clinical efficacy and tolerability of sunitinib; ALT or AST elevations occurred in 39% of sunitinib vs 23% of placebo recipients, values &#x0003e;5 times ULN in 2% vs 1% and bilirubin elevations in 16% vs 8%).</italic></p></annotation><pub-id pub-id-type="pmid">17825686</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sunitinib.R6">
+            <mixed-citation publication-type="journal">Goodman VL, Rock EP, Dagher R, Ramchandani RP, Abraham S, Gobburu JV, Booth BP, et al. Approval summary: sunitinib for the treatment of imatinib refractory or intolerant gastrointestinal stromal tumors and advanced renal cell carcinoma. Clin Cancer Res 2007; 13: 1367-73. <annotation><p><italic toggle="yes">(Summary of the FDA review of sunitinib in support of its approval in the United States; ALT or AST elevations occurred in 39% of sunitinib and 23% of placebo recipients and were greater than 5 times ULN in 2% vs 1%; no mention of clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">17332278</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sunitinib.R7">
+            <mixed-citation publication-type="journal">Mueller EW, Rockey ML, Rashkin MC. Sunitinib-related fulminant hepatic failure: case report and review of the literature. Pharmacotherapy 2008; 28: 1066-70. <annotation><p><italic toggle="yes">(75 year old woman with metastatic renal cancer developed diarrhea and dehydration after a fifth cycle of sunitinib and was found to be jaundiced on admission [bilirubin 5.9 mg/dL, ALT 3332 U/L, INR 4.8] with hepatic failure, but rapid clinical improvement and resolution within the next 6 months: Case 1).</italic></p></annotation><pub-id pub-id-type="pmid">18657022</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sunitinib.R8">
+            <mixed-citation publication-type="journal">Gore ME, Szczylik C, Porta C, Bracarda S, Bjarnason GA, Oudard S, Hariharan S, et al. Safety and efficacy of sunitinib for metastatic renal-cell carcinoma: an expanded-access trial. Lancet Oncol 2009; 10: 757-63. <annotation><p><italic toggle="yes">(Summary of results from expanded access to sunitinib for renal cell carcinoma in 4564 patients enrolled in 52 countries; common side effects were fatigue and diarrhea, nausea, stomatitis, anorexia, hand-foot syndrome, hypertension and dyspepsia; rates of serum ALT elevations not reported, but among 63 [1.4%] deaths attributed to treatment related adverse events, 4 [0.1%] were due to hepatic failure; no details given).</italic></p></annotation><pub-id pub-id-type="pmid">19615940</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sunitinib.R9">
+            <mixed-citation publication-type="journal">Weise AM, Liu CY, Shields AF. Fatal liver failure in a patient on acetaminophen treated with sunitinib malate and levothyroxine. Ann Pharmacother 2009; 43: 761-6. <annotation><p><italic toggle="yes">(57 year old woman with metastatic gastrointestinal stromal tumors resistant to imatinib therapy developed jaundice on day 4 of a 9th cycle of sunitinib [bilirubin 2.8 mg/dL, ALT 1588 U/L, Alk P 81 U/L, INR 2.17], with progressive liver failure and death 4 days later, autopsy showing marked centrolobular necrosis).</italic></p></annotation><pub-id pub-id-type="pmid">19336648</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sunitinib.R10">
+            <mixed-citation publication-type="journal">Gomez-Abuin G, Karam AA, Mezzadri NA, Bas CA. Acalculous cholecystitis in a patient with metastatic renal cell carcinoma treated with sunitinib. Clin Genitourin Cancer 2009; 7: 62-3. <annotation><p><italic toggle="yes">(62 year old woman with metastatic renal carcinoma developed acute acalculous cholecystitis during 4th week of first cycle of sunitinib [bilirubin "slightly" increased, ALT and Alk P values not given], resolving with conservative management, and the patient was able to restart sunitinib without recurrence).</italic></p></annotation><pub-id pub-id-type="pmid">19213671</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sunitinib.R11">
+            <mixed-citation publication-type="journal">O'Reilly EM, Niedzwiecki D, Hall M, Hollis D, Bekaii-Saab T, Pluard T, Douglas K, et al; Cancer and Leukemia Group B. A Cancer and Leukemia Group B phase II study of sunitinib malate in patients with previously treated metastatic pancreatic adenocarcinoma (CALGB 80603). Oncologist 2010; 15: 1310-9. <annotation><p><italic toggle="yes">(Trial of sunitinib in 77 patients with previously treated metastatic pancreatic cancer found median survival of less than 4 months and toxicity to be common; ALT or AST elevations occurred in 7%, but there was no mention of clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">21148613</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sunitinib.R12">
+            <mixed-citation publication-type="journal">Matsumoto K, Sawaki A, Mizuno N, Hara K, Hijioka S, Niwa Y, Tajika M, et al. Clinical efficacy and safety of sunitinib after imatinib failure in Japanese patients with gastrointestinal stromal tumor. Jpn J Clin Oncol 2011; 41: 57-62. <annotation><p><italic toggle="yes">(Among 18 patients with advance GIST tumors who were switched to sunitinib after failure of imatinib, some degree of "liver dysfunction" occurred in 26 [72%] and was grade 3-4 in 4, but details were not given).</italic></p></annotation><pub-id pub-id-type="pmid">20858619</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sunitinib.R13">
+            <mixed-citation publication-type="journal">Lee NR, Yhim HY, Yim CY, Kwak JY, Song EK. Sunitinib-induced hyperammonemic encephalopathy in gastrointestinal stromal tumors. Ann Pharmacother 2011; 45: e56. <annotation><p><italic toggle="yes"> (58 year old man and 68 year old woman developed confusion 17 and 10 days after starting sunitinib for GIST [ammonia 210 and 389 &#x003bc;g/dL, bilirubin 1.9 and 0.7 mg/dL, ALT 50 and 53 U/L], with rapid improvement upon stopping and rapid recurrence on restarting; both patients had previously tolerated imatinib: Case 2).</italic></p></annotation><pub-id pub-id-type="pmid">21954449</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sunitinib.R14">
+            <mixed-citation publication-type="journal">Powles T, Sarwar N, Jones R, Wilson P, Boleti E, Protheroe A, Crabb SJ, et al. An indirect comparison of the toxicity of sunitinib and pazopanib in metastatic clear cell renal cancer. Eur J Cancer 2012; 48: 3171-6. <annotation><p><italic toggle="yes">(Among 77 patients given either sunitinib or pazopanib for 12 weeks before nephrectomy of renal cell cancer, raised "liver function" occurred in 9 patients [26%] on pazopanib, but none on sunitinib).</italic></p></annotation><pub-id pub-id-type="pmid">22766517</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sunitinib.R15">
+            <mixed-citation publication-type="journal">Ibrahim EM, Kazkaz GA, Abouelkhair KM, Bayer AM, Elmasri OA. Sunitinib adverse events in metastatic renal cell carcinoma: a meta-analysis. Int J Clin Oncol 2012; 18: 1060-9. <annotation><p><italic toggle="yes">(Systematic review of adverse events reported in clinical trials of sunitinib in 5658 patients wtih renal cell cancer found serum liver enzyme elevations in 40% of patients, but elevations &#x0003e;5 times ULN in only 3%).</italic></p></annotation><pub-id pub-id-type="pmid">23179639</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sunitinib.R16">
+            <mixed-citation publication-type="journal">Mermershtain W, Lazarev I, Shani-Shrem N, Ariad S. Fatal liver failure in a patient treated with sunitinib for renal cell carcinoma. Clin Genitourin Cancer 2013; 11: 70-2. <annotation><p><italic toggle="yes">(62 year old man with emphysema developed weakness and jaundice within 3 weeks of starting sunitinib for unresectable renal cell carcinoma [bilirubin 6.1 rising to 15.7 mg/dL, ALT 31 to 3086 U/L, LDH to 23,949 U/L, Alk P 124 U/L, INR 1.62], with progressive hypoxia, coma and death within a few days).</italic></p></annotation><pub-id pub-id-type="pmid">23063577</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sunitinib.R17">
+            <mixed-citation publication-type="journal">Shah RR, Morganroth J, Shah DR. Hepatotoxicity of tyrosine kinase inhibitors: clinical and regulatory perspectives. Drug Saf 2013; 36: 491-503. <annotation><p><italic toggle="yes">(Review of the hepatotoxicity of 18 tyrosine kinase inhibitors approved for use in cancer in the US as of 2013; aminotransferase elevations occurred in 40-60% of patients in registration trials of sunitinib, and were above 5 times ULN in 2-5% and at least one case of severe liver injury has been reported since its approval [Weise 2009]).</italic></p></annotation><pub-id pub-id-type="pmid">23620168</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sunitinib.R18">
+            <mixed-citation publication-type="journal">Shea YF, Chiu WY, Mok MY, Hung IF, Yau CC. Sunitinib-induced hyperammonaemia in a patient with pancreatic neuroendocrine tumour. J Clin Pharm Ther 2013; 38: 327-9. <annotation><p><italic toggle="yes">(61 year old man with pancreatic neuroendocrine tumor metastatic to liver developed stupor and somnolence 2 weeks after starting sunitinib [bilirubin and INR normal, ALT 43 U/L, Alk P 196 U/L, ammonia 147 &#x003bc;M], resolving within 24 hours of stopping sunitinib). </italic></p></annotation><pub-id pub-id-type="pmid">23586819</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sunitinib.R19">
+            <mixed-citation publication-type="journal">Motzer RJ, Hutson TE, Cella D, Reeves J, Hawkins R, Guo J, Nathan P, et al. Pazopanib versus sunitinib in metastatic renal-cell carcinoma. N Engl J Med 2013; 369: 722-31. <annotation><p><italic toggle="yes">(Among 1110 patients with metastatic renal cell cancer treated with either pazopanib or sunitinib, overall survival was similar, but pazopanib patients had higher rates of side effects including hand-foot syndrome [50% vs 29% and ALT elevations [60% vs 43%; 17% vs 4% over 5 times ULN], and bilirubin [36% vs 27%]; no mention of clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">23964934</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sunitinib.R20">
+            <mixed-citation publication-type="journal">Motzer RJ, Johnson T, Choueiri TK, Deen KC, Xue Z, Pandite LN, Carpenter C, Xu CF. Hyperbilirubinemia in pazopanib- or sunitinib-treated patients in COMPARZ is associated with UGT1A1 polymorphisms. Ann Oncol 2013; 24: 2927-8. <annotation><p><italic toggle="yes">(Among 1110 patients with renal cell cancer treated with tyrosine kinase inhibitors, bilirubin elevations &#x02265;1.5 times ULN occurred in 16% on pazopanib vs 9% on sunitinib, and the accumulated rate of the elevations was higher in patients who were homozygous for the UGT1A1 polymorphisms of Gilbert syndrome).</italic></p></annotation><pub-id pub-id-type="pmid">24107802</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sunitinib.R21">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 49 [6%] were attributed to antineoplastic agents including 9 to kinase inhibitors including imatinib [n=5], lapatinib [n=2] and regorafinib [n=1], but none were attributed to sunitinib).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sunitinib.R22">
+            <mixed-citation publication-type="journal">Karczmarek-Borowska B, Sa&#x00142;ek-Za&#x00144; A. Hepatotoxicity of molecular targeted therapy. Contemp Oncol (Pozn) 2015; 19: 87-92. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of modern molecular targeted therapies including monoclonal antibodies, protein kinase inhibitors and proteosome inhibitors; sunitinib has an increased risk of liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">26034384</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sunitinib.R23">
+            <mixed-citation publication-type="journal">Reichardt P, Kang YK, Rutkowski P, Schuette J, Rosen LS, Seddon B, Yalcin S, et al. Clinical outcomes of patients with advanced gastrointestinal stromal tumors: safety and efficacy in a worldwide treatment-use trial of sunitinib. Cancer 2015; 121: 1405-13. <annotation><p><italic toggle="yes">(Among 1124 patients with refractory GIST treated with sunitinib in an open label worldwide treatment program, ALT elevations above 5 times ULN occurred in 2%; no mention of clinically apparent liver injury or liver failure).</italic></p></annotation><pub-id pub-id-type="pmid">25641662</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sunitinib.R24">
+            <mixed-citation publication-type="journal">Komatsu Y, Ohki E, Ueno N, Yoshida A, Toyoshima Y, Ueda E, Houzawa H, et al. Safety, efficacy and prognostic analyses of sunitinib in the post-marketing surveillance study of Japanese patients with gastrointestinal stromal tumor. Jpn J Clin Oncol 2015; 45: 1016-22. <annotation><p><italic toggle="yes">(Review of the reported hepatotoxicity of molecular targeted therapies for cancer including sunitinib and 6 other kinase inibitors ).</italic></p></annotation><pub-id pub-id-type="pmid">26373318</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sunitinib.R25">
+            <mixed-citation publication-type="journal">Eichelberg C, Vervenne WL, De Santis M, Fischer von Weikersthal L, Goebell PJ, Lerchenm&#x000fc;ller C, Zimmermann U, et al. SWITCH: a randomised, sequential, open-label study to evaluate the efficacy and safety of sorafenib-sunitinib versus sunitinib-sorafenib in the treatment of metastatic renal cell cancer. Eur Urol 2015; 68: 837-47. <annotation><p><italic toggle="yes">(Among 365 patients with metastatic renal cell carcinoma who were switched from sorafenib to sunitinib or vice versa, response rates were similar in the two groups; ALT elevations and hepatotoxicity were not mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">25952317</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sunitinib.R26">
+            <mixed-citation publication-type="journal">Shantakumar S, Nordstrom BL, Djousse L, Hall SA, Gagnon DR, Fraeman KH, van Herk-Sukel M, et al. Occurrence of hepatotoxicity with pazopanib and other anti-VEGF treatments for renal cell carcinoma: an observational study utilizing a distributed database network. Cancer Chemother Pharmacol 2016; 78: 559-66. <annotation><p><italic toggle="yes">(Review of hepatotoxicity associated with anti-VEGF treatments of renal cell cancer from two large US health care databases, highest rates of ALT elevations were found with first line treatment with pazopanib [n=180] and slightly lower rates for sorafenib [n=160], sunitinib [n=721] and bevacizumab [n=83], but clinically apparent injury with jaundice was rare [1 case with sorafenib, 2 with sunitinib]).</italic></p></annotation><pub-id pub-id-type="pmid">27438066</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sunitinib.R27">
+            <mixed-citation publication-type="journal">Guillen SS, Meijer M, de Jongh FE. Lethal acute liver failure in a patient treated with sunitinib. BMJ Case Rep 2016; 2016. <annotation><p><italic toggle="yes"> (79 year old man with metastatic renal cell cancer developed acute liver and kidney injury after the 8th six week cycle of sunitinib [bilirubin [5.4 mg/dL, ALT 1844 U/L, Alk P 78 U/L, LDH 3386 U/L, prothrombin time 28 sec], with progressive liver failure and death 4 days later).</italic></p></annotation><pub-id pub-id-type="pmid">26933184</pub-id></mixed-citation>
+          </ref>
+          <ref id="Sunitinib.R28">
+            <mixed-citation publication-type="journal">Bunchorntavakul C, Reddy KR. Drug hepatotoxicity: newer agents. Clin Liver Dis 2017; 21: 115-34. <annotation><p><italic toggle="yes"> (Overview of hepatotoxicity of newer agents including tyrosine kinase inhibitors such as imatinib, bosutinib, nilotinib, ponatinib, sorafenib and sunitinib, all of which have been implicated in causing ALT and AST elevations [in 23-50% of patients] as well as clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">27842767</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Sunitinib.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(Sunitinib/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Sunitinib: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Sunitinib">Trials on Sunitinib: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

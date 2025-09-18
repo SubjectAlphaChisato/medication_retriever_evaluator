@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Felodipine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Felodipine</book-part-id>
+      <title-group>
+        <title>Felodipine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>11</day>
+          <month>1</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Felbamate" document-type="chapter">Felbamate</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Fenofibrate" document-type="chapter">Fenofibrate</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Felodipine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Felodipine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Felodipine is a second generation calcium channel blocker and commonly used antihypertensive agent. Felodipine therapy has been associated with a low rate of serum enzyme elevations, but has not been convincingly linked to instances of clinically apparent, acute liver injury.</p>
+        </sec>
+        <sec id="Felodipine.Background">
+          <title>Background</title>
+          <p>Felodipine (fe loe' di peen) belongs to the dihydropyridine group of calcium channel blockers (with amlodipine, isradipine and nifedipine) and is used primarily in the therapy of hypertension. Like other calcium channel blockers, felodipine acts by blocking the influx of calcium ions into vascular smooth muscle and cardiac muscle cells during depolarization, which results in arterial vasodilation and decrease in cardiac work and oxygen consumption. Felodipine was approved in the United States in 1991 and currently more than 3 million prescriptions are filled yearly. The current sole indication is treatment of hypertension, either alone or with other antihypertensive agents. Felodipine is available in multiple generic forms and under the commercial name Plendil in 2.5, 5 and 10 mg extended release tablets. The recommended dose in adults is 2.5 to 10 mg once daily, generally starting at the lowest dose and adjusting upward. Like other calcium channel blockers, felodipine is generally well tolerated, but side effects can include dizziness, flushing, headache, fatigue, nausea, diarrhea, peripheral edema, palpitations and rash.</p>
+        </sec>
+        <sec id="Felodipine.Hepatotoxicity__Outcome_and_M">
+          <title>Hepatotoxicity, Outcome and Management</title>
+          <p>Felodipine therapy has been associated with low rates of serum enzyme elevations (&#x0003c;1% to 5%) which in many studies were no higher than occurred with placebo. ALT elevations were usually mild, asymptomatic and transient and often resolved even with continuation of therapy. Despite 20 years of clinical use, cases of clinically apparent liver injury due to felodipine have not been published. Thus, acute liver injury due to felodipine must be rare, if it occurs at all.</p>
+          <p>Likelihood score: E (Unlikely cause of clinically apparent liver injury).</p>
+          <p>Felodipine, however, can have significant drug-drug interactions. Felodipine is metabolized by the cytochrome P450 enzyme, CYP3A4, which is found in intestine and liver. Grapefruit juice can increases felodipine levels by inhibiting expression of intestinal CYP3A4 which ordinarily metabolizes it. Similarly, systemic drugs that inhibit CYP 3A4 (such as itraconazole or cimetidine) can increase and drugs that stimulate CYP 3A4 (such as phenytoin or phenobarbital) can lower felodipine levels significantly. Because felodipine can interact with other agents that are metabolized by the hepatic microsomal enzyme system, it may affect the risk of hepatotoxicity with other agents.</p>
+          <p>Drug Class: Cardiovascular Agents, <related-object source-id="livertox" document-id="CalciumChannelBlocke">Calcium Channel Blockers</related-object></p>
+          <p>Other Drugs in the Subclass, Calcium Channel Blockers: <related-object source-id="livertox" document-id="Amlodipine">Amlodipine</related-object>, <related-object source-id="livertox" document-id="Diltiazem">Diltiazem</related-object>, <related-object source-id="livertox" document-id="Isradipine">Isradipine</related-object>, <related-object source-id="livertox" document-id="Nicardipine">Nicardipine</related-object>, <related-object source-id="livertox" document-id="Nifedipine">Nifedipine</related-object>, <related-object source-id="livertox" document-id="Nimodipine">Nimodipine</related-object>, <related-object source-id="livertox" document-id="Nisoldipine">Nisoldipine</related-object>, <related-object source-id="livertox" document-id="Verapamil">Verapamil</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Felodipine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Felodipine.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Felodipine &#x02013; Generic, Plendil&#x000ae;</p>
+          <p>
+<bold> DRUG CLASS</bold>
+</p>
+          <p>Cardiovascular Agents</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=felodipine">COMPLETE LABELING</ext-link>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Felodipine.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Felodipine.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Felodipine.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Felodipine.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Felodipine.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Felodipine.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Felodipine.T1_1_1_1_1" rowspan="1" colspan="1">Felodipine</td>
+                <td headers="hd_h_Felodipine.T1_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135008895">72509-76-3</ext-link>
+</td>
+                <td headers="hd_h_Felodipine.T1_1_1_1_3" rowspan="1" colspan="1">C18-H19-C12-N-O4</td>
+                <td headers="hd_h_Felodipine.T1_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Felodipine_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Felodipine chemical structure</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Felodipine.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 11 January 2017</p>
+        <ref-list id="Felodipine.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Felodipine.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Calcium channel blockers. Drugs used in cardiovascular disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 646-7.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; among calcium channel blockers, only diltiazem, nifedipine, bepridil and verapamil have been incriminated in instances of hepatic injury; felopidine not mentioned).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Felodipine.R2">
+            <mixed-citation publication-type="other">De Marzio DH, Navarro VJ. Calcium channel blockers. Hepatotoxicity of cardiovascular and antidiabetic drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 524.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of calcium channel blockers; diliazem and verapamil have been implicated in causing cholestatic liver injury in a small number of patients; felodipine is not specifically mentioned).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Felodipine.R3">
+            <mixed-citation publication-type="other">Michel T, Hoffman BB. Calcium channel antagonists. Treatment of myocardial ischemia. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 755-60.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Felodipine.R4">
+            <mixed-citation publication-type="journal">Edgar B, Lundborg P, Regardh CG. Clinical pharmacokinetics of felodipine. A summary. Drugs 1987; 34: (Suppl 3): 16-27. <annotation><p><italic toggle="yes">(Review of pharmacokinetics of felodipine; felodipine is highly protein bound and is extensively metabolized by the liver).</italic></p></annotation><pub-id pub-id-type="pmid">3327676</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Felodipine.R5">
+            <mixed-citation publication-type="journal">Lown KS, Bailey DG, Fontana RJ, Janardan SK, Adair CH, Fortlage LA, Brown MB, et al. Grapefruit juice increases felodipine oral availability in humans by decreasing intestinal CYP3A protein expression. J Clin Invest 1997; 99: 2545-53. <annotation><p><italic toggle="yes">(Pharmacokinetic study in 10 volunteers demonstrated downregulation of enterocyte CYP 3A4 by grapefruit juice and a three fold increase in bioavailability of felodipine).</italic></p></annotation><pub-id pub-id-type="pmid">9153299</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Felodipine.R6">
+            <mixed-citation publication-type="journal">Gradman AH, Cutler NR, Davis PJ, Robbins JA, Weiss RJ, Wood BC, Michelsen EL. Enalapril-Felodipine ER Factorial Study Group. Long-term efficacy, tolerability, and safety of the combination of enalapril and felodipine ER in the treatment of hypertension. Clin Ther 1998; 20: 527-38. <annotation><p><italic toggle="yes">(Among 507 patients treated with felodipine and enalapril for an average of 8 months, one patient stopped therapy because of a rise in ALT [from 72 to 93 U/L]).</italic></p></annotation><pub-id pub-id-type="pmid">9663368</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Felodipine.R7">
+            <mixed-citation publication-type="journal">McClennen W, Wilson T. National Trial Group. Felodipine extended release versus conventional diuretic therapy for the treatment of systolic hypertension in elderly patients. Clin Invest Med 1998; 21: 142-50. <annotation><p><italic toggle="yes">(Among 216 patients with hypertension treated with either felodipine or diuretics for 8 weeks, ALT or AST levels became elevated in 5-6% of felodipine- vs 1-2% of diuretic treated patients, but none required early discontinuation).</italic></p></annotation><pub-id pub-id-type="pmid">9627768</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Felodipine.R8">
+            <mixed-citation publication-type="journal">Black HR, Elliott WJ, Weber MA, Frishman WH, Strom JA, Liebson PR, Hwang CT, Ruff DA, Montoro R, DeQuattro V, Zhang D, Schleman MM, Klibaner MI. One-year study of felodipine or placebo for stage 1 isolated systolic hypertension. Hypertension 2001; 38: 1118-23. <annotation><p><italic toggle="yes">(In a controlled trial of felodipine vs placebo in 171 patients with hypertension, "there were no clinically meaninful changes from baseline" of ALT or AST).</italic></p></annotation><pub-id pub-id-type="pmid">11711508</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Felodipine.R9">
+            <mixed-citation publication-type="journal">Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl 2004; 10: 1018-23. <annotation><p><italic toggle="yes">(Among ~50,000 liver transplants reported to UNOS between 1990 and 2002, 270 [0.5%] were done for drug induced acute liver failure, but none were attributed to a calcium channel blocker).</italic></p></annotation><pub-id pub-id-type="pmid">15390328</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Felodipine.R10">
+            <mixed-citation publication-type="journal">Liu L, Zhang Y, Liu G, Li W, Zhang X, Zanchetti A. FEVER Study Group. The Felodipine Event Reduction (FEVER) Study: a randomized long-term placebo-controlled trial in Chinese hypertensive patients. J Hypertens 2005; 23: 2157-72. <annotation><p><italic toggle="yes">(A trial in 9800 patients treated with diuretics with or without felodipine for an average of 3 years reported no liver related adverse events).</italic></p></annotation><pub-id pub-id-type="pmid">16269957</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Felodipine.R11">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E, Jerlstad P, Bergqvist A, Olsson R. Fulminant drug-induced hepatic failure leading to death or liver transplantation in Sweden. Scand J Gastroenterol 2005; 40: 1095-101.<annotation><p><italic toggle="yes">PubMed Citation (Summary of 25 years of adverse drug reaction reporting in Sweden identified 103 cases of drug induced acute liver failure; felodipine was possibly linked one case, but another hepatotoxic agent was being used [details not provided]).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Felodipine.R12">
+            <mixed-citation publication-type="journal">Frishman WH, Hainer JW, Sugg J; M-FACT Study Group. A factorial study of combination hypertension treatment with metoprolol succinate extended release and felodipine extended release results of the Metoprolol Succinate-Felodipine Antihypertension Combination Trial (M-FACT). Am J Hypertens 2006; 19: 388-95. <annotation><p><italic toggle="yes"> (In a controlled trial of multiple combinations of metoprolol and felodipine or placebo in 1092 patients with hypertension, no liver related side effects were reported).</italic></p></annotation><pub-id pub-id-type="pmid">16580575</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Felodipine.R13">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/18955056">PubMed Citation</ext-link><annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, calcium channel blockers were implicated as a sole agent in 2 cases [1 amlodipine, 1 verapamil] and as one of several agents in 2 cases [both amlodipine]).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Felodipine.R14">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, none of which were attributed to a calcium channel blocker).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Felodipine.R15">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, none of which was attributed to a calcium channel blocker or other antihypertensive medication).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Felodipine.R16">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes"> (Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases; one case was attributed to verapamil, but none were linked to felodipine or other calcium channel blockers).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Felodipine.R17">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 39 [4%] were due to antihypertensive agents including 4 due to calcium channel blockers [amlodipine in 1 and verapamil in 3 instances]).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Felodipine.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=felodipine/AE+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI+OR+hepatitis,+toxic%5BMH%5D)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Felodipine: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=felodipine">Trials on Felodipine: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

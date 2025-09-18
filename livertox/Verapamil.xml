@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Verapamil" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Verapamil</book-part-id>
+      <title-group>
+        <title>Verapamil</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>11</day>
+          <month>1</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Venlafaxine" document-type="chapter">Venlafaxine, Desvenlafaxine</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Vericiguat" document-type="chapter">Vericiguat</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Verapamil.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Verapamil.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Verapamil is a first generation calcium channel blocker used for treatment of hypertension, angina pectoris and superventricular tachyarrhythmias. Verapamil has been linked to a low rate of serum enzyme elevations during therapy and to rare instances of clinically apparent acute liver injury.</p>
+        </sec>
+        <sec id="Verapamil.Background">
+          <title>Background</title>
+          <p>Verapamil (ver ap' a mil) belongs to the phenylalkylamine class of calcium channel blockers and is used to treat hypertension and angina pectoris as well as atrial tachyarrhythmias. Like other calcium channel blockers, verapamil acts by blocking the influx of calcium ions into vascular smooth muscle and cardiac muscle cells during membrane depolarization. This action causes relaxation of vascular and arterial smooth muscle cells, resulting in arterial vasodilation and a decrease in cardiac work and oxygen consumption. Verapamil also decreases the rate of the sinus node pacemaker and slows atrial-ventricular conduction, making it effective in controlling some superventricular tachyarrhythmias (an action not shared by all calcium channel blockers). Verapamil was the first calcium channel blocker approved in the United States (1981) and it remains in wide use with more than eight million prescriptions filled yearly. Several generic formulations are available in tablet sizes of 40, 80 or 120 mg; specific commercial names include Calan, Isoptin, Apo-, Novo-, or Nu-Verap, and Verelan. For hypertension and angina pectoris, the recommended dose in adults is 120 to 480 mg daily in three divided doses. Chronic therapy is typical. Extended release formulations are available for once-daily dosing and intravenous formulations for treatment of atrial fibrillation or flutter. Like other calcium channel blockers, verapamil is generally well tolerated and side effects are largely due to its vasodilating activities and can include headache, flushing, dizziness, fatigue, nausea, diarrhea, palpitations, peripheral edema and skin rash.</p>
+        </sec>
+        <sec id="Verapamil.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Chronic therapy with verapamil is associated with a low rate of serum aminotransferase elevations that are usually mild and may resolve even with continuation of therapy. Clinically apparent liver injury with jaundice or symptoms from verapamil is uncommon and usually presents with fatigue, weakness with or without jaundice 2 to 8 weeks after starting the drug. The pattern of injury is usually mixed or cholestatic. Acute presentation can include fever, rash, arthralgias and eosinophilia, but these immunoallergic features are rarely prominent. Rapid recurrence with rechallenge has been reported. Autoantibodies are usually not present. Most cases have been mild and self-limited. Recovery is prompt with stopping verapamil and no cases of chronic hepatitis or vanishing bile duct syndrome have been attributed to its use. At least a dozen instances of acute liver injury attributed to verapamil have been published and the nature of the reaction is probably an idiosyncratic and immunologic.</p>
+          <p>Likelihood score: B (Likely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Verapamil.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of clinically apparent hepatotoxicity from verapamil is probably hypersensitivity. Verapamil is a derivative of papaverine which also causes an allergic form of hepatitis. Verapamil is metabolized by multiple cytochrome P450 enzymes including CYP 3A4 and is susceptible to drug-drug interactions with agents that are subtrates of CYP 3A4 as well as with inducers and inhibitors of the enzyme.</p>
+        </sec>
+        <sec id="Verapamil.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The severity of liver injury from verapamil ranges from mild and transient serum enzyme elevations to mild-to-moderate, but self-limited jaundice. Complete recovery is expected after stopping the drug and recovery is usually rapid (2 to 6 weeks) depending upon the severity. Rechallenge leads to recurrence and should be avoided. There is little information on cross sensivity of liver injury with other calcium channel blockers.</p>
+          <p>Drug Class: Cardiovascular Agents, <related-object source-id="livertox" document-id="CalciumChannelBlocke">Calcium Channel Blockers</related-object></p>
+          <p>Other Drugs in the Subclass, Calcium Channel Blockers: <related-object source-id="livertox" document-id="Amlodipine">Amlodipine</related-object>, <related-object source-id="livertox" document-id="Diltiazem">Diltiazem</related-object>, <related-object source-id="livertox" document-id="Felodipine">Felodipine</related-object>, <related-object source-id="livertox" document-id="Isradipine">Isradipine</related-object>, <related-object source-id="livertox" document-id="Nicardipine">Nicardipine</related-object>, <related-object source-id="livertox" document-id="Nifedipine">Nifedipine</related-object>, <related-object source-id="livertox" document-id="Nimodipine">Nimodipine</related-object>, <related-object source-id="livertox" document-id="Nisoldipine">Nisoldipine</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Verapamil.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Verapamil.Case_1._Asymptomatic_elevation">
+          <title>Case 1. Asymptomatic elevations in serum enzymes during verapamil therapy.</title>
+          <p>[Modified from a case in the database of the Drug Induced Liver Injury Network.]</p>
+          <p>A 54 year old woman with migraine headaches was started on verapamil in a dose of 80 mg daily, which was increased to 120 mg daily 3 weeks later. On routine testing 6 months later, she was found to have marked elevations in serum alkaline phosphatase and moderate increases in serum ALT and AST without jaundice (Table). Previous liver test results had been normal. She denied all symptoms and had no history of exposure to hepatitis, toxins or alcohol. She had a complex medical history and was also taking estrogens for menopausal symptoms, rabeprazole for acid reflux, valacyclovir for recurrent genital herpes, zolpidem for insomnia, fexofenadine for allergic rhinnitis, aspirin for coronary prophylaxis, and acetaminophen intermittently at low dosage for miscellaneous muscular-skeletal complaints. Tests for acute hepatitis A, B and C as well as autoimmune markers were negative. An abdominal ultrasound showed a heterogenous texture to the liver, but no gallstones or evidence of bile duct abnormalities. Verapamil was discontinued and laboratory test results returned to normal except for minimal elevations in alkaline phosphatase. Her other medications were continued.</p>
+          <sec id="Verapamil.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Verapamil.T1" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Verapamil, 80-120 mg daily</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Cholestatic (R=0.6)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">1+ (never jaundiced, never hospitalized)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">Five to six months</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">Near complete within 2 months</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">Rabeprazole, valacyclovir, zolpidem, fexofenadine, aspirin, intermittent acetaminophen</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Verapamil.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Verapamil.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Verapamil.T2_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Verapamil.T2_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Verapamil.T2_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Verapamil.T2_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Verapamil.T2_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Verapamil.T2_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_3 hd_h_Verapamil.T2_1_1_1_4 hd_h_Verapamil.T2_1_1_1_5 hd_h_Verapamil.T2_1_1_1_6" colspan="4" rowspan="1">Verapamil started at a dose of 80 mg/day</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_1" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_3" rowspan="1" colspan="1">41</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_4" rowspan="1" colspan="1">86</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_5" rowspan="1" colspan="1">0.4</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_6" rowspan="1" colspan="1">Dose 120 mg/day</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_1" rowspan="1" colspan="1">24 weeks</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_3" rowspan="1" colspan="1">25</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_4" rowspan="1" colspan="1">165</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_5" rowspan="1" colspan="1">0.4</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_1" rowspan="1" colspan="1">25 weeks</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_3" rowspan="1" colspan="1">325</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_4" rowspan="1" colspan="1">2171</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_5" rowspan="1" colspan="1">1.1</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_1" rowspan="1" colspan="1">26 weeks</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_3" rowspan="1" colspan="1">251</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_4" rowspan="1" colspan="1">1118</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_5" rowspan="1" colspan="1">0.7</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_6" rowspan="1" colspan="1">Normal Ultrasound</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_3 hd_h_Verapamil.T2_1_1_1_4 hd_h_Verapamil.T2_1_1_1_5 hd_h_Verapamil.T2_1_1_1_6" colspan="4" rowspan="1">Verapamil stopped after 26 weeks</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_1" rowspan="1" colspan="1">27 weeks</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_2" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_3" rowspan="1" colspan="1">97</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_4" rowspan="1" colspan="1">696</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_5" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_6" rowspan="1" colspan="1">AMA negative</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_1" rowspan="1" colspan="1">28 weeks</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_2" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_3" rowspan="1" colspan="1">70</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_4" rowspan="1" colspan="1">449</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_5" rowspan="1" colspan="1">0.4</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_1" rowspan="1" colspan="1">30 weeks</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_2" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_3" rowspan="1" colspan="1">29</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_4" rowspan="1" colspan="1">266</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_5" rowspan="1" colspan="1">0.3</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_1" rowspan="1" colspan="1">33 weeks</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_2" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_3" rowspan="1" colspan="1">25</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_4" rowspan="1" colspan="1">165</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_5" rowspan="1" colspan="1">0.4</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_1" rowspan="1" colspan="1">36 weeks</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_2" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_3" rowspan="1" colspan="1">37</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_4" rowspan="1" colspan="1">161</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_5" rowspan="1" colspan="1">0.2</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_1 hd_h_Verapamil.T2_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;60</bold>
+</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;115</bold>
+</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Verapamil.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Verapamil.Comment">
+            <title>Comment</title>
+            <p>This patient was asymptomatic of liver disease, but was found to have serum enzyme abnormalities on routine blood testing after she had been on verapamil for six months. Serum alkaline phosphatase was markedly elevated (~10-20 fold) while serum aminotransferase levels were only moderately increased (~4-6 fold). Serum bilirubin levels had increased, although not into the abnormal range. There were no features that suggested hypersensitivity (rash, fever or eosinophilia). Evaluation for other causes of liver disease was unrevealing, and stopping verapamil was followed by a rapid improvement. The latency of 5 to 6 months was unusual for verapamil, most published cases arising within 2 to 8 weeks of starting. However, the cholestatic pattern of serum enzymes, absence of other obvious causes of liver disease and the improvement with drug withdrawal were compatible with verapamil induced hepatotoxicity.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Verapamil.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Verapamil.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Verapamil &#x02013; Generic, Calan&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Cardiovascular Agents</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=verapamil">COMPLETE LABELING</ext-link>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Verapamil.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Verapamil.T3" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Verapamil.T3_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Verapamil.T3_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Verapamil.T3_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Verapamil.T3_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Verapamil.T3_1_1_1_1" rowspan="1" colspan="1">Verapamil</td>
+                <td headers="hd_h_Verapamil.T3_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134970527">52-53-9</ext-link>
+</td>
+                <td headers="hd_h_Verapamil.T3_1_1_1_3" rowspan="1" colspan="1">C27-H38-N2-O4</td>
+                <td headers="hd_h_Verapamil.T3_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Verapamil_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Verapamil chemical structure</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Verapamil.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 11 January 2017</p>
+        <ref-list id="Verapamil.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Verapamil.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Calcium channel blockers. Drugs used in cardiovascular disease. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 646-7.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; among calcium channel blockers, diltiazem, nifedipine, bepridil and verapamil have been incriminated in instances of hepatic injury).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Verapamil.R2">
+            <mixed-citation publication-type="other">De Marzio DH, Navarro VJ. Calcium channel blockers. Hepatotoxicity of cardiovascular and antidiabetic drugs. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 524.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of calcium channel blockers mentions that diliazem and verapamil have been implicated in causing cholestatic liver injury in a small number of patients).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Verapamil.R3">
+            <mixed-citation publication-type="other">Michel T, Hoffman BB. Calcium channel antagonists. Treatment of myocardial ischemia. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 755-60.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Verapamil.R4">
+            <mixed-citation publication-type="journal">Sandler G, Clayton GA, Thornicroft SG. Clinical evaluation of verapamil in angina pectoris. Br Med J 1968; 3: 224-7. <annotation><p><italic toggle="yes">(Small controlled trial of verapamil in 16 patients with angina; "side effects were minimal" and no liver related adverse events were reported).</italic></p></annotation><pub-id pub-id-type="pmid">4969551</pub-id></mixed-citation>
+          </ref>
+          <ref id="Verapamil.R5">
+            <mixed-citation publication-type="journal">Brodsky SJ, Cutler SS, Weiner DA, Klein MD. Hepatotoxicity due to treatment with verapamil. Ann Intern Med 1981; 94:490-1. <italic toggle="yes">(55 year old man developed serum enzyme elevations without symptoms or jaundice 5 weeks after starting verapamil [</italic>bilirubin 1.2 mg/dL, ALT 800 U/L, Alk P 220 U/L] and had a similar response upon rechallenge [bilirubin 1.5 mg/dL, ALT 1500 mg/dL, Alk P 310 U/L], both episodes resolving within weeks of stopping).<pub-id pub-id-type="pmid">7212507</pub-id></mixed-citation>
+          </ref>
+          <ref id="Verapamil.R6">
+            <mixed-citation publication-type="journal">Stern EH, Pitchon R, King BD, Wiener I. Possible hepatitis from verapamil. N Engl J Med 1982; 306: 612-3. <annotation><p><italic toggle="yes">(48 year old man treated with verapamil for 14 days developed abdominal pain [bilirubin 1.7 mg/dL, ALT 61 U/L, Alk P normal], which rapidly resolved upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">7057821</pub-id></mixed-citation>
+          </ref>
+          <ref id="Verapamil.R7">
+            <mixed-citation publication-type="journal">Nash DT, Feer TD. Hepatic injury possibly induced by verapamil. JAMA 1983; 249:395-6. <annotation><p><italic toggle="yes">(61 year old woman developed serum enzymes elevations with symptoms, but no jaundice 2 weeks after starting verapamil [bilirubin 1.6 mg/dL, ALT 835 U/L, Alk P 399 U/L], resolving rapidly with stopping).</italic></p></annotation><pub-id pub-id-type="pmid">6848831</pub-id></mixed-citation>
+          </ref>
+          <ref id="Verapamil.R8">
+            <mixed-citation publication-type="journal">Guarascio P, D&#x02019;Amato C, Sette P, Conte A, Visco G. Liver damage from verapamil. Br Med J 1984; 288: 362-3. <annotation><p><italic toggle="yes">(47 year old man developed fever, right upper quadrant pain and jaundice 2 weeks after starting verapamil [bilirubin 7.5 mg/dL, ALT 145 U/L, Alk P 170 U/L, 17% eosinophils], resolving within 4 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">6419928</pub-id></mixed-citation>
+          </ref>
+          <ref id="Verapamil.R9">
+            <mixed-citation publication-type="journal">Hare DL, Horowitz JD. Verapamil hepatotoxicity: a hypersensitivity reaction. Am Heart J 1986; 111:160-1. <annotation><p><italic toggle="yes">(71 year old woman developed abdominal pain 6 weeks after starting verapamil [bilirubin 1.6 mg/dL, AST 170 U/L, Alk P 1731 U/L, 2% eosinophils], resolving in 4 weeks and recurring after challenge with a single dose [AST 210 U/L]).</italic></p></annotation><pub-id pub-id-type="pmid">3953378</pub-id></mixed-citation>
+          </ref>
+          <ref id="Verapamil.R10">
+            <mixed-citation publication-type="journal">Burgunder JM, Abernethy DR, Lauterburg BH. Liver injury due to verapamil. Hepatogastroenterology 1988; 35: 169-70. <annotation><p><italic toggle="yes">(56 year old woman developed rash, pruritus and jaundice 2 months after starting verapamil [bilirubin 4.1 mg/dL, ALT 5 times ULN, Alk P 2.3 times ULN], recurring within 14 days of restarting verapamil).</italic></p></annotation><pub-id pub-id-type="pmid">3181862</pub-id></mixed-citation>
+          </ref>
+          <ref id="Verapamil.R11">
+            <mixed-citation publication-type="journal">Veluvolu P, Whalen JP, Collier DC, Friedman B. Scintigraphic demonstration of hepatocellular damage after verapamil toxicity. Clin Nucl Med 1988; 13: 368. <annotation><p><italic toggle="yes">(60 year old man developed elevations in ALT [1030 U/L] and LDH [1085 U/L] one day after a single dose of verapamil; no attempts made to exclude other causes).</italic></p></annotation><pub-id pub-id-type="pmid">3390984</pub-id></mixed-citation>
+          </ref>
+          <ref id="Verapamil.R12">
+            <mixed-citation publication-type="journal">de Arriba G, Garcia-Martin F, Sanchez-Heras M, Aldeguer M, Tejero E, Jarillo MD. Hepatotoxicity due to verapamil hydrochloride. Eur J Med 1993; 2: 179-81. <annotation><p><italic toggle="yes">(55 year old man developed cholestatic pattern of enzyme elevations without jaundice 6 weeks after starting verapamil [bilirubin 1.2 mg/dL, ALT 534 U/L, Alk P 2715 U/L, 1% eosinophils], resolving within 8 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">8261063</pub-id></mixed-citation>
+          </ref>
+          <ref id="Verapamil.R13">
+            <mixed-citation publication-type="journal">Kumar KL, Colley CA. Verapamil-induced hepatotoxicity. West J Med 1994; 160: 485-6. <annotation><p><italic toggle="yes">(50 year old man developed cholestatic pattern of enzyme elevations without jaundice 8 weeks after starting verapamil therapy [bilirubin 1.9 mg/dL, AST 209 U/L, Alk P 533 U/L], resolving within 4 to 6 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">8048248</pub-id></mixed-citation>
+          </ref>
+          <ref id="Verapamil.R14">
+            <mixed-citation publication-type="journal">Odeh M, Oliven A. Verapamil-associated liver injury. Harefuah 1998; 134: 36-7 [Hebrew]. <annotation><p><italic toggle="yes">(54 year old woman developed elevations in Alk P [298 U/L] and ALT [72 U/L] with mild symptoms, but no jaundice 6 weeks after starting verapamil that resolved within 5 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">9517278</pub-id></mixed-citation>
+          </ref>
+          <ref id="Verapamil.R15">
+            <mixed-citation publication-type="journal">Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl 2004; 10: 1018-23. <annotation><p><italic toggle="yes">(Among ~50,000 liver transplants reported to UNOS between 1990 and 2002, 270 [0.5%] were done for drug induced acute liver failure, but none were attributed to a calcium channel blocker).</italic></p></annotation><pub-id pub-id-type="pmid">15390328</pub-id></mixed-citation>
+          </ref>
+          <ref id="Verapamil.R16">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson E, Jerlstad P, Bergqvist A, Olsson R. Fulminant drug-induced hepatic failure leading to death or liver transplantation in Sweden. Scand J Gastroenterol 2005; 40: 1095-101. <annotation><p><italic toggle="yes">(Summary of 25 years of adverse drug reaction reporting in Sweden identified 103 cases of drug induced acute liver failure; only one case was possibly linked to a calcium channel blocker: felodipine).</italic></p></annotation><pub-id pub-id-type="pmid">16165719</pub-id></mixed-citation>
+          </ref>
+          <ref id="Verapamil.R17">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, calcium channel blockers were implicated as a sole agent in 2 cases [1 amlodipine, 1 verapamil: case 1] and as one of several agents in 2 cases [both amlodipine]).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Verapamil.R18">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but no case was attributed to verapamil or other calcium channel blockers).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Verapamil.R19">
+            <mixed-citation publication-type="journal">
+<annotation><p>
+<italic toggle="yes">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 114: 1419-25. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/23419359">PubMed Citation</ext-link> (In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, but calcium channel blockers were not implicated in any case).</italic>
+</p></annotation>
+</mixed-citation>
+          </ref>
+          <ref id="Verapamil.R20">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes"> (Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases; one case was attributed to verapamil, but none to other calcium channel blockers).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Verapamil.R21">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 39 [4%] were due to antihypertensive agents including 4 due to calcium channel blockers [amlodipine in 1 and verapamil in 3 instances]).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Verapamil.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=verapamil/AE+AND+Human%5BMH%5D+AND+(%20drug-induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221998/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Verapamil: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=verapamil">Trials on Verapamil: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

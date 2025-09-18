@@ -1,0 +1,15 @@
+{
+  "evaluation_timestamp": "2025-09-17T22:05:48.553639",
+  "summary_statistics": {
+    "total_drugs": 1,
+    "total_questions": 0,
+    "average_overall_score": 0.0,
+    "field_performance": {},
+    "hallucination_rate": 0.0,
+    "drugs_evaluated": []
+  },
+  "detailed_results": [],
+  "recommendations": [
+    "Overall performance is below acceptable threshold (0.00 < 0.7). Consider improving prompt engineering or using a more capable model."
+  ]
+}

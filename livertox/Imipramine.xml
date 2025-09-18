@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Imipramine" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Imipramine</book-part-id>
+      <title-group>
+        <title>Imipramine</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>25</day>
+          <month>4</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Imipenemcilastatin" document-type="chapter">Imipenem-Cilastatin</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Inclisiran" document-type="chapter">Inclisiran</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Imipramine.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Imipramine.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Imipramine is a tricyclic antidepressant that continues to be widely used in the therapy of depression. Imipramine can cause mild and transient serum enzyme elevations and is rare cause of clinically apparent acute cholestatic liver injury.</p>
+        </sec>
+        <sec id="Imipramine.Background">
+          <title>Background</title>
+          <p>Imipramine (im ip' ra meen) is a dibenzazepine derived tricyclic antidepressant which acts by inhibition of serotonin and norepinephrine reuptake within synaptic clefts in the central nervous system, thus increasing brain levels of these neurotransmitters. Imipramine is indicated for therapy of depression and was approved for this indication in the United States in 1959; it is still widely used, with more than 1 million prescriptions being filled yearly. Imipramine is also used for childhood enuresis. Imipramine is available in generic forms and under the brand names of Tofranil in 10, 25, and 50 mg tablets and as capsules of 75, 100, 125 and 150 mg for nighttime dosing. The typical recommended dose for depression in adults is 75 to 100 mg daily in divided doses, increasing gradually to a maximum of 200 mg daily. Imipramine can also be given as a single nighttime dose. The recommended dose in children (ages 6 years or above) is 25 to 75 mg daily 1 hour before bedtime. Common side effects include dizziness, headache, drowsiness, restlessness, confusion, gastrointestinal upset, increased appetite, weight gain, blurred vision, dry mouth and urinary retention.</p>
+        </sec>
+        <sec id="Imipramine.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Liver test abnormalities have been reported to occur in up to 20% of patients on long term therapy with imipramine, but elevations are uncommonly above 3 times the upper limit of normal. The aminotransferase abnormalities are usually mild, asymptomatic and transient, reversing even with continuation of medication. Rare instances of clinically apparent acute liver injury as well as prolonged jaundice have been reported due to imipramine. The onset of jaundice is usually with 1 to 8 weeks of starting therapy. The pattern of enzyme elevations varies from hepatocellular to mixed or cholestatic. Signs and symptoms of hypersensitivity (fever, rash, eosinophilia) are common, but usually not very prominent. Rapid recurrence with rechallenge is common. Autoantibody formation is rare. Rare instances of acute liver failure and death attributed to imipramine have been reported.</p>
+          <p>Likelihood score: B (likely rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Imipramine.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which imipramine causes serum aminotransferase elevation is not known. It undergoes extensive hepatic metabolism and a possible cause of liver injury is production of an intermediate of metabolism that triggers a hypersensitivity reaction.</p>
+        </sec>
+        <sec id="Imipramine.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum aminotransferase elevations that occur on imipramine therapy are usually self-limited and do not require dose modification or discontinuation of therapy. The acute hepatitis caused by imipramine is typically self-limited and benign, but can be severe and even fatal. Instances of prolonged jaundice compatible with vanishing bile duct syndrome have been reported. Rechallenge with imipramine usually causes a prompt recurrence of the liver injury and should be avoided. While cross reactivity of hepatic injury with other tricyclic antidepressants has rarely been described, switching to another form of antidepressants such as the selective serotonin reuptake inhibitors is more prudent and is likely to be safe.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Antidepressants">Antidepressant Agents</related-object></p>
+          <p>Other Drugs in the Subclass, Tricyclics: <related-object source-id="livertox" document-id="Amitriptyline">Amitriptyline</related-object>, <related-object source-id="livertox" document-id="Amoxapine">Amoxapine</related-object>, <related-object source-id="livertox" document-id="Clomipramine">Clomipramine</related-object>, <related-object source-id="livertox" document-id="Desipramine">Desipramine</related-object>, <related-object source-id="livertox" document-id="Doxepin">Doxepin</related-object>, <related-object source-id="livertox" document-id="Nortriptyline">Nortriptyline</related-object>, <related-object source-id="livertox" document-id="Protriptyline">Protriptyline</related-object>, <related-object source-id="livertox" document-id="Trimipramine">Trimipramine</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Imipramine.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Imipramine.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Imipramine &#x02013; Tofranil&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Antidepressant Agents</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=imipramine">COMPLETE LABELING</ext-link>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Imipramine.CHEMICAL_FORMULA_AND_STRUCTUR">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Imipramine.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Imipramine.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Imipramine.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Imipramine.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Imipramine.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Imipramine.T1_1_1_1_1" rowspan="1" colspan="1">Imipramine</td>
+                <td headers="hd_h_Imipramine.T1_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134971495">50-49-7</ext-link>
+</td>
+                <td headers="hd_h_Imipramine.T1_1_1_1_3" rowspan="1" colspan="1">C19-H24-N2</td>
+                <td headers="hd_h_Imipramine.T1_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Imipramine.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Image of Imipramine Chemical Structure</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Imipramine.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 25 April 2018</p>
+        <ref-list id="Imipramine.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Imipramine.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Tricyclic antidepressants. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 495-8.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; hepatic injury caused by tricyclic antidepressants is less frequent and less consistent than with monamine oxidase inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R2">
+            <mixed-citation publication-type="other">Larrey D, Ripault MP. Hepatotoxicity of psychotropic drugs and drugs of abuse. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3nd ed. Amsterdam: Elsevier Inc, 2013, pp. 443-62.<annotation><p><italic toggle="yes">(Review of tricylic antidepressant hepatotoxicity published in 2013; imipramine is listed as causing hepatocellular, mixed and cholestatic liver injury at a frequency of 0.5-1% with a latency ranging from 1 week to 1 year).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R3">
+            <mixed-citation publication-type="other">O'Donnel JM, Shelton RC. Pharmacotherapy of depression and anxiety disorders. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 398415.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics; imipramine and amitriptyline inhibit both norepinephrine and serotonin reuptake; modification of the tricyclic structure led to the synthesis of the first SSRIs).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R4">
+            <mixed-citation publication-type="journal">Lund MA. [Jaundice during therapy with imipramine] Ikterus unter behandling med imipramine. Ugeskr Laeg 1962; 124: 800-2. <annotation><p><italic toggle="yes">(55 year old man developed jaundice 3 weeks after starting imipramine [bilirubin ~11 mg/dL, near normal ALT, Alk P 450 U/L], resolving within 2 months documented by 3 liver biopsies).</italic></p></annotation><pub-id pub-id-type="pmid">14467350</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R5">
+            <mixed-citation publication-type="other">Miller M. Neuropathy, agranulocytosis and hepatotoxicity following imipramine therapy. Am J Psychiatry 1963; 20: 185-6. Not in PubMed<annotation><p><italic toggle="yes">(66 year old woman developed nausea 8 days after stopping a 19 day course of imipramine [no bilirubin levels given, AST 115 U/L, Alk P 2.5 times ULN], with subsequent neutropenia and neuropathy while liver test elevations resolved within 2 weeks of stopping).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R6">
+            <mixed-citation publication-type="journal">Hoaken PSC. Jaundice during imipramine treatment. Can Med Assoc J 1964; 90: 1367. <annotation><p><italic toggle="yes">(44 year old woman developed fever, fatigue and jaundice 20 days after starting imipramine [bilirubin 5.0 mg/dL, Alk P twice ULN], resolving clinically within 2 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">14156834</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R7">
+            <mixed-citation publication-type="journal">Strothers G. Jaundice and its relation to therapeutic agents. Lancet 1965; 1: 434. <annotation><p><italic toggle="yes">(62 year old woman developed jaundice 50 days after starting chlordiazepoxide and imipramine [bilirubin 11.9 mg/dL, ALT 230 U/L, Alk P ~8 times ULN]; authors attributed case to imipramine and not the benzodiazepine).</italic></p></annotation><pub-id pub-id-type="pmid">14238106</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R8">
+            <mixed-citation publication-type="journal">Klerman GL, Cole JO. Clinical pharmacology of imipramine and related antidepressant compounds. Pharmacol Rev 1965; 17: 101-41. <annotation><p><italic toggle="yes">(Extensive review of structure, pharmacology, clinical effects, mechanisms of action, drug interactions, and side effects of tricyclic antidepressants; jaundice is reported to occur in 0.5 to 1% of subjects, but usually resolves rapidly with stopping).</italic></p></annotation><pub-id pub-id-type="pmid">14294030</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R9">
+            <mixed-citation publication-type="journal">Kramp JL. Glutamic pyruvic acid transaminases during treatment with amitriptyline and imipramine. Acta Psychiatr Scand 1967; 43: 1-7. <annotation><p><italic toggle="yes">(ALT levels were elevated in 4 of 149 patients treated with amitriptyline or imipramine, but the peak value was only 100 U/L).</italic></p></annotation><pub-id pub-id-type="pmid">6059707</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R10">
+            <mixed-citation publication-type="journal">Powell WJ, Koch-Weser J, Williams RA. Lethal hepatic necrosis after therapy with imipramine and desipramine. JAMA 1968; 206: 642-5. <annotation><p><italic toggle="yes">(80 year old woman developed rash 2 weeks after starting imipramine and was switched to desipramine for 3 days when she developed jaundice, fever and desquamating rash [bilirubin 7.8 rising to 27 mg/dL, AST 330 U/L, Alk P 4 times ULN, atypical lymphocytes 6%], subsequently suffering hepatic coma, infections, hypotension and death).</italic></p></annotation><pub-id pub-id-type="pmid">4234079</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R11">
+            <mixed-citation publication-type="journal">Short MH, Burns JM, Harris ME. Cholestatic jaundice during imipramine therapy. JAMA 1968; 206: 1791-2. <annotation><p><italic toggle="yes">(73 year old woman developed jaundice, fever and confusion 3 weeks after starting imipramine [bilirubin 5.9 mg/dL, Alk P 2.5 times ULN], with liver biopsy showing intrahepatic cholestasis and rapid improvement upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">5754834</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R12">
+            <mixed-citation publication-type="journal">Karkalas Y, Lal H. Jaundice following therapy with imipramine and cyproheptadine. Clin Toxicol 1971; 4: 47-53. <annotation><p><italic toggle="yes">(59 year old man developed jaundice 38 days after starting imipramine [and periactin for pruritus] [bilirubin 3.0 mg/dL, ALT 1100 U/L, Alk P 3 times baseline level], resolving within 3 weeks of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">5097484</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R13">
+            <mixed-citation publication-type="journal">Clarke AE, Maritz VM, Denborough MA. Phenothiazines and jaundice. Aust N Z J Med 1972; 2: 376-82. <annotation><p><italic toggle="yes">(Chlorpromazine and amitriptyline cause precipitation of proteins when added to human bile in vitro and hepatotoxicity of these agents may relate to this characteristic).</italic></p></annotation><pub-id pub-id-type="pmid">4144624</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R14">
+            <mixed-citation publication-type="journal">Weaver GA, Pavlinac D, Davis JS. Hepatic sensitivity to imipramine. Am J Dig Dis 1977; 22: 551-3. <annotation><p><italic toggle="yes">(40 year old woman was found to have elevations in Alk P [450 U/L] and eosinophilia [9%] when admitted for depression, 2 months after starting imipramine, improved on stopping and increased again after single dose rechallenge; liver biopsy showing mild nonspecific changes).</italic></p></annotation><pub-id pub-id-type="pmid">868834</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R15">
+            <mixed-citation publication-type="journal">Fiori MG. Tricyclic antidepressants: a review of their toxicology. Curr Dev Psychopharmacol 1977; 4: 71-110. <annotation><p><italic toggle="yes">(Review of cardiac, hepatic, neurological, fetal and psychotoxicity of tricyclic antidepressants; most cases of hepatotoxicity have been attributed to hypersensitivity, but tricyclics are taken up and extensively metabolized by hepatocytes).</italic></p></annotation><pub-id pub-id-type="pmid">340145</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R16">
+            <mixed-citation publication-type="journal">Bui HD, Chaney RH. Transient hepatitis due to low dose neuroleptic medication. Am J Gastroenterol 1989; 84: 578-9. <annotation><p><italic toggle="yes">(19 year old developed agitation, tachycardia, fever and leukocytosis 8 days after starting imipramine [bilirubin normal, ALT 286 U/L, Alk P 140 U/L, CPK 11,260 U/L], abnormalities resolving in days with hydration and stopping therapy; neuroleptic malignant syndrome).</italic></p></annotation><pub-id pub-id-type="pmid">2719021</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R17">
+            <mixed-citation publication-type="journal">Horst DA, Grace ND, LeCompte PM. Prolonged cholestasis and progressive hepatic fibrosis following imipramine therapy. Gastroenterology 1980; 79: 550-4. <annotation><p><italic toggle="yes">(53 year old woman developed rash and fever 7 days after starting imipramine followed by jaundice with eosinophilia [bilirubin 10 mg/dL, AST 115 U/L, Alk P ~4 times ULN], with persistent jaundice and severe pruritus for 1 year, followed by gradual improvement; but 12 year follow up showed minor alkaline phosphatase and AST elevations with normal bilirubin; liver biopsies showed duct absence initially, but returning in follow up, although fibrosis was present).</italic></p></annotation><pub-id pub-id-type="pmid">7429116</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R18">
+            <mixed-citation publication-type="journal">Moskovitz R, DeVane CL, Harris R, Stewart RB. Toxic hepatitis and single daily dosage imipramine therapy. J Clin Psychiatry 1982; 43: 165-6. <annotation><p><italic toggle="yes">(33 year old woman developed abnormal liver enzymes 4 weeks after starting imipramine [bilirubin 1.1 mg/dL, ALT 1308 U/L, Alk P 364 U/L], resolving rapidly upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">7068550</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R19">
+            <mixed-citation publication-type="journal">D&#x000f8;ssing M, Andreasen PB. Drug-induced liver disease in Denmark. An analysis of 572 cases of hepatotoxicity reported to the Danish Board of Adverse Reactions to Drugs. Scand J Gastroenterol 1982; 17: 205-11. <annotation><p><italic toggle="yes">(Among 572 cases of drug induced liver disease seen between 1968-78 in Denmark, psychotropic agents accounted for 93 cases, 54 of which were due to chlorpromazine; tricyclics not specifically mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">6982502</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R20">
+            <mixed-citation publication-type="journal">Larrey D, Rueff B, Pessayre D, Algard M, Geneve J, Benhamou JP. Cross hepatotoxicity between tricyclic antidepressants. Gut 1986; 87-90. <annotation><p><italic toggle="yes">(39 year old woman developed abdominal pain 2 weeks after starting amineptine [a tricyclic antidepressant] with fever and eosinophilia [bilirubin 1.2 mg/dL, ALT 1360 U/L, Alk P 1.5 times ULN], resolving rapidly on stopping but recurring 7 days after starting clomipramine [ALT 1050 U/L, Alk P 1.5 times ULN], again resolving rapidly upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">3721296</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R21">
+            <mixed-citation publication-type="journal">Geneve J, Larrey D, Pessayre D, Benhamou JP. Structure tricyclique des medicaments et hepatotoxicite. Gastroenterol Clin Biol 1987; 11: 242-9. <annotation><p><italic toggle="yes">(Review of structural similarity and hepatotoxicity of tricyclic antidepressants focusing on amineptine, imipramine and amitriptyline).</italic></p></annotation><pub-id pub-id-type="pmid">2884161</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R22">
+            <mixed-citation publication-type="journal">Morrow PL, Hardin NJ, Bonadies J. Hypersensitivity myocarditis and hepatitis associated with imipramine and its metabolite, desipramine. J Forensic Sci 1989; 34: 1016-20. <annotation><p><italic toggle="yes">(Two patients with complicated medical histories [one on desipramine and one imipramine] died suddenly and were found to have myocarditis on autopsy with liver showing eosinophils and lymphocytes in portal areas; no jaundice or information on ALT levels).</italic></p></annotation><pub-id pub-id-type="pmid">2760582</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R23">
+            <mixed-citation publication-type="journal">Schaefer MS, Edmunds RS, Markin RP, Wood RP, Pillen TJ, Shaw BW. Hepatic failure associated with imipramine therapy. Pharmacotherapy 1990; 10: 66-9. <annotation><p><italic toggle="yes">(11 year old boy developed jaundice 7 days after starting imipramine for enuresis [bilirubin 15.0 mg/dL, ALT 3260 U/L, Alk P 619 U/L] which worsened despite stopping drug, with progression to liver failure and liver transplantation 8 days after presentation and 3 weeks after starting imipramine).</italic></p></annotation><pub-id pub-id-type="pmid">2315196</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R24">
+            <mixed-citation publication-type="journal">Pirmohamed MKL, Kittringham NR, Parkl BK. Idiosyncratic reactions to antidepressants: a review of the possible mechanism and predisposing factors. Pharm Ther 1992; 53: 105-25. <annotation><p><italic toggle="yes">(Review of idiosyncratic reactions to antidepressants; possible mechanism of injury being production of a chemically reactive metabolite that is either directly toxic or induces a hypersensitivity reaction).</italic></p></annotation><pub-id pub-id-type="pmid">1641399</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R25">
+            <mixed-citation publication-type="journal">Berson A, Fr&#x000e9;neaux E, Larrey D, Lepage V, Douay C, Mallet C. Possible role of HLA in hepatotoxicity. An exploratory study. J Hepatol 1994; 20: 336-42. <annotation><p><italic toggle="yes">(Human leukocyte antigen [HLA] haplotypes done on 71 patients with drug induced liver disease; among 12 due to tricyclics [7 amineptine, 3 amitriptyline, 2 clomipramine], 6 [50%] had HLA A11 including 2 of the 3 amitriptyline cases; 12% of controls had this allele).</italic></p></annotation><pub-id pub-id-type="pmid">8014443</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R26">
+            <mixed-citation publication-type="journal">Remy AL, Larrey D, Pageaux GP, Desprez D, Ramos J, Michel H. Cross hepatotoxicity between tricyclic antidpressants and phenothiazines. Eur J Gastroenterol 1995; 7: 373-6. <annotation><p><italic toggle="yes">(65 year old woman developed fatigue and serum enzyme elevations [ALT ~1300 U/L; Alk P ~380 U/L] 1 month after starting trimipramine; 3 years later she developed nausea and ALT elevations 10 days after starting desipramine [ALT ~250 U/L], and 2 years later developed abdominal pain and fever and enzyme elevations [ALT ~1100 U/L, Alk P ~ 510 U/L] 8 days after starting cyamemazine; each time with rapid recovery and no jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">7600146</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R27">
+            <mixed-citation publication-type="journal">Ilan Y, Samuel D, Teynes M, Tur-Kaspa R. Hepatitis failure associated with imipramine therapy. Pharmacopsychiatry 1996; 29: 79-80. <annotation><p><italic toggle="yes">(48 year old man developed jaundice 4 months after starting imipramine [bilirubin 30.4 mg/dL, ALT 3998 U/L, Alk P 250 U/L], progressing to hepatic failure but spontaneous recovery within 3 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">8741026</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R28">
+            <mixed-citation publication-type="journal">Allison DB, Mentore JL, Heo M, Chandler LP, Cappelleri JC, Infante MC, Weiden PJ. Antipsychotic-induced weight gain: a comprehensive research synthesis. Am J Psychiatry 1999; 156: 1686-96. <annotation><p><italic toggle="yes">(Systematic review of 81 articles on weight change with antipsychotics; using change after 10 weeks to compare: clozapine +5.7, olanzapine +4.2, chlorpromazine +4.2, risperidone +1.7, loxapine +0.6, haloperidol +0.5, ziprasidone +0.3, molindone -0.1, and pimozide -2.7 kilograms).</italic></p></annotation><pub-id pub-id-type="pmid">10553730</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R29">
+            <mixed-citation publication-type="journal">Grohmann R, R&#x000fc;ther E, Engel RR, Hippius H. Assessment of adverse drug reactions in psychiatric inpatients with the AMSP drug safety program: methods and first results for tricyclic antidepressants and SSRIs. Pharmacopsychiatry 1999; 32: 21-8. <annotation><p><italic toggle="yes">(Analysis of reporting of adverse events among inpatients in 29 German hospitals between 1993 to 1997; 896 severe adverse events among 48,564 patients [1.8%], both total and hepatic events were more common with tricyclics than SSRIs).</italic></p></annotation><pub-id pub-id-type="pmid">10071179</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R30">
+            <mixed-citation publication-type="journal">Carvajal Garc&#x000ed;a-Pando A, Garc&#x000ed;a del Pozo J, S&#x000e1;nchez AS, Velasco MA, Rueda de Castro AM, Lucena MI.Hepatotoxicity associated with the new antidepressants. J Clin Psychiatry 2002; 63: 135-7. <annotation><p><italic toggle="yes">(Analysis of cases of hepatotoxicity from antidepressants in Spanish Pharmacovigilance System from 1989-1999 identified 99 cases; among SSRIs, 26 were due to fluoxetine, 14 paroxetine, 6 fluvoxamine, 5 sertraline, 3 venlafaxine and 2 citalopram; among tricyclics, 16 clomipramine 7 amitriptyline, 6 imipramine; among miscellaneous, 3 nefazodone and 1 trazodone; but all similar in rate ~1-3 per 100,000 patient-years of exposure, except for nefazodone with 29/100,000).</italic></p></annotation><pub-id pub-id-type="pmid">11874214</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R31">
+            <mixed-citation publication-type="journal">Lucena M, Carvajal A, Andrade R, Velasco A. Antidepressant-induced hepatotoxicity. Expert Opin Drug Saf 2003; 2: 249-62. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of antidepressants; antidepressant use has increased markedly between 1992 and 2002, accounting for 5% of cases of hepatotoxicity; tricyclics are less likely to cause injury than MAO inhibitors; predominantly cholestatic patterns of liver injury with onset in first 2-3 weeks; occasional reports of prolonged cholestasis).</italic></p></annotation><pub-id pub-id-type="pmid">12904104</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R32">
+            <mixed-citation publication-type="journal">Degner D, Grohmann R, Kropp S, R&#x000fc;ther E, Bender S, Engel RR, Schmidt LG. Severe adverse drug reactions of antidepressants: results of the German multicenter drug surveillance program AMSP. Pharmacopsychiatry 2004; 37 Suppl 1: S39-45. <annotation><p><italic toggle="yes">(53,042 patients treated with antidepressants in 35 psychiatric hospitals in Germany from 1993-2000 were monitored for adverse drug reactions; increased liver enzymes reported in 16% on tricyclics, 5.5% on SSRIs and 12% of monamine oxidase inhibitors).</italic></p></annotation><pub-id pub-id-type="pmid">15052513</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R33">
+            <mixed-citation publication-type="journal">Sabat&#x000e9; M, Ib&#x000e1;&#x000f1;ez L, P&#x000e9;rez E, Vidal X, Buti M, Xiol X, Mas A, et al. Risk of acute liver injury associated with the use of drugs: a multicentre population survey. Aliment Pharmacol Ther 2007; 25: 1401-9. <annotation><p><italic toggle="yes">(Among 126 cases of drug induced liver injury seen in Spain between 1993-2000, 3 were due to amitriptyline with a relative risk of 14.2: estimated frequency of 6 per 100,000 person-year exposures).</italic></p></annotation><pub-id pub-id-type="pmid">17539979</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R34">
+            <mixed-citation publication-type="journal">DeSanty KP, Amabile CM. Antidepressant-induced liver injury. Ann Pharmacother 2007; 41: 1201-11. <annotation><p><italic toggle="yes"> (Review of drug induced liver injury and summary analysis of reports of injury from MAO inhibitors, SSRIs, tricyclics and atypical agents).</italic></p></annotation><pub-id pub-id-type="pmid">17609231</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R35">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, 1 case was attributed to amitriptyline, but no other tricyclic was mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R36">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were linked to tricyclic antidepressants).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R37">
+            <mixed-citation publication-type="journal">Molleston JP, Fontana RJ, Lopez MJ, Kleiner DE, Gu J, Chalasani N; Drug-induced Liver Injury Network. Characteristics of idiosyncratic drug induced liver injury in children: results from the DILIN prospective study. J Pediatr Gastroenterol Nutr 2011; 53: 182-9. <annotation><p><italic toggle="yes">(Among 30 children with suspected drug induced liver injury, half [n=15] were due to antimicrobials [minocycline 4, INH 3, azithromycin 3] and the rest largely due to CNS agents and anticonvulsants; one case was attributed to amitriptyline, but no other tricyclic antidepressant was listed).</italic></p></annotation><pub-id pub-id-type="pmid">21788760</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R38">
+            <mixed-citation publication-type="journal">Park SH, Ishino R. Liver injury associated with antidepressants. Curr Drug Saf 2013; 8: 207-23. <annotation><p><italic toggle="yes"> (Review of antidepressant induced liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">23914755</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R39">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, none of which were attributed to imipramine or other tricyclic antidepressant).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R40">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes"> (Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, one was attributed to amitriptyline but none to imipramine or other tricyclic antidepressants).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R41">
+            <mixed-citation publication-type="journal">Voican CS, Corruble E, Naveau S, Perlemuter G. Antidepressant-induced liver injury: a review for clinicians. Am J Psychiatry 2014; 171: 404-15. <annotation><p><italic toggle="yes"> (Review of hepatotoxicity of antidepressants, mentions cases of cholestatic jaundice and vanishing bile duct syndrome, but that hepatocellular injury can also occur due to imipramine).</italic></p></annotation><pub-id pub-id-type="pmid">24362450</pub-id></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R42">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/25754159">PubMed Citation</ext-link><annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 20 cases [2%] were attributed to antidepressants only one of which was due to a tricylic, imipramine: a 33 year old woman developed jaundice with a mixed enzyme pattern 1 month after starting imipramine which resolved within a month of stopping).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R43">
+            <mixed-citation publication-type="journal">Friedrich ME, Akimova E, Huf W, Konstantinidis A, Papageorgiou K, Winkler D, Toto S, et al. Drug-induced liver injury during antidepressant treatment: results of AMSP, a drug surveillance program. Int J Neuropsychopharmacol 2016; 19. pii: pyv126. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/26721950">PubMed Citation</ext-link><annotation><p><italic toggle="yes">(Among 184,234 psychiatric inpatients from 80 European hospitals, 149 cases [0.08%] of drug induced liver injury were reported, of whom 18 [13%] were taking trimipramine, although none were receiving imipramine]).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Imipramine.R44">
+            <mixed-citation publication-type="journal">Ferrajolo C, Scavone C, Donati M, Bortolami O, Stoppa G, Motola D, Vannacci A, et al.; DILI-IT Study Group. Antidepressant-induced acute liver injury: a case-control study in an Italian inpatient population. Drug Saf 2018; 41: 95-102. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/28770534">PubMed Citation</ext-link><annotation><p><italic toggle="yes">(Among 179 cases of hospitalizations for unexplained acute liver injury enrolled in an prospective study between 2010 and 2014, 17 had been exposed to antidepressants including only 1 who received a tricyclic [amitriptyline]).</italic></p></annotation></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Imipramine.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(imipramine)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Imipramine: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=imipramine">Trials on Imipramine: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

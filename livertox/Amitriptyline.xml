@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Amitriptyline" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Amitriptyline</book-part-id>
+      <title-group>
+        <title>Amitriptyline</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>1</day>
+          <month>3</month>
+          <year>2016</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Amisulpride" document-type="chapter">Amisulpride: Short Chapter</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Amlodipine" document-type="chapter">Amlodipine</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Amitriptyline.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Amitriptyline.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Amitriptyline is a tricyclic antidepressant that is widely used in the therapy of depression. Amitriptyline can cause mild and transient serum enzyme elevations and is rare cause of clinically apparent acute cholestatic liver injury.</p>
+        </sec>
+        <sec id="Amitriptyline.Background">
+          <title>Background</title>
+          <p>Amitriptyline (am" i trip' ti leen) is a tricyclic antidepressant which is believed to act by inhibition of serotonin and norepinephrine reuptake within synaptic clefts in the central nervous system, thus increasing brain levels of these neurotransmitters. Amitriptyline is indicated for therapy of depression and was approved for this indication in the United States in 1961, and is still widely used, with more than 10 million prescriptions for amitriptyline being filled yearly. Amitriptyline is also used for anorexia and bulimia and for adjunctive treatment of neurogenic pain. Amitriptyline is available in generic forms and under the brand name of Elavil in 10, 25, 50, 75, 100 and 150 mg tablets. The typical recommended dose for depression in adults is 75 to 100 mg daily in divided doses, increasing gradually to a maximum of 300 mg daily. Amitriptyline can also be given as a single nighttime dose of 50 to 150 mg. Common side effects include dizziness, headache, drowsiness, restlessness, confusion, gastrointestinal upset, increased appetite, weight gain, blurred vision, dry mouth and urinary retention.</p>
+        </sec>
+        <sec id="Amitriptyline.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Liver test abnormalities have been reported to occur in 10% to 12% of patients on amitriptyline, but elevations are uncommonly above 3 times the upper limit of normal. The aminotransferase abnormalities are usually mild, asymptomatic and transient, reversing even with continuation of medication. Rare instances of clinically apparent acute liver injury have been reported in patients on amitriptyline. The latency to onset is quite variable, ranging from 1 to 14 months of starting the medication. The reported pattern of serum enzyme elevations has varied from hepatocellular to cholestatic. An acute hepatitis-like syndrome with acute liver failure has been reported, as well as acute cholestatic hepatitis and prolonged jaundice compatible with vanishing bile duct syndrome. Signs or symptoms of hypersensitivity (rash, fever and eosinophilia) are frequent, but are usually mild and transient. Autoantibody formation is rare.</p>
+          <p>Likelihood score: B (highly likely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Amitriptyline.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism by which amitriptyline causes serum aminotransferase elevation is not known. It undergoes extensive hepatic metabolism and a possible cause of liver injury is production of a toxic intermediate of metabolism. Many cases have features of hypersensitivity and more rapid recurrence with reexposure and it has been associated with a specific HLA haplotype (A11).</p>
+        </sec>
+        <sec id="Amitriptyline.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The serum aminotransferase elevations that occur on amitriptyline therapy are usually self-limited and do not require dose modification or discontinuation of therapy. The acute liver injury caused by amitriptyline is typically self-limited, but progressive and fatal instances of acute hepatitis and prolonged cholestasis with vanishing bile duct syndrome have been reported. Rechallenge with amitriptyline usually causes a prompt recurrence of the liver injury which can be fatal and should be avoided. Cross reactivity of hepatic injury with other tricyclic antidepressants has been described, but is not invariable. Thus, switching from one to another tricyclic antidepressant after clinically apparent liver injury should be avoided or done with caution. Switching to other forms of antidepressants such as the selective serotonin reuptake inhibitors is likely to be safe.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Antidepressants">Antidepressant Agents</related-object></p>
+          <p>Other Drugs in the Subclass, Tricyclics: <related-object source-id="livertox" document-id="Amoxapine">Amoxapine</related-object>, <related-object source-id="livertox" document-id="Clomipramine">Clomipramine</related-object>, <related-object source-id="livertox" document-id="Desipramine">Desipramine</related-object>, <related-object source-id="livertox" document-id="Doxepin">Doxepin</related-object>, <related-object source-id="livertox" document-id="Imipramine">Imipramine</related-object>, <related-object source-id="livertox" document-id="Nortriptyline">Nortriptyline</related-object>, <related-object source-id="livertox" document-id="Protriptyline">Protriptyline</related-object>, <related-object source-id="livertox" document-id="Trimipramine">Trimipramine</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Amitriptyline.CASE_REPORTS">
+        <title>CASE REPORTS</title>
+        <sec id="Amitriptyline.Case_1._Acute_liver_failur">
+          <title>Case 1. Acute liver failure due to amitriptyline.</title>
+          <p>[Modified from: Danan G, Bernuau J, Moullot X, Degott C, Pessayre D. Amitriptyline-induced fulminant hepatitis. Digestion 1984; 30: 179-84. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/6500194">PubMed Citation</ext-link>]</p>
+          <p>A 51 year old woman developed fever and arthralgias followed 2 days later by jaundice, approximately 14 months after starting amitriptyline (30 mg daily) and perphenazine (12 mg daily). She was icteric and febrile but without rash or pruritus. Serum bilirubin levels were elevated (Table) and ALT levels were 27 times the upper limit of the normal range. She tested negative for hepatitis B surface antigen and an ultrasound showed no evidence of biliary obstruction. The symptoms and jaundice resolved with stopping the medication and all tests were normal 2 months later. Soon thereafter, however, amitriptyline and perphenazine were restarted. Within 12 days, she redeveloped jaundice and fever that progressed to hepatic failure marked by confusion, asterixis and ascites. There was no eosinophilia or autoantibodies. A transjugular liver biopsy showed massive necrosis. Serum bilirubin levels peaked a week after stopping therapy and then improved. She again had a slow clinical recovery, and four months later all liver tests were normal.</p>
+          <sec id="Amitriptyline.Key_Points1">
+            <title>Key Points</title>
+            <table-wrap id="Amitriptyline.T1" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Amitriptyline.T1_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Amitriptyline</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Amitriptyline.T1_1_1_1_1" id="hd_b_Amitriptyline.T1_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Amitriptyline.T1_1_1_1_1" rowspan="1" colspan="1">Hepatocellular (R=22)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Amitriptyline.T1_1_1_1_1" id="hd_b_Amitriptyline.T1_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Amitriptyline.T1_1_1_2_1" rowspan="1" colspan="1">4+ (prolonged jaundice, liver failure)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Amitriptyline.T1_1_1_1_1" id="hd_b_Amitriptyline.T1_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Amitriptyline.T1_1_1_3_1" rowspan="1" colspan="1">Initially 14 months, 12 days on rechallenge</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Amitriptyline.T1_1_1_1_1" id="hd_b_Amitriptyline.T1_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Amitriptyline.T1_1_1_4_1" rowspan="1" colspan="1">Four months</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Amitriptyline.T1_1_1_1_1" id="hd_b_Amitriptyline.T1_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Amitriptyline.T1_1_1_5_1" rowspan="1" colspan="1">Perphenazine, sulpiride</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Amitriptyline.Laboratory_Values1">
+            <title>Laboratory Values</title>
+            <table-wrap id="Amitriptyline.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Amitriptyline.T2_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Amitriptyline.T2_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Amitriptyline.T2_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Amitriptyline.T2_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Amitriptyline.T2_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Amitriptyline.T2_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_1 hd_h_Amitriptyline.T2_1_1_1_2 hd_h_Amitriptyline.T2_1_1_1_3 hd_h_Amitriptyline.T2_1_1_1_4 hd_h_Amitriptyline.T2_1_1_1_5 hd_h_Amitriptyline.T2_1_1_1_6" colspan="6" rowspan="1">Amitriptyline and perphenazine given for ~14 months</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_1" rowspan="1" colspan="1">14 months</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_3" rowspan="1" colspan="1">920</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_4" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_5" rowspan="1" colspan="1">4.4</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_6" rowspan="1" colspan="1">Fever and jaundice</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_2" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_3" rowspan="1" colspan="1">1080</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_5" rowspan="1" colspan="1">9.4</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_2" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_3" rowspan="1" colspan="1">560</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_2" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_3" rowspan="1" colspan="1">80</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_5" rowspan="1" colspan="1">2.9</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_2" rowspan="1" colspan="1">8 weeks</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_3" rowspan="1" colspan="1">40</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_5" rowspan="1" colspan="1">1.2</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_1 hd_h_Amitriptyline.T2_1_1_1_2 hd_h_Amitriptyline.T2_1_1_1_3 hd_h_Amitriptyline.T2_1_1_1_4 hd_h_Amitriptyline.T2_1_1_1_5 hd_h_Amitriptyline.T2_1_1_1_6" colspan="6" rowspan="1">Amitriptyline and perphenazine restarted for 12 days</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_1" rowspan="1" colspan="1">12 days</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_3" rowspan="1" colspan="1">960</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_5" rowspan="1" colspan="1">6.4</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_6" rowspan="1" colspan="1">Asterixis and ascites</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_2" rowspan="1" colspan="1">4 days</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_3" rowspan="1" colspan="1">1040</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_5" rowspan="1" colspan="1">14.6</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_2" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_3" rowspan="1" colspan="1">1360</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_5" rowspan="1" colspan="1">15.2</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_2" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_3" rowspan="1" colspan="1">840</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_5" rowspan="1" colspan="1">16.4</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_2" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_3" rowspan="1" colspan="1">200</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_5" rowspan="1" colspan="1">23.4</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_6" rowspan="1" colspan="1">Liver biopsy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_2" rowspan="1" colspan="1">4 weeks</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_3" rowspan="1" colspan="1">160</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_5" rowspan="1" colspan="1">16.4</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_2" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_3" rowspan="1" colspan="1">140</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_5" rowspan="1" colspan="1">8.8</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_2" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_3" rowspan="1" colspan="1">80</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_5" rowspan="1" colspan="1">5.8</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_2" rowspan="1" colspan="1">4 months</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_3" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_4" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_5" rowspan="1" colspan="1">Normal</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_1 hd_h_Amitriptyline.T2_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;42</bold>
+</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Amitriptyline.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <p>* Values estimated from Figure 2 and converted from x ULN to U/L and &#x003bc;mol/L to mg/dL.</p>
+          </sec>
+          <sec id="Amitriptyline.Comment1">
+            <title>Comment</title>
+            <p>The latency to onset was unusually long for tricyclic induced liver injury, but the rapid recurrence with rechallenge provided convincing evidence for a link between either amitriptyline or perphenazine and this acute hepatitis like reaction. Attribution of the injury to amitriptyline rather than perphenazine (a phenothiazine that has not been clearly linked to drug induced liver injury) rests largely on previous case reports and the hepatocellular pattern of injury, which is more typical of tricyclic than phenothiazine induced injury. The severity of the response to rechallenge argues against this practice particularly when dealing with hepatocellular injury.</p>
+          </sec>
+        </sec>
+        <sec id="Amitriptyline.Case_2._Cholestatic_hepati">
+          <title>Case 2. Cholestatic hepatitis due to amitriptyline.</title>
+          <p>[Modified from: Anderson BN, Henrikson IR. Jaundice and eosinophilia associated with amitriptyline. J Clin Psychiatry 1978; 39: 730-1. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/690091">PubMed Citation</ext-link>]</p>
+          <p>A 55 year old woman developed pruritus 4 weeks after starting amitriptyline therapy for depression. She stopped taking the medication, but then noticed the onset of jaundice several days later. She had no previous history of liver disease or exposures to hepatitis and drank no alcohol. Her only other medication was flurazepam. On examination, she was jaundiced but had no fever or rash. Total bilirubin was 8.0 mg/dL and serum alkaline phosphatase and AST levels were elevated (Table). These tests had been normal shortly before she started taking amitripyline. Tests for hepatitis B and autoantibodies were negative and a liver scan was normal. She had eosinophilia which had been documented on routine blood counts taken 2 and 3 weeks after starting amitriptyline. Her jaundice and abnormal liver tests resolved over the following six weeks and her depression was managed using electrotherapy.</p>
+          <sec id="Amitriptyline.Key_Points2">
+            <title>Key Points</title>
+            <table-wrap id="Amitriptyline.T3" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Amitriptyline.T3_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Amitriptyline</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Amitriptyline.T3_1_1_1_1" id="hd_b_Amitriptyline.T3_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Amitriptyline.T3_1_1_1_1" rowspan="1" colspan="1">Cholestatic (R=0.8)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Amitriptyline.T3_1_1_1_1" id="hd_b_Amitriptyline.T3_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Amitriptyline.T3_1_1_2_1" rowspan="1" colspan="1">3+ (jaundice, hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Amitriptyline.T3_1_1_1_1" id="hd_b_Amitriptyline.T3_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Amitriptyline.T3_1_1_3_1" rowspan="1" colspan="1">4 weeks</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Amitriptyline.T3_1_1_1_1" id="hd_b_Amitriptyline.T3_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Amitriptyline.T3_1_1_4_1" rowspan="1" colspan="1">6 weeks</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Amitriptyline.T3_1_1_1_1" id="hd_b_Amitriptyline.T3_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Amitriptyline.T3_1_1_5_1" rowspan="1" colspan="1">Flurazepam</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Amitriptyline.Laboratory_Values2">
+            <title>Laboratory Values</title>
+            <table-wrap id="Amitriptyline.T4" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Amitriptyline.T4_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Amitriptyline.T4_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Amitriptyline.T4_1_1_1_3" rowspan="1" colspan="1">AST (U/L)</th>
+                    <th id="hd_h_Amitriptyline.T4_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Amitriptyline.T4_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Amitriptyline.T4_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_1" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_2" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_3" rowspan="1" colspan="1">10</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_4" rowspan="1" colspan="1">35</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_5" rowspan="1" colspan="1">0.5</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_6" rowspan="1" colspan="1">Eosinophils 2%</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_1" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_3" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_6" rowspan="1" colspan="1">Eosinophils 33%</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_1" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_3" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_6" rowspan="1" colspan="1">Eosinophils 16%</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_1 hd_h_Amitriptyline.T4_1_1_1_2 hd_h_Amitriptyline.T4_1_1_1_3 hd_h_Amitriptyline.T4_1_1_1_4 hd_h_Amitriptyline.T4_1_1_1_5 hd_h_Amitriptyline.T4_1_1_1_6" colspan="6" rowspan="1">Amitriptyline stopped because of pruritus</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_1" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_3" rowspan="1" colspan="1">44</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_4" rowspan="1" colspan="1">170</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_5" rowspan="1" colspan="1">8.0</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_6" rowspan="1" colspan="1">Eosinophils 10%</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_1" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_2" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_3" rowspan="1" colspan="1">110</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_4" rowspan="1" colspan="1">150</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_5" rowspan="1" colspan="1">8.1</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_6" rowspan="1" colspan="1">Eosinophils 7%</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_1" rowspan="1" colspan="1">6.5 weeks</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_2" rowspan="1" colspan="1">1.5 weeks</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_3" rowspan="1" colspan="1">58</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_4" rowspan="1" colspan="1">140</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_5" rowspan="1" colspan="1">6.0</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_1" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_2" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_3" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_5" rowspan="1" colspan="1">5.0</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_1" rowspan="1" colspan="1">11 weeks</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_2" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_3" rowspan="1" colspan="1">53</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_5" rowspan="1" colspan="1">1.3</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_1" rowspan="1" colspan="1">7 months</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_2" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_3" rowspan="1" colspan="1">45</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_4" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_5" rowspan="1" colspan="1">1.0</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_1 hd_h_Amitriptyline.T4_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Value</bold>
+</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;40</bold>
+</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;85</bold>
+</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Amitriptyline.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Amitriptyline.Comment2">
+            <title>Comment</title>
+            <p>The latency of 3 to 4 weeks and cholestatic features are typical of tricyclic induced liver injury. The detection of marked eosinophilia during the first few weeks of therapy suggests a hypersensitivity reaction, but there was no rash or fever. Resolution of cholestatic hepatitis is usually slower than that of acute hepatocellular injury of similar severity.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Amitriptyline.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Amitriptyline.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Amitriptyline &#x02013; Elavil&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Antidepressant Agents</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=amitriptyline">COMPLETE LABELING</ext-link>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Amitriptyline.CHEMICAL_FORMULA_AND_STRUC">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Amitriptyline.T5" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Amitriptyline.T5_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Amitriptyline.T5_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Amitriptyline.T5_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Amitriptyline.T5_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Amitriptyline.T5_1_1_1_1" rowspan="1" colspan="1">Amitriptyline</td>
+                <td headers="hd_h_Amitriptyline.T5_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134971346">50-48-6</ext-link>
+</td>
+                <td headers="hd_h_Amitriptyline.T5_1_1_1_3" rowspan="1" colspan="1">C20-H23-N</td>
+                <td headers="hd_h_Amitriptyline.T5_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Amitriptyline.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Image of Amitriptyline Chemical Structure</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Amitriptyline.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 01 March 2016</p>
+        <ref-list id="Amitriptyline.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Amitriptyline.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Tricyclic antidepressants. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 495-8.<annotation><p><italic toggle="yes">(Expert review of hepatotoxicity published in 1999; hepatic injury caused by tricyclic antidepressants is less frequent and less consistent than with monamine oxidase inhibitors).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R2">
+            <mixed-citation publication-type="other">Larrey D, Ripault MP. Hepatotoxicity of psychotropic drugs and drugs of abuse. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 443-62.<annotation><p><italic toggle="yes">(Review of tricylic antidepressant hepatotoxicity; serum enzyme elevations arise in 10% of amitriptyline treated patients; the prevalence of clinical hepatitis is low; the pattern of liver enzyme elevations varies; latency ranges from 1 week to 10 months; immunoallergic features are common).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R3">
+            <mixed-citation publication-type="other">O'Donnell JM, Shelton RC. Drug therapy of depression and anxiety disorders. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 397-416.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R4">
+            <mixed-citation publication-type="journal">Holmberg MB, Jansson B. A study of blood count and serum transaminases in prolonged treatment with amitriptyline. J New Drugs 1962; 2: 361-5. <annotation><p><italic toggle="yes">(Prospective monitoring in 100 patients on amitriptyline for up to one year; 38% had mild eosinophilia [all &#x0003c;10%]; ALT elevations occurred in 10%, but highest value was 77 U/L, which was less than twice normal).</italic></p></annotation><pub-id pub-id-type="pmid">1396401</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R5">
+            <mixed-citation publication-type="journal">Klerman GL, Cole JO. Clinical pharmacology of imipramine and related antidepressant compounds. Pharmacol Rev 1965; 17: 101-41. <annotation><p><italic toggle="yes">(Extensive review of structure, pharmacology, clinical effects, mechanisms of action, drug interactions, and side effects of tricyclic antidepressants; jaundice occurs in 0.5 to 1% of treated persons and usually resolves rapidly with stopping).</italic></p></annotation><pub-id pub-id-type="pmid">14294030</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R6">
+            <mixed-citation publication-type="journal">Cunningham ML. Acute hepatic necrosis following treatment with amitriptyline and diazepam. Br J Psychiatry 1965; 111: 1107-9. <annotation><p><italic toggle="yes">(54 year old woman developed drowsiness and confusion followed by jaundice 6 months after starting amitriptyline and diazepam [bilirubin 5.2 mg/dL, ALT 220 U/L, Alk P 95 U/L], with progressive coma and death 1 week later, autopsy showing massive necrosis).</italic></p></annotation><pub-id pub-id-type="pmid">5841222</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R7">
+            <mixed-citation publication-type="journal">Biagi RW, Bapat BN. Intrahepatic obstructive jaundice from amitriptyline. Br J Psychiatry 1967; 113: 1113-4. <annotation><p><italic toggle="yes">(Woman of unstated age developed jaundice and pruritus 7 months after starting amitriptyline [bilirubin 3.8 rising to 12.0 mg/dL, ALT 14 U/L, Alk P 2 times ULN], resolving within 2 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">6057380</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R8">
+            <mixed-citation publication-type="journal">Kramp JL. Glutamic pyruvic acid transaminases during treatment with amitriptyline and imipramine. Acta Psychiatr Scand 1967; 43: 1-7. <annotation><p><italic toggle="yes">(ALT was elevated in 4 of 149 patients treated with amitriptyline or imipramine, but peak value was only 100 U/L).</italic></p></annotation><pub-id pub-id-type="pmid">6059707</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R9">
+            <mixed-citation publication-type="journal">Morgan DH. Jaundice associated with amitriptyline. Br J Psychiatry 1969; 115: 105-6. <annotation><p><italic toggle="yes">(2 men and 1 woman, ages 40, 45 and 24 years, developed jaundice 14, 3 and 10 weeks after starting amitriptyline [bilirubin 42, 1.6 and 13.2 mg/dL, ALT 96, 40 and 800 U/L, Alk P 1-3 times ULN], 2 recovered and 1 died; one had recurrence 8 days after restarting).</italic></p></annotation><pub-id pub-id-type="pmid">5781951</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R10">
+            <mixed-citation publication-type="journal">Clarke AE, Maritz VM, Denborough MA. Phenothiazines and jaundice. Aust N Z J Med 1972; 2: 376-82. <annotation><p><italic toggle="yes">(Chlorpromazine and amitriptyline cause precipitation of proteins when added to human bile in vitro and hepatotoxicity of these agents may relate to this characteristic).</italic></p></annotation><pub-id pub-id-type="pmid">4144624</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R11">
+            <mixed-citation publication-type="journal">Yon J, Anuras S. Hepatitis caused by amitriptyline therapy. JAMA 1975; 232: 833-4. <annotation><p><italic toggle="yes">(23 year old man developed liver test abnormalities 8 months after starting amitriptyline [bilirubin normal, ALT 80 U/L, Alk P 270 U/L], resolving rapidly upon stopping and recurring 8 days after restarting [ALT 240 U/L, Alk P 270 U/L]).</italic></p></annotation><pub-id pub-id-type="pmid">1173187</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R12">
+            <mixed-citation publication-type="journal">Fiori MG. Tricyclic antidepressants: a review of their toxicology. Curr Dev Psychopharmacol 1977; 4: 71-110. <annotation><p><italic toggle="yes">(Review of cardiac, hepatic, neurological, fetal and psychotoxicity of tricyclic antidepressants; most cases of hepatotoxicity have been attributed to hypersensitivity, but tricyclics are taken up and extensively metabolized by hepatocytes).</italic></p></annotation><pub-id pub-id-type="pmid">340145</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R13">
+            <mixed-citation publication-type="journal">Anderson BN, Henrikson IR. Jaundice and eosinophilia associated with amitriptyline. J Clin Psychiatry 1978; 39: 730-1. <annotation><p><italic toggle="yes">(55 year old woman developed pruritic rash and jaundice 3 weeks after starting amitriptyline [bilirubin 8.0 mg/dL, ALT 77 U/L, Alk P 170, 10% eosinophilia], resolving rapidly upon stopping: Case 2).</italic></p></annotation><pub-id pub-id-type="pmid">690091</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R14">
+            <mixed-citation publication-type="journal">Giller EL Jr, Bialos DS, Docherty JP, Jatlow P, Harkness L. Chronic amitriptyline toxicity. Am J Psychiatry 1979; 136: 458-9. <annotation><p><italic toggle="yes">(54 year old woman with cirrhosis had high amitriptyline levels and recurrent anticholinergic symptoms when treated with it, perhaps due to impaired hepatic metabolism).</italic></p></annotation><pub-id pub-id-type="pmid">426118</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R15">
+            <mixed-citation publication-type="journal">D&#x000f8;ssing M, Andreasen PB. Drug-induced liver disease in Denmark. An analysis of 572 cases of hepatotoxicity reported to the Danish Board of Adverse Reactions to Drugs. Scand J Gastroenterol 1982; 17: 205-11. <annotation><p><italic toggle="yes">(Among 572 cases of drug induced liver disease seen between 1968-78 in Denmark, psychotropic agents accounted for 93 cases, 54 of which were due to chlorpromazine; tricyclics not specifically mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">6982502</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R16">
+            <mixed-citation publication-type="journal">Danan G, Bernuau J, Moullot X, Degott C, Pessayre D. Amitriptyline-induced fulminant hepatitis. Digestion 1984; 30: 179-84. <annotation><p><italic toggle="yes">(51 year old woman developed jaundice and fever 2 months after starting amitriptyline [peak bilirubin 9.4 mg/dL, ALT 27 times ULN, Alk P normal], resolving within 2 months of stopping and recurring 14 days after restarting with acute liver failure and peak bilirubin 23.8 mg/dL, with slow but complete recovery over next 4 months: Case 1).</italic></p></annotation><pub-id pub-id-type="pmid">6500194</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R17">
+            <mixed-citation publication-type="journal">Larrey D, Rueff B, Pessayre D, Algard M, Geneve J, Benhamou JP. Cross hepatotoxicity between tricyclic antidepressants. Gut 1986; 87-90. <annotation><p><italic toggle="yes">(39 year old woman developed abdominal pain 2 weeks after starting amineptine [a tricyclic antidepressant] with fever and eosinophilia [bilirubin 1.2 mg/dL, ALT 1360 U/L, Alk P 1.5 times ULN], resolving rapidly upon stopping and recurring 7 days after starting clomipramine [another tricyclic] [ALT 1050 U/L, Alk P 1.5 times ULN], again resolving rapidly upon stopping).</italic></p></annotation><pub-id pub-id-type="pmid">3721296</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R18">
+            <mixed-citation publication-type="journal">Geneve J, Larrey D, Pessayre D, Benhamou JP. Structure tricyclique des medicaments et hepatotoxicite. Gastroenterol Clin Biol 1987; 11: 242-9. <annotation><p><italic toggle="yes">(Review of structural similarity and hepatotoxicity of tricyclic antidepressants focusing on amineptine, imipramine and amitriptyline).</italic></p></annotation><pub-id pub-id-type="pmid">2884161</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R19">
+            <mixed-citation publication-type="journal">Larrey D, Amouyal G, Pessayre D, Degott C, Danne O, Machayekhi JP, Feldmann G, et al. Amitriptyline-induced prolonged cholestasis. Gastroenterology 1988; 94: 200-3. <annotation><p><italic toggle="yes">(37 year old man developed jaundice 5 weeks after starting amitriptyline [bilirubin 5.9 mg/dL, ALT 6.5 times ULN, Alk P 1.3 times ULN]; the drug was continued and bilirubin peaked at 23.4 mg/dL with 8% eosinophils and subsequent prolonged jaundice and pruritus [19-20 months] and ductopenia on liver biopsy).</italic></p></annotation><pub-id pub-id-type="pmid">3335290</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R20">
+            <mixed-citation publication-type="journal">Brems JJ, Merenda GO, Hayek ME, Kane RE, Flynn MF, Kaminski DL. Orthotopic liver transplantation resulting in amitriptyline toxicity in the recipient. Transplantation 1989; 48: 159-61. <annotation><p><italic toggle="yes">(Transplantation of liver from a donor with fatal amitriptyline overdose, followed by acute hepatic failure in the recipient who recovered with retransplantation). </italic></p></annotation><pub-id pub-id-type="pmid">2665225</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R21">
+            <mixed-citation publication-type="journal">Pirmohamed MKL, Kittringham NR, Parkl BK. Idiosyncratic reactions to antidepressants : a review of the possible mechanism and predisposing factors. Pharm Ther 1992; 53: 105-25. <annotation><p><italic toggle="yes">(Review of idiosyncratic reactions to antidepressants; possible mechanism of injury being production of a chemically reactive metabolite that is either directly toxic or induces a hypersensitivity reaction).</italic></p></annotation><pub-id pub-id-type="pmid">1641399</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R22">
+            <mixed-citation publication-type="journal">Berson A, Fr&#x000e9;neaux E, Larrey D, Lepage V, Douay C, Mallet C. Possible role of HLA in hepatotoxicity. An exploratory study. J Hepatol 1994; 20: 336-42. <annotation><p><italic toggle="yes">(Human leukocyte antigen [HLA] haplotypes done on 71 patients with drug induced liver disease, 12 due to tricyclics including 7 amineptine, 3 amitriptyline and 2 clomipramine; 6 [50%] had HLA A11 including 2 of the 3 amitriptyline cases; 12% in controls).</italic></p></annotation><pub-id pub-id-type="pmid">8014443</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R23">
+            <mixed-citation publication-type="journal">Remy AL, Larrey D, Pageaux GP, Desprez D, Ramos J, Michel H. Cross hepatotoxicity between tricyclic antidepressants and phenothiazines. Eur J Gastroenterol 1995; 7: 373-6. <annotation><p><italic toggle="yes">(65 year old woman developed fatigue and serum enzyme elevations [ALT ~1300 U/L; Alk P ~380 U/L] 1 month after starting trimipramine; 3 years later she developed nausea and ALT elevations 10 days after starting desipramine [ALT ~250 U/L], and 2 years later developed abdominal pain and fever and enzyme elevations [ALT ~1100 U/L, Alk P ~510 U/L] 8 days after starting cyamemazine; each time with rapid recovery and no jaundice).</italic></p></annotation><pub-id pub-id-type="pmid">7600146</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R24">
+            <mixed-citation publication-type="journal">Grohmann R, R&#x000fc;ther E, Engel RR, Hippius H. Assessment of adverse drug reactions in psychiatric inpatients with the AMSP drug safety program: methods and first results for tricyclic antidepressants and SSRIs. Pharmacopsychiatry 1999; 32: 21-8. <annotation><p><italic toggle="yes">(Analysis of reporting of adverse events among inpatients in 29 German hospitals between 1993 to 1997; among 48,564 patients, severe adverse events were reported in 896 [1.8%], both total and hepatic events were more common with tricyclics than SSRIs).</italic></p></annotation><pub-id pub-id-type="pmid">10071179</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R25">
+            <mixed-citation publication-type="journal">Randeva HS, Bangar V, Sailesh S, Hillhouse EW. Fatal cholestatic jaundice associated with amitriptyline. Int J Clin Pract 2000; 54: 405-6. <annotation><p><italic toggle="yes">(75 year old woman developed fatigue and jaundice 4 months after starting amitriptyline [bilirubin 3.2 mg/dL, ALT 42 U/L, Alk P 400 U/L], progressing to fatal hepatic failure despite stopping drug promptly).</italic></p></annotation><pub-id pub-id-type="pmid">11092117</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R26">
+            <mixed-citation publication-type="journal">Milionis HJ, Skopelitou A, Elisaf MS. Hypersensitivity syndrome caused by amitriptyline administration. Postgrad Med J 2000; 76: 361-3. <annotation><p><italic toggle="yes">(24 year old woman developed rash and fever 3 weeks after starting amitriptyline with erythroderma and lymphadenopathy [bilirubin normal, ALT 103 U/L, Alk P normal, 25% eosinophilia], resolving on corticosteroids within 1 month of stopping amitriptyline).</italic></p></annotation><pub-id pub-id-type="pmid">10824052</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R27">
+            <mixed-citation publication-type="journal">Carvajal Garc&#x000ed;a-Pando A, Garc&#x000ed;a del Pozo J, S&#x000e1;nchez AS, Velasco MA, Rueda de Castro AM, Lucena MI. Hepatotoxicity associated with the new antidepressants. J Clin Psychiatry 2002; 63: 135-7. <annotation><p><italic toggle="yes">(Analysis of cases of hepatotoxicity from antidepressants in Spanish Pharmacovigilance System from 1989-1999, identified 99 cases; among SSRIs, 26 due to fluoxetine, 14 paroxetine, 6 fluvoxamine, 5 sertraline, 3 venlafaxine and 2 citalopram; among tricyclics, 16 clomipramine 7 amitriptyline, 6 imipramine; among miscellaneous, 3 nefazodone and 1 trazodone; but all similar in rate ~1-3 per 100,000 patient-years of exposure, except for nefazodone=29/100,000).</italic></p></annotation><pub-id pub-id-type="pmid">11874214</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R28">
+            <mixed-citation publication-type="journal">Milkiewicz P, Chilton AP, Hubscher SG, Elias E. Antidepressant induced cholestasis: hepatocellular redistribution of multidrug resistant protein (MRP2). Gut 2003; 52: 300-3. <annotation><p><italic toggle="yes"> (Two cases of cholestasis; 30 year old woman with jaundice 8 weeks after starting citalopram [bilirubin 4.4 mg/dL, AST 33 U/L, Alk P 637 U/L], resolving within 2 months of stopping; 63 year old man developed jaundice 3 months after starting dothiepin [a tricyclic antidepressant] [bilirubin 9.4 mg/dL, AST 40 U/L, Alk P 600 U/L], resolving on corticosteroids within 3 months of stopping and later tolerating fluoxetine for 12 months, but redeveloping jaundice after 2 months of paroxetine [bilirubin 15.2 mg/dL, AST 36 U/L, Alk P 544 U/L], resolving slowly by 6 months after stopping).</italic></p></annotation><pub-id pub-id-type="pmid">12524417</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R29">
+            <mixed-citation publication-type="journal">Lucena M, Carvajal A, Andrade R, Velasco A. Antidepressant-induced hepatotoxicity. Expert Opin Drug Saf 2003; 2: 249-62. <annotation><p><italic toggle="yes">(Review of hepatotoxicity of antidepressants; antidepressant use has increased markedly between 1992 and 2002, accounting for 5% of cases of hepatotoxicity; tricyclics less likely to cause injury than MAO inhibitors; predominantly cholestatic patterns with onset in first 2-3 weeks; occasional reports of prolonged cholestasis).</italic></p></annotation><pub-id pub-id-type="pmid">12904104</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R30">
+            <mixed-citation publication-type="journal">Degner D, Grohmann R, Kropp S, R&#x000fc;ther E, Bender S, Engel RR, Schmidt LG. Severe adverse drug reactions of antidepressants: results of the German multicenter drug surveillance program AMSP. Pharmacopsychiatry 2004; 37 Suppl 1: S39-45. <annotation><p><italic toggle="yes">(53,042 patients treated with antidepressants in 35 psychiatric hospitals in Germany from 1993-2000 were monitored for adverse drug reactions; increased liver enzymes reported in 16% on tricyclics, 5.5% on SSRIs and 12% of monamine oxidase inhibitors).</italic></p></annotation><pub-id pub-id-type="pmid">15052513</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R31">
+            <mixed-citation publication-type="journal">Sabat&#x000e9; M, Ib&#x000e1;&#x000f1;ez L, P&#x000e9;rez E, Vidal X, Buti M, Xiol X, Mas A, et al. Risk of acute liver injury associated with the use of drugs: a multicentre population survey. Aliment Pharmacol Ther 2007; 25: 1401-9. <annotation><p><italic toggle="yes">(Among 126 cases of drug induced liver injury seen in Spain between 1993-2000, 3 were due to amitriptyline with a relative risk of 14.2: estimated frequency of 6 per 100,000 person-year exposures).</italic></p></annotation><pub-id pub-id-type="pmid">17539979</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R32">
+            <mixed-citation publication-type="journal">DeSanty KP, Amabile CM. Antidepressant-induced liver injury. Ann Pharmacother 2007; 41: 1201-11. <annotation><p><italic toggle="yes">(Review of drug induced liver injury and summary analysis of reports of injury from MAO inhibitors, SSRIs, tricyclics and atypical agents).</italic></p></annotation><pub-id pub-id-type="pmid">17609231</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R33">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes"> (Among 300 cases of drug induced liver disease in the US collected from 2004 to 2008, only 1 case was attributed to amitriptyline, no other tricyclic mentioned).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R34">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug induced liver injury, but none were linked to amitriptyline).</italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R35">
+            <mixed-citation publication-type="journal">Molleston JP, Fontana RJ, Lopez MJ, Kleiner DE, Gu J, Chalasani N; Drug-induced Liver Injury Network. Characteristics of idiosyncratic drug-induced liver injury in children: results from the DILIN prospective study. J Pediatr Gastroenterol Nutr 2011; 53: 182-9. <annotation><p><italic toggle="yes">(Among 30 children with suspected drug induced liver injury, half [n=15] were due to antimicrobials [minocycline 4, INH 3, azithromycin 3] and the rest largely due to anticonvulsants and CNS agents; one case was attributed to amitriptyline).</italic></p></annotation><pub-id pub-id-type="pmid">21788760</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R36">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, Presentation and Outcomes in Patients with Drug-Induced Liver Injury in the General Population of Iceland. Gastroenterology 2013; 144: 1419-25. <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, none of which were attributed to amitriptyline or other tricyclic antidepressant).</italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R37">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes">(Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, at least one case of which was attributed to amitriptyline).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Amitriptyline.R38">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 20 cases [2%] were attributed to antidepressants, but only one to a tricyclic - imipramine).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Amitriptyline.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(amitriptyline)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Amitriptyline: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=amitriptyline">Trials on Amitriptyline: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

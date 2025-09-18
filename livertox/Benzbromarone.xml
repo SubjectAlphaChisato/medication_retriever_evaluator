@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Benzbromarone" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Benzbromarone</book-part-id>
+      <title-group>
+        <title>Benzbromarone</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>5</day>
+          <month>9</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Benralizumab" document-type="chapter">Benralizumab</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Benznidazole" document-type="chapter">Benznidazole</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Benzbromarone.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Benzbromarone.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Benzbromarone is a nonpurine xanthine oxidase inhibitor used for the treatment of gout, but never approved for use in the United States because of concerns over reports of acute liver injury and deaths with its use.</p>
+        </sec>
+        <sec id="Benzbromarone.Background">
+          <title>Background</title>
+          <p>Benzbromarone (benz broe' ma rone) is a nonpurine inhibitor of xanthine oxidase that shares no structural homology to allopurinol or to hypoxanthine, but rather is a structural homologue of amiodarone and dronedarone. Therapy leads to lowering of serum uric acid levels within a few weeks, and chronic therapy has been shown to decrease uric acid levels into target levels of less than 6 mg/dL and to decrease acute gouty attacks. Benzbromarone was approved for use in Europe and Asia, but was not licensed in the United States because of concerns over hepatotoxicity. Benzbromarone was withdrawn by its sponsor in 2003 because of continuing concerns over hepatotoxicity.</p>
+        </sec>
+        <sec id="Benzbromarone.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>Liver test abnormalities have been reported to occur rarely during benzbromarone therapy, in only 0.1% of patients in clinical trials. Furthermore, it was used widely for many years without reports of hepatotoxicity until the late 1980s, after which several cases of acute liver injury and acute liver failure during benzbromarone therapy were published. Hepatic injury arises after 1 to 6 months of therapy presenting with jaundice and fatigue, usually with a hepatocellular pattern of enzyme elevations. Immunoallergic symptoms (rash, fever) are uncommon. Low levels of autoantibodies have been reported in some cases with liver histology demonstrating chronic active hepatitis, particularly if benzbromarone is not stopped promptly. Upon stopping therapy, resolution is typically within 1 to 3 months. The hepatic injury from benzbromarone is similar to that reported with benzarone, a structurally related drug that was used for peripheral vascular disease, but also withdrawn also because of concerns over hepatotoxicity.</p>
+          <p>Likelihood score: B (highly likely but rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Benzbromarone.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of benzbromarone hepatotoxicity is believed to be due to its hepatic metabolism by CYP 2C9 and possible effects of the parent compound or its metabolites on mitochondrial function. Benzbromarone is a benzofuran and shares structural similarities with benzarone and amiodarone, all three of which affect mitochondrial function.</p>
+        </sec>
+        <sec id="Benzbromarone.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>Acute cases of benzbromarone and benzarone hepatotoxicity have varied in severity, but a high proportion of cases developed acute liver failure leading to death or emergency liver transplantation. Chronic liver injury and vanishing bile duct syndrome related to these agents have not been reported. Recurrence is common and can be severe with rechallenge which should be avoided.</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="AntiGoutAgents">Antigout Agents</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Benzbromarone.CHEMICAL_FORMULAS_AND_STRU">
+        <title>CHEMICAL FORMULAS AND STRUCTURES</title>
+        <table-wrap id="Benzbromarone.T1" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Benzbromarone.T1_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Benzbromarone.T1_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Benzbromarone.T1_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Benzbromarone.T1_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Benzbromarone.T1_1_1_1_1" rowspan="1" colspan="1">Benzbromarone</td>
+                <td headers="hd_h_Benzbromarone.T1_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134984413">3562-84-3</ext-link>
+</td>
+                <td headers="hd_h_Benzbromarone.T1_1_1_1_3" rowspan="1" colspan="1">C17-H12-Br2-O3</td>
+                <td headers="hd_h_Benzbromarone.T1_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Benzbromarone_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Benzbromarone chemical structure</alt-text></graphic>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Benzbromarone.T1_1_1_1_1" align="center" rowspan="1" colspan="1">Amiodarone</td>
+                <td headers="hd_h_Benzbromarone.T1_1_1_1_2" align="center" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134981709">1951-25-3</ext-link>
+</td>
+                <td headers="hd_h_Benzbromarone.T1_1_1_1_3" align="center" rowspan="1" colspan="1">C25-H29-12-N-O3</td>
+                <td headers="hd_h_Benzbromarone.T1_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Amiodarone_Structure_000.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Amiodarone chemical structure</alt-text></graphic>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Benzbromarone.T1_1_1_1_1" rowspan="1" colspan="1">Benzarone</td>
+                <td headers="hd_h_Benzbromarone.T1_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://134980853">1477-19-6</ext-link>
+</td>
+                <td headers="hd_h_Benzbromarone.T1_1_1_1_3" rowspan="1" colspan="1">C17-H14-O3</td>
+                <td headers="hd_h_Benzbromarone.T1_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="benzarone_structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"/>
+</td>
+              </tr>
+              <tr>
+                <td headers="hd_h_Benzbromarone.T1_1_1_1_1" rowspan="1" colspan="1">Dronedarone</td>
+                <td headers="hd_h_Benzbromarone.T1_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135184552">141626-36-0</ext-link>
+</td>
+                <td headers="hd_h_Benzbromarone.T1_1_1_1_3" rowspan="1" colspan="1">C31-H45-CIN2-O5-S</td>
+                <td headers="hd_h_Benzbromarone.T1_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="dronedarone_structure2.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Benzbromarone.ANNOTATED_BIBLIOGRAPHY_Ben">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 05 September 2017</p>
+        <ref-list id="Benzbromarone.ANNOTATED_BIBLIOGRAPHY_Ben.reflist0">
+          <ref id="Benzbromarone.R1">
+            <mixed-citation publication-type="other">Grosser T, Smyth E, FitzGerald GA. Pharmacology of gout. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman's the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 994-1004.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Benzbromarone.R2">
+            <mixed-citation publication-type="journal">Babany G, Larrey D, Pessayre D, Degott C, Rueff B, Benhamou JP. Chronic active hepatitis caused by benzarone. J Hepatol 1987; 5: 332-5. <annotation><p><italic toggle="yes">(61 year old woman developed jaundice after more than a year of benzarone therapy [bilirubin 4.4 mg/dL, ALT 38 times ULN, Alk P 1.5 times ULN], with recovery on stopping, but patient started medication again on her own twice, each time redeveloping jaundice; liver biopsy showed bridging fibrosis and chronic hepatitis; eventually recovered completely; SMA 1:500 but ANA negative).</italic></p></annotation><pub-id pub-id-type="pmid">3429840</pub-id></mixed-citation>
+          </ref>
+          <ref id="Benzbromarone.R3">
+            <mixed-citation publication-type="journal">Nakad A, Azzouzi K, Gerbaux A, Delcourt A, Sempoux C, Tamo F, Rahier J, Geubel AP. [Hepatitis due to benzarone: a second case] Gastroenterol Clin Biol 1990; 14: 782-4. <annotation><p><italic toggle="yes">(70 year old woman developed jaundice 1 month after starting benzarone [a benzofurane used for peripheral vascular disease and available in France since 1964] with bilirubin 6 mg/dL, ALT 400 U/L, Alk P 415 U/L; positive rechallenge after another month of therapy with bilirubin rising to 7.1 mg/dL, ALT 1015 U/L, Alk P 392 U/L, slow recovery).</italic></p></annotation><pub-id pub-id-type="pmid">2262129</pub-id></mixed-citation>
+          </ref>
+          <ref id="Benzbromarone.R4">
+            <mixed-citation publication-type="journal">Sepulchre D, De Plaen JL, Geubel AP. [Drug-induced hepatitis due to benzarone (Fragivix): apropos of a clinical case report] Acta Gastroenterol Belg 1990; 53: 499-503. <annotation><p><italic toggle="yes">(46 year old woman developed fatigue and jaundice one month after starting benzarone [bilirubin 11.3 mg/dL, ALT 1340 U/L, Alk P 400 U/L], resolution in several months; recurrence 14 days after restarting [bilirubin 16 mg/dL, ALT 1012 U/L, Alk P 157 U/L and hyperglobulinemia], resolving within 2 months of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">2130580</pub-id></mixed-citation>
+          </ref>
+          <ref id="Benzbromarone.R5">
+            <mixed-citation publication-type="journal">van der Klauw MM, Houtman PM, Stricker BH, Spoelstra P. Hepatic injury caused by benzbromarone. J Hepatol 1994; 20: 376-9. <annotation><p><italic toggle="yes">(68 year old woman developed malaise and jaundice 3 months after switching from allopurinol to benzbromarone [bilirubin 4.9 mg/dL, ALT 793 U/L, Alk P 217 U/L], full recovery and positive rechallenge 6 weeks after restarting therapy).</italic></p></annotation><pub-id pub-id-type="pmid">8014449</pub-id></mixed-citation>
+          </ref>
+          <ref id="Benzbromarone.R6">
+            <mixed-citation publication-type="journal">Gehenot M, Horsmans Y, Rahier J, Geubel AP. Subfulminant hepatitis requiring liver transplantation after benzarone administration. J Hepatol 1994; 20: 842. <annotation><p><italic toggle="yes">(62 year old woman developed jaundice and fatigue 10 weeks after starting benzarone therapy for venous insufficiency [bilirubin 2.1 rising to 8.0 mg/dL, ALT 160 rising to 3792 U/L], with subsequent hepatic failure and death, autopsy showing confluent necrosis).</italic></p></annotation><pub-id pub-id-type="pmid">7930488</pub-id></mixed-citation>
+          </ref>
+          <ref id="Benzbromarone.R7">
+            <mixed-citation publication-type="journal">Hautekeete ML, Henrion J, Naegels S, deNeve A, Alder M, Deprez C, Devis G, Kloppel G. Severe hepatotoxicity related to benzarone: a report of three cases with two fatalities. Liver 1995; 15: 25-9. <annotation><p><italic toggle="yes">(2 women and 1 man, ages 35, 67 and 68 years, developed jaundice 1.5-5 months after starting benzarone for peripheral vascular disease [bilirubin 4.6-29 mg/dL, ALT 819-1810 U/L, Alk P 164-282 U/L]; 1 died, 1 transplanted, 1 developed cirrhosis).</italic></p></annotation><pub-id pub-id-type="pmid">7776854</pub-id></mixed-citation>
+          </ref>
+          <ref id="Benzbromarone.R8">
+            <mixed-citation publication-type="journal">Wagayama H, Shiraki K, Sugimoto K, et al. Fatal fulminant hepatic failure associated with benzbromarone. J Hepatol 2000; 32: 874. <annotation><p><italic toggle="yes">(62 year old man developed jaundice 5 months after starting benzbromarone with bilirubin rising to 31.2 mg/dL, AST 1369 U/L, progressing to hepatic failure and death; lymphocyte stimulation test negative).</italic></p></annotation><pub-id pub-id-type="pmid">10845680</pub-id></mixed-citation>
+          </ref>
+          <ref id="Benzbromarone.R9">
+            <mixed-citation publication-type="journal">Suzuki T, Suzuki T, Kimura M, Shinoda M, Fujita T, Miyake N, Yamamoto S, Tashiro K. A case of fulminant hepatitis, possibly caused by benzbromarone. Nippon Shokakibyo Gakkai Zasshi 1001; 98: 421-5. <annotation><p><italic toggle="yes">(58 year old man developed jaundice after 7 months of benzbromarone therapy [bilirubin 7.9 mg/dL, ALT 1168, Alk P 792 U/L], progressing to hepatic failure, lymphocyte stimulation test negative).</italic></p></annotation><pub-id pub-id-type="pmid">11400273</pub-id></mixed-citation>
+          </ref>
+          <ref id="Benzbromarone.R10">
+            <mixed-citation publication-type="journal">Arai M, Yokosuka O, Fujiwara K, Kojima H, Kanda T, Hirasawa H, Saisho H. Fulminant hepatic failure associated with benzbromarone treatment: a case report. J Gastroenterol Hepatol 2002; 17: 625-6. <annotation><p><italic toggle="yes">(53 year old woman developed jaundice 2 months after starting benzbromarone for hyperuricemia [bilirubin 23.3 mg/dL, ALT 1140 U/L and Alk P 123 U/L], with progressive downhill course despite stopping the medication; living donor liver transplantation done and explant showed massive necrosis).</italic></p></annotation><pub-id pub-id-type="pmid">12084041</pub-id></mixed-citation>
+          </ref>
+          <ref id="Benzbromarone.R11">
+            <mixed-citation publication-type="journal">Kaufmann P, Trk M, Hnni A, Roberts P, Gasser R, Krhenbhl S. Mechanisms of benzarone and benzbromarone-induced hepatic toxicity. Hepatology 2005; 41: 925-35. <annotation><p><italic toggle="yes">(In vitro studies showing effects of benzarone and benzbromarone on hepatic mitochondrial function, inhibiting beta-oxidation and uncoupling oxidative phosphorylation, causing hepatocellular apoptosis).</italic></p></annotation><pub-id pub-id-type="pmid">15799034</pub-id></mixed-citation>
+          </ref>
+          <ref id="Benzbromarone.R12">
+            <mixed-citation publication-type="journal">Lee MH, Graham GG, Williams KM, Day RO. A benefit-risk assessment of benzbromarone in the treatment of gout. Was its withdrawal from the market in the best interest of patients? Drug Saf 2008; 31: 643-65. <annotation><p><italic toggle="yes">(Benzbromarone was introduced in 1970s and available in ~20 countries, never in the US, withdrawn by sponsor in 2003 because of hepatotoxicity; among 11 published cases, 9 were fatal; estimated rate of hepatotoxicity 1:17,000; authors argue for its use in refractory gout).</italic></p></annotation><pub-id pub-id-type="pmid">18636784</pub-id></mixed-citation>
+          </ref>
+          <ref id="Benzbromarone.R13">
+            <mixed-citation publication-type="journal">Haring B, Kudlich T, Rauthe S, Melcher R, Geier A. Benzbromarone: a double-edged sword that cuts the liver? Eur J Gastroenterol Hepatol 2013; 25: 119-21. <annotation><p><italic toggle="yes">(77 year old woman developed jaundice 4 months after starting benzbromarone [bilirubin 9.5 mg/dL, ALT 1771 U/L, Alk P 194 U/L, ANA positive], with progressive hepatic failure and death 53 days after presentation). </italic></p></annotation><pub-id pub-id-type="pmid">23196726</pub-id></mixed-citation>
+          </ref>
+          <ref id="Benzbromarone.R14">
+            <mixed-citation publication-type="journal">Kumagai J, Kanda T, Yasui S, Haga Y, Sasaki R, Nakamura M, Wu S, et al. Autoimmune hepatitis following drug-induced liver injury in an elderly patient. Clin J Gastroenterol 2016; 9: 156-9. <annotation><p><italic toggle="yes">(77 year old Japanese man developed liver test abnormalities 8 months after starting benzbromarone for gout [bilirubin not given, ALT 353 U/L, Alk P 433 U/L] which worsened over the next several months while continuing therapy [bilirubin 4.3 mg/dL, albumin 2.2 g/dL], eventually developing weakness, ascites, elevated IgG [2636 mg/dL] and ANA [titer not given], with slow recovery on stopping benzbromarone and starting ursodiol and prednisone).</italic></p></annotation><pub-id pub-id-type="pmid">27170297</pub-id></mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Benzbromarone.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=Benzbromarone/AE+AND+Human%5BMH%5D+AND+(drug-induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI+OR+hepatitis,+toxic%5BMH%5D)+AND+(%222010/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Benzbromarone: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=Benzbromarone">Trials on Benzbromarone: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Pioglitazone" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Pioglitazone</book-part-id>
+      <title-group>
+        <title>Pioglitazone</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>6</day>
+          <month>6</month>
+          <year>2018</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Pindolol" document-type="chapter">Pindolol</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Piperacillin" document-type="chapter">Piperacillin</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Pioglitazone.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Pioglitazone.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Pioglitazone is an insulin sensitizing agent and thiazolidinedione that is indicated for the treatment of type 2 diabetes. Pioglitazone has been linked to rare instances of acute liver injury.</p>
+        </sec>
+        <sec id="Pioglitazone.Background">
+          <title>Background</title>
+          <p>Pioglitazone (pye" oh gli' ta zone) is a thiazolidinedione thought to act by engagement of PPAR-&#x003b3; receptors which induce multiple genes involved in glucose and fatty acid metabolism. In clinical trials, pioglitazone was found to lower blood glucose and HbA1c levels and had additive effects with the sulfonylureas and metformin. Pioglitazone was approved for use in the United States in 1999 and remains in wide use. Current indications for pioglitazone are as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes. While the initial thiazolidinedione approved for use &#x02013; troglitazone &#x02013; was associated with high rates of serum aminotransferase elevations and multiple reports of severe liver injury and death from acute liver failure, pioglitazone has been associated with only rare instances of clinically apparent liver injury. Pioglitazone is available in 15, 30 and 45 mg tablets generically and under the brand name Actos, and as a fixed combination with metformin (Actoplus Met and others) and with glimepiride (Duetact and others). The recommended dosage is 15 to 45 mg once daily. Pioglitazone is used as monotherapy as well as in combination with metformin, sulfonylureas or insulin. Common side effects of pioglitazone include weight gain and edema.</p>
+        </sec>
+        <sec id="Pioglitazone.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In contrast to troglitazone, pioglitazone is not associated with an increased frequency of aminotransferase elevations during therapy. In clinical trials, ALT elevations above 3 times the ULN occurred in only 0.26% of patients on pioglitazone, compared to 0.25% of placebo recipients (and 1.9% of troglitazone recipients in similar studies). In addition, clinically apparent liver injury attributed to pioglitazone is very rare, fewer than a dozen cases having been described in the literature despite extensive use of this agent. The liver injury usually arises between 1 and 6 months after starting therapy and all patterns of serum enzymes elevations have been described including hepatocellular, cholestatic and mixed. Allergic phenomena are rare and autoantibodies have not been typically present. Cases of acute liver failure attributed to pioglitazone have been reported, usually in association with a hepatocellular pattern of injury. In most instances, recovery is complete within 2 to 3 months.</p>
+          <p>Likelihood score: C (probable rare cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Pioglitazone.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The mechanism of liver injury due to pioglitazone is not known, but the general pattern and course differs somewhat from troglitazone and it is unlikely that the thiazolidinediones share a single mechanism for liver injury.</p>
+        </sec>
+        <sec id="Pioglitazone.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The liver injury from pioglitazone is usually reversed with stopping the medication. Fatal instances of acute liver injury due to pioglitazone have been reported, but are rare. Chronic liver disease and vanishing bile duct syndrome have not been associated with pioglitazone. There exists at least some cross sensitivity to liver injury among the different thiazolidinediones, so that patients with pioglitazone hepatotoxicity should avoid use of rosiglitazone.</p>
+          <p>References to safety and hepatotoxicity of pioglitazone are given together with references to rosiglitazone and troglitazone in the Overview section on the Thiazolidinediones (updated June 2018).</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="Antidiabetic">Antidiabetic Agents</related-object></p>
+          <p>Other Drugs in the Subclass, <related-object source-id="livertox" document-id="Thiazolidinediones">Thiazolidinediones</related-object>: <related-object source-id="livertox" document-id="Rosiglitazone">Rosiglitazone</related-object>, <related-object source-id="livertox" document-id="Troglitazone">Troglitazone</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Pioglitazone.CASE_REPORT">
+        <title>CASE REPORT</title>
+        <sec id="Pioglitazone.Case_1._Acute_liver_injury_">
+          <title>Case 1. Acute liver injury after 6 months of pioglitazone therapy.</title>
+          <p>[Modified from: May LD, Lefkowitch JH, Kram MT, Rubin DE. Mixed hepatocellular-cholestatic liver injury after pioglitazone therapy. Ann Intern Med 2002; 136: 449-52. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/11900497">PubMed Citation</ext-link>]</p>
+          <p>A 49 year old man with type 2 diabetes and poor control with glyburide and metformin was started on pioglitazone, which was slowly increased in dose. Six months later he developed jaundice and was found to have elevations in serum aminotransferase and alkaline phosphatase levels (Table). There was no fever, rash or eosinophilia. He had had intermittent nausea and abdominal discomfort during pioglitazone therapy, but liver tests were previously normal. He had no history of liver disease or risk factors for hepatitis. Tests for hepatitis A, B and C were negative as were autoantibodies. A liver biopsy showed cholestasis, portal inflammation and mild bile duct damage suggestive of mixed pattern of injury due to drug hepatotoxicity. Pioglitazone was stopped on admission and he improved rapidly, all tests becoming normal within the following 6 weeks.</p>
+          <sec id="Pioglitazone.Key_Points">
+            <title>Key Points</title>
+            <table-wrap id="Pioglitazone.T1" position="anchor" orientation="portrait">
+              <table>
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="1">Medication:</td>
+                    <td rowspan="1" colspan="1">Pioglitazone (15-45 mg daily for 6 months)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Pattern:</td>
+                    <td rowspan="1" colspan="1">Mixed (R=2.1)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Severity:</td>
+                    <td rowspan="1" colspan="1">3+ (jaundice and hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Latency:</td>
+                    <td rowspan="1" colspan="1">6 months</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Recovery:</td>
+                    <td rowspan="1" colspan="1">6 weeks</td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="1">Other medications:</td>
+                    <td rowspan="1" colspan="1">Metformin, glyburide, lisinopril and omeprazole chronically (continued during admission)</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Pioglitazone.Laboratory_Values">
+            <title>Laboratory Values</title>
+            <table-wrap id="Pioglitazone.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Pioglitazone.T2_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Pioglitazone.T2_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Pioglitazone.T2_1_1_1_3" rowspan="1" colspan="1">ALT* (U/L)</th>
+                    <th id="hd_h_Pioglitazone.T2_1_1_1_4" rowspan="1" colspan="1">Alk P* (U/L)</th>
+                    <th id="hd_h_Pioglitazone.T2_1_1_1_5" rowspan="1" colspan="1">Bilirubin* (mg/dL)</th>
+                    <th id="hd_h_Pioglitazone.T2_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_1" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_3" rowspan="1" colspan="1">30</td>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_4" rowspan="1" colspan="1">30</td>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_5" rowspan="1" colspan="1">0.6</td>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_1" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_3" rowspan="1" colspan="1">218</td>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_4" rowspan="1" colspan="1">312</td>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_5" rowspan="1" colspan="1">5.7</td>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_6" rowspan="1" colspan="1">Pioglitazone stopped</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_2" rowspan="1" colspan="1">3 days</td>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_3" rowspan="1" colspan="1">487</td>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_4" rowspan="1" colspan="1">617</td>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_5" rowspan="1" colspan="1">10.4</td>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_2" rowspan="1" colspan="1">7 days</td>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_3" rowspan="1" colspan="1">665</td>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_4" rowspan="1" colspan="1">251</td>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_5" rowspan="1" colspan="1">3.5</td>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_6" rowspan="1" colspan="1">Liver biopsy: mixed injury</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_1" rowspan="1" colspan="1">6.5 months</td>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_2" rowspan="1" colspan="1">17 days</td>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_3" rowspan="1" colspan="1">372</td>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_4" rowspan="1" colspan="1">36</td>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_5" rowspan="1" colspan="1">2.4</td>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_1" rowspan="1" colspan="1">7 months</td>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_2" rowspan="1" colspan="1">6 weeks</td>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_3" rowspan="1" colspan="1">30</td>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_4" rowspan="1" colspan="1">30</td>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_5" rowspan="1" colspan="1">0.6</td>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_1 hd_h_Pioglitazone.T2_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;40</bold>
+</td>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;116</bold>
+</td>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c; 1.2</bold>
+</td>
+                    <td headers="hd_h_Pioglitazone.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <p>* Values estimated from Figure 2 and converted to U/L and mg/dL.</p>
+          </sec>
+          <sec id="Pioglitazone.Comment">
+            <title>Comment</title>
+            <p>Liver injury first arose after six months of therapy and was not detected early despite serum ALT monitoring. The liver injury was self-limited and recovery was rapid. Jaundice with a mixed pattern of serum aminotransferase elevations is typical of drug induced liver injury in general and occurs frequently, but not invariably, in cases of pioglitazone associated injury.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Pioglitazone.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Pioglitazone.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Pioglitazone &#x02013; Actos&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Hypoglycemic Agents</p>
+          <p>
+<bold>COMPLETE LABELING</bold>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Pioglitazone.CHEMICAL_FORMULA_AND_STRUCT">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Pioglitazone.T3" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Pioglitazone.T3_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Pioglitazone.T3_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NUMBER</th>
+                <th id="hd_h_Pioglitazone.T3_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Pioglitazone.T3_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Pioglitazone.T3_1_1_1_1" rowspan="1" colspan="1">Pioglitazone</td>
+                <td headers="hd_h_Pioglitazone.T3_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135017830">112529-15-4</ext-link>
+</td>
+                <td headers="hd_h_Pioglitazone.T3_1_1_1_3" rowspan="1" colspan="1">C19-H20-N2-O3-S.Cl-H</td>
+                <td headers="hd_h_Pioglitazone.T3_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Pioglitazone_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Pioglitazone chemical structure</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Pioglitazone.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=(pioglitazone/AE)+AND+Human%5BMH%5D+AND+(drug+induced+liver+injury+OR+jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI)+AND+(%221900/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Pioglitazone: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=pioglitazone">Trials on Pioglitazone: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>

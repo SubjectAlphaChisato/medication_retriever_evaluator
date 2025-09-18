@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v2.0 20151225//EN" "http://jats.nlm.nih.gov/extensions/bits/2.0/BITS-book2.dtd">
+<book-part-wrapper id="Celecoxib" content-type="chapter" from-where="body" dtd-version="2.0">
+  <book-meta>
+    <book-id book-id-type="pmcid">livertox</book-id>
+    <book-title-group>
+      <book-title>LiverTox</book-title>
+      <subtitle>Clinical and Research Information on Drug-Induced Liver Injury</subtitle>
+    </book-title-group>
+    <pub-date date-type="pubr" publication-format="electronic">
+      <year>2012</year>
+    </pub-date>
+    <publisher>
+      <publisher-name>National Institute of Diabetes and Digestive and Kidney Diseases</publisher-name>
+      <publisher-loc>Bethesda (MD)</publisher-loc>
+    </publisher>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>books-source-type</meta-name>
+        <meta-value>Database</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </book-meta>
+  <book-part book-part-type="chapter">
+    <book-part-meta>
+      <book-part-id book-part-id-type="pmcid">Celecoxib</book-part-id>
+      <title-group>
+        <title>Celecoxib</title>
+      </title-group>
+      <pub-history>
+        <date date-type="updated">
+          <day>23</day>
+          <month>1</month>
+          <year>2017</year>
+        </date>
+      </pub-history>
+      <related-object link-type="parent-book-link" source-id="livertox">LiverTox: Clinical and Research Information on Drug-Induced Liver Injury</related-object>
+      <related-object link-type="previous-part-link" source-id="livertox" document-id="Ceftriaxone" document-type="chapter">Ceftriaxone</related-object>
+      <related-object link-type="next-part-link" source-id="livertox" document-id="Cemiplimab" document-type="chapter">Cemiplimab</related-object>
+    </book-part-meta>
+    <body>
+      <sec id="Celecoxib.OVERVIEW">
+        <title>OVERVIEW</title>
+        <sec id="Celecoxib.Introduction" sec-type="pubmed-excerpt">
+          <title>Introduction</title>
+          <p>Celecoxib is a nonsteroidal antiinflammatory drug (NSAID) with selectively for inhibition of cycloxgenase-2 (Cox-2), which is widely used in the therapy of arthritis. Celecoxib has been linked to rare instances of idiosyncratic drug induced liver disease.</p>
+        </sec>
+        <sec id="Celecoxib.Background">
+          <title>Background</title>
+          <p>Celecoxib (sel" e kox' ib) is a commonly used NSAID with relative Cox-2 specificity. Like other NSAIDs, celecoxib acts by inhibition of prostaglandin synthesis and thereby decreasing the mediators of inflammation, fever and pain. The specificity for Cox-2 is believed to make celecoxib less likely to cause gastrointestinal mucosal injury compared to standard NSAIDs that inhibit both Cox-1 and Cox-2 enzymes. Celecoxib is indicated for therapy of chronic arthritis due to osteoarthritis, rheumatoid arthritis, juvenile rheumatoid arthritis and ankylosing spondylitis. It is also approved for use in acute pain from musculoskeletal conditions and trauma and for primary dysmenorrheal. Because of the role of the Cox-2 enzyme system in the growth of adenomatous polyps, celecoxib has also been used to prevent adenomatous polyps formation. Celecoxib was first approved for use in the United States in 2000 and became the only Cox-2 specific NSAID available when rofecoxib was withdrawn in 2006 because of increased rate of cardiovascular events associated with its long term use. Celecoxib is available by prescription as capsules of 50, 100, 200 and 400 mg under the commercial name Celebrex and is usually given in several week courses or long term. The recommended dose varies by indication, the usual adult dose in arthritis being 100 to 200 mg twice daily. Like most NSAIDs, celecoxib is generally well tolerated, but side effects can include dizziness, headache, somnolence, rash, nausea, diarrhea, abdominal discomfort, heartburn, peripheral edema and hypersensitivity reactions.</p>
+        </sec>
+        <sec id="Celecoxib.Hepatotoxicity">
+          <title>Hepatotoxicity</title>
+          <p>In clinical studies involving several thousand patients treated for at least 3 months, the rate of serum aminotransferase enzyme elevations above three times the upper limit of the normal range was 1.1% in celecoxib treated compared to 0.9% in placebo treated patients. The ALT elevations that occurred during celecoxib therapy were uncommon and usually benign, resolving even with continuation of the medication. It is unclear whether such elevations are due to the medication since similar rates of abnormalities are identified in patients with arthritis receiving placebo. In rare instances, celecoxib appears to be capable of causing clinical apparent, symptomatic and icteric drug induced liver injury. The pattern of liver enzyme elevations has ranged from hepatocellular (Case 1) to cholestatic (Case 2). Moreover, the resulting jaundice can be prolonged and accompanied by severe pruritus and chronic fatigue (Case 3). The latency to onset of liver injury is often short and the abruptness of onset resembles the hepatotoxicity caused by the sulfonamides. Indeed, in several instances, patients with celecoxib hepatotoxicity have a past history of sulfonamide hypersensitivity. Furthermore, celecoxib liver injury may occur in patients who have been treated with the drug without incident in the past, and reexposure after celecoxib liver injury usually results in reoccurrence with shortening of the latency period. Immunoallergic features are not uncommon in patients with clinically apparent liver injury due to celecoxib, but they are rarely prominent. Stevens Johnson syndrome has been described in patients on celecoxib. Autoimmune markers and features of autoimmunity are not common, although they may be present because of the underlying disease for which the celecoxib is prescribed.</p>
+          <p>Likelihood score: B (highly likely cause of clinically apparent liver injury).</p>
+        </sec>
+        <sec id="Celecoxib.Mechanism_of_Injury">
+          <title>Mechanism of Injury</title>
+          <p>The acute hepatic injury from celecoxib resembles that of the sulfonamides and a history of sulfa-allergy is common. These features of celecoxib hepatotoxicity suggest an immune and allergic-hypersensitivity etiology.</p>
+        </sec>
+        <sec id="Celecoxib.Outcome_and_Management">
+          <title>Outcome and Management</title>
+          <p>The idiosyncratic liver injury due to celecoxib can lead to prolonged jaundice and to a vanishing bile duct syndrome that can be severe and lead to hepatic failure and need for liver transplantation. Cases of acute liver failure with massive necrosis have not been specifically linked to celecoxib therapy in the published literature, although the possibility of liver failure is mentioned in the product labeling. In the few cases of self-limited liver injury that have been described, the time to recovery has varied greatly, from a few weeks to more than a year. Rechallenge should be avoided and patients should also be told to avoid sulfa-containing medications. Corticosteroids have been used to treat the immunoallergic features of celecoxib hypersensitivity, but their role in decreasing liver injury or improving outcome has not been shown (Cases 2 and 3).</p>
+          <p>Drug Class: <related-object source-id="livertox" document-id="NonsteroidalAntiinfl">Nonsteroidal Antiinflammatory Drugs</related-object></p>
+        </sec>
+      </sec>
+      <sec id="Celecoxib.CASE_REPORTS">
+        <title>CASE REPORTS</title>
+        <sec id="Celecoxib.Case_1._Acute_hepatocellular_i">
+          <title>Case 1. Acute hepatocellular injury with jaundice due to celecoxib.</title>
+          <p>[Modified from Nachimuthu S, Volfinzon L, Gopal L. Postgrad Med J 2001; 77: 548-50]</p>
+          <p>A 67 year old woman with osteoarthritis was treated with celecoxib (100 mg twice daily) for one week during which she developed abdominal pain and jaundice. She was hospitalized and celecoxib was stopped. She had multiple other medical problems including hypertension, diabetes, coronary artery disease, congestive heart failure, peptic ulcer disease and osteoarthritis and had been taking several medications in constant doses for some time. On admission, she had fever but no rash. Her jaundice deepened for a day, but then improved rapidly. Tests for hepatitis A, B and C and for autoantibodies were negative. Ultrasound of the abdomen was normal. A liver biopsy was not done.</p>
+          <sec id="Celecoxib.Key_Points1">
+            <title>Key Points</title>
+            <table-wrap id="Celecoxib.T1" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Celecoxib.T1_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Celecoxib</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Celecoxib.T1_1_1_1_1" id="hd_b_Celecoxib.T1_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Celecoxib.T1_1_1_1_1" rowspan="1" colspan="1">Hepatocellular (R=13.8)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Celecoxib.T1_1_1_1_1" id="hd_b_Celecoxib.T1_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Celecoxib.T1_1_1_2_1" rowspan="1" colspan="1">3+ (symptoms, jaundice and hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Celecoxib.T1_1_1_1_1" id="hd_b_Celecoxib.T1_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Celecoxib.T1_1_1_3_1" rowspan="1" colspan="1">&#x0003c;1 week</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Celecoxib.T1_1_1_1_1" id="hd_b_Celecoxib.T1_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Celecoxib.T1_1_1_4_1" rowspan="1" colspan="1">Complete within 2 weeks of onset</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Celecoxib.T1_1_1_1_1" id="hd_b_Celecoxib.T1_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Celecoxib.T1_1_1_5_1" rowspan="1" colspan="1">Enalapril, metoprolol, isosorbide mononitrate, furosemide, iron, vitamin C</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Celecoxib.Laboratory_Values1">
+            <title>Laboratory Values</title>
+            <table-wrap id="Celecoxib.T2" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Celecoxib.T2_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Celecoxib.T2_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Celecoxib.T2_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Celecoxib.T2_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Celecoxib.T2_1_1_1_5" rowspan="1" colspan="1">Bilirubin* (mg/dL)</th>
+                    <th id="hd_h_Celecoxib.T2_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_1" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_3" rowspan="1" colspan="1">14</td>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_4" rowspan="1" colspan="1">76</td>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_5" rowspan="1" colspan="1">0.7</td>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_1 hd_h_Celecoxib.T2_1_1_1_2 hd_h_Celecoxib.T2_1_1_1_3 hd_h_Celecoxib.T2_1_1_1_4 hd_h_Celecoxib.T2_1_1_1_5 hd_h_Celecoxib.T2_1_1_1_6" colspan="6" rowspan="1">Celecoxib Stopped after 7 Days</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_1" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_2" rowspan="1" colspan="1">0</td>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_3" rowspan="1" colspan="1">603</td>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_4" rowspan="1" colspan="1">150</td>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_5" rowspan="1" colspan="1">4.9</td>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_6" rowspan="1" colspan="1">INR=1.02, albumin 3.4 g/dL</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_1" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_2" rowspan="1" colspan="1">1 day</td>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_3" rowspan="1" colspan="1">305</td>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_4" rowspan="1" colspan="1">161</td>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_5" rowspan="1" colspan="1">7.5</td>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_1" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_2" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_3" rowspan="1" colspan="1">23</td>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_4" rowspan="1" colspan="1">146</td>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_5" rowspan="1" colspan="1">1.9</td>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_1" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_2" rowspan="1" colspan="1">2 weeks</td>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_3" rowspan="1" colspan="1">27</td>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_4" rowspan="1" colspan="1">100</td>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_5" rowspan="1" colspan="1">0.9</td>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_1 hd_h_Celecoxib.T2_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;35</bold>
+</td>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;120</bold>
+</td>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_5" rowspan="1" colspan="1">
+<bold>&#x0003c;1.2</bold>
+</td>
+                    <td headers="hd_h_Celecoxib.T2_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+            <p>*Converted from &#x000b5;mol/L.</p>
+          </sec>
+          <sec id="Celecoxib.Comment1">
+            <title>Comment</title>
+            <p>The history and presentation of this case were typical of an immuno-allergic acute hepatitis from a medication and the only new medication that she was receiving was celecoxib. Once celecoxib was stopped, recovery was rapid. There was no mention of eosinophilia or history of allergy to sulfonamides.</p>
+          </sec>
+        </sec>
+        <sec id="Celecoxib.Case_2._Severe_cholestatic_hep">
+          <title>Case 2. Severe cholestatic hepatitis and liver failure due to celecoxib.</title>
+          <p>[Modified from El Hajj, Malik SM, Alwakeel HR, Shaikh OS, Sasatomi E, Kandil HM. Celecoxib-induced cholestatic liver failure requiring orthotopic liver transplantation. World J Gastroenterol 2009; 15: 3937-9. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/pubmed/19701976">PubMed Citation</ext-link>]</p>
+          <p>A 52 year old woman developed fatigue, pruritus and dark urine three days after starting celecoxib (200 mg, 2 to 3 times daily) for minor muscle aches. She stopped the medication (after 8 tablets), but had worsening symptoms and jaundice. One week after stopping she sought medical advice. She was a registered nurse, but had no previous history of liver disease and was known to have normal serum enzymes and to lack markers of hepatitis B, C and HIV infection. She did not drink alcohol, took no other medications or over-the-counter preparations, and denied exposures to viral hepatitis, history of drug-reactions, or specific risk factors other than nursing occupation. On examination, she was jaundiced and the liver was tender, but she had no fever or there was no mention of rash. Laboratory results showed eosinophilia (760 cells/uL) and elevated bilirubin and alkaline phosphatase levels (Table). Tests for hepatitis A, B and C were negative as were autoantibody markers. An abdominal CT scan showed no evidence of biliary tract obstruction. A liver biopsy showed cholestasis, loss of bile ducts ("ductopenia") and minimal periportal fibrosis. Over the next few weeks, her symptoms worsened and jaundice deepened. She was treated with ursodiol (500 mg twice daily) and then prednisone (40 mg daily), but bilirubin rose to 35 mg/dL and renal insufficiency developed. She had signs of progressive hepatic failure and underwent liver transplantation 54 days after the initial dose of celecoxib. The explant showed marked cholestasis and prominent ductopenia, but no cirrhosis. In follow up after transplant, her liver tests fell to normal.</p>
+          <sec id="Celecoxib.Key_Points2">
+            <title>Key Points</title>
+            <table-wrap id="Celecoxib.T3" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Celecoxib.T3_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Celecoxib</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Celecoxib.T3_1_1_1_1" id="hd_b_Celecoxib.T3_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Celecoxib.T3_1_1_1_1" rowspan="1" colspan="1">Cholestatic (R=0.6)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Celecoxib.T3_1_1_1_1" id="hd_b_Celecoxib.T3_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Celecoxib.T3_1_1_2_1" rowspan="1" colspan="1">5+ (liver transplantation)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Celecoxib.T3_1_1_1_1" id="hd_b_Celecoxib.T3_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Celecoxib.T3_1_1_3_1" rowspan="1" colspan="1">3 days to onset of symptoms</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Celecoxib.T3_1_1_1_1" id="hd_b_Celecoxib.T3_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Celecoxib.T3_1_1_4_1" rowspan="1" colspan="1">None</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Celecoxib.T3_1_1_1_1" id="hd_b_Celecoxib.T3_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Celecoxib.T3_1_1_5_1" rowspan="1" colspan="1">None</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Celecoxib.Laboratory_Values2">
+            <title>Laboratory Values</title>
+            <table-wrap id="Celecoxib.T4" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Celecoxib.T4_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Celecoxib.T4_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Celecoxib.T4_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Celecoxib.T4_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Celecoxib.T4_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Celecoxib.T4_1_1_1_6" rowspan="1" colspan="1">INR</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_1" rowspan="1" colspan="1">Pre</td>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_2" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_3" rowspan="1" colspan="1">18</td>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_4" rowspan="1" colspan="1">78</td>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_5" rowspan="1" colspan="1">0.4</td>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_6" rowspan="1" colspan="1">1.0</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_1 hd_h_Celecoxib.T4_1_1_1_2 hd_h_Celecoxib.T4_1_1_1_3 hd_h_Celecoxib.T4_1_1_1_4 hd_h_Celecoxib.T4_1_1_1_5 hd_h_Celecoxib.T4_1_1_1_6" colspan="6" rowspan="1">Celecoxib taken for three days</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_1" rowspan="1" colspan="1">10 days</td>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_2" rowspan="1" colspan="1">1 week</td>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_3" rowspan="1" colspan="1">258</td>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_4" rowspan="1" colspan="1">700</td>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_5" rowspan="1" colspan="1">10.8</td>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_6" rowspan="1" colspan="1">1.0</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_1" rowspan="1" colspan="1">24 days</td>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_2" rowspan="1" colspan="1">3 weeks</td>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_3" rowspan="1" colspan="1">297</td>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_4" rowspan="1" colspan="1">889</td>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_5" rowspan="1" colspan="1">15.0</td>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_6" rowspan="1" colspan="1">1.0</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_1" rowspan="1" colspan="1">2 months</td>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_2" rowspan="1" colspan="1">7 weeks</td>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_3" rowspan="1" colspan="1">167</td>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_4" rowspan="1" colspan="1">1024</td>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_5" rowspan="1" colspan="1">38.0</td>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_6" rowspan="1" colspan="1">2.6</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_1 hd_h_Celecoxib.T4_1_1_1_2 hd_h_Celecoxib.T4_1_1_1_3 hd_h_Celecoxib.T4_1_1_1_4 hd_h_Celecoxib.T4_1_1_1_5 hd_h_Celecoxib.T4_1_1_1_6" colspan="6" rowspan="1">Orthotopic Liver Transplantation on day 54 after starting celecoxib</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_1 hd_h_Celecoxib.T4_1_1_1_2" colspan="2" rowspan="1">6 months after transplant</td>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_3" rowspan="1" colspan="1">27</td>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_4" rowspan="1" colspan="1">100</td>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_5" rowspan="1" colspan="1">0.9</td>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_6" rowspan="1" colspan="1">1.1</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_1 hd_h_Celecoxib.T4_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;72</bold>
+</td>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;126</bold>
+</td>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Celecoxib.T4_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Celecoxib.Comment2">
+            <title>Comment</title>
+            <p>A dramatic example of severe immuno-allergic liver injury with acute cholestasis and rapid progression to vanishing bile duct syndrome and hepatic failure. Celecoxib has been linked to several instances of vanishing bile duct syndrome, but the course of injury is usually much more prolonged and can ultimately resolve.</p>
+          </sec>
+        </sec>
+        <sec id="Celecoxib.Case_3._Prolonged_mixed_injury">
+          <title>Case 3. Prolonged mixed injury with cholestasis due to celecoxib.</title>
+          <p>[Modified from a case in the database of the Drug-Induced Liver Injury Network]</p>
+          <p>A 38 year old woman with chronic back pain after a motor vehicle accident was treated with celecoxib (100 mg twice daily) for several weeks without incident and again six months later for persistence of the pain. During the second course of celecoxib, she stopped the medication after 23 days when she developed nausea and right upper abdominal pain. During the next few days she developed jaundice and pruritus and was hospitalized. She reported no other medical problems and was taking no medications except for occasional aspirin and acetaminophen for her back pains. She had no history of alcohol abuse, allergies or drug reactions. On admission, she was mildly jaundiced, but had no rash or fever. There were moderate elevations in serum aminotransferase and alkaline phosphatase levels (Table). The white blood cell count was normal without eosinophilia. Tests for hepatitis A, B and C and for autoantibodies were negative. Ultrasound and MRI of the liver and abdomen were normal without evidence of biliary obstruction. She improved very slowly and because of persistence of jaundice, a liver biopsy was done that showed intrahepatic cholestasis compatible with acute drug induced liver injury. She was treated with a short course of prednisone with no little improvement in liver tests. Serum bilirubin eventually fell into the normal range, she continued to complain of nausea and fatigue and had persistence of cholestatic liver enzyme elevations more than six months after onset.</p>
+          <sec id="Celecoxib.Key_Points3">
+            <title>Key Points</title>
+            <table-wrap id="Celecoxib.T5" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Celecoxib.T5_1_1_1_1" rowspan="1" colspan="1">Medication:</th>
+                    <td rowspan="1" colspan="1">Celecoxib</td>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th headers="hd_h_Celecoxib.T5_1_1_1_1" id="hd_b_Celecoxib.T5_1_1_1_1" rowspan="1" colspan="1">Pattern:</th>
+                    <td headers="hd_b_Celecoxib.T5_1_1_1_1" rowspan="1" colspan="1">Initially hepatocellular (R=8.4), later mixed (R=5.7&#x02192;2.8)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Celecoxib.T5_1_1_1_1" id="hd_b_Celecoxib.T5_1_1_2_1" rowspan="1" colspan="1">Severity:</th>
+                    <td headers="hd_b_Celecoxib.T5_1_1_2_1" rowspan="1" colspan="1">3+ (symptoms, jaundice and hospitalization)</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Celecoxib.T5_1_1_1_1" id="hd_b_Celecoxib.T5_1_1_3_1" rowspan="1" colspan="1">Latency:</th>
+                    <td headers="hd_b_Celecoxib.T5_1_1_3_1" rowspan="1" colspan="1">3 weeks</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Celecoxib.T5_1_1_1_1" id="hd_b_Celecoxib.T5_1_1_4_1" rowspan="1" colspan="1">Recovery:</th>
+                    <td headers="hd_b_Celecoxib.T5_1_1_4_1" rowspan="1" colspan="1">Complete within 4 months of onset</td>
+                  </tr>
+                  <tr>
+                    <th headers="hd_h_Celecoxib.T5_1_1_1_1" id="hd_b_Celecoxib.T5_1_1_5_1" rowspan="1" colspan="1">Other medications:</th>
+                    <td headers="hd_b_Celecoxib.T5_1_1_5_1" rowspan="1" colspan="1">Rarely aspirin, acetaminophen</td>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Celecoxib.Laboratory_Values3">
+            <title>Laboratory Values</title>
+            <table-wrap id="Celecoxib.T6" position="anchor" orientation="portrait">
+              <table>
+                <thead>
+                  <tr>
+                    <th id="hd_h_Celecoxib.T6_1_1_1_1" rowspan="1" colspan="1">Time After Starting</th>
+                    <th id="hd_h_Celecoxib.T6_1_1_1_2" rowspan="1" colspan="1">Time After Stopping</th>
+                    <th id="hd_h_Celecoxib.T6_1_1_1_3" rowspan="1" colspan="1">ALT (U/L)</th>
+                    <th id="hd_h_Celecoxib.T6_1_1_1_4" rowspan="1" colspan="1">Alk P (U/L)</th>
+                    <th id="hd_h_Celecoxib.T6_1_1_1_5" rowspan="1" colspan="1">Bilirubin (mg/dL)</th>
+                    <th id="hd_h_Celecoxib.T6_1_1_1_6" rowspan="1" colspan="1">Other</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_1 hd_h_Celecoxib.T6_1_1_1_2 hd_h_Celecoxib.T6_1_1_1_3 hd_h_Celecoxib.T6_1_1_1_4 hd_h_Celecoxib.T6_1_1_1_5 hd_h_Celecoxib.T6_1_1_1_6" colspan="6" rowspan="1">Celecoxib taken for 21 Days</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_1" rowspan="1" colspan="1">27 days</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_2" rowspan="1" colspan="1">4 days</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_3" rowspan="1" colspan="1">687</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_4" rowspan="1" colspan="1">304</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_5" rowspan="1" colspan="1">3.7</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_6" rowspan="1" colspan="1">Albumin 4.6</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_1" rowspan="1" colspan="1">28 days</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_2" rowspan="1" colspan="1">5 days</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_3" rowspan="1" colspan="1">476</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_4" rowspan="1" colspan="1">243</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_5" rowspan="1" colspan="1">3.9</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_6" rowspan="1" colspan="1">INR 1.0</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_1" rowspan="1" colspan="1">31 days</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_2" rowspan="1" colspan="1">8 days</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_3" rowspan="1" colspan="1">399</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_4" rowspan="1" colspan="1">264</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_5" rowspan="1" colspan="1">4.2</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_1" rowspan="1" colspan="1">5 weeks</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_2" rowspan="1" colspan="1">12 days</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_3" rowspan="1" colspan="1">312</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_4" rowspan="1" colspan="1">369</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_5" rowspan="1" colspan="1">4.9</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_6" rowspan="1" colspan="1">Liver biopsy</td>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_1" rowspan="1" colspan="1">10 weeks</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_2" rowspan="1" colspan="1">47 days</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_3" rowspan="1" colspan="1">310</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_4" rowspan="1" colspan="1">400</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_5" rowspan="1" colspan="1">2.4</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_1" rowspan="1" colspan="1">20 weeks</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_2" rowspan="1" colspan="1">17 weeks</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_3" rowspan="1" colspan="1">260</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_4" rowspan="1" colspan="1">700</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_5" rowspan="1" colspan="1">1.4</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_1" rowspan="1" colspan="1">6 months</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_2" rowspan="1" colspan="1">5 months</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_3" rowspan="1" colspan="1">87</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_4" rowspan="1" colspan="1">518</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_5" rowspan="1" colspan="1">1.0</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_1" rowspan="1" colspan="1">9 months</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_2" rowspan="1" colspan="1">8 months</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_3" rowspan="1" colspan="1">122</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_4" rowspan="1" colspan="1">588</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_5" rowspan="1" colspan="1">1.0</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                  <tr>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_1 hd_h_Celecoxib.T6_1_1_1_2" colspan="2" rowspan="1">
+<bold>Normal Values</bold>
+</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_3" rowspan="1" colspan="1">
+<bold>&#x0003c;35</bold>
+</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_4" rowspan="1" colspan="1">
+<bold>&#x0003c;120</bold>
+</td>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_5" rowspan="1" colspan="1"/>
+                    <td headers="hd_h_Celecoxib.T6_1_1_1_6" rowspan="1" colspan="1"/>
+                  </tr>
+                </tbody>
+              </table>
+            </table-wrap>
+          </sec>
+          <sec id="Celecoxib.Comment3">
+            <title>Comment</title>
+            <p>Despite the rarity of drug induced liver injury from celecoxib, this case was convincing in that there was a sudden onset of a cholestatic and prolonged hepatitis after 3 weeks of celecoxib. No other medications were being taken and no other cause for liver disease was identified. Serum enzyme elevations were initially in the hepatocellular range, but soon became distinctly cholestatic. Recovery was prolonged and incomplete. She likely has mild vanishing bile duct syndrome, not enough to cause jaundice, but enough to cause symptoms and persistent alkaline phosphatase elevations.</p>
+          </sec>
+        </sec>
+      </sec>
+      <sec id="Celecoxib.PRODUCT_INFORMATION">
+        <title>PRODUCT INFORMATION</title>
+        <boxed-text position="anchor" id="Celecoxib.BPI" orientation="portrait">
+          <p>
+<bold>REPRESENTATIVE TRADE NAMES</bold>
+</p>
+          <p>Celecoxib &#x02013; Celebrex&#x000ae;</p>
+          <p>
+<bold>DRUG CLASS</bold>
+</p>
+          <p>Nonsteroidal Antiinflammatory Drugs</p>
+          <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&#x00026;query=celecoxib">COMPLETE LABELING</ext-link>
+</p>
+          <p>Product labeling at DailyMed, National Library of Medicine, NIH</p>
+        </boxed-text>
+      </sec>
+      <sec id="Celecoxib.CHEMICAL_FORMULA_AND_STRUCTURE">
+        <title>CHEMICAL FORMULA AND STRUCTURE</title>
+        <table-wrap id="Celecoxib.T7" position="anchor" orientation="portrait">
+          <table>
+            <thead>
+              <tr>
+                <th id="hd_h_Celecoxib.T7_1_1_1_1" rowspan="1" colspan="1">DRUG</th>
+                <th id="hd_h_Celecoxib.T7_1_1_1_2" rowspan="1" colspan="1">CAS REGISTRY NO</th>
+                <th id="hd_h_Celecoxib.T7_1_1_1_3" rowspan="1" colspan="1">MOLECULAR FORMULA</th>
+                <th id="hd_h_Celecoxib.T7_1_1_1_4" rowspan="1" colspan="1">STRUCTURE</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td headers="hd_h_Celecoxib.T7_1_1_1_1" rowspan="1" colspan="1">Celecoxib</td>
+                <td headers="hd_h_Celecoxib.T7_1_1_1_2" rowspan="1" colspan="1">
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pubchem" xlink:href="sid://135021316">184007-95-2</ext-link>
+</td>
+                <td headers="hd_h_Celecoxib.T7_1_1_1_3" rowspan="1" colspan="1">C17-H14-F3-N3-O2-S</td>
+                <td headers="hd_h_Celecoxib.T7_1_1_1_4" rowspan="1" colspan="1">
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="Celecoxib_Structure.jpg" mime-subtype="jpeg" position="anchor" orientation="portrait"><alt-text>Celecoxib chemical structure</alt-text></graphic>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec id="Celecoxib.ANNOTATED_BIBLIOGRAPHY">
+        <title>ANNOTATED BIBLIOGRAPHY</title>
+        <p>References updated: 23 January 2017</p>
+        <ref-list id="Celecoxib.ANNOTATED_BIBLIOGRAPHY.reflist0">
+          <ref id="Celecoxib.R1">
+            <mixed-citation publication-type="other">Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd edition. Philadelphia: Lippincott Williams &#x00026; Wilkins, 1999. p.517-41.<annotation><p><italic toggle="yes">(Expert review of non-steroidal antiinflammatory drug (NSAID)- induced liver injury from 1999, before availability of celecoxib).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R2">
+            <mixed-citation publication-type="other">Lewis JH, Stine JG. Nonsteroidal anti-inflammatory drugs and leukotriene receptor antagonists: pathology and clinical presentation of hepatotoxicity. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd. Amsterdam: Elsevier, 2013, pp. 369-401.<annotation><p><italic toggle="yes">(Review of hepatotoxicity of NSAIDs mentions that celecoxib that cause acute cholestatic hepatitis which is usually reversible).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R3">
+            <mixed-citation publication-type="other">Grosser T, Smyth E, FitzGerald GA. Anti-inflammatory, antipyretic, and analgesic agents; pharmacotherapy of gout. In, Brunton LL, Chabner BA, Knollman BC, eds. Goodman &#x00026; Gilman&#x02019;s the pharmacological basis of therapeutics. 12th ed. New York: McGraw-Hill, 2011, pp. 987-89.<annotation><p><italic toggle="yes">(Textbook of pharmacology and therapeutics; as of 2011, celecoxib was the only Cox-2 inhibitor licensed for use in the U.S.; the selectivity of celecoxib for Cox-2 vs Cox-1 is relative and in vitro is close to that of meloxicam and diclofenac).</italic></p></annotation></mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R4">
+            <mixed-citation publication-type="journal">McCormick PA, Kennedy F, Curry M, Traynor O. COX 2 inhibitor and fulminant hepatic failure. Lancet 1999; 353: 40-1. <annotation><p><italic toggle="yes">(58 year old woman developed symptoms after 2 weeks and jaundice after 7 weeks of nimesulide, a Cox-2 inhibitor that was licensed in Europe but not in the US. ALT levels rose from 187 to 2857 U/L, Alk P from 50 to 114 U/L, and bilirubin to 6.5 mg/L; native liver showed massive necrosis at time of liver transplantation and patient died of primary non-function).</italic></p></annotation><pub-id pub-id-type="pmid">10023957</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R5">
+            <mixed-citation publication-type="journal">Carrillo-Jimenez R, Nurnberger M. Celecoxib-induced acute pancreatitis and hepatitis: a case report. Arch Intern Med 2000; 160: 553-4. <annotation><p><italic toggle="yes">(84 year old man with a history of sulfa-allergy developed acute pancreatitis 2 days after starting celecoxib [ALT 210 U/L, no jaundice], resolving rapidly).</italic></p></annotation><pub-id pub-id-type="pmid">10695699</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R6">
+            <mixed-citation publication-type="journal">Maddrey WC, Maurath CJ, Verburg KM, Geis GS. The hepatic safety and tolerability of the novel cyclooxygenase-2 inhibitor celecoxib. Am J Ther 2000; 7: 153-8.<annotation><p><italic toggle="yes">(Combined analyses of 14 controlled trials of celecoxib: ALT elevations &#x0003e;3 times ULN occurred in 0.4% of 6376 patients on celecoxib compared to 0.5% of 1864 on placebo, 0.4% of 1366 on naproxen, 0% of 345 on ibuprofen and 2.1% of 1057 on diclofenac; none developed clinically apparent liver injury).</italic></p></annotation><pub-id pub-id-type="pmid">11317164</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R7">
+            <mixed-citation publication-type="journal">Whelton A. COX-1 sparing and COX-2 inhibitory drugs: the renal and hepatic safety and tolerability profiles of celecoxib. Am J Ther 2000; 7: 151-2. <annotation><p><italic toggle="yes">(Editorial in response to article by Maddrey et al).</italic></p></annotation><pub-id pub-id-type="pmid">11317163</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R8">
+            <mixed-citation publication-type="journal">Silverstein FE, Faich G, Goldstein JL, Simon LS, Pincus T, Whelton A, Makuch R, et al. Gastrointestinal toxicity with celecoxib vs nonsteroidal anti-inflammatory drugs for osteoarthritis and rheumatoid arthritis: the CLASS study: A randomized controlled trial. Celecoxib Long-term Arthritis Safety Study. JAMA 2000; 284: 1247-55. <annotation><p><italic toggle="yes">(Controlled trial of celecoxib [3987] vs ibuprofen [1985] or diclofenac [1996]: rates of ulcer complications [0.7% vs 1.4% per year] and ALT elevations [0.5% vs 1.8% in first 6 months] were lower in patients on celecoxib vs standard NSAIDs).</italic></p></annotation><pub-id pub-id-type="pmid">10979111</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R9">
+            <mixed-citation publication-type="journal">Galan MV, Gordon SC, Silverman AL. Celecoxib-induced cholestatic hepatitis. Ann Intern Med 2001; 134: 254. <annotation><p><italic toggle="yes">(55 year old woman developed rash, jaundice and eosinophilia 3 weeks after starting celecoxib [bilirubin 12.2 mg/dL, ALT 264 U/L, Alk P 283 U/L] with prolonged cholestasis but resolving 4 months after stopping).</italic></p></annotation><pub-id pub-id-type="pmid">11177350</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R10">
+            <mixed-citation publication-type="journal">Nachimuthu S, Volfinzon L, Gopal L. Acute hepatocellular and cholestatic injury in a patient taking celecoxib. Postgrad Med J 2001; 77: 548-50. <annotation><p><italic toggle="yes">(67 year old woman developed pain, fever and jaundice 1 week after starting celecoxib [bilirubin 4.9 mg/dL, ALT 603 U/L, Alk P 150 U/L], resolving within 2 weeks of stopping: Case 1).</italic></p></annotation><pub-id pub-id-type="pmid">11470953</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R11">
+            <mixed-citation publication-type="journal">O'Beirne JP, Cairns SR. Drug Points: Cholestatic hepatitis in association with celecoxib. BMJ 2001; 323: 23. <annotation><p><italic toggle="yes">(54 year old woman developed jaundice and eosinophiliia a few days after restarting celecoxib [bilirubin 7.2 mg/dL, ALT 1650 U/L, Alk P 232 U/L], resolving within 4 weeks).</italic></p></annotation><pub-id pub-id-type="pmid">11440939</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R12">
+            <mixed-citation publication-type="journal">Mohammed F, Smith AD. Cholestatic hepatitis in association with celecoxib. Classification of drug associated liver dysfunction is questionable. BMJ 2002; 325: 220; author reply 220. <annotation><p><italic toggle="yes">(Letter in response to O&#x02019;Beirne article suggesting that the injury was hepatocellular rather than cholestatic).</italic></p></annotation><pub-id pub-id-type="pmid">12142317</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R13">
+            <mixed-citation publication-type="journal">Arellano FM, Zhao SZ, Reynolds MW. Case of cholestatic hepatitis with celecoxib did not fulfil international criteria. BMJ 2002; 324: 789. <annotation><p><italic toggle="yes">(Letter in response to O&#x02019;Beirne).</italic></p></annotation><pub-id pub-id-type="pmid">11923170</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R14">
+            <mixed-citation publication-type="journal">Alegria P, Lebre L, Chagas C. Celecoxib-induced cholestatic hepatotoxicity in a patient with cirrhosis. Ann Intern Med 2002; 137: 75. <annotation><p><italic toggle="yes">(49 year old man with alcoholic cirrhosis developed jaundice 15 days after starting celecoxib [bilirubin 31.6 mg/dL, ALT 49 U/L, Alk P 205 U/L]; reversing only after ~12 months).</italic></p></annotation><pub-id pub-id-type="pmid">12093262</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R15">
+            <mixed-citation publication-type="journal">Grieco A, Miele L, Giorgi A, Civello IM, Gasbarrini G. Acute cholestatic hepatitis associated with celecoxib. Ann Pharmacother 2002; 36: 1887-9. <annotation><p><italic toggle="yes">(41 year old man developed jaundice after 2 doses of celecoxib [bilirubin rising to 17.4 mg/dL, ALT 97 U/L, Alk P 302 U/L, no eosinophilia]; resolving in 3 weeks).</italic></p></annotation><pub-id pub-id-type="pmid">12452750</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R16">
+            <mixed-citation publication-type="journal">Waldum HL. Comment: acute cholestatic hepatitis associated with celecoxib. Ann Pharmacother 2003; 37: 748; author reply 748-9. <annotation><p><italic toggle="yes">(Letter suggesting that liver injury described by Grieco [2002] was due to Sphincter of Oddi spasm with reply from authors suggesting not).</italic></p></annotation><pub-id pub-id-type="pmid">12708959</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R17">
+            <mixed-citation publication-type="journal">Burdan F, Korobowicz A. [Coxibs: highly selective cyclooxygenase-2 inhibitors. Part II. Side effects.] Pol Merkur Lekarski 2003; 14: 352-5. Polish. <pub-id pub-id-type="pmid">12868201</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R18">
+            <mixed-citation publication-type="journal">Fradet G, Robin-Le Nechet A, Huguenin H, Chiffoleau A. [Hypersensitivity to celecoxib.] Ann Med Interne (Paris) 2003; 154: 181-2. French. <pub-id pub-id-type="pmid">12910047</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R19">
+            <mixed-citation publication-type="journal">Zinsser P, Meyer-Wyss B, Rich P. Hepatotoxicity induced by celecoxib and amlodipine. Swiss Med Wkly 2004; 134: 201. <annotation><p><italic toggle="yes">(Patient developed hepatitis after 2 years of intermittent celecoxib therapy [bilirubin ~8 mg/dL, ALT 1058 U/L, Alk P 1102 U/L]; clinical recovery within 2 months of stopping, biochemical resolution in 1 year).</italic></p></annotation><pub-id pub-id-type="pmid">15106034</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R20">
+            <mixed-citation publication-type="journal">Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl 2004; 10: 1018-23. 15390328.<annotation><p><italic toggle="yes">(Among ~50,000 liver transplants reported to UNOS between 1990 and 2002, 270 [0.5%] were done for drug-induced liver failure; 1 was attributed to bromfenac, 1 to naproxen, but none to celecoxib)</italic></p></annotation><pub-id pub-id-type="pmid">15390328</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R21">
+            <mixed-citation publication-type="journal">Campbell MS, Makar GA. Safety of short-term administration of celecoxib in decompensated cirrhosis. Hepatology 2005; 42: 237; author reply 238. <annotation><p><italic toggle="yes">(Criticism of previous report on renal function in cirrhosis and celecoxib).</italic></p></annotation><pub-id pub-id-type="pmid">15892075</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R22">
+            <mixed-citation publication-type="journal">Chamouard P, Walter P, Baumann R, Poupon R. Prolonged cholestasis associated with short-term use of celecoxib. Gastroenterol Clin Biol 2005; 29: 1286-8. (<italic toggle="yes">3</italic><annotation><p><italic toggle="yes">2 year old woman developed jaundice and pruritus 3 weeks after starting a 12 day course of celecoxib [bilirubin 20 mg/dL, ALT 69 U/L, Alk P 613 U/L]; jaundice required 3 months to resolve, pruritus disappearing only after 18 months).</italic></p></annotation><pub-id pub-id-type="pmid">16518289</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R23">
+            <mixed-citation publication-type="journal">Ogunlade SO, Oginni LM, Nwadiaro HC, et al. The efficacy and toleration of celecoxib (Celebrex) in the treatment of osteoarthritis in Nigeria: a multicentre study. West Afr J Med 2005; 24: 263-7. <annotation><p><italic toggle="yes">(Trial of celecoxib in 80 patients with osteoarthritis: no hepatic changes noted during 6 weeks of therapy).</italic></p></annotation><pub-id pub-id-type="pmid">16276709</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R24">
+            <mixed-citation publication-type="journal">Rostom A, Goldkind L, Laine L. Nonsteroidal anti-inflammatory drugs and hepatic toxicity: a systematic review of randomized controlled trials in arthritis patients. Clin Gastroenterol Hepatol 2005; 3: 489-98. <annotation><p><italic toggle="yes">(Systematic review of trials reporting side effects from different NSAIDs: found rate of ALT elevations &#x0003e;3 fold elevated to be 0.4% among 12,750 celecoxib-treated persons, equivalent to that in placebo recipients [0.3%]; no episodes of clinically apparent hepatitis).</italic></p></annotation><pub-id pub-id-type="pmid">15880319</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R25">
+            <mixed-citation publication-type="journal">Lapeyre-Mestre M, de Castro AM, Bareille MP, Garcia del Pozo J, Requejo AA, Arias LM, Montastruc J-L, et al. Non-steroidal anti-inflammatory drug-related hepatic damage in France and Spain: analysis from national spontaneous reporting systems. Fundam Clin Pharmacol 2006; 20: 391-5. <annotation><p><italic toggle="yes">(Study comparing rates of spontaneous reporting of adverse events to use of different NSAIDs in Spain and France found high rate of liver reports [compared to all types] for sulindac and nimesulide, low for celecoxib: 6 cases of hepatotoxicity attributed to celecoxib from Spain and 6 from France between 1982 and 2001).</italic></p></annotation><pub-id pub-id-type="pmid">16867024</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R26">
+            <mixed-citation publication-type="journal">Sanchez-Matienzo D, Arana A, Castellsague J, Perez-Gutthann S. Hepatic disorders in patients treated with COX-2 selective inhibitors or nonselective NSAIDs: a case/noncase analysis of spontaneous reports. Clin Ther 2006; 28: 1123-32. <annotation><p><italic toggle="yes">(Review of FDA Medwatch reports of adverse events: 158,539 received, 3% liver-related; higher proportion liver adverse events for sulindac, diclofenac and nimesulide; not for other Cox-2 inhibitors).</italic></p></annotation><pub-id pub-id-type="pmid">16982289</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R27">
+            <mixed-citation publication-type="journal">Tabibian JH, Tabibian N, Kaufman DM. Late-onset celecoxib-induced combined hepato-nephrotoxicity. BJCP 2008; 66: 150-1. <annotation><p><italic toggle="yes">(56 year old man developed fatigue and abdominal pain followed by jaundice, 10 months after starting celecoxib, [bilirubin 32.4 mg/dL, creatinine 5.2 mg/dL, ALT and Alk P normal] with biopsy showing liver injury; improving on stopping therapy).</italic></p></annotation><pub-id pub-id-type="pmid">18325075</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R28">
+            <mixed-citation publication-type="journal">Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J; Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology 2008; 135: 1924-34. <annotation><p><italic toggle="yes">(Among 300 cases of drug-induced liver disease in the U.S. collected from 2004 to 2008, NSAIDs were implicated as a sole agent in 8 cases [4 diclofenac, 2 celecoxib, 1 meloxicam, 1 oxaprozin] and as one of several agents in 3 cases [1 diclofenac, 1 celecoxib, 1 ibuprofen]: Case 3).</italic></p></annotation><pub-id pub-id-type="pmid">18955056</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R29">
+            <mixed-citation publication-type="journal">Soni P, Shell B, Cawkwell G. The hepatic safety and tolerability of the cyclooxygenase-2 selective NSAID celecoxib: pooled analysis of 41 randomized controlled trials. Curr Med Res Opin 2009; 25: 1841-51. <annotation><p><italic toggle="yes">(Retrospective analysis of 41 controlled trials of celecoxib vs placebo or other NSAIDS; found ALT elevations &#x0003e; 5 times ULN similar in celecoxib (1.1%) as placebo-treated (0.9%) and lower than with diclofenac (4.2%); no clinically apparent hepatitis among 24,933 celecoxib recipients).</italic></p></annotation><pub-id pub-id-type="pmid">19530981</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R30">
+            <mixed-citation publication-type="journal">El Hajj, Malik SM, Alwakeel HR, Shaikh OS, Sasatomi E, Kandil HM. Celecoxib-induced cholestatic liver failure requiring orthotopic liver transplantation. World J Gastroenterol 2009; 15: 3937-9. <annotation><p><italic toggle="yes">(52 year old woman developed fatigue, pruritus and dark urine 3 days after starting celecoxib [bilirubin 10.8 mg/dL, ALT 258 U/L, Alk P 700 U/L]; progressing to hepatic failure and need for liver transplant 51 days later: Case 2). </italic></p></annotation><pub-id pub-id-type="pmid">19701976</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R31">
+            <mixed-citation publication-type="journal">Lee CH, Wang JD, Chen PC. Increased risk of hospitalization for acute hepatitis in patients with previous exposure to NSAIDs. Pharmacoepidemiol Drug Saf 2010; 19: 808-14. (Analysis of Taiwan National Health Insurance database for association of NSAID use and toxic hepatitis found increased odds of recent use of celecoxib [Odds Ratio=1.92], nimesulide [2.63] and diclofenac [2.22],<annotation><p><italic toggle="yes">and ibuprofen [2.51]).</italic></p></annotation><pub-id pub-id-type="pmid">20582911</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R32">
+            <mixed-citation publication-type="journal">Reuben A, Koch DG, Lee WM; Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology 2010; 52: 2065-76. <annotation><p><italic toggle="yes">(Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 were attributed to drug-induced liver injury of which 7 were due to NSAIDs, including 4 attributed to bromfenac, 2 to diclofenac and 1 to etodolac, but none to celecoxib). </italic></p></annotation><pub-id pub-id-type="pmid">20949552</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R33">
+            <mixed-citation publication-type="journal">Famularo G, Gasbarrone L, Minisola G. Probable celecoxib-induced hepatorenal syndrome. Ann Pharmacother 2012; 46: 610-1. 22474138.<annotation><p><italic toggle="yes">(77 year old woman developed fever and fatigue 12 days after starting celecoxib for gout [bilirubin 2.4 mg/dL, ALT 398 U/L, Alk P 696 U/L, INR 5.0 on warfarin, creatinine 3.0 mg/dL] resolving within 1 week of stopping: renal abnormalities likely due to dehydration rather than hepatorenal syndrome).</italic></p></annotation><pub-id pub-id-type="pmid">22474138</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R34">
+            <mixed-citation publication-type="journal">Gulmez SE, Larrey D, Pageaux GP, Lignot S, Lassalle R, Jov&#x000e9; J, Gatta A, et al. Transplantation for acute liver failure in patients exposed to NSAIDs or paracetamol (acetaminophen): the multinational case-population SALT study. Drug Saf 2013; 36: 135-44. <annotation><p><italic toggle="yes"> (Analysis of cases of idopathic acute liver failure undergoing liver transplantation in 52 centers in Europe between 2005 and 2007, found 40 had been exposed to an NSAID [14 to ibuprofen] within the previous 30 days with estimated event rates of 2.3 per million treatment-years for ibuprofen).</italic></p></annotation><pub-id pub-id-type="pmid">23325533</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R35">
+            <mixed-citation publication-type="journal">Lapeyre-Mestre M, Grolleau S, Montastruc JL; Adsociation Fran&#x000e7;aise des Centres R&#x000e9;gionaux de Pharmacovigilance (CRPV). Adverse drug reactions associated with the use of NSAIDs: a case/noncase analysis of spontaneous reports from the French pharmacovigilance database 2002-2006. Fundam Clin Pharmacol 2013; 27: 223-30. <annotation><p><italic toggle="yes">(Analysis of 42,389 spontaneous serious adverse event reports to the French Pharmacovigilance database on 8 NSAIDs between 2002 and 2006; liver adverse events were most frequent with nimesulide [0.15 per million daily doses] compared to diclofenac [0.09], ketoprofen [0.09] piroxicam [0.06], naproxen [0.04], meloxicam [0.03], and tenoxicam [0.03]; celecoxib not discussed).</italic></p></annotation><pub-id pub-id-type="pmid">21929527</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R36">
+            <mixed-citation publication-type="journal">Nayudu SK, Badipatla S, Niazi M, Balar B. Cholestatic hepatitis with small duct injury associated with celecoxib. Case Rep Med 2013; 2013: 315479. <annotation><p><italic toggle="yes">(34 year old woman developed jaundice 3 weeks after starting celecoxib for menstral pain [bilirubin 3.4 mg/dL, ALT 458 U/L, Alk P 231 U/L], resolving within 1 month of stopping).</italic></p></annotation><pub-id pub-id-type="pmid">23861685</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R37">
+            <mixed-citation publication-type="journal">Bj&#x000f6;rnsson ES, Bergmann OM, Bj&#x000f6;rnsson HK, Kvaran RB, Olafsson S. Incidence, presentation and outcomes in patients with drug-induced liver injury in the general population of Iceland. Gastroenterology 2013; 144: 1419-25 <annotation><p><italic toggle="yes">(In a population based study of drug induced liver injury from Iceland, 96 cases were identified over a 2 year period, including 6 attributed to diclofenac [ranking 2nd], but none due to celecoxib). </italic></p></annotation><pub-id pub-id-type="pmid">23419359</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R38">
+            <mixed-citation publication-type="journal">Hern&#x000e1;ndez N, Bessone F, S&#x000e1;nchez A, di Pace M, Brahm J, Zapata R, A Chirino R, et al. Profile of idiosyncratic drug induced liver injury in Latin America. An analysis of published reports. Ann Hepatol 2014; 13: 231-9. <annotation><p><italic toggle="yes"> (Systematic review of literature of drug induced liver injury in Latin American countries published from 1996 to 2012 identified 176 cases, the most common class of implicated agents being NSAIDS [n=62, 32%], but specific agents were nimesulide [n=53], piroxicam [5], diclofenac [2], gold salts [1], and naproxen [1]; celecoxib was not listed]).</italic></p></annotation><pub-id pub-id-type="pmid">24552865</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R39">
+            <mixed-citation publication-type="journal">Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-1352.e7. <annotation><p><italic toggle="yes">(Among 899 cases of drug induced liver injury enrolled in a US prospective study between 2004 and 2013, 3 cases [0.3%] were attributed to celecoxib, with latencies of 16, 23 and 145 days, hepatocellular or mixed enzyme elevations and self-limited course in 2 and prolonged cholestasis in one).</italic></p></annotation><pub-id pub-id-type="pmid">25754159</pub-id>
+</mixed-citation>
+          </ref>
+          <ref id="Celecoxib.R40">
+            <mixed-citation publication-type="journal">Schmeltzer PA, Kosinski AS, Kleiner DE, Hoofnagle JH, Stolz A, Fontana RJ, Russo MW; Drug-Induced Liver Injury Network (DILIN).. Liver injury from nonsteroidal anti-inflammatory drugs in the United States. Liver Int 2016; 36: 603-9. <annotation><p><italic toggle="yes">(Among 1221 cases of drug induced liver injury enrolled in a prospective, US database between 2004 and 2014, 30 cases [2.5%] were attributed to NSAIDs, including 3 due to celecoxib: Case 3).</italic></p></annotation><pub-id pub-id-type="pmid">26601797</pub-id>
+</mixed-citation>
+          </ref>
+        </ref-list>
+      </sec>
+      <sec id="Celecoxib.OTHER_REFERENCE_LINKS" sec-type="link-group">
+        <title>OTHER REFERENCE LINKS</title>
+        <list list-type="order">
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/sites/entrez?cmd=search&#x00026;db=pubmed&#x00026;pubmedfilters=true&#x00026;term=celecoxib+AND+sulfonamides/AE+AND+Human%5BMH%5D+AND+(jaundice/CI+OR+bile+duct+diseases/CI+OR+liver/DE+OR+liver+diseases/CI+OR+hepatitis,+toxic%5BMH%5D)+AND+(%222008/1/1%22%5BEDat%5D%3A%222999/12/31%22%5BEDat%5D)">Recent References on Celecoxib: from PubMed.gov</ext-link>
+</p>
+          </list-item>
+          <list-item>
+            <p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/results?term=celecoxib">Trials on Celecoxib: from ClinicalTrials.gov</ext-link>
+</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+  </book-part>
+</book-part-wrapper>
